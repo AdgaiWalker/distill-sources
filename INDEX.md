@@ -8,7 +8,7 @@
 
 原文件不移动、不改名、不改内容。本文件与 `index/classification.csv`、人物卡里的材料清单由 [`scripts/classify.py`](scripts/classify.py) 根据 [`people.yaml`](people.yaml) 生成，可重跑。
 
-生成时间：2026-11-22 18:11（北京时间）。合计条目：1290。
+生成时间：2026-11-22 18:14（北京时间）。合计条目：1437。
 
 ## 用途：出海
 
@@ -35,9 +35,18 @@
 |---|---|---|---:|---:|---:|---|
 | 土豆姐（lauren） | AI 工具 | AI 工具 | 45 | 45 | 0 | [poteto.md](people/poteto.md) |
 
+## 用途：自媒体
+
+这类知识用来蒸馏「自媒体」相关 skill。2 人，147 条。
+
+| 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |
+|---|---|---|---:|---:|---:|---|
+| 小晚不在 | 自媒体 | 自媒体 | 63 | 63 | 0 | [bbkirstry.md](people/bbkirstry.md) |
+| 逸尘 | 自媒体 | 自媒体 | 84 | 84 | 0 | [gengdaj.md](people/gengdaj.md) |
+
 ## 可见性
 
-合计 public 1270，member 20。
+合计 public 1417，member 20。
 
 - `public`：公开公众号文章、公开 X 帖、公开的开源仓库。
 - `member`：会员群材料、会员 GitHub 仓；拿不准的也标 member（例如非公开笔记）。

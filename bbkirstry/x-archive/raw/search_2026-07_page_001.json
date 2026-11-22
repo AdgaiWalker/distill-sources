@@ -1,0 +1,2550 @@
+{
+  "data": [
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T16:26:04.000Z",
+      "edit_history_tweet_ids": [
+        "2083227705521430903"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1276042073616121856",
+            "start": 0,
+            "username": "LgyLight"
+          }
+        ]
+      },
+      "id": "2083227705521430903",
+      "in_reply_to_user_id": "1276042073616121856",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 61,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083225879883506119",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LgyLight 没想到吧！！",
+      "url": "https://x.com/bbkirstry/status/2083227705521430903"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T14:14:35.000Z",
+      "edit_history_tweet_ids": [
+        "2083194619828035612"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1650706290929446912",
+            "start": 0,
+            "username": "isnail"
+          }
+        ]
+      },
+      "id": "2083194619828035612",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 103,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@isnail 说笑了hhhhhh",
+      "url": "https://x.com/bbkirstry/status/2083194619828035612"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T14:13:33.000Z",
+      "edit_history_tweet_ids": [
+        "2083194357424017410"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1995137773607743489",
+            "start": 0,
+            "username": "siwusuAI"
+          }
+        ]
+      },
+      "id": "2083194357424017410",
+      "in_reply_to_user_id": "1995137773607743489",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 92,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083191018686644587",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@siwusuAI 🥳好会夸！",
+      "url": "https://x.com/bbkirstry/status/2083194357424017410"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T13:54:19.000Z",
+      "edit_history_tweet_ids": [
+        "2083189519348875488"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1893529808082214916",
+            "start": 0,
+            "username": "killingbaby1103"
+          }
+        ]
+      },
+      "id": "2083189519348875488",
+      "in_reply_to_user_id": "1893529808082214916",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083178207541682548",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@killingbaby1103 那不是～有逻辑的",
+      "url": "https://x.com/bbkirstry/status/2083189519348875488"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T12:47:08.000Z",
+      "edit_history_tweet_ids": [
+        "2083172611870322973"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1893529808082214916",
+            "start": 0,
+            "username": "killingbaby1103"
+          }
+        ]
+      },
+      "id": "2083172611870322973",
+      "in_reply_to_user_id": "1893529808082214916",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 152,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083172299763835011",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@killingbaby1103 我完全没有想过“做”x🤣想到什么发什么！发现大家很感兴趣的就顺手搬回红书和抖音",
+      "url": "https://x.com/bbkirstry/status/2083172611870322973"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T12:29:39.000Z",
+      "edit_history_tweet_ids": [
+        "2083168210363584612"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1842452575586811904",
+            "start": 0,
+            "username": "heyfuxixi"
+          }
+        ]
+      },
+      "id": "2083168210363584612",
+      "in_reply_to_user_id": "1842452575586811904",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 32,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083102221508727076",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@heyfuxixi 我是谁 ➡️ 我和别人哪里不一样 ➡️ 大家平时都夸赞我什么点做得好 ➡️ 怎么让更多人知道我做的很棒",
+      "url": "https://x.com/bbkirstry/status/2083168210363584612"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T12:19:03.000Z",
+      "edit_history_tweet_ids": [
+        "2083165543134326900"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1276042073616121856",
+            "start": 0,
+            "username": "LgyLight"
+          }
+        ]
+      },
+      "id": "2083165543134326900",
+      "in_reply_to_user_id": "1276042073616121856",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083149361668857884",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LgyLight 是的！感谢我的AI导师🙏",
+      "url": "https://x.com/bbkirstry/status/2083165543134326900"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2083164631712038912"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T12:16:53.000Z",
+      "edit_history_tweet_ids": [
+        "2083164872838459657",
+        "2083164996306182457"
+      ],
+      "id": "2083164996306182457",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1097,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "今天有个咨询的case，让我想到\n为什么很多人，明知道某个选择和动作做得不对还是不愿意改\n\n我的结论是，因为人很难背叛自己\n\n改变认知最难的不是接受一个新观点，是承认自己过去看到的世界并不完整，而这无异于对过去的自我的一种「背叛」\n\n人很难放下自己过往赖以生存的信念 https://t.co/sBMFGnwcMd",
+      "url": "https://x.com/bbkirstry/status/2083164996306182457"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2083164631712038912"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T12:16:23.000Z",
+      "edit_history_tweet_ids": [
+        "2083164872838459657",
+        "2083164996306182457"
+      ],
+      "id": "2083164872838459657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "今天有个咨询的case，让我想到\n为什么很多人，明知道某个选择和动作做得不对还是不愿意改\n\n我的结论是，因为人很难背叛自己\n\n改变认知最难的不是接受一个新观点，是承认自己过去看到的世界并不完整，而这无异于对过去的自我的一种「背叛」\n\n人很难放下自己过往赖以生存的信念 https://t.co/sAiDQf05s9",
+      "url": "https://x.com/bbkirstry/status/2083164872838459657"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T07:37:42.000Z",
+      "edit_history_tweet_ids": [
+        "2083094737129779407"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 148,
+            "start": 125,
+            "url": "https://t.co/pJqHbgwcIJ"
+          }
+        ]
+      },
+      "id": "2083094737129779407",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1463,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083090016910340345",
+          "type": "quoted"
+        }
+      ],
+      "text": "真的非常有共鸣！！\n从我第一条视频爆了之后，麦当就一直跟我说：\n\n「珍惜你还拥有小白视角的时间，多为他们出优质内容吧」\n\n作为努力探索AI、走在前面一点的职场内容人、自媒体创作者、技术人员，对于“AI 基础”的理解其实跟真正的AI小白完全完全不一样 https://t.co/pJqHbgwcIJ",
+      "url": "https://x.com/bbkirstry/status/2083094737129779407"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T04:43:40.000Z",
+      "edit_history_tweet_ids": [
+        "2083050942627467738"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1926466086762921984",
+            "start": 0,
+            "username": "Jackywxsz"
+          }
+        ]
+      },
+      "id": "2083050942627467738",
+      "in_reply_to_user_id": "1926466086762921984",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 63,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083041668589298094",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Jackywxsz 谢谢Jacky哥分享！🙈",
+      "url": "https://x.com/bbkirstry/status/2083050942627467738"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T04:26:21.000Z",
+      "edit_history_tweet_ids": [
+        "2083046583093047554"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1518175759747076098",
+            "start": 0,
+            "username": "jiamu_future"
+          }
+        ]
+      },
+      "id": "2083046583093047554",
+      "in_reply_to_user_id": "1518175759747076098",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 48,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083039668128587973",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jiamu_future 非常支持！本质还是要回归到做自己🧸\n打磨并成为更好的自己！",
+      "url": "https://x.com/bbkirstry/status/2083046583093047554"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T04:03:43.000Z",
+      "edit_history_tweet_ids": [
+        "2083040890415874503"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1545813257843134465",
+            "start": 0,
+            "username": "czzzzzzJ_"
+          }
+        ]
+      },
+      "id": "2083040890415874503",
+      "in_reply_to_user_id": "1545813257843134465",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083040649293726007",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@czzzzzzJ_ 🕴️🕴️🕴️🕴️咋这样！",
+      "url": "https://x.com/bbkirstry/status/2083040890415874503"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T03:37:38.000Z",
+      "edit_history_tweet_ids": [
+        "2083034325688500402"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1881986830612234240",
+            "start": 0,
+            "username": "AiWorking_Lab"
+          }
+        ]
+      },
+      "id": "2083034325688500402",
+      "in_reply_to_user_id": "1881986830612234240",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 685,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083032445952409628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AiWorking_Lab 哈哈谢谢！",
+      "url": "https://x.com/bbkirstry/status/2083034325688500402"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-31T03:23:19.000Z",
+      "edit_history_tweet_ids": [
+        "2083030722366091304"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 76,
+            "start": 53,
+            "url": "https://t.co/2BPGcDyNC9"
+          }
+        ]
+      },
+      "id": "2083030722366091304",
+      "public_metrics": {
+        "bookmark_count": 132,
+        "impression_count": 17209,
+        "like_count": 116,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082767816009359743",
+          "type": "quoted"
+        }
+      ],
+      "text": "说整就整！\n\n小晚🥣公众号排版skill来了！欢迎测试：\nhttps://t.co/LpE3DFOtEl https://t.co/2BPGcDyNC9",
+      "url": "https://x.com/bbkirstry/status/2083030722366091304"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T16:48:56.000Z",
+      "edit_history_tweet_ids": [
+        "2082871075097211134"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "2022118285983232001",
+            "start": 0,
+            "username": "xmmxovo"
+          }
+        ]
+      },
+      "id": "2082871075097211134",
+      "in_reply_to_user_id": "2022118285983232001",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 699,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082857614300581973",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xmmxovo 支持！！",
+      "url": "https://x.com/bbkirstry/status/2082871075097211134"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T16:07:53.000Z",
+      "edit_history_tweet_ids": [
+        "2082860741770809589"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1995137773607743489",
+            "start": 0,
+            "username": "siwusuAI"
+          }
+        ]
+      },
+      "id": "2082860741770809589",
+      "in_reply_to_user_id": "1995137773607743489",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 595,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082860108040819010",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@siwusuAI 我真觉得可以写 公众号现在接广也蛮多的",
+      "url": "https://x.com/bbkirstry/status/2082860741770809589"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2082860249783177216"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T16:06:01.000Z",
+      "edit_history_tweet_ids": [
+        "2082860272906313996"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1596695231717871616",
+            "start": 0,
+            "username": "dontbesilent"
+          }
+        ]
+      },
+      "id": "2082860272906313996",
+      "in_reply_to_user_id": "1596695231717871616",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1289,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082854720738381875",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dontbesilent 也许 可以参考公众号菜单栏？ https://t.co/8np9mOolFx",
+      "url": "https://x.com/bbkirstry/status/2082860272906313996"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T14:56:54.000Z",
+      "edit_history_tweet_ids": [
+        "2082842878511141290"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "2072571412234321921",
+            "start": 0,
+            "username": "ShowYourHands_"
+          }
+        ]
+      },
+      "id": "2082842878511141290",
+      "in_reply_to_user_id": "2072571412234321921",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 607,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082840439745622162",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ShowYourHands_ 看到你的感叹号我就知道真的很棒！！！！？！",
+      "url": "https://x.com/bbkirstry/status/2082842878511141290"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T10:28:17.000Z",
+      "edit_history_tweet_ids": [
+        "2082775279970533820"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1518175759747076098",
+            "start": 0,
+            "username": "jiamu_future"
+          }
+        ]
+      },
+      "id": "2082775279970533820",
+      "in_reply_to_user_id": "1518175759747076098",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 471,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082773836916003318",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jiamu_future 谢谢甲木老师让我用上如此优质的skill！🍻",
+      "url": "https://x.com/bbkirstry/status/2082775279970533820"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T09:55:15.000Z",
+      "edit_history_tweet_ids": [
+        "2082766966067253601"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2013470525574766593",
+            "start": 0,
+            "username": "MaoyanRao"
+          }
+        ]
+      },
+      "id": "2082766966067253601",
+      "in_reply_to_user_id": "2013470525574766593",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082764997751668990",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MaoyanRao 我有一个习惯，视频/电话/会议都会开录音转写，所以我累积了非常大量的文本和我自己的语料库",
+      "url": "https://x.com/bbkirstry/status/2082766966067253601"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2082766626928361473"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T09:53:56.000Z",
+      "edit_history_tweet_ids": [
+        "2082766634272608736"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2013470525574766593",
+            "start": 0,
+            "username": "MaoyanRao"
+          }
+        ]
+      },
+      "id": "2082766634272608736",
+      "in_reply_to_user_id": "2013470525574766593",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 56,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082766013251395729",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MaoyanRao 问到我的统治区了 https://t.co/JFwoNvKfel",
+      "url": "https://x.com/bbkirstry/status/2082766634272608736"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T08:33:13.000Z",
+      "edit_history_tweet_ids": [
+        "2082746322998952147"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1947553138007019524",
+            "start": 0,
+            "username": "Ronnie927847080"
+          }
+        ]
+      },
+      "id": "2082746322998952147",
+      "in_reply_to_user_id": "1947553138007019524",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082746146762703090",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Ronnie927847080 老师我们这边走水上还是水下？",
+      "url": "https://x.com/bbkirstry/status/2082746322998952147"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T08:30:42.000Z",
+      "edit_history_tweet_ids": [
+        "2082745688006463712"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1947553138007019524",
+            "start": 0,
+            "username": "Ronnie927847080"
+          }
+        ]
+      },
+      "id": "2082745688006463712",
+      "in_reply_to_user_id": "1947553138007019524",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082745511044669486",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Ronnie927847080 老板的朋友寄养的暹罗🥳",
+      "url": "https://x.com/bbkirstry/status/2082745688006463712"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-07-30T08:28:58.000Z",
+      "edit_history_tweet_ids": [
+        "2082745251350098062"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "783729200",
+            "start": 0,
+            "username": "tangpanqing"
+          }
+        ]
+      },
+      "id": "2082745251350098062",
+      "in_reply_to_user_id": "783729200",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 156,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2081384799718269306",
+          "type": "quoted"
+        },
+        {
+          "id": "2082744173472723311",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@tangpanqing 是，大家常说的「利他」～\n但很多人没有真正理解\n\n我之前大概写过“想做好自媒体，要先忘记你自己”的观点：https://t.co/SA8JaCLqye",
+      "url": "https://x.com/bbkirstry/status/2082745251350098062"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2083164631712038912",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjjMgnagAAGF7u.jpg",
+        "width": 836
+      },
+      {
+        "height": 253,
+        "media_key": "3_2082860249783177216",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfOXJkbkAALw7t.png",
+        "width": 548
+      },
+      {
+        "height": 436,
+        "media_key": "3_2082766626928361473",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5NlQagAEnmb3.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T16:26:04.000Z",
+        "edit_history_tweet_ids": [
+          "2083227705521430903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1276042073616121856",
+              "start": 0,
+              "username": "LgyLight"
+            }
+          ]
+        },
+        "id": "2083227705521430903",
+        "in_reply_to_user_id": "1276042073616121856",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083225879883506119",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@LgyLight 没想到吧！！"
+      },
+      {
+        "author_id": "1276042073616121856",
+        "created_at": "2026-07-31T16:18:48.000Z",
+        "edit_history_tweet_ids": [
+          "2083225879883506119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083225879883506119",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@bbkirstry 小红书竟然能发公众号三个字"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T14:14:35.000Z",
+        "edit_history_tweet_ids": [
+          "2083194619828035612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650706290929446912",
+              "start": 0,
+              "username": "isnail"
+            }
+          ]
+        },
+        "id": "2083194619828035612",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "@isnail 说笑了hhhhhh"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T14:13:33.000Z",
+        "edit_history_tweet_ids": [
+          "2083194357424017410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1995137773607743489",
+              "start": 0,
+              "username": "siwusuAI"
+            }
+          ]
+        },
+        "id": "2083194357424017410",
+        "in_reply_to_user_id": "1995137773607743489",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083191018686644587",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@siwusuAI 🥳好会夸！"
+      },
+      {
+        "author_id": "1995137773607743489",
+        "created_at": "2026-07-31T14:00:17.000Z",
+        "edit_history_tweet_ids": [
+          "2083191018686644587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083191018686644587",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083170839504294155",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 这就是最强操盘手吗！"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T13:54:19.000Z",
+        "edit_history_tweet_ids": [
+          "2083189519348875488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893529808082214916",
+              "start": 0,
+              "username": "killingbaby1103"
+            }
+          ]
+        },
+        "id": "2083189519348875488",
+        "in_reply_to_user_id": "1893529808082214916",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083178207541682548",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@killingbaby1103 那不是～有逻辑的"
+      },
+      {
+        "author_id": "1893529808082214916",
+        "created_at": "2026-07-31T13:09:22.000Z",
+        "edit_history_tweet_ids": [
+          "2083178207541682548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083178207541682548",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083172611870322973",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 这才是对的，x就是不按套路出牌的"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T12:47:08.000Z",
+        "edit_history_tweet_ids": [
+          "2083172611870322973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893529808082214916",
+              "start": 0,
+              "username": "killingbaby1103"
+            }
+          ]
+        },
+        "id": "2083172611870322973",
+        "in_reply_to_user_id": "1893529808082214916",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083172299763835011",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@killingbaby1103 我完全没有想过“做”x🤣想到什么发什么！发现大家很感兴趣的就顺手搬回红书和抖音"
+      },
+      {
+        "author_id": "1893529808082214916",
+        "created_at": "2026-07-31T12:45:54.000Z",
+        "edit_history_tweet_ids": [
+          "2083172299763835011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083172299763835011",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@bbkirstry 其实我觉得x最难做其他两个平台真好做"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T12:29:39.000Z",
+        "edit_history_tweet_ids": [
+          "2083168210363584612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1842452575586811904",
+              "start": 0,
+              "username": "heyfuxixi"
+            }
+          ]
+        },
+        "id": "2083168210363584612",
+        "in_reply_to_user_id": "1842452575586811904",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083102221508727076",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@heyfuxixi 我是谁 ➡️ 我和别人哪里不一样 ➡️ 大家平时都夸赞我什么点做得好 ➡️ 怎么让更多人知道我做的很棒"
+      },
+      {
+        "author_id": "1842452575586811904",
+        "created_at": "2026-07-31T08:07:26.000Z",
+        "edit_history_tweet_ids": [
+          "2083102221508727076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083102221508727076",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082665794589352314",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 我是谁➡️我和别人哪里不一样➡️会有人喜欢我吗➡️怎么让别人欣赏我"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T12:19:03.000Z",
+        "edit_history_tweet_ids": [
+          "2083165543134326900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1276042073616121856",
+              "start": 0,
+              "username": "LgyLight"
+            }
+          ]
+        },
+        "id": "2083165543134326900",
+        "in_reply_to_user_id": "1276042073616121856",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083149361668857884",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@LgyLight 是的！感谢我的AI导师🙏"
+      },
+      {
+        "author_id": "1276042073616121856",
+        "created_at": "2026-07-31T11:14:45.000Z",
+        "edit_history_tweet_ids": [
+          "2083149361668857884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083149361668857884",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@bbkirstry 他说的很对很对啊"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2083164631712038912"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T12:16:23.000Z",
+        "edit_history_tweet_ids": [
+          "2083164872838459657",
+          "2083164996306182457"
+        ],
+        "id": "2083164872838459657",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "今天有个咨询的case，让我想到\n为什么很多人，明知道某个选择和动作做得不对还是不愿意改\n\n我的结论是，因为人很难背叛自己\n\n改变认知最难的不是接受一个新观点，是承认自己过去看到的世界并不完整，而这无异于对过去的自我的一种「背叛」\n\n人很难放下自己过往赖以生存的信念 https://t.co/sAiDQf05s9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2083164631712038912"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T12:16:53.000Z",
+        "edit_history_tweet_ids": [
+          "2083164872838459657",
+          "2083164996306182457"
+        ],
+        "id": "2083164996306182457",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1097,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "今天有个咨询的case，让我想到\n为什么很多人，明知道某个选择和动作做得不对还是不愿意改\n\n我的结论是，因为人很难背叛自己\n\n改变认知最难的不是接受一个新观点，是承认自己过去看到的世界并不完整，而这无异于对过去的自我的一种「背叛」\n\n人很难放下自己过往赖以生存的信念 https://t.co/sBMFGnwcMd"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T07:37:42.000Z",
+        "edit_history_tweet_ids": [
+          "2083094737129779407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 148,
+              "start": 125,
+              "url": "https://t.co/pJqHbgwcIJ"
+            }
+          ]
+        },
+        "id": "2083094737129779407",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1463,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083090016910340345",
+            "type": "quoted"
+          }
+        ],
+        "text": "真的非常有共鸣！！\n从我第一条视频爆了之后，麦当就一直跟我说：\n\n「珍惜你还拥有小白视角的时间，多为他们出优质内容吧」\n\n作为努力探索AI、走在前面一点的职场内容人、自媒体创作者、技术人员，对于“AI 基础”的理解其实跟真正的AI小白完全完全不一样 https://t.co/pJqHbgwcIJ"
+      },
+      {
+        "article": {
+          "cover_media": "3_2083087410259439617",
+          "entities": {
+            "urls": [
+              {
+                "text": "learn-ai-cut.com"
+              },
+              {
+                "text": "https://learn-ai-cut.com/"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2083089668552421376",
+            "3_2083089362137546752",
+            "3_2083089471902494720",
+            "3_2083089254645948416",
+            "3_2083087963752366080",
+            "3_2083089006259310592",
+            "3_2083089599400914944",
+            "3_2083089123502649345",
+            "3_2083088854748463104"
+          ],
+          "plain_text": "我去给工会讲了一堂 AI 剪辑课，结果发现大家连 Codex 都没用过\n本文所有演示素材均来自熠辉老师的 ChatCut 教程。想系统学习 AI 剪辑非常推荐大家去支持一下learn-ai-cut.com 绝对的物超所值\n\n昨天，受我的好朋友AI Barbra 老师邀请，我去了杭州临平，给工会的朋友们做了一场线下培训，主要讲 AI 加剪辑这件事怎么真正落地。\n \n最近 ChatCut 这个插件很火，相信关注 AI 和视频创作的人多少都刷到过，也有不少人已经开始尝试。它可以作为插件（Plugin）接入 Codex，让我们直接通过自然语言驱动 Agent 操作剪辑项目。\n所以去之前，我还专门问了一下现场的管理人员：这次来听课的人大概是什么年龄段？平时有没有使用 AI 的经验？\n对方告诉我，大家基本在 25 到 40 岁之间，而且在工作中普遍接触和使用过一些 AI。\n我一听很开心。\n我寻思：既然大家都有基础，那“AI 是什么”“怎么和大模型对话”这些内容就不讲了。我把 PPT 里偏基础的部分全部删掉，准备直接上点干货，带大家跑 Codex 加 ChatCut 的完整剪辑工作流。\n结果，兄弟们，结果啊。\n“大家都有 AI 基础”，可能和我理解的不太一样\n课程刚开始，我先和现场做了一个简单互动。\n我问：“用过 Codex 的举个手？”\n鸦雀无声。\n我又问：“那 WorkBuddy 呢？或者其他任何 AI Agent，有实际用过的举个手？”\n还是没有人举手。\n最后我问：“豆包有没有用过的？”\n现场终于稀稀拉拉有了几只手。\n那一刻我意识到，我们对“有 AI 基础”的理解，可能根本不是一回事。\n很多人所谓的“在工作中用过 AI”，其实是打开豆包或者其他聊天工具，问过几个问题，让它写过一段文案、总结过一份材料。但在我的判断里，这还不能算真正把 AI 用进了工作流。\n真正开始使用 Agent，让它读取文件、调用工具、操作软件，并且替自己完成一段连续任务的人，依然非常少。\n现场这些朋友的年龄并不大，也不是不愿意接受新技术。相反，他们就是今天最典型的一批职场用户：听说过 AI，也用过聊天机器人，但从“和 AI 聊天”走到“让 Agent 真正干活”，中间还有一道很高的门槛。\n这也让我临时调整了课程。原本准备直接讲进阶实操，最后还是决定从头解释：ChatCut 到底是什么，它为什么值得关注，以及它和传统剪辑软件到底有什么不同。\n \n\nChatCut 首先还是一款剪辑工具\n先说最基础的部分。\nChatCut 保留了传统剪辑工具里的核心能力，比如基于文本语义剪辑视频、整理和组合不同素材、生成字幕，以及把视频、音频、图片和动画放进真实的多轨时间线。\n \n所以你完全可以把它当成一款剪辑工具使用。\n它并不是输入一句话，然后直接吐出一个无法修改的黑盒成片。最终结果依然会落在时间线上，你可以继续让 AI 修改，也可以自己进入编辑器手动调整。\n \n但如果它只是把传统剪辑软件换了一套界面，那还不值得我们专门讲一堂课。ChatCut 真正重要的地方，是它在传统剪辑能力之上，又增加了两层新的能力。\n\n第一层能力：它把剪辑软件的操作方式暴露给了 Agent\n过去我们剪视频，需要先学习剪辑软件的 UI。\n比如你想剪掉某一段内容，要先在时间线上找到对应位置，再用鼠标定位、切割、删除，然后处理前后衔接。一个剪辑软件可能有几十个面板和几百个按钮，普通人还没有开始创作，就先被操作界面劝退了。\nChatCut 接入 Agent 以后，这套操作方式被 Agent 内化了。\n你可以直接说：“把这一段跑题的内容删掉”“把开头换到前面”“清理口头禅和长停顿”“在这句话后面补一张图”。\n \n你不需要先在 UI 里找到对应的按钮，也不需要精确定位某一秒。Agent 会理解你的要求，再调用 ChatCut 完成具体操作。\n这件事的价值，不只是少点几下鼠标。\n它真正降低的是普通人学习剪辑软件、理解复杂 UI 和记忆操作步骤的成本。过去你要先学会“软件怎么操作”，才能开始表达“视频想怎么改”；现在你可以先从自己的目标出发，用自然语言告诉 Agent。\n第二层能力：缺什么素材，它可以现场生成\n剪视频并不只是把已有素材切一切。\n真正做一条相对完整的视频，后期通常还需要生成很多东西：旁白和配音、MG（Motion Graphics）动画、插图、字幕、背景音乐，甚至一些补充镜头和音效。\n过去这些素材要么自己找，要么跳到不同的平台分别制作。缺配音或数字人时可能要再去 HeyGen，缺动画就自己拉关键帧，缺画面再去其他生成平台处理。整个过程不是某一步特别难，而是工具太分散，来回切换特别费劲。\n \nChatCut 提供了一套比较完整的素材生成渠道。\n当时间线里缺少某种素材时，Agent 可以直接调用对应能力，生成语音、图片、动画、字幕、背景音乐（BGM）或其他补充内容，再把它们放回项目里。\n你不需要自己到处找素材，也不用为了一个几秒钟的动画，重新学习另一套复杂工具。对于普通创作者来说，这一层能力甚至比“自动帮我切一刀”更有价值。\n \nAI 剪辑最值得利用的，仍然是效率\n我一直强调一件事：AI 对大多数人最重要的价值，首先还是效率。\nChatCut 的效率不只体现在“把一条视频剪快一点”，还体现在它可以快速生成不同变体。\n比如一条视频本来是“一、二、三”三段式结构，我们可以保留主体内容，只替换开头的 Hook（开头钩子）；也可以让它尝试不同节奏、不同包装风格，或者针对不同平台生成多个版本。\n \n因为 AI 理解素材、重新组合内容和执行时间线操作的速度，本来就比人逐段处理更快，所以我们完全可以让它先生成多个剪辑方向，再像抽卡一样，从结果里挑出最合适的一版。\n这里的“抽卡”并不是把决定权全部交给 AI，而是让 AI 低成本地扩大可选方案，人负责最后选择。\n以前我们只做一个版本，是因为再剪一版太费时间。现在变体成本降下来了，我们就可以把同一份内容变成多个开头、多个节奏和多个平台版本，甚至扩展成多语言、多尺寸的版本，适配不同平台。\n \n这是 AI 剪辑真正值得善用的效率优势。\n工具很强，不等于普通人已经能用起来\n总的来说，ChatCut 现在的功能已经比较完整。对于本来就在做视频、熟悉基本剪辑逻辑，也已经开始使用 Codex 或其他 Agent 的人来说，它确实能明显提高效率。\n但是经过这次现场实测，我也越来越确定一件事：把它真正落地到普通用户的电脑里，依然太难了。\n插件怎么安装、Codex 怎么使用、Agent 是什么、权限怎么授权、素材为什么没有导入成功——这些问题对熟悉 Agent 的人不算什么，但对普通用户来说，每一步都可能直接把人卡住。\n如果一个小伙伴连 Codex 都没有安装和使用起来，我们再给他讲 Agent 如何控制时间线、如何调用技能生成素材，本质上就是对牛弹琴。\n这不是用户不聪明，也不是工具能力不够，而是产品能力和真实用户之间，还缺少一座足够好走的桥。\n所以这条视频和这篇文章，现阶段更适合两类人：已经在做剪辑的人，以及对 AI Agent 有一定基础、愿意折腾工作流的人。\n对于完全零基础的用户，我更希望 ChatCut 后面能够提供一些更直接、更落地的产品形态。\n如果普通人主要使用手机，AI 剪辑应该怎么做？\n还有一个非常现实的问题。\n很多在职人员并没有一台随时方便折腾插件和开发环境的电脑。他们真正习惯使用的设备是手机，真正熟悉的剪辑方式也是在手机里点几下、拖几下。\n他们想用手机完成 AI 剪辑，但按照当前这套 Codex 加 ChatCut 插件的使用链路，这件事基本无法实现。\n我反而觉得，这里面可能存在一个非常好的产品机会。\n手机端的 AI 剪辑，不应该只是把电脑上的复杂时间线缩小以后塞进手机屏幕。它更应该让用户通过自然语言、语音和少量确认，就能完成素材理解、结构调整、内容清理、字幕包装和多版本生成。\n工具负责隐藏复杂操作，用户只需要表达目标、查看方案和确认结果。\n这才是 Agent 真正降低门槛的方向。\n最后：方向是对的，门槛还没有真正降下来\n这次临平工会的课程，让我重新认识了“AI 基础”这四个字。\n今天真正把 AI Agent 用进日常工作的人，依然是极少数。很多人已经知道 AI 能聊天、能写文案，但还没有走到让它调用工具、操作软件和完成完整任务这一步。\nChatCut 展示了一种很有价值的未来：剪辑软件不再要求每个用户先学会所有按钮，而是让 Agent 理解人的意图，再替人操作工具；时间线里缺少的素材，也可以在同一个工作流里现场生成；同一份内容，还能用极低成本生成多个版本，让人从中挑选。\n它的方向是对的，能力也足够强。\n但下一步真正重要的，不是再增加十个更炫的功能，而是让更多普通人能够顺利走进来。\n否则，一个连 Codex 都没有安装起来的用户，你给他展示再强的 Agent 剪辑能力，也还是对牛弹琴。",
+          "preview_text": "我去给工会讲了一堂 AI 剪辑课，结果发现大家连 Codex 都没用过\n本文所有演示素材均来自熠辉老师的 ChatCut 教程。想系统学习 AI 剪辑非常推荐大家去支持一下learn-ai-cut.com 绝对的物超所值",
+          "title": "我去给工会讲了一堂 AI 剪辑课，结果发现大家连 Codex 都没用过"
+        },
+        "author_id": "1545813257843134465",
+        "created_at": "2026-07-31T07:18:56.000Z",
+        "edit_history_tweet_ids": [
+          "2083090016910340345"
+        ],
+        "id": "2083090016910340345",
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 9349,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "text": "https://t.co/EPfNKiQZwj"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T04:43:40.000Z",
+        "edit_history_tweet_ids": [
+          "2083050942627467738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926466086762921984",
+              "start": 0,
+              "username": "Jackywxsz"
+            }
+          ]
+        },
+        "id": "2083050942627467738",
+        "in_reply_to_user_id": "1926466086762921984",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083041668589298094",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Jackywxsz 谢谢Jacky哥分享！🙈"
+      },
+      {
+        "author_id": "1926466086762921984",
+        "created_at": "2026-07-31T04:06:49.000Z",
+        "edit_history_tweet_ids": [
+          "2083041668589298094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 42,
+              "start": 19,
+              "url": "https://t.co/4VkF4lB9LJ"
+            }
+          ]
+        },
+        "id": "2083041668589298094",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 716,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082696899212235053",
+            "type": "quoted"
+          }
+        ],
+        "text": "优质的审美排版 skill，值得推荐 https://t.co/4VkF4lB9LJ"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T04:26:21.000Z",
+        "edit_history_tweet_ids": [
+          "2083046583093047554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518175759747076098",
+              "start": 0,
+              "username": "jiamu_future"
+            }
+          ]
+        },
+        "id": "2083046583093047554",
+        "in_reply_to_user_id": "1518175759747076098",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083039668128587973",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@jiamu_future 非常支持！本质还是要回归到做自己🧸\n打磨并成为更好的自己！"
+      },
+      {
+        "author_id": "1518175759747076098",
+        "created_at": "2026-07-31T03:58:52.000Z",
+        "edit_history_tweet_ids": [
+          "2083039668128587973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083039668128587973",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082665794589352314",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 个人 IP 不是你给自己贴的标签，很多人的路径是「定位 → 人设 → 涨粉 → 变现」，但需要注意的是，一定要是真实的你才能长久。\n人设可以设计，流量可以买，但信任无法直接制造。个人IP更多还是长期价值交付之后形成的结果\n「真实能力 → 持续交付 → 公开表达 → 形成认知 → 积累信任 → 商业复利」"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T04:03:43.000Z",
+        "edit_history_tweet_ids": [
+          "2083040890415874503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545813257843134465",
+              "start": 0,
+              "username": "czzzzzzJ_"
+            }
+          ]
+        },
+        "id": "2083040890415874503",
+        "in_reply_to_user_id": "1545813257843134465",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083040649293726007",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@czzzzzzJ_ 🕴️🕴️🕴️🕴️咋这样！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2083040558482866176"
+          ]
+        },
+        "author_id": "1545813257843134465",
+        "created_at": "2026-07-31T04:02:46.000Z",
+        "edit_history_tweet_ids": [
+          "2083040649293726007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1923981862273417222",
+              "start": 27,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083040649293726007",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "今天openletter的内容用的内容王的skill @bbkirstry  大家看看质量 不喜欢就骂她 https://t.co/FdrH3MJfpi"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T03:37:38.000Z",
+        "edit_history_tweet_ids": [
+          "2083034325688500402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1881986830612234240",
+              "start": 0,
+              "username": "AiWorking_Lab"
+            }
+          ]
+        },
+        "id": "2083034325688500402",
+        "in_reply_to_user_id": "1881986830612234240",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083032445952409628",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@AiWorking_Lab 哈哈谢谢！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2083032418152529921"
+          ]
+        },
+        "author_id": "1881986830612234240",
+        "created_at": "2026-07-31T03:30:10.000Z",
+        "edit_history_tweet_ids": [
+          "2083032445952409628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2083032445952409628",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083030722366091304",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 先点个⭐️ https://t.co/wXACATTNhn"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-31T03:23:19.000Z",
+        "edit_history_tweet_ids": [
+          "2083030722366091304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 76,
+              "start": 53,
+              "url": "https://t.co/2BPGcDyNC9"
+            }
+          ]
+        },
+        "id": "2083030722366091304",
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 17209,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082767816009359743",
+            "type": "quoted"
+          }
+        ],
+        "text": "说整就整！\n\n小晚🥣公众号排版skill来了！欢迎测试：\nhttps://t.co/LpE3DFOtEl https://t.co/2BPGcDyNC9"
+      },
+      {
+        "author_id": "1881986830612234240",
+        "created_at": "2026-07-30T09:58:37.000Z",
+        "edit_history_tweet_ids": [
+          "2082767816009359743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2082767816009359743",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16963,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082696899212235053",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 太棒了，有没有考虑做成一个skill 🙏"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T16:48:56.000Z",
+        "edit_history_tweet_ids": [
+          "2082871075097211134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2022118285983232001",
+              "start": 0,
+              "username": "xmmxovo"
+            }
+          ]
+        },
+        "id": "2082871075097211134",
+        "in_reply_to_user_id": "2022118285983232001",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 699,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082857614300581973",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@xmmxovo 支持！！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2082856524825960448",
+            "3_2082856563346481152",
+            "3_2082856721316466688",
+            "3_2082857087395377152"
+          ]
+        },
+        "author_id": "2022118285983232001",
+        "created_at": "2026-07-30T15:55:27.000Z",
+        "edit_history_tweet_ids": [
+          "2082857614300581973"
+        ],
+        "id": "2082857614300581973",
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 24943,
+          "like_count": 122,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 6
+        },
+        "text": "📢我准备开一门AI自媒体课程\n\n算是我人生中第一次尝试知识付费的营收模式。\n\n我应该算是过去几个月涨粉最快的AI博主（之一），并且账号商业化做的还可以~\\(≥▽≤)/~至少能超过我之前的主业 https://t.co/L1xyuAhW3i"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T16:07:53.000Z",
+        "edit_history_tweet_ids": [
+          "2082860741770809589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1995137773607743489",
+              "start": 0,
+              "username": "siwusuAI"
+            }
+          ]
+        },
+        "id": "2082860741770809589",
+        "in_reply_to_user_id": "1995137773607743489",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082860108040819010",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@siwusuAI 我真觉得可以写 公众号现在接广也蛮多的"
+      },
+      {
+        "author_id": "1995137773607743489",
+        "created_at": "2026-07-30T16:05:22.000Z",
+        "edit_history_tweet_ids": [
+          "2082860108040819010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2082860108040819010",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 681,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082696899212235053",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 来推特再夸一遍！！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2082860249783177216"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T16:06:01.000Z",
+        "edit_history_tweet_ids": [
+          "2082860272906313996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596695231717871616",
+              "start": 0,
+              "username": "dontbesilent"
+            }
+          ]
+        },
+        "id": "2082860272906313996",
+        "in_reply_to_user_id": "1596695231717871616",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1289,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082854720738381875",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@dontbesilent 也许 可以参考公众号菜单栏？ https://t.co/8np9mOolFx"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2082854713314484224"
+          ]
+        },
+        "author_id": "1596695231717871616",
+        "created_at": "2026-07-30T15:43:57.000Z",
+        "edit_history_tweet_ids": [
+          "2082854720738381875"
+        ],
+        "id": "2082854720738381875",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 20629,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "text": "豆包 APP 底部足足有 20 个按钮，还是要坚持做成这种横滑的形式……找起来太费劲了\n\n但我也没有想到更好的解决办法 https://t.co/tMOJfYscLP"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T14:56:54.000Z",
+        "edit_history_tweet_ids": [
+          "2082842878511141290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2072571412234321921",
+              "start": 0,
+              "username": "ShowYourHands_"
+            }
+          ]
+        },
+        "id": "2082842878511141290",
+        "in_reply_to_user_id": "2072571412234321921",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 607,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082840439745622162",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@ShowYourHands_ 看到你的感叹号我就知道真的很棒！！！！？！"
+      },
+      {
+        "author_id": "2072571412234321921",
+        "created_at": "2026-07-30T14:47:12.000Z",
+        "edit_history_tweet_ids": [
+          "2082840439745622162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2082840439745622162",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 686,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082696899212235053",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 天！！！这真的很棒！！！！"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T10:28:17.000Z",
+        "edit_history_tweet_ids": [
+          "2082775279970533820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518175759747076098",
+              "start": 0,
+              "username": "jiamu_future"
+            }
+          ]
+        },
+        "id": "2082775279970533820",
+        "in_reply_to_user_id": "1518175759747076098",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082773836916003318",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@jiamu_future 谢谢甲木老师让我用上如此优质的skill！🍻"
+      },
+      {
+        "author_id": "1518175759747076098",
+        "created_at": "2026-07-30T10:22:33.000Z",
+        "edit_history_tweet_ids": [
+          "2082773836916003318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2082773836916003318",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082696899212235053",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 很棒！"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T09:55:15.000Z",
+        "edit_history_tweet_ids": [
+          "2082766966067253601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013470525574766593",
+              "start": 0,
+              "username": "MaoyanRao"
+            }
+          ]
+        },
+        "id": "2082766966067253601",
+        "in_reply_to_user_id": "2013470525574766593",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082764997751668990",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@MaoyanRao 我有一个习惯，视频/电话/会议都会开录音转写，所以我累积了非常大量的文本和我自己的语料库"
+      },
+      {
+        "author_id": "2013470525574766593",
+        "created_at": "2026-07-30T09:47:26.000Z",
+        "edit_history_tweet_ids": [
+          "2082764997751668990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 137,
+              "start": 114,
+              "url": "https://t.co/QqhJsq6ytP"
+            }
+          ]
+        },
+        "id": "2082764997751668990",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 194,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082696899212235053",
+            "type": "quoted"
+          }
+        ],
+        "text": "发现了一个视频提取文本的神奇方法。\n\n我平时看内容的习惯是看原本的内容，而不是加工或者提炼后的。今天看小晚视频的时候正好把元宝的录音开了在。\n\n于是在我看完这个视频的瞬间，我也收获了一份视频文本内容，可以拿来更详细的拆拆看了。 https://t.co/QqhJsq6ytP"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2082766626928361473"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T09:53:56.000Z",
+        "edit_history_tweet_ids": [
+          "2082766634272608736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013470525574766593",
+              "start": 0,
+              "username": "MaoyanRao"
+            }
+          ]
+        },
+        "id": "2082766634272608736",
+        "in_reply_to_user_id": "2013470525574766593",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082766013251395729",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@MaoyanRao 问到我的统治区了 https://t.co/JFwoNvKfel"
+      },
+      {
+        "author_id": "2013470525574766593",
+        "created_at": "2026-07-30T09:51:28.000Z",
+        "edit_history_tweet_ids": [
+          "2082766013251395729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2082766013251395729",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082653345949573234",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 话说小晚有没有考虑分享一下 AI 呀的设计思路？我最近也在尝试用 AI 设计我的 IP 形象，脑阔都大了"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T08:33:13.000Z",
+        "edit_history_tweet_ids": [
+          "2082746322998952147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947553138007019524",
+              "start": 0,
+              "username": "Ronnie927847080"
+            }
+          ]
+        },
+        "id": "2082746322998952147",
+        "in_reply_to_user_id": "1947553138007019524",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082746146762703090",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Ronnie927847080 老师我们这边走水上还是水下？"
+      },
+      {
+        "author_id": "1947553138007019524",
+        "created_at": "2026-07-30T08:32:31.000Z",
+        "edit_history_tweet_ids": [
+          "2082746146762703090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2082746146762703090",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082745688006463712",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 寄过来 我评测一下"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T08:30:42.000Z",
+        "edit_history_tweet_ids": [
+          "2082745688006463712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947553138007019524",
+              "start": 0,
+              "username": "Ronnie927847080"
+            }
+          ]
+        },
+        "id": "2082745688006463712",
+        "in_reply_to_user_id": "1947553138007019524",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082745511044669486",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Ronnie927847080 老板的朋友寄养的暹罗🥳"
+      },
+      {
+        "author_id": "1947553138007019524",
+        "created_at": "2026-07-30T08:30:00.000Z",
+        "edit_history_tweet_ids": [
+          "2082745511044669486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2082745511044669486",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@bbkirstry 新猫？"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-30T08:28:58.000Z",
+        "edit_history_tweet_ids": [
+          "2082745251350098062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "783729200",
+              "start": 0,
+              "username": "tangpanqing"
+            }
+          ]
+        },
+        "id": "2082745251350098062",
+        "in_reply_to_user_id": "783729200",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081384799718269306",
+            "type": "quoted"
+          },
+          {
+            "id": "2082744173472723311",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@tangpanqing 是，大家常说的「利他」～\n但很多人没有真正理解\n\n我之前大概写过“想做好自媒体，要先忘记你自己”的观点：https://t.co/SA8JaCLqye"
+      },
+      {
+        "author_id": "783729200",
+        "created_at": "2026-07-30T08:24:41.000Z",
+        "edit_history_tweet_ids": [
+          "2082744173472723311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 47,
+              "start": 24,
+              "url": "https://t.co/pOBbGfaZg3"
+            }
+          ]
+        },
+        "id": "2082744173472723311",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 829,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082665794589352314",
+            "type": "quoted"
+          }
+        ],
+        "text": "不要考虑：如何证明自己\n\n要考虑：如何帮助别人 https://t.co/pOBbGfaZg3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2081384773705211904"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "created_at": "2026-07-26T14:23:01.000Z",
+        "edit_history_tweet_ids": [
+          "2081384799718269306"
+        ],
+        "id": "2081384799718269306",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1936,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "text": "最近对于做自媒体有了一个新的体感：\n想把自媒体做好，先学会「忘记你自己」\n\n因为自媒体只是一种形式和手段\n不同的人，用它来完成不同的目的\n\n在这个过程中，「我们自己」反而不应该那么重要。因为太在意自己的时候，创作者的思考、表达、姿态等等各种东西就会变形。\n\n比如，做自媒体该不该露脸？ https://t.co/EM8HPHBvKh"
+      }
+    ],
+    "users": [
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "protected": false,
+        "username": "bbkirstry"
+      },
+      {
+        "id": "1276042073616121856",
+        "name": "三秋十李 Sergio",
+        "protected": false,
+        "username": "LgyLight"
+      },
+      {
+        "id": "1650706290929446912",
+        "name": "蜗牛King 👑",
+        "protected": false,
+        "username": "isnail"
+      },
+      {
+        "id": "1995137773607743489",
+        "name": "斯乌苏",
+        "protected": false,
+        "username": "siwusuAI"
+      },
+      {
+        "id": "1893529808082214916",
+        "name": "Killbabydevil",
+        "protected": false,
+        "username": "killingbaby1103"
+      },
+      {
+        "id": "1842452575586811904",
+        "name": "弗西西丁",
+        "protected": false,
+        "username": "heyfuxixi"
+      },
+      {
+        "id": "1926466086762921984",
+        "name": "Jacky无限生长",
+        "protected": false,
+        "username": "Jackywxsz"
+      },
+      {
+        "id": "1518175759747076098",
+        "name": "甲木未来派",
+        "protected": false,
+        "username": "jiamu_future"
+      },
+      {
+        "id": "1545813257843134465",
+        "name": "麦当mdldm",
+        "protected": false,
+        "username": "czzzzzzJ_"
+      },
+      {
+        "id": "1881986830612234240",
+        "name": "图南",
+        "protected": false,
+        "username": "AiWorking_Lab"
+      },
+      {
+        "id": "2022118285983232001",
+        "name": "西门聪明蛋XD",
+        "protected": false,
+        "username": "xmmxovo"
+      },
+      {
+        "id": "1596695231717871616",
+        "name": "dontbesilent",
+        "protected": false,
+        "username": "dontbesilent"
+      },
+      {
+        "id": "2072571412234321921",
+        "name": "Show Your Hands 底牌",
+        "protected": false,
+        "username": "ShowYourHands_"
+      },
+      {
+        "id": "2013470525574766593",
+        "name": "猫彦",
+        "protected": false,
+        "username": "MaoyanRao"
+      },
+      {
+        "id": "1947553138007019524",
+        "name": "自然界的电子羊",
+        "protected": false,
+        "username": "Ronnie927847080"
+      },
+      {
+        "id": "783729200",
+        "name": "汤光头",
+        "protected": false,
+        "username": "tangpanqing"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2083227705521430903",
+    "next_token": "b26v89c19zqg8o3juewgi7ohzv9gdae4db56dtm8fqpa5",
+    "oldest_id": "2082745251350098062",
+    "result_count": 25
+  }
+}

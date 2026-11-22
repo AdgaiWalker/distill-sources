@@ -1,0 +1,2113 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120719037969915904"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-12T03:23:17.000Z",
+      "edit_history_tweet_ids": [
+        "2120719049676161383"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 198,
+            "start": 175,
+            "url": "https://t.co/Hx9vO19AaH"
+          }
+        ]
+      },
+      "id": "2120719049676161383",
+      "public_metrics": {
+        "bookmark_count": 301,
+        "impression_count": 39475,
+        "like_count": 207,
+        "quote_count": 3,
+        "reply_count": 20,
+        "retweet_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120690544825250061",
+          "type": "quoted"
+        }
+      ],
+      "text": "我靠 Grok Bot 牛逼啊，现在直接打通了我的微信，手机上随时给我推送微信里面的重要信息和待办。\n\n1. 手机和电脑同时登录 Grok bot\n2.电脑端安装https://t.co/fEwRqlcVcU，授予完全磁盘完全访问权限\n3. 手机端 Grok Bot 随时推送，按照自己喜欢的频率来。 https://t.co/YqEGwHKqK6 https://t.co/Hx9vO19AaH",
+      "url": "https://x.com/gengdaJ/status/2120719049676161383"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120572030122860544",
+          "3_2120572039656517635",
+          "3_2120572063245316096",
+          "3_2120572077476646912"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-12T01:30:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120690544825250061"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 24,
+            "id": "1876494331491848192",
+            "start": 13,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2120690544825250061",
+      "public_metrics": {
+        "bookmark_count": 342,
+        "impression_count": 64703,
+        "like_count": 199,
+        "quote_count": 4,
+        "reply_count": 34,
+        "retweet_count": 30
+      },
+      "text": "我去真的后悔没早点用上啊，@chatcutapp帮我打开了全新的剪辑思路——直接用手机版Grok bot实现了云剪辑，爽飞啊！出门在外，再也不用背电脑，一部手机，随时随地剪辑。\n\n之前一直没意识到Grok https://t.co/j72TblBCSP",
+      "url": "https://x.com/gengdaJ/status/2120690544825250061"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120487106250428417"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-11T12:20:48.000Z",
+      "edit_history_tweet_ids": [
+        "2120487119672262867",
+        "2120487622091162033",
+        "2120491932917141711"
+      ],
+      "id": "2120491932917141711",
+      "public_metrics": {
+        "bookmark_count": 141,
+        "impression_count": 25339,
+        "like_count": 112,
+        "quote_count": 0,
+        "reply_count": 29,
+        "retweet_count": 12
+      },
+      "text": "硬件大佬思路就是牛逼，微信自动化写入都能突破，给我吓坏了…\n\n采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。 https://t.co/SMAr7arK6Z",
+      "url": "https://x.com/gengdaJ/status/2120491932917141711"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120487106250428417"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-11T12:03:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120487119672262867",
+        "2120487622091162033",
+        "2120491932917141711"
+      ],
+      "id": "2120487622091162033",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 318,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "我靠真牛批，今天认识个大佬，他的思路感觉可以用于微信（私域）自动化运营啊！写入都能办到。\n\n他是卖硬件的（主机、一体机等等，做了几十年）。采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。 https://t.co/UsJ4sfYv37",
+      "url": "https://x.com/gengdaJ/status/2120487622091162033"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120487106250428417"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-11T12:01:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120487119672262867",
+        "2120487622091162033",
+        "2120491932917141711"
+      ],
+      "id": "2120487119672262867",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 251,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "我靠真牛批，今天认识个大佬，他的思路感觉可以用于微信（私域）自动化运营啊！写入都能办到。\n\n他是卖硬件的（主机、一体机等等，做了几十年）。采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。 https://t.co/rULBwcL9yI",
+      "url": "https://x.com/gengdaJ/status/2120487119672262867"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120163023461703680",
+          "3_2120167413664890881",
+          "3_2120168255700758528",
+          "3_2120168356548681728"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-10T15:11:10.000Z",
+      "edit_history_tweet_ids": [
+        "2120172421789716790"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 173,
+            "start": 150,
+            "url": "https://t.co/bqUTytkfGQ"
+          }
+        ]
+      },
+      "id": "2120172421789716790",
+      "public_metrics": {
+        "bookmark_count": 244,
+        "impression_count": 14049,
+        "like_count": 182,
+        "quote_count": 2,
+        "reply_count": 6,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120033719235076142",
+          "type": "quoted"
+        }
+      ],
+      "text": "你可能再也找不到这么省、还这么高质量的视频工作流了。。。不管是跨境还是国内短视频平台，不管是复刻爆款还是生成新视频，都可以通过这套AI工作流来大幅降低成本。真的是各渠道对比下来最省的了。。。\n\nTikTok数据接口：1070条对标视频，0.07美元。 https://t.co/1vSzaNf38U https://t.co/bqUTytkfGQ",
+      "url": "https://x.com/gengdaJ/status/2120172421789716790"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-10T14:25:25.000Z",
+      "edit_history_tweet_ids": [
+        "2120160906470662304"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 181,
+            "start": 158,
+            "url": "https://t.co/YywyadtbXk"
+          }
+        ]
+      },
+      "id": "2120160906470662304",
+      "public_metrics": {
+        "bookmark_count": 89,
+        "impression_count": 20126,
+        "like_count": 97,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108363527971041650",
+          "type": "quoted"
+        }
+      ],
+      "text": "最近几天在深圳疯狂social，刚刚才得空测试了一下Fable5.2，确实太牛皮了，各种任务的完成丝滑程度又上了一大截，Anthropic还送了重置券，我的天哪！已经断档领先了。\n\n赶紧给还没有用上Claude Code的兄弟们更新了一下完整教程。把Ryuu的分流规则、DNS规则和WebTRC规则，以及Apple https://t.co/YywyadtbXk",
+      "url": "https://x.com/gengdaJ/status/2120160906470662304"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2119962210051211264",
+          "3_2119962247183400960",
+          "3_2119962301709312000",
+          "3_2119962330566217728"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-10T06:00:01.000Z",
+      "edit_history_tweet_ids": [
+        "2120033719235076142"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 135,
+            "start": 112,
+            "url": "https://t.co/37LGCL7Ohj"
+          }
+        ]
+      },
+      "id": "2120033719235076142",
+      "public_metrics": {
+        "bookmark_count": 269,
+        "impression_count": 27075,
+        "like_count": 172,
+        "quote_count": 4,
+        "reply_count": 25,
+        "retweet_count": 26
+      },
+      "referenced_tweets": [
+        {
+          "id": "2119837642947006539",
+          "type": "quoted"
+        }
+      ],
+      "text": "以后DTC做社媒增长的方式可能要大变！分享一个我真实在实操的快速测多种TikTok消费品广告的方法：Claude Code+TikTok数据接口+Hypit=批量复刻竞品广告 https://t.co/b0AyguzpBP https://t.co/37LGCL7Ohj",
+      "url": "https://x.com/gengdaJ/status/2120033719235076142"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2119365091984601089",
+          "3_2119365091976159232",
+          "3_2119365091988824064"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-08T09:43:11.000Z",
+      "edit_history_tweet_ids": [
+        "2119365103795716473"
+      ],
+      "id": "2119365103795716473",
+      "public_metrics": {
+        "bookmark_count": 173,
+        "impression_count": 52046,
+        "like_count": 371,
+        "quote_count": 10,
+        "reply_count": 79,
+        "retweet_count": 21
+      },
+      "text": "朝着目标努力了两年，我终于有资本、有自信，独自一人来到惠州度假。\n\n沙滩边，天气晴朗，短袖短裤，躺于沙滩椅上，听海浪拍岸声，有感而发作此篇，分享给所有还在迷茫的你。\n\n记得两年前，在内地刚上大学，枯燥的大学生活让我开始思考人生。我从小的梦想就是赚大钱，所以我去当了家教。 https://t.co/j07AM6PSRA",
+      "url": "https://x.com/gengdaJ/status/2119365103795716473"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-07T02:55:14.000Z",
+      "edit_history_tweet_ids": [
+        "2118900054526447905"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 185,
+            "start": 162,
+            "url": "https://t.co/dbhafGkuHn"
+          }
+        ]
+      },
+      "id": "2118900054526447905",
+      "public_metrics": {
+        "bookmark_count": 407,
+        "impression_count": 27445,
+        "like_count": 270,
+        "quote_count": 3,
+        "reply_count": 37,
+        "retweet_count": 32
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118496604391178314",
+          "type": "quoted"
+        }
+      ],
+      "text": "为了能让Skill能在真实任务中不断自我迭代，我在几个月前就在Agent.md和Claude.md中加入了这段专属于Skill的提示词：\n\n## Skill 使用复盘\n\n- 在完成整个任务后，简短复盘本次实际使用的 Skill。\n- 只有发现可归因于 Skill 的实际阻碍、重复补救或明确缺失时，才在最终答复中说明涉及的 https://t.co/dbhafGkuHn",
+      "url": "https://x.com/gengdaJ/status/2118900054526447905"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2118286383127420928",
+          "3_2118286396872167424",
+          "3_2118286423115841536"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-05T10:17:24.000Z",
+      "edit_history_tweet_ids": [
+        "2118286550819856581"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 183,
+            "start": 160,
+            "url": "https://t.co/OFsUYkRKH7"
+          }
+        ]
+      },
+      "id": "2118286550819856581",
+      "public_metrics": {
+        "bookmark_count": 68,
+        "impression_count": 322475,
+        "like_count": 46,
+        "quote_count": 0,
+        "reply_count": 17,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118001281029886270",
+          "type": "quoted"
+        }
+      ],
+      "text": "细思极恐！REA仓库一夜爆火，Mika控制手机操作微信，我把剪映、飞书录音豆还有一大堆APP轻松逆向。\n\nAI能力飞速发展带来的后果是——各家大厂App（包括微信）连忙关上口子、我也收到律师函😅。\n\n我能深刻地感受到“AI安全”已经迫在眉睫。现在Codex和Claude https://t.co/gG1GjALpBg https://t.co/OFsUYkRKH7",
+      "url": "https://x.com/gengdaJ/status/2118286550819856581"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2117933929949003776",
+          "3_2117933930653556736",
+          "3_2117933951465779200"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-04T11:56:00.000Z",
+      "edit_history_tweet_ids": [
+        "2117948976624189462"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 167,
+            "start": 144,
+            "url": "https://t.co/EzRGjjOH0a"
+          }
+        ]
+      },
+      "id": "2117948976624189462",
+      "public_metrics": {
+        "bookmark_count": 187,
+        "impression_count": 15534,
+        "like_count": 134,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117899207764062606",
+          "type": "quoted"
+        }
+      ],
+      "text": "借助REA仓库实操成功！飞书录音豆整个软件层面魔改后实操原理其实不复杂，就是借用了自己一台服务器去对接API，然后实现录音转写Token自由。\n\n按实体按钮→握手→蓝牙实时读取→实时字幕传回→录后识别→飞书文档\n\n相比于原版本的优点在于： https://t.co/BxD7ABY2P3 https://t.co/EzRGjjOH0a",
+      "url": "https://x.com/gengdaJ/status/2117948976624189462"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2117904318972182528",
+          "3_2117904335183175680",
+          "3_2117904346998575104",
+          "3_2117904356809039872"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-04T10:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2117927336230437194"
+      ],
+      "id": "2117927336230437194",
+      "public_metrics": {
+        "bookmark_count": 189,
+        "impression_count": 26086,
+        "like_count": 118,
+        "quote_count": 4,
+        "reply_count": 27,
+        "retweet_count": 14
+      },
+      "text": "AI语音输入法的桌子被掀了！网易大善人继UU远程之后，又出一款神级语音输入产品——叭哥说，依旧完全免费！\n\n之前用Typeless和其他语音输入法的朋友，我建议都转过来用叭哥说吧，这两天体验了一波，已经切换不回别的输入法了。。。太好用了。。。 https://t.co/HL2a1xESZm",
+      "url": "https://x.com/gengdaJ/status/2117927336230437194"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2117895622233903104"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-04T08:38:14.000Z",
+      "edit_history_tweet_ids": [
+        "2117899207764062606"
+      ],
+      "id": "2117899207764062606",
+      "public_metrics": {
+        "bookmark_count": 112,
+        "impression_count": 29705,
+        "like_count": 109,
+        "quote_count": 4,
+        "reply_count": 29,
+        "retweet_count": 12
+      },
+      "text": "我把飞书录音豆给逆向了。\n\n新搭建了一个飞书应用“录音豆”，放在了底部的导航栏。\n\n所有UI界面、功能定制、模型消耗，全部重新自定义！\n\n你现在可以用0.15元/h的StepFun API，也可以自己接1元/h豆包实时转写API，无需加钱购买官方套餐。\n\n每次录音握手需要2-3s，但是无伤大雅。 https://t.co/jFtqa3AMmg",
+      "url": "https://x.com/gengdaJ/status/2117899207764062606"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2117270618328698881"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-02T15:02:16.000Z",
+      "edit_history_tweet_ids": [
+        "2117271075507839479"
+      ],
+      "id": "2117271075507839479",
+      "public_metrics": {
+        "bookmark_count": 429,
+        "impression_count": 47245,
+        "like_count": 253,
+        "quote_count": 5,
+        "reply_count": 57,
+        "retweet_count": 30
+      },
+      "text": "兄弟们，先别睡觉了，尤其是之前买过VPS的。我都差点被吓死了😱🥹。。。\n\nLinux 有一个高危漏洞：CVE-2026-98432，所有对公网开放了端口的 Linux VPS都会受到影响。。。好像我听别人说攻击者不需要密码还是权限啥的就能入侵了。。。 https://t.co/9t8Lojt3pf",
+      "url": "https://x.com/gengdaJ/status/2117271075507839479"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2117157023355936768"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-02T07:41:49.000Z",
+      "edit_history_tweet_ids": [
+        "2117160232539344993"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 176,
+            "start": 153,
+            "url": "https://t.co/RbHrDQITci"
+          }
+        ]
+      },
+      "id": "2117160232539344993",
+      "public_metrics": {
+        "bookmark_count": 524,
+        "impression_count": 65908,
+        "like_count": 386,
+        "quote_count": 2,
+        "reply_count": 68,
+        "retweet_count": 62
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115957353648664966",
+          "type": "quoted"
+        }
+      ],
+      "text": "Mika确实太酷了，实测直接接管手机操控微信，读取聊天记录、发消息都不成问题。小红书、抖音的关注和评论区抓取，实测发现也完全不在话下。\n\n这套方法最牛逼的不是我以前用的ADB连接手机，然后OCR慢慢操作，而是通过无障碍操作直接读取空间数进行操作，速度更快！ https://t.co/PZ0OTqIIcT https://t.co/RbHrDQITci",
+      "url": "https://x.com/gengdaJ/status/2117160232539344993"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-01T09:04:32.000Z",
+      "edit_history_tweet_ids": [
+        "2116818663441608942"
+      ],
+      "id": "2116818663441608942",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 10876,
+        "like_count": 57,
+        "quote_count": 0,
+        "reply_count": 40,
+        "retweet_count": 0
+      },
+      "text": "重庆这地太克我了，暂定打算下周三去深圳香港呆到 11 月中旬。\n\n以前我是不太信什么风水之类的，但是我最近有点信了，这两次回重庆都非常不顺：生病、掉东西、Claude 被封号…总之，就是诸事不顺…\n\n而且在重庆和上海、杭州，我感觉到了天大的落差，上海和杭州大家聊的都是最前沿的科技和",
+      "url": "https://x.com/gengdaJ/status/2116818663441608942"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2116727016527650816",
+          "13_2116727063902392320"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-01T03:08:39.000Z",
+      "edit_history_tweet_ids": [
+        "2116729100631175591"
+      ],
+      "id": "2116729100631175591",
+      "public_metrics": {
+        "bookmark_count": 170,
+        "impression_count": 20518,
+        "like_count": 155,
+        "quote_count": 0,
+        "reply_count": 29,
+        "retweet_count": 13
+      },
+      "text": "数字人工作流进度：60/100，已经吊打我原来真人录制的视频了。。。再继续优化一波，我今年定的小红书和抖音冲击万粉的目标，估计这个月就能成了🤗\n\n这套工作流暂时并不打算开源，因为我烧了太多真金白银了。。。我要自己先把账号做起来。 https://t.co/j81lzht8m3",
+      "url": "https://x.com/gengdaJ/status/2116729100631175591"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116395612350640128",
+          "3_2116395626107895808",
+          "3_2116397427527999488"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-31T05:11:13.000Z",
+      "edit_history_tweet_ids": [
+        "2116397558545453168"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1783786448556331008",
+            "start": 5,
+            "username": "ryuu_restart"
+          }
+        ],
+        "urls": [
+          {
+            "end": 202,
+            "start": 179,
+            "url": "https://t.co/i6PLK6oE6y"
+          }
+        ]
+      },
+      "id": "2116397558545453168",
+      "public_metrics": {
+        "bookmark_count": 1203,
+        "impression_count": 91786,
+        "like_count": 601,
+        "quote_count": 10,
+        "reply_count": 37,
+        "retweet_count": 68
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116390233264771548",
+          "type": "quoted"
+        }
+      ],
+      "text": "Ryuu @ryuu_restart 就是我的神！直接把他的Max账号（已过KYC）给我用了，还手把手教我怎么避免Claude封号，不查不知道，一查发现原来是WebTRC泄露了。。。白封了那么多号。。。\n\n给大家推荐一下他给我发的检查WebTRC是否泄露的工具：https://t.co/gir3L2M6YA https://t.co/naXXrt3PMl https://t.co/i6PLK6oE6y",
+      "url": "https://x.com/gengdaJ/status/2116397558545453168"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-30T01:05:15.000Z",
+      "edit_history_tweet_ids": [
+        "2115973270692585551"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 185,
+            "start": 162,
+            "url": "https://t.co/faoZzsHXMm"
+          }
+        ]
+      },
+      "id": "2115973270692585551",
+      "public_metrics": {
+        "bookmark_count": 43,
+        "impression_count": 32319,
+        "like_count": 94,
+        "quote_count": 4,
+        "reply_count": 66,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115850175868727621",
+          "type": "quoted"
+        }
+      ],
+      "text": "有 Tibo 这波额度翻倍，我真的彻底放弃 Claude 官方订阅了。。。\n\n这几天加在一起被封了快十个号。总计损失：一个 250$ Max，一个100$Max，数不清的20$Pro，全部都不给退款。。。\n\n把我的心情还搞得很烦躁，什么手段都试过了——清理环境、换 IP、各种码、starryblu、Bybit、Apple https://t.co/faoZzsHXMm",
+      "url": "https://x.com/gengdaJ/status/2115973270692585551"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T12:27:06.000Z",
+      "edit_history_tweet_ids": [
+        "2115420031979012418",
+        "2115420089336144052"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 137,
+            "start": 114,
+            "url": "https://t.co/An8uZCqNdU"
+          }
+        ]
+      },
+      "id": "2115420089336144052",
+      "public_metrics": {
+        "bookmark_count": 1315,
+        "impression_count": 109461,
+        "like_count": 885,
+        "quote_count": 5,
+        "reply_count": 45,
+        "retweet_count": 111
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097960663616471410",
+          "type": "quoted"
+        }
+      ],
+      "text": "千呼万唤的Windows版本微信Skill终于做出来了，大家依旧悄悄用，别再给我传出去了，我不想收律师函了，谢谢大伙！\n\n全量解析：聊天、朋友圈、收藏夹、联系人\n\nSkill地址：https://t.co/lOyZazZRad https://t.co/An8uZCqNdU",
+      "url": "https://x.com/gengdaJ/status/2115420089336144052"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T12:26:52.000Z",
+      "edit_history_tweet_ids": [
+        "2115420031979012418",
+        "2115420089336144052"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 134,
+            "start": 111,
+            "url": "https://t.co/An8uZCqNdU"
+          }
+        ]
+      },
+      "id": "2115420031979012418",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 189,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097960663616471410",
+          "type": "quoted"
+        }
+      ],
+      "text": "千呼万唤的Windows版本微信Skill做出来，大家依旧悄悄用，别再给我传出去了，我不想收律师函了，谢谢大伙！\n\n全量解析：聊天、朋友圈、收藏夹、联系人\n\nSkill地址：https://t.co/lOyZazZRad https://t.co/An8uZCqNdU",
+      "url": "https://x.com/gengdaJ/status/2115420031979012418"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T10:45:27.000Z",
+      "edit_history_tweet_ids": [
+        "2115394315468071316",
+        "2115394510066962754"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 77,
+            "start": 54,
+            "url": "https://t.co/VB4nnWsXXB"
+          }
+        ]
+      },
+      "id": "2115394510066962754",
+      "public_metrics": {
+        "bookmark_count": 114,
+        "impression_count": 43185,
+        "like_count": 100,
+        "quote_count": 2,
+        "reply_count": 13,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115293730941067637",
+          "type": "quoted"
+        }
+      ],
+      "text": "基于我被封了快十个号的直觉，我觉得绝大部分经验都是真的。\n\n建议想Claude不被封号的朋友逐帧学习！！！ https://t.co/VB4nnWsXXB",
+      "url": "https://x.com/gengdaJ/status/2115394510066962754"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T10:44:41.000Z",
+      "edit_history_tweet_ids": [
+        "2115394315468071316",
+        "2115394510066962754"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 75,
+            "start": 52,
+            "url": "https://t.co/VB4nnWsXXB"
+          }
+        ]
+      },
+      "id": "2115394315468071316",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 184,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115293730941067637",
+          "type": "quoted"
+        }
+      ],
+      "text": "我觉得绝大部分经验都是真的，基于我被封了快十个号的直觉。建议想Claude不被封号的朋友逐帧学习！！！ https://t.co/VB4nnWsXXB",
+      "url": "https://x.com/gengdaJ/status/2115394315468071316"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2120719037969915904",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW5Oup6a4AAcK-L.jpg",
+        "width": 943
+      },
+      {
+        "height": 2781,
+        "media_key": "3_2120572030122860544",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW3JBrAaIAAv-Se.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2781,
+        "media_key": "3_2120572039656517635",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW3JCOhaMAMk5H2.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2120572063245316096",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW3JDmZasAAGRAM.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2120572077476646912",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW3JEbabkAAjlpH.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2120487106250428417",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW17yc7aUAE43So.jpg",
+        "width": 1536
+      },
+      {
+        "height": 948,
+        "media_key": "3_2120163023461703680",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWxVCWdaYAALLcl.jpg",
+        "width": 1294
+      },
+      {
+        "height": 1452,
+        "media_key": "3_2120167413664890881",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWxZB5PawAEeb61.png",
+        "width": 1478
+      },
+      {
+        "height": 586,
+        "media_key": "3_2120168255700758528",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWxZy6EacAAvu_8.png",
+        "width": 1610
+      },
+      {
+        "height": 996,
+        "media_key": "3_2120168356548681728",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWxZ4xwboAACPWt.png",
+        "width": 1652
+      },
+      {
+        "height": 2056,
+        "media_key": "3_2119962210051211264",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWueZeNawAAaQ5F.jpg",
+        "width": 1212
+      },
+      {
+        "height": 762,
+        "media_key": "3_2119962247183400960",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWueboibAAAm-w2.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2028,
+        "media_key": "3_2119962301709312000",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWueezqaYAAqdfw.jpg",
+        "width": 3404
+      },
+      {
+        "height": 2028,
+        "media_key": "3_2119962330566217728",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWuegfKb0AAi_wa.jpg",
+        "width": 3404
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2119365091984601089",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWl_UoEa8AE5sgZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2119365091976159232",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWl_UoCaIAAWykP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2119365091988824064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWl_UoFbYAAC3BC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1886,
+        "media_key": "3_2118286383127420928",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWWqPgbbYAAyQMP.jpg",
+        "width": 2862
+      },
+      {
+        "height": 941,
+        "media_key": "3_2118286396872167424",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWWqQTobkAAAHQu.jpg",
+        "width": 1672
+      },
+      {
+        "height": 1838,
+        "media_key": "3_2118286423115841536",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWWqR1ZaQAAbLQ9.jpg",
+        "width": 2784
+      },
+      {
+        "height": 682,
+        "media_key": "3_2117933929949003776",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWRpsCBbgAA6QZm.jpg",
+        "width": 1360
+      },
+      {
+        "height": 500,
+        "media_key": "3_2117933930653556736",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWRpsEpaIAALByP.jpg",
+        "width": 1360
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2117933951465779200",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWRptSLbcAAby3b.jpg",
+        "width": 1320
+      },
+      {
+        "height": 969,
+        "media_key": "3_2117904318972182528",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWROwciaQAAqjSl.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1140,
+        "media_key": "3_2117904335183175680",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWROxY7aYAAk_Z7.jpg",
+        "width": 1280
+      },
+      {
+        "height": 922,
+        "media_key": "3_2117904346998575104",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWROyE8bEAAIJdi.jpg",
+        "width": 1280
+      },
+      {
+        "height": 927,
+        "media_key": "3_2117904356809039872",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWROypfa4AABmDg.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 116192,
+        "height": 1440,
+        "media_key": "13_2117895622233903104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2117895622233903104/img/qjCDsp0dxXPdAP0R.jpg",
+        "type": "video",
+        "width": 2560
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2117270618328698881",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWIOaNrakAEaVi-.jpg",
+        "width": 1526
+      },
+      {
+        "duration_ms": 33400,
+        "height": 1920,
+        "media_key": "13_2117157023355936768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2117157023355936768/img/rsr08W993P74NPd4.jpg",
+        "type": "video",
+        "width": 896
+      },
+      {
+        "duration_ms": 241600,
+        "height": 1080,
+        "media_key": "13_2116727016527650816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116727016527650816/img/sVU-acW4tJacJbax.jpg",
+        "type": "video",
+        "width": 1920
+      },
+      {
+        "duration_ms": 204823,
+        "height": 2012,
+        "media_key": "13_2116727063902392320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116727063902392320/img/IQWAgk4S9dNWuFm1.jpg",
+        "type": "video",
+        "width": 3416
+      },
+      {
+        "height": 956,
+        "media_key": "3_2116395612350640128",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HV7ymKZa8AALJWb.jpg",
+        "width": 1292
+      },
+      {
+        "height": 1462,
+        "media_key": "3_2116395626107895808",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HV7ym9paAAA0R5E.jpg",
+        "width": 1678
+      },
+      {
+        "height": 944,
+        "media_key": "3_2116397427527999488",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HV70P0dbYAACCTH.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120719037969915904"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-12T03:23:17.000Z",
+        "edit_history_tweet_ids": [
+          "2120719049676161383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 198,
+              "start": 175,
+              "url": "https://t.co/Hx9vO19AaH"
+            }
+          ]
+        },
+        "id": "2120719049676161383",
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 39475,
+          "like_count": 207,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "quoted"
+          }
+        ],
+        "text": "我靠 Grok Bot 牛逼啊，现在直接打通了我的微信，手机上随时给我推送微信里面的重要信息和待办。\n\n1. 手机和电脑同时登录 Grok bot\n2.电脑端安装https://t.co/fEwRqlcVcU，授予完全磁盘完全访问权限\n3. 手机端 Grok Bot 随时推送，按照自己喜欢的频率来。 https://t.co/YqEGwHKqK6 https://t.co/Hx9vO19AaH"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120572030122860544",
+            "3_2120572039656517635",
+            "3_2120572063245316096",
+            "3_2120572077476646912"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-12T01:30:01.000Z",
+        "edit_history_tweet_ids": [
+          "2120690544825250061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1876494331491848192",
+              "start": 13,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120690544825250061",
+        "public_metrics": {
+          "bookmark_count": 342,
+          "impression_count": 64703,
+          "like_count": 199,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 30
+        },
+        "text": "我去真的后悔没早点用上啊，@chatcutapp帮我打开了全新的剪辑思路——直接用手机版Grok bot实现了云剪辑，爽飞啊！出门在外，再也不用背电脑，一部手机，随时随地剪辑。\n\n之前一直没意识到Grok https://t.co/j72TblBCSP"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120487106250428417"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-11T12:01:40.000Z",
+        "edit_history_tweet_ids": [
+          "2120487119672262867",
+          "2120487622091162033",
+          "2120491932917141711"
+        ],
+        "id": "2120487119672262867",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 251,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "我靠真牛批，今天认识个大佬，他的思路感觉可以用于微信（私域）自动化运营啊！写入都能办到。\n\n他是卖硬件的（主机、一体机等等，做了几十年）。采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。 https://t.co/rULBwcL9yI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120487106250428417"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-11T12:03:40.000Z",
+        "edit_history_tweet_ids": [
+          "2120487119672262867",
+          "2120487622091162033",
+          "2120491932917141711"
+        ],
+        "id": "2120487622091162033",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 318,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "我靠真牛批，今天认识个大佬，他的思路感觉可以用于微信（私域）自动化运营啊！写入都能办到。\n\n他是卖硬件的（主机、一体机等等，做了几十年）。采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。 https://t.co/UsJ4sfYv37"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120487106250428417"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-11T12:20:48.000Z",
+        "edit_history_tweet_ids": [
+          "2120487119672262867",
+          "2120487622091162033",
+          "2120491932917141711"
+        ],
+        "id": "2120491932917141711",
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 25339,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 12
+        },
+        "text": "硬件大佬思路就是牛逼，微信自动化写入都能突破，给我吓坏了…\n\n采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。 https://t.co/SMAr7arK6Z"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120163023461703680",
+            "3_2120167413664890881",
+            "3_2120168255700758528",
+            "3_2120168356548681728"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-10T15:11:10.000Z",
+        "edit_history_tweet_ids": [
+          "2120172421789716790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 173,
+              "start": 150,
+              "url": "https://t.co/bqUTytkfGQ"
+            }
+          ]
+        },
+        "id": "2120172421789716790",
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 14049,
+          "like_count": 182,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120033719235076142",
+            "type": "quoted"
+          }
+        ],
+        "text": "你可能再也找不到这么省、还这么高质量的视频工作流了。。。不管是跨境还是国内短视频平台，不管是复刻爆款还是生成新视频，都可以通过这套AI工作流来大幅降低成本。真的是各渠道对比下来最省的了。。。\n\nTikTok数据接口：1070条对标视频，0.07美元。 https://t.co/1vSzaNf38U https://t.co/bqUTytkfGQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2119962210051211264",
+            "3_2119962247183400960",
+            "3_2119962301709312000",
+            "3_2119962330566217728"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-10T06:00:01.000Z",
+        "edit_history_tweet_ids": [
+          "2120033719235076142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 135,
+              "start": 112,
+              "url": "https://t.co/37LGCL7Ohj"
+            }
+          ]
+        },
+        "id": "2120033719235076142",
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 27075,
+          "like_count": 172,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2119837642947006539",
+            "type": "quoted"
+          }
+        ],
+        "text": "以后DTC做社媒增长的方式可能要大变！分享一个我真实在实操的快速测多种TikTok消费品广告的方法：Claude Code+TikTok数据接口+Hypit=批量复刻竞品广告 https://t.co/b0AyguzpBP https://t.co/37LGCL7Ohj"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-10T14:25:25.000Z",
+        "edit_history_tweet_ids": [
+          "2120160906470662304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 181,
+              "start": 158,
+              "url": "https://t.co/YywyadtbXk"
+            }
+          ]
+        },
+        "id": "2120160906470662304",
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 20126,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108363527971041650",
+            "type": "quoted"
+          }
+        ],
+        "text": "最近几天在深圳疯狂social，刚刚才得空测试了一下Fable5.2，确实太牛皮了，各种任务的完成丝滑程度又上了一大截，Anthropic还送了重置券，我的天哪！已经断档领先了。\n\n赶紧给还没有用上Claude Code的兄弟们更新了一下完整教程。把Ryuu的分流规则、DNS规则和WebTRC规则，以及Apple https://t.co/YywyadtbXk"
+      },
+      {
+        "article": {
+          "cover_media": "3_2108363335775436800",
+          "entities": {
+            "tweets": [
+              {
+                "id": "2095746248208994671"
+              },
+              {
+                "id": "2029570219354845577"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://account.apple.com/account"
+              },
+              {
+                "text": "https://www.dmit.io/aff.php?aff=18784"
+              },
+              {
+                "text": "https://bandwagonhost.com/aff.php?aff=84928"
+              },
+              {
+                "text": "https://www.equaldcdn.com"
+              },
+              {
+                "text": "https://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md"
+              },
+              {
+                "text": "https://github.com/ryuu-restart/agent-route"
+              },
+              {
+                "text": "https://ippure.com"
+              },
+              {
+                "text": "anthropic.com"
+              },
+              {
+                "text": "claude.ai"
+              },
+              {
+                "text": "claude.com"
+              },
+              {
+                "text": "claudeusercontent.com"
+              },
+              {
+                "text": "claude.ai"
+              },
+              {
+                "text": "https://www.ebay.com/itm/136840233242"
+              },
+              {
+                "text": "redpocket.com/activate"
+              },
+              {
+                "text": "https://shop.beeesim.com/register?ref=7QLE2MXR"
+              },
+              {
+                "text": "https://bcn5ot9wwnew.feishu.cn/wiki/RpkuwzpHMiCoHak2gMjcuJeInFd?from=from_copylink"
+              },
+              {
+                "text": "https://x.com/gkxspace/status/2101993381303820704?s=20"
+              },
+              {
+                "text": "https://github.com/alchaincyf/zhangxuefeng-skill/issues/63"
+              },
+              {
+                "text": "https://www.equaldcdn.com/?ref=81cfc0ce31"
+              },
+              {
+                "text": "https://github.com/alchaincyf/zhangxuefeng-skill/issues/63"
+              },
+              {
+                "text": "https://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md"
+              },
+              {
+                "text": "https://x.com/gkxspace/status/2101993381303820704?s=20"
+              },
+              {
+                "text": "https://www.ebay.com/itm/136840233242?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339217721&toolid=80009&mkevt=1"
+              },
+              {
+                "text": "https://t.co/FJRXeAsBdP"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2108105390231834624",
+            "3_2108106013102776320",
+            "3_2108105648693223424",
+            "3_2108105494338646016",
+            "3_2108105805270843392",
+            "3_2108105596721610753",
+            "3_2108106116320370688",
+            "3_2108105285927948288",
+            "3_2108106168224935937",
+            "3_2108106271933276160",
+            "3_2108104995816218625",
+            "3_2108105081958891520",
+            "3_2108105703437312000",
+            "3_2108106376346210304",
+            "3_2108105545026805760",
+            "3_2108105441935085568",
+            "3_2108106220062298112",
+            "3_2108105961047261185",
+            "3_2108105029450391552",
+            "3_2108106323825131521",
+            "3_2108105753416642561",
+            "3_2108105909021130752",
+            "3_2108106065099599872",
+            "3_2108105339703091200",
+            "3_2108105857640939520"
+          ],
+          "plain_text": "Fable5.2和Opus5.5的实力不必多说，我把最新（更新于2026.11.10）的稳定使用Claude Code的方法重新更新了一下。\n这篇文章，我会把我的全流程保姆级地进行讲解。涉及到很多微小细节，建议先收藏，空了再跟着一步步，谨小慎微地实操。\n由于Anthropic封禁账号的多样性和随机性，这篇文章仅分享我的真实开通流程，不承诺任何防封号保证！\n硬性门槛提前看：\n护照（过支付和KYC）\n一个本地Agent（Codex）\n一台Mac（Windows设置和Mac不一样，不敢保证效果）\n一台iPhone（可选，如需在手机使用Claude App）\nShadowrocket（保证电脑和手机网络分流规则一致性）\n好了，话不多说，我们开始👇\n一、在iPhone上注册一个全新的Gmail账号\n在iPhone上下载一个Chrome浏览器，然后注册一个Gmail账号——右上角头像 → 添加账号 → 创建账号。我注册的时候没有遇到需要手机号验证的情况。\n但是用电脑注册，可能就会需要手机号验证，这一步虽然大陆+86手机号也能通过验证，但是如果后续Claude需要验证手机号，我个人觉得，如果两边不都是同时用美国（或其他支持地区）手机号，会有一点影响，所以在下文我也给大家准备了在国行版iPhone开通美国eSIM手机号教程。\n二、注册全新美区Apple ID，充值礼品卡购买Shadowrocket\nShadowrocket，也就是常说的小火箭，需要2.99$购买，这个主要用来配置后面的干净网络以及分流规则。\n同时，需要美区Apple ID才能在App Store搜索到Shadowrocket。所以，第一步，咱们先来注册一个免费的Apple ID。\n来到：https://account.apple.com/account，在这里，用中国手机号即可注册美区Apple ID。\n \n然后再用这个新注册的免费美区Apple ID分别登录Mac和iPhone的App Store，购买Shadowrocket就行，但是这一步也有个麻烦，就是没有美国银行卡不能直接充，所以需要先去支付宝充个礼品卡。\n支付宝【Nidiya礼品卡】，然后来到这个界面，选择第一个Apple Gift Card US，充值3$到上面美区Apple ID绑定的Google邮箱即可，然后在App Store下载Shadowrocket。\n \n \n三、搭建干净的网络出口IP\n因为Claude封号，大多封的就是乱蹦乱跳的垃圾IP，所以网络配置一定是整个Claude注册环节的重中之重！\n两种选择：自建VPS或者IPEqual打包服务，都是美国静态独享IP，延迟都在150-190ms直连。\n前者流量较多，有回国路线优化，但是经常缺货且是机房IP，而且任何网络问题，都需要自己维护。如果想要住宅IP，还得自己去套一层（经常是大的号池），两者加起来的价格和折腾层面来说，后者是优选。\n后者出了问题有技术快速修复，不需要自己操心，而且是静态住宅IP（优选IP段），有回国路线优化，不需要复杂的链式配置，有1v1专属客服，只建议上Max及以上套餐（因为是独享）。\n我自用的是VPS自建服务，感兴趣的可以去看这一篇，也可以把这一篇文章丢给Codex直接配置，记住改端口为443。\n推荐购买两种VPS：\n1、DMIT（经常缺货）：https://www.dmit.io/aff.php?aff=18784\n2、搬瓦工：https://bandwagonhost.com/aff.php?aff=84928\n \nIPEqual，是我之前看YouTube大佬分享的，前段时间也推给了朋友使用，也反馈说速度不错，延迟和前者差不多，如果不想麻烦地配置、就想快速使用Claude的朋友，可以直接买这个：https://www.equaldcdn.com\n \n购买/搭建相关服务之后，把得到的链接导入Shadowrocket，这一步点击右上角的+，再点击导入即可，实在不会，让Codex帮忙导入也行的。然后就能得到一个稳定的出口IP了。\n四、清理旧的Claude登录与转发配置\n我觉得我之前被Claude封号就是关于其乱七八糟的配置没有清理，所以这次做了次大扫除——把Claude Code、CC Switch、Claude桌面端都狠狠清理了。\n我用的是claude-cleanup Skill，清理时保留了Claude Code的历史会话、Skills、插件和自建配置。第三方转发配置和小火箭分流另外处理。\n这一步直接交给Codex就可以，咱们非科班改代码也改不明白。。。\n1、先退出Claude，把下面这段复制给Codex\n退出Claude桌面应用和正在运行的Claude Code会话，Codex保持打开（可能会用到Computer Use操作CC Switch）。然后发送：\n我准备使用官方Claude账号，请检查这台Mac上的Claude Code和Claude Desktop旧配置。\n\n先获取并审查这份claude-cleanup Skill，参考它的白名单和保护范围做只读审计，暂不执行清理脚本：\nhttps://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md\n\n请先列出简短的清理方案：\n1. 检查旧登录凭据、账号缓存，以及Claude缓存和日志。\n2. 检查主身份文件中的userID、machineID，说明重置这些本地标识的影响和范围。\n3. 检查Claude Code的第三方API地址、认证覆盖项和模型映射。如果使用CC Switch，准备切回Claude Official并关闭Claude接管。\n4. 保留历史会话、Skills、插件、Hooks、自建规则、桌面端持久数据，以及飞书等其他工具依赖的配置。不要清空整个.claude或CC Switch数据库，不要卸载应用。\n\n不要输出密码或令牌。先告诉我要处理什么、保留什么、有什么影响，等我确认后再执行。\n2、执行清理操作\n把这段发给Codex：\n按刚才列明的清单执行。先在本机完整备份相关配置，正常退出需要退出的Claude进程，再清理已确认的旧登录、账号缓存和缓存日志，重置已确认的本地标识，移除Claude Code的旧第三方转发配置。\n\n文件只移入废纸篓；钥匙串只删除刚才明确列出的Claude记录。保留其余数据和配置，修改后逐项核验。如果切换供应商时误清了其他设置，请从备份精确恢复。\n\n完成后告诉我：处理结果、备份位置，以及需要重新打开哪些应用。\n如果脚本要求在终端输入CONFIRM，按Codex提示自己输入。核验完成后，按提示重新打开应用即可。\n我当时做了两轮处理：先清旧登录和缓存、重置部分本地ID，后来又用这个Skill把Claude桌面应用和5项桌面端数据移入废纸篓。Claude Code历史、Skills、共享CC Switch配置和一份旧身份副本保留。\n上面的提示词默认保留桌面端数据和应用。如果想连桌面端也一起清理，就在Codex列清单时明确说明，安全重新再来。\n五、配置Shadowrocket分流\n这一步的目标很简单：电脑和手机访问Claude，都走前面准备好的同一个固定节点，最大程度减少IP的改变\n分流规则直接使用Ryuu维护的上游仓库：https://github.com/ryuu-restart/agent-route。\n有一套完整的分流规则、DNS规则和WebTRC规则。适配客户端：Mihomo、FlClash、Clash Verge Rev、Surge、Shadowrocket 或 sing-box。\n配置好了检查是否还有泄露：\nhttps://ippure.com \n下面三张截图用于核对Shadowrocket键位设置。你可以直接把后面的提示词交给Codex操作。\n设置一下小火箭的TUN模式：设置 → 代理 → 代理类型 → None（TUN Mode）。\n \n“全局路由 → 配置”负责按规则分流，这项也要打开，后续教程中，Codex会来改规则。\n \n再打开「设置 → 隧道 → 包括所有网络」，Mac和iPhone都开启。这个开关会让普通应用的联网流量交给小火箭接管，再按分流规则决定走哪个节点或直连。开启后，仍需核验Claude请求是否走指定节点。\n \n1、选好节点，复制提示词给Codex\n先在Mac的小火箭首页选中自己的固定节点，“全局路由”选择“配置”。\n \n如果以前用过Clash等其他代理工具，部分程序可能还留着旧代理地址，出现浏览器能上网、Claude Code却连不上的情况。这一步不用自己找文件，把检查要求一起交给Codex即可。\n随便取一个节点名称，把下面的【节点名称】替换成小火箭里显示的名字，再发给Codex：\n请帮我配置Mac上的Shadowrocket，固定使用节点【节点名称】。\n\n检查并将“设置 → 代理 → 代理类型”设为None（TUN Mode），“全局路由”使用“配置”。\n\n开启“设置 → 隧道 → 包括所有网络”，确认开关已生效，再核验Claude请求是否命中指定节点。\n\n为以下4个域名添加DOMAIN-SUFFIX（域名后缀）规则，覆盖域名本身及其子域名，使用指定节点：\nanthropic.com\nclaude.ai\nclaude.com\nclaudeusercontent.com\n\n修改前备份配置，保留其他分流规则。Claude相关规则不使用直连备用或自动切换节点。检查当前实际加载的规则，并验证正常连接时的真实出口。\n\n同时检查旧代理配置是否与当前Shadowrocket冲突，包括系统代理、环境变量、shell启动文件、npm、Git、Homebrew和Claude设置。\n\n逐项判断用途，只处理失效或冲突项，保留正常使用的配置。需要修改时，先列出具体改动和影响；修改前备份，修改后核验实际使用的Claude客户端是否正常联网。不要输出密码或令牌，也不要直接套用以前Clash的代理端口或代理组名。\n\n准备iPhone可用的相同Claude分流配置。下一步我会打开iPhone镜像，让你继续配置手机。最后说明哪些已经验证，哪些还需要操作。\n2、用iPhone镜像＋Codex配置手机\n在Mac打开「iPhone镜像」，按提示完成首次连接。iPhone和Mac两端要登录同一个系统Apple账户（不是App Store购买账号），开启Wi-Fi和蓝牙，手机放在Mac旁边并锁屏，开启连接。\n \nMac上看到手机画面后，在刚才的Codex对话里发送：\n我已打开iPhone镜像，请使用Computer Use操作镜像窗口，完成手机上的Shadowrocket配置：\n\n1. 先备份手机现有配置，保留其他分流规则，添加前面准备的4条Claude域名后缀规则。确认这些域名及其子域名走同一个固定节点，选择“配置”路由并连接。\n2. 将“设置 → 代理 → 代理类型”设为None（TUN Mode），开启“设置 → 隧道 → 包括所有网络”，并开启“始终开启”，按当前版本识别对应入口并核验。\n3. 分别核验Mac和iPhone的Claude请求是否命中指定节点，以及该节点的实际出口IP。不要只凭普通IP查询网页判断分流是否正确。\n\n遇到密码、Face ID或系统授权，告诉我接手。不要打开微信或改动无关设置。如果无法操作镜像，或修改VPN后镜像断开，说明停在哪一步，给我最短的接手步骤；恢复后继续核验。不要把未完成的事项写成已完成。\n六、修改Mac和iPhone时区\n因为大陆时间和台北时间一致，且台北是可以用Claude的，所以把时区改成台北就很不错。\nMac这样修改：\n系统设置 → 搜索“时区” → 改成“台北市-台湾”\n关掉“自动设定时区”\n \n搜索“定位服务” → 关掉“定位服务”\n \niPhone这样修改：\n设置 → 搜索“日期与时间”，时区选“台北标准时间”，时区城市选“台北”\n关掉“自动设定时间”\n \n设置 → 搜索“系统服务”，关掉“设定时区”\n \n七、注册全新的免费Claude账号\n准备阶段，万事俱备，只欠东风，正式进入注册Claude阶段！\n用新Gmail邮箱登录Chrome浏览器，打开claude.ai，点击“Continue with Google”。\n接下来就是按照指示来做。然后到了手机号那一步，可填可不填。\n \n八、绑定美国手机号\nClaude要求验证手机号时，再按本节操作；没有要求的，可以直接跳到订阅章节。\n关于手机号验证这一个，有些朋友遇到了，有些朋友没遇到，为了以防万一，我还是把焚决教给大家。\n我选择的是RedPocket美国手机号+BeeSIM转换卡。（因为国行版iPhone不支持直接安装 RedPocket 的 eSIM，所以用了 BeeSIM 实体转换卡）\nRedPocket是一年30美金，BeeSIM是19.9美金永久。（按照教程指导购买，用我的链接可以获取优惠价格）\n这个是实体卡（要插入卡槽的，所以得预留一个卡槽位置），发货最快也要一两天才能到，所以建议提前购买。\n1、购买RedPocket套餐\n直接打开eBay的RedPocket商品页\n因为RedPocket官网需要美国银行卡，eBay可以直接中国PayPal支付，且价格更便宜。\n商品页链接：https://www.ebay.com/itm/136840233242\n中国PayPal很好注册，这个就不在这里展开。\n \n购买套餐\n登录不登录都可以，不登录就游客购买，选择这个一个月2.5美元，一年30美元的套餐，下拉框这块选择eSIM Phone Kit（Most popular），然后点击“Buy it now”（截图中被下拉框挡住了）。\n填写相关信息，用中国PayPal支付。\n \n用ChatGPT或者Google地图找到一个美国免税州地址。\n \n电话号的话填写中国手机号即可。\n2、激活并开启漫游\n支付成功后，需要静静等待十几分钟，然后在上述填写的邮箱中找到一封RedPocket的邮件。\n打开redpocket.com/activate这个网址，输入Confirmation Code。\n \n然后下方的Device MEID/IMEI，在iPhone的设置 → 通用 → 关于本机 → IMEI即可找到。\n \n继续在“Roaming”界面（这个要在App内部找一下。因为我不知道为啥最近电脑登不上RedPocket官网，只能用手机，手机上和电脑上Roaming入口略有差距，大家仔细找找肯定能找到），开启Roaming，然后下拉框选“CHINA”，如果出现“It’s Enabled.”，即代表激活开启漫游成功。\n \n注意：有可能下方的Roaming Balances出现余额为0的情况（我遇到过），这个时候有两种解决办法：\n法一：右下角咨询客服，让它把套餐额度加回来（有人成功过）。\n法二：找eBay客服说明套餐额度问题，直接退款回PayPal，过一天再来重新购买套餐。\n3、导入eSIM到BeeSIM\n如果上述操作一切正常，就需要开始把号码写入BeeSIM了。\n首先，购买BeeSIM的卡，通过这个链接才能享受九折优惠：\nhttps://shop.beeesim.com/register?ref=7QLE2MXR\n \n然后收到的信封上面有一个二维码，用微信扫描二维码就能跳转到BeeSIM小程序，或者直接微信搜索BeeSIM也能找到小程序。\n然后开启蓝牙、连接BeeSIM。\n \n导入eSIM的时候，需要去从邮箱里面找到RedPocket发过来的带美国手机号和二维码的这封邮件。\n用BeeSIM的扫描二维码即可录入相关信息，绑定即可。其余操作看图指示。\n \n到这一步，美国手机号应该就能收发短信和接打电话了。\n这个RedPocket美国手机号除了绑定Claude，也有普遍的海外手机号绑定用途，囤着不亏的。这应该是我估算了七八家之后选定的最终方案，性价比拉满。\n九、订阅Pro和Max\n点击“Upgrade Plan”（哦对了，Claude没有中文界面，所以英文得好好学啊）。\n \n先升级Pro，要不然直接升级Max，很容易封号（特别是20×）。\nFull name随便填一个英文名。\nCountry or region选择United States。\nAddress需要在ChatGPT或者谷歌地图随便找一个免税州地址（就用前面那一个就行）。\nUse a different name on invoices不填。\n支付，我用的是StarryBlu，一张新加坡卡，成功通过了Claude订阅。\n关于如何开卡，大家可以看我这个教程： \n \n有一点点门槛：护照；港卡（如果用国内银行卡需要支付不低的手续费）9.9$买张卡，才能使用，买了之后在问卷填写ID，我帮你加速审核：\nhttps://bcn5ot9wwnew.feishu.cn/wiki/RpkuwzpHMiCoHak2gMjcuJeInFd?from=from_copylink\n等Pro用满第一个五小时之后，我就直接升级了Max5×，从注册账号到开通Max总共一天不到。但是升级20×应该也没啥问题，只要每周的周限额不要打满（留个10%-20%，封号概率就会降低不少）。\n【踩坑补充】：一定要20-100-200这样子慢慢升级，要不然直接充值200很容易被封。\nApple Store内购没问题，可以支付宝礼品卡购买，然后充值Claude——这里注意新的Apple Store账号需要申请购买，一般要等两天才能开通购买权限。Apple Store的好处就是谈KYC概率会变小，但是有苹果税，100变成125，200变成250，大家可以自行决定。\n十、中国护照过KYC认证\n我升级Max5×的时候遇到了一个问题——KYC认证。\n当时可给我急坏了，刚充的Pro就用不了了？？？\n所以，我直接谷歌搜索了一波，找到别人的通过方法——直接使用中国护照。\n\n原理就是进行KYC认证的公司是Persona，这家公司的政策里面是允许中国护照的。\n因为本来就有很多在美国工作的人和留学生，Anthropic也不可能一刀切中国人。\n封号更重要的原因，可能还是在前面的出口IP和各种环境的设置。\n我当时参考的说明如下（参考资料截图）：\n \n过了KYC认证之后，我领了前段时间Claude官方赠送的250$云Claude Code额度，没出现什么问题。\n我手机上也随时在用Claude App，也没有出现什么问题。\n但是我没用过Claude Code CLI，所以不确定这个是否对账号有影响。。。（大家谨慎测试）\n到这里，本篇教程就结束啦，大家快去尽情畅玩Claude Opus5.5吧，不管是写代码、对话、设计都是顶级，据说Fable5.5也不远了，早拥有，早享受！！！\n我是逸尘，咱们下期见！\n\n参考资料：\n余温Claude防封号教程：\nhttps://x.com/gkxspace/status/2101993381303820704?s=20\n\n中国护照过KYC教程：\nhttps://github.com/alchaincyf/zhangxuefeng-skill/issues/63",
+          "preview_text": "Fable5.2和Opus5.5的实力不必多说，我把最新（更新于2026.11.10）的稳定使用Claude Code的方法重新更新了一下。",
+          "title": "任何人都能复刻的Claude注册、订阅和过KYC防封号教程"
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-09T01:06:51.000Z",
+        "edit_history_tweet_ids": [
+          "2108363527971041650"
+        ],
+        "id": "2108363527971041650",
+        "public_metrics": {
+          "bookmark_count": 4915,
+          "impression_count": 589604,
+          "like_count": 2505,
+          "quote_count": 52,
+          "reply_count": 104,
+          "retweet_count": 307
+        },
+        "text": "https://t.co/xlWrXLAQhg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2119837206844145664"
+          ]
+        },
+        "author_id": "2043655709825400832",
+        "created_at": "2026-11-09T17:00:53.000Z",
+        "edit_history_tweet_ids": [
+          "2119837642947006539"
+        ],
+        "id": "2119837642947006539",
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 261638,
+          "like_count": 328,
+          "quote_count": 81,
+          "reply_count": 96,
+          "retweet_count": 46
+        },
+        "text": "We just killed Higgsfield Ad Multiplier.\nMeet the world’s #1 viral ad cloner.\n\nDrop in your competitor’s best-performing ad and a photo of your product. Hypit rebuilds it around your product, then generates 100 variants with different people, scenes, and languages.\n\nKey Point: https://t.co/ws8PrG6b9M"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2119365091984601089",
+            "3_2119365091976159232",
+            "3_2119365091988824064"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-08T09:43:11.000Z",
+        "edit_history_tweet_ids": [
+          "2119365103795716473"
+        ],
+        "id": "2119365103795716473",
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 52046,
+          "like_count": 371,
+          "quote_count": 10,
+          "reply_count": 79,
+          "retweet_count": 21
+        },
+        "text": "朝着目标努力了两年，我终于有资本、有自信，独自一人来到惠州度假。\n\n沙滩边，天气晴朗，短袖短裤，躺于沙滩椅上，听海浪拍岸声，有感而发作此篇，分享给所有还在迷茫的你。\n\n记得两年前，在内地刚上大学，枯燥的大学生活让我开始思考人生。我从小的梦想就是赚大钱，所以我去当了家教。 https://t.co/j07AM6PSRA"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-07T02:55:14.000Z",
+        "edit_history_tweet_ids": [
+          "2118900054526447905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 185,
+              "start": 162,
+              "url": "https://t.co/dbhafGkuHn"
+            }
+          ]
+        },
+        "id": "2118900054526447905",
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 27445,
+          "like_count": 270,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2118496604391178314",
+            "type": "quoted"
+          }
+        ],
+        "text": "为了能让Skill能在真实任务中不断自我迭代，我在几个月前就在Agent.md和Claude.md中加入了这段专属于Skill的提示词：\n\n## Skill 使用复盘\n\n- 在完成整个任务后，简短复盘本次实际使用的 Skill。\n- 只有发现可归因于 Skill 的实际阻碍、重复补救或明确缺失时，才在最终答复中说明涉及的 https://t.co/dbhafGkuHn"
+      },
+      {
+        "author_id": "1323768907",
+        "created_at": "2026-11-06T00:12:04.000Z",
+        "edit_history_tweet_ids": [
+          "2118496604391178314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 195,
+              "start": 172,
+              "url": "https://t.co/2YwlcjRPyN"
+            }
+          ]
+        },
+        "id": "2118496604391178314",
+        "public_metrics": {
+          "bookmark_count": 847,
+          "impression_count": 65306,
+          "like_count": 592,
+          "quote_count": 19,
+          "reply_count": 82,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2118495232266584335",
+            "type": "quoted"
+          }
+        ],
+        "text": "Skill 自迭代能力改造指南\n\n【使用方式】\n将本指南完整复制给能够访问、编辑你的 Skill 文件的 Agent（如 Claude Code、Codex），并告诉它需要改造的 Skill 路径。\nAgent 应先阅读现有文件并提供简要诊断，再与用户确认标准，最后实施改造。\n\n【改造目标】\n请帮我检查并改造现有 Skill，让它从一份依赖 https://t.co/2YwlcjRPyN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2118286383127420928",
+            "3_2118286396872167424",
+            "3_2118286423115841536"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-05T10:17:24.000Z",
+        "edit_history_tweet_ids": [
+          "2118286550819856581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 183,
+              "start": 160,
+              "url": "https://t.co/OFsUYkRKH7"
+            }
+          ]
+        },
+        "id": "2118286550819856581",
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 322475,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2118001281029886270",
+            "type": "quoted"
+          }
+        ],
+        "text": "细思极恐！REA仓库一夜爆火，Mika控制手机操作微信，我把剪映、飞书录音豆还有一大堆APP轻松逆向。\n\nAI能力飞速发展带来的后果是——各家大厂App（包括微信）连忙关上口子、我也收到律师函😅。\n\n我能深刻地感受到“AI安全”已经迫在眉睫。现在Codex和Claude https://t.co/gG1GjALpBg https://t.co/OFsUYkRKH7"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2118000964091379712"
+          ]
+        },
+        "author_id": "171476994",
+        "created_at": "2026-11-04T15:23:50.000Z",
+        "edit_history_tweet_ids": [
+          "2118001281029886270"
+        ],
+        "id": "2118001281029886270",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3486865,
+          "like_count": 49,
+          "quote_count": 25,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "text": "China Resources Longdation's Aethereal Cybersecurity and GCSA Jointly Establish the Centre for AI and Cybersecurity Research\n\nHong Kong, November 4, 2026 — China Resources Longdation's Aethereal Cybersecurity and Global Cybersecurity Alliance Limited (GCSA) have announced the https://t.co/JjlQ9OGrWA"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2117933929949003776",
+            "3_2117933930653556736",
+            "3_2117933951465779200"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-04T11:56:00.000Z",
+        "edit_history_tweet_ids": [
+          "2117948976624189462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 167,
+              "start": 144,
+              "url": "https://t.co/EzRGjjOH0a"
+            }
+          ]
+        },
+        "id": "2117948976624189462",
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 15534,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2117899207764062606",
+            "type": "quoted"
+          }
+        ],
+        "text": "借助REA仓库实操成功！飞书录音豆整个软件层面魔改后实操原理其实不复杂，就是借用了自己一台服务器去对接API，然后实现录音转写Token自由。\n\n按实体按钮→握手→蓝牙实时读取→实时字幕传回→录后识别→飞书文档\n\n相比于原版本的优点在于： https://t.co/BxD7ABY2P3 https://t.co/EzRGjjOH0a"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117895622233903104"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-04T08:38:14.000Z",
+        "edit_history_tweet_ids": [
+          "2117899207764062606"
+        ],
+        "id": "2117899207764062606",
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 29705,
+          "like_count": 109,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 12
+        },
+        "text": "我把飞书录音豆给逆向了。\n\n新搭建了一个飞书应用“录音豆”，放在了底部的导航栏。\n\n所有UI界面、功能定制、模型消耗，全部重新自定义！\n\n你现在可以用0.15元/h的StepFun API，也可以自己接1元/h豆包实时转写API，无需加钱购买官方套餐。\n\n每次录音握手需要2-3s，但是无伤大雅。 https://t.co/jFtqa3AMmg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2117904318972182528",
+            "3_2117904335183175680",
+            "3_2117904346998575104",
+            "3_2117904356809039872"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-04T10:30:00.000Z",
+        "edit_history_tweet_ids": [
+          "2117927336230437194"
+        ],
+        "id": "2117927336230437194",
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 26086,
+          "like_count": 118,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 14
+        },
+        "text": "AI语音输入法的桌子被掀了！网易大善人继UU远程之后，又出一款神级语音输入产品——叭哥说，依旧完全免费！\n\n之前用Typeless和其他语音输入法的朋友，我建议都转过来用叭哥说吧，这两天体验了一波，已经切换不回别的输入法了。。。太好用了。。。 https://t.co/HL2a1xESZm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2117270618328698881"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-02T15:02:16.000Z",
+        "edit_history_tweet_ids": [
+          "2117271075507839479"
+        ],
+        "id": "2117271075507839479",
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 47245,
+          "like_count": 253,
+          "quote_count": 5,
+          "reply_count": 57,
+          "retweet_count": 30
+        },
+        "text": "兄弟们，先别睡觉了，尤其是之前买过VPS的。我都差点被吓死了😱🥹。。。\n\nLinux 有一个高危漏洞：CVE-2026-98432，所有对公网开放了端口的 Linux VPS都会受到影响。。。好像我听别人说攻击者不需要密码还是权限啥的就能入侵了。。。 https://t.co/9t8Lojt3pf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117157023355936768"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-02T07:41:49.000Z",
+        "edit_history_tweet_ids": [
+          "2117160232539344993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 176,
+              "start": 153,
+              "url": "https://t.co/RbHrDQITci"
+            }
+          ]
+        },
+        "id": "2117160232539344993",
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 65908,
+          "like_count": 386,
+          "quote_count": 2,
+          "reply_count": 68,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115957353648664966",
+            "type": "quoted"
+          }
+        ],
+        "text": "Mika确实太酷了，实测直接接管手机操控微信，读取聊天记录、发消息都不成问题。小红书、抖音的关注和评论区抓取，实测发现也完全不在话下。\n\n这套方法最牛逼的不是我以前用的ADB连接手机，然后OCR慢慢操作，而是通过无障碍操作直接读取空间数进行操作，速度更快！ https://t.co/PZ0OTqIIcT https://t.co/RbHrDQITci"
+      },
+      {
+        "author_id": "1813556838815911937",
+        "created_at": "2026-10-30T00:02:00.000Z",
+        "edit_history_tweet_ids": [
+          "2115957353648664966"
+        ],
+        "id": "2115957353648664966",
+        "public_metrics": {
+          "bookmark_count": 5785,
+          "impression_count": 1437031,
+          "like_count": 3453,
+          "quote_count": 136,
+          "reply_count": 379,
+          "retweet_count": 464
+        },
+        "text": "Mika 正式开源：真正的 Phone Agent，就跑在你的安卓手机上。\n\n一句话交给它，它就能在你手机上把事干完。\n\n复用你现有的登录态，不用额外授权，也不用 Root，更不用电脑。\n\n你继续玩手机，它在后台干活，互不干扰。干完了通知你，你也可以随时随地再丢任务给它。\n\n他能干什么？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-01T09:04:32.000Z",
+        "edit_history_tweet_ids": [
+          "2116818663441608942"
+        ],
+        "id": "2116818663441608942",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10876,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "text": "重庆这地太克我了，暂定打算下周三去深圳香港呆到 11 月中旬。\n\n以前我是不太信什么风水之类的，但是我最近有点信了，这两次回重庆都非常不顺：生病、掉东西、Claude 被封号…总之，就是诸事不顺…\n\n而且在重庆和上海、杭州，我感觉到了天大的落差，上海和杭州大家聊的都是最前沿的科技和"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2116727016527650816",
+            "13_2116727063902392320"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-01T03:08:39.000Z",
+        "edit_history_tweet_ids": [
+          "2116729100631175591"
+        ],
+        "id": "2116729100631175591",
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 20518,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 13
+        },
+        "text": "数字人工作流进度：60/100，已经吊打我原来真人录制的视频了。。。再继续优化一波，我今年定的小红书和抖音冲击万粉的目标，估计这个月就能成了🤗\n\n这套工作流暂时并不打算开源，因为我烧了太多真金白银了。。。我要自己先把账号做起来。 https://t.co/j81lzht8m3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2116395612350640128",
+            "3_2116395626107895808",
+            "3_2116397427527999488"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-31T05:11:13.000Z",
+        "edit_history_tweet_ids": [
+          "2116397558545453168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1783786448556331008",
+              "start": 5,
+              "username": "ryuu_restart"
+            }
+          ],
+          "urls": [
+            {
+              "end": 202,
+              "start": 179,
+              "url": "https://t.co/i6PLK6oE6y"
+            }
+          ]
+        },
+        "id": "2116397558545453168",
+        "public_metrics": {
+          "bookmark_count": 1203,
+          "impression_count": 91786,
+          "like_count": 601,
+          "quote_count": 10,
+          "reply_count": 37,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2116390233264771548",
+            "type": "quoted"
+          }
+        ],
+        "text": "Ryuu @ryuu_restart 就是我的神！直接把他的Max账号（已过KYC）给我用了，还手把手教我怎么避免Claude封号，不查不知道，一查发现原来是WebTRC泄露了。。。白封了那么多号。。。\n\n给大家推荐一下他给我发的检查WebTRC是否泄露的工具：https://t.co/gir3L2M6YA https://t.co/naXXrt3PMl https://t.co/i6PLK6oE6y"
+      },
+      {
+        "article": {
+          "cover_media": "3_2116387719995965440",
+          "entities": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "gengdaJ"
+              }
+            ]
+          },
+          "plain_text": "留日 7 年，创业亏光父母 36 万养老钱。今年 3 月，我脱下所有的外衣，从直播间最底层重新开始。\n我是 Ryuu|玉龙，Ryuu 是“龙”的日语读音。这是我在 X 的第一篇推文，想聊聊我是怎么把一手好牌打烂，又靠 AI 一点点把牌赢回来的。\n1. 抓住了第一波红利，但没接住ChatGPT 上线第一天我就开始用，一直订阅到现在。GPT-4 刚出那会儿，我在小红书随手发了篇“用 AI 写日本大学报告”的笔记，意外爆了。第一个月我就靠接单赚到了钱，这几年陆陆续续也攒了六位数。但那时候太年轻，有点飘，觉得钱来得容易，没趁热做大，生生错过了第一波最大的流量红利。\n2. 2025 年创业：36 万买来的教训大学朋友手里有三丽鸥的货源，我觉得不能浪费，就拉上儿时挚友合伙创业。那段时间，我在日本顶着大太阳骑自行车到处扫货、打包寄回国内；他在国内负责抖音直播。前前后后，我投进了 36 万——那全是我爸妈的养老钱。\n直到我第一次回国去公司，看到的一幕让我至今难忘： 三个人，每天下播后雷打不动点 800 块钱的烧烤，满桌剩下的肉直接扔掉。怪他吗？怪。但更该扇自己两巴掌：没请会计、合同粗糙、全凭“兄弟信任”连账都没核对过。2026 年初，我的第一次创业彻底崩盘。\n3. 钻进直播间最底层，用 AI 破局被坑怕了，我决定自己把电商的底裤摸透。我在抖音买课自学（交了不少学费，也淘到了真东西），今年 3 月直接进了一家直播公司，从最基础的剪视频干起。\n因为懂一点 AI，我看中控每天机械地点弹窗、发福袋太消耗精力，就借着 AI 在 GitHub 上扒了个开源项目改了改，把这套流程全自动化了。中控腾出手做场控，直播间转化率肉眼可见地往上走。后来我又轮岗做了投手、运营，编、拍、剪全自己上手。\n我不会写代码，但我学会了和 Agent 一起干活： 从 AI做图、AI 千川素材、批量混剪等，到最近画布平台本地部署（公司准备接下来正式使用）。我发现，当懂业务流程的人拿起 AI，爆发力是惊人的。\n4. 为什么是现在？为什么叫 ryuu_restart？以前无数次想做自媒体，都因为懒半途而废。但就在前几天，我自己在业务里琢磨出的一套解法，刚好帮到了我一直很佩服的逸尘 @gengdaJ 。那种“自己造的工具真的能帮人解决问题”的兴奋感，我太久没有体验过了。当逸尘说愿意帮我转发第一条推文时，我突然有了久违的笃定。特别感谢逸尘，也感谢社群里大家。\n账号叫 ryuu_restart，这里就是我重启的地方。\n接下来，我会在这里连载一个「不懂代码的电商人，如何用 AI 重新做一遍业务」的真实记录：\n怎么和 Agent 配合做高转化的电商图、带货视频\n怎么手搓内部提效工具与自动化工作流\n跑通了什么、踩碎了哪些坑，全部开源摊开讲\n如果你也在做电商，或者正在用 AI 折腾点真正能落地的东西，欢迎关注我，我们一起往前走。",
+          "preview_text": "留日 7 年，创业亏光父母 36 万养老钱。今年 3 月，我脱下所有的外衣，从直播间最底层重新开始。\n我是 Ryuu|玉龙，Ryuu 是“龙”的日语读音。这是我在 X 的第一篇推文，想聊聊我是怎么把一手好牌打烂，又靠 AI",
+          "title": "从留日 7 年亏光 36 万，到直播间底层的 AI 破局者：我的重启之路"
+        },
+        "author_id": "1783786448556331008",
+        "created_at": "2026-10-31T04:42:06.000Z",
+        "edit_history_tweet_ids": [
+          "2116390233264771548"
+        ],
+        "id": "2116390233264771548",
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 68094,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "text": "留日 7 年，创业亏光父母 36 万养老钱：我如何从直播间最底层，靠 AI 重新杀出来 https://t.co/PzUkpDelcH"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-30T01:05:15.000Z",
+        "edit_history_tweet_ids": [
+          "2115973270692585551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 185,
+              "start": 162,
+              "url": "https://t.co/faoZzsHXMm"
+            }
+          ]
+        },
+        "id": "2115973270692585551",
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 32319,
+          "like_count": 94,
+          "quote_count": 4,
+          "reply_count": 66,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115850175868727621",
+            "type": "quoted"
+          }
+        ],
+        "text": "有 Tibo 这波额度翻倍，我真的彻底放弃 Claude 官方订阅了。。。\n\n这几天加在一起被封了快十个号。总计损失：一个 250$ Max，一个100$Max，数不清的20$Pro，全部都不给退款。。。\n\n把我的心情还搞得很烦躁，什么手段都试过了——清理环境、换 IP、各种码、starryblu、Bybit、Apple https://t.co/faoZzsHXMm"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-29T16:56:07.000Z",
+        "edit_history_tweet_ids": [
+          "2115850175868727621"
+        ],
+        "id": "2115850175868727621",
+        "public_metrics": {
+          "bookmark_count": 3234,
+          "impression_count": 7588849,
+          "like_count": 39112,
+          "quote_count": 3648,
+          "reply_count": 7361,
+          "retweet_count": 2700
+        },
+        "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-28T12:26:52.000Z",
+        "edit_history_tweet_ids": [
+          "2115420031979012418",
+          "2115420089336144052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 134,
+              "start": 111,
+              "url": "https://t.co/An8uZCqNdU"
+            }
+          ]
+        },
+        "id": "2115420031979012418",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097960663616471410",
+            "type": "quoted"
+          }
+        ],
+        "text": "千呼万唤的Windows版本微信Skill做出来，大家依旧悄悄用，别再给我传出去了，我不想收律师函了，谢谢大伙！\n\n全量解析：聊天、朋友圈、收藏夹、联系人\n\nSkill地址：https://t.co/lOyZazZRad https://t.co/An8uZCqNdU"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-28T12:27:06.000Z",
+        "edit_history_tweet_ids": [
+          "2115420031979012418",
+          "2115420089336144052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 137,
+              "start": 114,
+              "url": "https://t.co/An8uZCqNdU"
+            }
+          ]
+        },
+        "id": "2115420089336144052",
+        "public_metrics": {
+          "bookmark_count": 1315,
+          "impression_count": 109461,
+          "like_count": 885,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097960663616471410",
+            "type": "quoted"
+          }
+        ],
+        "text": "千呼万唤的Windows版本微信Skill终于做出来了，大家依旧悄悄用，别再给我传出去了，我不想收律师函了，谢谢大伙！\n\n全量解析：聊天、朋友圈、收藏夹、联系人\n\nSkill地址：https://t.co/lOyZazZRad https://t.co/An8uZCqNdU"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-09-10T08:09:35.000Z",
+        "edit_history_tweet_ids": [
+          "2097960663616471410"
+        ],
+        "id": "2097960663616471410",
+        "public_metrics": {
+          "bookmark_count": 2066,
+          "impression_count": 569173,
+          "like_count": 974,
+          "quote_count": 16,
+          "reply_count": 55,
+          "retweet_count": 175
+        },
+        "text": "很多假粉丝都不知道我已经把微信生态都做成了Skill。。。\n\n1.微信数据Skill。微信聊天记录、微信联系人、微信朋友圈、微信收藏夹全部都可以被Codex直接读取，也支持增量读取，只有首次重签名具有一定风险，后续基本无风险。\nhttps://t.co/fEwRqlcVcU"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-28T10:44:41.000Z",
+        "edit_history_tweet_ids": [
+          "2115394315468071316",
+          "2115394510066962754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 75,
+              "start": 52,
+              "url": "https://t.co/VB4nnWsXXB"
+            }
+          ]
+        },
+        "id": "2115394315468071316",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115293730941067637",
+            "type": "quoted"
+          }
+        ],
+        "text": "我觉得绝大部分经验都是真的，基于我被封了快十个号的直觉。建议想Claude不被封号的朋友逐帧学习！！！ https://t.co/VB4nnWsXXB"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-28T10:45:27.000Z",
+        "edit_history_tweet_ids": [
+          "2115394315468071316",
+          "2115394510066962754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 77,
+              "start": 54,
+              "url": "https://t.co/VB4nnWsXXB"
+            }
+          ]
+        },
+        "id": "2115394510066962754",
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 43185,
+          "like_count": 100,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115293730941067637",
+            "type": "quoted"
+          }
+        ],
+        "text": "基于我被封了快十个号的直觉，我觉得绝大部分经验都是真的。\n\n建议想Claude不被封号的朋友逐帧学习！！！ https://t.co/VB4nnWsXXB"
+      },
+      {
+        "author_id": "1897327640543133696",
+        "created_at": "2026-10-28T04:05:00.000Z",
+        "edit_history_tweet_ids": [
+          "2115293730941067637"
+        ],
+        "id": "2115293730941067637",
+        "public_metrics": {
+          "bookmark_count": 2961,
+          "impression_count": 499042,
+          "like_count": 2353,
+          "quote_count": 67,
+          "reply_count": 263,
+          "retweet_count": 205
+        },
+        "text": "Claude风控天机泄露😱\n\n1. Claude 的风控是积分制：注册时会先给账号打分，之后根据行为加分或减分，低于一定分值就会直接封号（很少加分）。\n\n2. 注册：邮箱和 IP 的权重最高。IP 不一定要家宽，但一定要干净，例如自建 IP。Gmail 已经不是最优选，他们现在使用的是一些其他高权重邮箱。注册时直接弹"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1876494331491848192",
+        "name": "ChatCut",
+        "protected": false,
+        "username": "chatcutapp"
+      },
+      {
+        "id": "1783786448556331008",
+        "name": "Ryuu｜玉龙",
+        "protected": false,
+        "username": "ryuu_restart"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120719049676161383",
+    "next_token": "b26v89c19zqg8o3juzlxny54udd7pt97ns6iye3hjx8xp",
+    "oldest_id": "2115394315468071316",
+    "result_count": 24
+  }
+}

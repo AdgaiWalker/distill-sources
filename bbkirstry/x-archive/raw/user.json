@@ -1,0 +1,38 @@
+{
+  "id": "1923981862273417222",
+  "username": "bbkirstry",
+  "name": "小晚不在",
+  "created_at": "2025-05-18T06:00:26.000Z",
+  "description": "品牌内容营销 × AI增长 × IP策划\nWayToBot 社区联合发起人\n赛博小晚 Skill 作者：https://t.co/ntE6Nb5398\n\nAI 时代，成为你自己 🧸",
+  "entities": {
+    "description": {
+      "urls": [
+        {
+          "display_url": "github.com/cyberxiaowan",
+          "end": 75,
+          "expanded_url": "http://github.com/cyberxiaowan",
+          "start": 52,
+          "url": "https://t.co/ntE6Nb5398"
+        }
+      ]
+    }
+  },
+  "url": "",
+  "location": null,
+  "protected": false,
+  "verified": true,
+  "verified_type": "blue",
+  "public_metrics": {
+    "followers_count": 10831,
+    "following_count": 418,
+    "like_count": 2205,
+    "listed_count": 59,
+    "media_count": 438,
+    "post_count": 2789
+  },
+  "pinned_post_id": "2122142139580862662",
+  "pinned_post_status": "not_found",
+  "most_recent_post_id": "2124412023895425341",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/2059964490326880256/hPFkU6wC_normal.jpg",
+  "github": "https://github.com/cyberxiaowan"
+}

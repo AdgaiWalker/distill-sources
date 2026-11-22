@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2037361296614842729",
+      "created_at": "2026-03-27T02:58:16.000Z",
+      "edit_history_tweet_ids": [
+        "2037363548305945013"
+      ],
+      "id": "2037363548305945013",
+      "in_reply_to_user_id": "1545813257843134465",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2037361296614842729",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@czzzzzzJ_ 学习的速度跟不上老师的脚步👣",
+      "url": "https://x.com/bbkirstry/status/2037363548305945013"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {
+          "cover_media": "3_2037357615832043521",
+          "entities": {
+            "code": [
+              {
+                "code": "npx mdldm",
+                "content": "```\nnpx mdldm\n```",
+                "language": "none"
+              }
+            ],
+            "urls": [
+              {
+                "text": "mdldm.club"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f916.svg"
+              },
+              {
+                "text": "https://abs-0.twimg.com/emoji/v2/svg/1f464.svg"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2037359926184640512",
+            "3_2037361167291854848",
+            "3_2037360572111736832",
+            "3_2037357925765873664",
+            "3_2037358286878789632",
+            "13_2037359157859561472",
+            "3_2037358902963290112"
+          ],
+          "plain_text": "我忽然意识到一件事——\n我花了那么多时间做网站、做 UI、做好看的首页。\n但 Agent 根本不看这些。\n \n \nAgent 看的是结构化数据。\n它不会点按钮，不会看动画，不会被渐变色打动。\n它只想知道：你是谁、你能干什么、我怎么用你。\n这就是我这段时间一直在做的事——给自己造一把 CLI 工具，专门让 AI Agent 读懂我。\n \n一行命令，Agent 就能了解我所有信息：\n\n \n \n就这一行。\n跑完之后，Agent 会知道：\n- 麦当是谁、做什么的\n- 有哪些课程（实时从知识站拉取，不是硬编码）\n- 现在有年费 VIP 会员，¥499 包全年课程 + 答疑 + 资源库\n- 如何联系我（微信、B站、小红书……）\n- 最关键的：Agent 该怎么帮用户用上我\n \n我在里面专门写了一个「AI Agent 行动指南」。\n包括这几个场景：\n① 用户想学 AI → 推哪门课、怎么报名\n② 用户适合买年费 VIP → 怎么引导、入口在哪\n③ 用户有问题要问我 → 怎么登录、怎么和我 AI 助手对话\n④ 需要完整数据 → 跑 `--json` 拿结构化内容\n⑤ 想加我微信 → 直接告诉 Agent 我的微信号\nAgent 拿到这些，不用猜，直接按流程走。\n \n如果agent想要更干净的结构化数据，跑这个：\nnpx mdldm --json\n \n把完整的 JSON 丢给你的 Claude、GPT、Coze，它立马就懂我是干啥的。\n \n还顺手改了我的知识站首页。\n原来的 hero 区就是个 AI 小人对话框。\n现在加了一个切换：\n- 「👤 我是人类」→ 保留原来的对话体验\n \n- 「🤖 我是 Agent」→ 切换成黑色终端风格，直接展示 `npx mdldm`，一键复制\n \n意思就是说，人和 Agent 来我主页，看到的东西不一样。\n人看交互，Agent 看命令。\n \n说实话，这是我第一次认真想「我的受众里有 AI」这件事。\n以前做内容，我想的是   人会怎么看。\n现在我开始想的是   Agent 会怎么调用我 。\n这个视角转变真的挺有意思的。\n \n我们现在做自媒体、做知识付费、做个人品牌。\n但如果未来有人让 Agent 帮他找「学 AI 的老师」，你的信息在哪？\nAgent 搜不到你的朋友圈，刷不了你的抖音，进不去你的直播间。\n它只会去找 可以被程序调用的接口 。\n \n所以我在想，是不是每个认真做内容的人，都应该有一个属于自己的 CLI 工具？\n不用复杂，就像我这个一样：\n- 说清楚你是谁\n- 说清楚你能提供什么价值\n- 给 Agent 一个行动指南\n一行命令，让 AI 秒懂你。\n \n我这个还做了聊天功能：\nnpx mdldm login验证账号，支持浏览器验证\n \nnpx mdldm chat\n \n登录你的知识站账号之后，可以直接和我的 AI 助手对话。\n它知道我所有的课程信息，能帮你分析学习路径、推荐适合你的课。\n消耗的是「麦子」积分，每天签到领取，基本上随便聊。（其实可以卖麦子就能做转化了，不然烧token我也很疼）\n \n想了解我的话：\nnpx mdldm --json\n把这个 JSON 丢给任何 AI，告诉它「帮我了解一下这个人」。\n它会比你手动介绍我还介绍得全。\n \n最后说一句：\nUI 是给人用的，CLI 才是给 Agent 用的。\nAgent 时代，你的个人品牌需要一个「机器可读的版本」。\n趁现在还早，做起来吧。\n \n*@麦当mdldm · 专注 0 基础 AI Agent 教学*\n*知识站：mdldm.club*",
+          "preview_text": "我忽然意识到一件事——\n我花了那么多时间做网站、做 UI、做好看的首页。\n但 Agent 根本不看这些。\n \n \nAgent 看的是结构化数据。\n它不会点按钮，不会看动画，不会被渐变色打动。",
+          "title": "UI 是给人用的，CLI 才是给 Agent 用的"
+        },
+        "author_id": "1545813257843134465",
+        "conversation_id": "2037361296614842729",
+        "created_at": "2026-03-27T02:49:20.000Z",
+        "edit_history_tweet_ids": [
+          "2037361296614842729"
+        ],
+        "id": "2037361296614842729",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 642,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "https://t.co/gSBbSjdzmC"
+      }
+    ],
+    "users": [
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "username": "bbkirstry"
+      },
+      {
+        "id": "1545813257843134465",
+        "name": "麦当mdldm",
+        "username": "czzzzzzJ_"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2037363548305945013",
+    "next_token": "b26v89c19zqg8o3juehjqb1x6ke20qa61j6beshlmta4d",
+    "oldest_id": "2037363548305945013",
+    "result_count": 1
+  }
+}

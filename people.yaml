@@ -6,7 +6,7 @@
 #   3. 复制 templates/person-card.md 为 people/<slug>.md 并填写
 #   4. 运行 python3 scripts/classify.py
 #
-# 用途 = 这种知识能帮着蒸馏出哪类 skill。已用：出海、产品、AI 工具。
+# 用途 = 这种知识能帮着蒸馏出哪类 skill。已用：出海、产品、AI 工具、自媒体。
 # 可扩展举例：IP、AI 工具、具身智能。每人一个主用途，可以有多个用途。
 #
 # 来源类型只使用：wechat / group-chat / x / github / notes
@@ -15,6 +15,8 @@
 known_purposes:
   - 出海
   - 产品
+  - AI 工具
+  - 自媒体
 
 people:
   - slug: gefei
@@ -72,6 +74,26 @@ people:
       - AI 工具
     sources:
       - path: poteto/x-archive
+        source_type: x
+        visibility: public
+        scanner: x-archive
+  - slug: bbkirstry
+    name: 小晚不在
+    primary_purpose: 自媒体
+    purposes:
+      - 自媒体
+    sources:
+      - path: bbkirstry/x-archive
+        source_type: x
+        visibility: public
+        scanner: x-archive
+  - slug: gengdaj
+    name: 逸尘
+    primary_purpose: 自媒体
+    purposes:
+      - 自媒体
+    sources:
+      - path: gengdaj/x-archive
         source_type: x
         visibility: public
         scanner: x-archive

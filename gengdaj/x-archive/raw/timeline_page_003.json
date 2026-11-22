@@ -1,0 +1,3298 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-19T02:00:21.000Z",
+      "display_text_range": [
+        0,
+        78
+      ],
+      "edit_history_tweet_ids": [
+        "2123234893899747719"
+      ],
+      "id": "2123234893899747719",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1308,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122869389238382875",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "最新：一般谷歌会让你试用一下，平均 2-24 个小时掉订阅，属于是营销手段的一种了。但是 carbon 确实好用，以及今天的新模型，我已经打算上官方订阅了😂",
+      "url": "https://x.com/gengdaJ/status/2123234893899747719"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122994499622203846",
+      "created_at": "2026-11-18T13:26:48.000Z",
+      "display_text_range": [
+        12,
+        38
+      ],
+      "edit_history_tweet_ids": [
+        "2123045259500511525"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "3793328412",
+            "start": 0,
+            "username": "Black_Yoke"
+          }
+        ]
+      },
+      "id": "2123045259500511525",
+      "in_reply_to_user_id": "3793328412",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1289,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123040115530633331",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Black_Yoke 有没有可能放出来的都是能看的，让我更震惊的放不出来…",
+      "url": "https://x.com/gengdaJ/status/2123045259500511525"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122994499622203846",
+      "created_at": "2026-11-18T12:39:28.000Z",
+      "display_text_range": [
+        10,
+        70
+      ],
+      "edit_history_tweet_ids": [
+        "2123033346951508361"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1890199581125931008",
+            "start": 0,
+            "username": "BrontoHe"
+          }
+        ]
+      },
+      "id": "2123033346951508361",
+      "in_reply_to_user_id": "1890199581125931008",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 417,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123030587380568319",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@BrontoHe ？你真的多少有点病，有没有作用我自己不会判断吗，我是弱智？Carbon 有作用我才发，没作用我发出来找骂？你是故意找茬？",
+      "url": "https://x.com/gengdaJ/status/2123033346951508361"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122994499622203846",
+      "created_at": "2026-11-18T12:17:00.000Z",
+      "display_text_range": [
+        10,
+        29
+      ],
+      "edit_history_tweet_ids": [
+        "2123027693331771568"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1890199581125931008",
+            "start": 0,
+            "username": "BrontoHe"
+          }
+        ]
+      },
+      "id": "2123027693331771568",
+      "in_reply_to_user_id": "1890199581125931008",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1613,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123026315771003144",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@BrontoHe …我也没让他写代码啊，只做了分析和建议",
+      "url": "https://x.com/gengdaJ/status/2123027693331771568"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122992205745074177",
+          "3_2122992888875552770",
+          "3_2122993322071629824",
+          "3_2122994333070802944"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122994499622203846",
+      "created_at": "2026-11-18T10:05:06.000Z",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "edit_history_tweet_ids": [
+        "2122994400150315286",
+        "2122994499622203846"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/1kSJK18WFa",
+            "end": 165,
+            "expanded_url": "https://x.com/gengdaJ/status/2122994499622203846/photo/1",
+            "media_key": "3_2122992205745074177",
+            "start": 142,
+            "url": "https://t.co/1kSJK18WFa"
+          },
+          {
+            "display_url": "pic.x.com/1kSJK18WFa",
+            "end": 165,
+            "expanded_url": "https://x.com/gengdaJ/status/2122994499622203846/photo/2",
+            "media_key": "3_2122992888875552770",
+            "start": 142,
+            "url": "https://t.co/1kSJK18WFa"
+          },
+          {
+            "display_url": "pic.x.com/1kSJK18WFa",
+            "end": 165,
+            "expanded_url": "https://x.com/gengdaJ/status/2122994499622203846/photo/3",
+            "media_key": "3_2122993322071629824",
+            "start": 142,
+            "url": "https://t.co/1kSJK18WFa"
+          },
+          {
+            "display_url": "pic.x.com/1kSJK18WFa",
+            "end": 165,
+            "expanded_url": "https://x.com/gengdaJ/status/2122994499622203846/photo/4",
+            "media_key": "3_2122994333070802944",
+            "start": 142,
+            "url": "https://t.co/1kSJK18WFa"
+          }
+        ]
+      },
+      "id": "2122994499622203846",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "在Antigravity里面调用Gemini 4 Carbon，使用下面这个普通到极致的提示词分析了17分钟，却得到了我完全不敢想象的建议（甚至碾压Fable5.2）😱：\n\n你来复盘我最近几个月所有的Codex和Claude Code聊天记录，你看一下你有没有什么好的建议和思考给我\n\n具体文档涉及到太多隐私，我就不放出来了，我只想说从以下几个点彻底征服了我：\n1、交互上：每一句话都是人话，而且有可视化图表，交互看得比Claude系列还舒服。\n2、Token实际使用上：轻重颠倒，舍本逐末，真正让我赚钱的花费Token少，Token全部浪费在情绪上了。。。\n3、工具工程层面：分析了我的记忆系统的不足、Skill机制的浪费、还没推出产品就疯狂加功能、一些清理机制的不足。\n4、人机交互层面：给出立马就可以用的Agent.md修改建议（把“你觉得”的交互固定下来）、我自己对话习惯的不足（应该多开fork，不要污染主会话）、CC和Codex分工机制。\n5、商业思路层面：这个建议不太好放出来，总之，就是纠正了我本来构思好要新做的一条业务支线，果断放弃。并且给出了更长期复利发展的建议。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 355,
+        "impression_count": 40104,
+        "like_count": 292,
+        "quote_count": 0,
+        "reply_count": 58,
+        "retweet_count": 13
+      },
+      "reply_settings": "everyone",
+      "text": "在Antigravity里面调用Gemini 4 Carbon，使用下面这个普通到极致的提示词分析了17分钟，却得到了我完全不敢想象的建议（甚至碾压Fable5.2）😱：\n\n你来复盘我最近几个月所有的Codex和Claude Code聊天记录，你看一下你有没有什么好的建议和思考给我 https://t.co/1kSJK18WFa",
+      "url": "https://x.com/gengdaJ/status/2122994499622203846"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122979889049702666",
+      "created_at": "2026-11-18T09:07:03.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "2122979889049702666"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "1712267009483022336",
+            "start": 3,
+            "username": "higgsfield_ai"
+          }
+        ]
+      },
+      "id": "2122979889049702666",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 142,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 307
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122879631791673778",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @higgsfield_ai: Stop using image models to make images.\n\nOur animators used a video model to make a movie poster.\n\nIn our test, GPT Imag…",
+      "url": "https://x.com/gengdaJ/status/2122979889049702666"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122771386456551516",
+      "created_at": "2026-11-18T08:49:52.000Z",
+      "display_text_range": [
+        5,
+        22
+      ],
+      "edit_history_tweet_ids": [
+        "2122975563665289237"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "2085838061347217408",
+            "start": 0,
+            "username": "bot"
+          },
+          {
+            "end": 9,
+            "id": "2085838061347217408",
+            "start": 5,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2122975563665289237",
+      "in_reply_to_user_id": "2085838061347217408",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 491,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122771386456551516",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@bot @bot 学习一下，看下对我有用不",
+      "url": "https://x.com/gengdaJ/status/2122975563665289237"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122537008270807240",
+      "created_at": "2026-11-18T08:11:37.000Z",
+      "display_text_range": [
+        12,
+        52
+      ],
+      "edit_history_tweet_ids": [
+        "2122965941290168635"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1460132488865402880",
+            "start": 0,
+            "username": "JarvixGaby"
+          }
+        ]
+      },
+      "id": "2122965941290168635",
+      "in_reply_to_user_id": "1460132488865402880",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 109,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122964050804138007",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@JarvixGaby 黑五没得说，我都已经，买了600$套餐，虽然今天没了，只能买更贵的了，但也很划算",
+      "url": "https://x.com/gengdaJ/status/2122965941290168635"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122678742824919207",
+      "created_at": "2026-11-18T06:01:02.000Z",
+      "display_text_range": [
+        8,
+        11
+      ],
+      "edit_history_tweet_ids": [
+        "2122933079111266723"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1362702543810228225",
+            "start": 0,
+            "username": "nexmoe"
+          }
+        ]
+      },
+      "id": "2122933079111266723",
+      "in_reply_to_user_id": "1362702543810228225",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 894,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122678742824919207",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@nexmoe 卧槽！",
+      "url": "https://x.com/gengdaJ/status/2122933079111266723"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T05:53:14.000Z",
+      "display_text_range": [
+        0,
+        41
+      ],
+      "edit_history_tweet_ids": [
+        "2122931115128508738"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gengdaj/status…",
+            "end": 41,
+            "expanded_url": "https://x.com/gengdaj/status/2121442608845328697?a=LCHRvQM02jrlrggLkMc&s=46",
+            "start": 18,
+            "url": "https://t.co/uYFFx3nCrk"
+          }
+        ]
+      },
+      "id": "2122931115128508738",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 9719,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121442608845328697",
+          "type": "quoted"
+        },
+        {
+          "id": "2122869389238382875",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "这个好像申请成功就有 100 块钱 https://t.co/uYFFx3nCrk",
+      "url": "https://x.com/gengdaJ/status/2122931115128508738"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T03:10:23.000Z",
+      "display_text_range": [
+        12,
+        14
+      ],
+      "edit_history_tweet_ids": [
+        "2122890131048902702"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2025390256762355714",
+            "start": 0,
+            "username": "Seng422111"
+          }
+        ]
+      },
+      "id": "2122890131048902702",
+      "in_reply_to_user_id": "2025390256762355714",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9092,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122885298883612966",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Seng422111 美国",
+      "url": "https://x.com/gengdaJ/status/2122890131048902702"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T03:10:15.000Z",
+      "display_text_range": [
+        12,
+        32
+      ],
+      "edit_history_tweet_ids": [
+        "2122890096861200493"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1449624984083517442",
+            "start": 0,
+            "username": "Stefanwan3"
+          }
+        ]
+      },
+      "id": "2122890096861200493",
+      "in_reply_to_user_id": "1449624984083517442",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9029,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122886780253098364",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Stefanwan3 我用的大号和小号，撑死胆大的，饿死胆小的",
+      "url": "https://x.com/gengdaJ/status/2122890096861200493"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T03:09:49.000Z",
+      "display_text_range": [
+        14,
+        15
+      ],
+      "edit_history_tweet_ids": [
+        "2122889987461189962"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1435114477607743490",
+            "start": 0,
+            "username": "remarbicalhu"
+          }
+        ]
+      },
+      "id": "2122889987461189962",
+      "in_reply_to_user_id": "1435114477607743490",
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 12926,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122886281793568863",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@remarbicalhu 🪜",
+      "url": "https://x.com/gengdaJ/status/2122889987461189962"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T03:09:37.000Z",
+      "display_text_range": [
+        0,
+        51
+      ],
+      "edit_history_tweet_ids": [
+        "2122889936936550409"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "one.google.com/add-ons/g1.pla…",
+            "end": 51,
+            "expanded_url": "https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from=20&g1_landing_page=75",
+            "start": 28,
+            "status": 200,
+            "title": "Sign in - Google Accounts",
+            "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from%3D20%26g1_landing_page%3D75&followup=https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from%3D20%26g1_landing_page%3D75&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1379762391:1794966124168016",
+            "url": "https://t.co/ct1Q30Gp0V"
+          }
+        ]
+      },
+      "id": "2122889936936550409",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 53,
+        "impression_count": 18204,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122869389238382875",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "这个链接还可以取消YouTube订阅，一分钱不花了。。。https://t.co/ct1Q30Gp0V",
+      "url": "https://x.com/gengdaJ/status/2122889936936550409"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122888985764933632"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T03:05:52.000Z",
+      "display_text_range": [
+        27,
+        29
+      ],
+      "edit_history_tweet_ids": [
+        "2122888995915116810"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1761775297119371264",
+            "start": 0,
+            "username": "wyCUCbN4T5yB2gA"
+          },
+          {
+            "end": 26,
+            "id": "2083949735497625600",
+            "start": 17,
+            "username": "aisaasme"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/btmlQuGh69",
+            "end": 53,
+            "expanded_url": "https://x.com/gengdaJ/status/2122888995915116810/photo/1",
+            "media_key": "3_2122888985764933632",
+            "start": 30,
+            "url": "https://t.co/btmlQuGh69"
+          }
+        ]
+      },
+      "id": "2122888995915116810",
+      "in_reply_to_user_id": "1761775297119371264",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 116,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122888403025088839",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@wyCUCbN4T5yB2gA @aisaasme 真行 https://t.co/btmlQuGh69",
+      "url": "https://x.com/gengdaJ/status/2122888995915116810"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122876107854934302",
+      "created_at": "2026-11-18T03:04:24.000Z",
+      "display_text_range": [
+        13,
+        18
+      ],
+      "edit_history_tweet_ids": [
+        "2122888627399381338"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1926144412079280128",
+            "start": 0,
+            "username": "yaohui12138"
+          }
+        ]
+      },
+      "id": "2122888627399381338",
+      "in_reply_to_user_id": "1926144412079280128",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 370,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122876107854934302",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@yaohui12138 柿子哥好帅",
+      "url": "https://x.com/gengdaJ/status/2122888627399381338"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T02:37:31.000Z",
+      "display_text_range": [
+        8,
+        26
+      ],
+      "edit_history_tweet_ids": [
+        "2122881859105529989"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "21066844",
+            "start": 0,
+            "username": "im3094"
+          }
+        ]
+      },
+      "id": "2122881859105529989",
+      "in_reply_to_user_id": "21066844",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14128,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122881075764732136",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@im3094 你还有退款啊，很多人都是覆盖，牛批了",
+      "url": "https://x.com/gengdaJ/status/2122881859105529989"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T02:05:41.000Z",
+      "display_text_range": [
+        17,
+        36
+      ],
+      "edit_history_tweet_ids": [
+        "2122873848098169278"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1761775297119371264",
+            "start": 0,
+            "username": "wyCUCbN4T5yB2gA"
+          }
+        ]
+      },
+      "id": "2122873848098169278",
+      "in_reply_to_user_id": "1761775297119371264",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 14752,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122872532470812763",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@wyCUCbN4T5yB2gA 哦？这么牛批，单独在谷歌订阅里面取消吗",
+      "url": "https://x.com/gengdaJ/status/2122873848098169278"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T02:04:57.000Z",
+      "display_text_range": [
+        0,
+        96
+      ],
+      "edit_history_tweet_ids": [
+        "2122873664043708747"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "accounts.google.com/ServiceLogin?p…",
+            "end": 96,
+            "expanded_url": "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2V&followup=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2V",
+            "start": 73,
+            "status": 200,
+            "title": "Sign in - Google Accounts",
+            "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2V&followup=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2V&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1058198064:1794967496928253",
+            "url": "https://t.co/XpTxFdjBZd"
+          }
+        ]
+      },
+      "id": "2122873664043708747",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 62,
+        "impression_count": 26814,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122869389238382875",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "还有个免费领一个月 20×ultra 的链接，需要自取，同一个 Google 账号不能重复领，这个的好处就是完全不用花钱买 YouTube 会员：https://t.co/XpTxFdjBZd",
+      "url": "https://x.com/gengdaJ/status/2122873664043708747"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122871057166336002"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T01:54:50.000Z",
+      "display_text_range": [
+        0,
+        49
+      ],
+      "edit_history_tweet_ids": [
+        "2122871119237841237"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 49,
+            "expanded_url": "https://x.com/gengdaJ/status/2122537008270807240?a=jvwaxCUPP9o_KBJvx-M&s=20",
+            "start": 26,
+            "url": "https://t.co/F4VCGcoEW1"
+          },
+          {
+            "display_url": "pic.x.com/A3S3xGIpSX",
+            "end": 73,
+            "expanded_url": "https://x.com/gengdaJ/status/2122871119237841237/photo/1",
+            "media_key": "3_2122871057166336002",
+            "start": 50,
+            "url": "https://t.co/A3S3xGIpSX"
+          }
+        ]
+      },
+      "id": "2122871119237841237",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 24978,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122537008270807240",
+          "type": "quoted"
+        },
+        {
+          "id": "2122869389238382875",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "Higgsfield黑五大促也不等人，全年最低：\n\nhttps://t.co/F4VCGcoEW1 https://t.co/A3S3xGIpSX",
+      "url": "https://x.com/gengdaJ/status/2122871119237841237"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122869374562500608"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122869389238382875",
+      "created_at": "2026-11-18T01:47:58.000Z",
+      "display_text_range": [
+        0,
+        167
+      ],
+      "edit_history_tweet_ids": [
+        "2122869389238382875"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "tokenized.play.google.com/eacquire/multi…",
+            "end": 167,
+            "expanded_url": "https://tokenized.play.google.com/eacquire/multiline?authuser=0&ear=%5Bnull%2Cnull%2C%5Bnull%2Cnull%2C%22%2Fplans%3Fg1_last_touchpoint%3D37%26g1_landing_page%3D1%26otzr%3D1%22%5D%2Cnull%2C%5B%22W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNiwyNGE2NmRmNiwwLDEyYyxcIldlZCBEZWMgMzEgMTk2OSAxOTNhMDAzYTAwIEdNVDJkMDUwMCAyOEVhc3Rlcm4gU3RhbmRhcmQgVGltZTI5LDJjYTA1NTRmLFwiUERGIFZpZXdlciwwLFwiUG9ydGFibGUgRG9jdW1lbnQgRm9ybWF0LFwiQ2hyb21lIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIkNocm9taXVtIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIk1pY3Jvc29mdCBFZGdlIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIldlYktpdCBidWlsdDJkaW4gUERGLDAsXCJQb3J0YWJsZSBEb2N1bWVudCBGb3JtYXQsNmM4YjlkNWIsNzcwYzY3ZmMsMCwwOmEyMSwzLDFhMWRkYzkzMmQ0LDAsODQsMTphNDAsXCJmLDFhMWRkYzkzMmQ1Il0sIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbSJdLG51bGwsbnVsbCwiZW4iLDEsMV0sWyJodHRwczovL3BheW1lbnRzLmdvb2dsZS5jb20vcGF5bWVudHMvcmVkaXJlY3RfZm9ybV9sYW5kaW5nP3N1Y2Nlc3M9dHJ1ZSIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbS9wYXltZW50cy9yZWRpcmVjdF9mb3JtX2xhbmRpbmc%2Fc3VjY2Vzcz1mYWxzZSJdXQ%3D%3D%22%5D%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B%5B%5B%22subs%3Acom.google.android.apps.subscriptions.red%3Ag1.play.20tb%22%2C21%5D%2Cnull%2Cnull%2Cnull%2C1%2C%5B%22AYrTWi65Jbm3KRubLXLLA3Re29zKibSnRbvAJEPfxEIVs%2Fd57w8vEhsU7hSkSAfGyjZH8B7%2F5aj5UTlidbsEwUH8aPN2RTA6pKiltA%3D%3D%22%5D%5D%2C%5B%5B%22subs%3Acom.google.android.apps.subscriptions.red%3Ag1.youtube_premium_individual_add_on%22%2C21%5D%2Cnull%2Cnull%2Cnull%2C1%2C%5B%22AVbCH%2FeW4Nfp8KBl0zlm7x9PhaiCvpnqwUuL2D8NFPBQgmM9%2BHuYS1h2xH5lLWU%2FBsBj775LK5GqK8UHKqoSzhDDz%2BPqP3paNesqLU0r9i6XCrYa%22%5D%5D%5D%5D%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C1%2Cnull%2Cnull%2Cnull%5D&usegapi=1&id=I0_1794722313957&_gfid=I0_1794722313957&parent=https%3A%2F%2Fone.google.com&pfname=&rpctoken=17967278&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.smUXTMp7CeY.O%2Fd%3D1%2Frs%3DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A%2Fm%3D__features__",
+            "start": 144,
+            "status": 200,
+            "title": "Sign in - Google Accounts",
+            "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNiwyNGE2NmRmNiwwLDEyYyxcIldlZCBEZWMgMzEgMTk2OSAxOTNhMDAzYTAwIEdNVDJkMDUwMCAyOEVhc3Rlcm4gU3RhbmRhcmQgVGltZTI5LDJjYTA1NTRmLFwiUERGIFZpZXdlciwwLFwiUG9ydGFibGUgRG9jdW1lbnQgRm9ybWF0LFwiQ2hyb21lIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIkNocm9taXVtIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIk1pY3Jvc29mdCBFZGdlIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIldlYktpdCBidWlsdDJkaW4gUERGLDAsXCJQb3J0YWJsZSBEb2N1bWVudCBGb3JtYXQsNmM4YjlkNWIsNzcwYzY3ZmMsMCwwOmEyMSwzLDFhMWRkYzkzMmQ0LDAsODQsMTphNDAsXCJmLDFhMWRkYzkzMmQ1Il0sIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbSJdLG51bGwsbnVsbCwiZW4iLDEsMV0sWyJodHRwczovL3BheW1lbnRzLmdvb2dsZS5jb20vcGF5bWVudHMvcmVkaXJlY3RfZm9ybV9sYW5kaW5nP3N1Y2Nlc3M9dHJ1ZSIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbS9wYXltZW50cy9yZWRpcmVjdF9mb3JtX2xhbmRpbmc/c3VjY2Vzcz1mYWxzZSJdXQ%253D%253D%2522%255D,null,null,null,null,null,null,null,null,%255B%255B%255B%255B%2522subs:com.google.android.apps.subscriptions.red:g1.play.20tb%2522,21%255D,null,null,null,1,%255B%2522AYrTWi65Jbm3KRubLXLLA3Re29zKibSnRbvAJEPfxEIVs/d57w8vEhsU7hSkSAfGyjZH8B7/5aj5UTlidbsEwUH8aPN2RTA6pKiltA%253D%253D%2522%255D%255D,%255B%255B%2522subs:com.google.android.apps.subscriptions.red:g1.youtube_premium_individual_add_on%2522,21%255D,null,null,null,1,%255B%2522AVbCH/eW4Nfp8KBl0zlm7x9PhaiCvpnqwUuL2D8NFPBQgmM9%252BHuYS1h2xH5lLWU/BsBj775LK5GqK8UHKqoSzhDDz%252BPqP3paNesqLU0r9i6XCrYa%2522%255D%255D%255D%255D,null,null,null,null,null,null,null,1,null,null,null%255D%26usegapi%3D1%26id%3DI0_1794722313957%26_gfid%3DI0_1794722313957%26parent%3Dhttps://one.google.com%26pfname%26rpctoken%3D17967278%26jsh%3Dm;/_/scs/abc-static/_/js/k%253Dgapi.lb.en.smUXTMp7CeY.O/d%253D1/rs%253DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A/m%253D__features__&followup=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNiwyNGE2NmRmNiwwLDEyYyxcIldlZCBEZWMgMzEgMTk2OSAxOTNhMDAzYTAwIEdNVDJkMDUwMCAyOEVhc3Rlcm4gU3RhbmRhcmQgVGltZTI5LDJjYTA1NTRmLFwiUERGIFZpZXdlciwwLFwiUG9ydGFibGUgRG9jdW1lbnQgRm9ybWF0LFwiQ2hyb21lIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIkNocm9taXVtIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIk1pY3Jvc29mdCBFZGdlIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIldlYktpdCBidWlsdDJkaW4gUERGLDAsXCJQb3J0YWJsZSBEb2N1bWVudCBGb3JtYXQsNmM4YjlkNWIsNzcwYzY3ZmMsMCwwOmEyMSwzLDFhMWRkYzkzMmQ0LDAsODQsMTphNDAsXCJmLDFhMWRkYzkzMmQ1Il0sIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbSJdLG51bGwsbnVsbCwiZW4iLDEsMV0sWyJodHRwczovL3BheW1lbnRzLmdvb2dsZS5jb20vcGF5bWVudHMvcmVkaXJlY3RfZm9ybV9sYW5kaW5nP3N1Y2Nlc3M9dHJ1ZSIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbS9wYXltZW50cy9yZWRpcmVjdF9mb3JtX2xhbmRpbmc/c3VjY2Vzcz1mYWxzZSJdXQ%253D%253D%2522%255D,null,null,null,null,null,null,null,null,%255B%255B%255B%255B%2522subs:com.google.android.apps.subscriptions.red:g1.play.20tb%2522,21%255D,null,null,null,1,%255B%2522AYrTWi65Jbm3KRubLXLLA3Re29zKibSnRbvAJEPfxEIVs/d57w8vEhsU7hSkSAfGyjZH8B7/5aj5UTlidbsEwUH8aPN2RTA6pKiltA%253D%253D%2522%255D%255D,%255B%255B%2522subs:com.google.android.apps.subscriptions.red:g1.youtube_premium_individual_add_on%2522,21%255D,null,null,null,1,%255B%2522AVbCH/eW4Nfp8KBl0zlm7x9PhaiCvpnqwUuL2D8NFPBQgmM9%252BHuYS1h2xH5lLWU/BsBj775LK5GqK8UHKqoSzhDDz%252BPqP3paNesqLU0r9i6XCrYa%2522%255D%255D%255D%255D,null,null,null,null,null,null,null,1,null,null,null%255D%26usegapi%3D1%26id%3DI0_1794722313957%26_gfid%3DI0_1794722313957%26parent%3Dhttps://one.google.com%26pfname%26rpctoken%3D17967278%26jsh%3Dm;/_/scs/abc-static/_/js/k%253Dgapi.lb.en.smUXTMp7CeY.O/d%253D1/rs%253DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A/m%253D__features__&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1341566784:1794961733534690",
+            "url": "https://t.co/95Ny1UreRh"
+          },
+          {
+            "display_url": "pic.x.com/5afZRu9jcn",
+            "end": 191,
+            "expanded_url": "https://x.com/gengdaJ/status/2122869389238382875/photo/1",
+            "media_key": "3_2122869374562500608",
+            "start": 168,
+            "url": "https://t.co/5afZRu9jcn"
+          }
+        ]
+      },
+      "id": "2122869389238382875",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 888,
+        "impression_count": 213546,
+        "like_count": 528,
+        "quote_count": 6,
+        "reply_count": 133,
+        "retweet_count": 44
+      },
+      "reply_settings": "everyone",
+      "text": "我靠，兄弟们快冲，最后的机会，免费领12个月Google Ultra 5×，爽用Gemini4，我已经成功开通两个号了！时间不等人！\n\n港卡、中国PayPal都能付款！\n\n就是需要额外买12个月YouTube，这个还是很划算，一个月12$，刚好在看YouTube的朋友还节约了这笔钱。\n\nhttps://t.co/95Ny1UreRh https://t.co/5afZRu9jcn",
+      "url": "https://x.com/gengdaJ/status/2122869389238382875"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122809523970945079",
+      "created_at": "2026-11-18T01:36:56.000Z",
+      "display_text_range": [
+        9,
+        21
+      ],
+      "edit_history_tweet_ids": [
+        "2122866612743397424"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "2086579254138204160",
+            "start": 0,
+            "username": "MonidHQ"
+          }
+        ]
+      },
+      "id": "2122866612743397424",
+      "in_reply_to_user_id": "2086579254138204160",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 214,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122809523970945079",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@MonidHQ Really cool!",
+      "url": "https://x.com/gengdaJ/status/2122866612743397424"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122537008270807240",
+      "created_at": "2026-11-18T00:54:46.000Z",
+      "display_text_range": [
+        9,
+        21
+      ],
+      "edit_history_tweet_ids": [
+        "2122856003318477028"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1273476592195342342",
+            "start": 0,
+            "username": "KwUncle"
+          }
+        ]
+      },
+      "id": "2122856003318477028",
+      "in_reply_to_user_id": "1273476592195342342",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 93,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122791079808561399",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@KwUncle 我的港卡一次性就成功了🤔",
+      "url": "https://x.com/gengdaJ/status/2122856003318477028"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122849697400500658",
+      "created_at": "2026-11-18T00:29:43.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "2122849697400500658"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1895453094361890816",
+            "start": 3,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2122849697400500658",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 134,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 441
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122757676484419685",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @higgsfield: We built Higgsfield Miracle to address one of the biggest challenges in AI video: editing a specific part of a shot without…",
+      "url": "https://x.com/gengdaJ/status/2122849697400500658"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2122994400150315286].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2122994400150315286",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2122994400150315286"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2122992205745074177",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXZiKbxbsAE7Vih.png",
+        "width": 834
+      },
+      {
+        "height": 498,
+        "media_key": "3_2122992888875552770",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXZiyMobkAI7TRX.jpg",
+        "width": 1392
+      },
+      {
+        "height": 1476,
+        "media_key": "3_2122993322071629824",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXZjLaabIAAquPy.jpg",
+        "width": 1404
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2122994333070802944",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXZkGQraQAAsawL.jpg",
+        "width": 1134
+      },
+      {
+        "height": 1668,
+        "media_key": "3_2122888985764933632",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXYESPYbsAATbih.jpg",
+        "width": 2510
+      },
+      {
+        "height": 1498,
+        "media_key": "3_2122871057166336002",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXXz-qJbgAIoQmb.jpg",
+        "width": 2500
+      },
+      {
+        "height": 1488,
+        "media_key": "3_2122869374562500608",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXXyct9agAA7yHg.jpg",
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-19T02:00:21.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_history_tweet_ids": [
+          "2123234893899747719"
+        ],
+        "id": "2123234893899747719",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1308,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新：一般谷歌会让你试用一下，平均 2-24 个小时掉订阅，属于是营销手段的一种了。但是 carbon 确实好用，以及今天的新模型，我已经打算上官方订阅了😂"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122869374562500608"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T01:47:58.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_history_tweet_ids": [
+          "2122869389238382875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "tokenized.play.google.com/eacquire/multi…",
+              "end": 167,
+              "expanded_url": "https://tokenized.play.google.com/eacquire/multiline?authuser=0&ear=%5Bnull%2Cnull%2C%5Bnull%2Cnull%2C%22%2Fplans%3Fg1_last_touchpoint%3D37%26g1_landing_page%3D1%26otzr%3D1%22%5D%2Cnull%2C%5B%22W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNiwyNGE2NmRmNiwwLDEyYyxcIldlZCBEZWMgMzEgMTk2OSAxOTNhMDAzYTAwIEdNVDJkMDUwMCAyOEVhc3Rlcm4gU3RhbmRhcmQgVGltZTI5LDJjYTA1NTRmLFwiUERGIFZpZXdlciwwLFwiUG9ydGFibGUgRG9jdW1lbnQgRm9ybWF0LFwiQ2hyb21lIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIkNocm9taXVtIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIk1pY3Jvc29mdCBFZGdlIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIldlYktpdCBidWlsdDJkaW4gUERGLDAsXCJQb3J0YWJsZSBEb2N1bWVudCBGb3JtYXQsNmM4YjlkNWIsNzcwYzY3ZmMsMCwwOmEyMSwzLDFhMWRkYzkzMmQ0LDAsODQsMTphNDAsXCJmLDFhMWRkYzkzMmQ1Il0sIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbSJdLG51bGwsbnVsbCwiZW4iLDEsMV0sWyJodHRwczovL3BheW1lbnRzLmdvb2dsZS5jb20vcGF5bWVudHMvcmVkaXJlY3RfZm9ybV9sYW5kaW5nP3N1Y2Nlc3M9dHJ1ZSIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbS9wYXltZW50cy9yZWRpcmVjdF9mb3JtX2xhbmRpbmc%2Fc3VjY2Vzcz1mYWxzZSJdXQ%3D%3D%22%5D%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5B%5B%5B%22subs%3Acom.google.android.apps.subscriptions.red%3Ag1.play.20tb%22%2C21%5D%2Cnull%2Cnull%2Cnull%2C1%2C%5B%22AYrTWi65Jbm3KRubLXLLA3Re29zKibSnRbvAJEPfxEIVs%2Fd57w8vEhsU7hSkSAfGyjZH8B7%2F5aj5UTlidbsEwUH8aPN2RTA6pKiltA%3D%3D%22%5D%5D%2C%5B%5B%22subs%3Acom.google.android.apps.subscriptions.red%3Ag1.youtube_premium_individual_add_on%22%2C21%5D%2Cnull%2Cnull%2Cnull%2C1%2C%5B%22AVbCH%2FeW4Nfp8KBl0zlm7x9PhaiCvpnqwUuL2D8NFPBQgmM9%2BHuYS1h2xH5lLWU%2FBsBj775LK5GqK8UHKqoSzhDDz%2BPqP3paNesqLU0r9i6XCrYa%22%5D%5D%5D%5D%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C1%2Cnull%2Cnull%2Cnull%5D&usegapi=1&id=I0_1794722313957&_gfid=I0_1794722313957&parent=https%3A%2F%2Fone.google.com&pfname=&rpctoken=17967278&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.smUXTMp7CeY.O%2Fd%3D1%2Frs%3DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A%2Fm%3D__features__",
+              "start": 144,
+              "status": 200,
+              "title": "Sign in - Google Accounts",
+              "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNiwyNGE2NmRmNiwwLDEyYyxcIldlZCBEZWMgMzEgMTk2OSAxOTNhMDAzYTAwIEdNVDJkMDUwMCAyOEVhc3Rlcm4gU3RhbmRhcmQgVGltZTI5LDJjYTA1NTRmLFwiUERGIFZpZXdlciwwLFwiUG9ydGFibGUgRG9jdW1lbnQgRm9ybWF0LFwiQ2hyb21lIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIkNocm9taXVtIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIk1pY3Jvc29mdCBFZGdlIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIldlYktpdCBidWlsdDJkaW4gUERGLDAsXCJQb3J0YWJsZSBEb2N1bWVudCBGb3JtYXQsNmM4YjlkNWIsNzcwYzY3ZmMsMCwwOmEyMSwzLDFhMWRkYzkzMmQ0LDAsODQsMTphNDAsXCJmLDFhMWRkYzkzMmQ1Il0sIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbSJdLG51bGwsbnVsbCwiZW4iLDEsMV0sWyJodHRwczovL3BheW1lbnRzLmdvb2dsZS5jb20vcGF5bWVudHMvcmVkaXJlY3RfZm9ybV9sYW5kaW5nP3N1Y2Nlc3M9dHJ1ZSIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbS9wYXltZW50cy9yZWRpcmVjdF9mb3JtX2xhbmRpbmc/c3VjY2Vzcz1mYWxzZSJdXQ%253D%253D%2522%255D,null,null,null,null,null,null,null,null,%255B%255B%255B%255B%2522subs:com.google.android.apps.subscriptions.red:g1.play.20tb%2522,21%255D,null,null,null,1,%255B%2522AYrTWi65Jbm3KRubLXLLA3Re29zKibSnRbvAJEPfxEIVs/d57w8vEhsU7hSkSAfGyjZH8B7/5aj5UTlidbsEwUH8aPN2RTA6pKiltA%253D%253D%2522%255D%255D,%255B%255B%2522subs:com.google.android.apps.subscriptions.red:g1.youtube_premium_individual_add_on%2522,21%255D,null,null,null,1,%255B%2522AVbCH/eW4Nfp8KBl0zlm7x9PhaiCvpnqwUuL2D8NFPBQgmM9%252BHuYS1h2xH5lLWU/BsBj775LK5GqK8UHKqoSzhDDz%252BPqP3paNesqLU0r9i6XCrYa%2522%255D%255D%255D%255D,null,null,null,null,null,null,null,1,null,null,null%255D%26usegapi%3D1%26id%3DI0_1794722313957%26_gfid%3DI0_1794722313957%26parent%3Dhttps://one.google.com%26pfname%26rpctoken%3D17967278%26jsh%3Dm;/_/scs/abc-static/_/js/k%253Dgapi.lb.en.smUXTMp7CeY.O/d%253D1/rs%253DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A/m%253D__features__&followup=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNiwyNGE2NmRmNiwwLDEyYyxcIldlZCBEZWMgMzEgMTk2OSAxOTNhMDAzYTAwIEdNVDJkMDUwMCAyOEVhc3Rlcm4gU3RhbmRhcmQgVGltZTI5LDJjYTA1NTRmLFwiUERGIFZpZXdlciwwLFwiUG9ydGFibGUgRG9jdW1lbnQgRm9ybWF0LFwiQ2hyb21lIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIkNocm9taXVtIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIk1pY3Jvc29mdCBFZGdlIFBERiBWaWV3ZXIsMCxcIlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdCxcIldlYktpdCBidWlsdDJkaW4gUERGLDAsXCJQb3J0YWJsZSBEb2N1bWVudCBGb3JtYXQsNmM4YjlkNWIsNzcwYzY3ZmMsMCwwOmEyMSwzLDFhMWRkYzkzMmQ0LDAsODQsMTphNDAsXCJmLDFhMWRkYzkzMmQ1Il0sIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbSJdLG51bGwsbnVsbCwiZW4iLDEsMV0sWyJodHRwczovL3BheW1lbnRzLmdvb2dsZS5jb20vcGF5bWVudHMvcmVkaXJlY3RfZm9ybV9sYW5kaW5nP3N1Y2Nlc3M9dHJ1ZSIsImh0dHBzOi8vcGF5bWVudHMuZ29vZ2xlLmNvbS9wYXltZW50cy9yZWRpcmVjdF9mb3JtX2xhbmRpbmc/c3VjY2Vzcz1mYWxzZSJdXQ%253D%253D%2522%255D,null,null,null,null,null,null,null,null,%255B%255B%255B%255B%2522subs:com.google.android.apps.subscriptions.red:g1.play.20tb%2522,21%255D,null,null,null,1,%255B%2522AYrTWi65Jbm3KRubLXLLA3Re29zKibSnRbvAJEPfxEIVs/d57w8vEhsU7hSkSAfGyjZH8B7/5aj5UTlidbsEwUH8aPN2RTA6pKiltA%253D%253D%2522%255D%255D,%255B%255B%2522subs:com.google.android.apps.subscriptions.red:g1.youtube_premium_individual_add_on%2522,21%255D,null,null,null,1,%255B%2522AVbCH/eW4Nfp8KBl0zlm7x9PhaiCvpnqwUuL2D8NFPBQgmM9%252BHuYS1h2xH5lLWU/BsBj775LK5GqK8UHKqoSzhDDz%252BPqP3paNesqLU0r9i6XCrYa%2522%255D%255D%255D%255D,null,null,null,null,null,null,null,1,null,null,null%255D%26usegapi%3D1%26id%3DI0_1794722313957%26_gfid%3DI0_1794722313957%26parent%3Dhttps://one.google.com%26pfname%26rpctoken%3D17967278%26jsh%3Dm;/_/scs/abc-static/_/js/k%253Dgapi.lb.en.smUXTMp7CeY.O/d%253D1/rs%253DAHpOoo_-UMASGI-dbLvJPxfO6N46l3l46A/m%253D__features__&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1341566784:1794961733534690",
+              "url": "https://t.co/95Ny1UreRh"
+            },
+            {
+              "display_url": "pic.x.com/5afZRu9jcn",
+              "end": 191,
+              "expanded_url": "https://x.com/gengdaJ/status/2122869389238382875/photo/1",
+              "media_key": "3_2122869374562500608",
+              "start": 168,
+              "url": "https://t.co/5afZRu9jcn"
+            }
+          ]
+        },
+        "id": "2122869389238382875",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 888,
+          "impression_count": 213546,
+          "like_count": 528,
+          "quote_count": 6,
+          "reply_count": 133,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，兄弟们快冲，最后的机会，免费领12个月Google Ultra 5×，爽用Gemini4，我已经成功开通两个号了！时间不等人！\n\n港卡、中国PayPal都能付款！\n\n就是需要额外买12个月YouTube，这个还是很划算，一个月12$，刚好在看YouTube的朋友还节约了这笔钱。\n\nhttps://t.co/95Ny1UreRh https://t.co/5afZRu9jcn"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122994499622203846",
+        "created_at": "2026-11-18T13:26:48.000Z",
+        "display_text_range": [
+          12,
+          38
+        ],
+        "edit_history_tweet_ids": [
+          "2123045259500511525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3793328412",
+              "start": 0,
+              "username": "Black_Yoke"
+            }
+          ]
+        },
+        "id": "2123045259500511525",
+        "in_reply_to_user_id": "3793328412",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1289,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123040115530633331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Black_Yoke 有没有可能放出来的都是能看的，让我更震惊的放不出来…"
+      },
+      {
+        "author_id": "3793328412",
+        "conversation_id": "2122994499622203846",
+        "created_at": "2026-11-18T13:06:22.000Z",
+        "display_text_range": [
+          9,
+          54
+        ],
+        "edit_history_tweet_ids": [
+          "2123040115530633331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123040115530633331",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1415,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122994499622203846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 你是没用过 gemini 吗，我认为 你这些问题 3.8 时代就能解答了，语言风格也一样。"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122994499622203846",
+        "created_at": "2026-11-18T12:39:28.000Z",
+        "display_text_range": [
+          10,
+          70
+        ],
+        "edit_history_tweet_ids": [
+          "2123033346951508361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1890199581125931008",
+              "start": 0,
+              "username": "BrontoHe"
+            }
+          ]
+        },
+        "id": "2123033346951508361",
+        "in_reply_to_user_id": "1890199581125931008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123030587380568319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrontoHe ？你真的多少有点病，有没有作用我自己不会判断吗，我是弱智？Carbon 有作用我才发，没作用我发出来找骂？你是故意找茬？"
+      },
+      {
+        "author_id": "1890199581125931008",
+        "conversation_id": "2122994499622203846",
+        "created_at": "2026-11-18T12:28:30.000Z",
+        "display_text_range": [
+          9,
+          127
+        ],
+        "edit_history_tweet_ids": [
+          "2123030587380568319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123030587380568319",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 440,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123027693331771568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 这东西幻觉极其严重，分析和建议真的可信吗，至少在超级大的codebase里面的分析完全不可信。我的意思不是否认你发的，我只是觉得您作为一个很大的博主发这种可能会让有些人觉得carbon很好，而事实是carbon是一个又慢又贵还愚蠢的垃圾"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122994499622203846",
+        "created_at": "2026-11-18T12:17:00.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_history_tweet_ids": [
+          "2123027693331771568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1890199581125931008",
+              "start": 0,
+              "username": "BrontoHe"
+            }
+          ]
+        },
+        "id": "2123027693331771568",
+        "in_reply_to_user_id": "1890199581125931008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1613,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123026315771003144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrontoHe …我也没让他写代码啊，只做了分析和建议"
+      },
+      {
+        "author_id": "1890199581125931008",
+        "conversation_id": "2122994499622203846",
+        "created_at": "2026-11-18T12:11:32.000Z",
+        "display_text_range": [
+          9,
+          44
+        ],
+        "edit_history_tweet_ids": [
+          "2123026315771003144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123026315771003144",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1693,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122994499622203846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ carbon在真实任务中完全没法用，come on逸尘，本来老喜欢你了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122992205745074177",
+            "3_2122992888875552770",
+            "3_2122993322071629824",
+            "3_2122994333070802944"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122994499622203846",
+        "created_at": "2026-11-18T10:05:06.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_history_tweet_ids": [
+          "2122994400150315286",
+          "2122994499622203846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kSJK18WFa",
+              "end": 165,
+              "expanded_url": "https://x.com/gengdaJ/status/2122994499622203846/photo/1",
+              "media_key": "3_2122992205745074177",
+              "start": 142,
+              "url": "https://t.co/1kSJK18WFa"
+            },
+            {
+              "display_url": "pic.x.com/1kSJK18WFa",
+              "end": 165,
+              "expanded_url": "https://x.com/gengdaJ/status/2122994499622203846/photo/2",
+              "media_key": "3_2122992888875552770",
+              "start": 142,
+              "url": "https://t.co/1kSJK18WFa"
+            },
+            {
+              "display_url": "pic.x.com/1kSJK18WFa",
+              "end": 165,
+              "expanded_url": "https://x.com/gengdaJ/status/2122994499622203846/photo/3",
+              "media_key": "3_2122993322071629824",
+              "start": 142,
+              "url": "https://t.co/1kSJK18WFa"
+            },
+            {
+              "display_url": "pic.x.com/1kSJK18WFa",
+              "end": 165,
+              "expanded_url": "https://x.com/gengdaJ/status/2122994499622203846/photo/4",
+              "media_key": "3_2122994333070802944",
+              "start": 142,
+              "url": "https://t.co/1kSJK18WFa"
+            }
+          ]
+        },
+        "id": "2122994499622203846",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "在Antigravity里面调用Gemini 4 Carbon，使用下面这个普通到极致的提示词分析了17分钟，却得到了我完全不敢想象的建议（甚至碾压Fable5.2）😱：\n\n你来复盘我最近几个月所有的Codex和Claude Code聊天记录，你看一下你有没有什么好的建议和思考给我\n\n具体文档涉及到太多隐私，我就不放出来了，我只想说从以下几个点彻底征服了我：\n1、交互上：每一句话都是人话，而且有可视化图表，交互看得比Claude系列还舒服。\n2、Token实际使用上：轻重颠倒，舍本逐末，真正让我赚钱的花费Token少，Token全部浪费在情绪上了。。。\n3、工具工程层面：分析了我的记忆系统的不足、Skill机制的浪费、还没推出产品就疯狂加功能、一些清理机制的不足。\n4、人机交互层面：给出立马就可以用的Agent.md修改建议（把“你觉得”的交互固定下来）、我自己对话习惯的不足（应该多开fork，不要污染主会话）、CC和Codex分工机制。\n5、商业思路层面：这个建议不太好放出来，总之，就是纠正了我本来构思好要新做的一条业务支线，果断放弃。并且给出了更长期复利发展的建议。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 40104,
+          "like_count": 292,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "在Antigravity里面调用Gemini 4 Carbon，使用下面这个普通到极致的提示词分析了17分钟，却得到了我完全不敢想象的建议（甚至碾压Fable5.2）😱：\n\n你来复盘我最近几个月所有的Codex和Claude Code聊天记录，你看一下你有没有什么好的建议和思考给我 https://t.co/1kSJK18WFa"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122979889049702666",
+        "created_at": "2026-11-18T09:07:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "2122979889049702666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1712267009483022336",
+              "start": 3,
+              "username": "higgsfield_ai"
+            }
+          ]
+        },
+        "id": "2122979889049702666",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 307
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122879631791673778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higgsfield_ai: Stop using image models to make images.\n\nOur animators used a video model to make a movie poster.\n\nIn our test, GPT Imag…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122878314943852544"
+          ]
+        },
+        "author_id": "1712267009483022336",
+        "conversation_id": "2122879631791673778",
+        "created_at": "2026-11-18T02:28:40.000Z",
+        "display_text_range": [
+          0,
+          246
+        ],
+        "edit_history_tweet_ids": [
+          "2122879631791673778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdqziTeNUc",
+              "end": 270,
+              "expanded_url": "https://x.com/higgsfield_ai/status/2122879631791673778/video/1",
+              "media_key": "13_2122878314943852544",
+              "start": 247,
+              "url": "https://t.co/DdqziTeNUc"
+            }
+          ]
+        },
+        "id": "2122879631791673778",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 732,
+          "impression_count": 301875,
+          "like_count": 999,
+          "quote_count": 6,
+          "reply_count": 56,
+          "retweet_count": 307
+        },
+        "reply_settings": "everyone",
+        "text": "Stop using image models to make images.\n\nOur animators used a video model to make a movie poster.\n\nIn our test, GPT Image 2.6 and Nano Banana Pro changed the character’s look in all 20 takes. Seedance 2.5 kept it in 10/10.\n\nHere’s how we did it 🧵 https://t.co/DdqziTeNUc"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122771386456551516",
+        "created_at": "2026-11-18T08:49:52.000Z",
+        "display_text_range": [
+          5,
+          22
+        ],
+        "edit_history_tweet_ids": [
+          "2122975563665289237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "2085838061347217408",
+              "start": 0,
+              "username": "bot"
+            },
+            {
+              "end": 9,
+              "id": "2085838061347217408",
+              "start": 5,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2122975563665289237",
+        "in_reply_to_user_id": "2085838061347217408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122771386456551516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bot @bot 学习一下，看下对我有用不"
+      },
+      {
+        "author_id": "2085838061347217408",
+        "card_uri": "https://t.co/v3uuGoLWhP",
+        "conversation_id": "2122771386456551516",
+        "created_at": "2026-11-17T19:18:32.000Z",
+        "display_text_range": [
+          0,
+          268
+        ],
+        "edit_history_tweet_ids": [
+          "2122771386456551516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Five Grok Bots at SpaceXSI each own an accounting job end to end, from provisioning a customer account to collecting payment. They only involve a person when the work needs judgment.",
+              "display_url": "x.ai/news/grok-bot-…",
+              "end": 268,
+              "expanded_url": "https://x.ai/news/grok-bot-accounting",
+              "images": [
+                {
+                  "height": 2160,
+                  "url": "https://pbs.twimg.com/news_img/2122749698364911616/S5xPN9ZK?format=jpg&name=orig",
+                  "width": 3840
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122749698364911616/S5xPN9ZK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 245,
+              "status": 200,
+              "title": "Building an accounting team with Grok Bot",
+              "unwound_url": "https://x.ai/news/grok-bot-accounting",
+              "url": "https://t.co/v3uuGoLWhP"
+            }
+          ]
+        },
+        "id": "2122771386456551516",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16126,
+          "impression_count": 3922617,
+          "like_count": 11181,
+          "quote_count": 222,
+          "reply_count": 1498,
+          "retweet_count": 814
+        },
+        "reply_settings": "everyone",
+        "text": "Five Bots now have full-time roles on our accounting team. We onboard, train, and manage them just like human teammates.\n\nHere's how we built them to handle the order-to-cash process, from provisioning customer accounts to collecting payments.\n\nhttps://t.co/v3uuGoLWhP"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-18T08:11:37.000Z",
+        "display_text_range": [
+          12,
+          52
+        ],
+        "edit_history_tweet_ids": [
+          "2122965941290168635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1460132488865402880",
+              "start": 0,
+              "username": "JarvixGaby"
+            }
+          ]
+        },
+        "id": "2122965941290168635",
+        "in_reply_to_user_id": "1460132488865402880",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122964050804138007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JarvixGaby 黑五没得说，我都已经，买了600$套餐，虽然今天没了，只能买更贵的了，但也很划算"
+      },
+      {
+        "author_id": "1460132488865402880",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-18T08:04:07.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_history_tweet_ids": [
+          "2122964050804138007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122964050804138007",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122537008270807240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 有对比过和其他AI视频软件的性价比么？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122678742824919207",
+        "created_at": "2026-11-18T06:01:02.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_history_tweet_ids": [
+          "2122933079111266723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1362702543810228225",
+              "start": 0,
+              "username": "nexmoe"
+            }
+          ]
+        },
+        "id": "2122933079111266723",
+        "in_reply_to_user_id": "1362702543810228225",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 894,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122678742824919207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nexmoe 卧槽！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122678711954890752"
+          ]
+        },
+        "author_id": "1362702543810228225",
+        "conversation_id": "2122678742824919207",
+        "created_at": "2026-11-17T13:10:24.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_history_tweet_ids": [
+          "2122678742824919207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HE6U8wdQCJ",
+              "end": 51,
+              "expanded_url": "https://x.com/nexmoe/status/2122678742824919207/video/1",
+              "media_key": "13_2122678711954890752",
+              "start": 28,
+              "url": "https://t.co/HE6U8wdQCJ"
+            }
+          ]
+        },
+        "id": "2122678742824919207",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 804,
+          "impression_count": 96730,
+          "like_count": 686,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "所有 UU 远程用户都应该必装的一个开源项目，非常好用 https://t.co/HE6U8wdQCJ"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T05:53:14.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_history_tweet_ids": [
+          "2122931115128508738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gengdaj/status…",
+              "end": 41,
+              "expanded_url": "https://x.com/gengdaj/status/2121442608845328697?a=LCHRvQM02jrlrggLkMc&s=46",
+              "start": 18,
+              "url": "https://t.co/uYFFx3nCrk"
+            }
+          ]
+        },
+        "id": "2122931115128508738",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9719,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121442608845328697",
+            "type": "quoted"
+          },
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好像申请成功就有 100 块钱 https://t.co/uYFFx3nCrk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2121440612482433024",
+            "3_2121441058483761152"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2121442608845328697",
+        "created_at": "2026-11-14T03:18:27.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_history_tweet_ids": [
+          "2121442608845328697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcdmJJu3aK",
+              "end": 167,
+              "expanded_url": "https://x.com/gengdaJ/status/2121442608845328697/photo/1",
+              "media_key": "3_2121440612482433024",
+              "start": 144,
+              "url": "https://t.co/RcdmJJu3aK"
+            },
+            {
+              "display_url": "pic.x.com/RcdmJJu3aK",
+              "end": 167,
+              "expanded_url": "https://x.com/gengdaJ/status/2121442608845328697/photo/2",
+              "media_key": "3_2121441058483761152",
+              "start": 144,
+              "url": "https://t.co/RcdmJJu3aK"
+            }
+          ]
+        },
+        "id": "2121442608845328697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "experthub.tencent.com/?referral_code…",
+                "end": 777,
+                "expanded_url": "https://experthub.tencent.com/?referral_code=736G7A",
+                "start": 754,
+                "url": "https://t.co/CCOo3NFZm1"
+              },
+              {
+                "display_url": "corexpertdata.com/x/lb-1Z2QWpt",
+                "end": 815,
+                "expanded_url": "https://corexpertdata.com/x/lb-1Z2QWpt",
+                "start": 792,
+                "url": "https://t.co/MJYBDP1GSR"
+              },
+              {
+                "display_url": "siriser.com",
+                "end": 850,
+                "expanded_url": "https://www.siriser.com",
+                "start": 827,
+                "url": "https://t.co/FzRmiEqBU8"
+              }
+            ]
+          },
+          "text": "大厂的AI商战真是朴实无华，就是猛猛砸钱找专家，猛猛做数据标注。。。字节的Xpert，10月份有一个人领了18万。。。\n\nAI时代，只要你有任何特长，只靠贡献自己的知识和努力，也能活得很滋润：\n\n⓵专业问答与评测\n-专业领域问答（医疗、法律、金融、STEM等）\n-模型回复打分与对比评测\n-Benchmark出题与标准答案设计\n\n⓶聊天 / 对话相关\n-多轮对话评估：对模型在聊天中的回复打分、排序、指出问题（准确性、自然度、逻辑、人设一致性等）\n-对话生成 / 改写：写或优化多轮对话数据，用于训练聊天机器人\n-偏好排序（RLHF）：同一问题给出多个回复，选出更好的那个并写理由\n-角色扮演 / 人设对话：按指定角色（医生、律师、客服、特定性格等）进行对话评测或数据生产\n-对话纠错：找出聊天回复中的事实错误、逻辑漏洞、不当内容\n\n⓷内容生产类\n-高质量专业内容撰写（案例库、知识库、语料）\n-复杂指令设计（多约束、高难度Prompt）\n-参考答案撰写\n-专业内容改写与优化\n\n⓸代码 / 技术类\n-代码生成评估\n-Agentic Coding / 长程任务评测\n-Bug查找与代码审查\n-编程题出题与判题标准制定\n\n⓹语音 / 多模态类\n-方言语音采集与标注\n-语音转写质检\n-视频/3D/动捕数据相关\n-多模态内容评估\n\n⓺审核与质检类\n-模型输出合规性审核（医疗、法律、金融强合规场景）\n-知识准确性审核\n-已有标注数据的二次质检\n\n⓻其他\n-访谈类任务\n-数据采集（按脚本录制真实场景）\n-创意内容评估（影视、文学、设计美学等）\n\n上面这些任务，简单到只要愿意花时间聊天，时薪也在三位数。更专业一些的比如生物、法律、金融、制造，就更加赚钱了。\n\n可以参与的平台：\n1、腾讯旗下的ExpertHub：https://t.co/CCOo3NFZm1\n2、字节旗下的Xpert：\nhttps://t.co/MJYBDP1GSR\n3、阿里的晓天睿士：\nhttps://t.co/FzRmiEqBU8"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2120,
+          "impression_count": 219848,
+          "like_count": 1253,
+          "quote_count": 19,
+          "reply_count": 74,
+          "retweet_count": 237
+        },
+        "reply_settings": "everyone",
+        "text": "大厂的AI商战真是朴实无华，就是猛猛砸钱找专家，猛猛做数据标注。。。字节的Xpert，10月份有一个人领了18万。。。\n\nAI时代，只要你有任何特长，只靠贡献自己的知识和努力，也能活得很滋润：\n\n⓵专业问答与评测\n-专业领域问答（医疗、法律、金融、STEM等）\n-模型回复打分与对比评测 https://t.co/RcdmJJu3aK"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T03:10:23.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_history_tweet_ids": [
+          "2122890131048902702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025390256762355714",
+              "start": 0,
+              "username": "Seng422111"
+            }
+          ]
+        },
+        "id": "2122890131048902702",
+        "in_reply_to_user_id": "2025390256762355714",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9092,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122885298883612966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seng422111 美国"
+      },
+      {
+        "author_id": "2025390256762355714",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T02:51:11.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_history_tweet_ids": [
+          "2122885298883612966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122885298883612966",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9853,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 請問使用上電腦IP也需要歐洲嗎，我IP是亞洲"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T03:10:15.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_history_tweet_ids": [
+          "2122890096861200493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1449624984083517442",
+              "start": 0,
+              "username": "Stefanwan3"
+            }
+          ]
+        },
+        "id": "2122890096861200493",
+        "in_reply_to_user_id": "1449624984083517442",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9029,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122886780253098364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stefanwan3 我用的大号和小号，撑死胆大的，饿死胆小的"
+      },
+      {
+        "author_id": "1449624984083517442",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T02:57:04.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_history_tweet_ids": [
+          "2122886780253098364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122886780253098364",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9631,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 需要注册新号领取吗？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T03:09:49.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_history_tweet_ids": [
+          "2122889987461189962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435114477607743490",
+              "start": 0,
+              "username": "remarbicalhu"
+            }
+          ]
+        },
+        "id": "2122889987461189962",
+        "in_reply_to_user_id": "1435114477607743490",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12926,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122886281793568863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remarbicalhu 🪜"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122886257286201344"
+          ]
+        },
+        "author_id": "1435114477607743490",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T02:55:05.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_history_tweet_ids": [
+          "2122886281793568863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOPtoQuw0i",
+              "end": 40,
+              "expanded_url": "https://x.com/remarbicalhu/status/2122886281793568863/photo/1",
+              "media_key": "3_2122886257286201344",
+              "start": 17,
+              "url": "https://t.co/LOPtoQuw0i"
+            }
+          ]
+        },
+        "id": "2122886281793568863",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14647,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 这种情况咋办呀 https://t.co/LOPtoQuw0i"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T03:09:37.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_history_tweet_ids": [
+          "2122889936936550409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "one.google.com/add-ons/g1.pla…",
+              "end": 51,
+              "expanded_url": "https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from=20&g1_landing_page=75",
+              "start": 28,
+              "status": 200,
+              "title": "Sign in - Google Accounts",
+              "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from%3D20%26g1_landing_page%3D75&followup=https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from%3D20%26g1_landing_page%3D75&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1379762391:1794966124168016",
+              "url": "https://t.co/ct1Q30Gp0V"
+            }
+          ]
+        },
+        "id": "2122889936936550409",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 18204,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个链接还可以取消YouTube订阅，一分钱不花了。。。https://t.co/ct1Q30Gp0V"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122888985764933632"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T03:05:52.000Z",
+        "display_text_range": [
+          27,
+          29
+        ],
+        "edit_history_tweet_ids": [
+          "2122888995915116810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761775297119371264",
+              "start": 0,
+              "username": "wyCUCbN4T5yB2gA"
+            },
+            {
+              "end": 26,
+              "id": "2083949735497625600",
+              "start": 17,
+              "username": "aisaasme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/btmlQuGh69",
+              "end": 53,
+              "expanded_url": "https://x.com/gengdaJ/status/2122888995915116810/photo/1",
+              "media_key": "3_2122888985764933632",
+              "start": 30,
+              "url": "https://t.co/btmlQuGh69"
+            }
+          ]
+        },
+        "id": "2122888995915116810",
+        "in_reply_to_user_id": "1761775297119371264",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122888403025088839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyCUCbN4T5yB2gA @aisaasme 真行 https://t.co/btmlQuGh69"
+      },
+      {
+        "author_id": "1761775297119371264",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T03:03:31.000Z",
+        "display_text_range": [
+          19,
+          52
+        ],
+        "edit_history_tweet_ids": [
+          "2122888403025088839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2083949735497625600",
+              "start": 0,
+              "username": "aisaasme"
+            },
+            {
+              "end": 18,
+              "id": "1897545708770840576",
+              "start": 10,
+              "username": "gengdaJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "one.google.com/add-ons/g1.pla…",
+              "end": 42,
+              "expanded_url": "https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from=20&g1_landing_page=75",
+              "start": 19,
+              "status": 200,
+              "title": "Sign in - Google Accounts",
+              "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from%3D20%26g1_landing_page%3D75&followup=https://one.google.com/add-ons/g1.play.20tb:monthly:eft-12month?from%3D20%26g1_landing_page%3D75&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1379762391:1794966124168016",
+              "url": "https://t.co/YFKZ4bx9zP"
+            }
+          ]
+        },
+        "id": "2122888403025088839",
+        "in_reply_to_user_id": "2083949735497625600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 279,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122887940619763986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aisaasme @gengdaJ https://t.co/YFKZ4bx9zP\n试一下这个链接看看"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122876107854934302",
+        "created_at": "2026-11-18T03:04:24.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_history_tweet_ids": [
+          "2122888627399381338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926144412079280128",
+              "start": 0,
+              "username": "yaohui12138"
+            }
+          ]
+        },
+        "id": "2122888627399381338",
+        "in_reply_to_user_id": "1926144412079280128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122876107854934302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaohui12138 柿子哥好帅"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122871856474849280"
+          ]
+        },
+        "author_id": "1926144412079280128",
+        "conversation_id": "2122876107854934302",
+        "created_at": "2026-11-18T02:14:39.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_history_tweet_ids": [
+          "2122876107854934302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4aMVUEq8c4",
+              "end": 156,
+              "expanded_url": "https://x.com/yaohui12138/status/2122876107854934302/video/1",
+              "media_key": "13_2122871856474849280",
+              "start": 133,
+              "url": "https://t.co/4aMVUEq8c4"
+            }
+          ]
+        },
+        "id": "2122876107854934302",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "完了，做短视频起号最后一道壁垒，真人出镜也塌了……\n\n上个月我用 Renoise 制作 vibe coding 知识视频起号，还信誓旦旦说这是今年最快的方式\n\n现在看来格局小了，这回直接连真人出镜都不用了…\n\n做一条口播视频的成本有多高应该不用我多说，大家都知道：\n\n录视频还得看你自己的状态，剪视频动辄1-2个小时，甚至一天…最后一条片子估计得花3-5天都是正常的\n\n但是现在我直接在手机上用renoise app一句语音告诉它\n\n我想要做什么选题，对标视频的链接是什么\n\n然后Agent 自己写稿，数字人直接出口播，自动剪辑加字幕花字补画面，直接甩给我一条能发的成片，哪里不满意？在视频上点一下说改什么，agent自己直接修改！\n\n全程我就说了一句选题，等了几分钟，视频出来了…\n\n一个想法进去，一条能发的口播视频出来，中间没有任何一步是我做的\n\n刷到对标爆款？复制链接丢进去，Agent 自动拆结构拆节奏，换成你的选题和人设复刻出来\n\n而且，他们现在跟 Agent 聊想法改方案不花积分，完全免费，只有生成和剪辑才扣\n\n内置 43 个顶尖模型，Seedance 2.5、Kling 4.0、Wan 3.0 全有，手机上做的项目电脑上能接着做\n\n我都不敢想，这种生产力爆炸能做多少事：\n\n1.做知识号、资讯号的，数字人出镜讲，Agent 写稿剪辑包装，一个人同时更新好几个号\n2.做门店的，老板不用出镜，拍张照录段话就有数字人主播，门店号产品号天天更新\n3.做外贸的，一套口播出英语日语西班牙语，一个人撑起多语种矩阵\n\n以前做这些事你需要一个团队，以前做短视频比的是谁出镜好看、谁剪辑熟练、谁团队人多\n\n现在这些全不是壁垒了，剩下就一件事：\n\n你的选题和内容到底行不行\n\n视频是生成效果，链接放评论区了👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 73309,
+          "like_count": 115,
+          "quote_count": 15,
+          "reply_count": 69,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "完了，做短视频起号最后一道壁垒，真人出镜也塌了……\n\n上个月我用 Renoise 制作 vibe coding 知识视频起号，还信誓旦旦说这是今年最快的方式\n\n现在看来格局小了，这回直接连真人出镜都不用了…\n\n做一条口播视频的成本有多高应该不用我多说，大家都知道： https://t.co/4aMVUEq8c4"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T02:37:31.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_history_tweet_ids": [
+          "2122881859105529989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "21066844",
+              "start": 0,
+              "username": "im3094"
+            }
+          ]
+        },
+        "id": "2122881859105529989",
+        "in_reply_to_user_id": "21066844",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122881075764732136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im3094 你还有退款啊，很多人都是覆盖，牛批了"
+      },
+      {
+        "author_id": "21066844",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T02:34:24.000Z",
+        "display_text_range": [
+          9,
+          99
+        ],
+        "edit_history_tweet_ids": [
+          "2122881075764732136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122881075764732136",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15058,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 不敢相信，真的可以！比我之前 20 刀的 Pro 还便宜（至少一年内如此）。订阅之前我还特别咨询了 gemini 这个活动的真实性。现在已经收到 Pro plan 的退款了。。NB"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T02:05:41.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_history_tweet_ids": [
+          "2122873848098169278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761775297119371264",
+              "start": 0,
+              "username": "wyCUCbN4T5yB2gA"
+            }
+          ]
+        },
+        "id": "2122873848098169278",
+        "in_reply_to_user_id": "1761775297119371264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14752,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122872532470812763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyCUCbN4T5yB2gA 哦？这么牛批，单独在谷歌订阅里面取消吗"
+      },
+      {
+        "author_id": "1761775297119371264",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T02:00:27.000Z",
+        "display_text_range": [
+          9,
+          34
+        ],
+        "edit_history_tweet_ids": [
+          "2122872532470812763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122872532470812763",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15441,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 那个YouTube是可以取消的，12刀也可以省下来"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T02:04:57.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_history_tweet_ids": [
+          "2122873664043708747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "accounts.google.com/ServiceLogin?p…",
+              "end": 96,
+              "expanded_url": "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2V&followup=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2V",
+              "start": 73,
+              "status": 200,
+              "title": "Sign in - Google Accounts",
+              "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2V&followup=https://tokenized.play.google.com/eacquire/multiline?authuser%3D0%26ear%3D%255Bnull,null,%255Bnull,null,%2522/plans?g1_last_touchpoint%253D37%2526g1_landing_page%253D1%2526otzr%253D1%2522%255D,null,%255B%2522W1tudWxsLG51bGwsbnVsbCxbbnVsbCxbIlJzMi4wLjY6OjpzMTEsMiwyNmI1ZTE5LDAsNzY5LGEwNjNlYmU5LDAsNGEyLGVkZDk4YmFjLDAsMTgsNDg2M2ZkMzUsMCw3NjksY2IyZDVjNmYsMCw0N2UsNmFkNDdjNmMsMCw1M2UsN2JkYjQ5ZjYsMCw0MjgsYjY1NDAyMDAsMCw3NjksZWVhODIwYjYsMCw0N2UsMWFhNDMzMSwwLFwiV2luMzIsZjU0NjgzZjIsMCxcIkdvb2dsZSBJbmMuLGFmNzk0NTE1LDAsXCI1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2Vja28yOSBDaHJvbWUyZjEyNS4wLjAuMCBTYWZhcmkyZjUzNy4zNixkODE3MjNkMSwwLFwiZW4yZFVTLDVjYzNhYjVmLDAsXCJNb3ppbGxhMmY1LjAgMjhXaW5kb3dzIE5UIDEwLjAzYiBXaW42NDNiIHg2NDI5IEFwcGxlV2ViS2l0MmY1MzcuMzYgMjhLSFRNTDJjIGxpa2UgR2V&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1058198064:1794967496928253",
+              "url": "https://t.co/XpTxFdjBZd"
+            }
+          ]
+        },
+        "id": "2122873664043708747",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 26814,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有个免费领一个月 20×ultra 的链接，需要自取，同一个 Google 账号不能重复领，这个的好处就是完全不用花钱买 YouTube 会员：https://t.co/XpTxFdjBZd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122871057166336002"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122869389238382875",
+        "created_at": "2026-11-18T01:54:50.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_history_tweet_ids": [
+          "2122871119237841237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 49,
+              "expanded_url": "https://x.com/gengdaJ/status/2122537008270807240?a=jvwaxCUPP9o_KBJvx-M&s=20",
+              "start": 26,
+              "url": "https://t.co/F4VCGcoEW1"
+            },
+            {
+              "display_url": "pic.x.com/A3S3xGIpSX",
+              "end": 73,
+              "expanded_url": "https://x.com/gengdaJ/status/2122871119237841237/photo/1",
+              "media_key": "3_2122871057166336002",
+              "start": 50,
+              "url": "https://t.co/A3S3xGIpSX"
+            }
+          ]
+        },
+        "id": "2122871119237841237",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 24978,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122537008270807240",
+            "type": "quoted"
+          },
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Higgsfield黑五大促也不等人，全年最低：\n\nhttps://t.co/F4VCGcoEW1 https://t.co/A3S3xGIpSX"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122536282916372481"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-17T03:47:12.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_history_tweet_ids": [
+          "2122536629495853382",
+          "2122536880789148062",
+          "2122537008270807240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJvADxdvoK",
+              "end": 200,
+              "expanded_url": "https://x.com/gengdaJ/status/2122537008270807240/video/1",
+              "media_key": "13_2122536282916372481",
+              "start": 177,
+              "url": "https://t.co/tJvADxdvoK"
+            },
+            {
+              "display_url": "x.com/higgsfield_ai/…",
+              "end": 224,
+              "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+              "start": 201,
+              "url": "https://t.co/jHfkJChuyo"
+            }
+          ]
+        },
+        "id": "2122537008270807240",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 33925,
+          "like_count": 32,
+          "quote_count": 9,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122377853215936697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/tJvADxdvoK https://t.co/jHfkJChuyo"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122809523970945079",
+        "created_at": "2026-11-18T01:36:56.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_history_tweet_ids": [
+          "2122866612743397424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2086579254138204160",
+              "start": 0,
+              "username": "MonidHQ"
+            }
+          ]
+        },
+        "id": "2122866612743397424",
+        "in_reply_to_user_id": "2086579254138204160",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122809523970945079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MonidHQ Really cool!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122807049277091840"
+          ]
+        },
+        "author_id": "2086579254138204160",
+        "conversation_id": "2122809523970945079",
+        "created_at": "2026-11-17T21:50:05.000Z",
+        "display_text_range": [
+          0,
+          249
+        ],
+        "edit_history_tweet_ids": [
+          "2122809523970945079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fja0KupSu5",
+              "end": 273,
+              "expanded_url": "https://x.com/MonidHQ/status/2122809523970945079/video/1",
+              "media_key": "13_2122807049277091840",
+              "start": 250,
+              "url": "https://t.co/fja0KupSu5"
+            }
+          ]
+        },
+        "id": "2122809523970945079",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 692,
+          "impression_count": 157748,
+          "like_count": 424,
+          "quote_count": 40,
+          "reply_count": 40,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing Claude for buyer signals  \n\n- Find potential buyers across Reddit, LinkedIn &amp; G2 automatically. \n- 3,200+ tools. Results in Google Sheets. Just $0.01/run. \n- No $185/mo Clay subscription.Just pay as you go.  \n\n0% markup. Open source. https://t.co/fja0KupSu5"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-18T00:54:46.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_history_tweet_ids": [
+          "2122856003318477028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1273476592195342342",
+              "start": 0,
+              "username": "KwUncle"
+            }
+          ]
+        },
+        "id": "2122856003318477028",
+        "in_reply_to_user_id": "1273476592195342342",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122791079808561399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KwUncle 我的港卡一次性就成功了🤔"
+      },
+      {
+        "author_id": "1273476592195342342",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-17T20:36:47.000Z",
+        "display_text_range": [
+          9,
+          49
+        ],
+        "edit_history_tweet_ids": [
+          "2122791079808561399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122791079808561399",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122548400482849265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 尝试了各种方法，美卡，Stripe , ApplePay都无法人在肉身付款成功啊"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122849697400500658",
+        "created_at": "2026-11-18T00:29:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "2122849697400500658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895453094361890816",
+              "start": 3,
+              "username": "higgsfield"
+            }
+          ]
+        },
+        "id": "2122849697400500658",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 441
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122757676484419685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higgsfield: We built Higgsfield Miracle to address one of the biggest challenges in AI video: editing a specific part of a shot without…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122756454876663809"
+          ]
+        },
+        "author_id": "1895453094361890816",
+        "conversation_id": "2122757676484419685",
+        "created_at": "2026-11-17T18:24:03.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_history_tweet_ids": [
+          "2122757676484419685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2b5LXExzsW",
+              "end": 300,
+              "expanded_url": "https://x.com/higgsfield/status/2122757676484419685/video/1",
+              "media_key": "13_2122756454876663809",
+              "start": 277,
+              "url": "https://t.co/2b5LXExzsW"
+            }
+          ]
+        },
+        "id": "2122757676484419685",
+        "lang": "en",
+        "note_tweet": {
+          "text": "We built Higgsfield Miracle to address one of the biggest challenges in AI video: editing a specific part of a shot without changing the rest.\n\nPowered by GPT-6.2 Astra, it splits any video into layers for pixel-level editing in real time, with world knowledge built in. Every shot keeps the image depth that cinema-grade post-production needs.\n\nNow in private beta with select testers. Coming soon to Higgsfield MCP.\n\nSet up Higgsfield plugin in ChatGPT to be the first to try it."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1925,
+          "impression_count": 8175748,
+          "like_count": 3037,
+          "quote_count": 159,
+          "reply_count": 137,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "We built Higgsfield Miracle to address one of the biggest challenges in AI video: editing a specific part of a shot without changing the rest.\n\nPowered by GPT-6.2 Astra, it splits any video into layers for pixel-level editing in real time, with world knowledge built in. Every https://t.co/2b5LXExzsW"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "3793328412",
+        "name": "FelixZ",
+        "protected": false,
+        "username": "Black_Yoke"
+      },
+      {
+        "id": "1890199581125931008",
+        "name": "Bronto",
+        "protected": false,
+        "username": "BrontoHe"
+      },
+      {
+        "id": "1712267009483022336",
+        "name": "Higgsfield AI 🧩",
+        "protected": false,
+        "username": "higgsfield_ai"
+      },
+      {
+        "id": "2085838061347217408",
+        "name": "Grok Bot",
+        "protected": false,
+        "username": "bot"
+      },
+      {
+        "id": "1460132488865402880",
+        "name": "Gaby",
+        "protected": false,
+        "username": "JarvixGaby"
+      },
+      {
+        "id": "1362702543810228225",
+        "name": "Nexmoe",
+        "protected": false,
+        "username": "nexmoe"
+      },
+      {
+        "id": "2025390256762355714",
+        "name": "Seng",
+        "protected": false,
+        "username": "Seng422111"
+      },
+      {
+        "id": "1449624984083517442",
+        "name": "Stefan Wan",
+        "protected": false,
+        "username": "Stefanwan3"
+      },
+      {
+        "id": "1435114477607743490",
+        "name": "REMARBICAL",
+        "protected": false,
+        "username": "remarbicalhu"
+      },
+      {
+        "id": "1761775297119371264",
+        "name": "shawn",
+        "protected": false,
+        "username": "wyCUCbN4T5yB2gA"
+      },
+      {
+        "id": "2083949735497625600",
+        "name": "Paul Lee",
+        "protected": false,
+        "username": "aisaasme"
+      },
+      {
+        "id": "1926144412079280128",
+        "name": "超级个体｜柿子",
+        "protected": false,
+        "username": "yaohui12138"
+      },
+      {
+        "id": "21066844",
+        "name": "Mark",
+        "protected": false,
+        "username": "im3094"
+      },
+      {
+        "id": "2086579254138204160",
+        "name": "Monid",
+        "protected": false,
+        "username": "MonidHQ"
+      },
+      {
+        "id": "1273476592195342342",
+        "name": "Uncle KW",
+        "protected": false,
+        "username": "KwUncle"
+      },
+      {
+        "id": "1895453094361890816",
+        "name": "Higgsfield AI 🧩",
+        "protected": false,
+        "username": "higgsfield"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2123234893899747719",
+    "next_token": "7140dibdnow9c7btwp0gm7d7n95tyj17yzibwha1id5x4",
+    "oldest_id": "2122849697400500658",
+    "previous_token": "77qpymm88g5h9vqkmfps2oyhrhbp22nr9hun1v8hogsop",
+    "result_count": 24
+  }
+}

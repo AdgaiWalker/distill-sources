@@ -1,0 +1,1198 @@
+{
+  "data": [
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T17:22:07.000Z",
+      "edit_history_tweet_ids": [
+        "2093751062339715437"
+      ],
+      "id": "2093751062339715437",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 948,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093545856263995554",
+          "type": "quoted"
+        }
+      ],
+      "text": "Just let it go https://t.co/ZQuXt37Pdq",
+      "url": "https://x.com/bbkirstry/status/2093751062339715437"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T13:57:56.000Z",
+      "edit_history_tweet_ids": [
+        "2093699675790680158"
+      ],
+      "id": "2093699675790680158",
+      "in_reply_to_user_id": "1877440800",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093692673215603166",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@li9292 @Yiwei_growth @gkxspace @gengdaJ 我跟各位老师们偷师🥳",
+      "url": "https://x.com/bbkirstry/status/2093699675790680158"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T12:41:19.000Z",
+      "edit_history_tweet_ids": [
+        "2093680396206747691"
+      ],
+      "id": "2093680396206747691",
+      "in_reply_to_user_id": "1866821173755121666",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 67,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093656052999086334",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cnyzgkc 没关系的你有独家使用秘籍",
+      "url": "https://x.com/bbkirstry/status/2093680396206747691"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T10:38:25.000Z",
+      "edit_history_tweet_ids": [
+        "2093649467279024471"
+      ],
+      "id": "2093649467279024471",
+      "in_reply_to_user_id": "232519529",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 225,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093636956873703921",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AlchainHust 怎么变成一个人去巴黎～🎵\n看起来好酷！想玩！",
+      "url": "https://x.com/bbkirstry/status/2093649467279024471"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T10:12:11.000Z",
+      "edit_history_tweet_ids": [
+        "2093642865595605242"
+      ],
+      "id": "2093642865595605242",
+      "in_reply_to_user_id": "758224086149451776",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093619857095045502",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@amyxiao_ai 🥰",
+      "url": "https://x.com/bbkirstry/status/2093642865595605242"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T10:12:05.000Z",
+      "edit_history_tweet_ids": [
+        "2093642839003656566"
+      ],
+      "id": "2093642839003656566",
+      "in_reply_to_user_id": "2014979760565456896",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093624513716265419",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@noahduck283 就像做自媒体其实到头来也就是做自己？大道至简，返璞归真",
+      "url": "https://x.com/bbkirstry/status/2093642839003656566"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T10:07:58.000Z",
+      "edit_history_tweet_ids": [
+        "2093641803828457838"
+      ],
+      "id": "2093641803828457838",
+      "in_reply_to_user_id": "1814299061983617024",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 68,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093640368088867248",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Faraday1973 只能说你很务实了 非常nice",
+      "url": "https://x.com/bbkirstry/status/2093641803828457838"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T10:07:36.000Z",
+      "edit_history_tweet_ids": [
+        "2093641711402819926"
+      ],
+      "id": "2093641711402819926",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1212,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2087993440118464537",
+          "type": "quoted"
+        }
+      ],
+      "text": "关于chatcut这个音轨被切碎之后的衔接爆破问题\n\n我成功试过一个方式：让codex根据我们当下已经剪辑好的音轨文本逐字稿，指挥chatcut把原视频的音轨单独拉出来处理，做一个自然淡化的过渡，更好地解决衔接上的爆破问题 https://t.co/vEsrIArzWP",
+      "url": "https://x.com/bbkirstry/status/2093641711402819926"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T10:00:52.000Z",
+      "edit_history_tweet_ids": [
+        "2093640017642180996"
+      ],
+      "id": "2093640017642180996",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 551,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "People copy what they can see and measure. But what really makes a personal brand work is often the part they can't copy.",
+      "url": "https://x.com/bbkirstry/status/2093640017642180996"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2093616451269902336"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T08:27:16.000Z",
+      "edit_history_tweet_ids": [
+        "2093616459411022133"
+      ],
+      "id": "2093616459411022133",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1057,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "#留一点时间保护你的大脑\n\n还记得我第一篇爆了百万浏览的小红书笔记标题是「学codex就像学自行车」，而接触AI、被流量宠幸的这几个月，我的脑子从来没有真正好好休息过\n \n一切都太快了：每天多线程+超高速的运行，不可避免地会思绪混乱、脑雾、注意力涣散，甚至陷入ADHD的症状 https://t.co/8ubwJEiPgW",
+      "url": "https://x.com/bbkirstry/status/2093616459411022133"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T05:54:33.000Z",
+      "edit_history_tweet_ids": [
+        "2093578030429954068"
+      ],
+      "id": "2093578030429954068",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 857,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093565710274609242",
+          "type": "quoted"
+        }
+      ],
+      "text": "我还得出过另一个视角的感悟：\n很多时候对方对你的投资，其实也只投资在他认可的范围内\n\n小到各种日常礼物，红酒、雪茄、数码设备、AI科技配置，大到理财、资产、车、房等等。大家下意识都会先用自己认可的方式表达爱，而不是对方需要的方式。 https://t.co/5pJz2XHnBA",
+      "url": "https://x.com/bbkirstry/status/2093578030429954068"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T04:35:30.000Z",
+      "edit_history_tweet_ids": [
+        "2093558133222498612"
+      ],
+      "id": "2093558133222498612",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1206,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 15,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093550138342137973",
+          "type": "quoted"
+        }
+      ],
+      "text": "阿杭的自我迭代速度真的太快了！\n一个月前他找我聊怎么做内容营销，我就觉得小孩佬脑子真好用啊🥺这段时间他不仅猛猛涨粉，还沉淀迭代了很多实操方法论\n\n三个字总结成功的焚诀：干中学～\n\n再次安利叶明桂老师的书「出圈」\n读完「出圈」，祝你出圈！🥰 https://t.co/uIhF8OQYoX",
+      "url": "https://x.com/bbkirstry/status/2093558133222498612"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-29T02:45:00.000Z",
+      "edit_history_tweet_ids": [
+        "2093530324865311038"
+      ],
+      "id": "2093530324865311038",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 983,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093519872949203384",
+          "type": "quoted"
+        }
+      ],
+      "text": "谢谢铁柱哥让「赛博小晚」在Grok Bot安家！欢迎大家领养❤️\n\n去年我开始高强度地训练、梳理自己的思维架构，再蒸馏我这七八年的内容创作经验和大量的原生语料库，整合成「赛博小晚」\n\n有朋友用她梳理自己的困惑，有朋友用她第一次搭出了一套内容创作逻辑、输出标准，有朋友和她一起探讨商业模式和产品🗳️ https://t.co/pdcBH2eWq8",
+      "url": "https://x.com/bbkirstry/status/2093530324865311038"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-28T18:24:43.000Z",
+      "edit_history_tweet_ids": [
+        "2093404424609857940"
+      ],
+      "id": "2093404424609857940",
+      "in_reply_to_user_id": "2022118285983232001",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 881,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093367046298079502",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xmmxovo 实在是自媒体圣体来的",
+      "url": "https://x.com/bbkirstry/status/2093404424609857940"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-28T16:03:39.000Z",
+      "edit_history_tweet_ids": [
+        "2093368926684233923"
+      ],
+      "id": "2093368926684233923",
+      "in_reply_to_user_id": "1822141194404593664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 442,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093362201574941156",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yiwei_growth @li9292 @gkxspace @gengdaJ 今晚也疯狂在学hhhh",
+      "url": "https://x.com/bbkirstry/status/2093368926684233923"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-28T12:46:11.000Z",
+      "edit_history_tweet_ids": [
+        "2093319231081476148"
+      ],
+      "id": "2093319231081476148",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 471
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083511865158647832",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @thedankoe: Gentle reminder:\n\nBlock out time away from the screen.\n\nForce yourself if you have to.\n\nRead a book for once. Hit the coffee…",
+      "url": "https://x.com/bbkirstry/status/2093319231081476148"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-28T11:59:46.000Z",
+      "edit_history_tweet_ids": [
+        "2093307549005324406"
+      ],
+      "id": "2093307549005324406",
+      "in_reply_to_user_id": "1805188699321470976",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093299560928125373",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@zen_yarn 是的！",
+      "url": "https://x.com/bbkirstry/status/2093307549005324406"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-28T06:59:00.000Z",
+      "edit_history_tweet_ids": [
+        "2093231859153215591"
+      ],
+      "id": "2093231859153215591",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1337,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093168752724693101",
+          "type": "quoted"
+        }
+      ],
+      "text": "早上有朋友问，要不要蹭这个热点\n\n我觉得想蹭可以蹭，但要蹭得好就得找到适合自己的切入点，给到正向 + 差异化的引导。做内容需要把握好「如何把各种议题结合到自己的内容当中，且不影响自己的内容调性」的边界\n\n总结一个个人IP蹭热点的公式：\n公共议题 × 我的长期命题 × 我的独特判断 \n\n#孙宇晨 #景甜 https://t.co/5AcKUhA9YD",
+      "url": "https://x.com/bbkirstry/status/2093231859153215591"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-27T09:48:57.000Z",
+      "edit_history_tweet_ids": [
+        "2092912241876365421"
+      ],
+      "id": "2092912241876365421",
+      "in_reply_to_user_id": "1792608085409939456",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 950,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092889207039807836",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 神tm在自媒体上做鸡。。我被你逗笑了",
+      "url": "https://x.com/bbkirstry/status/2092912241876365421"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-27T09:39:26.000Z",
+      "edit_history_tweet_ids": [
+        "2092909845271961639"
+      ],
+      "id": "2092909845271961639",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 767,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092774656667488519",
+          "type": "quoted"
+        }
+      ],
+      "text": "没有物质基础，是没办法愉快的（别打了 https://t.co/fcOysNwdH2",
+      "url": "https://x.com/bbkirstry/status/2092909845271961639"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-27T08:43:56.000Z",
+      "edit_history_tweet_ids": [
+        "2092895879044989292"
+      ],
+      "id": "2092895879044989292",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 1656,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092212155559092590",
+          "type": "quoted"
+        }
+      ],
+      "text": "黄白老师这个总结干得不能再干了🍻\n\n很多博主还问过高返点怎么应对！\n之前我成功把30%的高返点压回了10%，顺便分享一下我的谈判思路：\n\n1. 先抿清楚跟你对接的人是谁 https://t.co/CtxgZAeeGm",
+      "url": "https://x.com/bbkirstry/status/2092895879044989292"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-27T05:21:26.000Z",
+      "edit_history_tweet_ids": [
+        "2092844917894873339"
+      ],
+      "id": "2092844917894873339",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 866,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092451245588160577",
+          "type": "quoted"
+        }
+      ],
+      "text": "You can do whatever you want🫶 https://t.co/Npk4YMIAcP",
+      "url": "https://x.com/bbkirstry/status/2092844917894873339"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-27T03:25:56.000Z",
+      "edit_history_tweet_ids": [
+        "2092815850839662904"
+      ],
+      "id": "2092815850839662904",
+      "in_reply_to_user_id": "758224086149451776",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 53,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092746159454613598",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@amyxiao_ai 非常认可～这个skill很妙！以后写文我要体验一下",
+      "url": "https://x.com/bbkirstry/status/2092815850839662904"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-26T14:48:48.000Z",
+      "edit_history_tweet_ids": [
+        "2092625312970682599"
+      ],
+      "id": "2092625312970682599",
+      "in_reply_to_user_id": "2057313525132058624",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092624961123008513",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Tutti_global 加油加油！做大做强！",
+      "url": "https://x.com/bbkirstry/status/2092625312970682599"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2092618636435542016"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "created_at": "2026-08-26T14:41:16.000Z",
+      "edit_history_tweet_ids": [
+        "2092623418084798592"
+      ],
+      "id": "2092623418084798592",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1478,
+        "like_count": 9,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2091911682868248667",
+          "type": "quoted"
+        }
+      ],
+      "text": "虽然产品很新但是我很喜欢这个概念，多人多agent协同简直就是天才idea来的！已四处安利～❤️\n\n谢谢@Tutti_global 赏的内测码！期待windows版本上线！ https://t.co/y8k0NBKixr https://t.co/qYT5IPGhiQ",
+      "url": "https://x.com/bbkirstry/status/2092623418084798592"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2093565710274609242].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093565710274609242",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2093565710274609242"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2093616451269902336",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2092618636435542016",
+        "type": "video"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1638221643242930176",
+        "created_at": "2026-08-29T03:46:42.000Z",
+        "edit_history_tweet_ids": [
+          "2093545856263995554"
+        ],
+        "id": "2093545856263995554",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13674,
+          "like_count": 111,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "text": "“真正爱的，即使受到了伤害，也会优雅的离开，不忍伤害对方…”"
+      },
+      {
+        "author_id": "1877440800",
+        "created_at": "2026-08-29T13:30:06.000Z",
+        "edit_history_tweet_ids": [
+          "2093692673215603166"
+        ],
+        "id": "2093692673215603166",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@bbkirstry @Yiwei_growth @gkxspace @gengdaJ 哎今晚我又说多了，下次应该多听老师们讲"
+      },
+      {
+        "author_id": "1866821173755121666",
+        "created_at": "2026-08-29T11:04:35.000Z",
+        "edit_history_tweet_ids": [
+          "2093656052999086334"
+        ],
+        "id": "2093656052999086334",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091550486369620127",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 你怎么放出来了，说好的偷偷用呢"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2093635340829425664"
+          ]
+        },
+        "author_id": "232519529",
+        "created_at": "2026-08-29T09:48:43.000Z",
+        "edit_history_tweet_ids": [
+          "2093636956873703921"
+        ],
+        "id": "2093636956873703921",
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 10022,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 4
+        },
+        "text": "我用three.js建了一整个巴黎～\n\n其实现在还有好多细节元素没完善，只对核心的一些经典做了精细化的建模。\n\n接下来再优化优化，感觉可以拿这个做一些开放性的好玩的游戏了！ https://t.co/CqSeTD8PaT"
+      },
+      {
+        "author_id": "758224086149451776",
+        "created_at": "2026-08-29T08:40:46.000Z",
+        "edit_history_tweet_ids": [
+          "2093619857095045502"
+        ],
+        "id": "2093619857095045502",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093616459411022133",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 赞！这篇分享有收获"
+      },
+      {
+        "author_id": "2014979760565456896",
+        "created_at": "2026-08-29T08:59:16.000Z",
+        "edit_history_tweet_ids": [
+          "2093624513716265419"
+        ],
+        "id": "2093624513716265419",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093616459411022133",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 好像一切的尽头就是回归大自然😂"
+      },
+      {
+        "author_id": "1814299061983617024",
+        "created_at": "2026-08-29T10:02:16.000Z",
+        "edit_history_tweet_ids": [
+          "2093640368088867248"
+        ],
+        "id": "2093640368088867248",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093578030429954068",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 第一笔工资给前女友做了营养科体检和补牙\n她说我老登味十足"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2087993433839591424",
+            "3_2087993433835393024"
+          ]
+        },
+        "author_id": "1947138509422379008",
+        "created_at": "2026-08-13T20:03:23.000Z",
+        "edit_history_tweet_ids": [
+          "2087993440118464537"
+        ],
+        "id": "2087993440118464537",
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3952,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "text": "DeepSeek Harness装上了，醒来后就开始用。 团队们齐全了（从左到右）：\n1️⃣Codex：用来处理复杂的多线程任务，执行自动化和computer use。而且我发现Codex比Claude更适合职场人，就拿我写了一个月的BP来说，Sol 5.6的用词和逻辑更适合商业场景。 https://t.co/gnlP81I5hr"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093549803150180352"
+          ]
+        },
+        "author_id": "1792608085409939456",
+        "created_at": "2026-08-29T04:03:43.000Z",
+        "edit_history_tweet_ids": [
+          "2093549896339276071",
+          "2093550138342137973"
+        ],
+        "id": "2093550138342137973",
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 292092,
+          "like_count": 255,
+          "quote_count": 5,
+          "reply_count": 52,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082650190968725604",
+            "type": "quoted"
+          }
+        ],
+        "text": "万万没想到，我已经可以被grok检索到成为在「中推」上最懂自媒体的人之一了\n\n最近这几个月分享了太多关于AI加自媒体的认知和方法论，横跨底层认知、X增长、抖音口播、选题、Skill、变现交付等多个领域，大家进行系统学习的时候，可以把这篇推文发给AI，让它给你推荐阅读路径\n\n一、底层认知 https://t.co/exmigalThR https://t.co/nh4cwlriJb"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093518658509447168",
+            "3_2093519356017905665"
+          ]
+        },
+        "author_id": "1997889576187387904",
+        "created_at": "2026-08-29T02:03:28.000Z",
+        "edit_history_tweet_ids": [
+          "2093519872949203384"
+        ],
+        "id": "2093519872949203384",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3694,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091550486369620127",
+            "type": "quoted"
+          }
+        ],
+        "text": "快来领养赛博小晚吧！😼\n\n我把 @bbkirstry 小晚老师的“赛博小晚 skill” 做成了 Grok Bot 模板。\n\n帮你解决一切 IP 打造，自媒体运营问题！\n\n模板链接：\nhttps://t.co/rhhdKz7HXL\n\n赛博小晚 skill 源仓库：\nhttps://t.co/3PoiQA5HS1\n\n快来试试吧～ https://t.co/qh9MzKnmdU https://t.co/A3NBPOL82O"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093367033090150400",
+            "3_2093367033094348800",
+            "3_2093367033123803136"
+          ]
+        },
+        "author_id": "2022118285983232001",
+        "created_at": "2026-08-28T15:56:11.000Z",
+        "edit_history_tweet_ids": [
+          "2093367046298079502"
+        ],
+        "id": "2093367046298079502",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12720,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "text": "小小号起号第一天\n小红书 1000 粉，抖音 2600 粉\n存档~(¯▽¯~)~ https://t.co/4lM8hWqJlZ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093362060684128257"
+          ]
+        },
+        "author_id": "1822141194404593664",
+        "created_at": "2026-08-28T15:36:56.000Z",
+        "edit_history_tweet_ids": [
+          "2093362075280240716",
+          "2093362201574941156"
+        ],
+        "id": "2093362201574941156",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10825,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "text": "和宗师@li9292 一起吃年轻小登的火锅\n\n分享三点：\n1.要去信息密度最大的地方持续进步！\n2.爆出什么瓜，最近什么小事，都不重要\n不要为了不重要的事情分心\n3.圈子真的很小\n\n又见到了余温老师！\n还有逸尘，小晚，微微子\n@gkxspace @gengdaJ @bbkirstry \n@bbkirstry https://t.co/ABesBqpSYC"
+      },
+      {
+        "author_id": "256523056",
+        "created_at": "2026-08-01T11:15:13.000Z",
+        "edit_history_tweet_ids": [
+          "2083511865158647832"
+        ],
+        "id": "2083511865158647832",
+        "public_metrics": {
+          "bookmark_count": 1139,
+          "impression_count": 174744,
+          "like_count": 4831,
+          "quote_count": 32,
+          "reply_count": 257,
+          "retweet_count": 471
+        },
+        "text": "Gentle reminder:\n\nBlock out time away from the screen.\n\nForce yourself if you have to.\n\nRead a book for once. Hit the coffee shop. Do anything that gives your mind space to process all of the noise you've accumulated.\n\nYou will feel the immense difference in mental clarity."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093299551671341056"
+          ]
+        },
+        "author_id": "1805188699321470976",
+        "created_at": "2026-08-28T11:28:01.000Z",
+        "edit_history_tweet_ids": [
+          "2093299560928125373"
+        ],
+        "id": "2093299560928125373",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093231859153215591",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 这两位博主做得就很好 qwq https://t.co/VqNDd7WyjQ"
+      },
+      {
+        "author_id": "1249322582869852161",
+        "created_at": "2026-08-28T02:48:14.000Z",
+        "edit_history_tweet_ids": [
+          "2093168752724693101"
+        ],
+        "id": "2093168752724693101",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2372,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "text": "这两天的时间线，大概有四种人：\n\n吃瓜的人、搬运瓜的人、二创瓜的人，以及借瓜建立自己判断的人\n\n前三种争夺一轮注意力，第四种研究情绪为何爆发、人们为何站队、叙事如何扩散\n\n瓜很快会凉，从瓜里长出的判断，才是你的内容资产"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2092874917629005824",
+            "3_2092874961413386240"
+          ]
+        },
+        "author_id": "1792608085409939456",
+        "created_at": "2026-08-27T08:17:25.000Z",
+        "edit_history_tweet_ids": [
+          "2092889207039807836"
+        ],
+        "id": "2092889207039807836",
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 23993,
+          "like_count": 202,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 26
+        },
+        "text": "那个有20多万人看过的，我5天变现1万块的方法论\n\n直播后我进行了一次更新，聊一下现在在自媒体上做鸡\n\n卖自己本质上卖的究竟都是什么？ https://t.co/n9CxIsXTjt"
+      },
+      {
+        "author_id": "1868468244488798208",
+        "created_at": "2026-08-27T00:42:14.000Z",
+        "edit_history_tweet_ids": [
+          "2092774656667488519"
+        ],
+        "id": "2092774656667488519",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1196,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "没有物质基础，是没办法愉快地做科研的。"
+      },
+      {
+        "author_id": "1958735760225705984",
+        "created_at": "2026-08-25T11:27:03.000Z",
+        "edit_history_tweet_ids": [
+          "2092212155559092590"
+        ],
+        "id": "2092212155559092590",
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 11456,
+          "like_count": 56,
+          "quote_count": 4,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "text": "今天和一位自媒体的媒介老师聊了聊，有几个认知：\n\n1.自媒体的商单逻辑是：\n品牌方找媒介下单--&gt;媒介找达人提报--&gt;品牌定人--&gt;媒介下单--&gt;商单执行--&gt;媒介垫资打给达人--&gt;达人支付返点--&gt;品牌结单。\n\n2. 看似媒介赚钱容易，轻松分走 20%-40%"
+      },
+      {
+        "author_id": "1404738934043602947",
+        "created_at": "2026-08-26T03:17:07.000Z",
+        "edit_history_tweet_ids": [
+          "2092451245588160577"
+        ],
+        "id": "2092451245588160577",
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 15979,
+          "like_count": 71,
+          "quote_count": 9,
+          "reply_count": 88,
+          "retweet_count": 2
+        },
+        "text": "很多小伙伴想一边上班一边开启自己的副业，比如写个公众号、做个小红书\n\n但是迟迟不敢发或者自己感觉不好不想发\n\n在我看来，你能把东西写出来，已经超越了 90%的人了，发出来至于会不会火那是平台的问题，不是你的问题\n\n我的建议一律是：发"
+      },
+      {
+        "author_id": "758224086149451776",
+        "created_at": "2026-08-26T22:49:00.000Z",
+        "edit_history_tweet_ids": [
+          "2092746159454613598"
+        ],
+        "id": "2092746159454613598",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092050503886856589",
+            "type": "quoted"
+          },
+          {
+            "id": "2092528249880584481",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 非常同意，输入与输出相比同样重要，这也是我发布了一个写作角度Skill的原因，让内容创作者更多的输入自己真实的观点和经历，别让AI完全自由发挥。\n\n别越来越像一个精致但内核空洞的“美人”，真实感特别重要！ https://t.co/gguMFvOfym"
+      },
+      {
+        "author_id": "2057313525132058624",
+        "created_at": "2026-08-26T14:47:24.000Z",
+        "edit_history_tweet_ids": [
+          "2092624961123008513"
+        ],
+        "id": "2092624961123008513",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092623418084798592",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 谢谢喜欢💕"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2091911265300234240"
+          ]
+        },
+        "author_id": "2057313525132058624",
+        "created_at": "2026-08-24T15:33:05.000Z",
+        "edit_history_tweet_ids": [
+          "2091911682868248667"
+        ],
+        "id": "2091911682868248667",
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 144989,
+          "like_count": 31,
+          "quote_count": 9,
+          "reply_count": 20,
+          "retweet_count": 12
+        },
+        "text": "Agents are doing more and more of the work. Everyone brings their own agent, each running on a different machine. \n\nYour agent is brilliant. So is your teammate's. They've just never met.  \n\nTutti · VM: The first multi-user, multi-agent, real-time collaboration space. Agents run https://t.co/f3f9hyvV3e"
+      }
+    ],
+    "users": [
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "username": "bbkirstry"
+      },
+      {
+        "id": "1877440800",
+        "name": "李韭二",
+        "username": "li9292"
+      },
+      {
+        "id": "1866821173755121666",
+        "name": "木马人",
+        "username": "cnyzgkc"
+      },
+      {
+        "id": "232519529",
+        "name": "花叔",
+        "username": "AlchainHust"
+      },
+      {
+        "id": "758224086149451776",
+        "name": "Amy Xiao AI GTM",
+        "username": "amyxiao_ai"
+      },
+      {
+        "id": "2014979760565456896",
+        "name": "诺鸭船长3",
+        "username": "noahduck283"
+      },
+      {
+        "id": "1814299061983617024",
+        "name": "Faraday",
+        "username": "Faraday1973"
+      },
+      {
+        "id": "2022118285983232001",
+        "name": "西门聪明蛋XD",
+        "username": "xmmxovo"
+      },
+      {
+        "id": "1822141194404593664",
+        "name": "Yiwei",
+        "username": "Yiwei_growth"
+      },
+      {
+        "id": "1805188699321470976",
+        "name": "雷雨同学",
+        "username": "leiyuqwq"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "2057313525132058624",
+        "name": "Tutti",
+        "username": "Tutti_global"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2093751062339715437",
+    "next_token": "b26v89c19zqg8o3juezga1kd8vkb3wpxoe1hz9278ha4d",
+    "oldest_id": "2092623418084798592",
+    "result_count": 25
+  }
+}

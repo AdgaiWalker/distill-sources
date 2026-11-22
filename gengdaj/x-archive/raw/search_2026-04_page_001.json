@@ -1,0 +1,1301 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-30T13:27:09.000Z",
+      "edit_history_tweet_ids": [
+        "2049842995625963946"
+      ],
+      "id": "2049842995625963946",
+      "in_reply_to_user_id": "1641953027002343424",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 989,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049652333156732966",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@salozm_8 好的，学习一下",
+      "url": "https://x.com/gengdaJ/status/2049842995625963946"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-30T13:24:36.000Z",
+      "edit_history_tweet_ids": [
+        "2049842354354577771"
+      ],
+      "id": "2049842354354577771",
+      "in_reply_to_user_id": "1764818331822182400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1149,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049789473085702482",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaohu 好的，小互大佬！",
+      "url": "https://x.com/gengdaJ/status/2049842354354577771"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2049727797577555968",
+          "3_2049727797539844096"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-30T13:12:00.000Z",
+      "edit_history_tweet_ids": [
+        "2049839184181858407"
+      ],
+      "id": "2049839184181858407",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 2798,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2048643297024061561",
+          "type": "quoted"
+        }
+      ],
+      "text": "我服了啊！🤦‍♂️第一次见，只有Windows有，Mac没有的福利！Claude desktop app允许windows接入第三方模型，不允许mac接入第三方模型。macos用户只能用default的claude，难道是mac用户有钱？ https://t.co/PjPr5cn9nm https://t.co/ydssXOFIkG",
+      "url": "https://x.com/gengdaJ/status/2049839184181858407"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-30T04:59:29.000Z",
+      "edit_history_tweet_ids": [
+        "2049715239328120996"
+      ],
+      "id": "2049715239328120996",
+      "in_reply_to_user_id": "2524054428",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 260,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049704741580726648",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LuoSays AI时代就要打破局限，跨领域去玩，顺带赚钱！",
+      "url": "https://x.com/gengdaJ/status/2049715239328120996"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T13:21:46.000Z",
+      "edit_history_tweet_ids": [
+        "2049479253625057594"
+      ],
+      "id": "2049479253625057594",
+      "in_reply_to_user_id": "1204704827860586497",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 143,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049466387807289832",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@duange6099 期待国产模型干掉海外御三家！",
+      "url": "https://x.com/gengdaJ/status/2049479253625057594"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2049476249328947201"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T13:13:14.000Z",
+      "edit_history_tweet_ids": [
+        "2049477107231965388"
+      ],
+      "id": "2049477107231965388",
+      "public_metrics": {
+        "bookmark_count": 32,
+        "impression_count": 11243,
+        "like_count": 28,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 2
+      },
+      "text": "AI硬件确实很有搞头啊，真的算是生产力工具了！\n\n生财第十年抽奖抽中的飞书AI录音豆，今天体验了一下，实在是美滋滋，夹在衣领上就可以说话，实时转化为飞书妙记。\n\n今天出门和人聊了两个小时，把对话全部记录下来了，我靠，以前谈完了就算了的内容，现在直接沉淀为资产，妥妥生产力工具！ https://t.co/4G9B5Vxu6E",
+      "url": "https://x.com/gengdaJ/status/2049477107231965388"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T13:07:13.000Z",
+      "edit_history_tweet_ids": [
+        "2049475595164409926"
+      ],
+      "id": "2049475595164409926",
+      "in_reply_to_user_id": "2016810000971448320",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5114,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049472715019747344",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AllenCao1997 这点肯定认同。",
+      "url": "https://x.com/gengdaJ/status/2049475595164409926"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T13:06:39.000Z",
+      "edit_history_tweet_ids": [
+        "2049475448934207705"
+      ],
+      "id": "2049475448934207705",
+      "in_reply_to_user_id": "1435514254656897025",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6074,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049440926494306427",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@devlee 哈哈，之前有尝试问过，这次竟搞忘了。AI first思维还得强化。谢谢大佬",
+      "url": "https://x.com/gengdaJ/status/2049475448934207705"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T10:36:08.000Z",
+      "edit_history_tweet_ids": [
+        "2049437572959744222"
+      ],
+      "id": "2049437572959744222",
+      "public_metrics": {
+        "bookmark_count": 243,
+        "impression_count": 56723,
+        "like_count": 221,
+        "quote_count": 3,
+        "reply_count": 84,
+        "retweet_count": 20
+      },
+      "text": "向X上面所有高强度使用Claude Code或者Codex的技术大佬真诚发问：现在，对一个技术小白（最多看懂html和css）来说，去学习完整开发一个项目的最佳路径是什么？\n\n在我的认知里面只有，提需求→一次性开发完→慢慢修改→功能正常→开卖→用户提需求→改→继续卖。",
+      "url": "https://x.com/gengdaJ/status/2049437572959744222"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T10:29:31.000Z",
+      "edit_history_tweet_ids": [
+        "2049435907988623622"
+      ],
+      "id": "2049435907988623622",
+      "in_reply_to_user_id": "1711367869567746048",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 76,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049424601638383975",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lala_oldtang seedance2.0",
+      "url": "https://x.com/gengdaJ/status/2049435907988623622"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2049388342970863616",
+          "3_2049388460746874880"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T07:21:01.000Z",
+      "edit_history_tweet_ids": [
+        "2049388468485456023"
+      ],
+      "id": "2049388468485456023",
+      "in_reply_to_user_id": "1385766205403713536",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049384026587496873",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiangxiang103 破案了，macos不允许，windows允许，真的服了 https://t.co/RXvFQIHJmX",
+      "url": "https://x.com/gengdaJ/status/2049388468485456023"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T06:47:11.000Z",
+      "edit_history_tweet_ids": [
+        "2049379953087828351"
+      ],
+      "id": "2049379953087828351",
+      "in_reply_to_user_id": "1385766205403713536",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 31,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049376497971192255",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiangxiang103 依旧失败，难道是mac的问题？",
+      "url": "https://x.com/gengdaJ/status/2049379953087828351"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T06:31:19.000Z",
+      "edit_history_tweet_ids": [
+        "2049375961125396970"
+      ],
+      "id": "2049375961125396970",
+      "in_reply_to_user_id": "1385766205403713536",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049370522933449195",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiangxiang103 我删了重下一下，感谢大佬",
+      "url": "https://x.com/gengdaJ/status/2049375961125396970"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T06:01:04.000Z",
+      "edit_history_tweet_ids": [
+        "2049368350451781772"
+      ],
+      "id": "2049368350451781772",
+      "in_reply_to_user_id": "939870716391854082",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 471,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049362837890650494",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yyyole 哈哈，管他呢，上小号",
+      "url": "https://x.com/gengdaJ/status/2049368350451781772"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T06:00:41.000Z",
+      "edit_history_tweet_ids": [
+        "2049368251029999855"
+      ],
+      "id": "2049368251029999855",
+      "in_reply_to_user_id": "1385766205403713536",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 52,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049363489249247631",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiangxiang103 还是不行啊呜呜呜。我的tab按完之后，聚焦从continue with google到输入框到continue with email到privacy，没有出现啊",
+      "url": "https://x.com/gengdaJ/status/2049368251029999855"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2049361223465213952"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T05:32:54.000Z",
+      "edit_history_tweet_ids": [
+        "2049361259817251190"
+      ],
+      "id": "2049361259817251190",
+      "in_reply_to_user_id": "1385766205403713536",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 184,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2048643297024061561",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiangxiang103 卡死在了第一步，没有左上角菜单。。。 https://t.co/t5MsUb69sL",
+      "url": "https://x.com/gengdaJ/status/2049361259817251190"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2049359147498618880",
+          "3_2049359164120678400"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T05:24:46.000Z",
+      "edit_history_tweet_ids": [
+        "2049359215626785084"
+      ],
+      "id": "2049359215626785084",
+      "in_reply_to_user_id": "1667439202357899267",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 305,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049293145670836459",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Pluvio9yte 乌云佬，这个界面咋操作啊。。。 https://t.co/e0dWjCYVyx",
+      "url": "https://x.com/gengdaJ/status/2049359215626785084"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T03:59:03.000Z",
+      "edit_history_tweet_ids": [
+        "2049337641225818374"
+      ],
+      "id": "2049337641225818374",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 128,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049325117998592311",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 温总重拾旧业，开始起飞",
+      "url": "https://x.com/gengdaJ/status/2049337641225818374"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T03:34:03.000Z",
+      "edit_history_tweet_ids": [
+        "2049331352781373912"
+      ],
+      "id": "2049331352781373912",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 2639,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2047559480100184340",
+          "type": "quoted"
+        }
+      ],
+      "text": "给大家分享一个“可能都听说过，但是从来没有实践过”的财富十倍增长的诀窍——AI智囊团。\n\n为什么马斯克、马云、Sam这些人能这么牛逼（经济差距摆在那），就是因为他们看待世界的逻辑比普通人深入十倍，甚至百倍。他们能够通过向自己提问的方法去找到撬动财富的杠杆。 https://t.co/G41sXYpyKE",
+      "url": "https://x.com/gengdaJ/status/2049331352781373912"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-29T00:51:20.000Z",
+      "edit_history_tweet_ids": [
+        "2049290400142434597"
+      ],
+      "id": "2049290400142434597",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3097,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049136483106230523",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 内地开不了，沿海感觉都太快了，沿海估计一年吧，内地咋都要个几年…",
+      "url": "https://x.com/gengdaJ/status/2049290400142434597"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-28T17:23:47.000Z",
+      "edit_history_tweet_ids": [
+        "2049177772657111346"
+      ],
+      "id": "2049177772657111346",
+      "in_reply_to_user_id": "1749716294449135616",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1386,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049148102066757738",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CasieCheri384 哈哈哈，没毛病，我也用的很爽！短时间不会用Claude code了",
+      "url": "https://x.com/gengdaJ/status/2049177772657111346"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-28T17:22:56.000Z",
+      "edit_history_tweet_ids": [
+        "2049177560068854268"
+      ],
+      "id": "2049177560068854268",
+      "in_reply_to_user_id": "869216472505040896",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 446,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049146941997822060",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Com0kjmjs 华为手机我绝对骂垃圾，但是华为芯片训练AI模型那我得力挺。就事论事",
+      "url": "https://x.com/gengdaJ/status/2049177560068854268"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-28T17:22:21.000Z",
+      "edit_history_tweet_ids": [
+        "2049177413415010710"
+      ],
+      "id": "2049177413415010710",
+      "in_reply_to_user_id": "3522859873",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 388,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049158346247458820",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sunlyfeng 没毛病，必须力挺国产！我将给DeepSeek充100块！",
+      "url": "https://x.com/gengdaJ/status/2049177413415010710"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-28T17:21:24.000Z",
+      "edit_history_tweet_ids": [
+        "2049177173911875816"
+      ],
+      "id": "2049177173911875816",
+      "in_reply_to_user_id": "1625958496599687169",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1639,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049111263545004264",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@teextranoaaa 让gpt2生成淡蓝色哈哈哈",
+      "url": "https://x.com/gengdaJ/status/2049177173911875816"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2049072258015236096"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-04-28T14:18:00.000Z",
+      "edit_history_tweet_ids": [
+        "2049131017651343830"
+      ],
+      "id": "2049131017651343830",
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 5617,
+        "like_count": 27,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 3
+      },
+      "text": "这个AI视频真的太真实，太励志了，我都被成功打鸡血！视频号10W+点赞和转发，引起了评论区激烈讨论！\n\n为了增强我的爆款感知能力，接下来我会把我觉得引起了我强烈共鸣的一些视频认真拆解，培养底层的内容能力。\n\n今天是第一期： https://t.co/YZZtVHh7ob",
+      "url": "https://x.com/gengdaJ/status/2049131017651343830"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2049293145670836459].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049293145670836459",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2049293145670836459"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2049325117998592311].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049325117998592311",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2049325117998592311"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2049727797577555968",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2049727797539844096",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2049476249328947201",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2049388342970863616",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2049388460746874880",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2049361223465213952",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2049359147498618880",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2049359164120678400",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2049072258015236096",
+        "type": "video"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1641953027002343424",
+        "created_at": "2026-04-30T00:49:31.000Z",
+        "edit_history_tweet_ids": [
+          "2049652333156732966"
+        ],
+        "id": "2049652333156732966",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1391,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049437572959744222",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 先上https://t.co/hlqAZbeyjq把相关语言的教程看一下，手写一下明白概念，2周\n开发环境配置，git，markdown，1周\n写小型脚本，0.5周\n观察别人的项目结构，0.5周\n了解什么是unit test，lint之类的，0.5周\n开始第一个项目：写文档，开发，拆分提交，验证，循环"
+      },
+      {
+        "author_id": "1764818331822182400",
+        "created_at": "2026-04-30T09:54:28.000Z",
+        "edit_history_tweet_ids": [
+          "2049789473085702482"
+        ],
+        "id": "2049789473085702482",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2839,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049437572959744222",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 复刻"
+      },
+      {
+        "article": {
+          "cover_media": "3_2048642957725798400",
+          "entities": {
+            "code": [
+              {
+                "code": "http://127.0.0.1:15721",
+                "content": "```\nhttp://127.0.0.1:15721\n```",
+                "language": "none"
+              },
+              {
+                "code": "brew tap farion1231/ccswitch\nbrew install --cask cc-switch",
+                "content": "```\nbrew tap farion1231/ccswitch\nbrew install --cask cc-switch\n```",
+                "language": "none"
+              },
+              {
+                "code": "claude",
+                "content": "```\nclaude\n```",
+                "language": "none"
+              },
+              {
+                "code": "inclusionai/ling-2.6-1t:free",
+                "content": "```\ninclusionai/ling-2.6-1t:free\n```",
+                "language": "none"
+              },
+              {
+                "code": "OpenRouter（免费模型 Ling-2.6-1T）\n        ↓\n  CC Switch（可视化管理 + 一键切换）\n        ↓\n  Claude Code / Claude Desktop",
+                "content": "```\nOpenRouter（免费模型 Ling-2.6-1T）\n        ↓\n  CC Switch（可视化管理 + 一键切换）\n        ↓\n  Claude Code / Claude Desktop\n```",
+                "language": "none"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://openrouter.ai/keys"
+              },
+              {
+                "text": "https://openrouter.ai/api/v1"
+              },
+              {
+                "text": "https://github.com/farion1231/cc-switch"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f4a1.svg"
+              },
+              {
+                "text": "https://github.com/farion1231/cc-switch/releases"
+              },
+              {
+                "text": "https://openrouter.ai/"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/26a0.svg"
+              },
+              {
+                "text": "https://openrouter.ai/keys"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f4a1.svg"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2048641691666829312",
+            "3_2048641709555458048",
+            "3_2048641761216794624",
+            "3_2048641732901044224",
+            "3_2048641717914705920",
+            "3_2048641747564310528",
+            "3_2048641754564632576",
+            "3_2048641768799993856",
+            "3_2048641776513433600",
+            "3_2048641725783224320",
+            "3_2048641739809050624",
+            "3_2048641698599997440"
+          ],
+          "plain_text": "本文介绍一种零成本使用 Claude Code 和 Claude Desktop 的方案：通过 OpenRouter 上的免费模型 Ling-2.6-1T，配合 CC Switch 这款可视化管理工具，一键切换 API 提供商，实现完全免费的 AI 编程体验。\n前言\nClaude Code 和 Claude Desktop 是 Anthropic 推出的两款强力工具——一个是终端里的 AI 编程助手，一个是桌面端的 AI 对话应用。但它们默认使用 Anthropic 官方 API，按 token 计费，用起来肉疼。\n有没有办法白嫖？有。\n核心思路：OpenRouter 提供了免费模型，CC Switch 让你一键把这些模型接入 Claude Code 和 Claude Desktop，不用手动改配置文件，全程可视化操作。\n方案概览\n \n整个流程分三步：\n在 OpenRouter 注册并获取 API Key\n安装 CC Switch\n在 CC Switch 中添加 OpenRouter 提供商，一键切换给 Claude Code 和 Claude Desktop 使用\n第一步：注册 OpenRouter 并获取 API Key\n1. 注册账号\n访问 OpenRouter，使用 Google 账号或邮箱注册。\n2. 获取 API Key\n登录后，进入 Keys 页面（https://openrouter.ai/keys），点击 Create Key，复制生成的 API Key。\n \n⚠️ API Key 只会显示一次，务必保存好。\n3. 找到免费模型 Ling-2.6-1T\n在 OpenRouter 的模型列表中，搜索 ling-2.6。这是一个免费模型（标记为 Free），输入和输出都不计费。\n \n模型 ID 为：\n \n💡 OpenRouter 上有不少免费模型，Ling-2.6-1T 是其中表现不错的一个。你也可以根据需要选择其他免费模型。\n就算免费期结束，按当前公开价格看，Ling-2.6-1T 也属于很便宜的一档。最近同类模型的价格已经压得很低，后面继续降价也有可能。\n第二步：安装 CC Switch\nCC Switch 是一款跨平台的桌面应用，专门用来管理 Claude Code、Codex、Gemini CLI、OpenCode、OpenClaw 等 AI 编程工具的 API 提供商。它的核心价值在于：不用手动编辑配置文件，所有操作都通过可视化界面完成。\n主要功能\n50+ 内置提供商预设 — 包括 OpenRouter、AWS Bedrock 等，填入 Key 即可一键导入\n一键切换 — 在主界面或系统托盘中直接切换提供商，Claude Code 甚至不需要重启\n统一 MCP 管理 — 一个面板管理多个工具的 MCP 服务器配置\n用量追踪 — 跟踪花费、请求数和 token 用量\n下载安装\n前往 Releases 页面 下载最新版本：\n \nWindows：\n下载 CC-Switch-v{version}-Windows.msi 安装包，或 CC-Switch-v{version}-Windows-Portable.zip 便携版，双击安装即可。\nmacOS（推荐用 Homebrew）：\n \nLinux：\n下载对应格式的安装包（.deb / .rpm / .AppImage）。\n第三步：在 CC Switch 中配置 OpenRouter\n安装完成后，打开 CC Switch，按以下步骤操作：\n1. 添加提供商\n点击 “Add Provider”（添加提供商），在预设列表中选择 OpenRouter（CC Switch 内置了 50+ 提供商预设，OpenRouter 就在其中）。\n \n2. 填入配置\nAPI Key：粘贴你在第一步获取的 OpenRouter API Key\nModel：填入 inclusionai/ling-2.6-1t:free（或你选择的其他免费模型 ID）\nBase URL：预设会自动填好 https://openrouter.ai/api/v1，无需手动修改\n \n3. 启用提供商\n配置完成后，在主界面选中刚添加的 OpenRouter 提供商，点击 “Enable”（启用）。\n \n也可以通过 系统托盘 快速切换：右键点击托盘图标，直接选择要使用的提供商，即时生效。\n💡 Claude Code 切换提供商后不需要重启，直接生效。其他 CLI 工具可能需要重启终端。\n在 Claude Code 中使用\nCC Switch 启用 OpenRouter 提供商后，Claude Code 会自动使用新的 API 端点和模型。直接在终端中启动：\n \n \n发送一条消息测试，如果正常回复，说明配置成功。此时你使用的是 OpenRouter 的免费模型 Ling-2.6-1T，完全不产生费用。\n在 Claude Desktop 中使用\nClaude Desktop 不能像 Claude Code 那样直接被 CC Switch 接管配置，需要通过官方的 3P Gateway 功能，把桌面版的请求转发到 CC Switch 的本地代理。这样你在 CC Switch 里切换提供商时，桌面版也会跟着热切换。\n1. 在 CC Switch 中开启本地代理\n打开 CC Switch 的设置，找到本地代理开关并开启。开启后会显示本地代理地址，一般是：\n \n \n把这个地址复制下来，后面要用。\n⚠️ 一定要通过 CC Switch 的本地代理接入，不要直接填某个 provider 的地址。否则你在 CC Switch 里切换提供商时，桌面版不会跟着切换。\n2. 打开 Claude Desktop 的 3P 设置\n在 Claude Desktop 中：\n点击左上角菜单（三条横线）\nHelp → Troubleshooting → Enable Developer mode\nDeveloper → Configure third-party inference\n \n这会打开官方的 3P 配置面板。\n3. 配置 Gateway 连接\n在 Connection 页面选择 Gateway，然后填写：\nGateway base URL：http://127.0.0.1:15721（你的本地代理地址）\nGateway API key：PROXY_MANAGED\nGateway auth scheme：bearer\nSkip login-mode chooser：建议开启（跳过官方登录，直接走 Gateway）\n其他字段留空即可\n点击应用到本地即可\n \n4. 重启验证\n完全退出 Claude Desktop（包括托盘图标），重新打开，发送消息测试。如果正常回复，说明已经成功通过 CC Switch 代理连接到 OpenRouter 的免费模型了。\n \n \n注意事项\n免费模型的限制：免费模型通常有速率限制（如每分钟请求次数、每天总 token 数），高频使用可能会被限流。\n模型能力差异：Ling-2.6-1T 并非 Claude 原版模型，能力上会有差异。对于日常编程辅助够用，但复杂推理任务可能不如 Claude 原版。\nAPI 兼容性：OpenRouter 兼容 OpenAI API 格式，大部分功能可以正常使用，但某些 Anthropic 特有功能可能不支持。\n隐私考虑：你的对话数据会经过 OpenRouter 服务器，注意不要在对话中包含敏感信息。\n切换回官方：想切回 Claude 官方 API？在 CC Switch 中添加一个 “Official Login” 预设，启用后重启 CLI 工具，走官方登录流程即可。\n总结\n注册 OpenRouter — 注册账号，获取 API Key（2 分钟）\n安装 CC Switch — 下载安装桌面应用（2 分钟）\n配置提供商 — 添加 OpenRouter + Ling-2.6-1T，一键启用（1 分钟）\n总共不到 5 分钟，你就能拥有一个零成本的 Claude 编程环境。CC Switch 的可视化界面让整个过程告别了手动编辑配置文件的痛苦——添加提供商、切换模型、管理 MCP，全部点点鼠标就搞定。\n虽然底层跑的不是 Claude 原版模型，但借助 Claude Code 和 Claude Desktop 优秀的交互体验，日常开发完全够用。\n如果你也想低成本把 Claude Code 和 Claude Desktop 跑起来，可以先按这篇试一遍。跑通了的话，也欢迎回来告诉我你用的是哪个模型，实际效果怎么样。\n更多 AI 干货同步更新公众号：雨哥聊AI，关注我带你玩转 AI 时代",
+          "preview_text": "本文介绍一种零成本使用 Claude Code 和 Claude Desktop 的方案：通过 OpenRouter 上的免费模型 Ling-2.6-1T，配合 CC Switch 这款可视化管理工具，一键切换 API 提供商，实现完全免费的 AI 编程体验。\n前言\nClaude",
+          "title": " 我把 Claude 桌面版也白嫖了：还能接入 Claude Code 写代码"
+        },
+        "author_id": "1385766205403713536",
+        "created_at": "2026-04-27T05:59:58.000Z",
+        "edit_history_tweet_ids": [
+          "2048643297024061561"
+        ],
+        "id": "2048643297024061561",
+        "public_metrics": {
+          "bookmark_count": 592,
+          "impression_count": 149283,
+          "like_count": 267,
+          "quote_count": 17,
+          "reply_count": 49,
+          "retweet_count": 62
+        },
+        "text": "https://t.co/KgR1acgg9V"
+      },
+      {
+        "author_id": "2524054428",
+        "created_at": "2026-04-30T04:17:46.000Z",
+        "edit_history_tweet_ids": [
+          "2049704741580726648"
+        ],
+        "id": "2049704741580726648",
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 70849,
+          "like_count": 149,
+          "quote_count": 24,
+          "reply_count": 68,
+          "retweet_count": 6
+        },
+        "text": "从上海 Let's Vision 2026 回来之后，\n我整整一个月几乎没写代码了。\n\n不是因为忙，\n是突然就觉得这件事没那么有意思了。\n\n这几年我反复经历一个循环：\n做产品 → burn out → 怀疑 → 再继续做产品\n随着 vibe coding 越来越流行，\n我发现大家在做的东西越来越像：\n\n同样的 SaaS\n同样的玩法"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2049466305049468928",
+            "3_2049466332362776576",
+            "3_2049466369218117633"
+          ]
+        },
+        "author_id": "1204704827860586497",
+        "created_at": "2026-04-29T12:30:38.000Z",
+        "edit_history_tweet_ids": [
+          "2049466387807289832"
+        ],
+        "id": "2049466387807289832",
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7665,
+          "like_count": 26,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "text": "今年国产大模型将迎来爆发，多款产品有望实现对 Opus 4.6 的超越，国产模型整体已经具备快速迭代、弯道超车的硬核实力。\n\n今年4月，大模型万亿参数俱乐部迎来多位新成员，DeepSeek V4 1.6T、MiMo-V2.5、Ling-2.6-1T 悉数入局，其中蚂蚁 Ling-2.6-1T 昨晚正式开源。\n\n✅对比海外主流闭源模型，Opus https://t.co/QZkPD3aucJ"
+      },
+      {
+        "author_id": "2016810000971448320",
+        "created_at": "2026-04-29T12:55:47.000Z",
+        "edit_history_tweet_ids": [
+          "2049472715019747344"
+        ],
+        "id": "2049472715019747344",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5411,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049437572959744222",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 以后前后端的边界就不会特别清晰了 前后端福利本质上也是为了提高效率"
+      },
+      {
+        "author_id": "1435514254656897025",
+        "created_at": "2026-04-29T10:49:28.000Z",
+        "edit_history_tweet_ids": [
+          "2049440926494306427"
+        ],
+        "id": "2049440926494306427",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6611,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049437572959744222",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 这里面涉及软件工程问题，以前没有AI，需要不同的工种互相配合来解决技术上的问题，前端负责用户界面，后端负责数据和核心业务逻辑，测试则负责整体应用的可用性，现在通过vb这种模式开发出来的东西更像是一次性的应用，坏了就让AI修，简单的应用其实完全没问题，很多企业级的应用要复杂很多，需要更健"
+      },
+      {
+        "author_id": "1711367869567746048",
+        "created_at": "2026-04-29T09:44:36.000Z",
+        "edit_history_tweet_ids": [
+          "2049424601638383975"
+        ],
+        "id": "2049424601638383975",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ 用哪个软件做的？"
+      },
+      {
+        "author_id": "1385766205403713536",
+        "created_at": "2026-04-29T07:03:22.000Z",
+        "edit_history_tweet_ids": [
+          "2049384026587496873"
+        ],
+        "id": "2049384026587496873",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049379953087828351",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 有可能，windows 左上有三条横线能调出帮助"
+      },
+      {
+        "author_id": "1385766205403713536",
+        "created_at": "2026-04-29T06:33:27.000Z",
+        "edit_history_tweet_ids": [
+          "2049376497971192255"
+        ],
+        "id": "2049376497971192255",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049375961125396970",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 不客气，有什么问题多交流"
+      },
+      {
+        "author_id": "1385766205403713536",
+        "created_at": "2026-04-29T06:09:42.000Z",
+        "edit_history_tweet_ids": [
+          "2049370522933449195"
+        ],
+        "id": "2049370522933449195",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049368251029999855",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 是不是版本不太对啊，一般左上角有三条线可以调出帮助，然后开启开发者模式"
+      },
+      {
+        "author_id": "939870716391854082",
+        "created_at": "2026-04-29T05:39:10.000Z",
+        "edit_history_tweet_ids": [
+          "2049362837890650494"
+        ],
+        "id": "2049362837890650494",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 599,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ 微信还是不敢用，但用来干别的还是很nice！！"
+      },
+      {
+        "author_id": "1385766205403713536",
+        "created_at": "2026-04-29T05:41:45.000Z",
+        "edit_history_tweet_ids": [
+          "2049363489249247631"
+        ],
+        "id": "2049363489249247631",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049361259817251190",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 按一下tab键"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2047559393739517952",
+            "3_2047559404787245056"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-04-24T06:13:16.000Z",
+        "edit_history_tweet_ids": [
+          "2047559480100184340"
+        ],
+        "id": "2047559480100184340",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10579,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047516922263285776",
+            "type": "quoted"
+          }
+        ],
+        "text": "最近AI圈真的是一波未平，一波又起！天天都在被新模型冲击三观！​\nClaude Opu4.7，GPT5.5，到国内的Mimo2.5pro和Kimi2.6，还有今天开源界的神，Deepseek v4！​\n我相信你只是看了很多AI博主的测评，但是没有亲自上手体验各自的能力，因为，根本体验不过来！ https://t.co/hhFBl50vMA https://t.co/v6TManYPL0"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2049135468847960064"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "created_at": "2026-04-28T14:39:43.000Z",
+        "edit_history_tweet_ids": [
+          "2049136483106230523"
+        ],
+        "id": "2049136483106230523",
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 166711,
+          "like_count": 175,
+          "quote_count": 11,
+          "reply_count": 94,
+          "retweet_count": 14
+        },
+        "text": "刚看了郭宇的访谈，提到六个月之后或许就不需要人再工作了，知识工作者应该享受这仅有的六个月。\n\n我并不觉得这是危言耸听，因为按照目前这个阶段，整个发展其实不难看出来。\n\nClaude Code、Skills、OpenClaw，不都在向全自动化发展。 https://t.co/mV6PcKbk4B"
+      },
+      {
+        "author_id": "1749716294449135616",
+        "created_at": "2026-04-28T15:25:53.000Z",
+        "edit_history_tweet_ids": [
+          "2049148102066757738"
+        ],
+        "id": "2049148102066757738",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1632,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049096540807893351",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 我现在用着codex真的太好用了。已经不用别的了"
+      },
+      {
+        "author_id": "869216472505040896",
+        "created_at": "2026-04-28T15:21:16.000Z",
+        "edit_history_tweet_ids": [
+          "2049146941997822060"
+        ],
+        "id": "2049146941997822060",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 569,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049006156740448373",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 这事本质不在华为做不做的出来 比如手机我相信华为比苹果性价比不是高一点点 但为什么选苹果不是华为 是因为骨子里的恶 内置反诈 强制数据采集等等 说再直接点 即便做出来了也没人敢用 当然基本盘除外"
+      },
+      {
+        "author_id": "3522859873",
+        "created_at": "2026-04-28T16:06:35.000Z",
+        "edit_history_tweet_ids": [
+          "2049158346247458820"
+        ],
+        "id": "2049158346247458820",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049006156740448373",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 有人在做生意，\n有人在铺国运。"
+      },
+      {
+        "author_id": "1625958496599687169",
+        "created_at": "2026-04-28T12:59:30.000Z",
+        "edit_history_tweet_ids": [
+          "2049111263545004264"
+        ],
+        "id": "2049111263545004264",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2085,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049047427383210334",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 藍色看起來不錯"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1641953027002343424",
+        "name": "salozm",
+        "username": "salozm_8"
+      },
+      {
+        "id": "1764818331822182400",
+        "name": "小互",
+        "username": "xiaohu"
+      },
+      {
+        "id": "2524054428",
+        "name": "Luo说不啰嗦",
+        "username": "LuoSays"
+      },
+      {
+        "id": "1204704827860586497",
+        "name": "程序员端哥",
+        "username": "duange6099"
+      },
+      {
+        "id": "2016810000971448320",
+        "name": "Allen Cao",
+        "username": "AllenCao1997"
+      },
+      {
+        "id": "1435514254656897025",
+        "name": "devlee",
+        "username": "devlee_eth"
+      },
+      {
+        "id": "1711367869567746048",
+        "name": "Mr Richard@AI+Crypto",
+        "username": "lala_oldtang"
+      },
+      {
+        "id": "1385766205403713536",
+        "name": "雨哥向前冲",
+        "username": "xiangxiang103"
+      },
+      {
+        "id": "939870716391854082",
+        "name": "沐阳",
+        "username": "yyyole"
+      },
+      {
+        "id": "1667439202357899267",
+        "name": "雪踏乌云",
+        "username": "Pluvio9yte"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "username": "gkxspace"
+      },
+      {
+        "id": "1749716294449135616",
+        "name": "善口",
+        "username": "CasieCheri384"
+      },
+      {
+        "id": "869216472505040896",
+        "name": "ak47",
+        "username": "Com0kjmjs"
+      },
+      {
+        "id": "3522859873",
+        "name": "面朝大海|AI",
+        "username": "sunlyfeng"
+      },
+      {
+        "id": "1625958496599687169",
+        "name": "soy fox mulder",
+        "username": "soyfoxmulder"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2049842995625963946",
+    "next_token": "b26v89c19zqg8o3juekkce0nbvv19gkfpd171j9rl7lh9",
+    "oldest_id": "2049131017651343830",
+    "result_count": 25
+  }
+}

@@ -1,0 +1,1628 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-31T09:53:06.000Z",
+      "edit_history_tweet_ids": [
+        "2038917493293724129"
+      ],
+      "id": "2038917493293724129",
+      "in_reply_to_user_id": "1874442058653646848",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1785,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038886363177898095",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@guishou_56 Niko哥牛逼了",
+      "url": "https://x.com/gengdaJ/status/2038917493293724129"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T14:49:35.000Z",
+      "edit_history_tweet_ids": [
+        "2038629719550386457"
+      ],
+      "id": "2038629719550386457",
+      "in_reply_to_user_id": "2008736589183377408",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 353,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038629172537348477",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Keji715 成品号",
+      "url": "https://x.com/gengdaJ/status/2038629719550386457"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T14:49:29.000Z",
+      "edit_history_tweet_ids": [
+        "2038629695537946830"
+      ],
+      "id": "2038629695537946830",
+      "in_reply_to_user_id": "2014979760565456896",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 320,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038620817597292586",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@noahduck283 成品号",
+      "url": "https://x.com/gengdaJ/status/2038629695537946830"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T14:49:01.000Z",
+      "edit_history_tweet_ids": [
+        "2038629575048228986"
+      ],
+      "id": "2038629575048228986",
+      "in_reply_to_user_id": "1656557317029265408",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038624917105877235",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AndreaArms60465 真的稳吗。",
+      "url": "https://x.com/gengdaJ/status/2038629575048228986"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T14:02:35.000Z",
+      "edit_history_tweet_ids": [
+        "2038617890174468551"
+      ],
+      "id": "2038617890174468551",
+      "in_reply_to_user_id": "1486209719740289024",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 511,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038616381198106847",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oxniubi 🤣codex一直在用来写代码和小龙虾，但是写作和学习这玩意儿我现在有大需求，目前测试下来还非得用这家伙",
+      "url": "https://x.com/gengdaJ/status/2038617890174468551"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2038615301429055489"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T13:53:47.000Z",
+      "edit_history_tweet_ids": [
+        "2038615677557428377"
+      ],
+      "id": "2038615677557428377",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 4240,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "text": "咸鱼充值Claude还是不靠谱！这波用了5小时就被封了，血亏100，成也咸鱼，败也咸鱼！\n终究得自食其力，这才是第二个，\n希望在第五个之前找到稳定的使用方法！ https://t.co/7yUeb92KCM",
+      "url": "https://x.com/gengdaJ/status/2038615677557428377"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T13:47:19.000Z",
+      "edit_history_tweet_ids": [
+        "2038614047617335603"
+      ],
+      "id": "2038614047617335603",
+      "in_reply_to_user_id": "1955634814108979200",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 251,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038581370142777493",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hyhn141212 加油加油",
+      "url": "https://x.com/gengdaJ/status/2038614047617335603"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T13:47:07.000Z",
+      "edit_history_tweet_ids": [
+        "2038614000066601297"
+      ],
+      "id": "2038614000066601297",
+      "in_reply_to_user_id": "1579688574697426945",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 374,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038599714455556390",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LocationCk 感谢关注。牛逼的哥",
+      "url": "https://x.com/gengdaJ/status/2038614000066601297"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T13:46:48.000Z",
+      "edit_history_tweet_ids": [
+        "2038613918550208858"
+      ],
+      "id": "2038613918550208858",
+      "in_reply_to_user_id": "1670710019573309440",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 313,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038613116905513280",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Karadokuy 一起加油",
+      "url": "https://x.com/gengdaJ/status/2038613918550208858"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T09:36:15.000Z",
+      "edit_history_tweet_ids": [
+        "2038550866631012789"
+      ],
+      "id": "2038550866631012789",
+      "in_reply_to_user_id": "1461275257428340743",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 301,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038534448057393412",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@maxweb00 对滴，先跑通流程，之后熟悉了就只用专心搞内容了",
+      "url": "https://x.com/gengdaJ/status/2038550866631012789"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T09:35:44.000Z",
+      "edit_history_tweet_ids": [
+        "2038550737081487613"
+      ],
+      "id": "2038550737081487613",
+      "in_reply_to_user_id": "16400791",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 201,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038545689400279466",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xds2000 共勉",
+      "url": "https://x.com/gengdaJ/status/2038550737081487613"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T09:35:24.000Z",
+      "edit_history_tweet_ids": [
+        "2038550650846621929"
+      ],
+      "id": "2038550650846621929",
+      "in_reply_to_user_id": "1648577903955947522",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 389,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038541004257796465",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@icycat 我给AI的提示词——美颜一下🤣",
+      "url": "https://x.com/gengdaJ/status/2038550650846621929"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T09:35:10.000Z",
+      "edit_history_tweet_ids": [
+        "2038550593011388730"
+      ],
+      "id": "2038550593011388730",
+      "in_reply_to_user_id": "2008736589183377408",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 347,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038538954396368979",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Keji715 哈哈哈，我先抛砖引玉，希望更多推特大佬加入进来",
+      "url": "https://x.com/gengdaJ/status/2038550593011388730"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T09:34:42.000Z",
+      "edit_history_tweet_ids": [
+        "2038550476770386142"
+      ],
+      "id": "2038550476770386142",
+      "in_reply_to_user_id": "1866821173755121666",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 433,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038531215263940901",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cnyzgkc 第一次尽量尽全力😅之后就是流水线工作了，要把很多环节自动化，争取一天录完剪完一周的",
+      "url": "https://x.com/gengdaJ/status/2038550476770386142"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T08:00:51.000Z",
+      "edit_history_tweet_ids": [
+        "2038526858451677608"
+      ],
+      "id": "2038526858451677608",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 501,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038525032721252395",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 哈哈哈，温总多指点下视频🤪看人干嘛，我很害羞的",
+      "url": "https://x.com/gengdaJ/status/2038526858451677608"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2038521572999434240",
+          "3_2038523533849239552",
+          "3_2038523628468531200"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T07:48:31.000Z",
+      "edit_history_tweet_ids": [
+        "2038523755161645171"
+      ],
+      "id": "2038523755161645171",
+      "public_metrics": {
+        "bookmark_count": 64,
+        "impression_count": 13381,
+        "like_count": 96,
+        "quote_count": 1,
+        "reply_count": 9,
+        "retweet_count": 5
+      },
+      "text": "今天是2026年3月30日，这是我这辈子做的第一个AI自媒体视频成功发布到小红书平台的朴实无华的一天。\n\n感觉怎么样？我只能说，做出来这么一个视频对我来说并不难（哪怕踩了很多坑——工具、拍摄和文案......），但是真正能够鼓起勇气露脸把这个视频发到公域，我还是第一次。 https://t.co/ucGmK36OpX",
+      "url": "https://x.com/gengdaJ/status/2038523755161645171"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2038518536738623488"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T07:29:01.000Z",
+      "edit_history_tweet_ids": [
+        "2038518845678456851"
+      ],
+      "id": "2038518845678456851",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1021,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038511354118816103",
+          "type": "replied_to"
+        }
+      ],
+      "text": "最新更新：让你的飞书更好用依然可以使用。我之前没有打开允许运行用户脚本，大家注意。\n这里把这个脚本的地址也放这里：https://t.co/QYJk73D5rl https://t.co/icmM34Z0rA",
+      "url": "https://x.com/gengdaJ/status/2038518845678456851"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-30T05:18:23.000Z",
+      "edit_history_tweet_ids": [
+        "2038485972027834717"
+      ],
+      "id": "2038485972027834717",
+      "in_reply_to_user_id": "1339460649584185344",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 971,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038452420330811482",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CTracy0803 250美金…很多大学生一个月生活费都没这么高",
+      "url": "https://x.com/gengdaJ/status/2038485972027834717"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-29T17:12:20.000Z",
+      "edit_history_tweet_ids": [
+        "2038303253100999067"
+      ],
+      "id": "2038303253100999067",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 677,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038208589198942226",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 我做卖钱的产品，永远都是用codex开发。claude还是处理一些日常工作和文本好一些",
+      "url": "https://x.com/gengdaJ/status/2038303253100999067"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-29T14:05:41.000Z",
+      "edit_history_tweet_ids": [
+        "2038256283221143811"
+      ],
+      "id": "2038256283221143811",
+      "in_reply_to_user_id": "1568592146315513858",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 155,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038237038554566928",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Cedric_Rune 时间很宝贵。有一直换的时间不如买个安心",
+      "url": "https://x.com/gengdaJ/status/2038256283221143811"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-29T14:05:13.000Z",
+      "edit_history_tweet_ids": [
+        "2038256166820794599"
+      ],
+      "id": "2038256166820794599",
+      "in_reply_to_user_id": "1749716294449135616",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 210,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038250698455044575",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CasieCheri384 对。🫡",
+      "url": "https://x.com/gengdaJ/status/2038256166820794599"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-29T12:45:54.000Z",
+      "edit_history_tweet_ids": [
+        "2038236204332879937"
+      ],
+      "id": "2038236204332879937",
+      "in_reply_to_user_id": "2008736589183377408",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 230,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038222297815773368",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Keji715 这个不是咸鱼。是我这边的渠道。",
+      "url": "https://x.com/gengdaJ/status/2038236204332879937"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-29T11:49:23.000Z",
+      "edit_history_tweet_ids": [
+        "2038221983759090013"
+      ],
+      "id": "2038221983759090013",
+      "in_reply_to_user_id": "1486209719740289024",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 251,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038204608766759216",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oxniubi 有售后，如果出事了直接按天退或者补，这家我用了大半年了，没出现过任何风险，最近新出的年套餐，我选择无条件相信",
+      "url": "https://x.com/gengdaJ/status/2038221983759090013"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2038192210458619904",
+          "3_2038192210462859264"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-29T09:51:08.000Z",
+      "edit_history_tweet_ids": [
+        "2038192222252958007"
+      ],
+      "id": "2038192222252958007",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 2980,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "兄弟们，我找到一个逆天渠道，Gpt plus充自己账号，600块，还质保一年！\n这波咸鱼大清洗我小龙虾接的四个Codex Team账号全部掉完了，痛定思痛之后决定：还是得去搞正版的！ https://t.co/vYR2mp3Sd1",
+      "url": "https://x.com/gengdaJ/status/2038192222252958007"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-03-29T06:43:14.000Z",
+      "edit_history_tweet_ids": [
+        "2038144937754280405"
+      ],
+      "id": "2038144937754280405",
+      "in_reply_to_user_id": "1251890355508662274",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2038138418971156581",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jjjd77326292 我要用官网",
+      "url": "https://x.com/gengdaJ/status/2038144937754280405"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "User has been suspended: [1461275257428340743].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1461275257428340743",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1461275257428340743"
+    },
+    {
+      "detail": "User has been suspended: [1568592146315513858].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1568592146315513858",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1568592146315513858"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038534448057393412].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038534448057393412",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2038534448057393412"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2038511354118816103].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038511354118816103",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2038511354118816103"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038237038554566928].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038237038554566928",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2038237038554566928"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2038615301429055489",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2038521572999434240",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2038523533849239552",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2038523628468531200",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2038518536738623488",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2038192210458619904",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2038192210462859264",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "cover_media": "3_2038886266889269248",
+          "entities": {
+            "urls": [
+              {
+                "text": "Traffic.cv"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1965206911944433695"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/3YaZtZniJbdEOrbBeWXPWw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1987513460528148507"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1952350597925278069"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/yLl_WRmN1RLqftv35FP_zg"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1981935705426444719"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2020475192061899046"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/RaeQ7dlCDJJvX-T-qTaMxA"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1966479001771278585"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/17-D2oLnj64vrQTIm2-YhA"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2001618055823253783"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2003715952710681060"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2001167758902616190"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1960888823807709305"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/Gpjl0npeQcn0LJddEOaSyw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1985922864583721012"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1958167796321558729"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1978503809014919470"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/jIT7Q2UcUOsUSW4UDn7x6g"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1974451349598412876"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1992453410088743093"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2001897056487764222"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2019953284640104835"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/FavuRrxNPJXJic009Ro_XQ"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/W2kPDu7m03xaqf5xw3ZkeA"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1943656385318912166"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1987115577291178118"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2002065625385218077"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1991372898821439525"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1982468691410522487"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1992764746836389946"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1997290042121977966"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1982777627917324456"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1980583605383623156"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1982043189340152269"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2022145844238254220"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1971789778636202360"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1969278172593078619"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/hZmfpDhd8Bxw87Rpnclz-A"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2016719307905118646"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/dcZ6A3mvqNioicsPkW2Svw"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/k88DR6RdornqfeZmMMoQTw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1974820297934320053"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2014597008464781642"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/-WaOdqD4Dlfyr2Qq9cu4UA"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1983008855861932217"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/GBLG5A-27Uxnlya-c_vjAw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1973773284094480541"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1967403476050473027"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1971779570232971281"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/_Jju1aSjKGdCNMorvDSR6Q"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1970002666756382837"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1975044032033415468"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2027980620316684503"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1979770376591925445"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1994017832519258457"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1980868680553755130"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2013948231701672009"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1989965212007768108"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1979588652175925344"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/EHzrfVW5qqI90UJjZQ7CIw"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/Ns9dinFdqiD4OOQeQgFHyw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1967546909801009277"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1990607754755748326"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1975895894823444709"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1968501430077243717"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2024465883230597396"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1991878590674391443"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2021476131233464496"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1981605138373673259"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1996281131877175656"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1968961785538531812"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/AKEDyTm8o2cyvs50cHiASw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1955870827100119550"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/4aA3b9yYJVDsIP0tz_tt8g"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2025040009884303640"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/g4zPP1c_RshddlvbtfBepw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2021845505920446612"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1983500852578140397"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1988809605296845167"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1994243198324232406"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2028315065687138697"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1973971390220153221"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2021418423406706713"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1968894986965160398"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1973026349918159054"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/zSLIcNunfMGQguSzEytfDA"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2013207949917741166"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/MmYj-ebwq5RuYYjGU-UwPA"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/ed0B3LiKJoL6i7_HXsotIw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1999026159716012391"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/YrUscAvw3SL2iDGrG5OH0g"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1996806284574970364"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/2027777575976898619"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/efHV0IJyjSTjiMIpzjSLQQ"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1980911116353171816"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1995798123705500015"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1971248575133909149"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1988556323693203916"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1968143468242542607"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/WZjaOtWz9NfRB13epHVbZw"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1985313980924215355"
+              },
+              {
+                "text": "https://mp.weixin.qq.com/s/9Yd-FmNGbJ34WOmxi_EvRQ"
+              },
+              {
+                "text": "https://x.com/guishou_56/status/1991000082393805300"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2038885993689034752"
+          ],
+          "plain_text": " \nMRR 4000 刀。出第一单用了105天，到现在，快一年了。\n不算多，上面还有一堆月入万刀的大佬。但对一个从安全行业转型、连前端都不会写的人来说，算是给自己一个交代了。\n这一年发了不少推文，踩坑的、复盘的、工具推荐的，全散在时间线里。趁月底整理一下，按主题分类，有需要的直接点。\n需求/选品\n判断什么是刚需？Must-have or Nice-to-have\n用模型词上站的一些经验\n每出一个爆火的模型都会带起一个对应的场景词\n打新词的正确玩法\n那些月入过万的 AI 工具站，到底做对了什么\n做大厂看不上的小需求\n出海 SaaS 打新词的红利，几乎没了\n随手做的新词站转化率千分之四 vs 品牌站千分之一\n100个站的方法论\n视频SaaS能月入万刀的两个核心原因\n产品赚钱本质就两件事：流量+转化\n新词站的反馈飞轮：只有两个注册用户的新词也能出单\n能复制、能出单的站，往往说明这就是强需求\nReddit 帖子点醒我：真正的金矿藏在那些“土但赚钱”的行业里\nTrustMRR 排行榜最后 10 名，才是普通开发者更该学的生存样本\n品牌站 vs 新词站：回头看才发现新词站难度简单太多\n英文 SaaS 生意经阅读清单，不要只刷二手中文总结\nTrustMRR 榜单第 99 名 Hirevire：招聘初筛这种“脏活累活”才是好 SaaS\nSEO\n网站上线只是第一步，基础SEO操作\n域名后缀到底影不影响SEO排名\nBacklinko On-Page SEO 基础\n经常更新网站，让谷歌爬虫优先推送\n使用重复的图片会影响网站排名\n优化全站内容后流量蹭蹭涨\nBing 查看 AI 引用页面的新功能\n发现一个做 AI SaaS + SEO 的宝藏网站\n图片格式踩坑：JPEG、PNG、WebP 怎么选\n第一个 SaaS 站放着没管，排名却还在涨\n外链\n提外链最高效的策略\n付费外链避雷，花了30美金买教训\n支付\nStripe 实战避坑指南\nStripe 踩的一些坑（英国公司主体）\nStripe 开单没通知的坑\n支付方式信任度的问题\n转化\n流量暴涨但转化很少的坑\n没有免费试用如何推进用户付费\n研究提升转化率的过程\n签到送积分：被薅还是四两拨千斤\n付费用户竟然没人用过试用\n免费策略做起来的站出了600刀年费\n邮件运营的2个致命细节\n默认带水印能否增加转化率\n不懂埋点就像开车不看仪表盘\n《Zero to Sold》里最颠覆我的定价观点：宁可定高，也别定低\nReddit 讨论：为了更多客户，要不要降价？\n流量/营销\nReddit 增长地图·62个低风险 Subreddit\nReddit 挖掘热门话题的金矿\nReddit 自动获取客户的秘诀\n推特运营工具汇总\n推特 0 到 2000 粉复盘\n48小时涨粉1000+\n做产品只要感受过一次流量，就再也不会缺流量\nCMSEO 2025 现场带回的 Reddit 营销保姆级策略\nAds 投流\n研究谷歌 Ads 的第一天\n投流踩坑：全投到不发达地区\n用魔法打败魔法的 Ads 优化技巧\nGoogle Ads 投流的一些坑\n做谷歌广告投流，最贵的成本不是广告费\n开发\n新站上线各种踩坑\n花几天折腾模板：generate、price、showcase\n做产品最浪费时间的事：盯着空白页面想落地页\n防止用户薅羊毛\n记录网站解决问题的过程\nAI 编程工具\nCodex vs Claude Code 最佳实践\n让 Codex 变更聪明的提示词\nClaude Code 4个你可能不知道的技巧\n复盘\n海外产品第一单，闭环了\n月入千刀达成\n创业最难的不是做产品\n新手村玩家不要挑战王者局\n技术出身容易陷入「智商傲慢」\n上站的正确顺序（Thread）\n半年总结：轻舟已过万重山\n上一个项目毕业了——失败的那种\nSaaS 圈花钱买来的经验\n出海 SaaS 圈愿意分享的没几个\n新站终于开单了\n新人如何从 0 到 1 赚到第一个 $1000：混圈子 + 验证信息\n公众号深度长文（Niko的出海记录）\n上面推文篇幅有限，有些话题我在公众号写了更完整的拆解。\n需求验证 & 选品思路\n独立开发者的需求验证指南\n挖掘用户真实需求的底层逻辑\n产品差反而能赚钱？技术人的认知盲区\n如何靠AI工具赚百万美元\nSEO & 流量\n新词7天冲到谷歌前五的完整实战复盘\nSEMrush实战指南：从零基础到SEO高手的完整攻略\n看榜单 学流量策略\n从 Traffic.cv 11月增速榜，深扒 SaaS 流量暴增的三个流派\n独立开发者的GA4实战：别用大厂的屠龙刀削苹果\nGoogle Ads保姆级教程 10分钟看懂所有设置\n社媒增长\n在 Reddit 如何高效获客，且避免封号\n把 Reddit 变成「常青流量池」的SaaS 产品增长 SOP\n面向开发者的 100 个可低风险推广 AI 产品的 Subreddits\n多平台社媒运营的核心增长策略\n解放双手，推特起号效率提升10倍的秘密\n实战复盘 & 认知\n从零到一的首单复盘：一个普通程序员的105天淘金之路\nAI SaaS实战复盘：我是如何用一个月从0做到持续出单的\n从0到1，我的出海探索之路\n哥飞线下分享补充：新人如何从 0 到 1 赚到第一个 $1000\n卡在「第一美金」后，我学到的海外产品增长心法\n一个技术人的「三重进化」：从技术到产品，再到运营的认知迭代\n创业最大的坑：所有人都在教你「怎么做」，却没人告诉你「前提条件」\n我让AI复盘了一年的聊天记录，发现了20次认知跃迁\n方法论 & 思维\n新手村玩家，请不要直接挑战王者局\n为什么说，Build in Public是程序员的终极解药？\n开发 & 工具\nvibing coding实战指南：产品开发复盘与高效协作方法论\n这一年最大的体感：技术真的不值钱，需求和流量才值钱。当初死磕代码的时间，拿来研究用户和SEO，可能早就不止4000了。\n后面会继续分享踩坑经验，有什么想了解的留言，我看看能不能安排上。\n公众号「Niko的出海记录」同步更新，部分内容有更详细的拆解。",
+          "preview_text": "MRR 4000 刀。出第一单用了105天，到现在，快一年了。\n不算多，上面还有一堆月入万刀的大佬。但对一个从安全行业转型、连前端都不会写的人来说，算是给自己一个交代了。",
+          "title": "月入4000刀达成，AI SaaS出海一年内容整理"
+        },
+        "author_id": "1874442058653646848",
+        "created_at": "2026-03-31T07:49:24.000Z",
+        "edit_history_tweet_ids": [
+          "2038886363177898095"
+        ],
+        "id": "2038886363177898095",
+        "public_metrics": {
+          "bookmark_count": 2279,
+          "impression_count": 287422,
+          "like_count": 1005,
+          "quote_count": 39,
+          "reply_count": 102,
+          "retweet_count": 153
+        },
+        "text": "https://t.co/S9nPJRHCV4"
+      },
+      {
+        "author_id": "2008736589183377408",
+        "created_at": "2026-03-30T14:47:25.000Z",
+        "edit_history_tweet_ids": [
+          "2038629172537348477"
+        ],
+        "id": "2038629172537348477",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038615677557428377",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 礼品卡吗"
+      },
+      {
+        "author_id": "2014979760565456896",
+        "created_at": "2026-03-30T14:14:13.000Z",
+        "edit_history_tweet_ids": [
+          "2038620817597292586"
+        ],
+        "id": "2038620817597292586",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038615677557428377",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 是礼品卡代充吗"
+      },
+      {
+        "author_id": "1656557317029265408",
+        "created_at": "2026-03-30T14:30:30.000Z",
+        "edit_history_tweet_ids": [
+          "2038624917105877235"
+        ],
+        "id": "2038624917105877235",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038615677557428377",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 买礼品卡充比较稳哦"
+      },
+      {
+        "author_id": "1486209719740289024",
+        "created_at": "2026-03-30T13:56:35.000Z",
+        "edit_history_tweet_ids": [
+          "2038616381198106847"
+        ],
+        "id": "2038616381198106847",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ 第一步，先弄个住宅IP\n第二步，封麻了，\n第三步，用codex"
+      },
+      {
+        "author_id": "1955634814108979200",
+        "created_at": "2026-03-30T11:37:28.000Z",
+        "edit_history_tweet_ids": [
+          "2038581370142777493"
+        ],
+        "id": "2038581370142777493",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038523755161645171",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 好厉害!好厉害!老师多像你学习"
+      },
+      {
+        "author_id": "1579688574697426945",
+        "created_at": "2026-03-30T12:50:21.000Z",
+        "edit_history_tweet_ids": [
+          "2038599714455556390"
+        ],
+        "id": "2038599714455556390",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 428,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038523755161645171",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 已关注。我写文章本来是发着玩，运气好，发第一篇就爆了 原地起号 快 1000 粉丝了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2038613106340016128"
+          ]
+        },
+        "author_id": "1670710019573309440",
+        "created_at": "2026-03-30T13:43:37.000Z",
+        "edit_history_tweet_ids": [
+          "2038613116905513280"
+        ],
+        "id": "2038613116905513280",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 504,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038300139572666663",
+            "type": "quoted"
+          },
+          {
+            "id": "2038523755161645171",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 共勉兄弟，我也在buliding in public\n\nhttps://t.co/7Kr8LUSbUg https://t.co/kzo4AsQv1D"
+      },
+      {
+        "author_id": "16400791",
+        "created_at": "2026-03-30T09:15:41.000Z",
+        "edit_history_tweet_ids": [
+          "2038545689400279466"
+        ],
+        "id": "2038545689400279466",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038523755161645171",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 牛"
+      },
+      {
+        "author_id": "1648577903955947522",
+        "created_at": "2026-03-30T08:57:04.000Z",
+        "edit_history_tweet_ids": [
+          "2038541004257796465"
+        ],
+        "id": "2038541004257796465",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038523755161645171",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 又变帅了嗷"
+      },
+      {
+        "author_id": "2008736589183377408",
+        "created_at": "2026-03-30T08:48:55.000Z",
+        "edit_history_tweet_ids": [
+          "2038538954396368979"
+        ],
+        "id": "2038538954396368979",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038523755161645171",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 恭喜迈出第一步~"
+      },
+      {
+        "author_id": "1866821173755121666",
+        "created_at": "2026-03-30T08:18:10.000Z",
+        "edit_history_tweet_ids": [
+          "2038531215263940901"
+        ],
+        "id": "2038531215263940901",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038523755161645171",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 你这还做了封面，太心机了，不是说不剪么"
+      },
+      {
+        "author_id": "1881991469730594816",
+        "created_at": "2026-03-30T07:53:36.000Z",
+        "edit_history_tweet_ids": [
+          "2038525032721252395"
+        ],
+        "id": "2038525032721252395",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 632,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038523755161645171",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 我兄弟真帅啊😍"
+      },
+      {
+        "author_id": "1339460649584185344",
+        "created_at": "2026-03-30T03:05:04.000Z",
+        "edit_history_tweet_ids": [
+          "2038452420330811482"
+        ],
+        "id": "2038452420330811482",
+        "public_metrics": {
+          "bookmark_count": 288,
+          "impression_count": 481815,
+          "like_count": 1119,
+          "quote_count": 40,
+          "reply_count": 250,
+          "retweet_count": 45
+        },
+        "text": "第一次如此直观感受AI的残忍\n\n刚和一个在国内读大学的朋友聊天，现在所有的年轻人都知道不会用AI就找不到工作，但是他们只能每个月浅尝辄止。\n\nToken太贵了，如果使用Claude MAX，那就是他们一半的生活费。"
+      },
+      {
+        "article": {
+          "cover_media": "3_2038207451418574848",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://intuitionlabs.ai/articles/anthropic-claude-4-llm-evolution"
+              },
+              {
+                "text": "https://deeptechstars.substack.com/p/mixture-of-experts-explained-plus"
+              },
+              {
+                "text": "https://www.swebench.com/"
+              },
+              {
+                "text": "https://x.com/karpathy/status/2015883857489522876"
+              },
+              {
+                "text": "https://vertu.com/lifestyle/claude-code-vs-codex-vs-cursor-the-ultimate-2025-guide-to-vibe-coding-tools/"
+              },
+              {
+                "text": "Berryxia.AI"
+              },
+              {
+                "text": "https://deeptechstars.substack.com/p/mixture-of-experts-explained-plus"
+              },
+              {
+                "text": "https://www.swebench.com/"
+              },
+              {
+                "text": "https://x.com/karpathy/status/2015883857489522876"
+              },
+              {
+                "text": "https://intuitionlabs.ai/articles/anthropic-claude-4-llm-evolution"
+              },
+              {
+                "text": "https://vertu.com/lifestyle/claude-code-vs-codex-vs-cursor-the-ultimate-2025-guide-to-vibe-coding-tools/"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2038202375513800704",
+            "3_2038202449606176768",
+            "3_2038203462497005568",
+            "3_2038202649355689984",
+            "3_2038202137818406912",
+            "3_2038203609645731840",
+            "3_2038202524688400384",
+            "3_2038203006479634432",
+            "3_2038203171223560193",
+            "3_2038204034755280896",
+            "3_2038203776050606080"
+          ],
+          "plain_text": "在 AI 辅助编程领域，一个流传已久的观点是：Codex（OpenAI 代码专用模型系列，现以 GPT-5.x Codex 为代表）深受传统程序员喜爱，尤其在修复 Bug 和生产级重构场景；\n而 Claude（Anthropic 系列，如 Claude 4 / 4.6 Opus）则成为“Vibe Coding”用户的首选。\n这一观点的核心归因于模型底层架构——Claude 是精细的稠密（Dense）Transformer，Codex 则采用混合专家（Mixture of Experts,MoE）设计，更适合模块化、精确的代码任务。\n \n这一说法并非空穴来风，但远非全部真相。\n它涉及了模型架构、训练哲学、产品形态以及真实开发者工作流的深层交织。\n \n一、架构基础：Dense vs MoE 的本质区别\n大型语言模型的核心是 Transformer 架构，其前馈网络（Feed-Forward Network,FFN）层决定计算方式：\n1.1 Dense（稠密）模型 - Claude 主力架构\n每一次前向传播（inference），所有参数都参与计算。模型像一个高度整合的“大脑”，对每个 token 都施加统一的、全连接的注意力与变换。\n特点：\n参数虽多，但激活一致性高\n上下文连贯性极强\n全脑激活式思考\n1.2 MoE（混合专家）模型 - GPT-5.x Codex 核心\n将 FFN 替换为多个“专家子网络”（experts），由一个路由器（router）动态决定每个 token 只激活少数专家（通常 2-8 个）。\n核心公式：\n \n其中  是路由门控概率， 是第  个专家输出。\n特点：\n总参数规模可达万亿级\n激活参数仅为 Dense 的几分之一\n计算效率大幅提升\n \n1.3 直观对比\n \n2026 年最新确认：\nClaude 4 系列仍以 Dense 为主\nOpenAI Codex 系列明确采用 MoE 或“路由双模型”（routed duo）设计，专为长时程代理式编码优化\n \n二、Claude 模型（Dense）：为什么是 Vibe Coding 用户的\"最爱\"？\n2.1 什么是 Vibe Coding?\n“Vibe Coding”由 Andrej Karpathy 于 2025 年初提出，指用自然语言描述“氛围与意图”（vibe），让 AI 自主生成原型、迭代产品，而非纠结语法细节。\n典型示例：\n“做一个像 Notion 一样的笔记 App，要有丝滑拖拽感和 AI 自动总结的能力。”\n \n2.2 Dense 架构在此场景的天然\n✓ 整体连贯性与细腻感\n全参数激活确保模型对模糊提示的理解高度统一，不易出现 MoE 的路由噪声。输出不仅功能正确，还带有：\n设计美感\n用户体验洞察\n主动追问：“这个 vibe 你更偏 minimalist 还是 feature-rich?”\n✓ 自然语言与推理深度\nClaude 的 Constitutional AI（宪法 AI）训练哲学强调“helpful + harmless + honest”，使其像资深产品设计师。\n关键特性：\nArtifacts 实时预览\n多文件规划\n长上下文（200K+）\n✓ 社区实证\nVibe Coding 玩家（独立开发者、原型党、非传统程序员）在 Claude Code / Claude 4.6 中感受到“聊天做产品”的流畅感，而非单纯写代码。\n2.3 为什么 MoE 在这里不够“灵魂”？\nMoE 在高模糊创意任务中偶尔显得“拼凑”，缺少那种“灵魂一致”的 vibe——这正是 Dense 的制胜点。\n \n三、Codex（MoE）：为什么成为传统程序员 Bug Fixing 的利器？\n传统程序员在 IDE 中处理生产代码、修复 Bug、重构大项目时，核心需求是：\n精确\n可验证\n快速迭代\n需要定位 edge case、兼容特定库、不引入回归。\n \n3.1 MoE 架构的模块化优势\n✓ 专家专精与精准路由\n不同专家可深度训练于特定领域：\nPython + PyTorch Bug\n前端状态管理\n测试框架调试\n路由器看到 Bug 描述或代码片段，即激活相关专家，模块化处理能力远超 Dense 的“全脑思考”。\n✓ 效率与执行力\n激活参数少 → 推理更快、token 成本更低\nCodex 在“set-and-forget”代理模式中表现突出：\n读文件\n改代码\n跑测试\n循环修复\n尤其适合长时间自主执行。\n✓ 代码训练偏好\nGPT-5.x Codex 本就重度 fine-tune 于海量代码，MoE 进一步放大：\n模式匹配\n大规模结构化变换（如框架迁移、整个模块重构）\n3.2 社区反馈\n程序员常说：\n“Claude 会跟你聊天，Codex 直接出活”\n在真实生产环境中，Codex 的“老程序员式”精准补全与 Debug的能力更适合。\n四、超越架构：训练哲学、产品设计与真实工作流\n架构只是起点，更关键的是多维度因素的综合作用。\n \n4.1 训练哲学\n \n4.2 产品形态Claude Code\n \n4.3 混合使用现实\n多数开发者并非二选一，而是：\n“vibe 脑暴用 Claude，落地执行用 Codex”\n4.4 2026 年Bench 测试证实\n \n五、结论与实战建议\n \n5.1 核心结论\nCodex 的 MoE + 代码专精让它成为程序员“精准打击”的首选，而 Claude 的 Dense 细腻设计则让 Vibe Coding 用户感受到“懂我”的灵魂共鸣。\n这一偏好差异是架构、训练、产品三维合力的结果，而非单一因素。\n5.2 实战建议\n场景 1：Vibe Coding / 原型迭代\n→ 优先 Claude 4.6 Opus / Sonnet\n适合：创意探索、产品原型、自然语言交互\n工具：Claude Code、Artifacts\n场景 2：生产 Bug Fixing / 大规模重构\n→ 优先 GPT-5.4 Codex 或 Copilot\n适合：精准修复、代理执行、长时程任务\n工具：GitHub Copilot、Codex CLI\n场景 3：混合工作流\n→ 使用 Cursor / Windsurf 等多模型 IDE\n结合两者优势\nClaude 负责创意和规划\nCodex 负责执行和优化\n5.3 未来展望\nAI 编程工具正迅速演进，未来 Hybrid MoE + Dense 混合架构或将模糊界限。\n但当下，理解这些差异，能让你从“工具使用者”变成“工作流设计师”。\n参考资料：\nAnthropic Claude 4 架构详解 \nhttps://intuitionlabs.ai/articles/anthropic-claude-4-llm-evolution\nOpenAI GPT-5.4 与 Codex MoE 解析 \nhttps://deeptechstars.substack.com/p/mixture-of-experts-explained-plus\nSWE-bench 官方排行榜（2026 更新）\nhttps://www.swebench.com/\nKarpathy Vibe Coding 讨论 \nhttps://x.com/karpathy/status/2015883857489522876\n社区对比实测 \nhttps://vertu.com/lifestyle/claude-code-vs-codex-vs-cursor-the-ultimate-2025-guide-to-vibe-coding-tools/\n通过这些资源，你可以进一步追踪最新基准与开发者案例。欢迎在评论区分享你的使用心得。\n或许下一个突破性工作流，就诞生于你的混合实践之中。\n作者：Berryxia.AI \n交流：358848136 ",
+          "preview_text": "在 AI 辅助编程领域，一个流传已久的观点是：Codex（OpenAI 代码专用模型系列，现以 GPT-5.x Codex 为代表）深受传统程序员喜爱，尤其在修复 Bug 和生产级重构场景；\n而 Claude（Anthropic 系列，如 Claude 4 / 4.6",
+          "title": "为什么程序员钟爱Codex，Vibe Coding的人却离不开Claude？一文弄懂它！"
+        },
+        "author_id": "431617343",
+        "created_at": "2026-03-29T10:56:10.000Z",
+        "edit_history_tweet_ids": [
+          "2038208589198942226"
+        ],
+        "id": "2038208589198942226",
+        "public_metrics": {
+          "bookmark_count": 1613,
+          "impression_count": 512854,
+          "like_count": 799,
+          "quote_count": 39,
+          "reply_count": 39,
+          "retweet_count": 169
+        },
+        "text": "https://t.co/zNkfauCjnP"
+      },
+      {
+        "author_id": "1749716294449135616",
+        "created_at": "2026-03-29T13:43:30.000Z",
+        "edit_history_tweet_ids": [
+          "2038250698455044575"
+        ],
+        "id": "2038250698455044575",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038192222252958007",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 600是一年的plus？"
+      },
+      {
+        "author_id": "2008736589183377408",
+        "created_at": "2026-03-29T11:50:38.000Z",
+        "edit_history_tweet_ids": [
+          "2038222297815773368"
+        ],
+        "id": "2038222297815773368",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038192222252958007",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 闲鱼是真的强大啊"
+      },
+      {
+        "author_id": "1486209719740289024",
+        "created_at": "2026-03-29T10:40:21.000Z",
+        "edit_history_tweet_ids": [
+          "2038204608766759216"
+        ],
+        "id": "2038204608766759216",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038192222252958007",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 年费不稳，月费的稳，一月一月来"
+      },
+      {
+        "author_id": "1251890355508662274",
+        "created_at": "2026-03-29T06:17:20.000Z",
+        "edit_history_tweet_ids": [
+          "2038138418971156581"
+        ],
+        "id": "2038138418971156581",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038117774841798706",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 咸鱼有中转啊 哥"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1874442058653646848",
+        "name": "Niko",
+        "username": "guishou_56"
+      },
+      {
+        "id": "2008736589183377408",
+        "name": "柯基是只猫",
+        "username": "Keji715"
+      },
+      {
+        "id": "2014979760565456896",
+        "name": "诺鸭船长3",
+        "username": "noahduck283"
+      },
+      {
+        "id": "1656557317029265408",
+        "name": "小蒋",
+        "username": "AndreaArms60465"
+      },
+      {
+        "id": "1486209719740289024",
+        "name": "小森",
+        "username": "oxniubi"
+      },
+      {
+        "id": "1955634814108979200",
+        "name": "何小楼",
+        "username": "hyhn141212"
+      },
+      {
+        "id": "1579688574697426945",
+        "name": "Kiro有点Yes",
+        "username": "LocationCk"
+      },
+      {
+        "id": "1670710019573309440",
+        "name": "KunKun折腾手记",
+        "username": "Karadokuy"
+      },
+      {
+        "id": "16400791",
+        "name": "Tommy Xiao",
+        "username": "xds2000"
+      },
+      {
+        "id": "1648577903955947522",
+        "name": "冷酷小猫 IcyCat",
+        "username": "icycat"
+      },
+      {
+        "id": "1866821173755121666",
+        "name": "木马人",
+        "username": "cnyzgkc"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "username": "gkxspace"
+      },
+      {
+        "id": "1339460649584185344",
+        "name": "Tracy",
+        "username": "CTracy0803"
+      },
+      {
+        "id": "431617343",
+        "name": "Berryxia.AI",
+        "username": "berryxia"
+      },
+      {
+        "id": "1749716294449135616",
+        "name": "善口",
+        "username": "CasieCheri384"
+      },
+      {
+        "id": "1251890355508662274",
+        "name": "Mr.JI",
+        "username": "jjjd77326292"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2038917493293724129",
+    "next_token": "b26v89c19zqg8o3juehk5cdt9n6yosk1y5x7drnoeuoal",
+    "oldest_id": "2038144937754280405",
+    "result_count": 25
+  }
+}

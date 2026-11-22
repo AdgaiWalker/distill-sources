@@ -12,9 +12,11 @@
 | `gefei/ximen-notes/` | `/workspace/gefei/ximen-notes/` | 无；哆啦整理的西门笔记 | 1 | 8.0K |
 | `liuxiaopai/x-archive/` | `/workspace/x-archive/bourneliu66/` | 无代码仓库；内容来自刘小排 X 账号 [@bourneliu66](https://x.com/bourneliu66) | 70 | 1.9M |
 | `poteto/x-archive/` | `/workspace/x-archive/poteto/` | 无代码仓库；内容来自 [@poteto](https://x.com/poteto) 公开 X 帖（Grok Bot 相关为主） | 88 | 4.5M |
+| `bbkirstry/x-archive/` | `/workspace/x-archive/bbkirstry/` | 无代码仓库；内容来自 [@bbkirstry](https://x.com/bbkirstry) 公开 X 帖 | 95 | 4.9M |
+| `gengdaj/x-archive/` | `/workspace/x-archive/gengdaJ/` | 无代码仓库；内容来自 [@gengdaJ](https://x.com/gengdaJ) 公开 X 帖 | 117 | 4.2M |
 | `gefei/github-member-repos/` | `/workspace/gefei/github-refs/` | 见下表各仓 | 4488（另加各目录 `UPSTREAM.md`） | 470M |
 
-复制完成后，本仓合计约 502M（含 README / SOURCES / `.gitignore` / 各 `UPSTREAM.md` 之前约为 502M）。
+复制完成后，本仓工作区合计约 516M（不含 `.git`；含 README / SOURCES / 人物卡与索引）。
 
 ## 分类说明
 
@@ -46,6 +48,20 @@
 - `index.md`、`all.md`（Grok Bot 相关）、`other.md`（本次取到但明显无关）
 - `articles/`：42 个文件（X Article、长帖与长线程）
 - `raw/`：43 个文件（账号资料、合并帖、各次搜索/时间线原始 JSON）
+
+### 小晚不在 X 归档 `bbkirstry/x-archive/`
+
+- `index.md`、`all.md`
+- `articles/`：60 个文件（X Article、长帖与长线程）
+- `raw/`：33 个文件（账号资料、合并帖、时间线与各次搜索的原始 JSON）
+- 资料页公开帖数 2789，本次去重后取回 551 条（16 篇 X Article 均有全文）。未翻完，详见该目录 `index.md`。
+
+### 逸尘 X 归档 `gengdaj/x-archive/`
+
+- `index.md`、`all.md`
+- `articles/`：81 个文件（X Article、长帖与长线程）
+- `raw/`：34 个文件（账号资料、合并帖、时间线与各次搜索的原始 JSON）
+- 资料页公开帖数 4412，本次去重后取回 590 条（3 篇 X Article 均有全文）。未翻完，详见该目录 `index.md`。
 
 ### 会员 GitHub 工作区 `gefei/github-member-repos/`
 

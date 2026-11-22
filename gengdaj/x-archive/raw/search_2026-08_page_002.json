@@ -1,0 +1,1253 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-31T02:05:44.000Z",
+      "edit_history_tweet_ids": [
+        "2094245220997316654",
+        "2094246308014088622",
+        "2094258285776150666"
+      ],
+      "id": "2094245220997316654",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 323,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093968800316293400",
+          "type": "quoted"
+        }
+      ],
+      "text": "这就是即将入职OpenAI或Anthropic的首席设计师开源的Design Skill吗，恐怖如斯😱！！！ https://t.co/lLUyGIhzCO",
+      "url": "https://x.com/gengdaJ/status/2094245220997316654"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-31T02:04:34.000Z",
+      "edit_history_tweet_ids": [
+        "2094244927341461664"
+      ],
+      "id": "2094244927341461664",
+      "in_reply_to_user_id": "1822141194404593664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 491,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094240860691189900",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yiwei_growth @gkxspace @tngzhy658431902 别整我了，整整温总就行了🤣",
+      "url": "https://x.com/gengdaJ/status/2094244927341461664"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-31T02:01:09.000Z",
+      "edit_history_tweet_ids": [
+        "2094244066448097641"
+      ],
+      "id": "2094244066448097641",
+      "in_reply_to_user_id": "2060058261379063808",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10046,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093968800316293400",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer 这就是即将入职全球顶级AI公司的设计师吗，太强了！！！",
+      "url": "https://x.com/gengdaJ/status/2094244066448097641"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T12:47:26.000Z",
+      "edit_history_tweet_ids": [
+        "2094044320269496379"
+      ],
+      "id": "2094044320269496379",
+      "in_reply_to_user_id": "1792608085409939456",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 202,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094003168812441798",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 @gkxspace @bbkirstry @Yiwei_growth @li9292 我俩玩了两天，发现其实没玩啥笑死",
+      "url": "https://x.com/gengdaJ/status/2094044320269496379"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T12:46:47.000Z",
+      "edit_history_tweet_ids": [
+        "2094044160076480869"
+      ],
+      "id": "2094044160076480869",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 201,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093970361499218311",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c @gkxspace @bbkirstry @Yiwei_growth @li9292 哈哈哈包的🤗",
+      "url": "https://x.com/gengdaJ/status/2094044160076480869"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T12:46:34.000Z",
+      "edit_history_tweet_ids": [
+        "2094044102211809424"
+      ],
+      "id": "2094044102211809424",
+      "in_reply_to_user_id": "1576219005488369665",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 151,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093961625934209043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nopinduoduo @gkxspace @bbkirstry @Yiwei_growth @li9292 欢迎大家都来温总家打卡！我替温总同意了😁",
+      "url": "https://x.com/gengdaJ/status/2094044102211809424"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T06:53:08.000Z",
+      "edit_history_tweet_ids": [
+        "2093955161588994351"
+      ],
+      "id": "2093955161588994351",
+      "in_reply_to_user_id": "1866821173755121666",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 234,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093953311204610512",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cnyzgkc @gkxspace @bbkirstry @Yiwei_growth @li9292 木马哥别说笑了，我和温总清清白白的🤩",
+      "url": "https://x.com/gengdaJ/status/2093955161588994351"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T06:52:43.000Z",
+      "edit_history_tweet_ids": [
+        "2093955053539512766"
+      ],
+      "id": "2093955053539512766",
+      "in_reply_to_user_id": "1451831560991170569",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 271,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093952660689068277",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rionaifantasy @gkxspace @bbkirstry @Yiwei_growth @li9292 哈哈我俩很对劲啊🤪",
+      "url": "https://x.com/gengdaJ/status/2093955053539512766"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T06:32:19.000Z",
+      "edit_history_tweet_ids": [
+        "2093949919849799807"
+      ],
+      "id": "2093949919849799807",
+      "in_reply_to_user_id": "1936480895692869633",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 388,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093947536348184905",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Leobai825 @gkxspace @bbkirstry @Yiwei_growth @li9292 我只能说很精彩！！！",
+      "url": "https://x.com/gengdaJ/status/2093949919849799807"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T06:32:01.000Z",
+      "edit_history_tweet_ids": [
+        "2093949844268404826"
+      ],
+      "id": "2093949844268404826",
+      "in_reply_to_user_id": "1644272466326618113",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 251,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093938643333488782",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jasonrong24 @gkxspace @bbkirstry @Yiwei_growth @li9292 来！",
+      "url": "https://x.com/gengdaJ/status/2093949844268404826"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T05:35:18.000Z",
+      "edit_history_tweet_ids": [
+        "2093935570267541515"
+      ],
+      "id": "2093935570267541515",
+      "in_reply_to_user_id": "2060058261379063808",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 77,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093935027780485218",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer @gkxspace @bbkirstry @Yiwei_growth @li9292 哦哦好啊，有机会我们约起来～",
+      "url": "https://x.com/gengdaJ/status/2093935570267541515"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T05:32:40.000Z",
+      "edit_history_tweet_ids": [
+        "2093934911103381681"
+      ],
+      "id": "2093934911103381681",
+      "in_reply_to_user_id": "2060058261379063808",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 441,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093934031079686325",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer @gkxspace @bbkirstry @Yiwei_growth @li9292 哈哈妍妍姐常驻这边吗",
+      "url": "https://x.com/gengdaJ/status/2093934911103381681"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T05:11:55.000Z",
+      "edit_history_tweet_ids": [
+        "2093929688595103773"
+      ],
+      "id": "2093929688595103773",
+      "in_reply_to_user_id": "1926144412079280128",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 311,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093928577251279255",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yaohui12138 @gkxspace @bbkirstry @Yiwei_growth @li9292 我俩都很直的☺️",
+      "url": "https://x.com/gengdaJ/status/2093929688595103773"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T05:02:08.000Z",
+      "edit_history_tweet_ids": [
+        "2093927226454753626"
+      ],
+      "id": "2093927226454753626",
+      "in_reply_to_user_id": "1923981862273417222",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 759,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093924156526243872",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @gkxspace @Yiwei_growth @li9292 嘿嘿嘿☺️",
+      "url": "https://x.com/gengdaJ/status/2093927226454753626"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T05:01:40.000Z",
+      "edit_history_tweet_ids": [
+        "2093927106447360186"
+      ],
+      "id": "2093927106447360186",
+      "in_reply_to_user_id": "1822141194404593664",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 629,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093923745106919576",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yiwei_growth @gkxspace @bbkirstry @li9292 我在给温总找女朋友呢",
+      "url": "https://x.com/gengdaJ/status/2093927106447360186"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T05:01:22.000Z",
+      "edit_history_tweet_ids": [
+        "2093927030605943102"
+      ],
+      "id": "2093927030605943102",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 761,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093925894167597331",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace @bbkirstry @Yiwei_growth @li9292 过于亲密了！！！",
+      "url": "https://x.com/gengdaJ/status/2093927030605943102"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T04:43:52.000Z",
+      "edit_history_tweet_ids": [
+        "2093922627031347532"
+      ],
+      "id": "2093922627031347532",
+      "in_reply_to_user_id": "1877440800",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 895,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093922247488758211",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@li9292 @gkxspace @bbkirstry @Yiwei_growth 没事的，下次我把这篇删了，给温总重新找😁",
+      "url": "https://x.com/gengdaJ/status/2093922627031347532"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2093921584767717376",
+          "3_2093921603788931073",
+          "3_2093921618825519104",
+          "3_2093921632343756800"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T04:39:57.000Z",
+      "edit_history_tweet_ids": [
+        "2093920957467680819",
+        "2093921643370611170"
+      ],
+      "id": "2093921643370611170",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 17223,
+        "like_count": 81,
+        "quote_count": 0,
+        "reply_count": 138,
+        "retweet_count": 0
+      },
+      "text": "杭州这地真好啊 o(^▽^)o\n\n入住 @gkxspace 温总豪宅，杭州核心区风貌一览无遗，建议所有人来打卡！\n\n和 @bbkirstry @Yiwei_growth\n@li9292 和微微子一起吃了顿火锅，大家都太牛逼了，有开 Geo 公司+做自己产品的，有同时服务几十家大企业的 FDD， 都是 20 https://t.co/iERZU7EgvF",
+      "url": "https://x.com/gengdaJ/status/2093921643370611170"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2093920901964410880",
+          "3_2093920920465481728",
+          "3_2093920934390640640",
+          "3_2093920947107663872"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-30T04:37:14.000Z",
+      "edit_history_tweet_ids": [
+        "2093920957467680819",
+        "2093921643370611170"
+      ],
+      "id": "2093920957467680819",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 281,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "杭州这地真好啊 o(^▽^)o\n\n入住 @gkxspace 温总豪宅，杭州核心区风貌一览无遗，建议所有人来打卡！\n\n和 @bbkirstry @Yiwei_growth\n@li9292 和微微子一起吃了顿火锅，大家都太牛逼了，都是 20 岁左右的年龄，就拿到了大结果，respect🫡学习！ https://t.co/qLGnVVT8z6",
+      "url": "https://x.com/gengdaJ/status/2093920957467680819"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-29T07:14:11.000Z",
+      "edit_history_tweet_ids": [
+        "2093598069732540925"
+      ],
+      "id": "2093598069732540925",
+      "in_reply_to_user_id": "2048448527353933824",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 331,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093592238467301615",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Sukiea1008 感谢推荐🙏",
+      "url": "https://x.com/gengdaJ/status/2093598069732540925"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-29T03:29:08.000Z",
+      "edit_history_tweet_ids": [
+        "2093541434607669249"
+      ],
+      "id": "2093541434607669249",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2070,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093540738210709784",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 羡慕死！",
+      "url": "https://x.com/gengdaJ/status/2093541434607669249"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-29T01:17:33.000Z",
+      "edit_history_tweet_ids": [
+        "2093508317855518804"
+      ],
+      "id": "2093508317855518804",
+      "in_reply_to_user_id": "1822141194404593664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 654,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093362201574941156",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yiwei_growth @li9292 @gkxspace @bbkirstry 能和 yiwei 吃饭是我的荣幸，以后一定要多多交流😭",
+      "url": "https://x.com/gengdaJ/status/2093508317855518804"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-28T09:16:07.000Z",
+      "edit_history_tweet_ids": [
+        "2093266367441166803"
+      ],
+      "id": "2093266367441166803",
+      "in_reply_to_user_id": "1866821173755121666",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 463,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093150502335008939",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cnyzgkc @gearzero_alaya 木马哥太有活了！",
+      "url": "https://x.com/gengdaJ/status/2093266367441166803"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-28T06:19:11.000Z",
+      "edit_history_tweet_ids": [
+        "2093221841792094609"
+      ],
+      "id": "2093221841792094609",
+      "in_reply_to_user_id": "2843526234",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2631,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093207049266249804",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LC_WuBin karing 就是垃圾…",
+      "url": "https://x.com/gengdaJ/status/2093221841792094609"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-08-28T05:49:47.000Z",
+      "edit_history_tweet_ids": [
+        "2093214440154165583"
+      ],
+      "id": "2093214440154165583",
+      "in_reply_to_user_id": "1691804414200139776",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3040,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093213502945059290",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@annn2936 懒",
+      "url": "https://x.com/gengdaJ/status/2093214440154165583"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2093921584767717376",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2093921603788931073",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2093921618825519104",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2093921632343756800",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2093920901964410880",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2093920920465481728",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2093920934390640640",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2093920947107663872",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093968332487880704",
+            "3_2093968332479463424",
+            "3_2093968332492042240",
+            "3_2093968332479479808"
+          ]
+        },
+        "author_id": "2060058261379063808",
+        "created_at": "2026-08-30T07:47:20.000Z",
+        "edit_history_tweet_ids": [
+          "2093968800316293400"
+        ],
+        "id": "2093968800316293400",
+        "public_metrics": {
+          "bookmark_count": 10748,
+          "impression_count": 1413539,
+          "like_count": 7093,
+          "quote_count": 184,
+          "reply_count": 273,
+          "retweet_count": 890
+        },
+        "text": "我开始做自己的Design Skills 了🎨\n今天在Demo day上分享了3个，大家都很喜欢！\n\n先发一个我特别喜欢的：Mono-color Skill。\n它不是简单地“把图片变成单色”，而是把一整套编辑设计语言 + 复古印刷质感 + 克制的视觉规则，封装成了一个可以反复调用的 Skill。\n\n它会自动遵循这些设计原则👇\n👉 https://t.co/ft7ISQ9zkW"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2094240786816880640",
+            "3_2094236761052651521"
+          ]
+        },
+        "author_id": "1822141194404593664",
+        "created_at": "2026-08-31T01:48:24.000Z",
+        "edit_history_tweet_ids": [
+          "2094236831563075907",
+          "2094240860691189900"
+        ],
+        "id": "2094240860691189900",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2347,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "text": "昨天：\n- 去余总豪宅玩了\n- 在我们自己loft办公室拍了点小访谈和很抽象的花絮\n\n@gengdaJ 太害羞了都不出镜\n（有个人直接在 @gkxspace 沙发上睡着了 牛逼@tngzhy658431902 https://t.co/jCedAlkeF3"
+      },
+      {
+        "author_id": "1792608085409939456",
+        "created_at": "2026-08-30T10:03:54.000Z",
+        "edit_history_tweet_ids": [
+          "2094003168812441798"
+        ],
+        "id": "2094003168812441798",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 你俩好浪漫啊"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "created_at": "2026-08-30T07:53:32.000Z",
+        "edit_history_tweet_ids": [
+          "2093970361499218311"
+        ],
+        "id": "2093970361499218311",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 你俩好暧昧 😁"
+      },
+      {
+        "author_id": "1576219005488369665",
+        "created_at": "2026-08-30T07:18:50.000Z",
+        "edit_history_tweet_ids": [
+          "2093961625934209043"
+        ],
+        "id": "2093961625934209043",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 羡慕了 ！"
+      },
+      {
+        "author_id": "1866821173755121666",
+        "created_at": "2026-08-30T06:45:47.000Z",
+        "edit_history_tweet_ids": [
+          "2093953311204610512"
+        ],
+        "id": "2093953311204610512",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 好了大家都知道你跟温总百年好合了"
+      },
+      {
+        "author_id": "1451831560991170569",
+        "created_at": "2026-08-30T06:43:12.000Z",
+        "edit_history_tweet_ids": [
+          "2093952660689068277"
+        ],
+        "id": "2093952660689068277",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 杭州AI圈真热闹啊，有机会来玩。anyway，你俩不对劲啊..."
+      },
+      {
+        "author_id": "1936480895692869633",
+        "created_at": "2026-08-30T06:22:50.000Z",
+        "edit_history_tweet_ids": [
+          "2093947536348184905"
+        ],
+        "id": "2093947536348184905",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 914,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 我也想听温总的爱情故事"
+      },
+      {
+        "author_id": "1644272466326618113",
+        "created_at": "2026-08-30T05:47:30.000Z",
+        "edit_history_tweet_ids": [
+          "2093938643333488782"
+        ],
+        "id": "2093938643333488782",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 还在不😯"
+      },
+      {
+        "author_id": "2060058261379063808",
+        "created_at": "2026-08-30T05:33:08.000Z",
+        "edit_history_tweet_ids": [
+          "2093935027780485218"
+        ],
+        "id": "2093935027780485218",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 我一般硅谷和国内两地跑🤓🤓回国的时候就在杭州嘿嘿"
+      },
+      {
+        "author_id": "2060058261379063808",
+        "created_at": "2026-08-30T05:29:11.000Z",
+        "edit_history_tweet_ids": [
+          "2093934031079686325"
+        ],
+        "id": "2093934031079686325",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 真好！良渚也是我的大本营🤓🤓"
+      },
+      {
+        "author_id": "1926144412079280128",
+        "created_at": "2026-08-30T05:07:30.000Z",
+        "edit_history_tweet_ids": [
+          "2093928577251279255"
+        ],
+        "id": "2093928577251279255",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth @li9292 有点过于亲密了，再这么搞我要怀疑你俩了…"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "created_at": "2026-08-30T04:49:56.000Z",
+        "edit_history_tweet_ids": [
+          "2093924156526243872"
+        ],
+        "id": "2093924156526243872",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 837,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gkxspace @Yiwei_growth @li9292 好甜！我又学到了🥳"
+      },
+      {
+        "author_id": "1822141194404593664",
+        "created_at": "2026-08-30T04:48:18.000Z",
+        "edit_history_tweet_ids": [
+          "2093923745106919576"
+        ],
+        "id": "2093923745106919576",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 737,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gkxspace @bbkirstry @li9292 百年好合"
+      },
+      {
+        "author_id": "1881991469730594816",
+        "created_at": "2026-08-30T04:56:51.000Z",
+        "edit_history_tweet_ids": [
+          "2093925894167597331"
+        ],
+        "id": "2093925894167597331",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1100,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @bbkirstry @Yiwei_growth @li9292 有点过于亲密了🤯"
+      },
+      {
+        "author_id": "1877440800",
+        "created_at": "2026-08-30T04:42:21.000Z",
+        "edit_history_tweet_ids": [
+          "2093922247488758211"
+        ],
+        "id": "2093922247488758211",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1005,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921643370611170",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gkxspace @bbkirstry @Yiwei_growth 好家伙，你这是要把温总家变成旅游景点了。还有，你俩都亲密行了，那上次说给温总找女朋友这事，还咋安排？🤡"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093590044422647808"
+          ]
+        },
+        "author_id": "2048448527353933824",
+        "created_at": "2026-08-29T06:51:01.000Z",
+        "edit_history_tweet_ids": [
+          "2093592238467301615"
+        ],
+        "id": "2093592238467301615",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1741,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "text": "分享一下我每一次跟 Codex 交互后，完成文章以及配图工作后，就可以让 Agent 快速把文章进入 𝕏 草稿箱的工作流：\n\n1️⃣ 调用 逸尘  @gengdaJ  Skill，把 Markdown、封面和正文配图按原位置写入 X Articles，只存草稿，不发布。\n\n2️⃣ 强制使用 Chromium。如果你的 𝕏 https://t.co/4sJEdXPIXP"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093539688095322112",
+            "3_2093539697922572288"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "created_at": "2026-08-29T03:26:22.000Z",
+        "edit_history_tweet_ids": [
+          "2093540738210709784"
+        ],
+        "id": "2093540738210709784",
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 45983,
+          "like_count": 185,
+          "quote_count": 1,
+          "reply_count": 103,
+          "retweet_count": 5
+        },
+        "text": "震惊了，一大晚睡醒，发现看到这个创作者收益🤯\n\n居然有 1247 刀，关键是这两周很少发，数据还不如前两周，收益却翻了三倍\n\n话不多说，我爱老马，直接把我这个月房租报销了😭 https://t.co/PLxCAT26Gf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093362060684128257"
+          ]
+        },
+        "author_id": "1822141194404593664",
+        "created_at": "2026-08-28T15:36:56.000Z",
+        "edit_history_tweet_ids": [
+          "2093362075280240716",
+          "2093362201574941156"
+        ],
+        "id": "2093362201574941156",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10825,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "text": "和宗师@li9292 一起吃年轻小登的火锅\n\n分享三点：\n1.要去信息密度最大的地方持续进步！\n2.爆出什么瓜，最近什么小事，都不重要\n不要为了不重要的事情分心\n3.圈子真的很小\n\n又见到了余温老师！\n还有逸尘，小晚，微微子\n@gkxspace @gengdaJ @bbkirstry \n@bbkirstry https://t.co/ABesBqpSYC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2093150234771890176"
+          ]
+        },
+        "author_id": "1866821173755121666",
+        "created_at": "2026-08-28T01:35:43.000Z",
+        "edit_history_tweet_ids": [
+          "2093150502335008939"
+        ],
+        "id": "2093150502335008939",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14253,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "text": "机器人最近太火了吧！人形机器人百米 8.86 秒直接破了记录！\n\n最有意思的是看到最后，这个机器人跑到终点后直接撞墙，太抽象了~\n\n我好奇自己能不能做一个类似的游戏，于是我顺手用 Gear @gearzero_alaya 做了一个《机器人赛跑》的游戏。\n\n最初我只有一个核心操作设计，就是分别用 Z 和 X https://t.co/Dqev85AhFP"
+      },
+      {
+        "author_id": "2843526234",
+        "created_at": "2026-08-28T05:20:25.000Z",
+        "edit_history_tweet_ids": [
+          "2093207049266249804"
+        ],
+        "id": "2093207049266249804",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2934,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093167183463604466",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 对比karing呢？"
+      },
+      {
+        "author_id": "1691804414200139776",
+        "created_at": "2026-08-28T05:46:03.000Z",
+        "edit_history_tweet_ids": [
+          "2093213502945059290"
+        ],
+        "id": "2093213502945059290",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3212,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093167183463604466",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 都是clash内核，和meta没区别，这款主打的是简洁，电脑端也有，但为什么要用codex配置。。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1822141194404593664",
+        "name": "Yiwei",
+        "username": "Yiwei_growth"
+      },
+      {
+        "id": "2060058261379063808",
+        "name": "Dreameryanyan",
+        "username": "yanliudreamer"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "1869683226178146304",
+        "name": "Sac",
+        "username": "Saccc_c"
+      },
+      {
+        "id": "1576219005488369665",
+        "name": "我真的没有拼多多",
+        "username": "nopinduoduo"
+      },
+      {
+        "id": "1866821173755121666",
+        "name": "木马人",
+        "username": "cnyzgkc"
+      },
+      {
+        "id": "1451831560991170569",
+        "name": "Rion Wu",
+        "username": "rionaifantasy"
+      },
+      {
+        "id": "1936480895692869633",
+        "name": "天策",
+        "username": "Leobai825"
+      },
+      {
+        "id": "1644272466326618113",
+        "name": "Jiangyuan",
+        "username": "jasonrong24"
+      },
+      {
+        "id": "1926144412079280128",
+        "name": "超级个体｜柿子",
+        "username": "yaohui12138"
+      },
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "username": "bbkirstry"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "username": "gkxspace"
+      },
+      {
+        "id": "1877440800",
+        "name": "李韭二",
+        "username": "li9292"
+      },
+      {
+        "id": "2048448527353933824",
+        "name": "Su",
+        "username": "Sukiea1008"
+      },
+      {
+        "id": "2843526234",
+        "name": "bin",
+        "username": "LC_WuBin"
+      },
+      {
+        "id": "1691804414200139776",
+        "name": "an",
+        "username": "annn2936"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2094245220997316654",
+    "next_token": "b26v89c19zqg8o3juezgoyn3toyx0q48aor9g8qtdcdx9",
+    "oldest_id": "2093214440154165583",
+    "result_count": 25
+  }
+}

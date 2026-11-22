@@ -1,0 +1,1964 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122839670837105095",
+      "created_at": "2026-11-17T23:49:52.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "2122839670837105095"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "1712267009483022336",
+            "start": 3,
+            "username": "higgsfield_ai"
+          }
+        ]
+      },
+      "id": "2122839670837105095",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 131,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 380
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751206187802945",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @higgsfield_ai: GPT-6.2 Astra is LIVE on Higgsfield.\n\nOpenAI’s new frontier model for your most demanding projects.\n\nWith Higgsfield plu…",
+      "url": "https://x.com/gengdaJ/status/2122839670837105095"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122557489267024349",
+      "created_at": "2026-11-17T10:06:42.000Z",
+      "display_text_range": [
+        8,
+        9
+      ],
+      "edit_history_tweet_ids": [
+        "2122632514179346548"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1877440800",
+            "start": 0,
+            "username": "li9292"
+          }
+        ]
+      },
+      "id": "2122632514179346548",
+      "in_reply_to_user_id": "1877440800",
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 82,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122631645677453703",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@li9292 ✅",
+      "url": "https://x.com/gengdaJ/status/2122632514179346548"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122557489267024349",
+      "created_at": "2026-11-17T07:37:42.000Z",
+      "display_text_range": [
+        9,
+        26
+      ],
+      "edit_history_tweet_ids": [
+        "2122595017856577891"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          }
+        ]
+      },
+      "id": "2122595017856577891",
+      "in_reply_to_user_id": "1869683226178146304",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 175,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122588694649655521",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Saccc_c 爽得很，拿了英伟达投资都阔气起来了",
+      "url": "https://x.com/gengdaJ/status/2122595017856577891"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122546248913965056",
+          "3_2122547096012353536",
+          "3_2122548389976158208"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122537008270807240",
+      "created_at": "2026-11-17T04:32:28.000Z",
+      "display_text_range": [
+        0,
+        185
+      ],
+      "edit_history_tweet_ids": [
+        "2122548400482849265"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Create images, videos, and voice content with Higgsfield AI from text prompts or references. Edit and upscale media, automate creative workflows with its AI agent, and generate content on web and mobile.",
+            "display_url": "higgsfield.ai/?fpr=chen85",
+            "end": 29,
+            "expanded_url": "https://higgsfield.ai?fpr=chen85",
+            "images": [
+              {
+                "height": 675,
+                "url": "https://pbs.twimg.com/news_img/2122548408351383552/bBePtTaD?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122548408351383552/bBePtTaD?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 6,
+            "status": 200,
+            "title": "Higgsfield AI — AI-native creative suite",
+            "unwound_url": "https://higgsfield.ai?fpr=chen85",
+            "url": "https://t.co/AP48xiuXWS"
+          },
+          {
+            "display_url": "pic.x.com/ku6VXK10Ti",
+            "end": 209,
+            "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/1",
+            "media_key": "3_2122546248913965056",
+            "start": 186,
+            "url": "https://t.co/ku6VXK10Ti"
+          },
+          {
+            "display_url": "pic.x.com/ku6VXK10Ti",
+            "end": 209,
+            "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/2",
+            "media_key": "3_2122547096012353536",
+            "start": 186,
+            "url": "https://t.co/ku6VXK10Ti"
+          },
+          {
+            "display_url": "pic.x.com/ku6VXK10Ti",
+            "end": 209,
+            "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/3",
+            "media_key": "3_2122548389976158208",
+            "start": 186,
+            "url": "https://t.co/ku6VXK10Ti"
+          }
+        ]
+      },
+      "id": "2122548400482849265",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 2055,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122537008270807240",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "传送门地址：https://t.co/AP48xiuXWS\n黑五大促，就只有今天！我真的忍不住不心动，已经下单600$年费套餐（每个月3000积分，可以直接打通我的Claude Code工作流）\n\n1、129$一个月的年费Ultra套餐，现在50$一个月。\n2、Business套餐，还送30天不限量的Seedance2.0/Seedance2.5，这个应该只能官网用。 https://t.co/ku6VXK10Ti",
+      "url": "https://x.com/gengdaJ/status/2122548400482849265"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122536282916372481"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122537008270807240",
+      "created_at": "2026-11-17T03:47:12.000Z",
+      "display_text_range": [
+        0,
+        176
+      ],
+      "edit_history_tweet_ids": [
+        "2122536629495853382",
+        "2122536880789148062",
+        "2122537008270807240"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/tJvADxdvoK",
+            "end": 200,
+            "expanded_url": "https://x.com/gengdaJ/status/2122537008270807240/video/1",
+            "media_key": "13_2122536282916372481",
+            "start": 177,
+            "url": "https://t.co/tJvADxdvoK"
+          },
+          {
+            "display_url": "x.com/higgsfield_ai/…",
+            "end": 224,
+            "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+            "start": 201,
+            "url": "https://t.co/jHfkJChuyo"
+          }
+        ]
+      },
+      "id": "2122537008270807240",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 33925,
+        "like_count": 32,
+        "quote_count": 9,
+        "reply_count": 19,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122377853215936697",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/tJvADxdvoK https://t.co/jHfkJChuyo",
+      "url": "https://x.com/gengdaJ/status/2122537008270807240"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122536282916372481"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122536880789148062",
+      "created_at": "2026-11-17T03:46:41.000Z",
+      "display_text_range": [
+        0,
+        175
+      ],
+      "edit_history_tweet_ids": [
+        "2122536629495853382",
+        "2122536880789148062",
+        "2122537008270807240"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/azrAz4vm7Z",
+            "end": 199,
+            "expanded_url": "https://x.com/gengdaJ/status/2122536880789148062/video/1",
+            "media_key": "13_2122536282916372481",
+            "start": 176,
+            "url": "https://t.co/azrAz4vm7Z"
+          },
+          {
+            "display_url": "x.com/higgsfield_ai/…",
+            "end": 223,
+            "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+            "start": 200,
+            "url": "https://t.co/jHfkJChuyo"
+          }
+        ]
+      },
+      "id": "2122536880789148062",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Opus5.5构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 180,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122377853215936697",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Opus5.5构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/azrAz4vm7Z https://t.co/jHfkJChuyo",
+      "url": "https://x.com/gengdaJ/status/2122536880789148062"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122536282916372481"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122536629495853382",
+      "created_at": "2026-11-17T03:45:41.000Z",
+      "display_text_range": [
+        0,
+        171
+      ],
+      "edit_history_tweet_ids": [
+        "2122536629495853382",
+        "2122536880789148062",
+        "2122537008270807240"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/xGIdGX8olT",
+            "end": 195,
+            "expanded_url": "https://x.com/gengdaJ/status/2122536629495853382/video/1",
+            "media_key": "13_2122536282916372481",
+            "start": 172,
+            "url": "https://t.co/xGIdGX8olT"
+          },
+          {
+            "display_url": "x.com/higgsfield_ai/…",
+            "end": 219,
+            "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+            "start": 196,
+            "url": "https://t.co/jHfkJChuyo"
+          }
+        ]
+      },
+      "id": "2122536629495853382",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，门槛低的离谱：\n1. 通过Opus5.5构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 221,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122377853215936697",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，门槛低的离谱：\n1. 通过Opus5.5构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/xGIdGX8olT https://t.co/jHfkJChuyo",
+      "url": "https://x.com/gengdaJ/status/2122536629495853382"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122484162385133678",
+      "created_at": "2026-11-17T00:17:12.000Z",
+      "display_text_range": [
+        0,
+        143
+      ],
+      "edit_history_tweet_ids": [
+        "2122484162385133678"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "1712267009483022336",
+            "start": 3,
+            "username": "higgsfield_ai"
+          }
+        ]
+      },
+      "id": "2122484162385133678",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 146,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 359
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122377853215936697",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @higgsfield_ai: Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n&gt; Any style, from dark fantasy to 90…",
+      "url": "https://x.com/gengdaJ/status/2122484162385133678"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122296233264083116",
+      "created_at": "2026-11-16T12:32:41.000Z",
+      "display_text_range": [
+        14,
+        49
+      ],
+      "edit_history_tweet_ids": [
+        "2122306865375871424"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1822141194404593664",
+            "start": 0,
+            "username": "Yiwei_growth"
+          }
+        ]
+      },
+      "id": "2122306865375871424",
+      "in_reply_to_user_id": "1822141194404593664",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 856,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122296233264083116",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Yiwei_growth 所以要多交和 yiwei 这样的朋友，你看着她卷，自己不自主也会卷起来",
+      "url": "https://x.com/gengdaJ/status/2122306865375871424"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122271554117783948",
+      "created_at": "2026-11-16T10:47:36.000Z",
+      "display_text_range": [
+        10,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2122280418372468822"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2122280418372468822",
+      "in_reply_to_user_id": "1881991469730594816",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1931,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122271554117783948",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@gkxspace 我用的是一个开源免费的哈哈",
+      "url": "https://x.com/gengdaJ/status/2122280418372468822"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2071040330531754375",
+      "created_at": "2026-11-15T01:41:48.000Z",
+      "display_text_range": [
+        11,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2121780674411819184"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1618752347752271873",
+            "start": 0,
+            "username": "beefnoode"
+          }
+        ]
+      },
+      "id": "2121780674411819184",
+      "in_reply_to_user_id": "1618752347752271873",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071040330531754375",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@beefnoode 用牛肉粉老师的码开了哈哈",
+      "url": "https://x.com/gengdaJ/status/2121780674411819184"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-14T15:30:52.000Z",
+      "display_text_range": [
+        20,
+        64
+      ],
+      "edit_history_tweet_ids": [
+        "2121626927828259153"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1877440800",
+            "start": 0,
+            "username": "li9292"
+          },
+          {
+            "end": 19,
+            "id": "1876494331491848192",
+            "start": 8,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2121626927828259153",
+      "in_reply_to_user_id": "1877440800",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 245,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120985422352269351",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@li9292 @chatcutapp 没有啊，韭二哥。你们从哪看出来我憔悴的🤔我是蹲着录这个视频的，有点累？还是说精神状态不好",
+      "url": "https://x.com/gengdaJ/status/2121626927828259153"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2121615882413908220",
+      "created_at": "2026-11-14T15:26:29.000Z",
+      "display_text_range": [
+        62,
+        77
+      ],
+      "edit_history_tweet_ids": [
+        "2121625827746222353"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 20,
+            "id": "1881991469730594816",
+            "start": 11,
+            "username": "gkxspace"
+          },
+          {
+            "end": 29,
+            "id": "2022118285983232001",
+            "start": 21,
+            "username": "xmmxovo"
+          },
+          {
+            "end": 45,
+            "id": "1792608085409939456",
+            "start": 30,
+            "username": "Astronaut_1216"
+          },
+          {
+            "end": 61,
+            "id": "2008763857142255616",
+            "start": 46,
+            "username": "ShengzheSeanxu"
+          }
+        ]
+      },
+      "id": "2121625827746222353",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1077,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121615882413908220",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@bbkirstry @gkxspace @xmmxovo @Astronaut_1216 @ShengzheSeanxu 哇小晚姐生日快乐！可惜没在杭州",
+      "url": "https://x.com/gengdaJ/status/2121625827746222353"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3214,
+        "media_key": "3_2122546248913965056",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTMkVHa0AAZsCC.jpg",
+        "width": 2812
+      },
+      {
+        "height": 3032,
+        "media_key": "3_2122547096012353536",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTNVozacAAMm_2.jpg",
+        "width": 2846
+      },
+      {
+        "height": 1392,
+        "media_key": "3_2122548389976158208",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTOg9MbMAA9YQn.jpg",
+        "width": 1534
+      },
+      {
+        "duration_ms": 11291,
+        "height": 3840,
+        "media_key": "13_2122536282916372481",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122536282916372481/img/s7HpiXu8lhKqia1-.jpg",
+        "type": "video",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122839670837105095",
+        "created_at": "2026-11-17T23:49:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "2122839670837105095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1712267009483022336",
+              "start": 3,
+              "username": "higgsfield_ai"
+            }
+          ]
+        },
+        "id": "2122839670837105095",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122751206187802945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higgsfield_ai: GPT-6.2 Astra is LIVE on Higgsfield.\n\nOpenAI’s new frontier model for your most demanding projects.\n\nWith Higgsfield plu…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122750352021737472"
+          ]
+        },
+        "author_id": "1712267009483022336",
+        "conversation_id": "2122751206187802945",
+        "created_at": "2026-11-17T17:58:21.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "2122751206187802945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yexTCORq8I",
+              "end": 303,
+              "expanded_url": "https://x.com/higgsfield_ai/status/2122751206187802945/video/1",
+              "media_key": "13_2122750352021737472",
+              "start": 280,
+              "url": "https://t.co/yexTCORq8I"
+            },
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/OpenAI/status/2122750124543926515",
+              "start": 304,
+              "url": "https://t.co/re5JLj5Ikc"
+            }
+          ]
+        },
+        "id": "2122751206187802945",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 235291,
+          "like_count": 839,
+          "quote_count": 9,
+          "reply_count": 103,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122750124543926515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GPT-6.2 Astra is LIVE on Higgsfield.\n\nOpenAI’s new frontier model for your most demanding projects.\n\nWith Higgsfield plugin, GPT-6.2 Astra powers proactive multi-agent workflows across design, coding, and creative production.\n\nJoin Higgsfield with up to 65% off for Black Friday. https://t.co/yexTCORq8I https://t.co/re5JLj5Ikc"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122557489267024349",
+        "created_at": "2026-11-17T10:06:42.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_history_tweet_ids": [
+          "2122632514179346548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877440800",
+              "start": 0,
+              "username": "li9292"
+            }
+          ]
+        },
+        "id": "2122632514179346548",
+        "in_reply_to_user_id": "1877440800",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122631645677453703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li9292 ✅"
+      },
+      {
+        "author_id": "1877440800",
+        "conversation_id": "2122557489267024349",
+        "created_at": "2026-11-17T10:03:15.000Z",
+        "display_text_range": [
+          9,
+          37
+        ],
+        "edit_history_tweet_ids": [
+          "2122631645677453703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122631645677453703",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122557489267024349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 所以逸尘是下单了ultra 的600美元一年的套餐是吗？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122557489267024349",
+        "created_at": "2026-11-17T07:37:42.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_history_tweet_ids": [
+          "2122595017856577891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869683226178146304",
+              "start": 0,
+              "username": "Saccc_c"
+            }
+          ]
+        },
+        "id": "2122595017856577891",
+        "in_reply_to_user_id": "1869683226178146304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122588694649655521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saccc_c 爽得很，拿了英伟达投资都阔气起来了"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "conversation_id": "2122557489267024349",
+        "created_at": "2026-11-17T07:12:35.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_history_tweet_ids": [
+          "2122588694649655521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122588694649655521",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122557489267024349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 我也下单去"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122546248913965056",
+            "3_2122547096012353536",
+            "3_2122548389976158208"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-17T04:32:28.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_history_tweet_ids": [
+          "2122548400482849265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Create images, videos, and voice content with Higgsfield AI from text prompts or references. Edit and upscale media, automate creative workflows with its AI agent, and generate content on web and mobile.",
+              "display_url": "higgsfield.ai/?fpr=chen85",
+              "end": 29,
+              "expanded_url": "https://higgsfield.ai?fpr=chen85",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2122548408351383552/bBePtTaD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122548408351383552/bBePtTaD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "Higgsfield AI — AI-native creative suite",
+              "unwound_url": "https://higgsfield.ai?fpr=chen85",
+              "url": "https://t.co/AP48xiuXWS"
+            },
+            {
+              "display_url": "pic.x.com/ku6VXK10Ti",
+              "end": 209,
+              "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/1",
+              "media_key": "3_2122546248913965056",
+              "start": 186,
+              "url": "https://t.co/ku6VXK10Ti"
+            },
+            {
+              "display_url": "pic.x.com/ku6VXK10Ti",
+              "end": 209,
+              "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/2",
+              "media_key": "3_2122547096012353536",
+              "start": 186,
+              "url": "https://t.co/ku6VXK10Ti"
+            },
+            {
+              "display_url": "pic.x.com/ku6VXK10Ti",
+              "end": 209,
+              "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/3",
+              "media_key": "3_2122548389976158208",
+              "start": 186,
+              "url": "https://t.co/ku6VXK10Ti"
+            }
+          ]
+        },
+        "id": "2122548400482849265",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2055,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122537008270807240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传送门地址：https://t.co/AP48xiuXWS\n黑五大促，就只有今天！我真的忍不住不心动，已经下单600$年费套餐（每个月3000积分，可以直接打通我的Claude Code工作流）\n\n1、129$一个月的年费Ultra套餐，现在50$一个月。\n2、Business套餐，还送30天不限量的Seedance2.0/Seedance2.5，这个应该只能官网用。 https://t.co/ku6VXK10Ti"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122536282916372481"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-17T03:47:12.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_history_tweet_ids": [
+          "2122536629495853382",
+          "2122536880789148062",
+          "2122537008270807240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJvADxdvoK",
+              "end": 200,
+              "expanded_url": "https://x.com/gengdaJ/status/2122537008270807240/video/1",
+              "media_key": "13_2122536282916372481",
+              "start": 177,
+              "url": "https://t.co/tJvADxdvoK"
+            },
+            {
+              "display_url": "x.com/higgsfield_ai/…",
+              "end": 224,
+              "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+              "start": 201,
+              "url": "https://t.co/jHfkJChuyo"
+            }
+          ]
+        },
+        "id": "2122537008270807240",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 33925,
+          "like_count": 32,
+          "quote_count": 9,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122377853215936697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/tJvADxdvoK https://t.co/jHfkJChuyo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122536282916372481"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122536629495853382",
+        "created_at": "2026-11-17T03:45:41.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_history_tweet_ids": [
+          "2122536629495853382",
+          "2122536880789148062",
+          "2122537008270807240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xGIdGX8olT",
+              "end": 195,
+              "expanded_url": "https://x.com/gengdaJ/status/2122536629495853382/video/1",
+              "media_key": "13_2122536282916372481",
+              "start": 172,
+              "url": "https://t.co/xGIdGX8olT"
+            },
+            {
+              "display_url": "x.com/higgsfield_ai/…",
+              "end": 219,
+              "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+              "start": 196,
+              "url": "https://t.co/jHfkJChuyo"
+            }
+          ]
+        },
+        "id": "2122536629495853382",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，门槛低的离谱：\n1. 通过Opus5.5构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122377853215936697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，门槛低的离谱：\n1. 通过Opus5.5构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/xGIdGX8olT https://t.co/jHfkJChuyo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122536282916372481"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122536880789148062",
+        "created_at": "2026-11-17T03:46:41.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_history_tweet_ids": [
+          "2122536629495853382",
+          "2122536880789148062",
+          "2122537008270807240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azrAz4vm7Z",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2122536880789148062/video/1",
+              "media_key": "13_2122536282916372481",
+              "start": 176,
+              "url": "https://t.co/azrAz4vm7Z"
+            },
+            {
+              "display_url": "x.com/higgsfield_ai/…",
+              "end": 223,
+              "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+              "start": 200,
+              "url": "https://t.co/jHfkJChuyo"
+            }
+          ]
+        },
+        "id": "2122536880789148062",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Opus5.5构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122377853215936697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Opus5.5构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/azrAz4vm7Z https://t.co/jHfkJChuyo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122376442927370240"
+          ]
+        },
+        "author_id": "1712267009483022336",
+        "conversation_id": "2122377853215936697",
+        "created_at": "2026-11-16T17:14:46.000Z",
+        "display_text_range": [
+          0,
+          285
+        ],
+        "edit_history_tweet_ids": [
+          "2122377517164081507",
+          "2122377853215936697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ga0IilUOEK",
+              "end": 309,
+              "expanded_url": "https://x.com/higgsfield_ai/status/2122377853215936697/video/1",
+              "media_key": "13_2122376442927370240",
+              "start": 286,
+              "url": "https://t.co/Ga0IilUOEK"
+            }
+          ]
+        },
+        "id": "2122377853215936697",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n> Any style, from dark fantasy to 90s high school\n> Same cast in every episode\n> 9:16, 16:9 or 4:3\n\nUp to 65% OFF on Higgsfield for Black Friday.\n\nAvailable now on Higgsfield and in Claude and ChatGPT via Higgsfield MCP."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 916,
+          "impression_count": 591380,
+          "like_count": 1729,
+          "quote_count": 66,
+          "reply_count": 156,
+          "retweet_count": 359
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n&gt; Any style, from dark fantasy to 90s high school\n&gt; Same cast in every episode\n&gt; 9:16, 16:9 or 4:3\n\nUp to 65% OFF on Higgsfield for Black Friday.\n\nAvailable now on Higgsfield and in Claude and https://t.co/Ga0IilUOEK"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122484162385133678",
+        "created_at": "2026-11-17T00:17:12.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_history_tweet_ids": [
+          "2122484162385133678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1712267009483022336",
+              "start": 3,
+              "username": "higgsfield_ai"
+            }
+          ]
+        },
+        "id": "2122484162385133678",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 359
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122377853215936697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higgsfield_ai: Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n&gt; Any style, from dark fantasy to 90…"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122296233264083116",
+        "created_at": "2026-11-16T12:32:41.000Z",
+        "display_text_range": [
+          14,
+          49
+        ],
+        "edit_history_tweet_ids": [
+          "2122306865375871424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822141194404593664",
+              "start": 0,
+              "username": "Yiwei_growth"
+            }
+          ]
+        },
+        "id": "2122306865375871424",
+        "in_reply_to_user_id": "1822141194404593664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 856,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122296233264083116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yiwei_growth 所以要多交和 yiwei 这样的朋友，你看着她卷，自己不自主也会卷起来"
+      },
+      {
+        "author_id": "1822141194404593664",
+        "conversation_id": "2122296233264083116",
+        "created_at": "2026-11-16T11:50:27.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_history_tweet_ids": [
+          "2122296233264083116"
+        ],
+        "id": "2122296233264083116",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "最近创业者聚会去的有点过多了 明显感觉到\n\n一个人的财富水平和认知水平很多时候并不是正相关挂钩的。\n\n一个人的认知水平以及道德品行只和他身边最常交往的几个朋友呈强相关。\n很多时候人赚到钱和认知一点关系都没有。\n\n如何快速判断他的上限：\n看看他赚到的钱大部分花在哪里了。一时的享乐是人之常情，但大多数都是风口过去之后就陷在泥潭里了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3160,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近创业者聚会去的有点过多了 明显感觉到\n\n一个人的财富水平和认知水平很多时候并不是正相关挂钩的。\n\n一个人的认知水平以及道德品行只和他身边最常交往的几个朋友呈强相关。\n很多时候人赚到钱和认知一点关系都没有。\n\n如何快速判断他的上限："
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122271554117783948",
+        "created_at": "2026-11-16T10:47:36.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2122280418372468822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "id": "2122280418372468822",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1931,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122271554117783948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace 我用的是一个开源免费的哈哈"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122270844185690112"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "conversation_id": "2122271554117783948",
+        "created_at": "2026-11-16T10:12:23.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_history_tweet_ids": [
+          "2122271554117783948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iViAyWpgER",
+              "end": 83,
+              "expanded_url": "https://x.com/gkxspace/status/2122271554117783948/photo/1",
+              "media_key": "3_2122270844185690112",
+              "start": 60,
+              "url": "https://t.co/iViAyWpgER"
+            },
+            {
+              "display_url": "x.com/gkxspace/statu…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/gkxspace/status/2121932458971324592",
+              "start": 84,
+              "url": "https://t.co/EDNjhXkRA0"
+            }
+          ]
+        },
+        "id": "2122271554117783948",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 18897,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121932458971324592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额，海鲜市场真是应有尽有啊😅\n\n320买一年，结果它 4年 30块\n\n但是，这类的产品，我是不敢买，万一出事了啥都没了 https://t.co/iViAyWpgER https://t.co/EDNjhXkRA0"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2071040330531754375",
+        "created_at": "2026-11-15T01:41:48.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2121780674411819184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1618752347752271873",
+              "start": 0,
+              "username": "beefnoode"
+            }
+          ]
+        },
+        "id": "2121780674411819184",
+        "in_reply_to_user_id": "1618752347752271873",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071040330531754375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beefnoode 用牛肉粉老师的码开了哈哈"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071034882084716544"
+          ]
+        },
+        "author_id": "1618752347752271873",
+        "conversation_id": "2071040330531754375",
+        "created_at": "2026-06-28T01:17:47.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_history_tweet_ids": [
+          "2071040330531754375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZAEsP06fW",
+              "end": 175,
+              "expanded_url": "https://x.com/beefnoode/status/2071040330531754375/photo/1",
+              "media_key": "3_2071034882084716544",
+              "start": 152,
+              "url": "https://t.co/oZAEsP06fW"
+            }
+          ]
+        },
+        "id": "2071040330531754375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "l.za.group/pQ3AX",
+                "end": 450,
+                "expanded_url": "https://l.za.group/pQ3AX",
+                "start": 427,
+                "url": "https://t.co/GWxqDrDOFU"
+              }
+            ]
+          },
+          "text": "前两天去香港，顺手把众安（ZA Bank）办下来了\n说实话，现在办众安真的太方便了\n\n从深圳过关后坐上地铁，开启漫游，在 APP 上就能解决存款账户 + 美股、基金投资账户，最后再开个 ZA Card\n不超过半小时，在地铁上就能全部搞定\n\n相比于汇丰等传统银行，众安优势太明显 —— 门槛最低、福利最多\n\n就拿汇丰的狮子卡举例，从今年开始，如果账户里的日均资产少于 1 万港币，每个月还要收 100 港币的服务费，真的挺夸张\n\n更别说众安这边的福利还非常丰富：\n1. 各种存款加息券，最高年化20个点\n2. 股票交易赠送活动\n3. 还有ZA Card 的消费返利\n\n所以我干脆没有办汇丰，只办了众安，对我来说完全够用了\n不过，如果你是高净值客户的话，办汇丰也没毛病\n\n如果兄弟们有机会去香港，真心建议顺路办一张\n未来政策也可能会重新收紧，不一定会有现在这么方便了\n\n如果感兴趣的朋友，到时候注册可以点击下方链接，走我的邀请码 MHJKJ9，各种福利拉满\nhttps://t.co/GWxqDrDOFU"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 29134,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "前两天去香港，顺手把众安（ZA Bank）办下来了\n说实话，现在办众安真的太方便了\n\n从深圳过关后坐上地铁，开启漫游，在 APP 上就能解决存款账户 + 美股、基金投资账户，最后再开个 ZA Card\n不超过半小时，在地铁上就能全部搞定\n\n相比于汇丰等传统银行，众安优势太明显 —— 门槛最低、福利最多 https://t.co/oZAEsP06fW"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-14T15:30:52.000Z",
+        "display_text_range": [
+          20,
+          64
+        ],
+        "edit_history_tweet_ids": [
+          "2121626927828259153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877440800",
+              "start": 0,
+              "username": "li9292"
+            },
+            {
+              "end": 19,
+              "id": "1876494331491848192",
+              "start": 8,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2121626927828259153",
+        "in_reply_to_user_id": "1877440800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120985422352269351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li9292 @chatcutapp 没有啊，韭二哥。你们从哪看出来我憔悴的🤔我是蹲着录这个视频的，有点累？还是说精神状态不好"
+      },
+      {
+        "author_id": "1877440800",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T21:01:45.000Z",
+        "display_text_range": [
+          21,
+          33
+        ],
+        "edit_history_tweet_ids": [
+          "2120985422352269351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120985422352269351",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @chatcutapp 憔悴了哥，是海风吹的吗？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2121615882413908220",
+        "created_at": "2026-11-14T15:26:29.000Z",
+        "display_text_range": [
+          62,
+          77
+        ],
+        "edit_history_tweet_ids": [
+          "2121625827746222353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            },
+            {
+              "end": 20,
+              "id": "1881991469730594816",
+              "start": 11,
+              "username": "gkxspace"
+            },
+            {
+              "end": 29,
+              "id": "2022118285983232001",
+              "start": 21,
+              "username": "xmmxovo"
+            },
+            {
+              "end": 45,
+              "id": "1792608085409939456",
+              "start": 30,
+              "username": "Astronaut_1216"
+            },
+            {
+              "end": 61,
+              "id": "2008763857142255616",
+              "start": 46,
+              "username": "ShengzheSeanxu"
+            }
+          ]
+        },
+        "id": "2121625827746222353",
+        "in_reply_to_user_id": "1923981862273417222",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1077,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121615882413908220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkirstry @gkxspace @xmmxovo @Astronaut_1216 @ShengzheSeanxu 哇小晚姐生日快乐！可惜没在杭州"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2121615868199411712",
+            "3_2121615868203573248"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2121615882413908220",
+        "created_at": "2026-11-14T14:46:58.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_history_tweet_ids": [
+          "2121615882413908220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "2022118285983232001",
+              "start": 59,
+              "username": "xmmxovo"
+            },
+            {
+              "end": 77,
+              "id": "1881991469730594816",
+              "start": 68,
+              "username": "gkxspace"
+            },
+            {
+              "end": 93,
+              "id": "1792608085409939456",
+              "start": 78,
+              "username": "Astronaut_1216"
+            },
+            {
+              "end": 109,
+              "id": "2008763857142255616",
+              "start": 94,
+              "username": "ShengzheSeanxu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6SHYlvCCp",
+              "end": 187,
+              "expanded_url": "https://x.com/bbkirstry/status/2121615882413908220/photo/1",
+              "media_key": "3_2121615868199411712",
+              "start": 164,
+              "url": "https://t.co/v6SHYlvCCp"
+            },
+            {
+              "display_url": "pic.x.com/v6SHYlvCCp",
+              "end": 187,
+              "expanded_url": "https://x.com/bbkirstry/status/2121615882413908220/photo/2",
+              "media_key": "3_2121615868203573248",
+              "start": 164,
+              "url": "https://t.co/v6SHYlvCCp"
+            }
+          ]
+        },
+        "id": "2121615882413908220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 67,
+                "id": "2022118285983232001",
+                "start": 59,
+                "username": "xmmxovo"
+              },
+              {
+                "end": 77,
+                "id": "1881991469730594816",
+                "start": 68,
+                "username": "gkxspace"
+              },
+              {
+                "end": 93,
+                "id": "1792608085409939456",
+                "start": 78,
+                "username": "Astronaut_1216"
+              },
+              {
+                "end": 109,
+                "id": "2008763857142255616",
+                "start": 94,
+                "username": "ShengzheSeanxu"
+              }
+            ]
+          },
+          "text": "恭喜自己又大一岁！🍻\n早上一睁眼，推特真正意义上万粉了\n\n非常认真拥抱AI的这一年\n我的人生发生了非常多的变化\n喜欢 @xmmxovo @gkxspace @Astronaut_1216 @ShengzheSeanxu 🥰🥰\n00后的好朋友们，给了我非常大的力量\n\n我的职业生涯，这8年，每次裸辞或者跳槽都没有休息超过一个星期\n但！！！就在前天，已经谈了离职 💌\n\n接下来，我要为我自己而活了！\nAI时代，我们一定会创造更多精彩的👻"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12053,
+          "like_count": 131,
+          "quote_count": 4,
+          "reply_count": 64,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜自己又大一岁！🍻\n早上一睁眼，推特真正意义上万粉了\n\n非常认真拥抱AI的这一年\n我的人生发生了非常多的变化\n喜欢 @xmmxovo @gkxspace @Astronaut_1216 @ShengzheSeanxu 🥰🥰\n00后的好朋友们，给了我非常大的力量\n\n我的职业生涯，这8年，每次裸辞或者跳槽都没有休息超过一个星期 https://t.co/v6SHYlvCCp"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1712267009483022336",
+        "name": "Higgsfield AI 🧩",
+        "protected": false,
+        "username": "higgsfield_ai"
+      },
+      {
+        "id": "1877440800",
+        "name": "李韭二",
+        "protected": false,
+        "username": "li9292"
+      },
+      {
+        "id": "1869683226178146304",
+        "name": "Sac",
+        "protected": false,
+        "username": "Saccc_c"
+      },
+      {
+        "id": "1822141194404593664",
+        "name": "Yiwei",
+        "protected": false,
+        "username": "Yiwei_growth"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "protected": false,
+        "username": "gkxspace"
+      },
+      {
+        "id": "1618752347752271873",
+        "name": "来碗牛肉粉",
+        "protected": false,
+        "username": "beefnoode"
+      },
+      {
+        "id": "1876494331491848192",
+        "name": "ChatCut",
+        "protected": false,
+        "username": "chatcutapp"
+      },
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "protected": false,
+        "username": "bbkirstry"
+      },
+      {
+        "id": "2022118285983232001",
+        "name": "西门聪明蛋XD",
+        "protected": false,
+        "username": "xmmxovo"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "protected": false,
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "2008763857142255616",
+        "name": "Shengzhe Xu",
+        "protected": false,
+        "username": "ShengzheSeanxu"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122839670837105095",
+    "next_token": "b26v89c19zqg8o3juzovrg89r2a84osuk0k51szrmkwal",
+    "oldest_id": "2121625827746222353",
+    "result_count": 13
+  }
+}

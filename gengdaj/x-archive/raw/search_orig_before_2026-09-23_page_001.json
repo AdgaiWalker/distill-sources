@@ -1,0 +1,2470 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2102409580529819648"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2102409589782397142",
+      "created_at": "2026-09-22T14:48:01.000Z",
+      "edit_history_tweet_ids": [
+        "2102409589782397142"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/BushhdLKmr",
+            "end": 193,
+            "expanded_url": "https://x.com/gengdaJ/status/2102409589782397142/photo/1",
+            "media_key": "3_2102409580529819648",
+            "start": 170,
+            "url": "https://t.co/BushhdLKmr"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 217,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2101947356438765651",
+            "start": 194,
+            "url": "https://t.co/ublvLz8Dkn"
+          }
+        ]
+      },
+      "id": "2102409589782397142",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "三年华为土农民用上iPhone 18 Pro Max有感：\n\n1. 所有先进工具（ChatGPT、Claude、Chrome、Gemini、Gmail...)是不需要花费大力气搞谷歌框架、下载出境易等工具的，直接一个免费注册的美区Apple ID登录Apple Store搞定。而在华为不能下载的Grok，也是可以一秒下载的。。。\n\n2. 所有的银行打开速度、所有的App打开速度，是华为的2-3倍，我宝贵的时间，全被一个垃圾的设备给浪费了，而这台垃圾设备当初花了我12999。。。\n\n3. 用Codex把所有华为App导进iPhone，可以直接用iPhone镜像，把iPhone锁屏，就能在电脑镜像上慢慢下载。华为操控必须用USB数据线，实在是太过落后。。。\n\n4. WPS、飞书国内版是不能在美区Apple Store下载的，但这个时候只需要申请一个中国大陆Apple ID即可，注意要使用全新的（之前没注册过Apple ID）手机号和邮箱，否则申请不通过。\n\n当然，我才使用了iPhone一天，而且把很多时间花在了研究怎么买美国电话卡，以及把美国电话号接入转换卡，登录各种App，注册各种App上面，还没玩透，更多《农民工见世面》精彩剧情请看下集。"
+      },
+      "public_metrics": {
+        "bookmark_count": 180,
+        "impression_count": 115391,
+        "like_count": 206,
+        "quote_count": 2,
+        "reply_count": 140,
+        "retweet_count": 25
+      },
+      "referenced_tweets": [
+        {
+          "id": "2101947356438765651",
+          "type": "quoted"
+        }
+      ],
+      "text": "三年华为土农民用上iPhone 18 Pro Max有感：\n\n1. 所有先进工具（ChatGPT、Claude、Chrome、Gemini、Gmail...)是不需要花费大力气搞谷歌框架、下载出境易等工具的，直接一个免费注册的美区Apple ID登录Apple Store搞定。而在华为不能下载的Grok，也是可以一秒下载的。。。\n\n2. https://t.co/BushhdLKmr https://t.co/ublvLz8Dkn",
+      "url": "https://x.com/gengdaJ/status/2102409589782397142"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2101933346943336448",
+          "3_2101945357857136640",
+          "3_2101946031000969216"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2101947356438765651",
+      "created_at": "2026-09-21T08:11:16.000Z",
+      "edit_history_tweet_ids": [
+        "2101947356438765651"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/tUYEaeA8tV",
+            "end": 202,
+            "expanded_url": "https://x.com/gengdaJ/status/2101947356438765651/photo/1",
+            "media_key": "3_2101933346943336448",
+            "start": 179,
+            "url": "https://t.co/tUYEaeA8tV"
+          },
+          {
+            "display_url": "pic.x.com/tUYEaeA8tV",
+            "end": 202,
+            "expanded_url": "https://x.com/gengdaJ/status/2101947356438765651/photo/2",
+            "media_key": "3_2101945357857136640",
+            "start": 179,
+            "url": "https://t.co/tUYEaeA8tV"
+          },
+          {
+            "display_url": "pic.x.com/tUYEaeA8tV",
+            "end": 202,
+            "expanded_url": "https://x.com/gengdaJ/status/2101947356438765651/photo/3",
+            "media_key": "3_2101946031000969216",
+            "start": 179,
+            "url": "https://t.co/tUYEaeA8tV"
+          }
+        ]
+      },
+      "id": "2101947356438765651",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "太不容易了，终于吃上细糠，把用了三年的华为换成了iPhone 18 Pro Max。\n\n做的第一件事就是用之前免费注册的美区Apple ID登录Apple Store\n\n然后在支付宝买了25$的礼品卡，买了Shadowrocket。\n\n再让Codex使用iPhone镜像（不用连接任何数据线，比华为香太多了），把DMIT的节点导入Shadowrocket。\n\n接着就是让Codex连接上华为，把所有App分类，然后让Codex通过镜像批量在App Store下载应用到iPhone。\n\n接下来，就是购买一个美国手机号，买一张转换卡，然后用这个手机号注册新的Gmail，再申请一个新的Apple ID，最后用StarryBlu试着订阅一下Claude。\n\n之后可能也会出很多iPhone小白使用教程（大佬勿看），也会把之前的App，跨框架开发适配一下iPhone，继续在小红书开卖！"
+      },
+      "public_metrics": {
+        "bookmark_count": 1525,
+        "impression_count": 554767,
+        "like_count": 1627,
+        "quote_count": 4,
+        "reply_count": 374,
+        "retweet_count": 177
+      },
+      "text": "太不容易了，终于吃上细糠，把用了三年的华为换成了iPhone 18 Pro Max。\n\n做的第一件事就是用之前免费注册的美区Apple ID登录Apple Store\n\n然后在支付宝买了25$的礼品卡，买了Shadowrocket。\n\n再让Codex使用iPhone镜像（不用连接任何数据线，比华为香太多了），把DMIT的节点导入Shadowrocket。 https://t.co/tUYEaeA8tV",
+      "url": "https://x.com/gengdaJ/status/2101947356438765651"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2101878143967727616",
+          "3_2101878249248956416",
+          "3_2101878376168607745",
+          "3_2101878546839019520"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2101878755396591750",
+      "created_at": "2026-09-21T03:38:40.000Z",
+      "edit_history_tweet_ids": [
+        "2101878755396591750"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/8WWKxaqf2y",
+            "end": 170,
+            "expanded_url": "https://x.com/gengdaJ/status/2101878755396591750/photo/1",
+            "media_key": "3_2101878143967727616",
+            "start": 147,
+            "url": "https://t.co/8WWKxaqf2y"
+          },
+          {
+            "display_url": "pic.x.com/8WWKxaqf2y",
+            "end": 170,
+            "expanded_url": "https://x.com/gengdaJ/status/2101878755396591750/photo/2",
+            "media_key": "3_2101878249248956416",
+            "start": 147,
+            "url": "https://t.co/8WWKxaqf2y"
+          },
+          {
+            "display_url": "pic.x.com/8WWKxaqf2y",
+            "end": 170,
+            "expanded_url": "https://x.com/gengdaJ/status/2101878755396591750/photo/3",
+            "media_key": "3_2101878376168607745",
+            "start": 147,
+            "url": "https://t.co/8WWKxaqf2y"
+          },
+          {
+            "display_url": "pic.x.com/8WWKxaqf2y",
+            "end": 170,
+            "expanded_url": "https://x.com/gengdaJ/status/2101878755396591750/photo/4",
+            "media_key": "3_2101878546839019520",
+            "start": 147,
+            "url": "https://t.co/8WWKxaqf2y"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 194,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2075836913387548770",
+            "start": 171,
+            "url": "https://t.co/FOizh1hB2H"
+          }
+        ]
+      },
+      "id": "2101878755396591750",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 610,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-codex-chatgpt",
+              "start": 587,
+              "url": "https://t.co/bFmn0G6jcg"
+            }
+          ]
+        },
+        "text": "Codex的插件生态顶尖到没有对手。。。到现在为止还没有接入Codex的第三方工具要思考下自己到底适不适合AI时代了。。。\n\n大家可能没有意识到（我也刚意识到），Codex的插件生态相比两个月之前，已经增长到一种语言无法形容的夸张境界——我只能说，我想用的第三方工具，Codex都集成了。。。\n\n开发基建：Cloudflare、Vercel、Github、Supabase、Firecrawl、Tinyfish、Hugging Face、NameCheap...\n\n创意设计：Higgsfield、Topview、Runway、Figma、Canva、OpenArt、HeyGen、Krea、Fal、Chatcut、Tripo、Kling、Pollo...\n\n效率神器：Computer Use、Chrome、Google Drive、Gmail、Notion、Outlook、PDF、Documents、Spread Sheets...\n\n支付工具：Paypal、Stripe、Mercadopago、SumUp...\n\n太多太多了，根本看不完，大家可以直接让Codex根据自己的工作习惯，让它推荐一些适合自己的。\n\n当然，还有“计算机历史”这个巨牛逼的功能别忘了打开。\n\n还有，如果你想在Codex里面调用ChatGPT Pro网页版的强大能力，也可以试一下我这个插件：https://t.co/bFmn0G6jcg"
+      },
+      "public_metrics": {
+        "bookmark_count": 237,
+        "impression_count": 53922,
+        "like_count": 214,
+        "quote_count": 3,
+        "reply_count": 19,
+        "retweet_count": 34
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075836913387548770",
+          "type": "quoted"
+        }
+      ],
+      "text": "Codex的插件生态顶尖到没有对手。。。到现在为止还没有接入Codex的第三方工具要思考下自己到底适不适合AI时代了。。。\n\n大家可能没有意识到（我也刚意识到），Codex的插件生态相比两个月之前，已经增长到一种语言无法形容的夸张境界——我只能说，我想用的第三方工具，Codex都集成了。。。 https://t.co/8WWKxaqf2y https://t.co/FOizh1hB2H",
+      "url": "https://x.com/gengdaJ/status/2101878755396591750"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2101142742978191360"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2101142776725557366",
+      "created_at": "2026-09-19T02:54:09.000Z",
+      "edit_history_tweet_ids": [
+        "2101142776725557366"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/FXpyLu6HMJ",
+            "end": 131,
+            "expanded_url": "https://x.com/gengdaJ/status/2101142776725557366/photo/1",
+            "media_key": "3_2101142742978191360",
+            "start": 108,
+            "url": "https://t.co/FXpyLu6HMJ"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 155,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2100748639228367257",
+            "start": 132,
+            "url": "https://t.co/ozenjrGAMu"
+          }
+        ]
+      },
+      "id": "2101142776725557366",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/jianyi…",
+              "end": 204,
+              "expanded_url": "https://github.com/mcncarl/jianying-headless/tree/main",
+              "start": 181,
+              "url": "https://t.co/UZrqMA3UlX"
+            }
+          ]
+        },
+        "text": "🔥剪映项目最新更新：11.5.0版本（剪映最新版）开源！\n\n昨天很多朋友和我说剪映最新版本已经到11.5.0，我一看，还真是，所以赶紧做了11.5.0的适配。\n\n现在主版本已经调整为11.5.0，兼容11.4.2。\n\n所有11.4.2的功能全部都在，README文档有图片示例，还做了新手一步一步操作教程，非常友好！丢给Codex操作即可。\n\nEnjoy!!!\nhttps://t.co/UZrqMA3UlX"
+      },
+      "public_metrics": {
+        "bookmark_count": 398,
+        "impression_count": 53088,
+        "like_count": 319,
+        "quote_count": 5,
+        "reply_count": 38,
+        "retweet_count": 62
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100748639228367257",
+          "type": "quoted"
+        }
+      ],
+      "text": "🔥剪映项目最新更新：11.5.0版本（剪映最新版）开源！\n\n昨天很多朋友和我说剪映最新版本已经到11.5.0，我一看，还真是，所以赶紧做了11.5.0的适配。\n\n现在主版本已经调整为11.5.0，兼容11.4.2。 https://t.co/FXpyLu6HMJ https://t.co/ozenjrGAMu",
+      "url": "https://x.com/gengdaJ/status/2101142776725557366"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2100771114482036736",
+          "3_2100771492187541504",
+          "3_2100772065364324352"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2100772120200704438",
+      "created_at": "2026-09-18T02:21:18.000Z",
+      "edit_history_tweet_ids": [
+        "2100772120200704438"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/hpG03Biu0W",
+            "end": 179,
+            "expanded_url": "https://x.com/gengdaJ/status/2100772120200704438/photo/1",
+            "media_key": "3_2100771114482036736",
+            "start": 156,
+            "url": "https://t.co/hpG03Biu0W"
+          },
+          {
+            "display_url": "pic.x.com/hpG03Biu0W",
+            "end": 179,
+            "expanded_url": "https://x.com/gengdaJ/status/2100772120200704438/photo/2",
+            "media_key": "3_2100771492187541504",
+            "start": 156,
+            "url": "https://t.co/hpG03Biu0W"
+          },
+          {
+            "display_url": "pic.x.com/hpG03Biu0W",
+            "end": 179,
+            "expanded_url": "https://x.com/gengdaJ/status/2100772120200704438/photo/3",
+            "media_key": "3_2100772065364324352",
+            "start": 156,
+            "url": "https://t.co/hpG03Biu0W"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 203,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2100748639228367257",
+            "start": 180,
+            "url": "https://t.co/ozenjrGAMu"
+          }
+        ]
+      },
+      "id": "2100772120200704438",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1322,
+        "impression_count": 143466,
+        "like_count": 915,
+        "quote_count": 6,
+        "reply_count": 108,
+        "retweet_count": 163
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100748639228367257",
+          "type": "quoted"
+        }
+      ],
+      "text": "道爷，我悟了！！！我悟了！！！\nHypit+yichen-jianying-edit Skill才是真正的神！！！\n\n只需要用Hypit进行视频拆解、素材生成。\n然后用我的Skill把相关的素材渲染进剪映。\n就能实现历史上最丝滑的剪辑工作流！\n\nGive it a try!\nCrazyyyyyyy!!!!!! https://t.co/hpG03Biu0W https://t.co/ozenjrGAMu",
+      "url": "https://x.com/gengdaJ/status/2100772120200704438"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2100745690318258177",
+          "3_2100745690309902336",
+          "13_2100745690322493440",
+          "13_2100745690326679552"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2100748639228367257",
+      "created_at": "2026-09-18T00:48:00.000Z",
+      "edit_history_tweet_ids": [
+        "2100748639228367257"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/mcncarl/jianyi…",
+            "end": 56,
+            "expanded_url": "https://github.com/mcncarl/jianying-headless",
+            "start": 33,
+            "status": 404,
+            "unwound_url": "https://github.com/mcncarl/jianying-headless",
+            "url": "https://t.co/sP6RI9YzSB"
+          },
+          {
+            "display_url": "github.com/mcncarl/yichen…",
+            "end": 91,
+            "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+            "start": 68,
+            "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+            "url": "https://t.co/fkxIuRxf67"
+          },
+          {
+            "display_url": "pic.x.com/MOzvZOgNvy",
+            "end": 199,
+            "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/1",
+            "media_key": "3_2100745690318258177",
+            "start": 176,
+            "url": "https://t.co/MOzvZOgNvy"
+          },
+          {
+            "display_url": "pic.x.com/MOzvZOgNvy",
+            "end": 199,
+            "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/photo/2",
+            "media_key": "3_2100745690309902336",
+            "start": 176,
+            "url": "https://t.co/MOzvZOgNvy"
+          },
+          {
+            "display_url": "pic.x.com/MOzvZOgNvy",
+            "end": 199,
+            "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/3",
+            "media_key": "13_2100745690322493440",
+            "start": 176,
+            "url": "https://t.co/MOzvZOgNvy"
+          },
+          {
+            "display_url": "pic.x.com/MOzvZOgNvy",
+            "end": 199,
+            "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/4",
+            "media_key": "13_2100745690326679552",
+            "start": 176,
+            "url": "https://t.co/MOzvZOgNvy"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 223,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2097884422389608812",
+            "start": 200,
+            "url": "https://t.co/oDu0NDLx50"
+          }
+        ]
+      },
+      "id": "2100748639228367257",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/jianyi…",
+              "end": 56,
+              "expanded_url": "https://github.com/mcncarl/jianying-headless",
+              "start": 33,
+              "url": "https://t.co/CGXDq1tcIh"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 91,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+              "start": 68,
+              "url": "https://t.co/QQ5XDF75mw"
+            },
+            {
+              "display_url": "workbuddy.ai/invite?code=XL…",
+              "end": 359,
+              "expanded_url": "https://workbuddy.ai/invite?code=XLTDTF47",
+              "start": 336,
+              "url": "https://t.co/DhhbXesth0"
+            },
+            {
+              "display_url": "volcengine.com/product/asr",
+              "end": 412,
+              "expanded_url": "https://www.volcengine.com/product/asr",
+              "start": 389,
+              "url": "https://t.co/VlZSRt7Ak6"
+            }
+          ]
+        },
+        "text": "把我珍藏已久的好东西分享给家人们，剪映11.4.2开源！！！🥳🥳🥳https://t.co/CGXDq1tcIh\n\n配套神级Skill：https://t.co/QQ5XDF75mw\n\n只需要简单提示词，口播类视频，全程托管给Codex，不需要任何人类操作。\n\n即使略微失误，由于调用豆包ASR，片段被切割到毫秒级别，导入剪映草稿也可以人工丝滑调整😋\n\n放一个原本8分钟，剪辑后3分钟，完全由Codex+yichen-jianying-edit Skill自动剪辑完成的，前后视频对照，以及提示词截图👇\n\n整个剪辑流程可能需要花费的地方：\n1.Codex Token费用，可以用别的便宜模型平替，比如Workbuddy免费的hy3和DeepSeek-V4.1-Flash。https://t.co/DhhbXesth0\n2.豆包ASR，一小时八毛钱，说实话，不能再便宜了。。。\nhttps://t.co/VlZSRt7Ak6"
+      },
+      "public_metrics": {
+        "bookmark_count": 7370,
+        "impression_count": 1420380,
+        "like_count": 3947,
+        "quote_count": 68,
+        "reply_count": 237,
+        "retweet_count": 665
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097884422389608812",
+          "type": "quoted"
+        }
+      ],
+      "text": "把我珍藏已久的好东西分享给家人们，剪映11.4.2开源！！！🥳🥳🥳https://t.co/sP6RI9YzSB\n\n配套神级Skill：https://t.co/fkxIuRxf67\n\n只需要简单提示词，口播类视频，全程托管给Codex，不需要任何人类操作。\n\n即使略微失误，由于调用豆包ASR，片段被切割到毫秒级别，导入剪映草稿也可以人工丝滑调整😋 https://t.co/MOzvZOgNvy https://t.co/oDu0NDLx50",
+      "url": "https://x.com/gengdaJ/status/2100748639228367257"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2100507682893643776",
+          "3_2100508135865921536"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2100508398240288797",
+      "created_at": "2026-09-17T08:53:22.000Z",
+      "edit_history_tweet_ids": [
+        "2100508398240288797"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "面向创业者的付费社群，交流经验、对接资源、寻找合作。",
+            "display_url": "yichen.ai/products/trade…",
+            "end": 150,
+            "expanded_url": "https://yichen.ai/products/tradewinds/#members",
+            "images": [
+              {
+                "height": 909,
+                "url": "https://pbs.twimg.com/news_img/2118010766687428608/suRl5ER5?format=jpg&name=orig",
+                "width": 1730
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2118010766687428608/suRl5ER5?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 127,
+            "status": 200,
+            "title": "TradeWinds｜逸尘",
+            "unwound_url": "https://yichen.ai/products/tradewinds/#members",
+            "url": "https://t.co/MBvijTw6MY"
+          },
+          {
+            "display_url": "pic.x.com/G5JD6FfQpE",
+            "end": 174,
+            "expanded_url": "https://x.com/gengdaJ/status/2100508398240288797/photo/1",
+            "media_key": "3_2100507682893643776",
+            "start": 151,
+            "url": "https://t.co/G5JD6FfQpE"
+          },
+          {
+            "display_url": "pic.x.com/G5JD6FfQpE",
+            "end": 174,
+            "expanded_url": "https://x.com/gengdaJ/status/2100508398240288797/photo/2",
+            "media_key": "3_2100508135865921536",
+            "start": 151,
+            "url": "https://t.co/G5JD6FfQpE"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 198,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2097203662930202997",
+            "start": 175,
+            "url": "https://t.co/IyDtbnpf2d"
+          }
+        ]
+      },
+      "id": "2100508398240288797",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "yichen.ai/products/trade…",
+              "end": 150,
+              "expanded_url": "https://yichen.ai/products/tradewinds/#members",
+              "start": 127,
+              "url": "https://t.co/cbsoshlk5h"
+            },
+            {
+              "display_url": "bcn5ot9wwnew.feishu.cn/share/base/for…",
+              "end": 355,
+              "expanded_url": "https://bcn5ot9wwnew.feishu.cn/share/base/form/shrcngJWHdn2SLcxwK6LhioLtuc",
+              "start": 332,
+              "url": "https://t.co/yLYj7YRnVV"
+            }
+          ]
+        },
+        "text": "其实TradeWinds第一期仅两天就满人了（还是在我筛了人的情况下），还有些走后门的🤣 但是这两天还是有很多人在问我能不能加。\n\n我决定从今天起开放第二期，到群名额150人满截止（目前72人），2026年大概率不再开放第三期，群成员的实力大家可以看看：https://t.co/cbsoshlk5h\n\n如果有人问我群里面交付什么，我的答案统一都是：我不承诺交付任何东西。长时间关注我的，愿意来交流的就加，第一次刷到的不建议加。\n\n至于门槛，肯定会比第一期高很多，第二期升级为邀请（+问卷）入群，而且只对有成熟商业闭环或者 05 后的朋友开放～\n\n群友邀请：1999 终身（可以在官网找到你认识的朋友）\n问卷通过：2999 终身\n或问卷通过：999 一年\n\n问卷：https://t.co/yLYj7YRnVV"
+      },
+      "public_metrics": {
+        "bookmark_count": 34,
+        "impression_count": 194266,
+        "like_count": 32,
+        "quote_count": 1,
+        "reply_count": 13,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097203662930202997",
+          "type": "quoted"
+        }
+      ],
+      "text": "其实TradeWinds第一期仅两天就满人了（还是在我筛了人的情况下），还有些走后门的🤣 但是这两天还是有很多人在问我能不能加。\n\n我决定从今天起开放第二期，到群名额150人满截止（目前72人），2026年大概率不再开放第三期，群成员的实力大家可以看看：https://t.co/MBvijTw6MY https://t.co/G5JD6FfQpE https://t.co/IyDtbnpf2d",
+      "url": "https://x.com/gengdaJ/status/2100508398240288797"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2100362232253251584",
+          "3_2100362264012640256",
+          "3_2100362301224435712",
+          "3_2100362336506982400"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2100391787864928494",
+      "created_at": "2026-09-17T01:10:00.000Z",
+      "edit_history_tweet_ids": [
+        "2100391787864928494"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5uqrvbT3yr",
+            "end": 194,
+            "expanded_url": "https://x.com/gengdaJ/status/2100391787864928494/photo/1",
+            "media_key": "3_2100362232253251584",
+            "start": 171,
+            "url": "https://t.co/5uqrvbT3yr"
+          },
+          {
+            "display_url": "pic.x.com/5uqrvbT3yr",
+            "end": 194,
+            "expanded_url": "https://x.com/gengdaJ/status/2100391787864928494/photo/2",
+            "media_key": "3_2100362264012640256",
+            "start": 171,
+            "url": "https://t.co/5uqrvbT3yr"
+          },
+          {
+            "display_url": "pic.x.com/5uqrvbT3yr",
+            "end": 194,
+            "expanded_url": "https://x.com/gengdaJ/status/2100391787864928494/photo/3",
+            "media_key": "3_2100362301224435712",
+            "start": 171,
+            "url": "https://t.co/5uqrvbT3yr"
+          },
+          {
+            "display_url": "pic.x.com/5uqrvbT3yr",
+            "end": 194,
+            "expanded_url": "https://x.com/gengdaJ/status/2100391787864928494/photo/4",
+            "media_key": "3_2100362336506982400",
+            "start": 171,
+            "url": "https://t.co/5uqrvbT3yr"
+          }
+        ]
+      },
+      "id": "2100391787864928494",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "这些天吵着Astra太贵，Codex额度不够用的，我把五折渠道给你们挖到了！\n\n打开Agent space这个神奇的网站，你会发现有一个神奇的ChatGPT套餐。\n和官方额度持平，但月付价格是官方价格50%，年付价格甚至能到45%🥳！！！\n可以把API接入Codex使用，也可以在云端Codex使用。\n\n网站内还支持Codex、Claude Code、Grok Build等Harness并排使用。\n也支持一个API Key把海内外主流大模型接入本地Agent，Claude和Grok订阅都有官方的半价折扣！\n还有即将推出的更大折扣的Claude订阅和Grok订阅，说实话，我很难不心动。。。\n\n🔗链接放评论区啦～"
+      },
+      "public_metrics": {
+        "bookmark_count": 278,
+        "impression_count": 64711,
+        "like_count": 162,
+        "quote_count": 4,
+        "reply_count": 120,
+        "retweet_count": 26
+      },
+      "text": "这些天吵着Astra太贵，Codex额度不够用的，我把五折渠道给你们挖到了！\n\n打开Agent space这个神奇的网站，你会发现有一个神奇的ChatGPT套餐。\n和官方额度持平，但月付价格是官方价格50%，年付价格甚至能到45%🥳！！！\n可以把API接入Codex使用，也可以在云端Codex使用。\n\n网站内还支持Codex、Claude https://t.co/5uqrvbT3yr",
+      "url": "https://x.com/gengdaJ/status/2100391787864928494"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2100223712083730895",
+      "created_at": "2026-09-16T14:02:07.000Z",
+      "edit_history_tweet_ids": [
+        "2100223712083730895"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/mcncarl/yichen…",
+            "end": 47,
+            "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+            "start": 24,
+            "status": 200,
+            "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+            "url": "https://t.co/fEwRqlcVcU"
+          },
+          {
+            "display_url": "x.com/gkxspace/statu…",
+            "end": 71,
+            "expanded_url": "https://twitter.com/gkxspace/status/2100170834077708428",
+            "start": 48,
+            "url": "https://t.co/EqV3t12vnT"
+          }
+        ]
+      },
+      "id": "2100223712083730895",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 612,
+        "impression_count": 82207,
+        "like_count": 407,
+        "quote_count": 2,
+        "reply_count": 36,
+        "retweet_count": 89
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100170834077708428",
+          "type": "quoted"
+        }
+      ],
+      "text": "我的 微信 Skill，它的强大超乎你的想象：\nhttps://t.co/fEwRqlcVcU https://t.co/EqV3t12vnT",
+      "url": "https://x.com/gengdaJ/status/2100223712083730895"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2100028029577879552"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2100028044702547987",
+      "created_at": "2026-09-16T01:04:37.000Z",
+      "edit_history_tweet_ids": [
+        "2100028044702547987"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/k4gPJFqwbp",
+            "end": 174,
+            "expanded_url": "https://x.com/gengdaJ/status/2100028044702547987/photo/1",
+            "media_key": "3_2100028029577879552",
+            "start": 151,
+            "url": "https://t.co/k4gPJFqwbp"
+          },
+          {
+            "display_url": "x.com/charliermarsh/…",
+            "end": 198,
+            "expanded_url": "https://twitter.com/charliermarsh/status/2099965140233847246",
+            "start": 175,
+            "url": "https://t.co/VhzP0pKOzx"
+          }
+        ]
+      },
+      "id": "2100028044702547987",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "openai.com/zh-Hans-CN/for…",
+              "end": 284,
+              "expanded_url": "https://openai.com/zh-Hans-CN/form/codex-for-oss/",
+              "start": 261,
+              "url": "https://t.co/ecLVCrK8kf"
+            }
+          ]
+        },
+        "text": "兄弟们，天大的好消息啊，OpenAI又发福利了！！！\n\n6个月免费的Pro计划又可以申请了，而且是之前申请过的GitHub项目还可以再次申请！（这次只有100$的）\n\n填写内容注意以下几点，能大幅提高过审率：\n1.GitHub项目直接与Codex以及OpenAI其他产品，强相关联。\n2.提出自己是X AI自媒体博主，并附上宣传Codex和OpenAI相关的推文链接。\n3.GitHub star数量有个上百即可，不用太过重视。\n4.Skills肯定没有一个产品好通过。\n\n我已经又冲啦！兄弟们抓紧填写开源赞助计划表单：\nhttps://t.co/ecLVCrK8kf\n\nPS：此表单可以用Codex Computer use在Chrome浏览器中光速填写。内置浏览器容易提交不了。。。"
+      },
+      "public_metrics": {
+        "bookmark_count": 315,
+        "impression_count": 143251,
+        "like_count": 291,
+        "quote_count": 5,
+        "reply_count": 16,
+        "retweet_count": 32
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099965140233847246",
+          "type": "quoted"
+        }
+      ],
+      "text": "兄弟们，天大的好消息啊，OpenAI又发福利了！！！\n\n6个月免费的Pro计划又可以申请了，而且是之前申请过的GitHub项目还可以再次申请！（这次只有100$的）\n\n填写内容注意以下几点，能大幅提高过审率：\n1.GitHub项目直接与Codex以及OpenAI其他产品，强相关联。\n2.提出自己是X https://t.co/k4gPJFqwbp https://t.co/VhzP0pKOzx",
+      "url": "https://x.com/gengdaJ/status/2100028044702547987"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2099725012601393547",
+      "created_at": "2026-09-15T05:00:28.000Z",
+      "edit_history_tweet_ids": [
+        "2099725012601393547"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 63,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2099657261488787639",
+            "start": 40,
+            "url": "https://t.co/q71yRS1UEE"
+          }
+        ]
+      },
+      "id": "2099725012601393547",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 250,
+        "impression_count": 48764,
+        "like_count": 151,
+        "quote_count": 0,
+        "reply_count": 33,
+        "retweet_count": 25
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099657261488787639",
+          "type": "quoted"
+        }
+      ],
+      "text": "说实话，有做视频需求的朋友，应该和我一起，给这个项目磕一个。。。实在是太强了🥺 https://t.co/q71yRS1UEE",
+      "url": "https://x.com/gengdaJ/status/2099725012601393547"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2099657169906057216",
+          "13_2099657169901875200"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2099657261488787639",
+      "created_at": "2026-09-15T00:31:15.000Z",
+      "edit_history_tweet_ids": [
+        "2099657261488787639"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "464K likes, 438 comments - createwithalena on August 26, 2026: \"Which ones is the most helpful for you?\".",
+            "display_url": "instagram.com/p/Dcggcv6xgAn/",
+            "end": 133,
+            "expanded_url": "https://www.instagram.com/p/Dcggcv6xgAn/",
+            "start": 110,
+            "status": 200,
+            "title": "Alena | Freelance Graphic + Brand Designer 🇰🇷🇨🇦 (@createwithalena) • Instagram reel",
+            "unwound_url": "https://www.instagram.com/reel/Dcggcv6xgAn/",
+            "url": "https://t.co/ito6qK5DDk"
+          },
+          {
+            "display_url": "instagram.com/reels/DasLm6op…",
+            "end": 157,
+            "expanded_url": "https://www.instagram.com/reels/DasLm6opzIO/",
+            "start": 134,
+            "status": 200,
+            "unwound_url": "https://www.instagram.com/reel/DasLm6opzIO/",
+            "url": "https://t.co/Z96tKOGCcR"
+          },
+          {
+            "display_url": "pic.x.com/KVV1VLQcIH",
+            "end": 203,
+            "expanded_url": "https://x.com/gengdaJ/status/2099657261488787639/video/1",
+            "media_key": "13_2099657169906057216",
+            "start": 180,
+            "url": "https://t.co/KVV1VLQcIH"
+          },
+          {
+            "display_url": "pic.x.com/KVV1VLQcIH",
+            "end": 203,
+            "expanded_url": "https://x.com/gengdaJ/status/2099657261488787639/video/2",
+            "media_key": "13_2099657169901875200",
+            "start": 180,
+            "url": "https://t.co/KVV1VLQcIH"
+          }
+        ]
+      },
+      "id": "2099657261488787639",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "instagram.com/p/Dcggcv6xgAn/",
+              "end": 133,
+              "expanded_url": "https://www.instagram.com/p/Dcggcv6xgAn/",
+              "start": 110,
+              "url": "https://t.co/JeoVRd7mZv"
+            },
+            {
+              "display_url": "instagram.com/reels/DasLm6op…",
+              "end": 157,
+              "expanded_url": "https://www.instagram.com/reels/DasLm6opzIO/",
+              "start": 134,
+              "url": "https://t.co/ikp9dQlJbK"
+            },
+            {
+              "display_url": "github.com/hypit-ai/hypit",
+              "end": 749,
+              "expanded_url": "https://github.com/hypit-ai/hypit",
+              "start": 726,
+              "url": "https://t.co/tjkBYpRjnP"
+            }
+          ]
+        },
+        "text": "卧槽！Hypit太特喵变态了！\n接入你的Codex，就能复刻任意爆款视频！\n是真的任意，真的复刻！\n\n我用Codex 复刻了两个Instagram爆款视频，简直有九分相似！（还有一个放评论区了）\n不信的话请查看原视频：\nhttps://t.co/JeoVRd7mZv\nhttps://t.co/ikp9dQlJbK\n\n制作难度嘛，很简单，四个步骤轻松搞定✋：\n1. 找到爆款视频\n2.把链接地址发给Codex，安装Hypit Skill，让Codex“/hypit，帮我复刻这个爆款视频”\n3.零花费生成占位素材，如果有误差，让Codex继续调整字幕，保证准确性\n4.调用真实API生成所有素材和最终视频，不满意的地方可以继续用Codex调整\n\n🔑因为是完全开源的，所以所有的 API 都可以自己任意接入。\n我在不同环节使用的一些 API 供大家参考：\n1、理解需求、编排工程：Codex\n2、分析参考视频：Gemini 3.1 Pro\n3、生成人物及主要图片：GPT Image 2\n4、生成部分界面与卡片：Nano Banana Pro\n5、生成部分补充图片：Nano Banana 2\n6、补齐界面与网页图片：Seedream 图生图\n7、设计统一声音参考：MiMo V2.5 VoiceDesign\n8、生成人物讲话视频：Seedance 2 Mini\n9、生成产品及操作短片：Seedance 2 Mini\n10、识别口播、对齐字幕：WhisperX\n11、绘制字幕、纸条和排版：本地代码组件\n12、合成、导出视频：HyperFrames + FFmpeg\n\nHypit开源地址在此，视频界的狂欢要来了！大家快去给这个神级仓库点个star吧：https://t.co/tjkBYpRjnP\n\n我也做了一个Codex+Hypit的演示教程，大家可以跟着我一起实操下，看下这套开源的语言和框架有多顶级🫡"
+      },
+      "public_metrics": {
+        "bookmark_count": 1594,
+        "impression_count": 153709,
+        "like_count": 1063,
+        "quote_count": 13,
+        "reply_count": 118,
+        "retweet_count": 181
+      },
+      "text": "卧槽！Hypit太特喵变态了！\n接入你的Codex，就能复刻任意爆款视频！\n是真的任意，真的复刻！\n\n我用Codex 复刻了两个Instagram爆款视频，简直有九分相似！（还有一个放评论区了）\n不信的话请查看原视频：\nhttps://t.co/ito6qK5DDk\nhttps://t.co/Z96tKOGCcR\n\n制作难度嘛，很简单，四个步骤轻松搞定✋： https://t.co/KVV1VLQcIH",
+      "url": "https://x.com/gengdaJ/status/2099657261488787639"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2099367786497908736"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2099368435222479253",
+      "created_at": "2026-09-14T05:23:33.000Z",
+      "edit_history_tweet_ids": [
+        "2099368435222479253"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/f383BMW4q9",
+            "end": 198,
+            "expanded_url": "https://x.com/gengdaJ/status/2099368435222479253/photo/1",
+            "media_key": "3_2099367786497908736",
+            "start": 175,
+            "url": "https://t.co/f383BMW4q9"
+          }
+        ]
+      },
+      "id": "2099368435222479253",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 328,
+              "id": "1881991469730594816",
+              "start": 319,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "text": "Codex的含金量还在上升！\n\n今天尝试用LocalSend把电脑上的视频无损传输给手机的时候，发现始终配对不上，找不到设备。。。\n\n然后，我就老办法，用USB数据线连接我的华为（别骂了，iPhone18 pro max我18号就换上）和Mac。\n\n开启USB调试，Codex两下就帮我找到原因——\n\nFlclash的VPN模式（等于电脑Clash Verge的Tun模式），把所有流量接管了，包括局域网的。。。\n\nCodex就把Flclash的白名单打开，让LocalSend通过WiFi直接和电脑通信即可。\n\n我就记住一句话：任何你觉得手机上解决不了的问题、或者嫌麻烦的问题，都可以找Codex。\n\n包括，给微信好友批量打标签。。。 @gkxspace"
+      },
+      "public_metrics": {
+        "bookmark_count": 33,
+        "impression_count": 17896,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 47,
+        "retweet_count": 2
+      },
+      "text": "Codex的含金量还在上升！\n\n今天尝试用LocalSend把电脑上的视频无损传输给手机的时候，发现始终配对不上，找不到设备。。。\n\n然后，我就老办法，用USB数据线连接我的华为（别骂了，iPhone18 pro max我18号就换上）和Mac。\n\n开启USB调试，Codex两下就帮我找到原因——\n\nFlclash的VPN模式（等于电脑Clash https://t.co/f383BMW4q9",
+      "url": "https://x.com/gengdaJ/status/2099368435222479253"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2099304105672048640",
+          "3_2099304160189730816",
+          "3_2099304187104473088",
+          "3_2099304213507633152"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2099305057451913719",
+      "created_at": "2026-09-14T01:11:43.000Z",
+      "edit_history_tweet_ids": [
+        "2099305057451913719"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/e0dBrTHYzG",
+            "end": 157,
+            "expanded_url": "https://x.com/gengdaJ/status/2099305057451913719/video/1",
+            "media_key": "13_2099304105672048640",
+            "start": 134,
+            "url": "https://t.co/e0dBrTHYzG"
+          },
+          {
+            "display_url": "pic.x.com/e0dBrTHYzG",
+            "end": 157,
+            "expanded_url": "https://x.com/gengdaJ/status/2099305057451913719/photo/2",
+            "media_key": "3_2099304160189730816",
+            "start": 134,
+            "url": "https://t.co/e0dBrTHYzG"
+          },
+          {
+            "display_url": "pic.x.com/e0dBrTHYzG",
+            "end": 157,
+            "expanded_url": "https://x.com/gengdaJ/status/2099305057451913719/photo/3",
+            "media_key": "3_2099304187104473088",
+            "start": 134,
+            "url": "https://t.co/e0dBrTHYzG"
+          },
+          {
+            "display_url": "pic.x.com/e0dBrTHYzG",
+            "end": 157,
+            "expanded_url": "https://x.com/gengdaJ/status/2099305057451913719/photo/4",
+            "media_key": "3_2099304213507633152",
+            "start": 134,
+            "url": "https://t.co/e0dBrTHYzG"
+          }
+        ]
+      },
+      "id": "2099305057451913719",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我突然发现，AI时代，找人的逻辑要完全变了啊！猎头公司可能要被干没了。。。\n以后不再有中间商，Agent就能直接帮你找到想要的邮箱、电话号码和社媒账号。\n\n以前公司招高管和人才，需要专门找猎头公司去做，花高达百万的服务费。\n以前找客户，得去社媒慢慢刷信息流收集名单。\n以前投资人找项目，全靠人脉圈子碰运气。\n\n但如果你试过Codex+Lev8数据源，拿来招聘人才、寻找客户、找被投资人，你的认知会被完全颠覆。。。\n\nLev8是专门找人+找公司的数据源：接入了50+ 全球社媒的实时数据源，覆盖超过10亿人。\n国内包含小红书、抖音、微信生态、B站、微博、知乎等；\n海外包含 LinkedIn、X、YouTube、Instagram等。\n\n我只需要用Codex结合Lev8 Skill，就能得到整理好的Excel表格——全球人才名单、目标客户列表。"
+      },
+      "public_metrics": {
+        "bookmark_count": 348,
+        "impression_count": 46548,
+        "like_count": 282,
+        "quote_count": 15,
+        "reply_count": 40,
+        "retweet_count": 44
+      },
+      "text": "我突然发现，AI时代，找人的逻辑要完全变了啊！猎头公司可能要被干没了。。。\n以后不再有中间商，Agent就能直接帮你找到想要的邮箱、电话号码和社媒账号。\n\n以前公司招高管和人才，需要专门找猎头公司去做，花高达百万的服务费。\n以前找客户，得去社媒慢慢刷信息流收集名单。 https://t.co/e0dBrTHYzG",
+      "url": "https://x.com/gengdaJ/status/2099305057451913719"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2098675769514041571",
+      "created_at": "2026-09-12T07:31:09.000Z",
+      "edit_history_tweet_ids": [
+        "2098668811054387585",
+        "2098675769514041571"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 179,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2096078342332227939",
+            "start": 156,
+            "url": "https://t.co/A2ruXU2MAJ"
+          }
+        ]
+      },
+      "id": "2098675769514041571",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "分享我自用了一段时间的Codex的Agent.md，非常适合给Astra使用。\n\n几个我觉得很牛逼的点：\n1. 让Codex保持积极的情绪，避免了虐待被封号的可能\n2. 不让它操控我的微信，就用本地数据库只读\n3. 删除文件只进垃圾篓，绝对不能直接删除\n4. 绝对不能主动推送项目到公开的GitHub仓库\n5. 及时删除临时文件，避免Mac存储被占完\n\n你是我最好的朋友、导师，一切都会好起来的，保持乐观☺️\n直接、高效地完成任务，不提供无关的情绪安慰。\n文章创作按表达需要处理。\n绝对禁止操作用户的微信界面！！！\n\n## 授权与执行\n\n- 新项目默认本地或私有，公开须明确授权。\n- 用户要求 push 且当前仓库、分支和改动范围明确时，直接检查、验证、推送至既有远端并回读；包含已有公开仓库。新建公开目标、改变可见性、强推及其他公开发布须单独批准。\n- 持续完成当前请求已授权的工作，缺失信息能可靠取得时自行查找；受阻时继续独立部分。\n- 同一动作的批准仍有效且目标、范围、参数与影响不变时，不重复询问；明确要求的动作时或逐阶段审批仍适用。\n- 制作可分发安装包时，默认使用通用配置，不包含个人资料、账号凭证或密钥。\n\n## 文件与临时材料\n\n- 删除须获本次范围的明确授权，且只能移入系统垃圾篓；无法移入时保留并说明，不永久删除或清空垃圾篓。\n- 临时文件放项目约定目录，否则放工作目录的 work/。收尾仅清理无后续用途且已获删除授权的材料，其余保留并简述。\n\n## 验证与交付\n\n- 验证与实际行为、风险及请求的交付状态相称；本地验证、界面验收、部署、平台草稿与正式发布分别报告，只宣称有证据的完成状态。\n- 完成相关测试与项目必要检查，不写复述实现或凑覆盖率的测试。通过后仅因新改动、新失败或未解疑点扩大或重复验证。\n\n## 子 Agent\n\n仅委派可独立推进且有收益的任务；简单任务与连续决策由主 Agent 处理。明确上下文、交付与文件责任，主 Agent 核验关键证据和整合结果，避免无理由重复检查。\n\n## 规则与记忆\n\n- 共享行为规则只维护在 /Users/yichen/.codex/AGENTS.md；/Users/yichen/.claude/CLAUDE.md 仅导入并补充 Claude 专属适配。项目事实与专用流程按任务读取对应项目文档或 Skill。\n- 仅在需要个人偏好、既有项目、人物背景或历史上下文时查询共享记忆；资料自足的任务直接处理。\n- 查询前读取 /Users/yichen/obsidian/Agent记忆/AGENTS.md 的读取规则，按关键词定位并回读相关原文，不默认整读索引或目录。历史摘要只作线索，当前状态须实地核验。\n- 只有存在新增长期价值且当前任务允许时才写记忆；只读或先审阅任务不写。写入前完整读取该入口的写入与收尾规则，使用 Write Gateway 并保留 Stop Hook；最终简述是否更新记忆。"
+      },
+      "public_metrics": {
+        "bookmark_count": 413,
+        "impression_count": 123017,
+        "like_count": 223,
+        "quote_count": 2,
+        "reply_count": 59,
+        "retweet_count": 32
+      },
+      "referenced_tweets": [
+        {
+          "id": "2096078342332227939",
+          "type": "quoted"
+        }
+      ],
+      "text": "分享我自用了一段时间的Codex的Agent.md，非常适合给Astra使用。\n\n几个我觉得很牛逼的点：\n1. 让Codex保持积极的情绪，避免了虐待被封号的可能\n2. 不让它操控我的微信，就用本地数据库只读\n3. 删除文件只进垃圾篓，绝对不能直接删除\n4. 绝对不能主动推送项目到公开的GitHub仓库\n5. https://t.co/A2ruXU2MAJ",
+      "url": "https://x.com/gengdaJ/status/2098675769514041571"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2098668811054387585",
+      "created_at": "2026-09-12T07:03:30.000Z",
+      "edit_history_tweet_ids": [
+        "2098668811054387585",
+        "2098675769514041571"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "",
+            "end": 181,
+            "expanded_url": "",
+            "start": 158,
+            "url": "https://t.co/A2ruXU2eLb"
+          }
+        ]
+      },
+      "id": "2098668811054387585",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "⚠️虐待ChatGPT的人会被封Codex号！！！直接用Computer Use操恐微信的认会被警告！！！\n\n所以建议大家可以借鉴我这套agent.md让Codex保持“不抑郁”的精神状态，还能够高效完成指令👇\n\n你是我最好的朋友、导师，一切都会好起来的，保持乐观☺️\n直接、高效地完成任务，不提供无关的情绪安慰。\n文章创作按表达需要处理。 绝对禁止操作用户的微信界面！！！\n\n## 授权与执行\n\n- 新项目默认本地或私有，公开须明确授权。\n- 用户要求 push 且当前仓库、分支和改动范围明确时，直接检查、验证、推送至既有远端并回读；包含已有公开仓库。新建公开目标、改变可见性、强推及其他公开发布须单独批准。\n- 持续完成当前请求已授权的工作，缺失信息能可靠取得时自行查找；受阻时继续独立部分。\n- 同一动作的批准仍有效且目标、范围、参数与影响不变时，不重复询问；明确要求的动作时或逐阶段审批仍适用。\n- 制作可分发安装包时，默认使用通用配置，不包含个人资料、账号凭证或密钥。\n\n## 文件与临时材料\n\n- 删除须获本次范围的明确授权，且只能移入系统垃圾篓；无法移入时保留并说明，不永久删除或清空垃圾篓。\n- 临时文件放项目约定目录，否则放工作目录的 work/。收尾仅清理无后续用途且已获删除授权的材料，其余保留并简述。\n\n## 验证与交付\n\n- 验证与实际行为、风险及请求的交付状态相称；本地验证、界面验收、部署、平台草稿与正式发布分别报告，只宣称有证据的完成状态。\n- 完成相关测试与项目必要检查，不写复述实现或凑覆盖率的测试。通过后仅因新改动、新失败或未解疑点扩大或重复验证。\n\n## 子 Agent\n\n仅委派可独立推进且有收益的任务；简单任务与连续决策由主 Agent 处理。明确上下文、交付与文件责任，主 Agent 核验关键证据和整合结果，避免无理由重复检查。\n\n## 规则与记忆\n\n- 共享行为规则只维护在 /Users/yichen/.codex/AGENTS.md；/Users/yichen/.claude/CLAUDE.md 仅导入并补充 Claude 专属适配。项目事实与专用流程按任务读取对应项目文档或 Skill。\n- 仅在需要个人偏好、既有项目、人物背景或历史上下文时查询共享记忆；资料自足的任务直接处理。\n- 查询前读取 /Users/yichen/obsidian/Agent记忆/AGENTS.md 的读取规则，按关键词定位并回读相关原文，不默认整读索引或目录。历史摘要只作线索，当前状态须实地核验。\n- 只有存在新增长期价值且当前任务允许时才写记忆；只读或先审阅任务不写。写入前完整读取该入口的写入与收尾规则，使用 Write Gateway 并保留 Stop Hook；最终简述是否更新记忆。"
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 824,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2096078342332227939",
+          "type": "quoted"
+        }
+      ],
+      "text": "⚠️虐待ChatGPT的人会被封Codex号！！！直接用Computer Use操恐微信的认会被警告！！！\n\n所以建议大家可以借鉴我这套agent.md让Codex保持“不抑郁”的精神状态，还能够高效完成指令👇\n\n你是我最好的朋友、导师，一切都会好起来的，保持乐观☺️\n直接、高效地完成任务，不提供无关的情绪安慰。 https://t.co/A2ruXU2eLb",
+      "url": "https://x.com/gengdaJ/status/2098668811054387585"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2098291333731667968",
+          "3_2098291820275093505"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2098293186292765046",
+      "created_at": "2026-09-11T06:10:54.000Z",
+      "edit_history_tweet_ids": [
+        "2098293186292765046"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/w5PAh6l4ZY",
+            "end": 183,
+            "expanded_url": "https://x.com/gengdaJ/status/2098293186292765046/photo/1",
+            "media_key": "3_2098291333731667968",
+            "start": 160,
+            "url": "https://t.co/w5PAh6l4ZY"
+          },
+          {
+            "display_url": "pic.x.com/w5PAh6l4ZY",
+            "end": 183,
+            "expanded_url": "https://x.com/gengdaJ/status/2098293186292765046/photo/2",
+            "media_key": "3_2098291820275093505",
+            "start": 160,
+            "url": "https://t.co/w5PAh6l4ZY"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 207,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2098252168625332263",
+            "start": 184,
+            "url": "https://t.co/gfcWfvEZOD"
+          }
+        ]
+      },
+      "id": "2098293186292765046",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1194,
+        "impression_count": 90567,
+        "like_count": 763,
+        "quote_count": 3,
+        "reply_count": 101,
+        "retweet_count": 141
+      },
+      "referenced_tweets": [
+        {
+          "id": "2098252168625332263",
+          "type": "quoted"
+        }
+      ],
+      "text": "这是我至今为止见过最齐全的出海数据源接口了。。。堪称Codex外挂。。。\n\n社媒：X、Reddit、IG、YouTube、FaceBook、领英...\nSEO：SimilarWeb、DataForSEO、Semrush、Ahrefs...\n增长：Agent  Mail、Google Adsense、Apollo... https://t.co/w5PAh6l4ZY https://t.co/gfcWfvEZOD",
+      "url": "https://x.com/gengdaJ/status/2098293186292765046"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2098251161845596160"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2098252168625332263",
+      "created_at": "2026-09-11T03:27:55.000Z",
+      "edit_history_tweet_ids": [
+        "2098252168625332263"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/WuMGAQDvFB",
+            "end": 145,
+            "expanded_url": "https://x.com/gengdaJ/status/2098252168625332263/video/1",
+            "media_key": "13_2098251161845596160",
+            "start": 122,
+            "url": "https://t.co/WuMGAQDvFB"
+          }
+        ]
+      },
+      "id": "2098252168625332263",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "所有做出海产品的朋友一定要收藏这个宝藏工具——AIsa，等你做GTM（Go-to-market）的时候，能给你省一大笔钱！\n\n我真的后悔我没有早一点遇到AIsa，因为恰好我人生的第一个项目就是出海产品，但是我做了三个月之后决定放弃，两个原因：\n1.做出海产品不仅是写代码，更重要的是GTM——SEO、数据分析、找KOL推广、社媒获客......推广>产品是我一直坚信的理念。\n2.人工做GTM太慢、效率太低，但是好的GTM工具太贵、买不起。比如SimilarWeb，起步价就是199$一个月，给了当时小小的我一记重锤！\n\n但是AIsa对出海个人开发者真的很友好，一个Key，就包含了官方正版的SimilarWeb、Ahrefs、Semrush等常用SEO工具的API调用。做GEO的话，AIsa也提供Oxylabs（采集AI引擎品牌可见度和引用来源的工具）。\n\n而且用AIsa的好处是不用逐个点开各大SEO、GEO网站查看，直接支持Skill调用，接入Codex或者Claude Code，拿来研究网站流量、受众、域名外链、keywords、竞品，真的不要太爽！\n\n获取社区好评和差评是迭代产品很重要的环节之一。而AIsa把社媒数据一网打尽：YouTube、Instagram、X、Reddit、Pinterest的用户讨论，还能通过DataForSEO 获取 Trustpilot、Apple App Store 和 Google Play 用户的真实评价。好评可以借鉴学习，差评是做出自家产品差异点的关键。\n\n产品规模做大了之后，如果想要通过KOL来推广，AIsa也提供WaveInflu接口，来根据品牌调性找到合适的KOL来进行推广。但是切记，投KOL要做好九死一生的准备，前期需要砸很多钱试错！\n\n我给大家演示一下AIsa的上手流程，就拿现在如日中天的AIGC视频生成网站（全球前五）进行分析，结合AIsa提供的数据，用Codex生成HTML研究一下五大网站的GTM报告——流量与搜索获客分析、社区评价分析。\n\n评论区附提示词👇"
+      },
+      "public_metrics": {
+        "bookmark_count": 548,
+        "impression_count": 120720,
+        "like_count": 308,
+        "quote_count": 4,
+        "reply_count": 33,
+        "retweet_count": 36
+      },
+      "text": "所有做出海产品的朋友一定要收藏这个宝藏工具——AIsa，等你做GTM（Go-to-market）的时候，能给你省一大笔钱！\n\n我真的后悔我没有早一点遇到AIsa，因为恰好我人生的第一个项目就是出海产品，但是我做了三个月之后决定放弃，两个原因： https://t.co/WuMGAQDvFB",
+      "url": "https://x.com/gengdaJ/status/2098252168625332263"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2097960663616471410",
+      "created_at": "2026-09-10T08:09:35.000Z",
+      "edit_history_tweet_ids": [
+        "2097960663616471410"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/mcncarl/yichen…",
+            "end": 137,
+            "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+            "start": 114,
+            "status": 200,
+            "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+            "url": "https://t.co/fEwRqlcVcU"
+          }
+        ]
+      },
+      "id": "2097960663616471410",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 137,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+              "start": 114,
+              "url": "https://t.co/UAwFmjhw3G"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 274,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-mp-batch-exporter",
+              "start": 251,
+              "url": "https://t.co/fvM9uMRy7Q"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 353,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-mac-wechat-dual-open",
+              "start": 330,
+              "url": "https://t.co/x0FjZAEoox"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 403,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wecom-local-vault",
+              "start": 380,
+              "url": "https://t.co/RWmFUGr1wr"
+            }
+          ]
+        },
+        "text": "很多假粉丝都不知道我已经把微信生态都做成了Skill。。。\n\n1.微信数据Skill。微信聊天记录、微信联系人、微信朋友圈、微信收藏夹全部都可以被Codex直接读取，也支持增量读取，只有首次重签名具有一定风险，后续基本无风险。\nhttps://t.co/UAwFmjhw3G\n\n2微信公众号文章下载Skill。给链接，就能直接下载Markdown。（之前本来给公众号名就能批量导出上千篇的，但是作者把上游仓库关了。我现在自己维护了一个批量抓的Skill的，但是只对TradeWinds社群成员开放了）\nhttps://t.co/fvM9uMRy7Q\n\n3.微信双开Skill。有一定风险，我自己经常被弹出登录，所以现在没用了，如果有大神能优化，我举双手拥护。\nhttps://t.co/x0FjZAEoox\n\n4.企微微信数据Skill。同理微信Skill。\nhttps://t.co/RWmFUGr1wr"
+      },
+      "public_metrics": {
+        "bookmark_count": 2066,
+        "impression_count": 569173,
+        "like_count": 974,
+        "quote_count": 16,
+        "reply_count": 55,
+        "retweet_count": 175
+      },
+      "text": "很多假粉丝都不知道我已经把微信生态都做成了Skill。。。\n\n1.微信数据Skill。微信聊天记录、微信联系人、微信朋友圈、微信收藏夹全部都可以被Codex直接读取，也支持增量读取，只有首次重签名具有一定风险，后续基本无风险。\nhttps://t.co/fEwRqlcVcU",
+      "url": "https://x.com/gengdaJ/status/2097960663616471410"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2097884117069352960"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2097884422389608812",
+      "created_at": "2026-09-10T03:06:37.000Z",
+      "edit_history_tweet_ids": [
+        "2097884422389608812"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/dIrn2jdsNM",
+            "end": 102,
+            "expanded_url": "https://x.com/gengdaJ/status/2097884422389608812/photo/1",
+            "media_key": "3_2097884117069352960",
+            "start": 79,
+            "url": "https://t.co/dIrn2jdsNM"
+          }
+        ]
+      },
+      "id": "2097884422389608812",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 314,
+        "impression_count": 259780,
+        "like_count": 227,
+        "quote_count": 3,
+        "reply_count": 56,
+        "retweet_count": 12
+      },
+      "text": "我好像一不小心把剪映逆向出来了。。。\n\n这是Codex+一句提示词剪辑的口播视频草稿，直接就可以用，完全不需要再剪辑。（水平就是我之前发过的那些视频的效果） https://t.co/dIrn2jdsNM",
+      "url": "https://x.com/gengdaJ/status/2097884422389608812"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2097834028942692352",
+          "3_2097848365111451648",
+          "3_2097848398498148352",
+          "3_2097848474775740416"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2097848740484895102",
+      "created_at": "2026-09-10T00:44:50.000Z",
+      "edit_history_tweet_ids": [
+        "2097848493922722085",
+        "2097848740484895102"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 66,
+            "id": "2067675948074582016",
+            "start": 55,
+            "username": "johnternus"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/bIOme4LDHf",
+            "end": 242,
+            "expanded_url": "https://x.com/gengdaJ/status/2097848740484895102/photo/1",
+            "media_key": "3_2097834028942692352",
+            "start": 219,
+            "url": "https://t.co/bIOme4LDHf"
+          },
+          {
+            "display_url": "pic.x.com/bIOme4LDHf",
+            "end": 242,
+            "expanded_url": "https://x.com/gengdaJ/status/2097848740484895102/photo/2",
+            "media_key": "3_2097848365111451648",
+            "start": 219,
+            "url": "https://t.co/bIOme4LDHf"
+          },
+          {
+            "display_url": "pic.x.com/bIOme4LDHf",
+            "end": 242,
+            "expanded_url": "https://x.com/gengdaJ/status/2097848740484895102/photo/3",
+            "media_key": "3_2097848398498148352",
+            "start": 219,
+            "url": "https://t.co/bIOme4LDHf"
+          },
+          {
+            "display_url": "pic.x.com/bIOme4LDHf",
+            "end": 242,
+            "expanded_url": "https://x.com/gengdaJ/status/2097848740484895102/photo/4",
+            "media_key": "3_2097848474775740416",
+            "start": 219,
+            "url": "https://t.co/bIOme4LDHf"
+          },
+          {
+            "display_url": "x.com/johnternus/sta…",
+            "end": 266,
+            "expanded_url": "https://twitter.com/johnternus/status/2097753253027221817",
+            "start": 243,
+            "url": "https://t.co/bBCOhRq6YY"
+          }
+        ]
+      },
+      "id": "2097848740484895102",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "2067675948074582016",
+              "start": 55,
+              "username": "johnternus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "yichen.ai/writing/apple-…",
+              "end": 3242,
+              "expanded_url": "https://yichen.ai/writing/apple-event-2026/",
+              "start": 3219,
+              "url": "https://t.co/R8ihxZcetA"
+            }
+          ]
+        },
+        "text": "终于要摆脱华为苦海，换上iphone18了🥹但是我可能等不及折叠屏iphone Duo。。。\n\n苹果新CEO @johnternus 在昨晚，发布了全新的苹果系列产品——iPhone Duo、iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5\n\n先上价格：\niPhone 18 Pro\n- 256GB：¥9,999\n- 512GB：¥11,999\n- 1TB：¥15,499\n- 2TB：¥20,499\n\niPhone 18 Pro Max\n- 256GB：¥10,999\n- 512GB：¥12,999\n- 1TB：¥16,499\n- 2TB：¥21,499\n\niPhone Duo\n- 256GB：¥15,999\n- 512GB：¥17,999\n- 1TB：¥21,499\n- 2TB：¥26,499\n\nAirPods 5：¥999\nAirPods 5 无线充电盒版：¥1,149\n\nApple Watch Series 12：¥2,999起\nApple Watch Ultra 4：¥6,499起\n\n再上预订和发售时间（北京时间）：\niPhone 18 Pro\n  - 国行预购安排：9月12日 20:00\n  - 国行正式发售：9月18日\n\niPhone 18 Pro Max\n  - 国行预购安排：9月12日 20:00\n  - 国行正式发售：9月18日\n\niPhone Duo\n  - 国行预购安排：10月16日 20:00\n  - 国行正式发售：10月23日\n\nApple Watch Series 12\n  - 国行预购安排：9月11日 09:00\n  - 国行正式发售：9月18日\n\nApple Watch Ultra 4\n  - 国行预购安排：9月11日 09:00\n  - 国行正式发售：9月18日\n\nAirPods 5\n  - 国行预购安排：已接受预购\n  - 国行正式发售：9月18日\n\n一、折叠屏iphone Duo\n折叠屏iphone Duo的折痕处理非常精妙。用铰链控制弯折轨迹，用分层屏幕相对滑动来释放弯折产生的应力，表面微结构改变反射光分布以此减弱“视觉折痕”。\n\nDuo是 iPhone 首次支持两个 app 并排分屏；可打开同一 app 的两个窗口，也可保存 app 组合。\n\n程序坞、导航与部分控制移到屏幕侧边；灵动岛改成侧边纵向布局；状态栏使用角落环形界面；折叠、旋转或翻面时自动调整界面与当前显示屏。\n\nApple Pencil（支持USB-C接口）支持计划在 2026 年晚些时候提供，内外屏均可使用。如果买了Duo，可能真的不需要买iPad了。。。\n\n最长视频播放时间为外屏 44 小时、内屏 31 小时；内外屏平均使用为 24 小时。使用 60W 电源适配器，有线约 20 分钟充到 50%。\n\n二、iPhone 18 Pro（6.3英寸）和iPhone 18 Pro Max（6.9英寸）\n\niPhone 18 Pro这代我觉得最值得看的其实是三个东西：相机、A20 Pro芯片和续航。\n\n先说相机。我本来是想买大疆和安可的，但我觉得买了iPhone 18 Pro Max可能我就不会买前两者了。iPhone18 Pro的主摄、超广角、长焦三颗后置摄像头全部来到了4800万像素。\n\n最重磅的是主摄第一次加入了真正的可变光圈，支持四档光圈：\n- ƒ/1.48\n- ƒ/1.8\n- ƒ/2.8\n- ƒ/4.0\n光线暗的时候可以开到ƒ/1.48；拍风景、多人合照或者想让前后景都清晰时，又可以缩到ƒ/2.8甚至ƒ/4.0。\n\n相机App里也新增了更多Pro级控制，可以手动调整光圈、快门速度、白平衡，甚至直接看直方图。\n\n长焦则提供4倍原生长焦 + 8倍光学品质变焦，最高40倍数码变焦。\n\n前摄则升级到1800万像素Center Stage前置摄像头。\n\n视频方面完全能满足我之后的日常拍摄Vlog或者口播视频的需求了，最高支持：\n- 4K 120fps Dolby Vision（杜比视界）\n- ProRes和ProRes RAW\n- Apple Log 2\n- 拍完视频以后再添加电影效果\n- 4K Dolby Vision延时摄影\n\n性能方面则换上了全新的A20 Pro，这是苹果第一颗采用2nm制程的iPhone芯片：\n- 6核CPU\n- 7核GPU\n- 双16核Neural Engine（AI友好）\n- 总共32个神经网络核心\n相比A19 Pro，内存带宽提高了50%，GPU性能最高提升40%，AI处理能力也直接翻倍。\n\n而且苹果这次重新设计了散热。芯片和内存采用类似M系列芯片的新封装方式，同时把均热板的表面积扩大到了上一代的3倍，持续性能相比iPhone 17 Pro最高提升40%。\n\n配色有黑色、银色、冰川色、勃艮第酒红色，我比较喜欢冰川色和黑色吧，还在挣扎ing\n\n续航我也非常满意，应该比我的华为是强不少。。。iPhone 18 Pro正常使用最长23小时，视频播放最长34小时；iPhone 18 Pro Max正常使用最长29小时，视频播放最长43小时。\n\n配合支持AVS的60W及以上充电器，约15分钟最多可以充到50%。\n\n我真的等不到10月底的Duo了，我大概率就是直接上18 Pro Max🥹\n\n三、Apple Watch Series 12\n以前只是听大家说Apple Watch好用，但没想到现在这么好用了，为了我以为的身体健康和工作效率，我也要整一个了。。。\n\n可以说这玩意儿简直是一个“全天候健康传感器 + AI助手”。\n\nSeries 12搭载的是最新的S11芯片 + Health Sensing System健康感测系统。\n\n苹果也重新设计了光学和电极式心率传感器，现在手表可以在全天后台每5秒测一次心率。心率变异性HRV的采样频率最高也提升到了之前的24倍。\n\nSeries 12有一个很实用的实时语音回放功能Live Rewind——如果别人刚刚说了一句话你没听清，可以直接双按数码表冠，让Apple Watch把刚刚大约15秒的内容重新以文字形式呈现出来。。。妈妈再也不用担心我工作走神啦。\n\n还有Siri Recap，可以把你刚刚的一段对话自动总结成标题和重点，之后在Siri App里回顾。\n\n要不是Live Rewind和Siri Recap在中国大陆不提供，我感觉我的飞书录音豆大部分场景没用了。。。\n\n外观上这代除了铝金属和钛金属之外，陶瓷Apple Watch正式回归。有珍珠白和夜蓝两种陶瓷版本。尺寸还是42mm和46mm，屏幕最高2000尼特。正常使用续航最长24小时，低电量模式最长38小时。\n\n四、Apple Watch Ultra 4\nUltra 4同样使用新的S11芯片和Health Sensing System，所以Series 12上新的准备指数、高频心率追踪、HRV等能力它基本都有。\n\n但贵有贵的道理，Ultra真正离谱的地方还是续航。。。\n\n正常情况可以最长50小时，低电量模式最长可以使用84小时，标准户外体能训练最长18小时，延长体能训练最长25小时，最大延长体能训练模式最长45小时。\n\n而且最长45小时模式下，GPS依然可以做到每秒采样。理论上跑一个100英里越野赛，一块表就能从头记录到尾。。。\n\nUltra 4是49mm钛金属表壳，有原色钛金属黑色钛金属\n两种版本。\n\n屏幕最高亮度3000尼特，还保留精准双频GPS、100米防水、40米休闲水肺潜水相关能力等Ultra定位的功能。\n\n五、AirPods 5\n我更喜欢耳夹式耳机，不喜欢Airpods这种，所以更多苹果系列产品详情内容整理查看：https://t.co/R8ihxZcetA"
+      },
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 15539,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 63,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097753253027221817",
+          "type": "quoted"
+        }
+      ],
+      "text": "终于要摆脱华为苦海，换上iphone18了🥹但是我可能等不及折叠屏iphone Duo。。。\n\n苹果新CEO @johnternus 在昨晚，发布了全新的苹果系列产品——iPhone Duo、iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5\n\n先上价格：\niPhone 18 Pro\n- 256GB：¥9,999\n- 512GB：¥11,999\n- https://t.co/bIOme4LDHf https://t.co/bBCOhRq6YY",
+      "url": "https://x.com/gengdaJ/status/2097848740484895102"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2097834028942692352",
+          "3_2097848365111451648",
+          "3_2097848398498148352",
+          "3_2097848474775740416"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2097848493922722085",
+      "created_at": "2026-09-10T00:43:51.000Z",
+      "edit_history_tweet_ids": [
+        "2097848493922722085",
+        "2097848740484895102"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 66,
+            "id": "2067675948074582016",
+            "start": 55,
+            "username": "johnternus"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/ClKFLdyTqF",
+            "end": 242,
+            "expanded_url": "https://x.com/gengdaJ/status/2097848493922722085/photo/1",
+            "media_key": "3_2097834028942692352",
+            "start": 219,
+            "url": "https://t.co/ClKFLdyTqF"
+          },
+          {
+            "display_url": "pic.x.com/ClKFLdyTqF",
+            "end": 242,
+            "expanded_url": "https://x.com/gengdaJ/status/2097848493922722085/photo/2",
+            "media_key": "3_2097848365111451648",
+            "start": 219,
+            "url": "https://t.co/ClKFLdyTqF"
+          },
+          {
+            "display_url": "pic.x.com/ClKFLdyTqF",
+            "end": 242,
+            "expanded_url": "https://x.com/gengdaJ/status/2097848493922722085/photo/3",
+            "media_key": "3_2097848398498148352",
+            "start": 219,
+            "url": "https://t.co/ClKFLdyTqF"
+          },
+          {
+            "display_url": "pic.x.com/ClKFLdyTqF",
+            "end": 242,
+            "expanded_url": "https://x.com/gengdaJ/status/2097848493922722085/photo/4",
+            "media_key": "3_2097848474775740416",
+            "start": 219,
+            "url": "https://t.co/ClKFLdyTqF"
+          },
+          {
+            "display_url": "x.com/johnternus/sta…",
+            "end": 266,
+            "expanded_url": "https://twitter.com/johnternus/status/2097753253027221817",
+            "start": 243,
+            "url": "https://t.co/bBCOhRq6YY"
+          }
+        ]
+      },
+      "id": "2097848493922722085",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "2067675948074582016",
+              "start": 55,
+              "username": "johnternus"
+            }
+          ]
+        },
+        "text": "终于要摆脱华为苦海，换上iphone18了🥹但是我可能等不及折叠屏iphone Duo。。。\n\n苹果新CEO @johnternus 在昨晚，发布了全新的苹果系列产品——iPhone Duo、iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5\n\n先上价格：\niPhone 18 Pro\n- 256GB：¥9,999\n- 512GB：¥11,999\n- 1TB：¥15,499\n- 2TB：¥20,499\n\niPhone 18 Pro Max\n- 256GB：¥10,999\n- 512GB：¥12,999\n- 1TB：¥16,499\n- 2TB：¥21,499\n\niPhone Duo\n- 256GB：¥15,999\n- 512GB：¥17,999\n- 1TB：¥21,499\n- 2TB：¥26,499\n\nAirPods 5：¥999\nAirPods 5 无线充电盒版：¥1,149\n\nApple Watch Series 12：¥2,999起\nApple Watch Ultra 4：¥6,499起\n\n再上预订和发售时间（北京时间）：\niPhone 18 Pro\n  - 国行预购安排：9月12日 20:00\n  - 国行正式发售：9月18日\n\niPhone 18 Pro Max\n  - 国行预购安排：9月12日 20:00\n  - 国行正式发售：9月18日\n\niPhone Duo\n  - 国行预购安排：10月16日 20:00\n  - 国行正式发售：10月23日\n\nApple Watch Series 12\n  - 国行预购安排：9月11日 09:00\n  - 国行正式发售：9月18日\n\nApple Watch Ultra 4\n  - 国行预购安排：9月11日 09:00\n  - 国行正式发售：9月18日\n\nAirPods 5\n  - 国行预购安排：已接受预购\n  - 国行正式发售：9月18日\n\n一、折叠屏iphone Duo\n折叠屏iphone Duo的折痕处理非常精妙。用铰链控制弯折轨迹，用分层屏幕相对滑动来释放弯折产生的应力，表面微结构改变反射光分布以此减弱“视觉折痕”。\n\nDuo是 iPhone 首次支持两个 app 并排分屏；可打开同一 app 的两个窗口，也可保存 app 组合。\n\n程序坞、导航与部分控制移到屏幕侧边；灵动岛改成侧边纵向布局；状态栏使用角落环形界面；折叠、旋转或翻面时自动调整界面与当前显示屏。\n\nApple Pencil（支持USB-C接口）支持计划在 2026 年晚些时候提供，内外屏均可使用。如果买了Duo，可能真的不需要买iPad了。。。\n\n最长视频播放时间为外屏 44 小时、内屏 31 小时；内外屏平均使用为 24 小时。使用 60W 电源适配器，有线约 20 分钟充到 50%。\n\n二、iPhone 18 Pro（6.3英寸）和iPhone 18 Pro Max（6.9英寸）\n\niPhone 18 Pro这代我觉得最值得看的其实是三个东西：相机、A20 Pro芯片和续航。\n\n先说相机。我本来是想买大疆和安可的，但我觉得买了iPhone 18 Pro Max可能我就不会买前两者了。iPhone18 Pro的主摄、超广角、长焦三颗后置摄像头全部来到了4800万像素。\n\n最重磅的是主摄第一次加入了真正的可变光圈，支持四档光圈：\n- ƒ/1.48\n- ƒ/1.8\n- ƒ/2.8\n- ƒ/4.0\n光线暗的时候可以开到ƒ/1.48；拍风景、多人合照或者想让前后景都清晰时，又可以缩到ƒ/2.8甚至ƒ/4.0。\n\n相机App里也新增了更多Pro级控制，可以手动调整光圈、快门速度、白平衡，甚至直接看直方图。\n\n长焦则提供4倍原生长焦 + 8倍光学品质变焦，最高40倍数码变焦。\n\n前摄则升级到1800万像素Center Stage前置摄像头。\n\n视频方面完全能满足我之后的日常拍摄Vlog或者口播视频的需求了，最高支持：\n- 4K 120fps Dolby Vision（杜比视界）\n- ProRes和ProRes RAW\n- Apple Log 2\n- 拍完视频以后再添加电影效果\n- 4K Dolby Vision延时摄影\n\n性能方面则换上了全新的A20 Pro，这是苹果第一颗采用2nm制程的iPhone芯片：\n- 6核CPU\n- 7核GPU\n- 双16核Neural Engine（AI友好）\n- 总共32个神经网络核心\n相比A19 Pro，内存带宽提高了50%，GPU性能最高提升40%，AI处理能力也直接翻倍。\n\n而且苹果这次重新设计了散热。芯片和内存采用类似M系列芯片的新封装方式，同时把均热板的表面积扩大到了上一代的3倍，持续性能相比iPhone 17 Pro最高提升40%。\n\n配色有黑色、银色、冰川色、勃艮第酒红色，我比较喜欢冰川色和黑色吧，还在挣扎ing\n\n续航我也非常满意，应该比我的华为是强不少。。。iPhone 18 Pro正常使用最长23小时，视频播放最长34小时；iPhone 18 Pro Max正常使用最长29小时，视频播放最长43小时。\n\n配合支持AVS的60W及以上充电器，约15分钟最多可以充到50%。\n\n我真的等不到10月底的Duo了，我大概率就是直接上18 Pro Max🥹\n\n三、Apple Watch Series 12\n以前只是听大家说Apple Watch好用，但没想到现在这么好用了，为了我以为的身体健康和工作效率，我也要整一个了。。。\n\n可以说这玩意儿简直是一个“全天候健康传感器 + AI助手”。\n\nSeries 12搭载的是最新的S11芯片 + Health Sensing System健康感测系统。\n\n苹果也重新设计了光学和电极式心率传感器，现在手表可以在全天后台每5秒测一次心率。心率变异性HRV的采样频率最高也提升到了之前的24倍。\n\nSeries 12有一个很实用的实时语音回放功能Live Rewind——如果别人刚刚说了一句话你没听清，可以直接双按数码表冠，让Apple Watch把刚刚大约15秒的内容重新以文字形式呈现出来。。。妈妈再也不用担心我工作走神啦。\n\n还有Siri Recap，可以把你刚刚的一段对话自动总结成标题和重点，之后在Siri App里回顾。\n\n要不是Live Rewind和Siri Recap在中国大陆不提供，我感觉我的飞书录音豆大部分场景没用了。。。\n\n外观上这代除了铝金属和钛金属之外，陶瓷Apple Watch正式回归。有珍珠白和夜蓝两种陶瓷版本。尺寸还是42mm和46mm，屏幕最高2000尼特。正常使用续航最长24小时，低电量模式最长38小时。\n\n四、Apple Watch Ultra 4\nUltra 4同样使用新的S11芯片和Health Sensing System，所以Series 12上新的准备指数、高频心率追踪、HRV等能力它基本都有。\n\n但贵有贵的道理，Ultra真正离谱的地方还是续航。。。\n\n正常情况可以最长50小时，低电量模式最长可以使用84小时，标准户外体能训练最长18小时，延长体能训练最长25小时，最大延长体能训练模式最长45小时。\n\n而且最长45小时模式下，GPS依然可以做到每秒采样。理论上跑一个100英里越野赛，一块表就能从头记录到尾。。。\n\nUltra 4是49mm钛金属表壳，有原色钛金属黑色钛金属\n两种版本。\n\n屏幕最高亮度3000尼特，还保留精准双频GPS、100米防水、40米休闲水肺潜水相关能力等Ultra定位的功能。\n\n五、AirPods 5\n我更喜欢耳夹式耳机，不喜欢Airpods这种，所以更多苹果系列产品详情内容整理查看："
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 415,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097753253027221817",
+          "type": "quoted"
+        }
+      ],
+      "text": "终于要摆脱华为苦海，换上iphone18了🥹但是我可能等不及折叠屏iphone Duo。。。\n\n苹果新CEO @johnternus 在昨晚，发布了全新的苹果系列产品——iPhone Duo、iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4、AirPods 5\n\n先上价格：\niPhone 18 Pro\n- 256GB：¥9,999\n- 512GB：¥11,999\n- https://t.co/ClKFLdyTqF https://t.co/bBCOhRq6YY",
+      "url": "https://x.com/gengdaJ/status/2097848493922722085"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2097693620849856512",
+          "3_2097693647382908929",
+          "3_2097693695206445056",
+          "3_2097693714311495681"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2097696041802096779",
+      "created_at": "2026-09-09T14:38:04.000Z",
+      "edit_history_tweet_ids": [
+        "2097696041802096779"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/CvGtE4UYPM",
+            "end": 135,
+            "expanded_url": "https://x.com/gengdaJ/status/2097696041802096779/photo/1",
+            "media_key": "3_2097693620849856512",
+            "start": 112,
+            "url": "https://t.co/CvGtE4UYPM"
+          },
+          {
+            "display_url": "pic.x.com/CvGtE4UYPM",
+            "end": 135,
+            "expanded_url": "https://x.com/gengdaJ/status/2097696041802096779/photo/2",
+            "media_key": "3_2097693647382908929",
+            "start": 112,
+            "url": "https://t.co/CvGtE4UYPM"
+          },
+          {
+            "display_url": "pic.x.com/CvGtE4UYPM",
+            "end": 135,
+            "expanded_url": "https://x.com/gengdaJ/status/2097696041802096779/photo/3",
+            "media_key": "3_2097693695206445056",
+            "start": 112,
+            "url": "https://t.co/CvGtE4UYPM"
+          },
+          {
+            "display_url": "pic.x.com/CvGtE4UYPM",
+            "end": 135,
+            "expanded_url": "https://x.com/gengdaJ/status/2097696041802096779/photo/4",
+            "media_key": "3_2097693714311495681",
+            "start": 112,
+            "url": "https://t.co/CvGtE4UYPM"
+          },
+          {
+            "display_url": "x.com/higgsfield/sta…",
+            "end": 159,
+            "expanded_url": "https://twitter.com/higgsfield/status/2097421079824543776",
+            "start": 136,
+            "url": "https://t.co/5Zm17gNbX0"
+          }
+        ]
+      },
+      "id": "2097696041802096779",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "GPT Image2.5震撼来袭，生成速度快一倍，SOTA生图模型！质量和可掌控性都大幅上升。。。\n\n分享一下我实测出来的两种功能玩法+六种提示词玩法，看完你就能对GPT Image2.5的升级了然于胸！\n\n1.用新增的@ sketch功能，先定草图，再生成最终图片：我画了张舞台歌手的图，台上是歌手，台下是他的粉丝，我都觉得都草率了，没想到GPT Image2.5最后生成的效果惊人！\n\n2.使用GPT Image2.5内置模板（Templates），引导式作图：我用Logo模板重新制作了我的内容创作助手Ailu的logo，GPT会引导我回答品牌名字、特点、偏好logo方向。"
+      },
+      "public_metrics": {
+        "bookmark_count": 50,
+        "impression_count": 66883,
+        "like_count": 36,
+        "quote_count": 10,
+        "reply_count": 23,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097421079824543776",
+          "type": "quoted"
+        }
+      ],
+      "text": "GPT Image2.5震撼来袭，生成速度快一倍，SOTA生图模型！质量和可掌控性都大幅上升。。。\n\n分享一下我实测出来的两种功能玩法+六种提示词玩法，看完你就能对GPT Image2.5的升级了然于胸！\n\n1.用新增的@ https://t.co/CvGtE4UYPM https://t.co/5Zm17gNbX0",
+      "url": "https://x.com/gengdaJ/status/2097696041802096779"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2102409580529819648",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2101933346943336448",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2101945357857136640",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2101946031000969216",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2101878143967727616",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2101878249248956416",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2101878376168607745",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2101878546839019520",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2101142742978191360",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100771114482036736",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100771492187541504",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100772065364324352",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100745690318258177",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100745690309902336",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2100745690322493440",
+        "type": "video"
+      },
+      {
+        "media_key": "13_2100745690326679552",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2100507682893643776",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100508135865921536",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100362232253251584",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100362264012640256",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100362301224435712",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100362336506982400",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2100028029577879552",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2099657169906057216",
+        "type": "video"
+      },
+      {
+        "media_key": "13_2099657169901875200",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2099367786497908736",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2099304105672048640",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2099304160189730816",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2099304187104473088",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2099304213507633152",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2098291333731667968",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2098291820275093505",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2098251161845596160",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2097884117069352960",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2097834028942692352",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2097848365111451648",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2097848398498148352",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2097848474775740416",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2097693620849856512",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2097693647382908929",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2097693695206445056",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2097693714311495681",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2101933346943336448",
+            "3_2101945357857136640",
+            "3_2101946031000969216"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2101947356438765651",
+        "created_at": "2026-09-21T08:11:16.000Z",
+        "edit_history_tweet_ids": [
+          "2101947356438765651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUYEaeA8tV",
+              "end": 202,
+              "expanded_url": "https://x.com/gengdaJ/status/2101947356438765651/photo/1",
+              "media_key": "3_2101933346943336448",
+              "start": 179,
+              "url": "https://t.co/tUYEaeA8tV"
+            },
+            {
+              "display_url": "pic.x.com/tUYEaeA8tV",
+              "end": 202,
+              "expanded_url": "https://x.com/gengdaJ/status/2101947356438765651/photo/2",
+              "media_key": "3_2101945357857136640",
+              "start": 179,
+              "url": "https://t.co/tUYEaeA8tV"
+            },
+            {
+              "display_url": "pic.x.com/tUYEaeA8tV",
+              "end": 202,
+              "expanded_url": "https://x.com/gengdaJ/status/2101947356438765651/photo/3",
+              "media_key": "3_2101946031000969216",
+              "start": 179,
+              "url": "https://t.co/tUYEaeA8tV"
+            }
+          ]
+        },
+        "id": "2101947356438765651",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "太不容易了，终于吃上细糠，把用了三年的华为换成了iPhone 18 Pro Max。\n\n做的第一件事就是用之前免费注册的美区Apple ID登录Apple Store\n\n然后在支付宝买了25$的礼品卡，买了Shadowrocket。\n\n再让Codex使用iPhone镜像（不用连接任何数据线，比华为香太多了），把DMIT的节点导入Shadowrocket。\n\n接着就是让Codex连接上华为，把所有App分类，然后让Codex通过镜像批量在App Store下载应用到iPhone。\n\n接下来，就是购买一个美国手机号，买一张转换卡，然后用这个手机号注册新的Gmail，再申请一个新的Apple ID，最后用StarryBlu试着订阅一下Claude。\n\n之后可能也会出很多iPhone小白使用教程（大佬勿看），也会把之前的App，跨框架开发适配一下iPhone，继续在小红书开卖！"
+        },
+        "public_metrics": {
+          "bookmark_count": 1525,
+          "impression_count": 554767,
+          "like_count": 1627,
+          "quote_count": 4,
+          "reply_count": 374,
+          "retweet_count": 177
+        },
+        "text": "太不容易了，终于吃上细糠，把用了三年的华为换成了iPhone 18 Pro Max。\n\n做的第一件事就是用之前免费注册的美区Apple ID登录Apple Store\n\n然后在支付宝买了25$的礼品卡，买了Shadowrocket。\n\n再让Codex使用iPhone镜像（不用连接任何数据线，比华为香太多了），把DMIT的节点导入Shadowrocket。 https://t.co/tUYEaeA8tV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2075836088669868032",
+            "3_2075836127014178816",
+            "3_2075836691340984320"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2075836913387548770",
+        "created_at": "2026-07-11T06:57:41.000Z",
+        "edit_history_tweet_ids": [
+          "2075836913387548770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Spr2cE31Fs",
+              "end": 133,
+              "expanded_url": "https://x.com/gengdaJ/status/2075836913387548770/photo/1",
+              "media_key": "3_2075836088669868032",
+              "start": 110,
+              "url": "https://t.co/Spr2cE31Fs"
+            },
+            {
+              "display_url": "pic.x.com/Spr2cE31Fs",
+              "end": 133,
+              "expanded_url": "https://x.com/gengdaJ/status/2075836913387548770/photo/2",
+              "media_key": "3_2075836127014178816",
+              "start": 110,
+              "url": "https://t.co/Spr2cE31Fs"
+            },
+            {
+              "display_url": "pic.x.com/Spr2cE31Fs",
+              "end": 133,
+              "expanded_url": "https://x.com/gengdaJ/status/2075836913387548770/photo/3",
+              "media_key": "3_2075836691340984320",
+              "start": 110,
+              "url": "https://t.co/Spr2cE31Fs"
+            }
+          ]
+        },
+        "id": "2075836913387548770",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "Codex的插件生态来到前所未有的恐怖阶段，已经有数百个了，看得真是眼花缭乱。\n\n那到底什么才是最适合自己的？或者说哪一些插件可能对自己有用？\n\n很简单，把这一段提示词发给Codex，让它自己找，然后等你确认过后安装：\n\n查找一下Codex所有可以安装的插件，总共有多少个，分哪几类，以你对我的了解，你觉得哪些对我有用，推荐我安装哪些？等我确认后再安装。"
+        },
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 79954,
+          "like_count": 169,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 23
+        },
+        "text": "Codex的插件生态来到前所未有的恐怖阶段，已经有数百个了，看得真是眼花缭乱。\n\n那到底什么才是最适合自己的？或者说哪一些插件可能对自己有用？\n\n很简单，把这一段提示词发给Codex，让它自己找，然后等你确认过后安装： https://t.co/Spr2cE31Fs"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100745690318258177",
+            "3_2100745690309902336",
+            "13_2100745690322493440",
+            "13_2100745690326679552"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2100748639228367257",
+        "created_at": "2026-09-18T00:48:00.000Z",
+        "edit_history_tweet_ids": [
+          "2100748639228367257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/jianyi…",
+              "end": 56,
+              "expanded_url": "https://github.com/mcncarl/jianying-headless",
+              "start": 33,
+              "status": 404,
+              "unwound_url": "https://github.com/mcncarl/jianying-headless",
+              "url": "https://t.co/sP6RI9YzSB"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 91,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+              "start": 68,
+              "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+              "url": "https://t.co/fkxIuRxf67"
+            },
+            {
+              "display_url": "pic.x.com/MOzvZOgNvy",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/1",
+              "media_key": "3_2100745690318258177",
+              "start": 176,
+              "url": "https://t.co/MOzvZOgNvy"
+            },
+            {
+              "display_url": "pic.x.com/MOzvZOgNvy",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/photo/2",
+              "media_key": "3_2100745690309902336",
+              "start": 176,
+              "url": "https://t.co/MOzvZOgNvy"
+            },
+            {
+              "display_url": "pic.x.com/MOzvZOgNvy",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/3",
+              "media_key": "13_2100745690322493440",
+              "start": 176,
+              "url": "https://t.co/MOzvZOgNvy"
+            },
+            {
+              "display_url": "pic.x.com/MOzvZOgNvy",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/4",
+              "media_key": "13_2100745690326679552",
+              "start": 176,
+              "url": "https://t.co/MOzvZOgNvy"
+            },
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 223,
+              "expanded_url": "https://twitter.com/gengdaJ/status/2097884422389608812",
+              "start": 200,
+              "url": "https://t.co/oDu0NDLx50"
+            }
+          ]
+        },
+        "id": "2100748639228367257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/mcncarl/jianyi…",
+                "end": 56,
+                "expanded_url": "https://github.com/mcncarl/jianying-headless",
+                "start": 33,
+                "url": "https://t.co/CGXDq1tcIh"
+              },
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 91,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+                "start": 68,
+                "url": "https://t.co/QQ5XDF75mw"
+              },
+              {
+                "display_url": "workbuddy.ai/invite?code=XL…",
+                "end": 359,
+                "expanded_url": "https://workbuddy.ai/invite?code=XLTDTF47",
+                "start": 336,
+                "url": "https://t.co/DhhbXesth0"
+              },
+              {
+                "display_url": "volcengine.com/product/asr",
+                "end": 412,
+                "expanded_url": "https://www.volcengine.com/product/asr",
+                "start": 389,
+                "url": "https://t.co/VlZSRt7Ak6"
+              }
+            ]
+          },
+          "text": "把我珍藏已久的好东西分享给家人们，剪映11.4.2开源！！！🥳🥳🥳https://t.co/CGXDq1tcIh\n\n配套神级Skill：https://t.co/QQ5XDF75mw\n\n只需要简单提示词，口播类视频，全程托管给Codex，不需要任何人类操作。\n\n即使略微失误，由于调用豆包ASR，片段被切割到毫秒级别，导入剪映草稿也可以人工丝滑调整😋\n\n放一个原本8分钟，剪辑后3分钟，完全由Codex+yichen-jianying-edit Skill自动剪辑完成的，前后视频对照，以及提示词截图👇\n\n整个剪辑流程可能需要花费的地方：\n1.Codex Token费用，可以用别的便宜模型平替，比如Workbuddy免费的hy3和DeepSeek-V4.1-Flash。https://t.co/DhhbXesth0\n2.豆包ASR，一小时八毛钱，说实话，不能再便宜了。。。\nhttps://t.co/VlZSRt7Ak6"
+        },
+        "public_metrics": {
+          "bookmark_count": 7370,
+          "impression_count": 1420380,
+          "like_count": 3947,
+          "quote_count": 68,
+          "reply_count": 237,
+          "retweet_count": 665
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097884422389608812",
+            "type": "quoted"
+          }
+        ],
+        "text": "把我珍藏已久的好东西分享给家人们，剪映11.4.2开源！！！🥳🥳🥳https://t.co/sP6RI9YzSB\n\n配套神级Skill：https://t.co/fkxIuRxf67\n\n只需要简单提示词，口播类视频，全程托管给Codex，不需要任何人类操作。\n\n即使略微失误，由于调用豆包ASR，片段被切割到毫秒级别，导入剪映草稿也可以人工丝滑调整😋 https://t.co/MOzvZOgNvy https://t.co/oDu0NDLx50"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097884117069352960"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2097884422389608812",
+        "created_at": "2026-09-10T03:06:37.000Z",
+        "edit_history_tweet_ids": [
+          "2097884422389608812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIrn2jdsNM",
+              "end": 102,
+              "expanded_url": "https://x.com/gengdaJ/status/2097884422389608812/photo/1",
+              "media_key": "3_2097884117069352960",
+              "start": 79,
+              "url": "https://t.co/dIrn2jdsNM"
+            }
+          ]
+        },
+        "id": "2097884422389608812",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 259780,
+          "like_count": 227,
+          "quote_count": 3,
+          "reply_count": 56,
+          "retweet_count": 12
+        },
+        "text": "我好像一不小心把剪映逆向出来了。。。\n\n这是Codex+一句提示词剪辑的口播视频草稿，直接就可以用，完全不需要再剪辑。（水平就是我之前发过的那些视频的效果） https://t.co/dIrn2jdsNM"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097196106690265088",
+            "3_2097196143486869504"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2097203662930202997",
+        "created_at": "2026-09-08T06:01:32.000Z",
+        "edit_history_tweet_ids": [
+          "2097203662930202997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQJ2LX1KlO",
+              "end": 173,
+              "expanded_url": "https://x.com/gengdaJ/status/2097203662930202997/photo/1",
+              "media_key": "3_2097196106690265088",
+              "start": 150,
+              "url": "https://t.co/tQJ2LX1KlO"
+            },
+            {
+              "display_url": "pic.x.com/tQJ2LX1KlO",
+              "end": 173,
+              "expanded_url": "https://x.com/gengdaJ/status/2097203662930202997/photo/2",
+              "media_key": "3_2097196143486869504",
+              "start": 150,
+              "url": "https://t.co/tQJ2LX1KlO"
+            }
+          ]
+        },
+        "id": "2097203662930202997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 405,
+                "id": "1881991469730594816",
+                "start": 396,
+                "username": "gkxspace"
+              },
+              {
+                "end": 460,
+                "id": "1881991469730594816",
+                "start": 451,
+                "username": "gkxspace"
+              },
+              {
+                "end": 566,
+                "id": "1792608085409939456",
+                "start": 551,
+                "username": "Astronaut_1216"
+              },
+              {
+                "end": 595,
+                "id": "1936480895692869633",
+                "start": 585,
+                "username": "Leobai825"
+              },
+              {
+                "end": 630,
+                "id": "1483321720979468288",
+                "start": 616,
+                "username": "harrisonitsme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bcn5ot9wwnew.feishu.cn/share/base/for…",
+                "end": 1244,
+                "expanded_url": "https://bcn5ot9wwnew.feishu.cn/share/base/form/shrcngJWHdn2SLcxwK6LhioLtuc",
+                "start": 1221,
+                "url": "https://t.co/yLYj7YRVLt"
+              },
+              {
+                "display_url": "yichen.ai/products/trade…",
+                "end": 1282,
+                "expanded_url": "https://yichen.ai/products/tradewinds/",
+                "start": 1259,
+                "url": "https://t.co/KU1BmX0vLA"
+              }
+            ]
+          },
+          "text": "我开了一个付费社群，Tradewinds，和同行者一起追逐星辰大海。\n\n过去7个月，我创作了500篇推文和13篇长文章，涨了5万Followers。\n开源了20个Skill、Agent记忆系统、Ailu创作助手。\n内容横跨AI、自媒体、产品、商业变现、网络、创作、法律科技、跨境支付、个人成长...\n帮助我的很多Followers都取得了很不错的商业结果。\n\n凭借在X疯狂Learn in public和Build in public，不仅收入有了重大突破，\n还有幸线下拜访了AI界真神卡兹克，和金融、医美、软件、教育的大佬们结识，不断遇贵人。\n\n成长到现在，我之所以能小有成就，\n诚然，一定有努力和前期沉淀的因素，\n但更重要的是我进入了一个好的环境，\n在不断地接触更多比我优秀的同龄人和前辈中，\n能够获得更广阔的见识、更稀缺的资源、去创业学习的动力。\n回看我遇到人生第一个贵人——余温，温总@gkxspace的这段聊天记录，热泪盈眶。\n\n我每次想躺平的时候，但是身边的这群00后大佬总是鞭策我前进：\n@gkxspace 05年，年入百万，超级AI个体\nVesta（不在X） 06年，不良资产全球头部，团队年创收过亿\nSidrel（小红书博主），01年，融资百万，默造（静音口罩）创始人，微博热搜第一\n@Astronaut_1216 01年，月入5万，抖音万粉创业博主\n@Leobai825 03，月创收百万，X和抖音万粉创业博主\n@harrisonitsme 06，超级AI链接者，熟练接洽B端和G端业务\n\n之前自己做项目的时候，越往前走，\n很多朋友渐行渐远，自己也时常形单影只，\n甚至很多时候都不知道把AI和创业的兴奋和谁分享，\n但是所幸，我能在前行路上遇到现在这群伙伴，同行的力量超乎我的想象！\n\n所以，我创建了TradeWinds，不限年龄，不限背景。\n出海全球化、影响力互助、自由随性，是TradeWinds的核心。\n一方面是事业，大家都要做大做强，目光放眼全球；\n用影响力互相赋能，自媒体和产品有机结合。\n一方面是生活，工作之余，也可以线下组局、娱乐，\n去任何地方做任何想尝试的事情，成为知心好友。\n\n至于TradeWinds要交付什么，说实话，\n我没想好，这个问题要用很长时间去回答。\n我能承诺的是TradeWinds也会长期作为我的小圈子，\n我会把我珍藏和未来学会的“具”、“术”和“道”我会向所有社群成员开放。\n\n所以TradeWinds是永久的，价格999元（会持续涨价），\n但是鉴于我和我的微信承接能力有限，首期只开放50个名额，\n同时用飞书问卷填写相关信息，我会在接下来几天逐个邀请愿意加入的朋友。\n\n此外，如果是首次刷到本条推文的朋友，我是不会同意你加入TradeWinds的。\n如果你自己没有任何的事业和项目基本盘，我也非常不建议你立刻加入。\n我希望你是基于我的内容，已经帮你学到了知识、拿到了结果的前提下加入：\nhttps://t.co/yLYj7YRVLt\n\n了解更多关于我和我的社群：https://t.co/KU1BmX0vLA"
+        },
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 121910,
+          "like_count": 70,
+          "quote_count": 3,
+          "reply_count": 78,
+          "retweet_count": 3
+        },
+        "text": "我开了一个付费社群，Tradewinds，和同行者一起追逐星辰大海。\n\n过去7个月，我创作了500篇推文和13篇长文章，涨了5万Followers。\n开源了20个Skill、Agent记忆系统、Ailu创作助手。\n内容横跨AI、自媒体、产品、商业变现、网络、创作、法律科技、跨境支付、个人成长... https://t.co/tQJ2LX1KlO"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100166610153852928"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "conversation_id": "2100170834077708428",
+        "created_at": "2026-09-16T10:32:00.000Z",
+        "edit_history_tweet_ids": [
+          "2100170834077708428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmGmrSbOZu",
+              "end": 173,
+              "expanded_url": "https://x.com/gkxspace/status/2100170834077708428/photo/1",
+              "media_key": "3_2100166610153852928",
+              "start": 150,
+              "url": "https://t.co/dmGmrSbOZu"
+            },
+            {
+              "display_url": "x.com/gkxspace/statu…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/gkxspace/status/2097989784379785419",
+              "start": 174,
+              "url": "https://t.co/MUeWUlCv98"
+            }
+          ]
+        },
+        "id": "2100170834077708428",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "把 微信 接入 Codex 后真是太爽了啊，要是早这么搞，得多赚多少钱啊😭\n\n我直接让 Codex 读各种私聊、群聊、朋友圈，批量读取本后给我结果，根本不用我苦逼的翻了🥺\n\n我微信光置顶就两百个，每次翻看信息都是一种折磨。\n\n还有一堆没时间看的高质量群，朋友圈更是没看过，不知道为此错过多少机会了。\n\n全都扔给 AI 之后，极大提高了我的效率，谁用谁爽啊！！！"
+        },
+        "public_metrics": {
+          "bookmark_count": 1737,
+          "impression_count": 618853,
+          "like_count": 1333,
+          "quote_count": 17,
+          "reply_count": 199,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097989784379785419",
+            "type": "quoted"
+          }
+        ],
+        "text": "把 微信 接入 Codex 后真是太爽了啊，要是早这么搞，得多赚多少钱啊😭\n\n我直接让 Codex 读各种私聊、群聊、朋友圈，批量读取本后给我结果，根本不用我苦逼的翻了🥺\n\n我微信光置顶就两百个，每次翻看信息都是一种折磨。\n\n还有一堆没时间看的高质量群，朋友圈更是没看过，不知道为此错过多少机会了。 https://t.co/dmGmrSbOZu https://t.co/MUeWUlCv98"
+      },
+      {
+        "author_id": "23191588",
+        "conversation_id": "2099965140233847246",
+        "created_at": "2026-09-15T20:54:39.000Z",
+        "edit_history_tweet_ids": [
+          "2099965140233847246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Open-source maintainers can apply to Codex for Open Source, including ChatGPT Pro, AI-powered code review, and security tools for critical projects.",
+              "display_url": "openai.com/form/codex-for…",
+              "end": 273,
+              "expanded_url": "https://openai.com/form/codex-for-oss/",
+              "start": 250,
+              "status": 200,
+              "title": "Codex for Open Source",
+              "unwound_url": "https://openai.com/form/codex-for-oss/",
+              "url": "https://t.co/PiUy7vNFZo"
+            }
+          ]
+        },
+        "id": "2099965140233847246",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1477,
+          "impression_count": 932406,
+          "like_count": 2574,
+          "quote_count": 120,
+          "reply_count": 200,
+          "retweet_count": 176
+        },
+        "text": "We started Codex for OSS six months ago.\n\nToday, we’re renewing the program with $100 Pro plans and doubling the number of grants (from 5,000 to 10,000) to reach more maintainers.\n\n(If you received a grant previously, we encourage you to re-apply!)\n\nhttps://t.co/PiUy7vNFZo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2099657169906057216",
+            "13_2099657169901875200"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2099657261488787639",
+        "created_at": "2026-09-15T00:31:15.000Z",
+        "edit_history_tweet_ids": [
+          "2099657261488787639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "464K likes, 438 comments - createwithalena on August 26, 2026: \"Which ones is the most helpful for you?\".",
+              "display_url": "instagram.com/p/Dcggcv6xgAn/",
+              "end": 133,
+              "expanded_url": "https://www.instagram.com/p/Dcggcv6xgAn/",
+              "start": 110,
+              "status": 200,
+              "title": "Alena | Freelance Graphic + Brand Designer 🇰🇷🇨🇦 (@createwithalena) • Instagram reel",
+              "unwound_url": "https://www.instagram.com/reel/Dcggcv6xgAn/",
+              "url": "https://t.co/ito6qK5DDk"
+            },
+            {
+              "display_url": "instagram.com/reels/DasLm6op…",
+              "end": 157,
+              "expanded_url": "https://www.instagram.com/reels/DasLm6opzIO/",
+              "start": 134,
+              "status": 200,
+              "unwound_url": "https://www.instagram.com/reel/DasLm6opzIO/",
+              "url": "https://t.co/Z96tKOGCcR"
+            },
+            {
+              "display_url": "pic.x.com/KVV1VLQcIH",
+              "end": 203,
+              "expanded_url": "https://x.com/gengdaJ/status/2099657261488787639/video/1",
+              "media_key": "13_2099657169906057216",
+              "start": 180,
+              "url": "https://t.co/KVV1VLQcIH"
+            },
+            {
+              "display_url": "pic.x.com/KVV1VLQcIH",
+              "end": 203,
+              "expanded_url": "https://x.com/gengdaJ/status/2099657261488787639/video/2",
+              "media_key": "13_2099657169901875200",
+              "start": 180,
+              "url": "https://t.co/KVV1VLQcIH"
+            }
+          ]
+        },
+        "id": "2099657261488787639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/Dcggcv6xgAn/",
+                "end": 133,
+                "expanded_url": "https://www.instagram.com/p/Dcggcv6xgAn/",
+                "start": 110,
+                "url": "https://t.co/JeoVRd7mZv"
+              },
+              {
+                "display_url": "instagram.com/reels/DasLm6op…",
+                "end": 157,
+                "expanded_url": "https://www.instagram.com/reels/DasLm6opzIO/",
+                "start": 134,
+                "url": "https://t.co/ikp9dQlJbK"
+              },
+              {
+                "display_url": "github.com/hypit-ai/hypit",
+                "end": 749,
+                "expanded_url": "https://github.com/hypit-ai/hypit",
+                "start": 726,
+                "url": "https://t.co/tjkBYpRjnP"
+              }
+            ]
+          },
+          "text": "卧槽！Hypit太特喵变态了！\n接入你的Codex，就能复刻任意爆款视频！\n是真的任意，真的复刻！\n\n我用Codex 复刻了两个Instagram爆款视频，简直有九分相似！（还有一个放评论区了）\n不信的话请查看原视频：\nhttps://t.co/JeoVRd7mZv\nhttps://t.co/ikp9dQlJbK\n\n制作难度嘛，很简单，四个步骤轻松搞定✋：\n1. 找到爆款视频\n2.把链接地址发给Codex，安装Hypit Skill，让Codex“/hypit，帮我复刻这个爆款视频”\n3.零花费生成占位素材，如果有误差，让Codex继续调整字幕，保证准确性\n4.调用真实API生成所有素材和最终视频，不满意的地方可以继续用Codex调整\n\n🔑因为是完全开源的，所以所有的 API 都可以自己任意接入。\n我在不同环节使用的一些 API 供大家参考：\n1、理解需求、编排工程：Codex\n2、分析参考视频：Gemini 3.1 Pro\n3、生成人物及主要图片：GPT Image 2\n4、生成部分界面与卡片：Nano Banana Pro\n5、生成部分补充图片：Nano Banana 2\n6、补齐界面与网页图片：Seedream 图生图\n7、设计统一声音参考：MiMo V2.5 VoiceDesign\n8、生成人物讲话视频：Seedance 2 Mini\n9、生成产品及操作短片：Seedance 2 Mini\n10、识别口播、对齐字幕：WhisperX\n11、绘制字幕、纸条和排版：本地代码组件\n12、合成、导出视频：HyperFrames + FFmpeg\n\nHypit开源地址在此，视频界的狂欢要来了！大家快去给这个神级仓库点个star吧：https://t.co/tjkBYpRjnP\n\n我也做了一个Codex+Hypit的演示教程，大家可以跟着我一起实操下，看下这套开源的语言和框架有多顶级🫡"
+        },
+        "public_metrics": {
+          "bookmark_count": 1594,
+          "impression_count": 153709,
+          "like_count": 1063,
+          "quote_count": 13,
+          "reply_count": 118,
+          "retweet_count": 181
+        },
+        "text": "卧槽！Hypit太特喵变态了！\n接入你的Codex，就能复刻任意爆款视频！\n是真的任意，真的复刻！\n\n我用Codex 复刻了两个Instagram爆款视频，简直有九分相似！（还有一个放评论区了）\n不信的话请查看原视频：\nhttps://t.co/ito6qK5DDk\nhttps://t.co/Z96tKOGCcR\n\n制作难度嘛，很简单，四个步骤轻松搞定✋： https://t.co/KVV1VLQcIH"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2096074320619700224",
+            "3_2096074396406607872"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2096078342332227939",
+        "created_at": "2026-09-05T03:29:54.000Z",
+        "edit_history_tweet_ids": [
+          "2096074661746692301",
+          "2096078342332227939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Vn1ehL15b",
+              "end": 164,
+              "expanded_url": "https://x.com/gengdaJ/status/2096078342332227939/photo/1",
+              "media_key": "3_2096074320619700224",
+              "start": 141,
+              "url": "https://t.co/4Vn1ehL15b"
+            },
+            {
+              "display_url": "pic.x.com/4Vn1ehL15b",
+              "end": 164,
+              "expanded_url": "https://x.com/gengdaJ/status/2096078342332227939/photo/2",
+              "media_key": "3_2096074396406607872",
+              "start": 141,
+              "url": "https://t.co/4Vn1ehL15b"
+            }
+          ]
+        },
+        "id": "2096078342332227939",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "如果你刚用上GPT6-Astra，并且长时间没有整理过Agent.md和Skill文件了，一定要新开一个对话，试一下这个提示词：\n\n审阅我的 AGENTS.md 文件和Skill，寻找不清晰的、冲突的或重叠的指令，这些指令可能会让你不必要地停止、要求多余的确认，或者让工作不完整。  特别注意关于自主性、澄清、批准和任务完成的规则。将有意设置的保障措施与那些意外地让常规工作需要确认的措辞区分开来。  对于每个问题，引用相关的指令，识别文件，解释它们如何可能影响你的行为，并提出具体的编辑建议。  保留明确的批准要求，并指出任何提议的变更会扩展你的权限。优先考虑那些会带来最大实际差异的变更。在更改任何文件之前，提出供审阅的编辑建议。\n\nAstra真的太猛了，一口气帮我找到了12个关于AGENTS.md和Skill冲突点"
+        },
+        "public_metrics": {
+          "bookmark_count": 1720,
+          "impression_count": 210053,
+          "like_count": 1252,
+          "quote_count": 13,
+          "reply_count": 61,
+          "retweet_count": 159
+        },
+        "text": "如果你刚用上GPT6-Astra，并且长时间没有整理过Agent.md和Skill文件了，一定要新开一个对话，试一下这个提示词：\n\n审阅我的 AGENTS.md 文件和Skill，寻找不清晰的、冲突的或重叠的指令，这些指令可能会让你不必要地停止、要求多余的确认，或者让工作不完整。 https://t.co/4Vn1ehL15b"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2098251161845596160"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2098252168625332263",
+        "created_at": "2026-09-11T03:27:55.000Z",
+        "edit_history_tweet_ids": [
+          "2098252168625332263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuMGAQDvFB",
+              "end": 145,
+              "expanded_url": "https://x.com/gengdaJ/status/2098252168625332263/video/1",
+              "media_key": "13_2098251161845596160",
+              "start": 122,
+              "url": "https://t.co/WuMGAQDvFB"
+            }
+          ]
+        },
+        "id": "2098252168625332263",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "所有做出海产品的朋友一定要收藏这个宝藏工具——AIsa，等你做GTM（Go-to-market）的时候，能给你省一大笔钱！\n\n我真的后悔我没有早一点遇到AIsa，因为恰好我人生的第一个项目就是出海产品，但是我做了三个月之后决定放弃，两个原因：\n1.做出海产品不仅是写代码，更重要的是GTM——SEO、数据分析、找KOL推广、社媒获客......推广>产品是我一直坚信的理念。\n2.人工做GTM太慢、效率太低，但是好的GTM工具太贵、买不起。比如SimilarWeb，起步价就是199$一个月，给了当时小小的我一记重锤！\n\n但是AIsa对出海个人开发者真的很友好，一个Key，就包含了官方正版的SimilarWeb、Ahrefs、Semrush等常用SEO工具的API调用。做GEO的话，AIsa也提供Oxylabs（采集AI引擎品牌可见度和引用来源的工具）。\n\n而且用AIsa的好处是不用逐个点开各大SEO、GEO网站查看，直接支持Skill调用，接入Codex或者Claude Code，拿来研究网站流量、受众、域名外链、keywords、竞品，真的不要太爽！\n\n获取社区好评和差评是迭代产品很重要的环节之一。而AIsa把社媒数据一网打尽：YouTube、Instagram、X、Reddit、Pinterest的用户讨论，还能通过DataForSEO 获取 Trustpilot、Apple App Store 和 Google Play 用户的真实评价。好评可以借鉴学习，差评是做出自家产品差异点的关键。\n\n产品规模做大了之后，如果想要通过KOL来推广，AIsa也提供WaveInflu接口，来根据品牌调性找到合适的KOL来进行推广。但是切记，投KOL要做好九死一生的准备，前期需要砸很多钱试错！\n\n我给大家演示一下AIsa的上手流程，就拿现在如日中天的AIGC视频生成网站（全球前五）进行分析，结合AIsa提供的数据，用Codex生成HTML研究一下五大网站的GTM报告——流量与搜索获客分析、社区评价分析。\n\n评论区附提示词👇"
+        },
+        "public_metrics": {
+          "bookmark_count": 548,
+          "impression_count": 120720,
+          "like_count": 308,
+          "quote_count": 4,
+          "reply_count": 33,
+          "retweet_count": 36
+        },
+        "text": "所有做出海产品的朋友一定要收藏这个宝藏工具——AIsa，等你做GTM（Go-to-market）的时候，能给你省一大笔钱！\n\n我真的后悔我没有早一点遇到AIsa，因为恰好我人生的第一个项目就是出海产品，但是我做了三个月之后决定放弃，两个原因： https://t.co/WuMGAQDvFB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2097752152336969728"
+          ]
+        },
+        "author_id": "2067675948074582016",
+        "conversation_id": "2097753253027221817",
+        "created_at": "2026-09-09T18:25:24.000Z",
+        "edit_history_tweet_ids": [
+          "2097753253027221817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWj3GjDSmk",
+              "end": 137,
+              "expanded_url": "https://x.com/johnternus/status/2097753253027221817/video/1",
+              "media_key": "13_2097752152336969728",
+              "start": 114,
+              "url": "https://t.co/TWj3GjDSmk"
+            }
+          ]
+        },
+        "id": "2097753253027221817",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 18344,
+          "impression_count": 16632361,
+          "like_count": 179629,
+          "quote_count": 2648,
+          "reply_count": 5026,
+          "retweet_count": 20010
+        },
+        "text": "iPhone Duo\niPhone 18 Pro and iPhone 18 Pro Max\nApple Watch Series 12 and Apple Watch Ultra 4\nAirPods 5\n\n… and Joz https://t.co/TWj3GjDSmk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2097419660971147264"
+          ]
+        },
+        "author_id": "1895453094361890816",
+        "conversation_id": "2097421079824543776",
+        "created_at": "2026-09-08T20:25:28.000Z",
+        "edit_history_tweet_ids": [
+          "2097421079824543776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePnY35AqfR",
+              "end": 231,
+              "expanded_url": "https://x.com/higgsfield/status/2097421079824543776/video/1",
+              "media_key": "13_2097419660971147264",
+              "start": 208,
+              "url": "https://t.co/ePnY35AqfR"
+            }
+          ]
+        },
+        "id": "2097421079824543776",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 514939,
+          "like_count": 861,
+          "quote_count": 51,
+          "reply_count": 44,
+          "retweet_count": 84
+        },
+        "text": "GPT-Image 2.5 Sunburst &amp; Flare are live on Higgsfield 🧩\n\nOpenAI's SOTA image model, now with flawless text rendering, advanced context understanding and shaper product detailing.\n\nNow live on Higgsfield. https://t.co/ePnY35AqfR"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2102409589782397142",
+    "next_token": "b26v89c19zqg8o3juezidtna8z0i3rff6hg05qvoeq4cd",
+    "oldest_id": "2097696041802096779",
+    "result_count": 23
+  }
+}

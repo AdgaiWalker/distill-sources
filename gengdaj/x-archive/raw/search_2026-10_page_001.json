@@ -1,0 +1,3478 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2116397558545453168",
+      "created_at": "2026-10-31T08:23:47.000Z",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2116446020817306052"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 23,
+            "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550?a=qzoCfAX2HnjRjkFHd7M&s=20",
+            "start": 0,
+            "url": "https://t.co/UTNjaHyh8Q"
+          }
+        ]
+      },
+      "id": "2116446020817306052",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 6027,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115025631167795550",
+          "type": "quoted"
+        },
+        {
+          "id": "2116397558545453168",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "https://t.co/UTNjaHyh8Q",
+      "url": "https://x.com/gengdaJ/status/2116446020817306052"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2116397558545453168",
+      "created_at": "2026-10-31T05:54:44.000Z",
+      "display_text_range": [
+        26,
+        30
+      ],
+      "edit_history_tweet_ids": [
+        "2116408511655731307"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1519492491120189440",
+            "start": 0,
+            "username": "superKracy"
+          },
+          {
+            "end": 25,
+            "id": "1783786448556331008",
+            "start": 12,
+            "username": "ryuu_restart"
+          }
+        ]
+      },
+      "id": "2116408511655731307",
+      "in_reply_to_user_id": "1519492491120189440",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3124,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116408290758521016",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@superKracy @ryuu_restart 中国护照",
+      "url": "https://x.com/gengdaJ/status/2116408511655731307"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116395612350640128",
+          "3_2116395626107895808",
+          "3_2116397427527999488"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2116397558545453168",
+      "created_at": "2026-10-31T05:11:13.000Z",
+      "display_text_range": [
+        0,
+        154
+      ],
+      "edit_history_tweet_ids": [
+        "2116397558545453168"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1783786448556331008",
+            "start": 5,
+            "username": "ryuu_restart"
+          }
+        ],
+        "urls": [
+          {
+            "description": "在线分析IP地址纯净度和风险系数，检测真实位置、IP类型、IP来源和浏览器指纹。",
+            "display_url": "ippure.com",
+            "end": 154,
+            "expanded_url": "https://ippure.com",
+            "images": [
+              {
+                "height": 96,
+                "url": "https://pbs.twimg.com/news_img/2122054564736364544/wxeVPBsS?format=png&name=orig",
+                "width": 96
+              },
+              {
+                "height": 96,
+                "url": "https://pbs.twimg.com/news_img/2122054564736364544/wxeVPBsS?format=png&name=150x150",
+                "width": 96
+              }
+            ],
+            "start": 131,
+            "status": 200,
+            "title": "IPPure",
+            "unwound_url": "https://ippure.com",
+            "url": "https://t.co/gir3L2M6YA"
+          },
+          {
+            "display_url": "pic.x.com/naXXrt3PMl",
+            "end": 178,
+            "expanded_url": "https://x.com/gengdaJ/status/2116397558545453168/photo/1",
+            "media_key": "3_2116395612350640128",
+            "start": 155,
+            "url": "https://t.co/naXXrt3PMl"
+          },
+          {
+            "display_url": "pic.x.com/naXXrt3PMl",
+            "end": 178,
+            "expanded_url": "https://x.com/gengdaJ/status/2116397558545453168/photo/2",
+            "media_key": "3_2116395626107895808",
+            "start": 155,
+            "url": "https://t.co/naXXrt3PMl"
+          },
+          {
+            "display_url": "pic.x.com/naXXrt3PMl",
+            "end": 178,
+            "expanded_url": "https://x.com/gengdaJ/status/2116397558545453168/photo/3",
+            "media_key": "3_2116397427527999488",
+            "start": 155,
+            "url": "https://t.co/naXXrt3PMl"
+          },
+          {
+            "display_url": "x.com/ryuu_restart/s…",
+            "end": 202,
+            "expanded_url": "https://twitter.com/ryuu_restart/status/2116390233264771548",
+            "start": 179,
+            "url": "https://t.co/i6PLK6oE6y"
+          }
+        ]
+      },
+      "id": "2116397558545453168",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1783786448556331008",
+              "start": 5,
+              "username": "ryuu_restart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ippure.com",
+              "end": 154,
+              "expanded_url": "https://ippure.com",
+              "start": 131,
+              "url": "https://t.co/FJRXeAsBdP"
+            },
+            {
+              "display_url": "github.com/Heibai0502/sur…",
+              "end": 316,
+              "expanded_url": "https://github.com/Heibai0502/surge-rules",
+              "start": 293,
+              "url": "https://t.co/xXEneeqUgG"
+            }
+          ]
+        },
+        "text": "Ryuu @ryuu_restart 就是我的神！直接把他的Max账号（已过KYC）给我用了，还手把手教我怎么避免Claude封号，不查不知道，一查发现原来是WebTRC泄露了。。。白封了那么多号。。。\n\n给大家推荐一下他给我发的检查WebTRC是否泄露的工具：https://t.co/FJRXeAsBdP\n\n他和我说WebTRC这玩意儿泄露就跟DNS一样危险，都能被A社检测到，我还没仔细研究，但是大家最好也去查一查，这个工具还能查DNS泄露、出口IP检测、指纹检测...非常牛逼！\n\n而且更绝的是！他还自己维护了一套完整的分流规则、DNS规则和WebTRC规则的GitHub仓库：https://t.co/xXEneeqUgG\n\n适配客户端：Mihomo、FlClash、Clash Verge Rev、Surge、Shadowrocket 或 sing-box。\n\n很好用，很好用，很好用！我让Codex配置好了之后检测这三者一点问题都没有！他的Claude账号目前已经在我手里活过一天，已经再次爽用上了！\n\nRyuu本人也是优秀的00后的电商创业者，已经把直播间的投手、运营，编、拍、剪全部自动化了，大家可以去给他点个关注，顺便给这个巨牛逼的GitHub仓库点个Star（他每天都在维护嘞）。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1203,
+        "impression_count": 91786,
+        "like_count": 601,
+        "quote_count": 10,
+        "reply_count": 37,
+        "retweet_count": 68
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116390233264771548",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "Ryuu @ryuu_restart 就是我的神！直接把他的Max账号（已过KYC）给我用了，还手把手教我怎么避免Claude封号，不查不知道，一查发现原来是WebTRC泄露了。。。白封了那么多号。。。\n\n给大家推荐一下他给我发的检查WebTRC是否泄露的工具：https://t.co/gir3L2M6YA https://t.co/naXXrt3PMl https://t.co/i6PLK6oE6y",
+      "url": "https://x.com/gengdaJ/status/2116397558545453168"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115973270692585551",
+      "created_at": "2026-10-30T05:32:23.000Z",
+      "display_text_range": [
+        8,
+        49
+      ],
+      "edit_history_tweet_ids": [
+        "2116040497559204241"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "2065745964980371456",
+            "start": 0,
+            "username": "tnqy9n"
+          }
+        ]
+      },
+      "id": "2116040497559204241",
+      "in_reply_to_user_id": "2065745964980371456",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 694,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116037383821131917",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@tnqy9n 银行卡的路子锁死了，我就等Apple store接受我的订阅申请，其实还没完全死心",
+      "url": "https://x.com/gengdaJ/status/2116040497559204241"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115973270692585551",
+      "created_at": "2026-10-30T04:08:28.000Z",
+      "display_text_range": [
+        15,
+        32
+      ],
+      "edit_history_tweet_ids": [
+        "2116019379628646726"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1451831560991170569",
+            "start": 0,
+            "username": "rionaifantasy"
+          }
+        ]
+      },
+      "id": "2116019379628646726",
+      "in_reply_to_user_id": "1451831560991170569",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 934,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116002863654863321",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@rionaifantasy 我就是固定的DMIT被封了，呜呜呜",
+      "url": "https://x.com/gengdaJ/status/2116019379628646726"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115973270692585551",
+      "created_at": "2026-10-30T04:08:17.000Z",
+      "display_text_range": [
+        11,
+        36
+      ],
+      "edit_history_tweet_ids": [
+        "2116019332056858774"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "26780664",
+            "start": 0,
+            "username": "rockeymen"
+          }
+        ]
+      },
+      "id": "2116019332056858774",
+      "in_reply_to_user_id": "26780664",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 853,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116006355924550093",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@rockeymen 感觉这和训练数据关系也不大。。。主要GPT不说人话",
+      "url": "https://x.com/gengdaJ/status/2116019332056858774"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115973270692585551",
+      "created_at": "2026-10-30T04:07:50.000Z",
+      "display_text_range": [
+        6,
+        11
+      ],
+      "edit_history_tweet_ids": [
+        "2116019220555378930"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 5,
+            "id": "7248822",
+            "start": 0,
+            "username": "guyu"
+          }
+        ]
+      },
+      "id": "2116019220555378930",
+      "in_reply_to_user_id": "7248822",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1018,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115987099824615801",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@guyu DMIT的",
+      "url": "https://x.com/gengdaJ/status/2116019220555378930"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115973270692585551",
+      "created_at": "2026-10-30T01:05:15.000Z",
+      "display_text_range": [
+        0,
+        161
+      ],
+      "edit_history_tweet_ids": [
+        "2115973270692585551"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/thsottiaux/sta…",
+            "end": 185,
+            "expanded_url": "https://twitter.com/thsottiaux/status/2115850175868727621",
+            "start": 162,
+            "url": "https://t.co/faoZzsHXMm"
+          }
+        ]
+      },
+      "id": "2115973270692585551",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "有 Tibo 这波额度翻倍，我真的彻底放弃 Claude 官方订阅了。。。\n\n这几天加在一起被封了快十个号。总计损失：一个 250$ Max，一个100$Max，数不清的20$Pro，全部都不给退款。。。\n\n把我的心情还搞得很烦躁，什么手段都试过了——清理环境、换 IP、各种码、starryblu、Bybit、Apple store、买老邮箱，结果特喵连一个 Pro 都没法订阅，Anthropic 逮着我薅羊毛！\n\n我突然一想，我用 Claude 不就为了它的交互吗，那我把 DeepSeek 接入 Claude 桌面端不就好了吗？\n\n然后让 Codex 帮我连接 Gmail 和 LCU，然后我再打开沙箱环境和联网权限，这除了可能视频效果比不上原来的（我本来也不怎么用 opus5.5 生成视频），其他的都不差啊，而且 DeepSeek 速度还更快。\n\n因为我很少用 opus5.5 开发项目，都是用 Codex，所以感觉这一套下来用不用 Claude 官方都差不多，白嫖它的 harness 就行了🤣\n\n这波 Codex 额度又翻倍，迎来状态回暖，虽然它的语言我还是很难理解，但是就纯纯用来开发和 REA 就行，任何需要理解的让 Claude 桌面端+DeepSeek 来搞，爽啊！今天起床心情特别好。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 43,
+        "impression_count": 32319,
+        "like_count": 94,
+        "quote_count": 4,
+        "reply_count": 66,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115850175868727621",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "有 Tibo 这波额度翻倍，我真的彻底放弃 Claude 官方订阅了。。。\n\n这几天加在一起被封了快十个号。总计损失：一个 250$ Max，一个100$Max，数不清的20$Pro，全部都不给退款。。。\n\n把我的心情还搞得很烦躁，什么手段都试过了——清理环境、换 IP、各种码、starryblu、Bybit、Apple https://t.co/faoZzsHXMm",
+      "url": "https://x.com/gengdaJ/status/2115973270692585551"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-29T12:30:19.000Z",
+      "display_text_range": [
+        12,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2115783288065503531"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1473190990857256962",
+            "start": 0,
+            "username": "EthYunlong"
+          }
+        ]
+      },
+      "id": "2115783288065503531",
+      "in_reply_to_user_id": "1473190990857256962",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 175,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115776522955202898",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@EthYunlong 你替我进去喝茶可以考虑",
+      "url": "https://x.com/gengdaJ/status/2115783288065503531"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115622033669435412",
+      "created_at": "2026-10-29T01:49:33.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "2115622033669435412"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1519705236713189377",
+            "start": 3,
+            "username": "suno"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "t.co",
+            "end": 139,
+            "start": 126,
+            "url": "https://t.co/"
+          }
+        ]
+      },
+      "id": "2115622033669435412",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 134,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 294
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115506373001634206",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @suno: Introducing Suno MCP Beta\n\nCreate songs from wherever you get inspired. No tab-switching needed.\n\nGet early access:\nhttps://t.co/…",
+      "url": "https://x.com/gengdaJ/status/2115622033669435412"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-29T00:33:23.000Z",
+      "display_text_range": [
+        13,
+        19
+      ],
+      "edit_history_tweet_ids": [
+        "2115602862512480264"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "19651318",
+            "start": 0,
+            "username": "whitepoplar"
+          }
+        ]
+      },
+      "id": "2115602862512480264",
+      "in_reply_to_user_id": "19651318",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1379,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115470754376827315",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@whitepoplar 目前没任何事",
+      "url": "https://x.com/gengdaJ/status/2115602862512480264"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-29T00:33:14.000Z",
+      "display_text_range": [
+        13,
+        19
+      ],
+      "edit_history_tweet_ids": [
+        "2115602827355763150"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2018538247073546240",
+            "start": 0,
+            "username": "HenryY54001"
+          }
+        ]
+      },
+      "id": "2115602827355763150",
+      "in_reply_to_user_id": "2018538247073546240",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1396,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115466050624229545",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@HenryY54001 开源的，还好",
+      "url": "https://x.com/gengdaJ/status/2115602827355763150"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-29T00:33:05.000Z",
+      "display_text_range": [
+        14,
+        18
+      ],
+      "edit_history_tweet_ids": [
+        "2115602787337986259"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "2058074381147136000",
+            "start": 0,
+            "username": "yanliang1988"
+          }
+        ]
+      },
+      "id": "2115602787337986259",
+      "in_reply_to_user_id": "2058074381147136000",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1953,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115482239828107424",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@yanliang1988 可以试试",
+      "url": "https://x.com/gengdaJ/status/2115602787337986259"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-29T00:32:24.000Z",
+      "display_text_range": [
+        13,
+        28
+      ],
+      "edit_history_tweet_ids": [
+        "2115602615069520233"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2007354590833061899",
+            "start": 0,
+            "username": "Nanming2549"
+          }
+        ]
+      },
+      "id": "2115602615069520233",
+      "in_reply_to_user_id": "2007354590833061899",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1784,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115599513742389402",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Nanming2549 需要登录微信拿个签名，没关系的",
+      "url": "https://x.com/gengdaJ/status/2115602615069520233"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-28T23:26:20.000Z",
+      "display_text_range": [
+        12,
+        31
+      ],
+      "edit_history_tweet_ids": [
+        "2115585989569905101"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1999268897850290176",
+            "start": 0,
+            "username": "xuanyuehua"
+          }
+        ]
+      },
+      "id": "2115585989569905101",
+      "in_reply_to_user_id": "1999268897850290176",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 225,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115504191133430011",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@xuanyuehua 看我置顶社群，加入免费赠送，不单独售卖",
+      "url": "https://x.com/gengdaJ/status/2115585989569905101"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-28T16:22:45.000Z",
+      "display_text_range": [
+        12,
+        45
+      ],
+      "edit_history_tweet_ids": [
+        "2115479394353639530"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2101980356203491328",
+            "start": 0,
+            "username": "KMakise725"
+          }
+        ]
+      },
+      "id": "2115479394353639530",
+      "in_reply_to_user_id": "2101980356203491328",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 349,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115449038745350168",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@KMakise725 我不知道啥区别没用过，但两个都用过的人都说我的 skill 更好用",
+      "url": "https://x.com/gengdaJ/status/2115479394353639530"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-28T16:22:05.000Z",
+      "display_text_range": [
+        10,
+        11
+      ],
+      "edit_history_tweet_ids": [
+        "2115479223838318697"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2093053682472603648",
+            "start": 0,
+            "username": "alexpytv"
+          }
+        ]
+      },
+      "id": "2115479223838318697",
+      "in_reply_to_user_id": "2093053682472603648",
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3594,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115462050965303323",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@alexpytv 😆",
+      "url": "https://x.com/gengdaJ/status/2115479223838318697"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-28T16:21:53.000Z",
+      "display_text_range": [
+        9,
+        21
+      ],
+      "edit_history_tweet_ids": [
+        "2115479173204680956"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1671920202",
+            "start": 0,
+            "username": "vastxie"
+          }
+        ]
+      },
+      "id": "2115479173204680956",
+      "in_reply_to_user_id": "1671920202",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1980,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115449006411383200",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@vastxie 卧槽，那我死也把你拖下水",
+      "url": "https://x.com/gengdaJ/status/2115479173204680956"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-28T13:50:20.000Z",
+      "display_text_range": [
+        10,
+        11
+      ],
+      "edit_history_tweet_ids": [
+        "2115441036403392819"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1447224722781917184",
+            "start": 0,
+            "username": "starkljm"
+          }
+        ]
+      },
+      "id": "2115441036403392819",
+      "in_reply_to_user_id": "1447224722781917184",
+      "lang": "und",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3504,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115440006865277155",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@starkljm 🉑",
+      "url": "https://x.com/gengdaJ/status/2115441036403392819"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-28T12:34:58.000Z",
+      "display_text_range": [
+        0,
+        38
+      ],
+      "edit_history_tweet_ids": [
+        "2115422067709681988"
+      ],
+      "id": "2115422067709681988",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 10763,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115420089336144052",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "其实Windows版本的剪映Skill也做出来了，但是怕了，不放出来了。。。",
+      "url": "https://x.com/gengdaJ/status/2115422067709681988"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "card_uri": "https://t.co/lOyZazZRad",
+      "conversation_id": "2115420089336144052",
+      "created_at": "2026-10-28T12:27:06.000Z",
+      "display_text_range": [
+        0,
+        113
+      ],
+      "edit_history_tweet_ids": [
+        "2115420031979012418",
+        "2115420089336144052"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Contribute to mcncarl/yichen-skills development by creating an account on GitHub.",
+            "display_url": "github.com/mcncarl/yichen…",
+            "end": 113,
+            "expanded_url": "https://github.com/mcncarl/yichen-skills/blob/main/yichen-wechat-local-vault/README.md",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2122075357411254272/Rnqs-M2p?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122075357411254272/Rnqs-M2p?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 90,
+            "status": 200,
+            "title": "yichen-skills/yichen-wechat-local-vault/README.md at main · mcncarl/yichen-skills",
+            "unwound_url": "https://github.com/mcncarl/yichen-skills/blob/main/yichen-wechat-local-vault/README.md",
+            "url": "https://t.co/lOyZazZRad"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 137,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2097960663616471410",
+            "start": 114,
+            "url": "https://t.co/An8uZCqNdU"
+          }
+        ]
+      },
+      "id": "2115420089336144052",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1315,
+        "impression_count": 109461,
+        "like_count": 885,
+        "quote_count": 5,
+        "reply_count": 45,
+        "retweet_count": 111
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097960663616471410",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "千呼万唤的Windows版本微信Skill终于做出来了，大家依旧悄悄用，别再给我传出去了，我不想收律师函了，谢谢大伙！\n\n全量解析：聊天、朋友圈、收藏夹、联系人\n\nSkill地址：https://t.co/lOyZazZRad https://t.co/An8uZCqNdU",
+      "url": "https://x.com/gengdaJ/status/2115420089336144052"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "card_uri": "https://t.co/lOyZazZRad",
+      "conversation_id": "2115420031979012418",
+      "created_at": "2026-10-28T12:26:52.000Z",
+      "display_text_range": [
+        0,
+        110
+      ],
+      "edit_history_tweet_ids": [
+        "2115420031979012418",
+        "2115420089336144052"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Contribute to mcncarl/yichen-skills development by creating an account on GitHub.",
+            "display_url": "github.com/mcncarl/yichen…",
+            "end": 110,
+            "expanded_url": "https://github.com/mcncarl/yichen-skills/blob/main/yichen-wechat-local-vault/README.md",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2122075357411254272/Rnqs-M2p?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122075357411254272/Rnqs-M2p?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 87,
+            "status": 200,
+            "title": "yichen-skills/yichen-wechat-local-vault/README.md at main · mcncarl/yichen-skills",
+            "unwound_url": "https://github.com/mcncarl/yichen-skills/blob/main/yichen-wechat-local-vault/README.md",
+            "url": "https://t.co/lOyZazZRad"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 134,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2097960663616471410",
+            "start": 111,
+            "url": "https://t.co/An8uZCqNdU"
+          }
+        ]
+      },
+      "id": "2115420031979012418",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 189,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097960663616471410",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "千呼万唤的Windows版本微信Skill做出来，大家依旧悄悄用，别再给我传出去了，我不想收律师函了，谢谢大伙！\n\n全量解析：聊天、朋友圈、收藏夹、联系人\n\nSkill地址：https://t.co/lOyZazZRad https://t.co/An8uZCqNdU",
+      "url": "https://x.com/gengdaJ/status/2115420031979012418"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115394510066962754",
+      "created_at": "2026-10-28T10:45:27.000Z",
+      "display_text_range": [
+        0,
+        53
+      ],
+      "edit_history_tweet_ids": [
+        "2115394315468071316",
+        "2115394510066962754"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Mashiro_0619/s…",
+            "end": 77,
+            "expanded_url": "https://twitter.com/Mashiro_0619/status/2115293730941067637",
+            "start": 54,
+            "url": "https://t.co/VB4nnWsXXB"
+          }
+        ]
+      },
+      "id": "2115394510066962754",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 114,
+        "impression_count": 43185,
+        "like_count": 100,
+        "quote_count": 2,
+        "reply_count": 13,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115293730941067637",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "基于我被封了快十个号的直觉，我觉得绝大部分经验都是真的。\n\n建议想Claude不被封号的朋友逐帧学习！！！ https://t.co/VB4nnWsXXB",
+      "url": "https://x.com/gengdaJ/status/2115394510066962754"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115394315468071316",
+      "created_at": "2026-10-28T10:44:41.000Z",
+      "display_text_range": [
+        0,
+        51
+      ],
+      "edit_history_tweet_ids": [
+        "2115394315468071316",
+        "2115394510066962754"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Mashiro_0619/s…",
+            "end": 75,
+            "expanded_url": "https://twitter.com/Mashiro_0619/status/2115293730941067637",
+            "start": 52,
+            "url": "https://t.co/VB4nnWsXXB"
+          }
+        ]
+      },
+      "id": "2115394315468071316",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 184,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115293730941067637",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "我觉得绝大部分经验都是真的，基于我被封了快十个号的直觉。建议想Claude不被封号的朋友逐帧学习！！！ https://t.co/VB4nnWsXXB",
+      "url": "https://x.com/gengdaJ/status/2115394315468071316"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2116395612350640128",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HV7ymKZa8AALJWb.jpg",
+        "width": 1292
+      },
+      {
+        "height": 1462,
+        "media_key": "3_2116395626107895808",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HV7ym9paAAA0R5E.jpg",
+        "width": 1678
+      },
+      {
+        "height": 944,
+        "media_key": "3_2116397427527999488",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HV70P0dbYAACCTH.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2116397558545453168",
+        "created_at": "2026-10-31T08:23:47.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2116446020817306052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 23,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550?a=qzoCfAX2HnjRjkFHd7M&s=20",
+              "start": 0,
+              "url": "https://t.co/UTNjaHyh8Q"
+            }
+          ]
+        },
+        "id": "2116446020817306052",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6027,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115025631167795550",
+            "type": "quoted"
+          },
+          {
+            "id": "2116397558545453168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/UTNjaHyh8Q"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2116395612350640128",
+            "3_2116395626107895808",
+            "3_2116397427527999488"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2116397558545453168",
+        "created_at": "2026-10-31T05:11:13.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_history_tweet_ids": [
+          "2116397558545453168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1783786448556331008",
+              "start": 5,
+              "username": "ryuu_restart"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在线分析IP地址纯净度和风险系数，检测真实位置、IP类型、IP来源和浏览器指纹。",
+              "display_url": "ippure.com",
+              "end": 154,
+              "expanded_url": "https://ippure.com",
+              "images": [
+                {
+                  "height": 96,
+                  "url": "https://pbs.twimg.com/news_img/2122054564736364544/wxeVPBsS?format=png&name=orig",
+                  "width": 96
+                },
+                {
+                  "height": 96,
+                  "url": "https://pbs.twimg.com/news_img/2122054564736364544/wxeVPBsS?format=png&name=150x150",
+                  "width": 96
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "IPPure",
+              "unwound_url": "https://ippure.com",
+              "url": "https://t.co/gir3L2M6YA"
+            },
+            {
+              "display_url": "pic.x.com/naXXrt3PMl",
+              "end": 178,
+              "expanded_url": "https://x.com/gengdaJ/status/2116397558545453168/photo/1",
+              "media_key": "3_2116395612350640128",
+              "start": 155,
+              "url": "https://t.co/naXXrt3PMl"
+            },
+            {
+              "display_url": "pic.x.com/naXXrt3PMl",
+              "end": 178,
+              "expanded_url": "https://x.com/gengdaJ/status/2116397558545453168/photo/2",
+              "media_key": "3_2116395626107895808",
+              "start": 155,
+              "url": "https://t.co/naXXrt3PMl"
+            },
+            {
+              "display_url": "pic.x.com/naXXrt3PMl",
+              "end": 178,
+              "expanded_url": "https://x.com/gengdaJ/status/2116397558545453168/photo/3",
+              "media_key": "3_2116397427527999488",
+              "start": 155,
+              "url": "https://t.co/naXXrt3PMl"
+            },
+            {
+              "display_url": "x.com/ryuu_restart/s…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/ryuu_restart/status/2116390233264771548",
+              "start": 179,
+              "url": "https://t.co/i6PLK6oE6y"
+            }
+          ]
+        },
+        "id": "2116397558545453168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 18,
+                "id": "1783786448556331008",
+                "start": 5,
+                "username": "ryuu_restart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ippure.com",
+                "end": 154,
+                "expanded_url": "https://ippure.com",
+                "start": 131,
+                "url": "https://t.co/FJRXeAsBdP"
+              },
+              {
+                "display_url": "github.com/Heibai0502/sur…",
+                "end": 316,
+                "expanded_url": "https://github.com/Heibai0502/surge-rules",
+                "start": 293,
+                "url": "https://t.co/xXEneeqUgG"
+              }
+            ]
+          },
+          "text": "Ryuu @ryuu_restart 就是我的神！直接把他的Max账号（已过KYC）给我用了，还手把手教我怎么避免Claude封号，不查不知道，一查发现原来是WebTRC泄露了。。。白封了那么多号。。。\n\n给大家推荐一下他给我发的检查WebTRC是否泄露的工具：https://t.co/FJRXeAsBdP\n\n他和我说WebTRC这玩意儿泄露就跟DNS一样危险，都能被A社检测到，我还没仔细研究，但是大家最好也去查一查，这个工具还能查DNS泄露、出口IP检测、指纹检测...非常牛逼！\n\n而且更绝的是！他还自己维护了一套完整的分流规则、DNS规则和WebTRC规则的GitHub仓库：https://t.co/xXEneeqUgG\n\n适配客户端：Mihomo、FlClash、Clash Verge Rev、Surge、Shadowrocket 或 sing-box。\n\n很好用，很好用，很好用！我让Codex配置好了之后检测这三者一点问题都没有！他的Claude账号目前已经在我手里活过一天，已经再次爽用上了！\n\nRyuu本人也是优秀的00后的电商创业者，已经把直播间的投手、运营，编、拍、剪全部自动化了，大家可以去给他点个关注，顺便给这个巨牛逼的GitHub仓库点个Star（他每天都在维护嘞）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1203,
+          "impression_count": 91786,
+          "like_count": 601,
+          "quote_count": 10,
+          "reply_count": 37,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2116390233264771548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ryuu @ryuu_restart 就是我的神！直接把他的Max账号（已过KYC）给我用了，还手把手教我怎么避免Claude封号，不查不知道，一查发现原来是WebTRC泄露了。。。白封了那么多号。。。\n\n给大家推荐一下他给我发的检查WebTRC是否泄露的工具：https://t.co/gir3L2M6YA https://t.co/naXXrt3PMl https://t.co/i6PLK6oE6y"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115025392465797120",
+            "3_2115025406759972864",
+            "3_2115025421947604993",
+            "3_2115025436518543360"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115025631167795550",
+        "created_at": "2026-10-27T10:19:40.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_history_tweet_ids": [
+          "2115025631167795550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1947932538967924736",
+              "start": 47,
+              "username": "atypica_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/03Qz5uvaDK",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/1",
+              "media_key": "3_2115025392465797120",
+              "start": 143,
+              "url": "https://t.co/03Qz5uvaDK"
+            },
+            {
+              "display_url": "pic.x.com/03Qz5uvaDK",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/2",
+              "media_key": "3_2115025406759972864",
+              "start": 143,
+              "url": "https://t.co/03Qz5uvaDK"
+            },
+            {
+              "display_url": "pic.x.com/03Qz5uvaDK",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/3",
+              "media_key": "3_2115025421947604993",
+              "start": 143,
+              "url": "https://t.co/03Qz5uvaDK"
+            },
+            {
+              "display_url": "pic.x.com/03Qz5uvaDK",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/4",
+              "media_key": "3_2115025436518543360",
+              "start": 143,
+              "url": "https://t.co/03Qz5uvaDK"
+            },
+            {
+              "display_url": "x.com/atypica_AI/sta…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/atypica_AI/status/2109586171596775926",
+              "start": 167,
+              "url": "https://t.co/9kCwOaga4I"
+            }
+          ]
+        },
+        "id": "2115025631167795550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 58,
+                "id": "1947932538967924736",
+                "start": 47,
+                "username": "atypica_AI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "atypica.ai/?via=yichen",
+                "end": 1148,
+                "expanded_url": "https://atypica.ai/?via=yichen",
+                "start": 1125,
+                "url": "https://t.co/3M9gnqz21G"
+              }
+            ]
+          },
+          "text": "所有老板和流量操盘手都来和我一起偷师！\n\n上次我去混沌商学院，才发现年营收几个亿的老板们都在用@atypica_AI这个Personal research agent来辅助自己做商业决策。\n\nAtypica有100万+ 完整人格画像、且经过真人校准、超过85%准确性的AI模拟消费者。\n\n可以让日常的商业判断（大到产品构建迭代，小到文案方向测试）有据可靠，一定程度上规避风险，做出让消费者买单的决策。\n\n比如，老板每次规划一个重大的项目，集中所有资源、人力、物力去突破，其实都有很大的风险，一个逻辑推演错误所有的钱就都没了。。。如果花钱招募真实消费者来测评这个项目，也是一笔很大的开支。。。\n\n但是，如果让Atypica去社媒上搜索真实用户语料来构建目标AI消费者，就可以非常低成本地获得一次完整的用户调研。\n\n而且这套思路不仅是规划大项目有用，迁移到内容营销侧的素材投放仍然适用！\n\n做过TikTok、Facebook投流的朋友应该知道，光是每天手里面投放的钱就是几十万。如果提前预判内容素材是否有流量/能转化，岂不节省一大笔预算？\n\n所以我用最近TikTok爆火的卖$14.99的迷迭香米水喷雾试了一下，给了它三个方向：\nA 情感故事：\"4 months postpartum and my hair was coming out in clumps…\" 先讲掉发的崩溃，产品到视频中间才出现\nB 产品演示：\"Rosemary + rice water. Non-greasy, alcohol-free. Here's my 90-day progress.\" 成分加 90 天对比照\nC 生活方式：\"10 seconds before I leave. No oily scalp, no wash-day drama.\" 出门前喷一下就扎头发，对比要洗一整天的迷迭香精油\n\n让它来判断这三个方向，到底哪个转化会更高？\n\n1、Atypica先搜索真实TikTok和Instagram视频，然后构建虚拟AI人设（代表五类消费者），总共五大类：掉发也要撑住、产后脱发类、十秒出门派、成分审计员、卷发修复党。\n\n2、然后再和AI人设进行了两轮的单独访谈，最后再把五个AI人设，拉进一个圆桌访谈，大家彼此讨论。\n\n3、最后得出的报告也根据TikTok/Instagram人群的不同，给出相当客观的投放策略选取。甚至还给出了素材优化建议。。。超纲了。。。\n完整报告可见评论区。\n\n最后的调研内容，还能直接通过MCP的方式接入Codex或者Claude Code，可以直接和原有的投放工作流打通，从洞察结果无缝衔接内容素材生成。\n\nAtypica传送门：https://t.co/3M9gnqz21G"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 32200,
+          "like_count": 88,
+          "quote_count": 11,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109586171596775926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有老板和流量操盘手都来和我一起偷师！\n\n上次我去混沌商学院，才发现年营收几个亿的老板们都在用@atypica_AI这个Personal research agent来辅助自己做商业决策。\n\nAtypica有100万+ 完整人格画像、且经过真人校准、超过85%准确性的AI模拟消费者。 https://t.co/03Qz5uvaDK https://t.co/9kCwOaga4I"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2116397558545453168",
+        "created_at": "2026-10-31T05:54:44.000Z",
+        "display_text_range": [
+          26,
+          30
+        ],
+        "edit_history_tweet_ids": [
+          "2116408511655731307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1519492491120189440",
+              "start": 0,
+              "username": "superKracy"
+            },
+            {
+              "end": 25,
+              "id": "1783786448556331008",
+              "start": 12,
+              "username": "ryuu_restart"
+            }
+          ]
+        },
+        "id": "2116408511655731307",
+        "in_reply_to_user_id": "1519492491120189440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3124,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2116408290758521016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@superKracy @ryuu_restart 中国护照"
+      },
+      {
+        "author_id": "1519492491120189440",
+        "conversation_id": "2116397558545453168",
+        "created_at": "2026-10-31T05:53:52.000Z",
+        "display_text_range": [
+          23,
+          31
+        ],
+        "edit_history_tweet_ids": [
+          "2116408290758521016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 22,
+              "id": "1783786448556331008",
+              "start": 9,
+              "username": "ryuu_restart"
+            }
+          ]
+        },
+        "id": "2116408290758521016",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3316,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2116397558545453168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @ryuu_restart 弹kyc了怎么破"
+      },
+      {
+        "article": {
+          "cover_media": "3_2116387719995965440",
+          "entities": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "gengdaJ"
+              }
+            ]
+          },
+          "plain_text": "留日 7 年，创业亏光父母 36 万养老钱。今年 3 月，我脱下所有的外衣，从直播间最底层重新开始。\n我是 Ryuu|玉龙，Ryuu 是“龙”的日语读音。这是我在 X 的第一篇推文，想聊聊我是怎么把一手好牌打烂，又靠 AI 一点点把牌赢回来的。\n1. 抓住了第一波红利，但没接住ChatGPT 上线第一天我就开始用，一直订阅到现在。GPT-4 刚出那会儿，我在小红书随手发了篇“用 AI 写日本大学报告”的笔记，意外爆了。第一个月我就靠接单赚到了钱，这几年陆陆续续也攒了六位数。但那时候太年轻，有点飘，觉得钱来得容易，没趁热做大，生生错过了第一波最大的流量红利。\n2. 2025 年创业：36 万买来的教训大学朋友手里有三丽鸥的货源，我觉得不能浪费，就拉上儿时挚友合伙创业。那段时间，我在日本顶着大太阳骑自行车到处扫货、打包寄回国内；他在国内负责抖音直播。前前后后，我投进了 36 万——那全是我爸妈的养老钱。\n直到我第一次回国去公司，看到的一幕让我至今难忘： 三个人，每天下播后雷打不动点 800 块钱的烧烤，满桌剩下的肉直接扔掉。怪他吗？怪。但更该扇自己两巴掌：没请会计、合同粗糙、全凭“兄弟信任”连账都没核对过。2026 年初，我的第一次创业彻底崩盘。\n3. 钻进直播间最底层，用 AI 破局被坑怕了，我决定自己把电商的底裤摸透。我在抖音买课自学（交了不少学费，也淘到了真东西），今年 3 月直接进了一家直播公司，从最基础的剪视频干起。\n因为懂一点 AI，我看中控每天机械地点弹窗、发福袋太消耗精力，就借着 AI 在 GitHub 上扒了个开源项目改了改，把这套流程全自动化了。中控腾出手做场控，直播间转化率肉眼可见地往上走。后来我又轮岗做了投手、运营，编、拍、剪全自己上手。\n我不会写代码，但我学会了和 Agent 一起干活： 从 AI做图、AI 千川素材、批量混剪等，到最近画布平台本地部署（公司准备接下来正式使用）。我发现，当懂业务流程的人拿起 AI，爆发力是惊人的。\n4. 为什么是现在？为什么叫 ryuu_restart？以前无数次想做自媒体，都因为懒半途而废。但就在前几天，我自己在业务里琢磨出的一套解法，刚好帮到了我一直很佩服的逸尘 @gengdaJ 。那种“自己造的工具真的能帮人解决问题”的兴奋感，我太久没有体验过了。当逸尘说愿意帮我转发第一条推文时，我突然有了久违的笃定。特别感谢逸尘，也感谢社群里大家。\n账号叫 ryuu_restart，这里就是我重启的地方。\n接下来，我会在这里连载一个「不懂代码的电商人，如何用 AI 重新做一遍业务」的真实记录：\n怎么和 Agent 配合做高转化的电商图、带货视频\n怎么手搓内部提效工具与自动化工作流\n跑通了什么、踩碎了哪些坑，全部开源摊开讲\n如果你也在做电商，或者正在用 AI 折腾点真正能落地的东西，欢迎关注我，我们一起往前走。",
+          "preview_text": "留日 7 年，创业亏光父母 36 万养老钱。今年 3 月，我脱下所有的外衣，从直播间最底层重新开始。\n我是 Ryuu|玉龙，Ryuu 是“龙”的日语读音。这是我在 X 的第一篇推文，想聊聊我是怎么把一手好牌打烂，又靠 AI",
+          "title": "从留日 7 年亏光 36 万，到直播间底层的 AI 破局者：我的重启之路"
+        },
+        "author_id": "1783786448556331008",
+        "conversation_id": "2116390233264771548",
+        "created_at": "2026-10-31T04:42:06.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_history_tweet_ids": [
+          "2116390233264771548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2116…",
+              "end": 67,
+              "expanded_url": "https://x.com/i/article/2116385492933431296",
+              "start": 44,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2116385492933431296",
+              "url": "https://t.co/PzUkpDelcH"
+            }
+          ]
+        },
+        "id": "2116390233264771548",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 68094,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "留日 7 年，创业亏光父母 36 万养老钱：我如何从直播间最底层，靠 AI 重新杀出来 https://t.co/PzUkpDelcH"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T05:32:23.000Z",
+        "display_text_range": [
+          8,
+          49
+        ],
+        "edit_history_tweet_ids": [
+          "2116040497559204241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2065745964980371456",
+              "start": 0,
+              "username": "tnqy9n"
+            }
+          ]
+        },
+        "id": "2116040497559204241",
+        "in_reply_to_user_id": "2065745964980371456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2116037383821131917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnqy9n 银行卡的路子锁死了，我就等Apple store接受我的订阅申请，其实还没完全死心"
+      },
+      {
+        "author_id": "2065745964980371456",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T05:20:01.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_history_tweet_ids": [
+          "2116037383821131917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2116037383821131917",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 704,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115973270692585551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 投降了吗老师，我还在努力折腾啊！"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T04:08:28.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_history_tweet_ids": [
+          "2116019379628646726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1451831560991170569",
+              "start": 0,
+              "username": "rionaifantasy"
+            }
+          ]
+        },
+        "id": "2116019379628646726",
+        "in_reply_to_user_id": "1451831560991170569",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 934,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2116002863654863321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rionaifantasy 我就是固定的DMIT被封了，呜呜呜"
+      },
+      {
+        "author_id": "1451831560991170569",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T03:02:50.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_history_tweet_ids": [
+          "2116002863654863321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2116002863654863321",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1097,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115973270692585551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 最重要的应该还是得保证固定ip"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T04:08:17.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_history_tweet_ids": [
+          "2116019332056858774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "26780664",
+              "start": 0,
+              "username": "rockeymen"
+            }
+          ]
+        },
+        "id": "2116019332056858774",
+        "in_reply_to_user_id": "26780664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 853,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2116006355924550093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rockeymen 感觉这和训练数据关系也不大。。。主要GPT不说人话"
+      },
+      {
+        "author_id": "26780664",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T03:16:43.000Z",
+        "display_text_range": [
+          9,
+          51
+        ],
+        "edit_history_tweet_ids": [
+          "2116006355924550093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2116006355924550093",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 952,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115973270692585551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 大家都不用Claude 都用 GPT，GPT的训练数据就越来越好😂，结果也就越来越好"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T04:07:50.000Z",
+        "display_text_range": [
+          6,
+          11
+        ],
+        "edit_history_tweet_ids": [
+          "2116019220555378930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "7248822",
+              "start": 0,
+              "username": "guyu"
+            }
+          ]
+        },
+        "id": "2116019220555378930",
+        "in_reply_to_user_id": "7248822",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1018,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115987099824615801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guyu DMIT的"
+      },
+      {
+        "author_id": "7248822",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T02:00:12.000Z",
+        "display_text_range": [
+          9,
+          93
+        ],
+        "edit_history_tweet_ids": [
+          "2115987099824615801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115987099824615801",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1424,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115973270692585551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 你用什么网络环境啊？大概描述一下可以吗？\n\n我觉得其实还是比较稳定的。我从 2023 年夏天开始用 Claude 到现在，也就封过两个号都是 Max，但都用了一两年才封"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115973270692585551",
+        "created_at": "2026-10-30T01:05:15.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_history_tweet_ids": [
+          "2115973270692585551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2115850175868727621",
+              "start": 162,
+              "url": "https://t.co/faoZzsHXMm"
+            }
+          ]
+        },
+        "id": "2115973270692585551",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "有 Tibo 这波额度翻倍，我真的彻底放弃 Claude 官方订阅了。。。\n\n这几天加在一起被封了快十个号。总计损失：一个 250$ Max，一个100$Max，数不清的20$Pro，全部都不给退款。。。\n\n把我的心情还搞得很烦躁，什么手段都试过了——清理环境、换 IP、各种码、starryblu、Bybit、Apple store、买老邮箱，结果特喵连一个 Pro 都没法订阅，Anthropic 逮着我薅羊毛！\n\n我突然一想，我用 Claude 不就为了它的交互吗，那我把 DeepSeek 接入 Claude 桌面端不就好了吗？\n\n然后让 Codex 帮我连接 Gmail 和 LCU，然后我再打开沙箱环境和联网权限，这除了可能视频效果比不上原来的（我本来也不怎么用 opus5.5 生成视频），其他的都不差啊，而且 DeepSeek 速度还更快。\n\n因为我很少用 opus5.5 开发项目，都是用 Codex，所以感觉这一套下来用不用 Claude 官方都差不多，白嫖它的 harness 就行了🤣\n\n这波 Codex 额度又翻倍，迎来状态回暖，虽然它的语言我还是很难理解，但是就纯纯用来开发和 REA 就行，任何需要理解的让 Claude 桌面端+DeepSeek 来搞，爽啊！今天起床心情特别好。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 32319,
+          "like_count": 94,
+          "quote_count": 4,
+          "reply_count": 66,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115850175868727621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有 Tibo 这波额度翻倍，我真的彻底放弃 Claude 官方订阅了。。。\n\n这几天加在一起被封了快十个号。总计损失：一个 250$ Max，一个100$Max，数不清的20$Pro，全部都不给退款。。。\n\n把我的心情还搞得很烦躁，什么手段都试过了——清理环境、换 IP、各种码、starryblu、Bybit、Apple https://t.co/faoZzsHXMm"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "conversation_id": "2115850175868727621",
+        "created_at": "2026-10-29T16:56:07.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_history_tweet_ids": [
+          "2115850175868727621"
+        ],
+        "id": "2115850175868727621",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3234,
+          "impression_count": 7588847,
+          "like_count": 39112,
+          "quote_count": 3648,
+          "reply_count": 7361,
+          "retweet_count": 2700
+        },
+        "reply_settings": "everyone",
+        "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-29T12:30:19.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2115783288065503531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1473190990857256962",
+              "start": 0,
+              "username": "EthYunlong"
+            }
+          ]
+        },
+        "id": "2115783288065503531",
+        "in_reply_to_user_id": "1473190990857256962",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115776522955202898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EthYunlong 你替我进去喝茶可以考虑"
+      },
+      {
+        "author_id": "1473190990857256962",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-29T12:03:26.000Z",
+        "display_text_range": [
+          9,
+          34
+        ],
+        "edit_history_tweet_ids": [
+          "2115776522955202898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115776522955202898",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115422067709681988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 放出来把哥 求你了 我做蝴蝶号的每天剪辑视频好累啊"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115622033669435412",
+        "created_at": "2026-10-29T01:49:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "2115622033669435412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1519705236713189377",
+              "start": 3,
+              "username": "suno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "id": "2115622033669435412",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 294
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115506373001634206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suno: Introducing Suno MCP Beta\n\nCreate songs from wherever you get inspired. No tab-switching needed.\n\nGet early access:\nhttps://t.co/…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2115502576238034944"
+          ]
+        },
+        "author_id": "1519705236713189377",
+        "conversation_id": "2115506373001634206",
+        "created_at": "2026-10-28T18:09:58.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_history_tweet_ids": [
+          "2115506373001634206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Turn data collection into an experience with Typeform. Create beautiful online forms, surveys, quizzes, and so much more. Try it for FREE.",
+              "display_url": "sunomusic.typeform.com/to/JMPYxZqQ",
+              "end": 139,
+              "expanded_url": "https://sunomusic.typeform.com/to/JMPYxZqQ",
+              "start": 116,
+              "status": 200,
+              "title": "Suno MCP Early Access Form",
+              "unwound_url": "https://sunomusic.typeform.com/to/JMPYxZqQ",
+              "url": "https://t.co/lJpa8mId22"
+            },
+            {
+              "display_url": "pic.x.com/Wn8ehKW2ib",
+              "end": 163,
+              "expanded_url": "https://x.com/suno/status/2115506373001634206/video/1",
+              "media_key": "13_2115502576238034944",
+              "start": 140,
+              "url": "https://t.co/Wn8ehKW2ib"
+            }
+          ]
+        },
+        "id": "2115506373001634206",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1449,
+          "impression_count": 414502,
+          "like_count": 1974,
+          "quote_count": 296,
+          "reply_count": 154,
+          "retweet_count": 294
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing Suno MCP Beta\n\nCreate songs from wherever you get inspired. No tab-switching needed.\n\nGet early access:\nhttps://t.co/lJpa8mId22 https://t.co/Wn8ehKW2ib"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-29T00:33:23.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_history_tweet_ids": [
+          "2115602862512480264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "19651318",
+              "start": 0,
+              "username": "whitepoplar"
+            }
+          ]
+        },
+        "id": "2115602862512480264",
+        "in_reply_to_user_id": "19651318",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1379,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115470754376827315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitepoplar 目前没任何事"
+      },
+      {
+        "author_id": "19651318",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T15:48:26.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_history_tweet_ids": [
+          "2115470754376827315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115470754376827315",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2186,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115420089336144052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 会封号吗"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-29T00:33:14.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_history_tweet_ids": [
+          "2115602827355763150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018538247073546240",
+              "start": 0,
+              "username": "HenryY54001"
+            }
+          ]
+        },
+        "id": "2115602827355763150",
+        "in_reply_to_user_id": "2018538247073546240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1396,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115466050624229545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HenryY54001 开源的，还好"
+      },
+      {
+        "author_id": "2018538247073546240",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T15:29:44.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_history_tweet_ids": [
+          "2115466050624229545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115466050624229545",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2411,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115420089336144052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 哥小心被微信告了，这可比剪映大多了"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-29T00:33:05.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_history_tweet_ids": [
+          "2115602787337986259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058074381147136000",
+              "start": 0,
+              "username": "yanliang1988"
+            }
+          ]
+        },
+        "id": "2115602787337986259",
+        "in_reply_to_user_id": "2058074381147136000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1953,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115482239828107424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanliang1988 可以试试"
+      },
+      {
+        "author_id": "2058074381147136000",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T16:34:04.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_history_tweet_ids": [
+          "2115482239828107424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115482239828107424",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2782,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115420089336144052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ windows 11上媒体文件可以还原了嘛？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-29T00:32:24.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_history_tweet_ids": [
+          "2115602615069520233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007354590833061899",
+              "start": 0,
+              "username": "Nanming2549"
+            }
+          ]
+        },
+        "id": "2115602615069520233",
+        "in_reply_to_user_id": "2007354590833061899",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1784,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115599513742389402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanming2549 需要登录微信拿个签名，没关系的"
+      },
+      {
+        "author_id": "2007354590833061899",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-29T00:20:04.000Z",
+        "display_text_range": [
+          9,
+          29
+        ],
+        "edit_history_tweet_ids": [
+          "2115599513742389402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115599513742389402",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1994,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115420089336144052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 我就问，是不是要登录微信？不登录行不行？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T23:26:20.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_history_tweet_ids": [
+          "2115585989569905101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999268897850290176",
+              "start": 0,
+              "username": "xuanyuehua"
+            }
+          ]
+        },
+        "id": "2115585989569905101",
+        "in_reply_to_user_id": "1999268897850290176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115504191133430011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyuehua 看我置顶社群，加入免费赠送，不单独售卖"
+      },
+      {
+        "author_id": "1999268897850290176",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T18:01:17.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_history_tweet_ids": [
+          "2115504191133430011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115504191133430011",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115422067709681988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 可付费，有没有小众渠道"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T16:22:45.000Z",
+        "display_text_range": [
+          12,
+          45
+        ],
+        "edit_history_tweet_ids": [
+          "2115479394353639530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2101980356203491328",
+              "start": 0,
+              "username": "KMakise725"
+            }
+          ]
+        },
+        "id": "2115479394353639530",
+        "in_reply_to_user_id": "2101980356203491328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115449038745350168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMakise725 我不知道啥区别没用过，但两个都用过的人都说我的 skill 更好用"
+      },
+      {
+        "author_id": "2101980356203491328",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T14:22:08.000Z",
+        "display_text_range": [
+          9,
+          33
+        ],
+        "edit_history_tweet_ids": [
+          "2115449038745350168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115449038745350168",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 390,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115422067709681988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 外网剪映 mcp 跟你 skill 的区别是什么"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T16:22:05.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_history_tweet_ids": [
+          "2115479223838318697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2093053682472603648",
+              "start": 0,
+              "username": "alexpytv"
+            }
+          ]
+        },
+        "id": "2115479223838318697",
+        "in_reply_to_user_id": "2093053682472603648",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3594,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115462050965303323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexpytv 😆"
+      },
+      {
+        "author_id": "2093053682472603648",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T15:13:50.000Z",
+        "display_text_range": [
+          9,
+          40
+        ],
+        "edit_history_tweet_ids": [
+          "2115462050965303323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115462050965303323",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4378,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115420089336144052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 怎么办，不点赞回复吧，用着心里不安，点赞回复吧，又怕太多人看到"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T16:21:53.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_history_tweet_ids": [
+          "2115479173204680956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1671920202",
+              "start": 0,
+              "username": "vastxie"
+            }
+          ]
+        },
+        "id": "2115479173204680956",
+        "in_reply_to_user_id": "1671920202",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1980,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115449006411383200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vastxie 卧槽，那我死也把你拖下水"
+      },
+      {
+        "author_id": "1671920202",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T14:22:00.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_history_tweet_ids": [
+          "2115449006411383200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115449006411383200",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2580,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115420089336144052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 收到，这就去微信群转发🐶"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T13:50:20.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_history_tweet_ids": [
+          "2115441036403392819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447224722781917184",
+              "start": 0,
+              "username": "starkljm"
+            }
+          ]
+        },
+        "id": "2115441036403392819",
+        "in_reply_to_user_id": "1447224722781917184",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3504,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115440006865277155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starkljm 🉑"
+      },
+      {
+        "author_id": "1447224722781917184",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T13:46:15.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_history_tweet_ids": [
+          "2115440006865277155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2115440006865277155",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3965,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115420089336144052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 微信开着也能跑增量吗？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T12:34:58.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_history_tweet_ids": [
+          "2115422067709681988"
+        ],
+        "id": "2115422067709681988",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10763,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115420089336144052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实Windows版本的剪映Skill也做出来了，但是怕了，不放出来了。。。"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "card_uri": "https://t.co/lOyZazZRad",
+        "conversation_id": "2115420089336144052",
+        "created_at": "2026-10-28T12:27:06.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_history_tweet_ids": [
+          "2115420031979012418",
+          "2115420089336144052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to mcncarl/yichen-skills development by creating an account on GitHub.",
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 113,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/blob/main/yichen-wechat-local-vault/README.md",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2122075357411254272/Rnqs-M2p?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122075357411254272/Rnqs-M2p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "yichen-skills/yichen-wechat-local-vault/README.md at main · mcncarl/yichen-skills",
+              "unwound_url": "https://github.com/mcncarl/yichen-skills/blob/main/yichen-wechat-local-vault/README.md",
+              "url": "https://t.co/lOyZazZRad"
+            },
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/gengdaJ/status/2097960663616471410",
+              "start": 114,
+              "url": "https://t.co/An8uZCqNdU"
+            }
+          ]
+        },
+        "id": "2115420089336144052",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1315,
+          "impression_count": 109461,
+          "like_count": 885,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097960663616471410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千呼万唤的Windows版本微信Skill终于做出来了，大家依旧悄悄用，别再给我传出去了，我不想收律师函了，谢谢大伙！\n\n全量解析：聊天、朋友圈、收藏夹、联系人\n\nSkill地址：https://t.co/lOyZazZRad https://t.co/An8uZCqNdU"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "card_uri": "https://t.co/lOyZazZRad",
+        "conversation_id": "2115420031979012418",
+        "created_at": "2026-10-28T12:26:52.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_history_tweet_ids": [
+          "2115420031979012418",
+          "2115420089336144052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to mcncarl/yichen-skills development by creating an account on GitHub.",
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 110,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/blob/main/yichen-wechat-local-vault/README.md",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2122075357411254272/Rnqs-M2p?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122075357411254272/Rnqs-M2p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "yichen-skills/yichen-wechat-local-vault/README.md at main · mcncarl/yichen-skills",
+              "unwound_url": "https://github.com/mcncarl/yichen-skills/blob/main/yichen-wechat-local-vault/README.md",
+              "url": "https://t.co/lOyZazZRad"
+            },
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/gengdaJ/status/2097960663616471410",
+              "start": 111,
+              "url": "https://t.co/An8uZCqNdU"
+            }
+          ]
+        },
+        "id": "2115420031979012418",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097960663616471410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千呼万唤的Windows版本微信Skill做出来，大家依旧悄悄用，别再给我传出去了，我不想收律师函了，谢谢大伙！\n\n全量解析：聊天、朋友圈、收藏夹、联系人\n\nSkill地址：https://t.co/lOyZazZRad https://t.co/An8uZCqNdU"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2097960663616471410",
+        "created_at": "2026-09-10T08:09:35.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_history_tweet_ids": [
+          "2097960663616471410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 137,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+              "start": 114,
+              "status": 200,
+              "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+              "url": "https://t.co/fEwRqlcVcU"
+            }
+          ]
+        },
+        "id": "2097960663616471410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 137,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+                "start": 114,
+                "url": "https://t.co/UAwFmjhw3G"
+              },
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 274,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-mp-batch-exporter",
+                "start": 251,
+                "url": "https://t.co/fvM9uMRy7Q"
+              },
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 353,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-mac-wechat-dual-open",
+                "start": 330,
+                "url": "https://t.co/x0FjZAEoox"
+              },
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 403,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wecom-local-vault",
+                "start": 380,
+                "url": "https://t.co/RWmFUGr1wr"
+              }
+            ]
+          },
+          "text": "很多假粉丝都不知道我已经把微信生态都做成了Skill。。。\n\n1.微信数据Skill。微信聊天记录、微信联系人、微信朋友圈、微信收藏夹全部都可以被Codex直接读取，也支持增量读取，只有首次重签名具有一定风险，后续基本无风险。\nhttps://t.co/UAwFmjhw3G\n\n2微信公众号文章下载Skill。给链接，就能直接下载Markdown。（之前本来给公众号名就能批量导出上千篇的，但是作者把上游仓库关了。我现在自己维护了一个批量抓的Skill的，但是只对TradeWinds社群成员开放了）\nhttps://t.co/fvM9uMRy7Q\n\n3.微信双开Skill。有一定风险，我自己经常被弹出登录，所以现在没用了，如果有大神能优化，我举双手拥护。\nhttps://t.co/x0FjZAEoox\n\n4.企微微信数据Skill。同理微信Skill。\nhttps://t.co/RWmFUGr1wr"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2066,
+          "impression_count": 569173,
+          "like_count": 974,
+          "quote_count": 16,
+          "reply_count": 55,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "很多假粉丝都不知道我已经把微信生态都做成了Skill。。。\n\n1.微信数据Skill。微信聊天记录、微信联系人、微信朋友圈、微信收藏夹全部都可以被Codex直接读取，也支持增量读取，只有首次重签名具有一定风险，后续基本无风险。\nhttps://t.co/fEwRqlcVcU"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115394315468071316",
+        "created_at": "2026-10-28T10:44:41.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_history_tweet_ids": [
+          "2115394315468071316",
+          "2115394510066962754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mashiro_0619/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Mashiro_0619/status/2115293730941067637",
+              "start": 52,
+              "url": "https://t.co/VB4nnWsXXB"
+            }
+          ]
+        },
+        "id": "2115394315468071316",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115293730941067637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得绝大部分经验都是真的，基于我被封了快十个号的直觉。建议想Claude不被封号的朋友逐帧学习！！！ https://t.co/VB4nnWsXXB"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115394510066962754",
+        "created_at": "2026-10-28T10:45:27.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_history_tweet_ids": [
+          "2115394315468071316",
+          "2115394510066962754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mashiro_0619/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Mashiro_0619/status/2115293730941067637",
+              "start": 54,
+              "url": "https://t.co/VB4nnWsXXB"
+            }
+          ]
+        },
+        "id": "2115394510066962754",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 43185,
+          "like_count": 100,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115293730941067637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "基于我被封了快十个号的直觉，我觉得绝大部分经验都是真的。\n\n建议想Claude不被封号的朋友逐帧学习！！！ https://t.co/VB4nnWsXXB"
+      },
+      {
+        "author_id": "1897327640543133696",
+        "conversation_id": "2115293730941067637",
+        "created_at": "2026-10-28T04:05:00.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_history_tweet_ids": [
+          "2115293730941067637"
+        ],
+        "id": "2115293730941067637",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "Claude风控天机泄露😱\n\n1. Claude 的风控是积分制：注册时会先给账号打分，之后根据行为加分或减分，低于一定分值就会直接封号（很少加分）。\n\n2. 注册：邮箱和 IP 的权重最高。IP 不一定要家宽，但一定要干净，例如自建 IP。Gmail 已经不是最优选，他们现在使用的是一些其他高权重邮箱。注册时直接弹 KYC 的账号可以直接放弃。注册环节很重要，否则后续稍有高危行为就可能直接封号。使用手机 App 注册会加分。\n\n3. 支付：刚注册就订阅会减分，直接订阅 Max 会大幅减分，最好间隔一两天再订阅 Pro。订阅时弹出 KYC 意味着账号处于考察期，但不一定会封；简而言之，A 社想先看 KYC 结果再决定。KYC 使用中国护照没有问题，最大的问题是不能一人多扫；闲鱼上很多账号都属于这种情况，要小心。\n\n4. 注册后的 IP：最重要的是稳定，千万不要随便切换，尽可能一直使用同一个 IP；同样要求干净即可，不要求一定家宽，最好与注册 IP 一致。代理一定要开启全局模式并启用 TUN，这是重点。\n\n5. 老号：老号权重非常高，也就是积分很多，容错率更高。账号积分会随着账号寿命增加，不过 2023 年的老号才是显著更高。\n\n6. 使用：不要一上来就把周限额用完，尽量控制并平均使用；用量大的宁可开两个号轮换使用，也不要一次性用完。使用 CLI 和 Desktop 都可以，Desktop 似乎会少量加分。尽量少用网页端，最好只保留手机端和 Desktop 登录。\n\n7. 时区和语言基本不减分，或仅极少量减分，没必要特意调整。\n\n8. 高并发、反复提问同一个问题、频繁登录、频繁切换 IP 都会大幅减分。\n\n9. 手机端使用会少量加分。开启记忆功能会加分，甚至可能记忆文件越多分数越高。\n\n10. 支付方式为国外实体正规银行信用卡会加分，其次是 Google Play。Apple Pay 不了解；官方礼品卡不减分，但要注意来源是否为黑卡；虚拟卡直接绑定会减分。\n\n11. 到达斩杀线后可能进入观察期。例如及格线是 60 分，账号 55 分就进入观察；如果继续扣分直接掉到 40 分，就会直接封号。观察期的典型特征是掉登录。有的高权重号可能经历两三个观察期才被封。\n\n12. 多设备登录会大幅扣分，最好只在一台电脑上使用一个客户端。\n\n13. Windows 和 macOS 没什么区别，Linux 使用会减分。\n\n14. 跟 Claude 说自己是中国人也没事，不会因为记忆文件就封号。\n\n15. 充值 Credits 会加分，不过成本太高，尚未进行大量实验。\n\n16. 大量使用 Fable 会减分。\n\n17. 升级 Max 大概率会直接进入观察期，除非是积分特别多的高权重号。观察期内有减分行为，大概率会封号。\n\n18. 在工作时间使用不会扣分，不会出现因为使用北京时间就封号的情况。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2961,
+          "impression_count": 499041,
+          "like_count": 2353,
+          "quote_count": 67,
+          "reply_count": 263,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "Claude风控天机泄露😱\n\n1. Claude 的风控是积分制：注册时会先给账号打分，之后根据行为加分或减分，低于一定分值就会直接封号（很少加分）。\n\n2. 注册：邮箱和 IP 的权重最高。IP 不一定要家宽，但一定要干净，例如自建 IP。Gmail 已经不是最优选，他们现在使用的是一些其他高权重邮箱。注册时直接弹"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1519492491120189440",
+        "name": "酉财",
+        "protected": false,
+        "username": "superKracy"
+      },
+      {
+        "id": "1783786448556331008",
+        "name": "Ryuu｜玉龙",
+        "protected": false,
+        "username": "ryuu_restart"
+      },
+      {
+        "id": "2065745964980371456",
+        "name": "青野又在搞事情",
+        "protected": false,
+        "username": "tnqy9n"
+      },
+      {
+        "id": "1451831560991170569",
+        "name": "Rion Wu",
+        "protected": false,
+        "username": "rionaifantasy"
+      },
+      {
+        "id": "26780664",
+        "name": "Rockeymen",
+        "protected": false,
+        "username": "rockeymen"
+      },
+      {
+        "id": "7248822",
+        "name": "guyu",
+        "protected": false,
+        "username": "guyu"
+      },
+      {
+        "id": "1473190990857256962",
+        "name": "ThinkLogic 逻辑",
+        "protected": false,
+        "username": "EthYunlong"
+      },
+      {
+        "id": "1519705236713189377",
+        "name": "Suno",
+        "protected": false,
+        "username": "suno"
+      },
+      {
+        "id": "19651318",
+        "name": "杨德华",
+        "protected": false,
+        "username": "whitepoplar"
+      },
+      {
+        "id": "2018538247073546240",
+        "name": "Henry | Ye",
+        "protected": false,
+        "username": "HenryY54001"
+      },
+      {
+        "id": "2058074381147136000",
+        "name": "阎良",
+        "protected": false,
+        "username": "yanliang1988"
+      },
+      {
+        "id": "2007354590833061899",
+        "name": "南溟刺客",
+        "protected": false,
+        "username": "Nanming2549"
+      },
+      {
+        "id": "1999268897850290176",
+        "name": "Esudb Kvsc",
+        "protected": false,
+        "username": "xuanyuehua"
+      },
+      {
+        "id": "2101980356203491328",
+        "name": "KurisuMakis",
+        "protected": false,
+        "username": "KMakise725"
+      },
+      {
+        "id": "2093053682472603648",
+        "name": "alex",
+        "protected": false,
+        "username": "alexpytv"
+      },
+      {
+        "id": "1671920202",
+        "name": "弎水",
+        "protected": false,
+        "username": "vastxie"
+      },
+      {
+        "id": "1447224722781917184",
+        "name": "Mr.鼓先生",
+        "protected": false,
+        "username": "starkljm"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2116446020817306052",
+    "next_token": "b26v89c19zqg8o3juzlxo0areihy31bcddoznftlx91ml",
+    "oldest_id": "2115394315468071316",
+    "result_count": 24
+  }
+}

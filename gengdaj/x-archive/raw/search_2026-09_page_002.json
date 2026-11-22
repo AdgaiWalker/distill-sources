@@ -1,0 +1,2044 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104414516897579008"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104414578239267314",
+      "created_at": "2026-09-28T03:35:08.000Z",
+      "edit_history_tweet_ids": [
+        "2104413979703677022",
+        "2104414578239267314"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/hZIsKYTkv8",
+            "end": 159,
+            "expanded_url": "https://x.com/gengdaJ/status/2104414578239267314/photo/1",
+            "media_key": "3_2104414516897579008",
+            "start": 136,
+            "url": "https://t.co/hZIsKYTkv8"
+          },
+          {
+            "display_url": "x.com/raealisa/statu…",
+            "end": 183,
+            "expanded_url": "https://twitter.com/raealisa/status/2100002993001373810",
+            "start": 160,
+            "url": "https://t.co/04Kwa2SA8g"
+          }
+        ]
+      },
+      "id": "2104414578239267314",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "特喵的，以后可以笑着走出理发店了，让GPT-image 2.5给我发型和美容建议，太夸张了！！！\n\n建议大家都去试一下这个提示词，国庆节，无论是给自己出片，还是给女朋友/老婆出片，都无敌了！\n\n提示词如下👇：\n\n请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。\n\n识别出能让我看起来更精致和谐的最高影响力的变化，包括发型/发式/发色、眉毛、眼妆、皮肤/妆容位置、嘴唇，以及整体面部平衡。\n\n请针对我的实际特征给出具体建议，而不是泛泛而谈。  然后，生成这张确切照片的现实“之后”版本，展示你推荐的焕然一新效果。保持我可辨识为同一个人，并保留我的面部解剖结构，除非你特别推荐细微的结构调整。\n\n尽可能保持相同的姿势、相机角度、表情、光线、服装和背景。  让这些变化精致且现实，而不是夸张的美颜滤镜。优先考虑高影响力、低风险的造型调整。\n\n不要自动让我脸变瘦、鼻子变小、嘴唇变大、眼睛变大，或皮肤不切实际地完美。  对于头发，选择最能衬托我个人比例的发型、发色、分线、蓬松度和面部框架。\n\n对于妆容，优化眉形、眼线/睫毛、腮红/轮廓位置、唇部定义和肤色，同时保持自然。  \n\n生成一张前后对比照片，带有照片标注，解释每项变化，类似于专业美容咨询。"
+      },
+      "public_metrics": {
+        "bookmark_count": 957,
+        "impression_count": 139903,
+        "like_count": 1186,
+        "quote_count": 3,
+        "reply_count": 81,
+        "retweet_count": 172
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100002993001373810",
+          "type": "quoted"
+        }
+      ],
+      "text": "特喵的，以后可以笑着走出理发店了，让GPT-image 2.5给我发型和美容建议，太夸张了！！！\n\n建议大家都去试一下这个提示词，国庆节，无论是给自己出片，还是给女朋友/老婆出片，都无敌了！\n\n提示词如下👇：\n\n请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。 https://t.co/hZIsKYTkv8 https://t.co/04Kwa2SA8g",
+      "url": "https://x.com/gengdaJ/status/2104414578239267314"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104405179827359892",
+      "created_at": "2026-09-28T03:34:10.000Z",
+      "edit_history_tweet_ids": [
+        "2104414337469419660"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1946581515988770816",
+            "start": 0,
+            "username": "JianlongA18260"
+          }
+        ]
+      },
+      "id": "2104414337469419660",
+      "in_reply_to_user_id": "1946581515988770816",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1066,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104412725422281072",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JianlongA18260 桌面端也可以嘛",
+      "url": "https://x.com/gengdaJ/status/2104414337469419660"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104413208106954752",
+          "3_2104413377758208000"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104413979703677022",
+      "created_at": "2026-09-28T03:32:45.000Z",
+      "edit_history_tweet_ids": [
+        "2104413979703677022",
+        "2104414578239267314"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/CR0lrCjJez",
+            "end": 159,
+            "expanded_url": "https://x.com/gengdaJ/status/2104413979703677022/photo/1",
+            "media_key": "3_2104413208106954752",
+            "start": 136,
+            "url": "https://t.co/CR0lrCjJez"
+          },
+          {
+            "display_url": "pic.x.com/CR0lrCjJez",
+            "end": 159,
+            "expanded_url": "https://x.com/gengdaJ/status/2104413979703677022/photo/2",
+            "media_key": "3_2104413377758208000",
+            "start": 136,
+            "url": "https://t.co/CR0lrCjJez"
+          },
+          {
+            "display_url": "x.com/raealisa/statu…",
+            "end": 183,
+            "expanded_url": "https://twitter.com/raealisa/status/2100002993001373810",
+            "start": 160,
+            "url": "https://t.co/04Kwa2SA8g"
+          }
+        ]
+      },
+      "id": "2104413979703677022",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "特喵的，以后可以笑着走出理发店了，让GPT-image 2.5给我发型和美容建议，太夸张了！！！\n\n建议大家都去试一下这个提示词，国庆节，无论是给自己出片，还是给女朋友/老婆出片，都无敌了！\n\n提示词如下👇：\n\n请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。\n\n识别出能让我看起来更精致和谐的最高影响力的变化，包括发型/发式/发色、眉毛、眼妆、皮肤/妆容位置、嘴唇，以及整体面部平衡。\n\n请针对我的实际特征给出具体建议，而不是泛泛而谈。  然后，生成这张确切照片的现实“之后”版本，展示你推荐的焕然一新效果。保持我可辨识为同一个人，并保留我的面部解剖结构，除非你特别推荐细微的结构调整。\n\n尽可能保持相同的姿势、相机角度、表情、光线、服装和背景。  让这些变化精致且现实，而不是夸张的美颜滤镜。优先考虑高影响力、低风险的造型调整。\n\n不要自动让我脸变瘦、鼻子变小、嘴唇变大、眼睛变大，或皮肤不切实际地完美。  对于头发，选择最能衬托我个人比例的发型、发色、分线、蓬松度和面部框架。\n\n对于妆容，优化眉形、眼线/睫毛、腮红/轮廓位置、唇部定义和肤色，同时保持自然。  \n\n生成一张前后对比照片，带有照片标注，解释每项变化，类似于专业美容咨询。"
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 314,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100002993001373810",
+          "type": "quoted"
+        }
+      ],
+      "text": "特喵的，以后可以笑着走出理发店了，让GPT-image 2.5给我发型和美容建议，太夸张了！！！\n\n建议大家都去试一下这个提示词，国庆节，无论是给自己出片，还是给女朋友/老婆出片，都无敌了！\n\n提示词如下👇：\n\n请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。 https://t.co/CR0lrCjJez https://t.co/04Kwa2SA8g",
+      "url": "https://x.com/gengdaJ/status/2104413979703677022"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104397606189473792",
+          "3_2104398400565506049",
+          "3_2104400350983884800",
+          "3_2104402118669156352"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104405179827359892",
+      "created_at": "2026-09-28T02:57:47.000Z",
+      "edit_history_tweet_ids": [
+        "2104402581376368782",
+        "2104405179827359892"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/FH33qzEbXZ",
+            "end": 109,
+            "expanded_url": "https://x.com/gengdaJ/status/2104405179827359892/photo/1",
+            "media_key": "3_2104397606189473792",
+            "start": 86,
+            "url": "https://t.co/FH33qzEbXZ"
+          },
+          {
+            "display_url": "pic.x.com/FH33qzEbXZ",
+            "end": 109,
+            "expanded_url": "https://x.com/gengdaJ/status/2104405179827359892/photo/2",
+            "media_key": "3_2104398400565506049",
+            "start": 86,
+            "url": "https://t.co/FH33qzEbXZ"
+          },
+          {
+            "display_url": "pic.x.com/FH33qzEbXZ",
+            "end": 109,
+            "expanded_url": "https://x.com/gengdaJ/status/2104405179827359892/photo/3",
+            "media_key": "3_2104400350983884800",
+            "start": 86,
+            "url": "https://t.co/FH33qzEbXZ"
+          },
+          {
+            "display_url": "pic.x.com/FH33qzEbXZ",
+            "end": 109,
+            "expanded_url": "https://x.com/gengdaJ/status/2104405179827359892/photo/4",
+            "media_key": "3_2104402118669156352",
+            "start": 86,
+            "url": "https://t.co/FH33qzEbXZ"
+          }
+        ]
+      },
+      "id": "2104405179827359892",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "兄弟们，这几天我没有玩Muse，但是我已经把Claude玩疯了，中国护照过的，没封号！！！\n\n说一下几个Claude Code桌面端和Codex桌面端不同的感受吧：\n1. 模型层面：Opus5.5真的很强，没尬吹，体感比Astra还强一些。Fable5.1我这种菜鸡体验下来，其实和Opus5.5差距不大，出方案也很强，但我更多的是让它把我记忆系统给诊断了一遍，给了很多宝贵的建议。\n\n2. Computer Use和Chrome浏览器控制层面：这一块，Codex还是真神，Claude还会抢电脑。。。不能干别的事真的很难受。。。而且速度还很慢。。。所以只要有这方面的需求，都是让Claude出方案，然后让Codex去执行。\n\n3.交互层面：Claude完全真神级别，说人话，字体、输出格式，都更人性化，比Codex好理解很多。唯一麻烦的地方是只有英文（这可能也是我的缺点），但也很好解决，安装豆包工作，悬浮球，划段落翻译就行。\n\n4.插件生态：Codex还是领先太多了，数量上领先。常见的Higgsfield、topview这种内容插件都没有。而且Codex最近新出了一个模型写作风格的Skill，大家可以看看开启没有，可以模仿你的邮件内容和谷歌文档内容写作。Codex时不时在更新中给一些小惊喜，还是很不错！\n\n5.对话层面：Codex还是比Claude省心，在Bypass all permissions模式下，Codex是真的几乎不会问你问题（偶尔有补充问题，也会并行执行其他不想干任务），Claude就老是有毛病了，各种授权，尤其涉及到computer use，屁事老多了。。。\n\n6.使用量层面：量大管饱已经不是Codex的代言词，而是Claude的代言词，我两个Pro20✖️，感觉消耗得比我的Claude Max100$的还快。。。Opus5.5现在才是真神！\n\n本来都打算往Claude多转转，70%左右吧，但是Codex新界面更新之后，我觉得还是55，确实交互度丝滑了很多，新增了定时任务界面、站点管理界面、资料库界面，我又舍不得了。。。现在只能说两家各有优劣，鱼和熊掌暂时兼得一段时间吧。。。\n\n我的Claude都稳定用了快一周了，中国护照过KYC，暂时没感觉有啥问题，接着我就开始写教程了。。。说自己中国护照被封的，估计是网络、环境、支付方式，这些其他问题。。。"
+      },
+      "public_metrics": {
+        "bookmark_count": 69,
+        "impression_count": 29442,
+        "like_count": 91,
+        "quote_count": 1,
+        "reply_count": 67,
+        "retweet_count": 11
+      },
+      "text": "兄弟们，这几天我没有玩Muse，但是我已经把Claude玩疯了，中国护照过的，没封号！！！\n\n说一下几个Claude Code桌面端和Codex桌面端不同的感受吧：\n1. https://t.co/FH33qzEbXZ",
+      "url": "https://x.com/gengdaJ/status/2104405179827359892"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104397606189473792",
+          "3_2104398400565506049",
+          "3_2104400350983884800",
+          "3_2104402118669156352"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104402581376368782",
+      "created_at": "2026-09-28T02:47:27.000Z",
+      "edit_history_tweet_ids": [
+        "2104402581376368782",
+        "2104405179827359892"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/qIqNSFXAHt",
+            "end": 146,
+            "expanded_url": "https://x.com/gengdaJ/status/2104402581376368782/photo/1",
+            "media_key": "3_2104397606189473792",
+            "start": 123,
+            "url": "https://t.co/qIqNSFXAHt"
+          },
+          {
+            "display_url": "pic.x.com/qIqNSFXAHt",
+            "end": 146,
+            "expanded_url": "https://x.com/gengdaJ/status/2104402581376368782/photo/2",
+            "media_key": "3_2104398400565506049",
+            "start": 123,
+            "url": "https://t.co/qIqNSFXAHt"
+          },
+          {
+            "display_url": "pic.x.com/qIqNSFXAHt",
+            "end": 146,
+            "expanded_url": "https://x.com/gengdaJ/status/2104402581376368782/photo/3",
+            "media_key": "3_2104400350983884800",
+            "start": 123,
+            "url": "https://t.co/qIqNSFXAHt"
+          },
+          {
+            "display_url": "pic.x.com/qIqNSFXAHt",
+            "end": 146,
+            "expanded_url": "https://x.com/gengdaJ/status/2104402581376368782/photo/4",
+            "media_key": "3_2104402118669156352",
+            "start": 123,
+            "url": "https://t.co/qIqNSFXAHt"
+          }
+        ]
+      },
+      "id": "2104402581376368782",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "兄弟们，这几天我没有玩Muse，但是我已经把Claude玩疯了，Mac上玩，iPhone上玩，开着UU远程玩，云端玩，本地也玩，想怎么玩怎么玩，就和打游戏一样上瘾。\n\n说一下几个Claude Code桌面端和Codex桌面端不同的感受吧：\n1. 模型层面：Opus5.5真的很强，没尬吹，体感比Astra还强一些。Fable5.1我这种菜鸡体验下来，其实和Opus5.5差距不大，出方案也很强，但我更多的是让它把我记忆系统给诊断了一遍，给了很多宝贵的建议。\n\n2. Computer Use和Chrome浏览器控制层面：这一块，Codex还是真神，Claude还会抢电脑。。。不能干别的事真的很难受。。。而且速度还很慢。。。所以只要有这方面的需求，都是让Claude出方案，然后让Codex去执行。\n\n3.交互层面：Claude完全真神级别，说人话，字体、输出格式，都更人性化，比Codex好理解很多。唯一麻烦的地方是只有英文（这可能也是我的缺点），但也很好解决，安装豆包工作，悬浮球，划段落翻译就行。\n\n4.插件生态：Codex还是领先太多了，数量上领先。常见的Higgsfield、topview这种内容插件都没有。而且Codex最近新出了一个模型写作风格的Skill，大家可以看看开启没有，可以模仿你的邮件内容和谷歌文档内容写作。Codex时不时在更新中给一些小惊喜，还是很不错！\n\n5.对话层面：Codex还是比Claude省心，在Bypass all permissions模式下，Codex是真的几乎不会问你问题（偶尔有补充问题，也会并行执行其他不想干任务），Claude就老是有毛病了，各种授权，尤其涉及到computer use，屁事老多了。。。\n\n6.使用量层面：量大管饱已经不是Codex的代言词，而是Claude的代言词，我两个Pro20✖️，感觉消耗得比我的Claude Max100$的还快。。。Opus5.5现在才是真神！\n\n本来都打算往Claude多转转，70%左右吧，但是Codex新界面更新之后，我觉得还是55，确实交互度丝滑了很多，新增了定时任务界面、站点管理界面、资料库界面，我又舍不得了。。。现在只能说两家各有优劣，鱼和熊掌暂时兼得一段时间吧。。。\n\n然后我的Claude都稳定用了快一周了，中国护照过KYC，暂时没感觉有啥问题，接着我就开始写教程了。。。说自己中国护照被封的，估计是网络、环境、支付方式，这些其他问题。。。"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 554,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "兄弟们，这几天我没有玩Muse，但是我已经把Claude玩疯了，Mac上玩，iPhone上玩，开着UU远程玩，云端玩，本地也玩，想怎么玩怎么玩，就和打游戏一样上瘾。\n\n说一下几个Claude Code桌面端和Codex桌面端不同的感受吧：\n1. https://t.co/qIqNSFXAHt",
+      "url": "https://x.com/gengdaJ/status/2104402581376368782"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104215886429331580",
+      "created_at": "2026-09-27T22:17:41.000Z",
+      "edit_history_tweet_ids": [
+        "2104334689280626712"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1928711169419956224",
+            "start": 0,
+            "username": "GoSailGlobal"
+          }
+        ]
+      },
+      "id": "2104334689280626712",
+      "in_reply_to_user_id": "1928711169419956224",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 503,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104215886429331580",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoSailGlobal 学习！",
+      "url": "https://x.com/gengdaJ/status/2104334689280626712"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-27T13:20:56.000Z",
+      "edit_history_tweet_ids": [
+        "2104199612777238679"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1920877983096844288",
+            "start": 0,
+            "username": "fo_Quinnoct"
+          }
+        ]
+      },
+      "id": "2104199612777238679",
+      "in_reply_to_user_id": "1920877983096844288",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 252,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104148639543402584",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fo_Quinnoct 还有机会的",
+      "url": "https://x.com/gengdaJ/status/2104199612777238679"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-27T13:20:36.000Z",
+      "edit_history_tweet_ids": [
+        "2104199529147015555"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "50683",
+            "start": 0,
+            "username": "dingyi"
+          }
+        ]
+      },
+      "id": "2104199529147015555",
+      "in_reply_to_user_id": "50683",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 260,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104108024042549352",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dingyi 感谢 ding 师！",
+      "url": "https://x.com/gengdaJ/status/2104199529147015555"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104030018544566539",
+      "created_at": "2026-09-27T03:26:26.000Z",
+      "edit_history_tweet_ids": [
+        "2104050002536583274"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2104050002536583274",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3717,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104030018544566539",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 感谢小晚姐安利，这个让AI学习剪辑细节的思路值得学习🥳",
+      "url": "https://x.com/gengdaJ/status/2104050002536583274"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-27T01:18:22.000Z",
+      "edit_history_tweet_ids": [
+        "2104017774435868787"
+      ],
+      "id": "2104017774435868787",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4471,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103726169317413244",
+          "type": "replied_to"
+        }
+      ],
+      "text": "最重要的一个因素忘写了：运气好",
+      "url": "https://x.com/gengdaJ/status/2104017774435868787"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103896589589000213",
+      "created_at": "2026-09-26T23:28:54.000Z",
+      "edit_history_tweet_ids": [
+        "2103990223873118438"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2103990223873118438",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 475,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103896589589000213",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 谢谢小晚姐推荐😃",
+      "url": "https://x.com/gengdaJ/status/2103990223873118438"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T23:28:35.000Z",
+      "edit_history_tweet_ids": [
+        "2103990144839938108"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "2026500358906982402",
+            "start": 0,
+            "username": "VickyWerid11659"
+          }
+        ]
+      },
+      "id": "2103990144839938108",
+      "in_reply_to_user_id": "2026500358906982402",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 435,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103888206689345830",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@VickyWerid11659 你们太捧杀我了😅",
+      "url": "https://x.com/gengdaJ/status/2103990144839938108"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T23:28:15.000Z",
+      "edit_history_tweet_ids": [
+        "2103990063126413709"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1822141194404593664",
+            "start": 0,
+            "username": "Yiwei_growth"
+          }
+        ]
+      },
+      "id": "2103990063126413709",
+      "in_reply_to_user_id": "1822141194404593664",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 804,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103877410672517254",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yiwei_growth 哈哈哈我也很荣幸！",
+      "url": "https://x.com/gengdaJ/status/2103990063126413709"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T23:27:56.000Z",
+      "edit_history_tweet_ids": [
+        "2103989980058321170"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "2022118285983232001",
+            "start": 0,
+            "username": "xmmxovo"
+          }
+        ]
+      },
+      "id": "2103989980058321170",
+      "in_reply_to_user_id": "2022118285983232001",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 335,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103868336937578788",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xmmxovo 西门姐带带弟弟！",
+      "url": "https://x.com/gengdaJ/status/2103989980058321170"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103989541237563552",
+      "created_at": "2026-09-26T23:26:11.000Z",
+      "edit_history_tweet_ids": [
+        "2103989541237563552"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1895453094361890816",
+            "start": 3,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2103989541237563552",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 130,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 225
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103900178260586993",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @higgsfield: Introducing Seedance 2.5 in native 1080p on Higgsfield API.\n\n100% instant cashback on API spend.\nThere’s $18M left in the p…",
+      "url": "https://x.com/gengdaJ/status/2103989541237563552"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T14:41:28.000Z",
+      "edit_history_tweet_ids": [
+        "2103857492728131751"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2039322394104340480",
+            "start": 0,
+            "username": "IrvingNJJN"
+          }
+        ]
+      },
+      "id": "2103857492728131751",
+      "in_reply_to_user_id": "2039322394104340480",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 825,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103855110170489329",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@IrvingNJJN 那说明路有问题，我800个粉丝就变现过万了",
+      "url": "https://x.com/gengdaJ/status/2103857492728131751"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T11:07:30.000Z",
+      "edit_history_tweet_ids": [
+        "2103803645330678251"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1633337406710775813",
+            "start": 0,
+            "username": "_HIT_SZ_"
+          }
+        ]
+      },
+      "id": "2103803645330678251",
+      "in_reply_to_user_id": "1633337406710775813",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103796950902755477",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_HIT_SZ_ 准备跟着就来",
+      "url": "https://x.com/gengdaJ/status/2103803645330678251"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T11:07:14.000Z",
+      "edit_history_tweet_ids": [
+        "2103803580197261821"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1997889576187387904",
+            "start": 0,
+            "username": "cgnot996"
+          }
+        ]
+      },
+      "id": "2103803580197261821",
+      "in_reply_to_user_id": "1997889576187387904",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 746,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103794085341569106",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cgnot996 goooo！",
+      "url": "https://x.com/gengdaJ/status/2103803580197261821"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T11:06:36.000Z",
+      "edit_history_tweet_ids": [
+        "2103803418884427959"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2103803418884427959",
+      "in_reply_to_user_id": "1881991469730594816",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1829,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103793546293882964",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 包的，我将潜心修行",
+      "url": "https://x.com/gengdaJ/status/2103803418884427959"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T10:10:04.000Z",
+      "edit_history_tweet_ids": [
+        "2103789192379818367"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          }
+        ]
+      },
+      "id": "2103789192379818367",
+      "in_reply_to_user_id": "1869683226178146304",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 720,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103781452072833163",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c Sac 哥说笑了😂一起加油！",
+      "url": "https://x.com/gengdaJ/status/2103789192379818367"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T09:28:08.000Z",
+      "edit_history_tweet_ids": [
+        "2103778638013571347"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1633337406710775813",
+            "start": 0,
+            "username": "_HIT_SZ_"
+          }
+        ]
+      },
+      "id": "2103778638013571347",
+      "in_reply_to_user_id": "1633337406710775813",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1195,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103749161330131180",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_HIT_SZ_ 冲就完了，抱一下小伟哥大腿😁",
+      "url": "https://x.com/gengdaJ/status/2103778638013571347"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T09:27:45.000Z",
+      "edit_history_tweet_ids": [
+        "2103778543675318748"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1207976235013271552",
+            "start": 0,
+            "username": "brent92756516"
+          }
+        ]
+      },
+      "id": "2103778543675318748",
+      "in_reply_to_user_id": "1207976235013271552",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1127,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103771261725966817",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@brent92756516 最近几天在四川",
+      "url": "https://x.com/gengdaJ/status/2103778543675318748"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T09:27:05.000Z",
+      "edit_history_tweet_ids": [
+        "2103778376616128930"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1936480895692869633",
+            "start": 0,
+            "username": "Leobai825"
+          }
+        ]
+      },
+      "id": "2103778376616128930",
+      "in_reply_to_user_id": "1936480895692869633",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 938,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103735191160393836",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Leobai825 谢谢策哥，一起猛猛干",
+      "url": "https://x.com/gengdaJ/status/2103778376616128930"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T09:26:57.000Z",
+      "edit_history_tweet_ids": [
+        "2103778341400764870"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1792608085409939456",
+            "start": 0,
+            "username": "Astronaut_1216"
+          }
+        ]
+      },
+      "id": "2103778341400764870",
+      "in_reply_to_user_id": "1792608085409939456",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 819,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103726929484603805",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 杭哥被这样，我害怕🥹",
+      "url": "https://x.com/gengdaJ/status/2103778341400764870"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T09:26:36.000Z",
+      "edit_history_tweet_ids": [
+        "2103778254985531438"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1877440800",
+            "start": 0,
+            "username": "li9292"
+          }
+        ]
+      },
+      "id": "2103778254985531438",
+      "in_reply_to_user_id": "1877440800",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 699,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103745767844540696",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@li9292 韭二哥谬赞了啊！这我哪敢当🥹",
+      "url": "https://x.com/gengdaJ/status/2103778254985531438"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2104414516897579008",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104413208106954752",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104413377758208000",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104397606189473792",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104398400565506049",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104400350983884800",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104402118669156352",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100002990128234496"
+          ]
+        },
+        "author_id": "1381048313290498049",
+        "conversation_id": "2100002993001373810",
+        "created_at": "2026-09-15T23:25:04.000Z",
+        "edit_history_tweet_ids": [
+          "2100002993001373810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0Mf59KhCG",
+              "end": 67,
+              "expanded_url": "https://x.com/raealisa/status/2100002993001373810/photo/1",
+              "media_key": "3_2100002990128234496",
+              "start": 44,
+              "url": "https://t.co/Y0Mf59KhCG"
+            }
+          ]
+        },
+        "id": "2100002993001373810",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 19161,
+          "impression_count": 15036840,
+          "like_count": 12967,
+          "quote_count": 558,
+          "reply_count": 98,
+          "retweet_count": 753
+        },
+        "text": "chatgpt actually gives great glow up advice https://t.co/Y0Mf59KhCG"
+      },
+      {
+        "author_id": "1946581515988770816",
+        "conversation_id": "2104405179827359892",
+        "created_at": "2026-09-28T03:27:46.000Z",
+        "edit_history_tweet_ids": [
+          "2104412725422281072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2104412725422281072",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1163,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104405179827359892",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ claude可以用下面这个命令，等于gpt的完全授权模式，不会一直要授权\n\nclaude--dangerously-skip-permissions\n\n还可以让claude写个脚本，每次运行默认为这个模式"
+      },
+      {
+        "article": {
+          "cover_media": "3_2104215688680529920",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://github.com/zhuyansen/awesome-claude-video-skills"
+              },
+              {
+                "text": "https://agentskillshub.top/best/claude-video-skills/"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2104181883810766848",
+            "3_2104181863657209856",
+            "3_2104181824067166208",
+            "3_2104181892174209025",
+            "3_2104181843859996672"
+          ],
+          "plain_text": "180 个仓库，10 个分类，每一个都读过 README 并打了安全评级。\n这是一份给编程 agent 用的视频工具榜单，收的全是能让 Claude Code、Codex 这类 agent 直接做视频、剪视频、做动效的开源 skill 和工具包。整个过程花了约 200 美元，分类和评级交给 Jev 逐个读 README 来判断，结果做成了一个 GitHub 仓库加一个带筛选的在线页面，每 8 小时刷新一次。\n前面几篇都在测 Jev 能干什么，这篇是把它真正用起来的产出。\n \n一、先看全貌：剪辑最多，音乐视频最少\n剪辑与后期，仓库数：35，星数最高的仓库：FireRed-OpenStoryline，3.4k\n讲解科普，仓库数：32，星数最高的仓库：vox-director，2.0k\n框架与通用工具包，仓库数：29，星数最高的仓库：OpenMontage，61.5k\n产品宣传与演示，仓库数：26，星数最高的仓库：video-shotcraft，9.7k\n短视频与口播，仓库数：19，星数最高的仓库：codex-storyboard，344\n故事与动画，仓库数：13，星数最高的仓库：story-to-handdrawn-video，2.1k\n动效与 Logo，仓库数：11，星数最高的仓库：diffusionstudio/lottie，5.5k\n剧本与学习，仓库数：9，星数最高的仓库：screenwriting-skills，1.4k\n数字人，仓库数：4，星数最高的仓库：heygen-com/skills，454\n音乐视频，仓库数：2，星数最高的仓库：PDoomVideo，1.1k\n剪辑、讲解、框架、产品宣传四类加起来 122 个，占了三分之二。这个分布本身就是信号：agent 做视频目前最成熟的场景是处理已有素材和把文稿变成讲解片，数字人和音乐视频还在早期。\n另一个数字更值得看。180 个仓库里有 107 个不到 50 星，过千星的只有 20 个。这个领域大部分工具还没被发现，靠星数排序的榜单会把它们全部漏掉。\n \n二、上榜规则是四条硬问题，由模型逐个读 README 回答\n榜单好不好用取决于规则清不清楚，这份榜单的规则只有四条。\n它做视频、剪视频或做动效，3D 网页和提示词合集不算。它是给 agent 用的，形态是 skill、插件、MCP 服务器或者为 agent 写的工具包。它有 README，没有 README 就没法评级。50 星以上只看是否切题，50 星以下还要过 README 质量线，要展示成品、一条命令能上手、说清产出、文档完整，并且至少 5 星。\n这四条全部是封闭问题，正好落在 Jev 的主场。之前的实测里它在零样本分类上对干净的 BERT 家族七个评测集全胜，置信度在所有测过的后端里最能用，日期和计数这类要算的活才是它的短板，而读 README 判断「这是不是给 agent 用的视频工具」一步计算都不需要。\n安全评级的结果是 178 个 SAFE，2 个 CAUTION。评的是 README 和安装步骤，装之前值得先看一眼。卡在线上的仓库可能判到任一边，归错了可以直接提 issue。\n\n \n三、框架层：两条路线，HTML 出片和 Remotion 编程\n想让 agent 做视频，先要选底座。29 个框架类仓库基本分成两条路线。\ncalesthio/OpenMontage，61.5k 星。开源的 agent 视频制作系统，12 条制作流水线、100 多个工具、700 多个 skill，想先看全貌就从它开始。\nheygen-com/hyperframes，53.5k 星。写 HTML 就能渲染成视频，专为 agent 而建。榜单里很多小仓库都搭在它上面，纸拼贴风、信息动画这些路线尤其集中。\n另一条路线是 Remotion，用 React 以编程方式做视频。产品宣传类的 26 个仓库里有 14 个在描述里点名用它，HyperFrames 是 5 个。\n选哪条看你要的控制粒度。HyperFrames 门槛低，agent 写 HTML 和 CSS 本来就熟，Remotion 表达力更强，镜头、转场、卡点都能精确到帧。还有一个切口很小的值得留意，iart-ai/data-animation-skills 只有 6 星，专门把 CSV 变成动态图表，每一帧的数字都保证准确。\n\n \n四、四个大类，各挑三个先看\n剪辑与后期（35 个）\nFireRedTeam/FireRed-OpenStoryline，3.4k 星。用自然语言交互做导演式剪辑，LLM 规划加工具编排，支持可复用的风格 skill。\nayushozha/AdobePremiereProMCP，106 星。Premiere Pro 的 MCP 服务器，1027 个工具覆盖时间线、调色、混音、特效和导出，等于让 agent 直接接管专业剪辑软件。\nlouisedesadeleer/cut-video，101 星。精简长录制内容，去掉静音和语气词，但会保留笑声和喜剧停顿。这种取舍很少有工具做对。\n这一类的主流做法是底层用 ffmpeg、Whisper 和视觉模型完成粗剪，再用 Remotion 或 HyperFrames 渲染字幕和动效，口播视频是最集中的场景。\n讲解科普（32 个）\nAlisa0808/vox-director，2.0k 星。给一个选题，做成 Vox 风格的纸拼贴讲解视频。\nVincentwei1021/video-talkcraft，1.2k 星。配音驱动的讲解视频，逐词配音同步，自带 109 张动效配方卡。\naijiduonadegou/Paper-Cut，16 星。不用视频模型做纸拼贴科普，图像模型定稿后把原图拆层，再用代码做动画，省掉了最贵的那一环。\n视觉风格上两条路线最集中，Vox 纸拼贴和 3Blue1Brown 式的数学动画。\n产品宣传与演示（26 个）\nVincentwei1021/video-shotcraft，9.7k 星。用 Remotion 做电影感产品视频，带 152 张镜头配方卡和 209 个动效预览，这套配方卡被好几个仓库沿用。\nop7418/guizang-product-video-skill，445 星。直接复用真实产品的组件和设计语言来做更新宣传片，画面和产品本身完全一致。\nArman-Luthra/aftr，22 星。相当于 After Effects 版的 Puppeteer，这一类里唯一走 AE 路线的仓库。\n短视频与口播（19 个）\nYuuhann1999/codex-storyboard，344 星。本地多项目的视频分镜工作台，分镜到渲染一站管理。\nhassancs91/claude-faceless-shorts-creator，268 星。不露脸的 YouTube Shorts 工厂，Remotion 画面加 ElevenLabs 配音和逐词字幕，全链路打通。\npyang5166/gbro-collage-info，51 星。半调纸拼贴风的信息动画，根据旁白脚本生成，不依赖图像模型。\n\n \n五、小类里藏着最有意思的东西\n数量少的几类反而个性最强。\n动效与 Logo 里，diffusionstudio/lottie（5.5k 星）让 agent 生成可直接用于生产的 Lottie 动画，nolangz/pixel2motion（2.3k 星）把位图 logo 转成 SVG 动画，还会输出动效的 QA 证据。\n故事与动画 里东方题材很集中。gnipbao/story-to-handdrawn-video（2.1k 星）把中文故事文案转成手绘日记漫画风动画，AllenAI2014/remotion-guofeng-starter（25 星）给一首诗或一个成语就能出国风纸片动画。\n剧本与学习 管的是视频的前期。jtydhr88/screenwriting-skills（1.4k 星）打包了 26 个编剧和戏剧构作的专业 skill，eternityspring/reelbench-skills（843 星）做逐镜头拉片，拆完还能合成带分镜信息的视频。\n数字人 只有 4 个，其中 3 个都以 HeyGen 为底座，差别在封装层次，有的只管生成，有的一路做到社交平台发布。\n音乐视频 只有 2 个，但都值得打开源码看。JohnHeibel/PDoomVideo（1.1k 星）是音乐视频《I'm Upping My P(doom)》的完整源代码，ledbetterljoshua/functional-emotions-video（45 星）自研了 GPU 笔触渲染器，用 7 个章节 agent 并行制作。\n六、整理完之后的三个观察\n代码化出片是最集中的路线。180 个仓库的描述里，点名 Remotion 的有 46 个，点名 HyperFrames 的有 26 个，两个底座合计 72 个，占了四成。原因很实际，代码渲染的每一帧都可控、可复现、可修改，而这正好是 agent 擅长的事。\n配方卡正在变成通用资产。video-shotcraft 的 152 张镜头配方卡、video-talkcraft 的 109 张动效配方卡，做的是同一件事：把好镜头拆成 agent 能直接套用的参数。这比写一大段提示词稳得多。\n小仓库的信息密度被严重低估。107 个不到 50 星的仓库里有 Paper-Cut 这种省掉视频模型的巧思，有 aftr 这种打通 AE 的独苗。按星数排序永远看不到它们，按规则筛才行。\n仓库和在线页面都开源了，推荐仓库直接提 issue 附上链接，它会走和每个条目一样的评审：\nhttps://github.com/zhuyansen/awesome-claude-video-skills\nhttps://agentskillshub.top/best/claude-video-skills/\n创作不易，如果你也对出海感兴趣，想一起出海学习交流，请关注微信公众号「杰森AI出海」。另外可加入 GoSail 出海交流群，一起交流数字游民、出海和 AI。",
+          "preview_text": "180 个仓库，10 个分类，每一个都读过 README 并打了安全评级。\n这是一份给编程 agent 用的视频工具榜单，收的全是能让 Claude Code、Codex 这类 agent 直接做视频、剪视频、做动效的开源 skill",
+          "title": "107 个不到 50 星的宝藏：我把能让 Claude 做视频的 180 个开源 skill 全部分类开源了"
+        },
+        "author_id": "1928711169419956224",
+        "conversation_id": "2104215886429331580",
+        "created_at": "2026-09-27T14:25:36.000Z",
+        "edit_history_tweet_ids": [
+          "2104215886429331580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2104…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2104181663844700160",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2104181663844700160",
+              "url": "https://t.co/1uURKVROBg"
+            }
+          ]
+        },
+        "id": "2104215886429331580",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 1166,
+          "impression_count": 533261,
+          "like_count": 560,
+          "quote_count": 68,
+          "reply_count": 65,
+          "retweet_count": 97
+        },
+        "text": "https://t.co/1uURKVROBg"
+      },
+      {
+        "author_id": "1920877983096844288",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-27T09:58:23.000Z",
+        "edit_history_tweet_ids": [
+          "2104148639543402584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2104148639543402584",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 我还没有机会认识到老师！怎么就要离开了😿"
+      },
+      {
+        "author_id": "50683",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-27T07:17:00.000Z",
+        "edit_history_tweet_ids": [
+          "2104108024042549352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2104108024042549352",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 牛逼！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2104029123714953216"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2104030018544566539",
+        "created_at": "2026-09-27T02:07:02.000Z",
+        "edit_history_tweet_ids": [
+          "2104030018544566539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 120,
+              "id": "1897545708770840576",
+              "start": 112,
+              "username": "gengdaJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/jianyi…",
+              "end": 158,
+              "expanded_url": "https://github.com/mcncarl/jianying-headless",
+              "start": 135,
+              "status": 404,
+              "unwound_url": "https://github.com/mcncarl/jianying-headless",
+              "url": "https://t.co/tKwnmdjjhv"
+            },
+            {
+              "display_url": "pic.x.com/oqn3IfFUkK",
+              "end": 182,
+              "expanded_url": "https://x.com/bbkirstry/status/2104030018544566539/video/1",
+              "media_key": "13_2104029123714953216",
+              "start": 159,
+              "url": "https://t.co/oqn3IfFUkK"
+            }
+          ]
+        },
+        "id": "2104030018544566539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 120,
+                "id": "1897545708770840576",
+                "start": 112,
+                "username": "gengdaJ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/mcncarl/jianyi…",
+                "end": 158,
+                "expanded_url": "https://github.com/mcncarl/jianying-headless",
+                "start": 135,
+                "url": "https://t.co/t9TP59QRnU"
+              },
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 193,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+                "start": 170,
+                "url": "https://t.co/LYHdCTCZib"
+              }
+            ]
+          },
+          "text": "分享一下被小红书ban掉的剪辑教程\n有了这个skill+这套sop，我现在基本上不用动手剪视频了\n\n只需要简单提示词，口播类视频剪辑全程托管给Codex，另外可叠加演示录屏+素材生成，制作完整的AI教学分享演示教程\n\n来自 @gengdaJ   \n剪映11.4.2开源：https://t.co/t9TP59QRnU \n配套神级Skill：https://t.co/LYHdCTCZib"
+        },
+        "public_metrics": {
+          "bookmark_count": 1167,
+          "impression_count": 98071,
+          "like_count": 849,
+          "quote_count": 21,
+          "reply_count": 33,
+          "retweet_count": 154
+        },
+        "text": "分享一下被小红书ban掉的剪辑教程\n有了这个skill+这套sop，我现在基本上不用动手剪视频了\n\n只需要简单提示词，口播类视频剪辑全程托管给Codex，另外可叠加演示录屏+素材生成，制作完整的AI教学分享演示教程\n\n来自 @gengdaJ   \n剪映11.4.2开源：https://t.co/tKwnmdjjhv https://t.co/oqn3IfFUkK"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2103726156386320384",
+            "3_2103726156415717376"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T05:59:38.000Z",
+        "edit_history_tweet_ids": [
+          "2103726169317413244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Woc5S6VLwQ",
+              "end": 177,
+              "expanded_url": "https://x.com/gengdaJ/status/2103726169317413244/photo/1",
+              "media_key": "3_2103726156386320384",
+              "start": 154,
+              "url": "https://t.co/Woc5S6VLwQ"
+            },
+            {
+              "display_url": "pic.x.com/Woc5S6VLwQ",
+              "end": 177,
+              "expanded_url": "https://x.com/gengdaJ/status/2103726169317413244/photo/2",
+              "media_key": "3_2103726156415717376",
+              "start": 154,
+              "url": "https://t.co/Woc5S6VLwQ"
+            }
+          ]
+        },
+        "id": "2103726169317413244",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "过去的三个月，就和做梦一样，这绝对是我人生目前为止最浓墨重彩的一笔！\n\n从六月底决定孤身一人来到上海律所实习，\n7月 10号正式来到上海，\n再到今天（9 月 26 号）离开上海，\n我经历了太多太多，\n给大家分享下我的故事吧。\n\n先说说收获，\n月收入增长至少五倍，\n换了 iPhone 18 pro max，\n做了第一次企业级 AI 分享，\n结识了各行业的大佬前辈，\n线下面基了超过 50 个 X 上的朋友——\n温总、杭哥、小晚姐、微微子、yiwei…太多太多朋友了\n\n但这次来到上海，\n刚开始我是抱着破釜沉舟的决心，\n身上的钱孤注一掷，\n全部投资到好的住宿环境（一个月接近一万），\n这里离公司通勤仅五分钟。\n\n为了对得起投资的钱，我把作息被强行调整成了：\n六点半起床\n七点吃完早饭\n健身一小时\n九点上班\n边工作边玩 AI\n六点下班\n继续做 AI 自媒体\n\n重复上面这个过程，一天天重复。\n就和我上大学的这两年一模一样。\n\n随着认知、内容和收入的提升，\n我的生活也渐渐变得不一样。\n\n我有了尝试更多新鲜玩意儿的勇气：\n1、飞去郑州做了一次企业内部的 AI 分享，\n获得了创始人的认可，我们还在长期联系。\n\n2、去了所谓的“高端餐厅”，过了 20 岁生日，对面就是东方明珠。\n\n3、奢侈地住了外滩边的酒店、去了度假山庄、玩最贵的汤泉、吃最贵的饭。\n\n4、在豪华酒店里面随机找陌生人进行采访，虽然因为对方职业特殊原因失败了。\n\n不是炫耀，我是想说如果我要去更大的世界、做更多有意思的事情，就必须培养一种“配得感”——世界上没有我不能去的地方、一切都是资源、一切都可以利用。\n\n我需要见识更多的东西，认识更多的人，来充裕我的生活和灵魂，人生来世一遭，别给自己设限，先爽了再说！\n\n而且，这些也都是我之后创作的素材，假如有一天我财富自由，我去写小说，这些都会成为里面的故事。\n\n最后，我临走的时候，还请我带教吃了顿饭，他问我为什么能是一个 06 年的人，为什么在这样的年纪过上了这样的生活，有什么品质是需要具备的。\n\n我笑着回答：“勇气、执行力、好奇心、坚持、自律、乐观、擅于孤独”。\n\nFake it till you make it"
+        },
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 50897,
+          "like_count": 395,
+          "quote_count": 6,
+          "reply_count": 520,
+          "retweet_count": 13
+        },
+        "text": "过去的三个月，就和做梦一样，这绝对是我人生目前为止最浓墨重彩的一笔！\n\n从六月底决定孤身一人来到上海律所实习，\n7月 10号正式来到上海，\n再到今天（9 月 26 号）离开上海，\n我经历了太多太多，\n给大家分享下我的故事吧。\n\n先说说收获，\n月收入增长至少五倍，\n换了 iPhone 18 pro max， https://t.co/Woc5S6VLwQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2103896581099712512",
+            "3_2103896581091311616"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2103896589589000213",
+        "created_at": "2026-09-26T17:16:50.000Z",
+        "edit_history_tweet_ids": [
+          "2103896589589000213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 72,
+              "id": "1897545708770840576",
+              "start": 64,
+              "username": "gengdaJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ri3qMjsWsn",
+              "end": 138,
+              "expanded_url": "https://x.com/bbkirstry/status/2103896589589000213/photo/1",
+              "media_key": "3_2103896581099712512",
+              "start": 115,
+              "url": "https://t.co/Ri3qMjsWsn"
+            },
+            {
+              "display_url": "pic.x.com/Ri3qMjsWsn",
+              "end": 138,
+              "expanded_url": "https://x.com/bbkirstry/status/2103896589589000213/photo/2",
+              "media_key": "3_2103896581091311616",
+              "start": 115,
+              "url": "https://t.co/Ri3qMjsWsn"
+            }
+          ]
+        },
+        "id": "2103896589589000213",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3581,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "text": "晚睡的孩子有福啦！！！！！\n猛猛蹬到1%然后发现喜提一个重置～\n👻👻👻👻👻👻\n\n终于把AI自动剪辑教程的视频做完了！\n大力推荐 @gengdaJ 的剪辑skill👊🏻\n我已经不用再自己剪口播了🥳\n明天发明天发～睡觉💤晚安全世界！ https://t.co/Ri3qMjsWsn"
+      },
+      {
+        "author_id": "2026500358906982402",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T16:43:31.000Z",
+        "edit_history_tweet_ids": [
+          "2103888206689345830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103888206689345830",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 逸尘是我偶像🤩"
+      },
+      {
+        "author_id": "1822141194404593664",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T16:00:37.000Z",
+        "edit_history_tweet_ids": [
+          "2103877410672517254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103877410672517254",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 960,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 勇气、执行力、好奇心、坚持、自律、乐观、擅于孤独\n\n和每一个这样的人成为朋友都很高兴以及荣幸！！"
+      },
+      {
+        "author_id": "2022118285983232001",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T15:24:34.000Z",
+        "edit_history_tweet_ids": [
+          "2103868336937578788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103868336937578788",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 牛逼！一起加油！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2103897440411901952"
+          ]
+        },
+        "author_id": "1895453094361890816",
+        "conversation_id": "2103900178260586993",
+        "created_at": "2026-09-26T17:31:05.000Z",
+        "edit_history_tweet_ids": [
+          "2103900178260586993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOjiE9KzrM",
+              "end": 304,
+              "expanded_url": "https://x.com/higgsfield/status/2103900178260586993/video/1",
+              "media_key": "13_2103897440411901952",
+              "start": 281,
+              "url": "https://t.co/mOjiE9KzrM"
+            }
+          ]
+        },
+        "id": "2103900178260586993",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Introducing Seedance 2.5 in native 1080p on Higgsfield API.\n\n100% instant cashback on API spend.\nThere’s $18M left in the pool. First come, first served.\n\nThe only US-based Seedance 2.5 at its highest quality yet.\nReady for commercials and large-scale productions.\n\nUp to $200,000 per business and $1000 per individual.\n\nUnused cashback expires September 30."
+        },
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 411095,
+          "like_count": 666,
+          "quote_count": 22,
+          "reply_count": 103,
+          "retweet_count": 225
+        },
+        "text": "Introducing Seedance 2.5 in native 1080p on Higgsfield API.\n\n100% instant cashback on API spend.\nThere’s $18M left in the pool. First come, first served.\n\nThe only US-based Seedance 2.5 at its highest quality yet.\nReady for commercials and large-scale productions.\n\nUp to $200,000 https://t.co/mOjiE9KzrM"
+      },
+      {
+        "author_id": "2039322394104340480",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T14:32:00.000Z",
+        "edit_history_tweet_ids": [
+          "2103855110170489329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103855110170489329",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 910,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 用codex 做短视频3个月，粉丝过5000，无法变现，还在持续更新内容，不知道这条路还能走多远"
+      },
+      {
+        "author_id": "1633337406710775813",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T10:40:54.000Z",
+        "edit_history_tweet_ids": [
+          "2103796950902755477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103796950902755477",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103778638013571347",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 快来大亚湾哈哈"
+      },
+      {
+        "author_id": "1997889576187387904",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T10:29:31.000Z",
+        "edit_history_tweet_ids": [
+          "2103794085341569106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103794085341569106",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 836,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 加油！！！"
+      },
+      {
+        "author_id": "1881991469730594816",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T10:27:22.000Z",
+        "edit_history_tweet_ids": [
+          "2103793546293882964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103793546293882964",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2170,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 下次见十倍增长好不好🥺"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T09:39:19.000Z",
+        "edit_history_tweet_ids": [
+          "2103781452072833163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103781452072833163",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 846,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 逸尘 你是我的偶像"
+      },
+      {
+        "author_id": "1633337406710775813",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T07:31:00.000Z",
+        "edit_history_tweet_ids": [
+          "2103749161330131180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103749161330131180",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1314,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 冲冲冲！"
+      },
+      {
+        "author_id": "1207976235013271552",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T08:58:49.000Z",
+        "edit_history_tweet_ids": [
+          "2103771261725966817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103771261725966817",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1166,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 准备去哪？"
+      },
+      {
+        "author_id": "1936480895692869633",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T06:35:29.000Z",
+        "edit_history_tweet_ids": [
+          "2103735191160393836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103735191160393836",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1632,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ so good bro！"
+      },
+      {
+        "author_id": "1792608085409939456",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T06:02:40.000Z",
+        "edit_history_tweet_ids": [
+          "2103726929484603805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103726929484603805",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1272,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 逸尘哥是我永远的偶像呜呜呜"
+      },
+      {
+        "author_id": "1877440800",
+        "conversation_id": "2103726169317413244",
+        "created_at": "2026-09-26T07:17:31.000Z",
+        "edit_history_tweet_ids": [
+          "2103745767844540696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2103745767844540696",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 940,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726169317413244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 逸尘是我永远的偶像！"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1946581515988770816",
+        "name": "灵枢",
+        "username": "JianlongA18260"
+      },
+      {
+        "id": "1928711169419956224",
+        "name": "Jason Zhu（GEO）",
+        "username": "GoSailGlobal"
+      },
+      {
+        "id": "1920877983096844288",
+        "name": "Chiara_Q",
+        "username": "fo_Quinnoct"
+      },
+      {
+        "id": "50683",
+        "name": "Ding",
+        "username": "dingyi"
+      },
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "username": "bbkirstry"
+      },
+      {
+        "id": "2026500358906982402",
+        "name": "微微子",
+        "username": "VickyWerid11659"
+      },
+      {
+        "id": "1822141194404593664",
+        "name": "Yiwei",
+        "username": "Yiwei_growth"
+      },
+      {
+        "id": "2022118285983232001",
+        "name": "西门聪明蛋XD",
+        "username": "xmmxovo"
+      },
+      {
+        "id": "2039322394104340480",
+        "name": "NeoW",
+        "username": "NeoWNJJN"
+      },
+      {
+        "id": "1633337406710775813",
+        "name": "siuser小伟",
+        "username": "_HIT_SZ_"
+      },
+      {
+        "id": "1997889576187387904",
+        "name": "铁柱AGI",
+        "username": "cgnot996"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "username": "gkxspace"
+      },
+      {
+        "id": "1869683226178146304",
+        "name": "Sac",
+        "username": "Saccc_c"
+      },
+      {
+        "id": "1207976235013271552",
+        "name": "布伦特X （互关版）",
+        "username": "brent92756516"
+      },
+      {
+        "id": "1936480895692869633",
+        "name": "天策",
+        "username": "Leobai825"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "1877440800",
+        "name": "李韭二",
+        "username": "li9292"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2104414578239267314",
+    "next_token": "b26v89c19zqg8o3juzix21jzoq1g5mbjhby8lrmwgrfjx",
+    "oldest_id": "2103778254985531438",
+    "result_count": 25
+  }
+}

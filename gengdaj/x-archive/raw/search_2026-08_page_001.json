@@ -1,0 +1,1517 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2094389684378218496",
+          "3_2094389718947708928"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094386340645216468",
+      "created_at": "2026-08-31T11:39:58.000Z",
+      "edit_history_tweet_ids": [
+        "2094389730347729085"
+      ],
+      "id": "2094389730347729085",
+      "in_reply_to_user_id": "1881991469730594816",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 10957,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094386340645216468",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 我有79条规则嘿嘿 https://t.co/4ZXQdiQ93i",
+      "url": "https://x.com/gengdaJ/status/2094389730347729085"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2094368432628318208"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094363293242814805",
+      "created_at": "2026-08-31T10:15:26.000Z",
+      "edit_history_tweet_ids": [
+        "2094368456137433236"
+      ],
+      "id": "2094368456137433236",
+      "in_reply_to_user_id": "2060058261379063808",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1295,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094363293242814805",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer @changloria0816 应该是干到海外去了。。。 https://t.co/kZBuAQ04qD",
+      "url": "https://x.com/gengdaJ/status/2094368456137433236"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094317556576453077",
+      "created_at": "2026-08-31T09:43:59.000Z",
+      "edit_history_tweet_ids": [
+        "2094360542278562138"
+      ],
+      "id": "2094360542278562138",
+      "in_reply_to_user_id": "2060058261379063808",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 573,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094317556576453077",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer @AdrianPunk115 哈哈哈，很强的工具，值得给他给个 Pro 会员爽用",
+      "url": "https://x.com/gengdaJ/status/2094360542278562138"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094335514354630895",
+      "created_at": "2026-08-31T09:21:35.000Z",
+      "edit_history_tweet_ids": [
+        "2094354907922829546"
+      ],
+      "id": "2094354907922829546",
+      "in_reply_to_user_id": "2045004635576918016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 206,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094335514354630895",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArturrochaaL It's my pleasure to be your first friend in China. If you come to Shanghai or Hangzhou, Let us have a coffee chat.😄",
+      "url": "https://x.com/gengdaJ/status/2094354907922829546"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T06:12:30.000Z",
+      "edit_history_tweet_ids": [
+        "2094307323393274234"
+      ],
+      "id": "2094307323393274234",
+      "in_reply_to_user_id": "1926144412079280128",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 483,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094306666586177712",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yaohui12138 不确定，因为我不会，Codex 在搞😂",
+      "url": "https://x.com/gengdaJ/status/2094307323393274234"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094283431052292146",
+      "created_at": "2026-08-31T05:57:08.000Z",
+      "edit_history_tweet_ids": [
+        "2094303456525984186"
+      ],
+      "id": "2094303456525984186",
+      "in_reply_to_user_id": "2022118285983232001",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 507,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094283431052292146",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xmmxovo 哈哈哈，期待西门姐明年的产品！",
+      "url": "https://x.com/gengdaJ/status/2094303456525984186"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T05:32:06.000Z",
+      "edit_history_tweet_ids": [
+        "2094297154055733256"
+      ],
+      "id": "2094297154055733256",
+      "in_reply_to_user_id": "2081344733050515456",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 776,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094294374699974887",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dugujun12 害！毕竟是国内标杆，知名度比较高",
+      "url": "https://x.com/gengdaJ/status/2094297154055733256"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094014354350031021",
+      "created_at": "2026-08-31T05:10:43.000Z",
+      "edit_history_tweet_ids": [
+        "2094291772990177437"
+      ],
+      "id": "2094291772990177437",
+      "in_reply_to_user_id": "1226419222474936320",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 130,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094093342028222855",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@canghe @chan_kingl83928 同步不会被风控吗苍何老师，我也想要这个功能😍",
+      "url": "https://x.com/gengdaJ/status/2094291772990177437"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094253446014574814",
+      "created_at": "2026-08-31T05:09:45.000Z",
+      "edit_history_tweet_ids": [
+        "2094291528265175311"
+      ],
+      "id": "2094291528265175311",
+      "in_reply_to_user_id": "1404738934043602947",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6789,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094253446014574814",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Jackywine 代充，我从来没自己折腾过🤣",
+      "url": "https://x.com/gengdaJ/status/2094291528265175311"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T05:05:02.000Z",
+      "edit_history_tweet_ids": [
+        "2094290341805666518"
+      ],
+      "id": "2094290341805666518",
+      "in_reply_to_user_id": "2039337296370208768",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 69,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094284907921240202",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ChaungJoe 口播是第一步，未来加入b-roll素材就更爽了，这个还在迭代优化，等我稳定用一段时间再开源",
+      "url": "https://x.com/gengdaJ/status/2094290341805666518"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2091900893889470612",
+      "created_at": "2026-08-31T04:42:34.000Z",
+      "edit_history_tweet_ids": [
+        "2094284689578365296"
+      ],
+      "id": "2094284689578365296",
+      "in_reply_to_user_id": "1648577903955947522",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 65,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094088678385791331",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@icycat @gefei55 你在我心中",
+      "url": "https://x.com/gengdaJ/status/2094284689578365296"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T04:40:35.000Z",
+      "edit_history_tweet_ids": [
+        "2094284191982895146"
+      ],
+      "id": "2094284191982895146",
+      "in_reply_to_user_id": "1568592146315513858",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 403,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094281096343257130",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Cedric_Rune 我 24G 内存还行，只有做 3D 任务的时候会卡，所以以后得买更大内存的 Mac",
+      "url": "https://x.com/gengdaJ/status/2094284191982895146"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T04:40:01.000Z",
+      "edit_history_tweet_ids": [
+        "2094284049011576926"
+      ],
+      "id": "2094284049011576926",
+      "in_reply_to_user_id": "2074834219231285248",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 110,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094281348911395034",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ruofeng_x Windows 我记得不支持多个鼠标？",
+      "url": "https://x.com/gengdaJ/status/2094284049011576926"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T04:26:42.000Z",
+      "edit_history_tweet_ids": [
+        "2094280694990352765"
+      ],
+      "id": "2094280694990352765",
+      "in_reply_to_user_id": "2074834219231285248",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 845,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094279190216397127",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ruofeng_x 你是 Windows 还是Mac 啊，Mac 只是 偶尔会强制跳转，点一下就行",
+      "url": "https://x.com/gengdaJ/status/2094280694990352765"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T04:26:11.000Z",
+      "edit_history_tweet_ids": [
+        "2094280566476820626"
+      ],
+      "id": "2094280566476820626",
+      "in_reply_to_user_id": "2039337296370208768",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 617,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094279068594385154",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ChaungJoe 解放双手的活，一次跑通了，复用终生啊，一辈子不知道要剪多少个视频，现在直接解放了，我的口播视频已经快要做到零气口了",
+      "url": "https://x.com/gengdaJ/status/2094280566476820626"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T04:20:15.000Z",
+      "edit_history_tweet_ids": [
+        "2094279074189644195"
+      ],
+      "id": "2094279074189644195",
+      "in_reply_to_user_id": "2060849579546025984",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 579,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094277011489562921",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Ch11dr3n yeah，Mac is the best computer in AI  era",
+      "url": "https://x.com/gengdaJ/status/2094279074189644195"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T04:18:32.000Z",
+      "edit_history_tweet_ids": [
+        "2094278640230133994"
+      ],
+      "id": "2094278640230133994",
+      "in_reply_to_user_id": "1750453906419953664",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 63,
+              "expanded_url": "http://github.com/mcncarl/yichen-skills",
+              "start": 40,
+              "url": "https://t.co/RU9A2R03XR"
+            },
+            {
+              "display_url": "github.com/mcncarl/ailu",
+              "end": 138,
+              "expanded_url": "http://github.com/mcncarl/ailu",
+              "start": 115,
+              "url": "https://t.co/PRdhctbrxY"
+            }
+          ]
+        },
+        "text": "你可以试试我这个把 Markdown 文档上传到 GitHub 的 skill：https://t.co/RU9A2R03XR，里面有一个子 skill 专门做这个。\n\n如果你用 Obsidian，你可以安装我的 Ailu 插件：https://t.co/PRdhctbrxY，可以一键上传 Obsidian 的 markdown 文章到 X，所有 X 规则都是内置好的，调用脚本上传、验证，不怎么花 token"
+      },
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1450,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094275710714323143",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JackyCufe 你可以试试我这个把 Markdown 文档上传到 GitHub 的 skill：https://t.co/cwTZPA2dPL，里面有一个子 skill 专门做这个。\n\n如果你用 Obsidian，你可以安装我的 Ailu 插件：https://t.co/M07Ih0MOFo，可以一键上传 Obsidian 的 markdown 文章到 X，所有 X",
+      "url": "https://x.com/gengdaJ/status/2094278640230133994"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094260186240421989",
+      "created_at": "2026-08-31T03:53:48.000Z",
+      "edit_history_tweet_ids": [
+        "2094272415442546737"
+      ],
+      "id": "2094272415442546737",
+      "in_reply_to_user_id": "1905149794173222912",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1916,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094260186240421989",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Xian0063 和审美其实没太大关系，主要是产品本身满足不了用户的需求。再粗糙的网站，只要解决了用户的真需求，即使只有一个html，也能卖上万美金。",
+      "url": "https://x.com/gengdaJ/status/2094272415442546737"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2094263230608834561",
+          "3_2094263442438041600"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094265319330373951",
+      "created_at": "2026-08-31T03:25:36.000Z",
+      "edit_history_tweet_ids": [
+        "2094265319330373951"
+      ],
+      "id": "2094265319330373951",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "Codex为什么能够碾压Claude Code、workbuddy等一众工具？我觉得核心原因之一就在于Codex的Computer Use功能实在太过于惊艳！\n\n我有两个ChatGPT Pro20×账号，所以基本没有积分焦虑，所以疯狂开Computer use并行做多个任务，很神奇的就是Codex不会抢我的鼠标，各个任务彼此之间也不会打架。\n\n它们在浏览器/各个桌面端软件之间各司其职，似乎每一个Computer use都配备了一个“虚拟鼠标”和“虚拟窗口”——\n\n因为我经常看到我桌面上啥东西都没有了， 那个虚拟鼠标还很有规律的在那点，然后Codex任务在正常跑。。。\n\n好处就是那种比较依靠人的工作——登录界面、填写各种信息、截图保存，都可以多个任务并行，完全不需要人类的介入，效率直线飙升！\n\n还有个更牛逼的，我用Computer use经常做Obsidian插件的端到端调试，这个真的谁用谁爽。\n\n包括，我还把剪映11.x版本用Computer use解析出来了，可以直接用Codex剪视频，自动创建草稿，导入分轨素材，嘿嘿，留个悬念，之后完善好了发🤪"
+      },
+      "public_metrics": {
+        "bookmark_count": 193,
+        "impression_count": 64900,
+        "like_count": 172,
+        "quote_count": 5,
+        "reply_count": 149,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2061824810267906059",
+          "type": "quoted"
+        }
+      ],
+      "text": "Codex为什么能够碾压Claude Code、workbuddy等一众工具？我觉得核心原因之一就在于Codex的Computer Use功能实在太过于惊艳！\n\n我有两个ChatGPT Pro20×账号，所以基本没有积分焦虑，所以疯狂开Computer use并行做多个任务，很神奇的就是Codex不会抢我的鼠标，各个任务彼此之间也不会打架。 https://t.co/ilUppxreG0 https://t.co/op83ACMdjh",
+      "url": "https://x.com/gengdaJ/status/2094265319330373951"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094258586839113730",
+      "created_at": "2026-08-31T03:06:01.000Z",
+      "edit_history_tweet_ids": [
+        "2094260389919990145"
+      ],
+      "id": "2094260389919990145",
+      "in_reply_to_user_id": "2060058261379063808",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 72,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094260030828863999",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer 哈哈原来是这样，我说名字和功能对不上，挺奇怪的🤣",
+      "url": "https://x.com/gengdaJ/status/2094260389919990145"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094258586839113730",
+      "created_at": "2026-08-31T03:03:44.000Z",
+      "edit_history_tweet_ids": [
+        "2094259816630026527"
+      ],
+      "id": "2094259816630026527",
+      "in_reply_to_user_id": "2060058261379063808",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 70,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094259637331894704",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer 其实我想学习设计的底层原理🤣就比如说为啥只能双色限制，为啥不能多色。",
+      "url": "https://x.com/gengdaJ/status/2094259816630026527"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094258586839113730",
+      "created_at": "2026-08-31T03:01:07.000Z",
+      "edit_history_tweet_ids": [
+        "2094259158807974244"
+      ],
+      "id": "2094259158807974244",
+      "in_reply_to_user_id": "2060058261379063808",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 255,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094258586839113730",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer 把readme看完了，感觉设计理念太牛了，让Codex跑了跑哈哈哈",
+      "url": "https://x.com/gengdaJ/status/2094259158807974244"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2094256062065217536",
+          "3_2094256083938447360",
+          "3_2094258246559436800",
+          "3_2094258270861242368"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094258285776150666",
+      "created_at": "2026-08-31T02:57:39.000Z",
+      "edit_history_tweet_ids": [
+        "2094245220997316654",
+        "2094246308014088622",
+        "2094258285776150666"
+      ],
+      "id": "2094258285776150666",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3292,
+        "impression_count": 498216,
+        "like_count": 2517,
+        "quote_count": 7,
+        "reply_count": 169,
+        "retweet_count": 289
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093968800316293400",
+          "type": "quoted"
+        }
+      ],
+      "text": "这就是即将入职OpenAI和Anthropic的首席设计师开源的Design Skill吗，恐怖如斯😱！！！ https://t.co/k9ycbRKPN0 https://t.co/lLUyGIhzCO",
+      "url": "https://x.com/gengdaJ/status/2094258285776150666"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094246308014088622",
+      "created_at": "2026-08-31T02:21:16.000Z",
+      "edit_history_tweet_ids": [
+        "2094249128968765629"
+      ],
+      "id": "2094249128968765629",
+      "in_reply_to_user_id": "2060058261379063808",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 78,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094246535177629900",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanliudreamer 妍妍老师实力太顶了，不赞不行🤣",
+      "url": "https://x.com/gengdaJ/status/2094249128968765629"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2094246308014088622",
+      "created_at": "2026-08-31T02:10:03.000Z",
+      "edit_history_tweet_ids": [
+        "2094245220997316654",
+        "2094246308014088622",
+        "2094258285776150666"
+      ],
+      "id": "2094246308014088622",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1514,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2093968800316293400",
+          "type": "quoted"
+        }
+      ],
+      "text": "这就是即将入职OpenAI和Anthropic的首席设计师开源的Design Skill吗，恐怖如斯😱！！！ https://t.co/lLUyGIhzCO",
+      "url": "https://x.com/gengdaJ/status/2094246308014088622"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "User has been suspended: [1568592146315513858].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1568592146315513858",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1568592146315513858"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094281096343257130].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094281096343257130",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094281096343257130"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2094389684378218496",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2094389718947708928",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2094368432628318208",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2094263230608834561",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2094263442438041600",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2094256062065217536",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2094256083938447360",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2094258246559436800",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2094258270861242368",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2094385843888619520",
+            "3_2094385845662896128",
+            "3_2094385863568281600"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "conversation_id": "2094386340645216468",
+        "created_at": "2026-08-31T11:26:30.000Z",
+        "edit_history_tweet_ids": [
+          "2094386340645216468"
+        ],
+        "id": "2094386340645216468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Johnshall/Shad…",
+                "end": 492,
+                "expanded_url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+                "start": 469,
+                "url": "https://t.co/SjufsBHGTK"
+              }
+            ]
+          },
+          "text": "用梯子🪜的兄弟们，一定要把分流规则配好啊，我刚踩过坑🥲！！！\n\n我让 Codex 帮我分析了一下配置和日志，发现不少本该直连的网站都在走代理，IP乱飞......\n\n上个月 DMIT 的 1T 流量几天就没了，也是因为没配好分流，又花七十块重置。\n\n哪些网站直连、哪些走代理，DNS 和兜底规则怎么配，都会直接影响访问速度和节点流量。\n\n我让 Codex 去找了一些开源规则仓库，最后我选了 Johnshall/Shadowrocket-ADBlock-Rules-Forever。这个仓库提供多套配置，每天北京时间 8 点更新规则。\n\n我平时就用 DMIT 的单节点，需求就是国内和海外区分清，所以选的是 lazy.conf。\n\n如果你也在用 Shadowrocket，可以把仓库链接和下面这段话直接丢给 Codex：\n\n请先不要修改我的 Shadowrocket。先读取或让我提供当前配置，再确认我的节点数量、分流目标、是否需要广告过滤和策略组。\n\n对比这个仓库提供的配置，我们来进行几轮探讨，最终推荐最适合我的一套并说明理由： \n\nhttps://t.co/SjufsBHGTK"
+        },
+        "public_metrics": {
+          "bookmark_count": 945,
+          "impression_count": 269099,
+          "like_count": 489,
+          "quote_count": 3,
+          "reply_count": 61,
+          "retweet_count": 46
+        },
+        "text": "用梯子🪜的兄弟们，一定要把分流规则配好啊，我刚踩过坑🥲！！！\n\n我让 Codex 帮我分析了一下配置和日志，发现不少本该直连的网站都在走代理，IP乱飞......\n\n上个月 DMIT 的 1T 流量几天就没了，也是因为没配好分流，又花七十块重置。\n\n哪些网站直连、哪些走代理，DNS https://t.co/qtR9CCV7UE"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2094363290533281792",
+            "3_2094363290524856320"
+          ]
+        },
+        "author_id": "2060058261379063808",
+        "conversation_id": "2094363293242814805",
+        "created_at": "2026-08-31T09:54:55.000Z",
+        "edit_history_tweet_ids": [
+          "2094363293242814805"
+        ],
+        "id": "2094363293242814805",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 14784,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "text": "我的天，我居然有登上榜首的一天😭\n太感谢家人们的托举了，\n真的给了我特别大的自信呜呜！\n\n刚刚 @changloria0816 宝和我说的时候我还没信\n点开的时候赶紧截图留念了哈哈\n\n其实上个月闭关做了好多好东西\n还有插件和app还在审核中\n最近都拿出来遛遛！ https://t.co/T5gbycBgSC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2094317311125811200"
+          ]
+        },
+        "author_id": "2060058261379063808",
+        "conversation_id": "2094317556576453077",
+        "created_at": "2026-08-31T06:53:10.000Z",
+        "edit_history_tweet_ids": [
+          "2094317556576453077"
+        ],
+        "id": "2094317556576453077",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 12423,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094265319330373951",
+            "type": "quoted"
+          }
+        ],
+        "text": "昨晚还和庞神 @AdrianPunk115 学习computer use到半夜，今天就看到逸辰老师的教程了！感觉又打开了我的盲区，仔细阅读去了！ https://t.co/ITAJgNtzcR https://t.co/o4bnaOLseX"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2094335244077830144"
+          ]
+        },
+        "author_id": "2045004635576918016",
+        "conversation_id": "2094335514354630895",
+        "created_at": "2026-08-31T08:04:32.000Z",
+        "edit_history_tweet_ids": [
+          "2094335273672815042",
+          "2094335514354630895"
+        ],
+        "id": "2094335514354630895",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "Huan xin is my second Chinese friend. He's making my stay in Shenzhen wonderful from a local's perspective. My first Chinese friend was virtual, @gengdaJ ; I learn a lot from him even though we haven't spoken much. Blessed be the encounters of life! https://t.co/dPdU8J7h2r"
+      },
+      {
+        "author_id": "1926144412079280128",
+        "conversation_id": "2094265319330373951",
+        "created_at": "2026-08-31T06:09:54.000Z",
+        "edit_history_tweet_ids": [
+          "2094306666586177712"
+        ],
+        "id": "2094306666586177712",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094265319330373951",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 这个剪映解析是指基于它的明文json\n\n然后推导出素材的格式，然后制作对应的broll分轨素材从而导入剪映嘛😃"
+      },
+      {
+        "author_id": "2022118285983232001",
+        "conversation_id": "2094283431052292146",
+        "created_at": "2026-08-31T04:37:34.000Z",
+        "edit_history_tweet_ids": [
+          "2094283431052292146"
+        ],
+        "id": "2094283431052292146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 19,
+                "id": "1897545708770840576",
+                "start": 11,
+                "username": "gengdaJ"
+              }
+            ]
+          },
+          "text": "昨天和小孩佬们面基。\n@gengdaJ 说“做 AI 自媒体的人，很多都是因为 AI 产品做失败了，才转来做内容的。”\n\n哈哈哈哈，好扎心。但确实是这样，如果我裸辞第一个月做 vibecoding 产品就拿到了正反馈，可能也不会来做 AI 自媒体了。\n\n做产品需要极强的需求洞察能力、耐得住性子去学习和迭代，如果没有极高的天赋，要半年以上才能有马内的反馈。在公司里，我们都戴着产品经理的title，但真正到了市场上能单打独斗把需求挖掘、产品设计、运营推广都做的很好的人，寥寥无几，希望明年的我也能成为其中一员～"
+        },
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9398,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "text": "昨天和小孩佬们面基。\n@gengdaJ 说“做 AI 自媒体的人，很多都是因为 AI 产品做失败了，才转来做内容的。”\n\n哈哈哈哈，好扎心。但确实是这样，如果我裸辞第一个月做 vibecoding 产品就拿到了正反馈，可能也不会来做 AI 自媒体了。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2094294359831355392"
+          ]
+        },
+        "author_id": "2081344733050515456",
+        "conversation_id": "2094265319330373951",
+        "created_at": "2026-08-31T05:21:03.000Z",
+        "edit_history_tweet_ids": [
+          "2094294374699974887"
+        ],
+        "id": "2094294374699974887",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 922,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094265319330373951",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ workbuddy 什么时候和 Codex、Claude code 相提并论了？配吗它？ https://t.co/jOrWV0TUsn"
+      },
+      {
+        "author_id": "1226419222474936320",
+        "conversation_id": "2094014354350031021",
+        "created_at": "2026-08-30T16:02:13.000Z",
+        "edit_history_tweet_ids": [
+          "2094093342028222855"
+        ],
+        "id": "2094093342028222855",
+        "in_reply_to_user_id": "2022458065782771712",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094091766903562258",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@chan_kingl83928 这个不做自动发布，只是帮你同步过去，人要点下手动发布，不会出发封控"
+      },
+      {
+        "author_id": "1404738934043602947",
+        "conversation_id": "2094253446014574814",
+        "created_at": "2026-08-31T02:38:25.000Z",
+        "edit_history_tweet_ids": [
+          "2094253446014574814"
+        ],
+        "id": "2094253446014574814",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 730,
+          "impression_count": 539817,
+          "like_count": 611,
+          "quote_count": 14,
+          "reply_count": 539,
+          "retweet_count": 46
+        },
+        "text": "推友们，目前中国大陆最简单的 ChatGPT 充值方法是什么？"
+      },
+      {
+        "author_id": "2039337296370208768",
+        "conversation_id": "2094265319330373951",
+        "created_at": "2026-08-31T04:43:26.000Z",
+        "edit_history_tweet_ids": [
+          "2094284907921240202"
+        ],
+        "id": "2094284907921240202",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094280566476820626",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 对的，所以还是值得继续研究。口播视频相对好操作一点。"
+      },
+      {
+        "author_id": "1648577903955947522",
+        "conversation_id": "2091900893889470612",
+        "created_at": "2026-08-30T15:43:41.000Z",
+        "edit_history_tweet_ids": [
+          "2094088678385791331"
+        ],
+        "id": "2094088678385791331",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091900893889470612",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @gefei55 我也被清掉了 看来需要多加努力了😭😭"
+      },
+      {
+        "author_id": "2074834219231285248",
+        "conversation_id": "2094265319330373951",
+        "created_at": "2026-08-31T04:29:18.000Z",
+        "edit_history_tweet_ids": [
+          "2094281348911395034"
+        ],
+        "id": "2094281348911395034",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094280694990352765",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ Windows ，之前一直好好的，就这个周末不知道怎么回事"
+      },
+      {
+        "author_id": "2074834219231285248",
+        "conversation_id": "2094265319330373951",
+        "created_at": "2026-08-31T04:20:43.000Z",
+        "edit_history_tweet_ids": [
+          "2094279190216397127"
+        ],
+        "id": "2094279190216397127",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 880,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094265319330373951",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 最近Codex 不知道是降智还是怎么了，总是让我把浏览器窗口放到桌面前面🤔这和不能用也差不多了"
+      },
+      {
+        "author_id": "2039337296370208768",
+        "conversation_id": "2094265319330373951",
+        "created_at": "2026-08-31T04:20:14.000Z",
+        "edit_history_tweet_ids": [
+          "2094279068594385154"
+        ],
+        "id": "2094279068594385154",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094265319330373951",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 期待，我也一直在研究依托于剪映的自动化剪辑工作流，后来发现搭建AI自动化的复杂程度，还不如自己手动剪辑快😂"
+      },
+      {
+        "author_id": "2060849579546025984",
+        "conversation_id": "2094265319330373951",
+        "created_at": "2026-08-31T04:12:03.000Z",
+        "edit_history_tweet_ids": [
+          "2094277011489562921"
+        ],
+        "id": "2094277011489562921",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094265319330373951",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ only support in Macos"
+      },
+      {
+        "author_id": "1750453906419953664",
+        "conversation_id": "2094265319330373951",
+        "created_at": "2026-08-31T04:06:53.000Z",
+        "edit_history_tweet_ids": [
+          "2094275710714323143"
+        ],
+        "id": "2094275710714323143",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "真的谁用谁爽！！！\n\n在这里也分享一个我自己的实用小场景：\n由于X的文章编辑器有些一言难尽，我在排版的时候就用Codex，请它帮忙把我已经写好的Markdown文档1:1排版到X的文档编辑器里。我就省下时间可以做别的事情，并且用非常便宜的模型就可以完成。看着一个虚拟鼠标在那里点点点点，速率比我自己操作还要快好多，别提多舒畅了"
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1683,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094265319330373951",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 真的谁用谁爽！！！\n\n在这里也分享一个我自己的实用小场景："
+      },
+      {
+        "author_id": "1905149794173222912",
+        "conversation_id": "2094260186240421989",
+        "created_at": "2026-08-31T03:05:12.000Z",
+        "edit_history_tweet_ids": [
+          "2094260186240421989"
+        ],
+        "id": "2094260186240421989",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 27337,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093944988262371465",
+            "type": "quoted"
+          }
+        ],
+        "text": "就像zara说的一样，打造产品的独特审美太重要了，现在千篇一律的agnet打开窗口基本都一样，我做了国内agent与codex区别，不深度测试真的不知道哪里不太一样，所以，强烈建议所有产品人，重视设计审美～抓起来设计 https://t.co/4rEyZXweaK"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2061823937244446721",
+            "3_2061824041963716608"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2061824810267906059",
+        "created_at": "2026-06-02T14:58:36.000Z",
+        "edit_history_tweet_ids": [
+          "2061824810267906059"
+        ],
+        "id": "2061824810267906059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 329,
+                "expanded_url": "http://grok.com",
+                "start": 306,
+                "url": "https://t.co/uMkIpdh4fi"
+              }
+            ]
+          },
+          "text": "关于Codex Computer Use的神奇用法，大家对它的挖掘程度绝对不到百分之一。。。\n\n我冰山一角的用法：\n1.自动开发了一款左键选中谷歌文档英文单词/句子，自动把单词或句子发送到Gemini插件进行翻译的浏览器插件，并且完成chrome的端到端测试。\n2.打开Obsidian，开发md文章到公众号和X的插件，并且自动完成端到端测试。\n3.打开华为开发者平台和阿里云，自动完成备案和审核，只有需要购买服务器和域名的时候，我才动动手。\n4.在我登录好的法信、北大法宝等网站，按照需求，自动完成检索，生成法律检索报告word，保存到桌面。\n5.帮我打开karing，自动帮我配置网络，解决了Dmit不能登录https://t.co/uMkIpdh4fi的问题。\n6.帮我把访达里面的APP安装包自动上传到百度网盘和夸克网盘对应的文件位置。\n7.帮我检索国产十大动漫电影精彩片段，并且从浏览器下载到了本地。\n8.帮我完成了Codex App教程里面的截图任务，并且自动完成了敏感信息打码、重要信息特别标注的额外任务。\n9.帮我打开各种软件的官网，直接下载我在工作过程中所需要用到的工具。\n10.帮我打开剪映尝试导入素材并且剪辑。这一步我试过，成功了，但是会比较耗费Token。。。\n11.帮我从零到一上架了第一款表情包，根据网站的指示，所有的素材全部调用Codex内置的GPT2-image生成，然后自动从访达上传。\n......\n\n还有些失败的：部分网址computer use被禁用了，比如微信公众号、拼多多后台和很多电商后台，这个时候，就可以试试playwright MCP，包C的朋友！！！"
+        },
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 135551,
+          "like_count": 450,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061652037298004332",
+            "type": "quoted"
+          }
+        ],
+        "text": "关于Codex Computer Use的神奇用法，大家对它的挖掘程度绝对不到百分之一。。。\n\n我冰山一角的用法：\n1.自动开发了一款左键选中谷歌文档英文单词/句子，自动把单词或句子发送到Gemini插件进行翻译的浏览器插件，并且完成chrome的端到端测试。 https://t.co/XnFMwsgbVq https://t.co/vclmqjRTe4"
+      },
+      {
+        "author_id": "2060058261379063808",
+        "conversation_id": "2094258586839113730",
+        "created_at": "2026-08-31T03:04:35.000Z",
+        "edit_history_tweet_ids": [
+          "2094260030828863999"
+        ],
+        "id": "2094260030828863999",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094259816630026527",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 哈哈这个是我主观的想让它保持极简，其实最开始就只有一个颜色，所以叫mono-color，后来觉得太单调了，才规定最多可以两种🤓"
+      },
+      {
+        "author_id": "2060058261379063808",
+        "conversation_id": "2094258586839113730",
+        "created_at": "2026-08-31T03:03:01.000Z",
+        "edit_history_tweet_ids": [
+          "2094259637331894704"
+        ],
+        "id": "2094259637331894704",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094259158807974244",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 对！这次有很多心得！一会写一写，之前以为这种设计skill找点参考就行了，后来发现很不稳定，所以只能从底层的颜色/字体/排版/风格来规定了🤣花了好多时间定design system哈哈"
+      },
+      {
+        "author_id": "2060058261379063808",
+        "conversation_id": "2094258586839113730",
+        "created_at": "2026-08-31T02:58:51.000Z",
+        "edit_history_tweet_ids": [
+          "2094258586839113730"
+        ],
+        "id": "2094258586839113730",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6703,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094258285776150666",
+            "type": "quoted"
+          }
+        ],
+        "text": "我去！逸尘老师的返图好好看😍\n高级感拿捏🫴哈哈哈 https://t.co/cxgyvUNENb"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2093968332487880704",
+            "3_2093968332479463424",
+            "3_2093968332492042240",
+            "3_2093968332479479808"
+          ]
+        },
+        "author_id": "2060058261379063808",
+        "conversation_id": "2093968800316293400",
+        "created_at": "2026-08-30T07:47:20.000Z",
+        "edit_history_tweet_ids": [
+          "2093968800316293400"
+        ],
+        "id": "2093968800316293400",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "我开始做自己的Design Skills 了🎨\n今天在Demo day上分享了3个，大家都很喜欢！\n\n先发一个我特别喜欢的：Mono-color Skill。\n它不是简单地“把图片变成单色”，而是把一整套编辑设计语言 + 复古印刷质感 + 克制的视觉规则，封装成了一个可以反复调用的 Skill。\n\n它会自动遵循这些设计原则👇\n👉 默认使用一种油墨色，必要时加入克制的双色套印\n👉 大量，有意识的留白\n👉 强烈的Typography和编辑排版感\n👉 Halftone/颗粒/套印偏移等复古印刷质感\n👉 图片/文字/版式作为一个完整视觉系统重新构图\n\n你可以直接告诉它：\n“帮我做一张关于城市骑行的海报。”\n也可以上传自己的照片，让它转换成这种带有复古印刷感的Editorial Visual。\n\n它的使用场景也特别多👇\n📌 活动海报 / Event Poster\n输入活动主题，时间和地点，快速生成一套有设计感的宣传视觉。\n📌 社交媒体 / 小红书 / X 配图\n不想每次发内容都用千篇一律的 AI 图，可以快速做出有统一风格的视觉。\n📌 品牌branding探索\n用更克制的色彩与编辑感视觉，快速建立品牌的高级感与独特气质。\n📌 音乐 / 播客 / Playlist 封面\n这种单色 + Editorial的语言特别适合做带情绪和文化感的 Cover\n📌 Zine / Magazine / Editorial\n文章头图, 杂志跨页，都可以用同一套语言延展。\n📌 个人照片再创作\n直接上传自己的照片，把普通摄影转换成复古印刷海报。\n📌 Moodboard / 概念探索\n设计前期不用急着做完整方案，先快速生成一组视觉方向，看哪一种感觉最对。\n\n为了保证生成效果稳定\n我还加入了很多design system来约束：颜色/字体/组件/构图/风格，欢迎大家试试看，给我反馈！"
+        },
+        "public_metrics": {
+          "bookmark_count": 10748,
+          "impression_count": 1413539,
+          "like_count": 7093,
+          "quote_count": 184,
+          "reply_count": 273,
+          "retweet_count": 890
+        },
+        "text": "我开始做自己的Design Skills 了🎨\n今天在Demo day上分享了3个，大家都很喜欢！\n\n先发一个我特别喜欢的：Mono-color Skill。\n它不是简单地“把图片变成单色”，而是把一整套编辑设计语言 + 复古印刷质感 + 克制的视觉规则，封装成了一个可以反复调用的 Skill。\n\n它会自动遵循这些设计原则👇\n👉 https://t.co/ft7ISQ9zkW"
+      },
+      {
+        "author_id": "2060058261379063808",
+        "conversation_id": "2094246308014088622",
+        "created_at": "2026-08-31T02:10:57.000Z",
+        "edit_history_tweet_ids": [
+          "2094246535177629900"
+        ],
+        "id": "2094246535177629900",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094246308014088622",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 艾玛！逸尘老师不要捧sha我哈哈哈哈🤣"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "username": "gkxspace"
+      },
+      {
+        "id": "2060058261379063808",
+        "name": "Dreameryanyan",
+        "username": "yanliudreamer"
+      },
+      {
+        "id": "2045004635576918016",
+        "name": "Artur rocha",
+        "username": "ArturrochaaL"
+      },
+      {
+        "id": "1926144412079280128",
+        "name": "超级个体｜柿子",
+        "username": "yaohui12138"
+      },
+      {
+        "id": "2022118285983232001",
+        "name": "西门聪明蛋XD",
+        "username": "xmmxovo"
+      },
+      {
+        "id": "2081344733050515456",
+        "name": "独孤菌 123",
+        "username": "dugujun12"
+      },
+      {
+        "id": "1226419222474936320",
+        "name": "苍何",
+        "username": "canghe"
+      },
+      {
+        "id": "1404738934043602947",
+        "name": "Jackywine",
+        "username": "Jackywine"
+      },
+      {
+        "id": "2039337296370208768",
+        "name": "Chaung Joe",
+        "username": "ChaungJoe"
+      },
+      {
+        "id": "1648577903955947522",
+        "name": "冷酷小猫 IcyCat",
+        "username": "icycat"
+      },
+      {
+        "id": "2074834219231285248",
+        "name": "RF北灰",
+        "username": "ruofeng_x"
+      },
+      {
+        "id": "2060849579546025984",
+        "name": "Children",
+        "username": "Ch11dr3n"
+      },
+      {
+        "id": "1750453906419953664",
+        "name": "Jacky",
+        "username": "JackyCufe"
+      },
+      {
+        "id": "1905149794173222912",
+        "name": "Xian | 弦",
+        "username": "Xian0063"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2094389730347729085",
+    "next_token": "b26v89c19zqg8o3juezh449y724efx29oqym8tjofw8e5",
+    "oldest_id": "2094246308014088622",
+    "result_count": 25
+  }
+}

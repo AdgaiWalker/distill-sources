@@ -1,0 +1,1445 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017566599474303451",
+      "created_at": "2026-01-31T14:25:00.000Z",
+      "edit_history_tweet_ids": [
+        "2017605037523083619"
+      ],
+      "id": "2017605037523083619",
+      "in_reply_to_user_id": "1451831560991170569",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 178,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2017566599474303451",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rionaifantasy WU老师太强了，吾辈楷模，我要多向你学习🫡",
+      "url": "https://x.com/gengdaJ/status/2017605037523083619"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017549822975480057",
+      "created_at": "2026-01-31T14:23:30.000Z",
+      "edit_history_tweet_ids": [
+        "2017604657443705105"
+      ],
+      "id": "2017604657443705105",
+      "in_reply_to_user_id": "1059638356609396736",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 14694,
+        "like_count": 47,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2017549822975480057",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fxtrader 我也中招了。但其实是一个好事，把扰乱市场的劣质用户淘汰出去，让真正能付费的优质客户留下，持续激发市场活力",
+      "url": "https://x.com/gengdaJ/status/2017604657443705105"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017604421430218993",
+      "created_at": "2026-01-31T14:22:34.000Z",
+      "edit_history_tweet_ids": [
+        "2017604425091797164"
+      ],
+      "id": "2017604425091797164",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 50,
+        "impression_count": 18075,
+        "like_count": 31,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2017604421430218993",
+          "type": "replied_to"
+        }
+      ],
+      "text": "网站传送门给你准备好咯！https://t.co/KGRkhZ52ow",
+      "url": "https://x.com/gengdaJ/status/2017604425091797164"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2017603060596674565",
+          "3_2017603567381815297",
+          "3_2017603315979456513"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017604421430218993",
+      "created_at": "2026-01-31T14:22:34.000Z",
+      "edit_history_tweet_ids": [
+        "2017604421430218993"
+      ],
+      "id": "2017604421430218993",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "好家伙，我也中招了，Google AI学生认证的账号被收回了，我真的很痛苦——antigravity、gemini pro大量调用notebooklm、veo3.1、nanobanana pro全部都被收回了，我的生产力严重被限制。虽然买的时候我就有预期这种薅羊毛的方式会被制裁，但是侥幸心理，大家应该都能理解🤣\n\n这种账号被收回了，说实话，找咸鱼卖家根本没有任何用，售后保障形同虚设。但是确实每个月充正版20刀，对于需要充值多个AI工具的我来说还是有一点压力，所以我就想要找到一个折中的办法：\n\n我可以稍微比咸鱼多给一点预算，但我希望我的账号能长久地获得保障和售后。\n\n所以，我找到了“海外版咸鱼”——GamsGo，上面的Gemini普遍比官方得要便宜得多（比官方便宜一半以上），虽然比咸鱼略贵一点，但我认为对于生产力工具，保障更加得重要，花小钱省大事。\n\n而且随着我的深入了解，GamsGo这个平台还不仅卖gemini，还提供更便宜的chatgpt、midjourney、youtube premium、spotify、manus、genspark、perplexity这些热门订阅工具。不仅如此，这个站做了7年了，诚信有保障，售后无忧。\n\n所以，赶紧收藏这个宝藏网站，把他当做长期的正规的“海外版咸鱼”，开启正道省钱之路😋"
+      },
+      "public_metrics": {
+        "bookmark_count": 914,
+        "impression_count": 341994,
+        "like_count": 528,
+        "quote_count": 3,
+        "reply_count": 59,
+        "retweet_count": 86
+      },
+      "text": "好家伙，我也中招了，Google AI学生认证的账号被收回了，我真的很痛苦——antigravity、gemini pro大量调用notebooklm、veo3.1、nanobanana pro全部都被收回了，我的生产力严重被限制。虽然买的时候我就有预期这种薅羊毛的方式会被制裁，但是侥幸心理，大家应该都能理解🤣 https://t.co/4htbC2aiLW",
+      "url": "https://x.com/gengdaJ/status/2017604421430218993"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017219649193366006",
+      "created_at": "2026-01-30T23:33:49.000Z",
+      "edit_history_tweet_ids": [
+        "2017380762526618006"
+      ],
+      "id": "2017380762526618006",
+      "in_reply_to_user_id": "1093844420674281472",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2017277408680817085",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@zhongying14 具体是什么产品，可以私信交流一下。",
+      "url": "https://x.com/gengdaJ/status/2017380762526618006"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2017248801673867265"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017251928087122351",
+      "created_at": "2026-01-30T15:01:54.000Z",
+      "edit_history_tweet_ids": [
+        "2017251932336005172"
+      ],
+      "id": "2017251932336005172",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 552,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2017251928087122351",
+          "type": "replied_to"
+        }
+      ],
+      "text": "完整的提示词和Kimi执行过程，看完非常解压！ https://t.co/oQeC93Zpjy",
+      "url": "https://x.com/gengdaJ/status/2017251932336005172"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2017249252674789376"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017251928087122351",
+      "created_at": "2026-01-30T15:01:53.000Z",
+      "edit_history_tweet_ids": [
+        "2017251928087122351"
+      ],
+      "id": "2017251928087122351",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1685355844119220225",
+              "start": 87,
+              "username": "aiwarts"
+            }
+          ]
+        },
+        "text": "我白嫖用上199元/月的kimi2.5 Agent集群做了个“三角恋”AI kpop 视频😃——故事讲了kpop三个主角狗血的三角恋然后和好“一起玩”的视频。\n\n起因是我领了@aiwarts卡佬的一日体验卡，领了两个号，18次Agent额度，我就想着怎么为难Kimi小朋友过瘾一点，所以给他布置了一个超难的视频任务，大致要求如下（具体的提示词和Kimi执行步骤见下面的第二条帖子）：\n\n1. 结合我给的YouTube链接扩展搜 500 万 + 播放 KPOP AI视频。\n2.从所有视频中提取 爆款元素（“核心冲突”和 “吸睛情节”）\n3.依据爆款元素，生成含开端、发展、转折、高潮、结尾的完整 KPOP Shorts 故事脚本。​\n4.按照脚本输出 30-70 个分镜提示词，每个提示词需包含 “核心内容”“内在含义”。\n5.强制调用Nano banana pro或seedream4.5保持人物一致性，根据分镜提示词制作所有分镜图片。​（否则服务器爆炸哈哈~）\n6.调用veo3.1或kling2.6生成视频（果然失败了，我还是太过分了），但是实际剪辑效果还是蛮不错的，情感节奏都对上了。\n7.添加合适的BGM。\n8.输出最终视频、完整脚本、分镜提示词、图片。\n\n最后的效果还是蛮不错，这个视频我是加速了1.5倍（原视频85s），一致性保持得很完美，爆款情节拿捏了，这个核心梗也设计得很吸睛。\n\n虽然图生视频模型暂时没有接入，但是kimi这个分析能力确实很强，制作故事脚本能力很不错，情感拿捏得很到位，未来可期。\n\n其实再转变个思路，一致性的高保持度，通过Agent集群做电商的图片批量demo图产出应该也还是蛮不错的。我打算再去玩一玩嘿嘿~"
+      },
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 3795,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016065333694771276",
+          "type": "quoted"
+        }
+      ],
+      "text": "我白嫖用上199元/月的kimi2.5 Agent集群做了个“三角恋”AI kpop 视频😃——故事讲了kpop三个主角狗血的三角恋然后和好“一起玩”的视频。 https://t.co/ZNXUs64YkS https://t.co/tHYXSQyz2F",
+      "url": "https://x.com/gengdaJ/status/2017251928087122351"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016879772337656318",
+      "created_at": "2026-01-30T13:32:19.000Z",
+      "edit_history_tweet_ids": [
+        "2017229388308451771"
+      ],
+      "id": "2017229388308451771",
+      "in_reply_to_user_id": "1404738934043602947",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 54,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016879772337656318",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Jackywine 宝藏博主❤️",
+      "url": "https://x.com/gengdaJ/status/2017229388308451771"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2017219459514290176"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017219649193366006",
+      "created_at": "2026-01-30T12:53:37.000Z",
+      "edit_history_tweet_ids": [
+        "2017219649193366006"
+      ],
+      "id": "2017219649193366006",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "今天我的小红书来了一位从我在其他社媒公开表达吸引过来的客户，让我高兴的不只是出单这件事，更因为是我Build in public获得正反馈而激动。\n\n我把自己构建产品的全过程公开，然后有朋友看到了，恰好这个产品蛮契合他，最终达成了这笔交易。我验证了用流量赋能产品这条路的可行性——这也是我为什么要在2026开始全方面做AI自媒体的意义——把自己作为流量入口，给自己的盈利体系稳定赋能。\n\nLearn in Public公开学习过程，Build in Public 公开产品过程，这两者是我绝对推崇并亲身实践的AI时代最佳学习和赚钱的方式。做到了知行合一，学赚一体。\n\n我越透明，用户越信任——这就是我今天在小红书出单的底层逻辑。\n\n很多人问我：我没有产品怎么办？\n\n那就先Learn in Public。你就展示你的学习思路、解决问题的方法、你在这个领域的思考。别人如果欣赏你的成长轨迹，自然会关注你。等到你有产品的时候，这些积累的信任和流量，自然转化为你的第一批用户。Learn in Public 就是为 Build in Public 做准备。\n\n但最重要的不是产品，是你这个人。你在这些平台公开曝光，产品得到曝光的同时，你本人也得到了曝光。即使产品做不下去了，你去做别的产品，核心粉丝和用户也会继续长期追随：虽然上一个产品失败了，但你是个值得信任的人。\n\n跨越几十年的周期，项目、产品、公司都不稳定。唯一相对稳定的只有IP，就是你这个人。你跟着时代进步，不像公司那样产品不行就垮掉，风评不好就被舆论击垮，只要你不搞乱七八糟的，认真做事，为用户思考，为社会做贡献，你就是能跨越周期的。\n\n从 Learn in Public 到 Build in Public，本质是一样的：把自己作为流量入口，让别人看到并欣赏真实的“人”。\n\n去公开表达自己吧bro。"
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1032,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "今天我的小红书来了一位从我在其他社媒公开表达吸引过来的客户，让我高兴的不只是出单这件事，更因为是我Build in public获得正反馈而激动。 https://t.co/ikvV0yOxfS",
+      "url": "https://x.com/gengdaJ/status/2017219649193366006"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016887833353736372",
+      "created_at": "2026-01-30T01:42:40.000Z",
+      "edit_history_tweet_ids": [
+        "2017050799516626983"
+      ],
+      "id": "2017050799516626983",
+      "in_reply_to_user_id": "1685355844119220225",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 74,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016887860016927123",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aiwarts 感谢大佬，染个贫民用上了集群模式，已领取。❤️",
+      "url": "https://x.com/gengdaJ/status/2017050799516626983"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016868436203524141",
+      "created_at": "2026-01-29T14:07:06.000Z",
+      "edit_history_tweet_ids": [
+        "2016875756580983027"
+      ],
+      "id": "2016875756580983027",
+      "in_reply_to_user_id": "1928711169419956224",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 119,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016868436203524141",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoSailGlobal 和之前的deepseek的比起来如何呢，我得去试试",
+      "url": "https://x.com/gengdaJ/status/2016875756580983027"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2016855638849327104"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016800240095961145",
+      "created_at": "2026-01-29T12:47:31.000Z",
+      "edit_history_tweet_ids": [
+        "2016855728192180549"
+      ],
+      "id": "2016855728192180549",
+      "in_reply_to_user_id": "259611996",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 3384,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016800240095961145",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bearliu 好用的很，每天把nano pro额度薅光🤣 https://t.co/EvAW2nqvSY",
+      "url": "https://x.com/gengdaJ/status/2016855728192180549"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2016855060098273281"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016693489669640657",
+      "created_at": "2026-01-29T12:45:15.000Z",
+      "edit_history_tweet_ids": [
+        "2016855156277858609"
+      ],
+      "id": "2016855156277858609",
+      "in_reply_to_user_id": "1404738934043602947",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 370,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016693489669640657",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Jackywine @oops073111 爽完了好久了哈哈，配上质谱输入法，我一个小时能产出一周的文章😄 https://t.co/hEeuumdAEL",
+      "url": "https://x.com/gengdaJ/status/2016855156277858609"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016743419662782730",
+      "created_at": "2026-01-29T12:43:17.000Z",
+      "edit_history_tweet_ids": [
+        "2016854661836513648"
+      ],
+      "id": "2016854661836513648",
+      "in_reply_to_user_id": "6690032",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2699,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016743419662782730",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 有人懂我看了推上所有教程仍然成功不了，刷到所有人都在开心地玩gemini的痛苦吗",
+      "url": "https://x.com/gengdaJ/status/2016854661836513648"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016526033789530563",
+      "created_at": "2026-01-29T12:41:32.000Z",
+      "edit_history_tweet_ids": [
+        "2016854220373446784"
+      ],
+      "id": "2016854220373446784",
+      "in_reply_to_user_id": "756319701861601281",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 63,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016526033789530563",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AI_Jasonyu 我只知道windows我一直用原配，直到有一次原配充电器坏了，然后被迫学会了tapc充电",
+      "url": "https://x.com/gengdaJ/status/2016854220373446784"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016852715117392376",
+      "created_at": "2026-01-29T12:35:33.000Z",
+      "edit_history_tweet_ids": [
+        "2016852715117392376"
+      ],
+      "id": "2016852715117392376",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "小白阶段，不要谈道德，先搞钱。\n成长到一定阶段，开始学会拒绝一些金钱诱惑。\n\n没赚到钱的时候，别装圣人，别假装清高。你就是个要吃饭的普通人，认清自己普通人的身份，不要有什么济世情怀。从0到1的阶段，你要想尽一切办法赚到你能赚到的每一分钱——只要不违法，就可以用尽一切手段去获得你可以得到的钱。这个时候你是要打破混沌，把认知转化为实际的钱包里的钱，脱离\"高认知穷人\"的身份。\n\n这个过程肯定不会容易，因为你对这个世界、对金钱本身、对商业逻辑、对人性、对金钱规律的认识都不够，前期发展缓慢是正常的。但不要慌张，因为这是正常的。你要做的是海纳百川，吸取不同行业、不同门道的赚钱心得和经验，然后在某个节点融会贯通，摸索出一套属于你自己的赚钱打法，这套打法是独特的，由你独有的人脉、经验、运气等复杂因素构成，别人无法完全复刻。\n\n但当你成长到一定阶段后，就要明白：不是所有的钱都要赚。\n\n你要开始懂得取舍。不能只顾眼前的苟且，还要望着诗和远方，追求更大的利益。你要去思考：哪一些商单要接，哪些人要见要结识，哪些活动要参加、哪些没必要参加。更重要的是，生活中哪一部分琐事可以外包出去，交给其他人去做——也就是用劳动力杠杆，把别人的劳动力转化为你自己的利益，这就是剩余价值分配。\n\n勇敢拒绝眼前的小利，去做那些短期看不到回报、但长期对事业发展有益的事。以大目标为准心，围绕它发展，砍掉一切不必要的流程、工作、人脉、信息，只朝一个方向努力，你的成功概率会大大增加。"
+      },
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 5346,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "小白阶段，不要谈道德，先搞钱。\n成长到一定阶段，开始学会拒绝一些金钱诱惑。",
+      "url": "https://x.com/gengdaJ/status/2016852715117392376"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016384019760664899",
+      "created_at": "2026-01-29T05:56:31.000Z",
+      "edit_history_tweet_ids": [
+        "2016752295749239068"
+      ],
+      "id": "2016752295749239068",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 9335,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016506326747435233",
+          "type": "quoted"
+        },
+        {
+          "id": "2016384019760664899",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/MXM2aqc4h5后续畅玩赠金教程",
+      "url": "https://x.com/gengdaJ/status/2016752295749239068"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016384019760664899",
+      "created_at": "2026-01-29T05:01:23.000Z",
+      "edit_history_tweet_ids": [
+        "2016738421272674500"
+      ],
+      "id": "2016738421272674500",
+      "in_reply_to_user_id": "123569769",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 848,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016506326747435233",
+          "type": "quoted"
+        },
+        {
+          "id": "2016737490384871773",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiamiluo https://t.co/MXM2aqc4h5看这个",
+      "url": "https://x.com/gengdaJ/status/2016738421272674500"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016384019760664899",
+      "created_at": "2026-01-29T01:55:43.000Z",
+      "edit_history_tweet_ids": [
+        "2016691698085298547"
+      ],
+      "id": "2016691698085298547",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1633,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@saturn2026 是不是不是新号的原因。。。🧐",
+      "url": "https://x.com/gengdaJ/status/2016691698085298547"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016470302117781602",
+      "created_at": "2026-01-29T00:13:17.000Z",
+      "edit_history_tweet_ids": [
+        "2016665918139748807"
+      ],
+      "id": "2016665918139748807",
+      "in_reply_to_user_id": "3122661542",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9673,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016470302117781602",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yangyi @grok 麻烦你结合剧情，给 yangyi 老师配上一张结婚的图片～",
+      "url": "https://x.com/gengdaJ/status/2016665918139748807"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016384019760664899",
+      "created_at": "2026-01-29T00:09:19.000Z",
+      "edit_history_tweet_ids": [
+        "2016664920050586019"
+      ],
+      "id": "2016664920050586019",
+      "in_reply_to_user_id": "4768271299",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 114,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016624229362651230",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@McG_Kernel @nextoneforeal 这个没试过，你真的会玩",
+      "url": "https://x.com/gengdaJ/status/2016664920050586019"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016384019760664899",
+      "created_at": "2026-01-29T00:08:37.000Z",
+      "edit_history_tweet_ids": [
+        "2016664743625576837"
+      ],
+      "id": "2016664743625576837",
+      "in_reply_to_user_id": "1881923508789551104",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 793,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016588633453842761",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xxi1853136 电脑试试呢",
+      "url": "https://x.com/gengdaJ/status/2016664743625576837"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016384019760664899",
+      "created_at": "2026-01-29T00:08:13.000Z",
+      "edit_history_tweet_ids": [
+        "2016664641855012995"
+      ],
+      "id": "2016664641855012995",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1130,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@b_justin51767 是的",
+      "url": "https://x.com/gengdaJ/status/2016664641855012995"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016384019760664899",
+      "created_at": "2026-01-29T00:07:59.000Z",
+      "edit_history_tweet_ids": [
+        "2016664584682360994"
+      ],
+      "id": "2016664584682360994",
+      "in_reply_to_user_id": "917779587983056897",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1702,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016581006472474861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@zijinxiaodao 对，咸鱼就可以",
+      "url": "https://x.com/gengdaJ/status/2016664584682360994"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2016384019760664899",
+      "created_at": "2026-01-29T00:07:33.000Z",
+      "edit_history_tweet_ids": [
+        "2016664477597663407"
+      ],
+      "id": "2016664477597663407",
+      "in_reply_to_user_id": "1378608730787377155",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2438,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2016546246639722766",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@PeterT69358109 买 token 啥意思，这个是赠送的",
+      "url": "https://x.com/gengdaJ/status/2016664477597663407"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2017603060596674565",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2017603567381815297",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2017603315979456513",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2017248801673867265",
+        "type": "video"
+      },
+      {
+        "media_key": "13_2017249252674789376",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2017219459514290176",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2016855638849327104",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2016855060098273281",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2017566596437577735"
+          ]
+        },
+        "author_id": "1451831560991170569",
+        "conversation_id": "2017566599474303451",
+        "created_at": "2026-01-31T11:52:16.000Z",
+        "edit_history_tweet_ids": [
+          "2017566599474303451"
+        ],
+        "id": "2017566599474303451",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5744,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "text": "第一次收到老马工资，\n拖大家后腿了，下次继续加油💪🏻 https://t.co/bYLIrG57ZF"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2017549754826461184",
+            "3_2017549754822254592",
+            "3_2017549754839011330"
+          ]
+        },
+        "author_id": "1059638356609396736",
+        "conversation_id": "2017549822975480057",
+        "created_at": "2026-01-31T10:45:36.000Z",
+        "edit_history_tweet_ids": [
+          "2017549761734427111",
+          "2017549822975480057"
+        ],
+        "id": "2017549822975480057",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 536822,
+          "like_count": 781,
+          "quote_count": 15,
+          "reply_count": 98,
+          "retweet_count": 34
+        },
+        "text": "#观察 谷歌开始大规模清退“羊毛党”“白嫖党”“闲鱼党”的学生认证Gemini Pro订阅。\n\n这次清退似乎集中在成品号，一卡多号、1key验证的学生账号是多发区。 https://t.co/f2e8UhqLxB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2017603060596674565",
+            "3_2017603567381815297",
+            "3_2017603315979456513"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2017604421430218993",
+        "created_at": "2026-01-31T14:22:34.000Z",
+        "edit_history_tweet_ids": [
+          "2017604421430218993"
+        ],
+        "id": "2017604421430218993",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "好家伙，我也中招了，Google AI学生认证的账号被收回了，我真的很痛苦——antigravity、gemini pro大量调用notebooklm、veo3.1、nanobanana pro全部都被收回了，我的生产力严重被限制。虽然买的时候我就有预期这种薅羊毛的方式会被制裁，但是侥幸心理，大家应该都能理解🤣\n\n这种账号被收回了，说实话，找咸鱼卖家根本没有任何用，售后保障形同虚设。但是确实每个月充正版20刀，对于需要充值多个AI工具的我来说还是有一点压力，所以我就想要找到一个折中的办法：\n\n我可以稍微比咸鱼多给一点预算，但我希望我的账号能长久地获得保障和售后。\n\n所以，我找到了“海外版咸鱼”——GamsGo，上面的Gemini普遍比官方得要便宜得多（比官方便宜一半以上），虽然比咸鱼略贵一点，但我认为对于生产力工具，保障更加得重要，花小钱省大事。\n\n而且随着我的深入了解，GamsGo这个平台还不仅卖gemini，还提供更便宜的chatgpt、midjourney、youtube premium、spotify、manus、genspark、perplexity这些热门订阅工具。不仅如此，这个站做了7年了，诚信有保障，售后无忧。\n\n所以，赶紧收藏这个宝藏网站，把他当做长期的正规的“海外版咸鱼”，开启正道省钱之路😋"
+        },
+        "public_metrics": {
+          "bookmark_count": 914,
+          "impression_count": 341994,
+          "like_count": 528,
+          "quote_count": 3,
+          "reply_count": 59,
+          "retweet_count": 86
+        },
+        "text": "好家伙，我也中招了，Google AI学生认证的账号被收回了，我真的很痛苦——antigravity、gemini pro大量调用notebooklm、veo3.1、nanobanana pro全部都被收回了，我的生产力严重被限制。虽然买的时候我就有预期这种薅羊毛的方式会被制裁，但是侥幸心理，大家应该都能理解🤣 https://t.co/4htbC2aiLW"
+      },
+      {
+        "author_id": "1093844420674281472",
+        "conversation_id": "2017219649193366006",
+        "created_at": "2026-01-30T16:43:08.000Z",
+        "edit_history_tweet_ids": [
+          "2017277408680817085"
+        ],
+        "id": "2017277408680817085",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017219649193366006",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 前几周才刚加入生财，想做的方向也是AI tools独立开发，然后用X作为其中一个宣发口。如果起步时没有产品，怎么选择平台和内容主题来吸引第一批粉丝？期待更多分享"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2017249252674789376"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2017251928087122351",
+        "created_at": "2026-01-30T15:01:53.000Z",
+        "edit_history_tweet_ids": [
+          "2017251928087122351"
+        ],
+        "id": "2017251928087122351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 95,
+                "id": "1685355844119220225",
+                "start": 87,
+                "username": "aiwarts"
+              }
+            ]
+          },
+          "text": "我白嫖用上199元/月的kimi2.5 Agent集群做了个“三角恋”AI kpop 视频😃——故事讲了kpop三个主角狗血的三角恋然后和好“一起玩”的视频。\n\n起因是我领了@aiwarts卡佬的一日体验卡，领了两个号，18次Agent额度，我就想着怎么为难Kimi小朋友过瘾一点，所以给他布置了一个超难的视频任务，大致要求如下（具体的提示词和Kimi执行步骤见下面的第二条帖子）：\n\n1. 结合我给的YouTube链接扩展搜 500 万 + 播放 KPOP AI视频。\n2.从所有视频中提取 爆款元素（“核心冲突”和 “吸睛情节”）\n3.依据爆款元素，生成含开端、发展、转折、高潮、结尾的完整 KPOP Shorts 故事脚本。​\n4.按照脚本输出 30-70 个分镜提示词，每个提示词需包含 “核心内容”“内在含义”。\n5.强制调用Nano banana pro或seedream4.5保持人物一致性，根据分镜提示词制作所有分镜图片。​（否则服务器爆炸哈哈~）\n6.调用veo3.1或kling2.6生成视频（果然失败了，我还是太过分了），但是实际剪辑效果还是蛮不错的，情感节奏都对上了。\n7.添加合适的BGM。\n8.输出最终视频、完整脚本、分镜提示词、图片。\n\n最后的效果还是蛮不错，这个视频我是加速了1.5倍（原视频85s），一致性保持得很完美，爆款情节拿捏了，这个核心梗也设计得很吸睛。\n\n虽然图生视频模型暂时没有接入，但是kimi这个分析能力确实很强，制作故事脚本能力很不错，情感拿捏得很到位，未来可期。\n\n其实再转变个思路，一致性的高保持度，通过Agent集群做电商的图片批量demo图产出应该也还是蛮不错的。我打算再去玩一玩嘿嘿~"
+        },
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3795,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016065333694771276",
+            "type": "quoted"
+          }
+        ],
+        "text": "我白嫖用上199元/月的kimi2.5 Agent集群做了个“三角恋”AI kpop 视频😃——故事讲了kpop三个主角狗血的三角恋然后和好“一起玩”的视频。 https://t.co/ZNXUs64YkS https://t.co/tHYXSQyz2F"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2016062997794271232"
+          ]
+        },
+        "author_id": "1863959670169501696",
+        "conversation_id": "2016065333694771276",
+        "created_at": "2026-01-27T08:26:46.000Z",
+        "edit_history_tweet_ids": [
+          "2016065333694771276"
+        ],
+        "id": "2016065333694771276",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3909,
+          "impression_count": 1698672,
+          "like_count": 9366,
+          "quote_count": 275,
+          "reply_count": 228,
+          "retweet_count": 828
+        },
+        "text": "Here's a short video from our founder, Zhilin Yang.\n\n(It's his first time speaking on camera like this, and he really wanted to share Kimi K2.5 with you!) https://t.co/2uDSOjCjly"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2016879512055939072"
+          ]
+        },
+        "author_id": "1404738934043602947",
+        "conversation_id": "2016879772337656318",
+        "created_at": "2026-01-29T14:23:04.000Z",
+        "edit_history_tweet_ids": [
+          "2016879772337656318"
+        ],
+        "id": "2016879772337656318",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2137,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "text": "如果你像我一样，之前的 obsidian 库中有画布这样形式的内容，想要进行迁移，请用Linked Note Exporter插件\n\n我用它导出了我 2020 年的设计史 canvas\n\n又可以接着研究设计史了 https://t.co/JMVDniOp06"
+      },
+      {
+        "author_id": "1685355844119220225",
+        "conversation_id": "2016887833353736372",
+        "created_at": "2026-01-29T14:55:12.000Z",
+        "edit_history_tweet_ids": [
+          "2016887860016927123"
+        ],
+        "id": "2016887860016927123",
+        "in_reply_to_user_id": "1685355844119220225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "kimi.com/?invite=okc&co…",
+                "end": 35,
+                "expanded_url": "https://www.kimi.com/?invite=okc&code=waX2otzX",
+                "start": 12,
+                "url": "https://t.co/TER6xGTvzn"
+              },
+              {
+                "display_url": "kimi.com",
+                "end": 70,
+                "expanded_url": "http://kimi.com",
+                "start": 47,
+                "url": "https://t.co/PMQ5Vawatj"
+              }
+            ]
+          },
+          "text": "薅到羊毛了，日卡兑换码：https://t.co/TER6xGTvzn\n\n使用规则：\n1、登录https://t.co/PMQ5Vawatj后，点击🔗领取日卡次数；\n2、日卡限量100张，先到先得；\n3、等级：Allegretto\n4、权益：9次Agent使用权益--集群模式要扣3次；\n5、有效期：领取后1天（24hr）"
+        },
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 870,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016887857408069925",
+            "type": "replied_to"
+          }
+        ],
+        "text": "薅到羊毛了，日卡兑换码：https://t.co/uR1Uel1F15\n\n使用规则：\n1、登录https://t.co/ZBJ3nAqv9M后，点击🔗领取日卡次数；\n2、日卡限量100张，先到先得；\n3、等级：Allegretto\n4、权益：9次Agent使用权益--集群模式要扣3次；\n5、有效期：领取后1天（24hr）"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2016867841304383490",
+            "3_2016867903950508038",
+            "3_2016867921965060096",
+            "3_2016867932786348034"
+          ]
+        },
+        "author_id": "1928711169419956224",
+        "conversation_id": "2016868436203524141",
+        "created_at": "2026-01-29T13:38:01.000Z",
+        "edit_history_tweet_ids": [
+          "2016868436203524141"
+        ],
+        "id": "2016868436203524141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "paddleocr.com",
+                "end": 505,
+                "expanded_url": "https://www.paddleocr.com",
+                "start": 482,
+                "url": "https://t.co/CFChYEr2Ju"
+              },
+              {
+                "display_url": "github.com/PaddlePaddle/P…",
+                "end": 544,
+                "expanded_url": "https://github.com/PaddlePaddle/PaddleOCR",
+                "start": 521,
+                "url": "https://t.co/D5kr4L550F"
+              },
+              {
+                "display_url": "huggingface.co/PaddlePaddle/P…",
+                "end": 589,
+                "expanded_url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
+                "start": 566,
+                "url": "https://t.co/7ATppGiDqf"
+              }
+            ]
+          },
+          "text": "PaddleOCR-VL-1.5 首破异形框难题，已全面开源\n\n刚刚，百度正式发布并开源新一代文档解析模型PaddleOCR-VL-1.5，全球首个突破异形框定位技术的OCR模型。\n\n只有0.9B参数，却在OmniDocBench V1.5评测中达到94.5%精度，却超越Gemini 3 Pro(230B)、DeepSeek OCR 2(3B)、Qwen3-VL(235B)等大模型。\n\n比如，手机拍摄倾斜文档场景，PaddleOCR-VL-1.5能精准沿着倾斜文字边缘描边进行准确识别\n\n1️⃣ 优势对比：\n- 传统OCR只会给文字套矩形框。文档倾斜/弯折，识别精度就断崖式下跌。\n\n- PaddleOCR-VL-1.5的异形框定位能跟随文字实际形状进行多边形、倾斜框、弧形框精准定位,就像用铅笔沿着文字边缘描一圈。\n\n2️⃣ 真实场景:\n- 倾斜发票\n- 弯折书籍\n- 复杂多栏\n\n3️⃣ PaddleOCR-VL-1.5 的发布，让过去说\"请把文档拍正\"，现在完全可以说\"随便拍，我们都能识别\"。\n\n4️⃣ 开源资源与使用链接\n- 在线体验/API调用: https://t.co/CFChYEr2Ju\n\n- GitHub开源项目: https://t.co/D5kr4L550F\n\n- Hugging Face模型下载: https://t.co/7ATppGiDqf"
+        },
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3526,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "text": "PaddleOCR-VL-1.5 首破异形框难题，已全面开源\n\n刚刚，百度正式发布并开源新一代文档解析模型PaddleOCR-VL-1.5，全球首个突破异形框定位技术的OCR模型。\n\n只有0.9B参数，却在OmniDocBench V1.5评测中达到94.5%精度，却超越Gemini 3 Pro(230B)、DeepSeek OCR 2(3B)、Qwen3-VL(235B)等大模型。 https://t.co/h2VyhASyJ3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2016800236694364160"
+          ]
+        },
+        "author_id": "259611996",
+        "conversation_id": "2016800240095961145",
+        "created_at": "2026-01-29T09:07:02.000Z",
+        "edit_history_tweet_ids": [
+          "2016800240095961145"
+        ],
+        "id": "2016800240095961145",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 103973,
+          "like_count": 306,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 35
+        },
+        "text": "Google Stitch没想到现在那么好用啊。谢谢Yating提醒 https://t.co/OLhISACite"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2016693196362043396"
+          ]
+        },
+        "author_id": "1404738934043602947",
+        "conversation_id": "2016693489669640657",
+        "created_at": "2026-01-29T02:02:50.000Z",
+        "edit_history_tweet_ids": [
+          "2016693489669640657"
+        ],
+        "id": "2016693489669640657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 33,
+                "id": "1918985445188505600",
+                "start": 22,
+                "username": "oops073111"
+              }
+            ]
+          },
+          "text": "大家好，作为一个 GUI 设计师，我已经在 @oops073111 的协助下\n\n安装好了 claudecode\n配置好了 codesome API\n\n在 claudecode 协助下\n\n配置好了claudian，实现 AI+Obsidian\n在 claudian 的协助下，配置了一个超级省 Token 的有趣系统提示词以及 flomo 笔记导入 Obsidian 的 skills\n\n结合 Obsidian 自身的开放性以及文件优于应用的思路，目前我在尝试解决给 Obsidian 装上 chrome 插件\n\n我在这里分享我学到的一切\n\n感谢这个时代，让愿意动手的人可以实现一切想法"
+        },
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 4438,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "text": "大家好，作为一个 GUI 设计师，我已经在 @oops073111 的协助下\n\n安装好了 claudecode\n配置好了 codesome API\n\n在 claudecode 协助下\n\n配置好了claudian，实现 AI+Obsidian\n在 claudian 的协助下，配置了一个超级省 Token 的有趣系统提示词以及 flomo 笔记导入 Obsidian 的 skills\n\n结合 Obsidian https://t.co/oqvCQCjVxR"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2016743253832564736"
+          ]
+        },
+        "author_id": "6690032",
+        "conversation_id": "2016743419662782730",
+        "created_at": "2026-01-29T05:21:15.000Z",
+        "edit_history_tweet_ids": [
+          "2016743419662782730"
+        ],
+        "id": "2016743419662782730",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 53131,
+          "like_count": 190,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 13
+        },
+        "text": "我去，Chrome开启Gemini后。\n\n可直接对话，把网页变生成信息图.... https://t.co/0i4YL5Ss4v"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2016526022393614337"
+          ]
+        },
+        "author_id": "756319701861601281",
+        "conversation_id": "2016526033789530563",
+        "created_at": "2026-01-28T14:57:26.000Z",
+        "edit_history_tweet_ids": [
+          "2016526033789530563"
+        ],
+        "id": "2016526033789530563",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 25473,
+          "like_count": 14,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "text": "我真的是，用了10年的Mac，我才知道除了MagSafe的磁吸充电口，任意一个C口也都可以充电～\n\n好多次把电脑带回家，没电只能干着急，现在才知道可以用c口的充电器就可以解决，虽然慢点。\n\n大家有不知道的吗？ https://t.co/qBkNM3lsGp"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2016380677466554375"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2016384019760664899",
+        "created_at": "2026-01-28T05:33:07.000Z",
+        "edit_history_tweet_ids": [
+          "2016384019760664899"
+        ],
+        "id": "2016384019760664899",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2664,
+          "impression_count": 422376,
+          "like_count": 1684,
+          "quote_count": 12,
+          "reply_count": 77,
+          "retweet_count": 255
+        },
+        "text": "保姆级全流程领取谷歌2332$赠金\n\n谷歌真是活菩萨，为啥一个小小的pro账号能用2332$赠金。以前是愁没钱用，现在是不知道怎么用。🤣\n\n快来跟我一起领取谷歌大善人的赠金。 https://t.co/Wtu2mIPaGf"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2016506326747435233",
+        "created_at": "2026-01-28T13:39:07.000Z",
+        "edit_history_tweet_ids": [
+          "2016506326747435233"
+        ],
+        "id": "2016506326747435233",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 13868,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016384019760664899",
+            "type": "quoted"
+          }
+        ],
+        "text": "有很多人问我这个赠金拿到之后该怎么去爽，看好了，继续开启疯狂烧token的保姆级教程。\n\n三步，快速上手——造app、网站；用nanobanana生图；用veo生成视频 https://t.co/zEwpT6O0q8"
+      },
+      {
+        "author_id": "123569769",
+        "conversation_id": "2016384019760664899",
+        "created_at": "2026-01-29T04:57:41.000Z",
+        "edit_history_tweet_ids": [
+          "2016737490384871773"
+        ],
+        "id": "2016737490384871773",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 829,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016384019760664899",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 领到后 然后怎样搞？"
+      },
+      {
+        "author_id": "3122661542",
+        "conversation_id": "2016470302117781602",
+        "created_at": "2026-01-28T11:15:58.000Z",
+        "edit_history_tweet_ids": [
+          "2016470302117781602"
+        ],
+        "id": "2016470302117781602",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "前天安上Clawdbot，晚上给他下了个命令：\"帮我找个对象，有眼缘就行\"。\n\n当天晚上，它分析了我十年的聊天记录，得出结论：我喜欢的是\"微信头像是猫、说话带波浪线、周末喜欢宅家\"的女生。\n\n然后它黑进了三大运营商基站，锁定了全市符合条件的4732名女性，挨个发了表白短信，署名是我。\n\n第二天，我收到了4731封\"你谁啊变态\"，和1封\"你也喜欢猫吗\"。\n\nClawdbot说：\"恋爱成功率0.02%，符合统计学预期，已进入第二阶段。\"\n\n它先是找了一堆婚姻介绍网站，结果发现都要付费，后来自己琢磨着降级方案，跑到各种社区，豆瓣相亲小组，用我的照片发帖子，主打一个\"程序员、有车有房、母胎单身、听话\"。\n\n1天后，8个大妈带着女儿上门相亲。我不在家，Clawdbot全程给小爱音箱输入信息，让它成了嘴替全程招待，还给其中5个发了\"彩礼已备好\"的微信红包。\n\n我下班回到家，看了所有的日志，结果它给我发了一条消息：\n\"主人别急，您的婚礼定在下周六，场地是您公司楼下的星巴克，已经帮您跟HR请好婚假了。对了，您的新娘是抖音上'爱猫的林女士'——不过她本人不知道这件事，我打算婚礼当天给她惊喜。\"\n\n\"伴郎我帮您请好了，是隔壁老王家的扫地机器人。\""
+        },
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 375240,
+          "like_count": 824,
+          "quote_count": 11,
+          "reply_count": 69,
+          "retweet_count": 71
+        },
+        "text": "前天安上Clawdbot，晚上给他下了个命令：\"帮我找个对象，有眼缘就行\"。\n\n当天晚上，它分析了我十年的聊天记录，得出结论：我喜欢的是\"微信头像是猫、说话带波浪线、周末喜欢宅家\"的女生。\n\n然后它黑进了三大运营商基站，锁定了全市符合条件的4732名女性，挨个发了表白短信，署名是我。"
+      },
+      {
+        "author_id": "4768271299",
+        "conversation_id": "2016384019760664899",
+        "created_at": "2026-01-28T21:27:38.000Z",
+        "edit_history_tweet_ids": [
+          "2016624229362651230"
+        ],
+        "id": "2016624229362651230",
+        "in_reply_to_user_id": "1782641980981518336",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016424816832872634",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@nextoneforeal @gengdaJ 且新号要用不同的信用卡吗？还是说循环复用信用卡"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2016588621445316608"
+          ]
+        },
+        "author_id": "1881923508789551104",
+        "conversation_id": "2016384019760664899",
+        "created_at": "2026-01-28T19:06:11.000Z",
+        "edit_history_tweet_ids": [
+          "2016588633453842761"
+        ],
+        "id": "2016588633453842761",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 982,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016384019760664899",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 绑u卡认证一直显示这个有什么解决办法吗老师 https://t.co/H8xoVS4dQF"
+      },
+      {
+        "author_id": "917779587983056897",
+        "conversation_id": "2016384019760664899",
+        "created_at": "2026-01-28T18:35:52.000Z",
+        "edit_history_tweet_ids": [
+          "2016581006472474861"
+        ],
+        "id": "2016581006472474861",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1767,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016384019760664899",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 是不是只能开会员使用？"
+      },
+      {
+        "author_id": "1378608730787377155",
+        "conversation_id": "2016384019760664899",
+        "created_at": "2026-01-28T16:17:45.000Z",
+        "edit_history_tweet_ids": [
+          "2016546246639722766"
+        ],
+        "id": "2016546246639722766",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2583,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016384019760664899",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 可以用来买 token 不"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1451831560991170569",
+        "name": "Rion Wu",
+        "username": "rionaifantasy"
+      },
+      {
+        "id": "1059638356609396736",
+        "name": "外汇交易员",
+        "username": "fxtrader"
+      },
+      {
+        "id": "1093844420674281472",
+        "name": "麻酱AI实验室",
+        "username": "zhongying14"
+      },
+      {
+        "id": "1404738934043602947",
+        "name": "Jackywine",
+        "username": "Jackywine"
+      },
+      {
+        "id": "1685355844119220225",
+        "name": "卡尔的AI沃茨",
+        "username": "aiwarts"
+      },
+      {
+        "id": "1928711169419956224",
+        "name": "Jason Zhu（GEO）",
+        "username": "GoSailGlobal"
+      },
+      {
+        "id": "259611996",
+        "name": "Bear Liu",
+        "username": "bearliu"
+      },
+      {
+        "id": "6690032",
+        "name": "向阳乔木",
+        "username": "vista8"
+      },
+      {
+        "id": "756319701861601281",
+        "name": "鱼总聊AI",
+        "username": "AI_Jasonyu"
+      },
+      {
+        "id": "123569769",
+        "name": "虾米",
+        "username": "xiamiluo"
+      },
+      {
+        "id": "3122661542",
+        "name": "Yangyi",
+        "username": "yangyi"
+      },
+      {
+        "id": "4768271299",
+        "name": "McG内核",
+        "username": "McG_Kernel"
+      },
+      {
+        "id": "1881923508789551104",
+        "name": "xi熙",
+        "username": "xxi1853136"
+      },
+      {
+        "id": "917779587983056897",
+        "name": "紫金小道",
+        "username": "zijinxiaodao"
+      },
+      {
+        "id": "1378608730787377155",
+        "name": "欧皇兄.sui",
+        "username": "PeterT69358109"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2017605037523083619",
+    "next_token": "b26v89c19zqg8o3juebjrjrrml0n9v1j8k0z9es3l5dvh",
+    "oldest_id": "2016664477597663407",
+    "result_count": 25
+  }
+}

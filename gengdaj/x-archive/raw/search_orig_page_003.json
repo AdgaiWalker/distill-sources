@@ -1,0 +1,1111 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115244257837768704"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115245071159419069",
+      "created_at": "2026-10-28T00:51:38.000Z",
+      "display_text_range": [
+        0,
+        166
+      ],
+      "edit_history_tweet_ids": [
+        "2115245071159419069"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/FpZYX4UTPy",
+            "end": 190,
+            "expanded_url": "https://x.com/gengdaJ/status/2115245071159419069/photo/1",
+            "media_key": "3_2115244257837768704",
+            "start": 167,
+            "url": "https://t.co/FpZYX4UTPy"
+          }
+        ]
+      },
+      "id": "2115245071159419069",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "大家千万不要用Claude Code CLI接CC Switch去修改网络相关的设置。。。我踏马天塌了。。。\n\n昨天Dmit端口出问题了，我就让Claude Code CLI接DeepSeek 去修，然后。。。晚上账号就G了。。。\n\n重新买礼品卡，Apple Store250$，直接充，又被封了一个，汲取教训，这次从20$开始充。\n\n想问一下经常被封号的朋友一些问题：\n\n1、能反复用同一个Apple Store进行订阅吗，要不然我250$只能积灰了？\n\n2、能不能反复用一个中国护照过？我都能通过，但是由于第二个封的太快，不知道是不是这个原因。\n\n3、再次订阅需要清理网络相关的环境吗，还是说就不管就行？"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 54,
+        "impression_count": 50192,
+        "like_count": 60,
+        "quote_count": 4,
+        "reply_count": 118,
+        "retweet_count": 3
+      },
+      "reply_settings": "everyone",
+      "text": "大家千万不要用Claude Code CLI接CC Switch去修改网络相关的设置。。。我踏马天塌了。。。\n\n昨天Dmit端口出问题了，我就让Claude Code CLI接DeepSeek 去修，然后。。。晚上账号就G了。。。\n\n重新买礼品卡，Apple Store250$，直接充，又被封了一个，汲取教训，这次从20$开始充。 https://t.co/FpZYX4UTPy",
+      "url": "https://x.com/gengdaJ/status/2115245071159419069"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115025392465797120",
+          "3_2115025406759972864",
+          "3_2115025421947604993",
+          "3_2115025436518543360"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115025631167795550",
+      "created_at": "2026-10-27T10:19:40.000Z",
+      "display_text_range": [
+        0,
+        142
+      ],
+      "edit_history_tweet_ids": [
+        "2115025631167795550"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 58,
+            "id": "1947932538967924736",
+            "start": 47,
+            "username": "atypica_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/03Qz5uvaDK",
+            "end": 166,
+            "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/1",
+            "media_key": "3_2115025392465797120",
+            "start": 143,
+            "url": "https://t.co/03Qz5uvaDK"
+          },
+          {
+            "display_url": "pic.x.com/03Qz5uvaDK",
+            "end": 166,
+            "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/2",
+            "media_key": "3_2115025406759972864",
+            "start": 143,
+            "url": "https://t.co/03Qz5uvaDK"
+          },
+          {
+            "display_url": "pic.x.com/03Qz5uvaDK",
+            "end": 166,
+            "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/3",
+            "media_key": "3_2115025421947604993",
+            "start": 143,
+            "url": "https://t.co/03Qz5uvaDK"
+          },
+          {
+            "display_url": "pic.x.com/03Qz5uvaDK",
+            "end": 166,
+            "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/4",
+            "media_key": "3_2115025436518543360",
+            "start": 143,
+            "url": "https://t.co/03Qz5uvaDK"
+          },
+          {
+            "display_url": "x.com/atypica_AI/sta…",
+            "end": 190,
+            "expanded_url": "https://twitter.com/atypica_AI/status/2109586171596775926",
+            "start": 167,
+            "url": "https://t.co/9kCwOaga4I"
+          }
+        ]
+      },
+      "id": "2115025631167795550",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1947932538967924736",
+              "start": 47,
+              "username": "atypica_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "atypica.ai/?via=yichen",
+              "end": 1148,
+              "expanded_url": "https://atypica.ai/?via=yichen",
+              "start": 1125,
+              "url": "https://t.co/3M9gnqz21G"
+            }
+          ]
+        },
+        "text": "所有老板和流量操盘手都来和我一起偷师！\n\n上次我去混沌商学院，才发现年营收几个亿的老板们都在用@atypica_AI这个Personal research agent来辅助自己做商业决策。\n\nAtypica有100万+ 完整人格画像、且经过真人校准、超过85%准确性的AI模拟消费者。\n\n可以让日常的商业判断（大到产品构建迭代，小到文案方向测试）有据可靠，一定程度上规避风险，做出让消费者买单的决策。\n\n比如，老板每次规划一个重大的项目，集中所有资源、人力、物力去突破，其实都有很大的风险，一个逻辑推演错误所有的钱就都没了。。。如果花钱招募真实消费者来测评这个项目，也是一笔很大的开支。。。\n\n但是，如果让Atypica去社媒上搜索真实用户语料来构建目标AI消费者，就可以非常低成本地获得一次完整的用户调研。\n\n而且这套思路不仅是规划大项目有用，迁移到内容营销侧的素材投放仍然适用！\n\n做过TikTok、Facebook投流的朋友应该知道，光是每天手里面投放的钱就是几十万。如果提前预判内容素材是否有流量/能转化，岂不节省一大笔预算？\n\n所以我用最近TikTok爆火的卖$14.99的迷迭香米水喷雾试了一下，给了它三个方向：\nA 情感故事：\"4 months postpartum and my hair was coming out in clumps…\" 先讲掉发的崩溃，产品到视频中间才出现\nB 产品演示：\"Rosemary + rice water. Non-greasy, alcohol-free. Here's my 90-day progress.\" 成分加 90 天对比照\nC 生活方式：\"10 seconds before I leave. No oily scalp, no wash-day drama.\" 出门前喷一下就扎头发，对比要洗一整天的迷迭香精油\n\n让它来判断这三个方向，到底哪个转化会更高？\n\n1、Atypica先搜索真实TikTok和Instagram视频，然后构建虚拟AI人设（代表五类消费者），总共五大类：掉发也要撑住、产后脱发类、十秒出门派、成分审计员、卷发修复党。\n\n2、然后再和AI人设进行了两轮的单独访谈，最后再把五个AI人设，拉进一个圆桌访谈，大家彼此讨论。\n\n3、最后得出的报告也根据TikTok/Instagram人群的不同，给出相当客观的投放策略选取。甚至还给出了素材优化建议。。。超纲了。。。\n完整报告可见评论区。\n\n最后的调研内容，还能直接通过MCP的方式接入Codex或者Claude Code，可以直接和原有的投放工作流打通，从洞察结果无缝衔接内容素材生成。\n\nAtypica传送门：https://t.co/3M9gnqz21G"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 122,
+        "impression_count": 32200,
+        "like_count": 88,
+        "quote_count": 11,
+        "reply_count": 27,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109586171596775926",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "所有老板和流量操盘手都来和我一起偷师！\n\n上次我去混沌商学院，才发现年营收几个亿的老板们都在用@atypica_AI这个Personal research agent来辅助自己做商业决策。\n\nAtypica有100万+ 完整人格画像、且经过真人校准、超过85%准确性的AI模拟消费者。 https://t.co/03Qz5uvaDK https://t.co/9kCwOaga4I",
+      "url": "https://x.com/gengdaJ/status/2115025631167795550"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115004784013197312",
+          "3_2115004810340782080",
+          "3_2115004832872648704",
+          "3_2115004853856731136"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2115004998711152654",
+      "created_at": "2026-10-27T08:57:41.000Z",
+      "display_text_range": [
+        0,
+        131
+      ],
+      "edit_history_tweet_ids": [
+        "2115004998711152654"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/72Cwb2TtWh",
+            "end": 155,
+            "expanded_url": "https://x.com/gengdaJ/status/2115004998711152654/photo/1",
+            "media_key": "3_2115004784013197312",
+            "start": 132,
+            "url": "https://t.co/72Cwb2TtWh"
+          },
+          {
+            "display_url": "pic.x.com/72Cwb2TtWh",
+            "end": 155,
+            "expanded_url": "https://x.com/gengdaJ/status/2115004998711152654/photo/2",
+            "media_key": "3_2115004810340782080",
+            "start": 132,
+            "url": "https://t.co/72Cwb2TtWh"
+          },
+          {
+            "display_url": "pic.x.com/72Cwb2TtWh",
+            "end": 155,
+            "expanded_url": "https://x.com/gengdaJ/status/2115004998711152654/photo/3",
+            "media_key": "3_2115004832872648704",
+            "start": 132,
+            "url": "https://t.co/72Cwb2TtWh"
+          },
+          {
+            "display_url": "pic.x.com/72Cwb2TtWh",
+            "end": 155,
+            "expanded_url": "https://x.com/gengdaJ/status/2115004998711152654/photo/4",
+            "media_key": "3_2115004853856731136",
+            "start": 132,
+            "url": "https://t.co/72Cwb2TtWh"
+          }
+        ]
+      },
+      "id": "2115004998711152654",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mcp.didichuxing.com",
+              "end": 394,
+              "expanded_url": "https://mcp.didichuxing.com/",
+              "start": 371,
+              "url": "https://t.co/zeVFFSpTgJ"
+            }
+          ]
+        },
+        "text": "所有中国人即将进入Personal Agent时代！灵光2.0上线，今天试用了一下，第一次体验到老外用Muse的感觉，确实很方便！\n\n首先是打通了一些系统服务：日历、提醒事项、位置、闹钟、短信、文件、通讯录和iCloud Drive，要查个什么资料简直手拿把掐。\n\n日常待办（结合闹钟）也可以交给灵光记录——我学校的体测、洽谈的合作，这些琐碎的事情都让灵光帮我安排，到点就能提醒我。\n\n而且灵光甚至能连接到百度网盘。。。这真是我的心头病，因为习惯性的往网盘里丢东西，但因为太多了一直懒得整理，我让灵光帮我扫了一下我的网盘，才知道占了3个多G的那一堆资料，是我之前华为手机自动同步的照片😂。\n\n灵光这次还打通了支付宝生态，可以帮忙管我的账单和付费订阅情况。当然也能帮我管工作，因为钉钉、飞书、QQ邮箱也都能接通。\n\n出行也很丝滑！大家可以试试在https://t.co/zeVFFSpTgJ注册一个滴滴的MCP，把Key发到灵光进行绑定，从此出行也能在灵光上完成了——所有的出行路线和价格都由灵光自主规划！（没人会想让Claude Code帮忙叫车吧。。。）\n\n长途和旅游计划也做得相当可以，P人福音。有要出门准备的时候，给它发一些基本情况，就能帮我持续监测机票、酒店价格浮动情况，有符合我需求的机酒时主动提醒我，还能安排出游攻略，实时监测抵达地的天气，根据气候变化主动调整更适合的出游计划。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 232,
+        "impression_count": 72338,
+        "like_count": 224,
+        "quote_count": 7,
+        "reply_count": 83,
+        "retweet_count": 25
+      },
+      "reply_settings": "everyone",
+      "text": "所有中国人即将进入Personal Agent时代！灵光2.0上线，今天试用了一下，第一次体验到老外用Muse的感觉，确实很方便！\n\n首先是打通了一些系统服务：日历、提醒事项、位置、闹钟、短信、文件、通讯录和iCloud Drive，要查个什么资料简直手拿把掐。 https://t.co/72Cwb2TtWh",
+      "url": "https://x.com/gengdaJ/status/2115004998711152654"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2114666429194883429",
+      "created_at": "2026-10-26T10:32:19.000Z",
+      "display_text_range": [
+        0,
+        197
+      ],
+      "edit_history_tweet_ids": [
+        "2114666429194883429"
+      ],
+      "id": "2114666429194883429",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "真诚求问：Grok Bot、Muse、Dot 相比于 Claude Code 和 Codex 强在哪里？\n\n背景信息：用过 Dot，Codex 和 Claude Code 资深玩家，有 X Premium 订阅但没用过 Grok Bot\n\n常规工作、学习、生活交给 Claude Code（+定时任务）\n\n逆向、违规的事、琐碎无脑的事交给 Codex\n\nGrok 只用来搜索 X 信源\n\n我对多 Agent（Grok Bot）这事一直觉得很不靠谱，为啥不能交给多个 Claude Code 对话完成呢，是不能给每个 Agnet 配置不同模型的原因吗？\n\nMuse 对普通人使用 AI 友好，但是感觉很多 AI 大佬也在用，确实没搞懂其中的逻辑，求解惑。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 79,
+        "impression_count": 32307,
+        "like_count": 60,
+        "quote_count": 4,
+        "reply_count": 61,
+        "retweet_count": 9
+      },
+      "reply_settings": "everyone",
+      "text": "真诚求问：Grok Bot、Muse、Dot 相比于 Claude Code 和 Codex 强在哪里？\n\n背景信息：用过 Dot，Codex 和 Claude Code 资深玩家，有 X Premium 订阅但没用过 Grok Bot\n\n常规工作、学习、生活交给 Claude Code（+定时任务）\n\n逆向、违规的事、琐碎无脑的事交给 Codex\n\nGrok 只用来搜索 X 信源\n\n我对多",
+      "url": "https://x.com/gengdaJ/status/2114666429194883429"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114382142155415553",
+          "3_2114382142889447424",
+          "3_2114382142864285696",
+          "3_2114381545146548224"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2114529695882526916",
+      "created_at": "2026-10-26T01:29:00.000Z",
+      "display_text_range": [
+        0,
+        154
+      ],
+      "edit_history_tweet_ids": [
+        "2114529695882526916"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ceN0bdZovy",
+            "end": 178,
+            "expanded_url": "https://x.com/gengdaJ/status/2114529695882526916/photo/1",
+            "media_key": "3_2114382142155415553",
+            "start": 155,
+            "url": "https://t.co/ceN0bdZovy"
+          },
+          {
+            "display_url": "pic.x.com/ceN0bdZovy",
+            "end": 178,
+            "expanded_url": "https://x.com/gengdaJ/status/2114529695882526916/photo/2",
+            "media_key": "3_2114382142889447424",
+            "start": 155,
+            "url": "https://t.co/ceN0bdZovy"
+          },
+          {
+            "display_url": "pic.x.com/ceN0bdZovy",
+            "end": 178,
+            "expanded_url": "https://x.com/gengdaJ/status/2114529695882526916/photo/3",
+            "media_key": "3_2114382142864285696",
+            "start": 155,
+            "url": "https://t.co/ceN0bdZovy"
+          },
+          {
+            "display_url": "pic.x.com/ceN0bdZovy",
+            "end": 178,
+            "expanded_url": "https://x.com/gengdaJ/status/2114529695882526916/photo/4",
+            "media_key": "3_2114381545146548224",
+            "start": 155,
+            "url": "https://t.co/ceN0bdZovy"
+          }
+        ]
+      },
+      "id": "2114529695882526916",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "Codex仅存的战胜Claude Code的能力：去找到、下载并使用（包括逆向）正版软件的破解版。\n\n我最近打算用AE来试着做B-roll素材，配合数字人，打造视频生产线，发现AE竟然是收费工具（别骂，我之前真不知道。。。），然后就让Claude Code帮我找破解版，它不帮我找，我找到了它不帮我解析。。。\n\n然后，突然想试下Codex能不能行，然后这家伙真的可以，一点原则都没有，直接开干！扒了全网的AE第三方安装包，然后帮我在虚拟机里面做测试。\n\n结果真让我免费找到了一个26.5.0版本的安装包（因为MacOS27版本必须要这个版本的，还挺难找）。˙安装好了，确实能用，美滋滋啊！\n\n昨晚还有个对公合同盖章的事情，打印出来盖好章的合同需要全能扫描王弄成扫描件，然后第一次发现这玩意儿也是付费的。。。然后又让Codex帮我扫描了一圈，在Telegram找到了免费的资源，一顿操作帮我安装好。\n\n我只能说：“真香”。\n\n说到盗版软件了，我目前唯一看到过的边界就是z-library不让下载，别的都没啥问题。而且逆向这种东西，claude code打死不干，Codex可来劲了，大家可以多玩玩，然后把“战绩”分享在评论区👇"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 47,
+        "impression_count": 19286,
+        "like_count": 38,
+        "quote_count": 1,
+        "reply_count": 18,
+        "retweet_count": 5
+      },
+      "reply_settings": "everyone",
+      "text": "Codex仅存的战胜Claude Code的能力：去找到、下载并使用（包括逆向）正版软件的破解版。\n\n我最近打算用AE来试着做B-roll素材，配合数字人，打造视频生产线，发现AE竟然是收费工具（别骂，我之前真不知道。。。），然后就让Claude Code帮我找破解版，它不帮我找，我找到了它不帮我解析。。。 https://t.co/ceN0bdZovy",
+      "url": "https://x.com/gengdaJ/status/2114529695882526916"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2114340103720157184"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2114350632215924921",
+      "created_at": "2026-10-25T13:37:28.000Z",
+      "display_text_range": [
+        0,
+        143
+      ],
+      "edit_history_tweet_ids": [
+        "2114350632215924921"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/w9UCB0uqSd",
+            "end": 167,
+            "expanded_url": "https://x.com/gengdaJ/status/2114350632215924921/video/1",
+            "media_key": "13_2114340103720157184",
+            "start": 144,
+            "url": "https://t.co/w9UCB0uqSd"
+          }
+        ]
+      },
+      "id": "2114350632215924921",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "3d.hunyuan.tencent.com/creation",
+              "end": 277,
+              "expanded_url": "https://3d.hunyuan.tencent.com/creation",
+              "start": 254,
+              "url": "https://t.co/L95Ah7t1DF"
+            },
+            {
+              "display_url": "github.com/Mesh2Motion/me…",
+              "end": 343,
+              "expanded_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+              "start": 320,
+              "url": "https://t.co/PYdJI5mRtM"
+            },
+            {
+              "display_url": "huochai.yichen.ai",
+              "end": 410,
+              "expanded_url": "https://huochai.yichen.ai/",
+              "start": 387,
+              "url": "https://t.co/LHFz1X5o36"
+            }
+          ]
+        },
+        "text": "Opus5.5确实在审美这一块太无敌了！我用Opus5.5做了一个3D游戏，纪念《卖火柴的小女孩》，全程花费0$。\n\n从故事书，到精美的童话小镇，再到每一处景深，都做得特别细节，你完全也可以模仿这套流程，从零创造一个心中的世界给自己或小孩玩，或者直接做一个游戏站。\n\n1、和Claude Opus5.5对话，构建整个故事大纲和世界脚本。\n\n2、GPT image2.5生成完整世界画面预览和所需3D素材预览图。\n\n3、用腾讯混元3D（每天免费20次，支持单图生3D、多图生3D，新手试玩友好）生成3D资产。\nhttps://t.co/L95Ah7t1DF\n\n4、第一版人物动作太过僵硬，所以换成开源的 Mesh2Motion 在本地绑骨。\nhttps://t.co/PYdJI5mRtM\n\n5、找公开音乐和音效，配合Three.js网页呈现。\n\n《卖火柴的小女孩》试玩网址：https://t.co/LHFz1X5o36\n\n当然，由于使用的模型能力限制，游戏本身不完美，我之后会用更强大的模型来试试，再来给大家做分享，而且像做出海游戏站这种，本身就有很大的商业潜力，可以围绕外国人喜欢的那种故事展开研究。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 175,
+        "impression_count": 18039,
+        "like_count": 161,
+        "quote_count": 0,
+        "reply_count": 25,
+        "retweet_count": 18
+      },
+      "reply_settings": "everyone",
+      "text": "Opus5.5确实在审美这一块太无敌了！我用Opus5.5做了一个3D游戏，纪念《卖火柴的小女孩》，全程花费0$。\n\n从故事书，到精美的童话小镇，再到每一处景深，都做得特别细节，你完全也可以模仿这套流程，从零创造一个心中的世界给自己或小孩玩，或者直接做一个游戏站。\n\n1、和Claude https://t.co/w9UCB0uqSd",
+      "url": "https://x.com/gengdaJ/status/2114350632215924921"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2113532006000959488"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2113536025058586972",
+      "created_at": "2026-10-23T07:40:30.000Z",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "edit_history_tweet_ids": [
+        "2113536025058586972"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/63uYkSR31C",
+            "end": 165,
+            "expanded_url": "https://x.com/gengdaJ/status/2113536025058586972/video/1",
+            "media_key": "13_2113532006000959488",
+            "start": 142,
+            "url": "https://t.co/63uYkSR31C"
+          }
+        ]
+      },
+      "id": "2113536025058586972",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "Monid太牛批了啊，各种跨境电商相关的数据接口全都有。接入到Claude Code，什么网页都不用打开，就完成调研和商业思路分析了！\n\n前几天去混沌，和九阳（做家庭厨电）的一个姐姐聊到品牌出海增长，我对这一块很感兴趣，所以就从九阳这个品牌开始研究。\n\n还顺带搭建了一套Claude Code+Monid的半自动化增长方案，从商铺数据、买家评价、博主触达、批量邮件...全部在Claude Code里面就搞好了。\n\n1、先搞清楚九阳整个出海的业务盘子：用Exa+TinyFish，进行全业务解析，看下整体的收入占比。\n2、锚定市场：Anyapi拿TikTok Shop商品搜索接口，Exa研究跨境电商政策，最终选定主攻越南市场。\n3、选品：Anyapi拿TikTok Shop整店商品搜索和买家评价，选定增速最快、评价最好的坚果奶机作为主攻产品。\n4、选平台：Exa+网页抓取，选定市场占比略小、但业务模式成熟的TikTok，作为主攻的运营平台。\n\n舍九取一，单点击穿，最后锚定越南市场×坚果奶机×TikTok平台。\n\n再联系KOC博主带货，快速增长：\n-建候选池并筛选：Tikhub关键词搜索，根据创作者近期作品数据建立候选池。\n-拿联系方式并验证：Anyapi用拿创作者联系方式，然后用Hunter接口验证邮箱是否能发信。还可以用Hunter联系MCN，一次联系一批KOC。Apollo拿商务负责人联系方式。\n-批量起草、发送和跟进邮件：AgentMail接口，可以改邮箱为品牌名，然后批量起草邮件、分批打标签发送、持续跟进回信。\n\n完成这一次产品调研思路，有种感受——别人还在哭兮兮用人工跑流程，我已经用Claude Code+各种数据接口（Monid）实现自动化分析，太爽了！感觉出海这块太有意思了，接下来可能会深入做点项目。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 921,
+        "impression_count": 43885,
+        "like_count": 670,
+        "quote_count": 17,
+        "reply_count": 62,
+        "retweet_count": 123
+      },
+      "reply_settings": "everyone",
+      "text": "Monid太牛批了啊，各种跨境电商相关的数据接口全都有。接入到Claude Code，什么网页都不用打开，就完成调研和商业思路分析了！\n\n前几天去混沌，和九阳（做家庭厨电）的一个姐姐聊到品牌出海增长，我对这一块很感兴趣，所以就从九阳这个品牌开始研究。\n\n还顺带搭建了一套Claude https://t.co/63uYkSR31C",
+      "url": "https://x.com/gengdaJ/status/2113536025058586972"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_2115244257837768704",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVrbcgma4AA3UBL.jpg",
+        "width": 2088
+      },
+      {
+        "height": 1776,
+        "media_key": "3_2115025392465797120",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoUY3ja4AAVyDT.jpg",
+        "width": 2978
+      },
+      {
+        "height": 1822,
+        "media_key": "3_2115025406759972864",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoUZszasAAX11q.jpg",
+        "width": 3036
+      },
+      {
+        "height": 1822,
+        "media_key": "3_2115025421947604993",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoUalYbkAEi9oS.jpg",
+        "width": 3022
+      },
+      {
+        "height": 2014,
+        "media_key": "3_2115025436518543360",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoUbbqacAAg72b.jpg",
+        "width": 3420
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2115004784013197312",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoBpTFbwAAfmWA.jpg",
+        "width": 1177
+      },
+      {
+        "height": 1042,
+        "media_key": "3_2115004810340782080",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoBq1Ka0AASEQf.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2115004832872648704",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoBsJGb0AAXbJh.jpg",
+        "width": 850
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2115004853856731136",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoBtXRbgAA7f77.jpg",
+        "width": 850
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2114382142155415553",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVfLWxaaYAEZz8r.jpg",
+        "width": 1200
+      },
+      {
+        "height": 970,
+        "media_key": "3_2114382142889447424",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVfLW0Ja0AAniMr.jpg",
+        "width": 1200
+      },
+      {
+        "height": 695,
+        "media_key": "3_2114382142864285696",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVfLW0Da4AAy2y2.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1166,
+        "media_key": "3_2114381545146548224",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVfK0BYaAAAx6ZK.jpg",
+        "width": 1686
+      },
+      {
+        "duration_ms": 96500,
+        "height": 1080,
+        "media_key": "13_2114340103720157184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2114340103720157184/img/3nbaVy3D2kFYXTbc.jpg",
+        "type": "video",
+        "width": 1920
+      },
+      {
+        "duration_ms": 204823,
+        "height": 2012,
+        "media_key": "13_2113532006000959488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113532006000959488/img/19WG8mDLiJSaUHZo.jpg",
+        "type": "video",
+        "width": 3416
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115244257837768704"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115245071159419069",
+        "created_at": "2026-10-28T00:51:38.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "edit_history_tweet_ids": [
+          "2115245071159419069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpZYX4UTPy",
+              "end": 190,
+              "expanded_url": "https://x.com/gengdaJ/status/2115245071159419069/photo/1",
+              "media_key": "3_2115244257837768704",
+              "start": 167,
+              "url": "https://t.co/FpZYX4UTPy"
+            }
+          ]
+        },
+        "id": "2115245071159419069",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "大家千万不要用Claude Code CLI接CC Switch去修改网络相关的设置。。。我踏马天塌了。。。\n\n昨天Dmit端口出问题了，我就让Claude Code CLI接DeepSeek 去修，然后。。。晚上账号就G了。。。\n\n重新买礼品卡，Apple Store250$，直接充，又被封了一个，汲取教训，这次从20$开始充。\n\n想问一下经常被封号的朋友一些问题：\n\n1、能反复用同一个Apple Store进行订阅吗，要不然我250$只能积灰了？\n\n2、能不能反复用一个中国护照过？我都能通过，但是由于第二个封的太快，不知道是不是这个原因。\n\n3、再次订阅需要清理网络相关的环境吗，还是说就不管就行？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 50192,
+          "like_count": 60,
+          "quote_count": 4,
+          "reply_count": 118,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家千万不要用Claude Code CLI接CC Switch去修改网络相关的设置。。。我踏马天塌了。。。\n\n昨天Dmit端口出问题了，我就让Claude Code CLI接DeepSeek 去修，然后。。。晚上账号就G了。。。\n\n重新买礼品卡，Apple Store250$，直接充，又被封了一个，汲取教训，这次从20$开始充。 https://t.co/FpZYX4UTPy"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115025392465797120",
+            "3_2115025406759972864",
+            "3_2115025421947604993",
+            "3_2115025436518543360"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115025631167795550",
+        "created_at": "2026-10-27T10:19:40.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_history_tweet_ids": [
+          "2115025631167795550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1947932538967924736",
+              "start": 47,
+              "username": "atypica_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/03Qz5uvaDK",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/1",
+              "media_key": "3_2115025392465797120",
+              "start": 143,
+              "url": "https://t.co/03Qz5uvaDK"
+            },
+            {
+              "display_url": "pic.x.com/03Qz5uvaDK",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/2",
+              "media_key": "3_2115025406759972864",
+              "start": 143,
+              "url": "https://t.co/03Qz5uvaDK"
+            },
+            {
+              "display_url": "pic.x.com/03Qz5uvaDK",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/3",
+              "media_key": "3_2115025421947604993",
+              "start": 143,
+              "url": "https://t.co/03Qz5uvaDK"
+            },
+            {
+              "display_url": "pic.x.com/03Qz5uvaDK",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2115025631167795550/photo/4",
+              "media_key": "3_2115025436518543360",
+              "start": 143,
+              "url": "https://t.co/03Qz5uvaDK"
+            },
+            {
+              "display_url": "x.com/atypica_AI/sta…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/atypica_AI/status/2109586171596775926",
+              "start": 167,
+              "url": "https://t.co/9kCwOaga4I"
+            }
+          ]
+        },
+        "id": "2115025631167795550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 58,
+                "id": "1947932538967924736",
+                "start": 47,
+                "username": "atypica_AI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "atypica.ai/?via=yichen",
+                "end": 1148,
+                "expanded_url": "https://atypica.ai/?via=yichen",
+                "start": 1125,
+                "url": "https://t.co/3M9gnqz21G"
+              }
+            ]
+          },
+          "text": "所有老板和流量操盘手都来和我一起偷师！\n\n上次我去混沌商学院，才发现年营收几个亿的老板们都在用@atypica_AI这个Personal research agent来辅助自己做商业决策。\n\nAtypica有100万+ 完整人格画像、且经过真人校准、超过85%准确性的AI模拟消费者。\n\n可以让日常的商业判断（大到产品构建迭代，小到文案方向测试）有据可靠，一定程度上规避风险，做出让消费者买单的决策。\n\n比如，老板每次规划一个重大的项目，集中所有资源、人力、物力去突破，其实都有很大的风险，一个逻辑推演错误所有的钱就都没了。。。如果花钱招募真实消费者来测评这个项目，也是一笔很大的开支。。。\n\n但是，如果让Atypica去社媒上搜索真实用户语料来构建目标AI消费者，就可以非常低成本地获得一次完整的用户调研。\n\n而且这套思路不仅是规划大项目有用，迁移到内容营销侧的素材投放仍然适用！\n\n做过TikTok、Facebook投流的朋友应该知道，光是每天手里面投放的钱就是几十万。如果提前预判内容素材是否有流量/能转化，岂不节省一大笔预算？\n\n所以我用最近TikTok爆火的卖$14.99的迷迭香米水喷雾试了一下，给了它三个方向：\nA 情感故事：\"4 months postpartum and my hair was coming out in clumps…\" 先讲掉发的崩溃，产品到视频中间才出现\nB 产品演示：\"Rosemary + rice water. Non-greasy, alcohol-free. Here's my 90-day progress.\" 成分加 90 天对比照\nC 生活方式：\"10 seconds before I leave. No oily scalp, no wash-day drama.\" 出门前喷一下就扎头发，对比要洗一整天的迷迭香精油\n\n让它来判断这三个方向，到底哪个转化会更高？\n\n1、Atypica先搜索真实TikTok和Instagram视频，然后构建虚拟AI人设（代表五类消费者），总共五大类：掉发也要撑住、产后脱发类、十秒出门派、成分审计员、卷发修复党。\n\n2、然后再和AI人设进行了两轮的单独访谈，最后再把五个AI人设，拉进一个圆桌访谈，大家彼此讨论。\n\n3、最后得出的报告也根据TikTok/Instagram人群的不同，给出相当客观的投放策略选取。甚至还给出了素材优化建议。。。超纲了。。。\n完整报告可见评论区。\n\n最后的调研内容，还能直接通过MCP的方式接入Codex或者Claude Code，可以直接和原有的投放工作流打通，从洞察结果无缝衔接内容素材生成。\n\nAtypica传送门：https://t.co/3M9gnqz21G"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 32200,
+          "like_count": 88,
+          "quote_count": 11,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109586171596775926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有老板和流量操盘手都来和我一起偷师！\n\n上次我去混沌商学院，才发现年营收几个亿的老板们都在用@atypica_AI这个Personal research agent来辅助自己做商业决策。\n\nAtypica有100万+ 完整人格画像、且经过真人校准、超过85%准确性的AI模拟消费者。 https://t.co/03Qz5uvaDK https://t.co/9kCwOaga4I"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2109581759155421184"
+          ]
+        },
+        "author_id": "1947932538967924736",
+        "community_id": "1670204079619055616",
+        "conversation_id": "2109586171596775926",
+        "created_at": "2026-10-12T10:05:12.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "2109586171596775926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KUqmdoy8S",
+              "end": 303,
+              "expanded_url": "https://x.com/atypica_AI/status/2109586171596775926/video/1",
+              "media_key": "13_2109581759155421184",
+              "start": 280,
+              "url": "https://t.co/3KUqmdoy8S"
+            }
+          ]
+        },
+        "id": "2109586171596775926",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "atypica.ai",
+                "end": 727,
+                "expanded_url": "http://atypica.ai",
+                "start": 704,
+                "url": "https://t.co/QFNX3jx2jD"
+              }
+            ]
+          },
+          "text": "Your ad budget goes further when you test the idea before buying the impressions.\n\nThree ad concepts. Same product. One emotional, one focused on features, one built around lifestyle.\n\nConnect Atypica to Claude via MCP, upload your creatives, and explore how your target audience might respond.\n\nAtypica interviews AI personas grounded in real human data to uncover which concepts resonate with different segments, why they prefer them, and what might make them hesitate.\n\nUse those insights to refine your creatives and decide which ideas deserve a paid test. Repeat before each campaign, and you can reduce the budget spent learning avoidable lessons.\n\nWatch the workflow below. Start your research at https://t.co/QFNX3jx2jD ↓"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 61708,
+          "like_count": 29,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Your ad budget goes further when you test the idea before buying the impressions.\n\nThree ad concepts. Same product. One emotional, one focused on features, one built around lifestyle.\n\nConnect Atypica to Claude via MCP, upload your creatives, and explore how your target audience https://t.co/3KUqmdoy8S"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115004784013197312",
+            "3_2115004810340782080",
+            "3_2115004832872648704",
+            "3_2115004853856731136"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2115004998711152654",
+        "created_at": "2026-10-27T08:57:41.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_history_tweet_ids": [
+          "2115004998711152654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72Cwb2TtWh",
+              "end": 155,
+              "expanded_url": "https://x.com/gengdaJ/status/2115004998711152654/photo/1",
+              "media_key": "3_2115004784013197312",
+              "start": 132,
+              "url": "https://t.co/72Cwb2TtWh"
+            },
+            {
+              "display_url": "pic.x.com/72Cwb2TtWh",
+              "end": 155,
+              "expanded_url": "https://x.com/gengdaJ/status/2115004998711152654/photo/2",
+              "media_key": "3_2115004810340782080",
+              "start": 132,
+              "url": "https://t.co/72Cwb2TtWh"
+            },
+            {
+              "display_url": "pic.x.com/72Cwb2TtWh",
+              "end": 155,
+              "expanded_url": "https://x.com/gengdaJ/status/2115004998711152654/photo/3",
+              "media_key": "3_2115004832872648704",
+              "start": 132,
+              "url": "https://t.co/72Cwb2TtWh"
+            },
+            {
+              "display_url": "pic.x.com/72Cwb2TtWh",
+              "end": 155,
+              "expanded_url": "https://x.com/gengdaJ/status/2115004998711152654/photo/4",
+              "media_key": "3_2115004853856731136",
+              "start": 132,
+              "url": "https://t.co/72Cwb2TtWh"
+            }
+          ]
+        },
+        "id": "2115004998711152654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mcp.didichuxing.com",
+                "end": 394,
+                "expanded_url": "https://mcp.didichuxing.com/",
+                "start": 371,
+                "url": "https://t.co/zeVFFSpTgJ"
+              }
+            ]
+          },
+          "text": "所有中国人即将进入Personal Agent时代！灵光2.0上线，今天试用了一下，第一次体验到老外用Muse的感觉，确实很方便！\n\n首先是打通了一些系统服务：日历、提醒事项、位置、闹钟、短信、文件、通讯录和iCloud Drive，要查个什么资料简直手拿把掐。\n\n日常待办（结合闹钟）也可以交给灵光记录——我学校的体测、洽谈的合作，这些琐碎的事情都让灵光帮我安排，到点就能提醒我。\n\n而且灵光甚至能连接到百度网盘。。。这真是我的心头病，因为习惯性的往网盘里丢东西，但因为太多了一直懒得整理，我让灵光帮我扫了一下我的网盘，才知道占了3个多G的那一堆资料，是我之前华为手机自动同步的照片😂。\n\n灵光这次还打通了支付宝生态，可以帮忙管我的账单和付费订阅情况。当然也能帮我管工作，因为钉钉、飞书、QQ邮箱也都能接通。\n\n出行也很丝滑！大家可以试试在https://t.co/zeVFFSpTgJ注册一个滴滴的MCP，把Key发到灵光进行绑定，从此出行也能在灵光上完成了——所有的出行路线和价格都由灵光自主规划！（没人会想让Claude Code帮忙叫车吧。。。）\n\n长途和旅游计划也做得相当可以，P人福音。有要出门准备的时候，给它发一些基本情况，就能帮我持续监测机票、酒店价格浮动情况，有符合我需求的机酒时主动提醒我，还能安排出游攻略，实时监测抵达地的天气，根据气候变化主动调整更适合的出游计划。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 72338,
+          "like_count": 224,
+          "quote_count": 7,
+          "reply_count": 83,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "所有中国人即将进入Personal Agent时代！灵光2.0上线，今天试用了一下，第一次体验到老外用Muse的感觉，确实很方便！\n\n首先是打通了一些系统服务：日历、提醒事项、位置、闹钟、短信、文件、通讯录和iCloud Drive，要查个什么资料简直手拿把掐。 https://t.co/72Cwb2TtWh"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2114666429194883429",
+        "created_at": "2026-10-26T10:32:19.000Z",
+        "display_text_range": [
+          0,
+          197
+        ],
+        "edit_history_tweet_ids": [
+          "2114666429194883429"
+        ],
+        "id": "2114666429194883429",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "真诚求问：Grok Bot、Muse、Dot 相比于 Claude Code 和 Codex 强在哪里？\n\n背景信息：用过 Dot，Codex 和 Claude Code 资深玩家，有 X Premium 订阅但没用过 Grok Bot\n\n常规工作、学习、生活交给 Claude Code（+定时任务）\n\n逆向、违规的事、琐碎无脑的事交给 Codex\n\nGrok 只用来搜索 X 信源\n\n我对多 Agent（Grok Bot）这事一直觉得很不靠谱，为啥不能交给多个 Claude Code 对话完成呢，是不能给每个 Agnet 配置不同模型的原因吗？\n\nMuse 对普通人使用 AI 友好，但是感觉很多 AI 大佬也在用，确实没搞懂其中的逻辑，求解惑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 32307,
+          "like_count": 60,
+          "quote_count": 4,
+          "reply_count": 61,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "真诚求问：Grok Bot、Muse、Dot 相比于 Claude Code 和 Codex 强在哪里？\n\n背景信息：用过 Dot，Codex 和 Claude Code 资深玩家，有 X Premium 订阅但没用过 Grok Bot\n\n常规工作、学习、生活交给 Claude Code（+定时任务）\n\n逆向、违规的事、琐碎无脑的事交给 Codex\n\nGrok 只用来搜索 X 信源\n\n我对多"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2114382142155415553",
+            "3_2114382142889447424",
+            "3_2114382142864285696",
+            "3_2114381545146548224"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2114529695882526916",
+        "created_at": "2026-10-26T01:29:00.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_history_tweet_ids": [
+          "2114529695882526916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceN0bdZovy",
+              "end": 178,
+              "expanded_url": "https://x.com/gengdaJ/status/2114529695882526916/photo/1",
+              "media_key": "3_2114382142155415553",
+              "start": 155,
+              "url": "https://t.co/ceN0bdZovy"
+            },
+            {
+              "display_url": "pic.x.com/ceN0bdZovy",
+              "end": 178,
+              "expanded_url": "https://x.com/gengdaJ/status/2114529695882526916/photo/2",
+              "media_key": "3_2114382142889447424",
+              "start": 155,
+              "url": "https://t.co/ceN0bdZovy"
+            },
+            {
+              "display_url": "pic.x.com/ceN0bdZovy",
+              "end": 178,
+              "expanded_url": "https://x.com/gengdaJ/status/2114529695882526916/photo/3",
+              "media_key": "3_2114382142864285696",
+              "start": 155,
+              "url": "https://t.co/ceN0bdZovy"
+            },
+            {
+              "display_url": "pic.x.com/ceN0bdZovy",
+              "end": 178,
+              "expanded_url": "https://x.com/gengdaJ/status/2114529695882526916/photo/4",
+              "media_key": "3_2114381545146548224",
+              "start": 155,
+              "url": "https://t.co/ceN0bdZovy"
+            }
+          ]
+        },
+        "id": "2114529695882526916",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "Codex仅存的战胜Claude Code的能力：去找到、下载并使用（包括逆向）正版软件的破解版。\n\n我最近打算用AE来试着做B-roll素材，配合数字人，打造视频生产线，发现AE竟然是收费工具（别骂，我之前真不知道。。。），然后就让Claude Code帮我找破解版，它不帮我找，我找到了它不帮我解析。。。\n\n然后，突然想试下Codex能不能行，然后这家伙真的可以，一点原则都没有，直接开干！扒了全网的AE第三方安装包，然后帮我在虚拟机里面做测试。\n\n结果真让我免费找到了一个26.5.0版本的安装包（因为MacOS27版本必须要这个版本的，还挺难找）。˙安装好了，确实能用，美滋滋啊！\n\n昨晚还有个对公合同盖章的事情，打印出来盖好章的合同需要全能扫描王弄成扫描件，然后第一次发现这玩意儿也是付费的。。。然后又让Codex帮我扫描了一圈，在Telegram找到了免费的资源，一顿操作帮我安装好。\n\n我只能说：“真香”。\n\n说到盗版软件了，我目前唯一看到过的边界就是z-library不让下载，别的都没啥问题。而且逆向这种东西，claude code打死不干，Codex可来劲了，大家可以多玩玩，然后把“战绩”分享在评论区👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 19286,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Codex仅存的战胜Claude Code的能力：去找到、下载并使用（包括逆向）正版软件的破解版。\n\n我最近打算用AE来试着做B-roll素材，配合数字人，打造视频生产线，发现AE竟然是收费工具（别骂，我之前真不知道。。。），然后就让Claude Code帮我找破解版，它不帮我找，我找到了它不帮我解析。。。 https://t.co/ceN0bdZovy"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2114340103720157184"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2114350632215924921",
+        "created_at": "2026-10-25T13:37:28.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_history_tweet_ids": [
+          "2114350632215924921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9UCB0uqSd",
+              "end": 167,
+              "expanded_url": "https://x.com/gengdaJ/status/2114350632215924921/video/1",
+              "media_key": "13_2114340103720157184",
+              "start": 144,
+              "url": "https://t.co/w9UCB0uqSd"
+            }
+          ]
+        },
+        "id": "2114350632215924921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "3d.hunyuan.tencent.com/creation",
+                "end": 277,
+                "expanded_url": "https://3d.hunyuan.tencent.com/creation",
+                "start": 254,
+                "url": "https://t.co/L95Ah7t1DF"
+              },
+              {
+                "display_url": "github.com/Mesh2Motion/me…",
+                "end": 343,
+                "expanded_url": "https://github.com/Mesh2Motion/mesh2motion-app",
+                "start": 320,
+                "url": "https://t.co/PYdJI5mRtM"
+              },
+              {
+                "display_url": "huochai.yichen.ai",
+                "end": 410,
+                "expanded_url": "https://huochai.yichen.ai/",
+                "start": 387,
+                "url": "https://t.co/LHFz1X5o36"
+              }
+            ]
+          },
+          "text": "Opus5.5确实在审美这一块太无敌了！我用Opus5.5做了一个3D游戏，纪念《卖火柴的小女孩》，全程花费0$。\n\n从故事书，到精美的童话小镇，再到每一处景深，都做得特别细节，你完全也可以模仿这套流程，从零创造一个心中的世界给自己或小孩玩，或者直接做一个游戏站。\n\n1、和Claude Opus5.5对话，构建整个故事大纲和世界脚本。\n\n2、GPT image2.5生成完整世界画面预览和所需3D素材预览图。\n\n3、用腾讯混元3D（每天免费20次，支持单图生3D、多图生3D，新手试玩友好）生成3D资产。\nhttps://t.co/L95Ah7t1DF\n\n4、第一版人物动作太过僵硬，所以换成开源的 Mesh2Motion 在本地绑骨。\nhttps://t.co/PYdJI5mRtM\n\n5、找公开音乐和音效，配合Three.js网页呈现。\n\n《卖火柴的小女孩》试玩网址：https://t.co/LHFz1X5o36\n\n当然，由于使用的模型能力限制，游戏本身不完美，我之后会用更强大的模型来试试，再来给大家做分享，而且像做出海游戏站这种，本身就有很大的商业潜力，可以围绕外国人喜欢的那种故事展开研究。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 18039,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Opus5.5确实在审美这一块太无敌了！我用Opus5.5做了一个3D游戏，纪念《卖火柴的小女孩》，全程花费0$。\n\n从故事书，到精美的童话小镇，再到每一处景深，都做得特别细节，你完全也可以模仿这套流程，从零创造一个心中的世界给自己或小孩玩，或者直接做一个游戏站。\n\n1、和Claude https://t.co/w9UCB0uqSd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2113532006000959488"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2113536025058586972",
+        "created_at": "2026-10-23T07:40:30.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_history_tweet_ids": [
+          "2113536025058586972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/63uYkSR31C",
+              "end": 165,
+              "expanded_url": "https://x.com/gengdaJ/status/2113536025058586972/video/1",
+              "media_key": "13_2113532006000959488",
+              "start": 142,
+              "url": "https://t.co/63uYkSR31C"
+            }
+          ]
+        },
+        "id": "2113536025058586972",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "Monid太牛批了啊，各种跨境电商相关的数据接口全都有。接入到Claude Code，什么网页都不用打开，就完成调研和商业思路分析了！\n\n前几天去混沌，和九阳（做家庭厨电）的一个姐姐聊到品牌出海增长，我对这一块很感兴趣，所以就从九阳这个品牌开始研究。\n\n还顺带搭建了一套Claude Code+Monid的半自动化增长方案，从商铺数据、买家评价、博主触达、批量邮件...全部在Claude Code里面就搞好了。\n\n1、先搞清楚九阳整个出海的业务盘子：用Exa+TinyFish，进行全业务解析，看下整体的收入占比。\n2、锚定市场：Anyapi拿TikTok Shop商品搜索接口，Exa研究跨境电商政策，最终选定主攻越南市场。\n3、选品：Anyapi拿TikTok Shop整店商品搜索和买家评价，选定增速最快、评价最好的坚果奶机作为主攻产品。\n4、选平台：Exa+网页抓取，选定市场占比略小、但业务模式成熟的TikTok，作为主攻的运营平台。\n\n舍九取一，单点击穿，最后锚定越南市场×坚果奶机×TikTok平台。\n\n再联系KOC博主带货，快速增长：\n-建候选池并筛选：Tikhub关键词搜索，根据创作者近期作品数据建立候选池。\n-拿联系方式并验证：Anyapi用拿创作者联系方式，然后用Hunter接口验证邮箱是否能发信。还可以用Hunter联系MCN，一次联系一批KOC。Apollo拿商务负责人联系方式。\n-批量起草、发送和跟进邮件：AgentMail接口，可以改邮箱为品牌名，然后批量起草邮件、分批打标签发送、持续跟进回信。\n\n完成这一次产品调研思路，有种感受——别人还在哭兮兮用人工跑流程，我已经用Claude Code+各种数据接口（Monid）实现自动化分析，太爽了！感觉出海这块太有意思了，接下来可能会深入做点项目。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 921,
+          "impression_count": 43885,
+          "like_count": 670,
+          "quote_count": 17,
+          "reply_count": 62,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "Monid太牛批了啊，各种跨境电商相关的数据接口全都有。接入到Claude Code，什么网页都不用打开，就完成调研和商业思路分析了！\n\n前几天去混沌，和九阳（做家庭厨电）的一个姐姐聊到品牌出海增长，我对这一块很感兴趣，所以就从九阳这个品牌开始研究。\n\n还顺带搭建了一套Claude https://t.co/63uYkSR31C"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1947932538967924736",
+        "name": "atypica.AI | Consumer Simulation",
+        "protected": false,
+        "username": "atypica_AI"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115245071159419069",
+    "next_token": "b26v89c19zqg8o3juzlwttaj7is0v831ewckjdvp31jst",
+    "oldest_id": "2113536025058586972",
+    "result_count": 7
+  }
+}

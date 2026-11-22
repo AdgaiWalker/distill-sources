@@ -1,0 +1,2620 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T23:11:35.000Z",
+      "edit_history_tweet_ids": [
+        "2083329758381965326"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "1570599115",
+            "start": 3,
+            "username": "alexmashrabov"
+          }
+        ]
+      },
+      "id": "2083329758381965326",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 138,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 84
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083305953374634403",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @alexmashrabov: This is one of my favorite Higgsfield case studies.\n\nVertex CGI built an NBA Finals campaign for ESPN on Higgsfield, hit…",
+      "url": "https://x.com/gengdaJ/status/2083329758381965326"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T15:24:42.000Z",
+      "edit_history_tweet_ids": [
+        "2083212263482405290"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "790804453796352000",
+            "start": 0,
+            "username": "CalvinNotes"
+          }
+        ]
+      },
+      "id": "2083212263482405290",
+      "in_reply_to_user_id": "790804453796352000",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 393,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083206991376433281",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CalvinNotes 好的，感谢！",
+      "url": "https://x.com/gengdaJ/status/2083212263482405290"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T14:32:04.000Z",
+      "edit_history_tweet_ids": [
+        "2083199018755334550"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1792608085409939456",
+            "start": 0,
+            "username": "Astronaut_1216"
+          }
+        ]
+      },
+      "id": "2083199018755334550",
+      "in_reply_to_user_id": "1792608085409939456",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4810,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083198436988359043",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 杭哥，什么佬，你夸张了。。。永远是学生🫡",
+      "url": "https://x.com/gengdaJ/status/2083199018755334550"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T14:31:27.000Z",
+      "edit_history_tweet_ids": [
+        "2083198864795029631"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "500485482",
+            "start": 0,
+            "username": "xiaofeng01"
+          }
+        ]
+      },
+      "id": "2083198864795029631",
+      "in_reply_to_user_id": "500485482",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3203,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083197389943505017",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaofeng01 要慢慢学，慢慢啃，都是水到渠成的，多借助AI来理解",
+      "url": "https://x.com/gengdaJ/status/2083198864795029631"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T14:22:23.000Z",
+      "edit_history_tweet_ids": [
+        "2083196582519042545"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 174,
+            "start": 151,
+            "url": "https://t.co/enmlP8jXy2"
+          }
+        ]
+      },
+      "id": "2083196582519042545",
+      "public_metrics": {
+        "bookmark_count": 153,
+        "impression_count": 34685,
+        "like_count": 136,
+        "quote_count": 1,
+        "reply_count": 71,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083195661353394227",
+          "type": "quoted"
+        }
+      ],
+      "text": "因为我最近在网络上踩的坑实在太多了。。。所以我选择从零开始学网络基础知识😅\n\n诚然，Codex或者别的Agent每次都能帮我把这些问题解决，但是这种感受很不好——批量下载公众号和视频号直播回放都需要临时切换代理；Grok、Gemini和DMIT经常抽风，然后就不打开了，Codex改半天才能正常使用。 https://t.co/enmlP8jXy2",
+      "url": "https://x.com/gengdaJ/status/2083196582519042545"
+    },
+    {
+      "article": {
+        "cover_media": "3_2083192155003400192",
+        "entities": {
+          "code": [
+            {
+              "code": "",
+              "content": "| 内容              | 含义                                    |\n| --------------- | ------------------------------------- |\n| 07-30 20:40:53  | 这条连接发生的时间                             |\n| INFO            | 普通运行信息                                |\n| TCP             | 这条连接使用 TCP 传输【关于TCP后续会展开讲解】           |\n| 127.0.0.1:65147 | 连接来自你电脑本机的一个临时端口【IP+端口，会在后续展开讲解】      |\n| chatgpt.com:443 | 要访问 ChatGPT 的 HTTPS 服务【HTTPS会在后续展开讲解】 |\n| match Match     | 命中了名为 MATCH 的兜底规则                     |\n| PROXY           | 规则把连接交给 PROXY 代理组                     |\n| DMIT-VPS        | PROXY 最终选择了 DMIT-VPS 节点               |\n当网络遇到故障时，比如网站打不开、节点连接超时，都可以让Codex优先检查”日志“界面，来定位问题。",
+              "language": "none"
+            }
+          ],
+          "urls": [
+            {
+              "text": "https://www.dmit.io/aff.php?aff=18784"
+            },
+            {
+              "text": "https://bandwagonhost.com/aff.php?aff=84928"
+            },
+            {
+              "text": "chatgpt.com:443"
+            },
+            {
+              "text": "https://abs.twimg.com/emoji/v2/svg/1f914.svg"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2083192753652178944",
+          "3_2083193061254082560",
+          "3_2083193317924450304",
+          "3_2083192600102858752",
+          "3_2083194513863094272",
+          "3_2083192446033514496",
+          "3_2083193010976911360",
+          "3_2083193215218503680",
+          "3_2083193369065656320",
+          "3_2083193420387057664",
+          "3_2083192651449552896",
+          "3_2083192548672294912",
+          "3_2083192497384419328",
+          "3_2083192958963372032",
+          "3_2083192856685289472",
+          "3_2083193266644934656",
+          "3_2083193112521035777",
+          "3_2083192907591536640",
+          "3_2083192343495389184",
+          "3_2083193472593678336",
+          "3_2083192394758172673",
+          "3_2083193163846701056",
+          "3_2083192292169711616",
+          "3_2083192806353612800",
+          "3_2083192702292963328"
+        ],
+        "plain_text": "我为什么要写这篇关于网络基础的教学？因为我最近在网络上踩的坑实在太多了。。。\n诚然，Codex或者别的Agent每次都能帮我把这些问题解决，但是这种感受很不好——批量下载公众号和视频号直播回放都需要临时切换代理；Grok、Gemini和DMIT经常抽风，然后就不打开了，Codex改半天才能正常使用。\n当然，Claude封号是Codex也解决不了的问题，得人来慢慢研究。\n综上，我选择了从零学习网络基础知识，把Clash Verge作为桌面网络代理客户端工具，从第一性原理出发解决这些问题。本篇教程仅分享我自己的学习经验，不构成任何专业知识讲解，如果有专业错误，敬请扶正！\n一、首页\n \n咱们从上到下来梳理Clash Verge打开的第一个界面”首页“包含的内容。包含了”订阅的节点“、”当前节点“、”网络设置“、”代理模式“、”流量统计“、”网站测试“、”IP 信息“、”Clash 信息“、”系统信息“。\n1）订阅的节点\n我这边是用DMIT（一家VPS供应商）自建的节点，采用Reality（保护本机到 VPS ）连接，所以我给它明明为了DMIT-Reality。\nDMIT购买地址（经常断货）：https://www.dmit.io/aff.php?aff=18784\n搬瓦工购买地址（略贵）:https://bandwagonhost.com/aff.php?aff=84928\n2）当前节点\n \n我只买一个VPS，也只建了一个节点，所以没得选，只能选DMIT-VPS（其实这个不是坏事，至少IP不会乱飘）。然后代理组因为只有一个节点，也就只能选Proxy。\n【我目前VPS用的是TCP传输，但是因为具备UDP传输能力，所以显示为UDP。TCP、Vless、UDP、XUDP稍后展开讲，直接讲难度过大】\n然后节点那块可以选DMIT-VPS和DIRECT，但是肯定选DMIT-VPS，要不然就是直连了，还怎么上网。。。\n3）网络配置\n \n这一块可能是大家最容易搞混的地方了——我估计大部分人对这块代理和TUN模式就是似懂非懂，乱按一通，能用就行的状态。\n其实搞清楚两个点这块就梳理清除了：“网络设置”决定流量怎么进入 Clash Verge；“代理模式”决定流量进入 Clash Verge 后往哪里走。\n“网络设置”有“系统代理”和“虚拟网卡”（TUN模式）两个模式。分开来讲：\n“系统代理”开启后，Clash Verge 会告诉 macOS：浏览器和其他支持系统代理的软件，联网时先把请求交给 Clash Verge。（但系统代理不是强制接管，有些游戏、命令行工具或者特殊软件不读取系统代理，因此可能绕过 Clash Verge，直接联网）\n“虚拟网卡”模式，也就是 TUN 模式，它会在电脑里创建一张虚拟网卡，让更多网络数据先进入 Clash，包括一些不遵守系统代理的软件。\n因此，两者比较，TUN 接管流量范围更广，但也更容易与其他 VPN、游戏加速器、公司网络、DNS 或局域网发生冲突。【为什么会冲突，之后再讲，此处只需要知道TUN模式虽然接管流量更广，但是特定用途下有弊端即可】\n4）代理模式\n流量进入 Clash 后，才轮到“规则”“全局”和“直连”决定它怎么走。\n规则模式下，Clash 会根据访问网站、IP、应用等规则分别处理：\n百度、国内网站\n→ DIRECT\n→ 使用本地网络直接访问\nGoogle、YouTube 等网站\n→ PROXY\n→ 通过 DMIT-VPS 访问\n广告或危险地址\n→ REJECT\n→ 直接拒绝连接\n全局模式下，已经进入 Clash 的流量，基本都交给代理节点：\n应用\n→ Clash\n→ DMIT-VPS\n→ 目标网站\n如果有时候遇到“规则”打不开某个网站，可以切换到“全局”，但是“全局”不适合无脑开，因为国内网站也会绕到美国服务器，可能变慢。\n注意：全局模式只处理“已经进入 Clash 的流量”，如果某个游戏的流量根本没有被系统代理或 TUN 接住，它仍然可能直连。。。\n直连模式就比较好理解了，就是已经进入 Clash 的流量，全部使用本地网络，不经过 DMIT。\n应用\n→ Clash\n→ 本地网络\n→ 目标网站\n直连模式不等于退出 Clash，也不等于关闭系统代理。流量仍然是先进入 Clash，只是 Clash 最后选择不使用远程节点，直连目标网站。\n5）流量统计\n \n这一块是 Clash Verge 的“流量统计”，用来观察 Mihomo 当前处理了多少网络流量，先来解释一下Mihomo是啥：\n代理软件内部真正处理网络连接的程序叫代理核心——它读取节点和规则，接收流量，连接远程服务器，再把返回的数据交还给应用。Mihomo 就是Clash Verge 官方版本内置的代理核心，因此点击 Clash Verge 里的系统代理、TUN、全局模式或规则模式，界面会把你的流量交由 Mihomo处理。\n上传速度：1.57 KB/s，表示 Mihomo 当前每秒处理约 1.57 KB 的上传数据（向网站发送请求，上传信息等）；\n下载速度：7.79 KB/s，表示 Mihomo 当前每秒下载约 7.79 KB 的数据\n活跃连接：66，表示 Mihomo 当时正在维护 66 条逻辑连接（网页后台请求、微信通信等等）\n上传量：139 MB，表示 Mihomo 本次运行期间累计处理了 139 MB 上传流量。\n下载量：1.18 GB，表示本次运行期间，Mihomo 累计处理了 `1.18 GB` 下载流量（包含了直连和代理流量）。\n内核占用：36.6 MB，表示 Mihomo 当前大约占用了 `36.6 MB` 内存。\n6）网站测试\n \n这是 Clash Verge 的网站测试功能，这个指的不是下载速度，而是测试从你的电脑开始建立网络连接，到指定网站完成 TLS 握手（正式传输网页内容前的准备过程：电脑确认网站身份，并与网站协商加密方式）一共花了多长时间。\n这四个网站都已经成功完成 TLS 握手，所以从网络连接层面看，它们都是可以连接的。数字越小，代表建立连接时的等待越短。\n7）IP信息【可以把IP理解为你在网络世界里的通信地址，稍后会详细展开】\n \nUnited States：我的出口 IP 被识别为美国。\n 服务商 DMIT：这个 IP 来自我购买的 DMIT VPS。\n 位置 Los Angeles：数据库将 IP 定位在美国洛杉矶。\n AS906：DMIT 所属网络的编号，用于标识 IP 属于哪个网络运营组织【关于网络运营组织会在后续展开】。\n 时区 America/Los_Angeles：该 IP 所在地区对应的洛杉矶时区。\n IP 后面的眼睛：点击可以显示或隐藏完整 IP。\n 77s：77 秒后自动重新检测。\n 右上角按钮：立即刷新。\n8）Clash 信息\n \n内核版本 v1.19.29 Mihomo：Mihomo 是真正负责接管、分流和转发网络请求的核心程序。\n 系统代理地址 127.0.0.1:7897：应用程序把流量交给本机 7897 端口的 Mihomo。\n 混合代理端口 7897：这个端口同时接收 HTTP 和 SOCKS5 代理请求。【HTTP和SOCKS5也会在后续展开讲解】\n 运行时间 3:56:25：Mihomo 已连续运行约 3 小时 56 分钟。\n 规则数量 14：当前配置中有 14 条分流规则，用于决定哪些请求直连（DIRECT）、走代理（PROXY）或被拦截（REJECT）。\n9）系统信息\n 操作系统信息：我的 Mac 正在运行 macOS Tahoe 26.5.1。\n 开机自启未启用：重启 Mac 后，Clash Verge 不会自动打开。\n 服务模式：Clash 通过系统后台服务运行，方便使用 TUN 等需要系统权限（相当于有一个后台小助手，不用每次输入MAC开机密码）的功能。\n 最后检查更新：最近一次检查软件更新的时间。\n Verge 版本 v2.5.2：我安装的是 Clash Verge Rev 2.5.2。\n 右上角齿轮：进入最左侧导航栏的“设置”界面。\n二、代理\n \n规则界面：PROXY 是一个代理组，可以理解成“给流量设定的规则需要走代理时，应该使用哪个出口”。Selector的意思是这个代理组需要手动选择， DMIT-VPS 表示当前我选择的是 DMIT-VPS。\n我目前有两个选项：\nDMIT-VPS：通过我的美国 DMIT VPS 访问网站。\nDIRECT：不通过 VPS，直接使用本地网络访问。\n全局界面：选中DMIT-VPS即可，这个是我的实际节点。PROXY是代理组，如果选择，就代表我要从里面挑一个出口，但其实里面也只有DMIT—VPS和DIRECT，所以不用切换。\n \n \n链式代理：\n普通代理只经过一个远程节点：你我的 Mac → DMIT-VPS → 目标网站，而链式代理会依次经过两个或更多远程节点：我的 Mac → 节点 A → 节点 B → 目标网站\nClash Verge 把第一个节点称为入口节点，把最后一个节点称为出口节点。例如：我的 Mac → 日本节点 → 美国 DMIT-VPS → Claude，Claude 看到的就是美国 DMIT-VPS 的 IP。\n链式代理一般用于改善前半段线路。比如我的Mac直连美国DMIT很不稳定，但连接某个日本节点很稳定，就可以让日本节点作为入口，再连接美国 DMIT。但是链式代理也会导致延迟增加、任一节点故障代理链即断开的问题，一般不建议使用。。。\n三、订阅\n \n先讲讲“配置”“节点”和“订阅”的关系，我之前老是把这三个东西混在一起。。。\n配置方案（图中的DMIT——Reality）指的是一整套网络设置，包含了节点、代理组（RPOXY）、分流规则和DNS设置【DNS稍后讲】。\n节点指的是实际连接的远程代理服务器，例如我的DMIT—VPS。\n而订阅链接则是指用于从网上下载和更新配置方案的网址。\n上图中最上方有一个“订阅文件链接”+“导入”：这里用来导入在线订阅链接的（很多VPN就是提供的这个），服务商提供订阅链接 → 粘贴到输入框 → 点击导入 → Clash Verge下载配置 → 页面出现新的配置卡片。\n \n右上角第三个是“查看运行时订阅”按钮，打开就可以看到完整的配置文件（只读），类似这样：\n全局扩展覆写配置（Merge），每次我切换 DMIT-Reality 或者其他节点的时候，Clash Verge 都会把 Merge 里的固定设置加入当前配置。我的这块配置只有一个设置：记住我在代理组中选择的节点——这样我下次重启Mihomo，它就自动选择DMIT-VPS，而不是默认选项。\n全局扩展脚本（Script），是一段可以自动处理配置的程序。它能根据条件增加、删除或修改节点和规则，适合比较复杂的需求。我目前还没用到。。。\n \n右键点击具体的节点，出现——\n编辑信息就是修改配置卡片的名称、描述等基本信息，不会修改VPS节点本身的参数。\n编辑文件：直接编辑这套配置的完整YAML文件（其中包含完整的节点、代理组、规则、DNS等内容）。但要小心编辑，错了你的网络可能就用不了了。。。\n \n编辑文件这块有个值得注意的，Rules的最后一行有个MATCH，这个就是代理的兜底规则，如果前面的规则全部都没有匹配时，就把连接交给PROXY代理组（当然你也可以设置为其他）。\n编辑规则：调整流量应该走直连、DMIT-VPS，还是被拦截。也就是配置分流规则。\n编辑节点：添加、修改或者移除远程代理节点。这个也别轻易搞，容易出事。。。\n编辑代理组：管理PROXY这类“代理选择组”，决定组里包含哪些节点，以及采用手动选择、自动测速等方式。\n拓展覆写配置：给 DMIT-Reality 单独追加一份 YAML 设置，用来覆盖或补充原配置，但不直接改原始文件。（这一块也可以直接在编辑文件里面编辑）\n扩展脚本：用 JavaScript 自动加工这套配置，可根据条件批量修改节点、规则或代理组。\n四、连接\n \n可以把“连接”理解成 Mihomo 当前管理的网络连接清单。它展示了电脑正在连接哪些服务器、传输了多少数据，以及最终走了哪个节点。\n点击任意一行，会显示更详细的信息，包括：\n是哪个进程发起的；\n命中了哪条规则；\n电脑上的源地址和端口；\n目标 IP 和目标端口；\n使用 TCP 还是 UDP；\n连接建立了多久；\n最终经过什么链路。\n还可以只关闭这一条连接，不影响其他连接。\n五、规则\n \n“规则”页面，可以理解成 Mihomo 的分流规则清单——它决定一条进入 Mihomo 的连接，是走 DMIT-VPS、直接连接，还是拒绝连接。（但要注意，这些规则只有在“规则“模式下才负责分流，”全局“模式不会被影响！）\n这一块我自己是把微信大多数网站访问设置成了DIRECT（直连），因为确实害怕微信封我号。。。当然，你可以像我一样，把你觉得需要直连的网站在这个全部设置一下，包括淘宝、天猫、飞书这些网站。\n也不用你自己设置，让Codex帮你编辑一下节点的配置文件即可，把网址告诉它哈哈哈。\n六、日志\n \n“日志”页面记录的是 Mihomo 每次处理网络连接时做出的判断——什么时间、连接了哪里、命中了什么规则、最终走哪个出口。\n拆解一条规则：07-30 20:40:53 INFO [TCP] 127.0.0.1:65147 → chatgpt.com:443 match Match using PROXY[DMIT-VPS]\n \n六、测试\n \n”测试“是指测试请求使用的出口IP，能不能访问某个平台的地区限定服务。它会从当前网络出口向 ChatGPT、Claude、Netflix、Disney+ 等平台发送测试请求，判断这个出口 IP 是否处于平台允许的地区。\n但是这个测试并非绝对精准，这个检测程序是Clash Verge自己弄的，所以可能出现”实际连接上了网站，但是测试失败“的情况，具体是否连接上还是得看”连接“（有没有真正传输数据）和”日志“（看请求如何处理以及哪里出错）界面。\n七、设置\n设置这块内容有点多，分成四块来讲”系统设置“”Clash设置“”Verge基础设置“”Verge高级设置“\n \n1.系统设置\n1）虚拟网卡模式，之前已经加单讲过，这里更深入一些——也叫TUN模式，右边的齿轮打开可以更加细致地设置。\n \nTUN模式堆栈是指Mihomo用什么方式处理TUN收到的TCP和UDP数据：\nSystem：使用 macOS 系统网络能力处理 TCP 和 UDP，资源占用较低。\nGVisor：由 Mihomo 在软件内部处理网络数据，隔离性更强。我当前选择的是它。\nMixed：TCP 使用 System，UDP 使用 GVisor，是两种方式的组合。\n这一块必须讲解TCP和UDP是什么了。。。\nTCP和UDP其实都是运输数据的规则。假如我访问了ChatGPT，那么经过一系列流程【后续会讲】会在浏览器和服务器之间建立一个连接来传输数据，TCP和UDP就是传输这些数据的规则。只不过TCP更优先保证把这些数据完整传输到，不保证速度；UDP优先保证速度，不保证把数据完整传输到。\n一般来说，Mixed效果最好（Codex给我的建议），这个模式能够在兼容性、性能和软件处理能力之间取平衡。\nutun1024是Clash Verge 在macOS中创建的虚拟网卡名称，仅供系统识别使用，没太大作用。\n自动设置全局路由开启后，Mihomo自动修改macOS路由，让设备流量进入TUN虚拟网卡，把流量交给Mihono，后续根据选择是”分流“还是”全局“分流量；如果没打开”自动设置全局路由“且系统代理仍然开启，那么浏览器等遵循macOS系统代理的软件，仍然会通过127.0.0.1:7897把流量交给Mihono，然后按照规则分流，但是不读取系统代理的软件，不会自动进入TUN，仍然会直接访问网络。\n严格路由开启后，Mihono会使用更严格的系统路由规则，限制流量绕过TUN——某些无法按照TUN路由处理的链接不会自动退回原始网络，这有利于接住流量，但会增加兼容性问题（对局域网设备、虚拟机或特殊网络连接受到影响）。一般来说关闭即可。\nDNS劫持这个概念讲解之前，得先讲讲DNS。。。DNS的全称是 Domain Name System（域名系统），它的作用是把网站名称（域名）转换成IP地址。\nDNS劫持就是把电脑发出的DNS查询拦下来，交给Mihomo统一处理，让域名解析和分流规则更一致，减少DNS暴露本地网络位置的风险。\n其中any:53表示拦截进入TUN、发往UDP53端口【端口的概念稍后展开】的普通DNS查询。因为DNS主要使用UDP 53，所以保持any:53。\n最大传输单元，表示虚拟网卡一次最多装多大的网络数据包，1500表示每个数据包最大约1500字节。\n排除自定义网段是制定某一批IP地址不要进入TUN，直接使用本地网络连接。适用于访问路由器、打印机或者NAS（私有云盘）。\n2）系统代理模式\n也是讲讲这个小齿轮中的进阶东西。\n \n127.0.0.1代表我当前这台 Mac；7897是 Mihomo 在本机开放的混合代理端口。\n代理主机是127.0.0.1，表示系统代理只连接当前Mac上的Mihomo，保持不变即可。如果修改，macOS会尝试把代理请求发给那个地址，设置错误就会导致无法上网。\nPAC 是“代理自动配置文件”。它是一段规则脚本，可以让应用在把流量交给 Mihomo之前，先判断某个网址应该使用代理还是直连，但PAC模式和Clash Verge的规则模式不一样——PAC在应用和macOS这一层判断，规则模式在流量进入Mihomo后做判断。正常保持关闭即可。\n系统代理守卫是保护macOS系统代理设置不被其他软件改掉。开启后，Clash Verge 会定期（设置代理守卫间隔）检查系统代理，如果代理被另一个 VPN、代理工具或软件修改了，Clash Verge 会重新写回 127.0.0.1:7897。正常一个代理软件关闭即可。\n始终使用默认绕过表示下方的地址不交给系统代理，直接使用本地网络。\n2.Clash设置\n \n局域网连接开启后，同一个局域网里的手机、平板或其他电脑，可以通过你这台 Mac 使用 Mihomo。例如我这台 Mac 的局域网 IP 192.168.1.2，其他设备可以把代理地址设置为——主机：192.168.1.2，端口：7897。\nDNS覆写开启后，Clash Verge会给当前配置额外加入一套DNS设置，覆盖或补充订阅原来的DNS配置，打开的话其实就是一份yaml文件，包含了是否启用DNS、是否使用Fake IP等等。默认保持覆写关闭即可，就用DMIT-Reality配置自带的DNS。\n \nIPv6是新一代地址格式，这里的开关决定Mihomo是否接受和处理IPv6的流量，如果关闭，则只接受IPV4。\n统一延迟是一种只影响节点测速结果的计算方式。尽量排除掉很多乱七八糟的干扰，Mihomo用统一方式计算延迟。\n日志等级决定Mihomo记录多少运行信息：\nSilent：不记录运行日志。\nError：只记录导致功能无法使用的错误。\nWarning：记录警告和错误。\nInfo：记录普通连接、规则匹配、节点选择、警告和错误。\nDebug：记录大量底层调试信息。\n端口设置为7897，代表Mihomo在我这台Mac上开放的本地混合（混合是指HTTPS和SOCKS5都可以从这个端口进入【这两概念稍后讲】）代理入口。\n外部控制是Mihomo提供的管理接口。Clash Verge可以通过这个接口读取和修改内核状态。\n网页界面是Mihomo的浏览器管理界面，打开后，可以在浏览器里查看连接、规则、节点和日志。\nGeoData是Mihomo用来判断某个域名或IP属于哪一类的数据库。例如规则写着 GeoSite：tencent → DIRECT，Mihomo 就会查 GeoData，判断当前域名是否属于腾讯，再决定直连。\n流量隧道管理是一个特殊的固定转发服务（一般不需要添加）。意思是Mihomo 在本机开放一个指定端口，收到数据后，把它转发到指定服务器和端口，并且可以指定经过哪个代理节点。\n \n3.Clash Verge基础设置\n这一部分就是界面本身的一些操作习惯设置，大家根据喜好来就行。\n4.Verge 高级设置\n备份设置：备份订阅、规则和软件设置，重装或换电脑时有用。\n当前配置：查看 Mihomo 最终实际运行（把订阅、拓展覆写、扩展脚本和全局设置合并后交给Mihomo运行）的完整配置。排查规则、DNS、TUN 和节点问题时很重要。\n到这，其实远远没有结束，甚至可以说，刚开始，因为IP、DNS、流量到底是怎么传输的......我都还没讲。我截了一张图——内容太多了，不知道从何讲起比较好，可能我会特意挑几个今天说的【稍后再讲】的知识点出来单独开一章。然后再用结果导向讲解【批量代理抓公众号】【批量代理抓视频号】【怎么去注册一个Claude账号】可能会好一些🤔\n \n如果你看到了这里，那就给我点个赞吧，因为想要梳理这么一篇文章（零基础的情况下）确实不容易，学了很多个小时。。。\n",
+        "preview_text": "我为什么要写这篇关于网络基础的教学？因为我最近在网络上踩的坑实在太多了。。。",
+        "title": "Clash Verge从0~1零基础教程（界面认识）"
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T14:18:44.000Z",
+      "edit_history_tweet_ids": [
+        "2083195661353394227"
+      ],
+      "id": "2083195661353394227",
+      "public_metrics": {
+        "bookmark_count": 1914,
+        "impression_count": 195596,
+        "like_count": 1305,
+        "quote_count": 5,
+        "reply_count": 44,
+        "retweet_count": 195
+      },
+      "text": "https://t.co/H1C1dId1tA",
+      "url": "https://x.com/gengdaJ/status/2083195661353394227"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T11:55:50.000Z",
+      "edit_history_tweet_ids": [
+        "2083159701437796535"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1589849192511348736",
+            "start": 0,
+            "username": "TowardMu"
+          }
+        ]
+      },
+      "id": "2083159701437796535",
+      "in_reply_to_user_id": "1589849192511348736",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 237,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083157559482139131",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TowardMu 现在是14天Seedance2.0随便造，顶级会员",
+      "url": "https://x.com/gengdaJ/status/2083159701437796535"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2083150709407809536"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T11:21:04.000Z",
+      "edit_history_tweet_ids": [
+        "2083150951385546865"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 213,
+            "start": 190,
+            "url": "https://t.co/ETe0b5KgUB"
+          }
+        ]
+      },
+      "id": "2083150951385546865",
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 15559,
+        "like_count": 26,
+        "quote_count": 5,
+        "reply_count": 90,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083105837795745797",
+          "type": "quoted"
+        }
+      ],
+      "text": "AI视频界唯一真神Seedance2.5正式上线！依旧SOTA，影视大片既视感，全球领先！\n\nSeedance2.5 原生支持一次性生成 30 秒超长视频，以前可能还觉得制作几分钟的AI短剧有些难度，但是现在做一条完整视频只需要生成几个片段就行！\n\n而且红果短剧现在还有出海红利加持，抓住Seedance2.5这波红利就是猛猛干。 https://t.co/mBkhz88emu https://t.co/ETe0b5KgUB",
+      "url": "https://x.com/gengdaJ/status/2083150951385546865"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T10:57:56.000Z",
+      "edit_history_tweet_ids": [
+        "2083145130144604463"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2018538247073546240",
+            "start": 0,
+            "username": "HenryY54001"
+          }
+        ]
+      },
+      "id": "2083145130144604463",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 616,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@HenryY54001 DeepSeek原生不是多模态，现在也不是。。。要接OCR",
+      "url": "https://x.com/gengdaJ/status/2083145130144604463"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T09:05:44.000Z",
+      "edit_history_tweet_ids": [
+        "2083116895373504630"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1988475714501570561",
+            "start": 0,
+            "username": "liyue_ai"
+          }
+        ]
+      },
+      "id": "2083116895373504630",
+      "in_reply_to_user_id": "1988475714501570561",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 339,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083114782715265531",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@liyue_ai 学习",
+      "url": "https://x.com/gengdaJ/status/2083116895373504630"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T09:01:24.000Z",
+      "edit_history_tweet_ids": [
+        "2083115801540960694"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2019253868077428736",
+            "start": 0,
+            "username": "momo1521482"
+          }
+        ]
+      },
+      "id": "2083115801540960694",
+      "in_reply_to_user_id": "2019253868077428736",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 808,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083113716359520746",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@momo1521482 Yeah, Emmerve Translation+ Deepseek V4 Flash is a fantastic combination",
+      "url": "https://x.com/gengdaJ/status/2083115801540960694"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2083083557040472064",
+          "3_2083083943835000832",
+          "3_2083084736902340608",
+          "3_2083085055916937217"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T07:32:03.000Z",
+      "edit_history_tweet_ids": [
+        "2083085066394309021",
+        "2083085275467846070",
+        "2083093315705065923"
+      ],
+      "id": "2083093315705065923",
+      "public_metrics": {
+        "bookmark_count": 51,
+        "impression_count": 16934,
+        "like_count": 78,
+        "quote_count": 1,
+        "reply_count": 31,
+        "retweet_count": 17
+      },
+      "text": "我靠！DeepSeek V4-Flash正式版上线了，Agent能力大幅提升，梁圣再显神威！\n\nDeepSeek V4-Flash支持Response API，百万Tokens输入1元，缓存命中0.02元，输出2元，并发限制2500\n\n采用峰谷定价，这段时间价格翻倍：北京时间每日 9:00～12:00 和 14:00～18:00\n\nDeepSeek https://t.co/Ts4oouN1KB",
+      "url": "https://x.com/gengdaJ/status/2083093315705065923"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2083083557040472064",
+          "3_2083083943835000832",
+          "3_2083084736902340608",
+          "3_2083085055916937217"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T07:00:06.000Z",
+      "edit_history_tweet_ids": [
+        "2083085066394309021",
+        "2083085275467846070",
+        "2083093315705065923"
+      ],
+      "id": "2083085275467846070",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1558,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "我靠！DeepSeek V4-Flash正式版上线了，Agent能力大幅提升，梁圣再显神威！\n\n支持Response API，百万Tokens输入1元，缓存命中0.02元，输出2元，并发限制2500\n\n采用峰谷定价，这段时间价格翻倍：北京时间每日 9:00～12:00 和 14:00～18:00\n\nDeepSeek https://t.co/eDwqzgDDcr",
+      "url": "https://x.com/gengdaJ/status/2083085275467846070"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2083083557040472064",
+          "3_2083083943835000832",
+          "3_2083084736902340608",
+          "3_2083085055916937217"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T06:59:16.000Z",
+      "edit_history_tweet_ids": [
+        "2083085066394309021",
+        "2083085275467846070",
+        "2083093315705065923"
+      ],
+      "id": "2083085066394309021",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 201,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "我靠！DeepSeek V4-Flash正式版上线了，梁圣再显神威！\n\n支持Response API，百万Tokens输入1元，缓存命中0.02元，输出2元，并发限制2500\n\n采用峰谷定价，这段时间价格翻倍：北京时间每日 9:00～12:00 和 14:00～18:00\n\nDeepSeek https://t.co/mNiujEnhyv",
+      "url": "https://x.com/gengdaJ/status/2083085066394309021"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T05:34:50.000Z",
+      "edit_history_tweet_ids": [
+        "2083063818863931838"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2083063818863931838",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1450,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083034355509903361",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 那啥，ULTRA多少钱",
+      "url": "https://x.com/gengdaJ/status/2083063818863931838"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T03:04:29.000Z",
+      "edit_history_tweet_ids": [
+        "2083025982374674755"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1946792877352493059",
+            "start": 0,
+            "username": "Strength04_X"
+          }
+        ]
+      },
+      "id": "2083025982374674755",
+      "in_reply_to_user_id": "1946792877352493059",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 123,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2083024899518677158",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Strength04_X Yeah, It is really good to create authenticity!",
+      "url": "https://x.com/gengdaJ/status/2083025982374674755"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T02:50:06.000Z",
+      "edit_history_tweet_ids": [
+        "2083022364288373158"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1558317849508122629",
+            "start": 0,
+            "username": "CuiMao"
+          }
+        ]
+      },
+      "id": "2083022364288373158",
+      "in_reply_to_user_id": "1558317849508122629",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1908,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082994279413375025",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CuiMao 能力一般，团队协作比Codex方便，主要还是B端场景",
+      "url": "https://x.com/gengdaJ/status/2083022364288373158"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T01:33:23.000Z",
+      "edit_history_tweet_ids": [
+        "2083003056812367954"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1938813785881395200",
+            "start": 0,
+            "username": "JianingXiong"
+          }
+        ]
+      },
+      "id": "2083003056812367954",
+      "in_reply_to_user_id": "1938813785881395200",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 173,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082999131421941922",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JianingXiong 谢谢加宁老师🥰",
+      "url": "https://x.com/gengdaJ/status/2083003056812367954"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2082999180268859392",
+          "3_2082999189097914368"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T01:18:03.000Z",
+      "edit_history_tweet_ids": [
+        "2082999197662679318"
+      ],
+      "id": "2082999197662679318",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 3374,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082972353940840473",
+          "type": "replied_to"
+        }
+      ],
+      "text": "中文提示词和参考图如下👇\n\n场景背景 https://t.co/Cr2xHasjct",
+      "url": "https://x.com/gengdaJ/status/2082999197662679318"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T00:46:29.000Z",
+      "edit_history_tweet_ids": [
+        "2082991251423666488"
+      ],
+      "id": "2082991251423666488",
+      "in_reply_to_user_id": "1960523407969460224",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 187,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082987241480360424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfeng999 是的，AI 电影在美国已经上映了…",
+      "url": "https://x.com/gengdaJ/status/2082991251423666488"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T00:26:12.000Z",
+      "edit_history_tweet_ids": [
+        "2082986147253543383"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2005592197488668672",
+            "start": 0,
+            "username": "zhibudaoba"
+          }
+        ]
+      },
+      "id": "2082986147253543383",
+      "in_reply_to_user_id": "886009320306900992",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 184,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082977739125178372",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@zhibudaoba 是的，手持拍摄是很重要的影视手法",
+      "url": "https://x.com/gengdaJ/status/2082986147253543383"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T00:25:39.000Z",
+      "edit_history_tweet_ids": [
+        "2082986008292040809"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1727593804851445760",
+            "start": 0,
+            "username": "smark0428"
+          }
+        ]
+      },
+      "id": "2082986008292040809",
+      "in_reply_to_user_id": "1727593804851445760",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 109,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082981597754843360",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@smark0428 15s视频大概一二十块钱吧",
+      "url": "https://x.com/gengdaJ/status/2082986008292040809"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-31T00:25:23.000Z",
+      "edit_history_tweet_ids": [
+        "2082985944056271034"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "925713441913847810",
+            "start": 0,
+            "username": "trungbepx"
+          }
+        ]
+      },
+      "id": "2082985944056271034",
+      "in_reply_to_user_id": "925713441913847810",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 96,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082980527414616551",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@trungbepx Cool！",
+      "url": "https://x.com/gengdaJ/status/2082985944056271034"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-30T23:32:56.000Z",
+      "edit_history_tweet_ids": [
+        "2082972744610910261"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "431617343",
+            "start": 0,
+            "username": "berryxia"
+          }
+        ]
+      },
+      "id": "2082972744610910261",
+      "in_reply_to_user_id": "431617343",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 567,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082971730570871144",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@berryxia 哈哈神佬，其实我也只是Agent学会了～",
+      "url": "https://x.com/gengdaJ/status/2082972744610910261"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-07-30T23:31:24.000Z",
+      "edit_history_tweet_ids": [
+        "2082972356721647902"
+      ],
+      "id": "2082972356721647902",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1622,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2082972353940840473",
+          "type": "replied_to"
+        }
+      ],
+      "text": "SCENE CONTEXT\nOn a crowded beach under an overcast grey sky, a massive alien spacecraft hovers silently within the clouds. A large black crystal drops from the ship and crashes onto the beach near the shoreline. A first-person POV male beachgoer runs toward the impact site with",
+      "url": "https://x.com/gengdaJ/status/2082972356721647902"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2083105837795745797].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083105837795745797",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2083105837795745797"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2083192155003400192",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8Ok3bsAA9nzC.jpg",
+        "width": 3000
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2083192753652178944",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8xbAbIAACQi8.jpg",
+        "width": 1712
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2083193061254082560",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9DU6bsAAw9dm.jpg",
+        "width": 1712
+      },
+      {
+        "height": 846,
+        "media_key": "3_2083193317924450304",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9SRFasAAqL4j.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2083192600102858752",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8oe_acAAfQYQ.jpg",
+        "width": 1712
+      },
+      {
+        "height": 1716,
+        "media_key": "3_2083194513863094272",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj-X4TaMAA7dKa.jpg",
+        "width": 1730
+      },
+      {
+        "height": 1184,
+        "media_key": "3_2083192446033514496",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8fhCa0AAAhOR.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2083193010976911360",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9AZna8AAYyMG.jpg",
+        "width": 1712
+      },
+      {
+        "height": 450,
+        "media_key": "3_2083193215218503680",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9MSeaUAAL1dq.jpg",
+        "width": 1264
+      },
+      {
+        "height": 856,
+        "media_key": "3_2083193369065656320",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9VPmbkAA6U5P.jpg",
+        "width": 1234
+      },
+      {
+        "height": 674,
+        "media_key": "3_2083193420387057664",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9YOyaAAAcPlI.jpg",
+        "width": 1282
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2083192651449552896",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8reRa0AAorG5.jpg",
+        "width": 1712
+      },
+      {
+        "height": 630,
+        "media_key": "3_2083192548672294912",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8lfZaUAAWdv_.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1174,
+        "media_key": "3_2083192497384419328",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8igVbcAAlKNV.jpg",
+        "width": 1002
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2083192958963372032",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj89X2bUAA_XZi.jpg",
+        "width": 1712
+      },
+      {
+        "height": 706,
+        "media_key": "3_2083192856685289472",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj83a1boAAxyfO.jpg",
+        "width": 1332
+      },
+      {
+        "height": 412,
+        "media_key": "3_2083193266644934656",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9PSDbYAACz5V.jpg",
+        "width": 1248
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2083193112521035777",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9GT5bUAEZZS_.jpg",
+        "width": 1712
+      },
+      {
+        "height": 1378,
+        "media_key": "3_2083192907591536640",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj86YebUAA-ksa.jpg",
+        "width": 1712
+      },
+      {
+        "height": 1182,
+        "media_key": "3_2083192343495389184",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8ZjDbMAARvRq.jpg",
+        "width": 1204
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083193472593678336",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9bRRb0AAgwq1.jpg",
+        "width": 1121
+      },
+      {
+        "height": 1140,
+        "media_key": "3_2083192394758172673",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8ciBbMAEVw4g.jpg",
+        "width": 1258
+      },
+      {
+        "height": 590,
+        "media_key": "3_2083193163846701056",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj9JTGa0AAcVBj.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1180,
+        "media_key": "3_2083192292169711616",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8Wj2bgAAaHJj.jpg",
+        "width": 996
+      },
+      {
+        "height": 914,
+        "media_key": "3_2083192806353612800",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj80fVbMAAjdWX.jpg",
+        "width": 1488
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2083192702292963328",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj8ubrbsAAQseh.jpg",
+        "width": 1712
+      },
+      {
+        "duration_ms": 30030,
+        "height": 720,
+        "media_key": "13_2083150709407809536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083150709407809536/img/HfzrPpt7JEUlmv8F.jpg",
+        "type": "video",
+        "width": 1280
+      },
+      {
+        "height": 1762,
+        "media_key": "3_2083083557040472064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiZdV7awAAqSRu.jpg",
+        "width": 2332
+      },
+      {
+        "height": 2018,
+        "media_key": "3_2083083943835000832",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiZz22a4AAZikz.jpg",
+        "width": 1750
+      },
+      {
+        "height": 1692,
+        "media_key": "3_2083084736902340608",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiaiBQaIAA-w4Q.jpg",
+        "width": 1934
+      },
+      {
+        "height": 825,
+        "media_key": "3_2083085055916937217",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOia0lrakAEvzad.png",
+        "width": 853
+      },
+      {
+        "height": 723,
+        "media_key": "3_2082999180268859392",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhMt99a8AAledC.jpg",
+        "width": 1280
+      },
+      {
+        "height": 695,
+        "media_key": "3_2082999189097914368",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhMue2boAApFeX.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T23:11:35.000Z",
+        "edit_history_tweet_ids": [
+          "2083329758381965326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1570599115",
+              "start": 3,
+              "username": "alexmashrabov"
+            }
+          ]
+        },
+        "id": "2083329758381965326",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083305953374634403",
+            "type": "retweeted"
+          }
+        ],
+        "text": "RT @alexmashrabov: This is one of my favorite Higgsfield case studies.\n\nVertex CGI built an NBA Finals campaign for ESPN on Higgsfield, hit…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2083305730057400320"
+          ]
+        },
+        "author_id": "1570599115",
+        "created_at": "2026-07-31T21:36:59.000Z",
+        "edit_history_tweet_ids": [
+          "2083305870121959493",
+          "2083305953374634403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 322,
+              "start": 299,
+              "url": "https://t.co/6ytTcIFUHq"
+            }
+          ]
+        },
+        "id": "2083305953374634403",
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 153383,
+          "like_count": 244,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083305426796663040",
+            "type": "quoted"
+          }
+        ],
+        "text": "This is one of my favorite Higgsfield case studies.\n\nVertex CGI built an NBA Finals campaign for ESPN on Higgsfield, hitting 23M+ views in 48 hours.\n\nTo prep for two possible champions, they:\n• Scaled production 5x\n• Built 2 campaigns in 5 days\n• Published the second NY won https://t.co/ddLTVcCrfK https://t.co/6ytTcIFUHq"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T15:24:42.000Z",
+        "edit_history_tweet_ids": [
+          "2083212263482405290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "790804453796352000",
+              "start": 0,
+              "username": "CalvinNotes"
+            }
+          ]
+        },
+        "id": "2083212263482405290",
+        "in_reply_to_user_id": "790804453796352000",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083206991376433281",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@CalvinNotes 好的，感谢！"
+      },
+      {
+        "author_id": "790804453796352000",
+        "created_at": "2026-07-31T15:03:45.000Z",
+        "edit_history_tweet_ids": [
+          "2083206991376433281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2083206991376433281",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083196582519042545",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 推荐一个youtube 博主：不良人   你可能会用到"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T14:32:04.000Z",
+        "edit_history_tweet_ids": [
+          "2083199018755334550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792608085409939456",
+              "start": 0,
+              "username": "Astronaut_1216"
+            }
+          ]
+        },
+        "id": "2083199018755334550",
+        "in_reply_to_user_id": "1792608085409939456",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4810,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083198436988359043",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Astronaut_1216 杭哥，什么佬，你夸张了。。。永远是学生🫡"
+      },
+      {
+        "author_id": "1792608085409939456",
+        "created_at": "2026-07-31T14:29:45.000Z",
+        "edit_history_tweet_ids": [
+          "2083198436988359043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2083198436988359043",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5127,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083195661353394227",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 逸尘佬，是真的······牛逼"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T14:31:27.000Z",
+        "edit_history_tweet_ids": [
+          "2083198864795029631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "500485482",
+              "start": 0,
+              "username": "xiaofeng01"
+            }
+          ]
+        },
+        "id": "2083198864795029631",
+        "in_reply_to_user_id": "500485482",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3203,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083197389943505017",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@xiaofeng01 要慢慢学，慢慢啃，都是水到渠成的，多借助AI来理解"
+      },
+      {
+        "author_id": "500485482",
+        "created_at": "2026-07-31T14:25:36.000Z",
+        "edit_history_tweet_ids": [
+          "2083197389943505017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2083197389943505017",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3423,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083195661353394227",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 虽然天天在用clash，但是像看天书啊，完全看不懂。。"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T14:22:23.000Z",
+        "edit_history_tweet_ids": [
+          "2083196582519042545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 174,
+              "start": 151,
+              "url": "https://t.co/enmlP8jXy2"
+            }
+          ]
+        },
+        "id": "2083196582519042545",
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 34685,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 71,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083195661353394227",
+            "type": "quoted"
+          }
+        ],
+        "text": "因为我最近在网络上踩的坑实在太多了。。。所以我选择从零开始学网络基础知识😅\n\n诚然，Codex或者别的Agent每次都能帮我把这些问题解决，但是这种感受很不好——批量下载公众号和视频号直播回放都需要临时切换代理；Grok、Gemini和DMIT经常抽风，然后就不打开了，Codex改半天才能正常使用。 https://t.co/enmlP8jXy2"
+      },
+      {
+        "article": {
+          "cover_media": "3_2083192155003400192",
+          "entities": {
+            "code": [
+              {
+                "code": "",
+                "content": "| 内容              | 含义                                    |\n| --------------- | ------------------------------------- |\n| 07-30 20:40:53  | 这条连接发生的时间                             |\n| INFO            | 普通运行信息                                |\n| TCP             | 这条连接使用 TCP 传输【关于TCP后续会展开讲解】           |\n| 127.0.0.1:65147 | 连接来自你电脑本机的一个临时端口【IP+端口，会在后续展开讲解】      |\n| chatgpt.com:443 | 要访问 ChatGPT 的 HTTPS 服务【HTTPS会在后续展开讲解】 |\n| match Match     | 命中了名为 MATCH 的兜底规则                     |\n| PROXY           | 规则把连接交给 PROXY 代理组                     |\n| DMIT-VPS        | PROXY 最终选择了 DMIT-VPS 节点               |\n当网络遇到故障时，比如网站打不开、节点连接超时，都可以让Codex优先检查”日志“界面，来定位问题。",
+                "language": "none"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://www.dmit.io/aff.php?aff=18784"
+              },
+              {
+                "text": "https://bandwagonhost.com/aff.php?aff=84928"
+              },
+              {
+                "text": "chatgpt.com:443"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f914.svg"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2083192753652178944",
+            "3_2083193061254082560",
+            "3_2083193317924450304",
+            "3_2083192600102858752",
+            "3_2083194513863094272",
+            "3_2083192446033514496",
+            "3_2083193010976911360",
+            "3_2083193215218503680",
+            "3_2083193369065656320",
+            "3_2083193420387057664",
+            "3_2083192651449552896",
+            "3_2083192548672294912",
+            "3_2083192497384419328",
+            "3_2083192958963372032",
+            "3_2083192856685289472",
+            "3_2083193266644934656",
+            "3_2083193112521035777",
+            "3_2083192907591536640",
+            "3_2083192343495389184",
+            "3_2083193472593678336",
+            "3_2083192394758172673",
+            "3_2083193163846701056",
+            "3_2083192292169711616",
+            "3_2083192806353612800",
+            "3_2083192702292963328"
+          ],
+          "plain_text": "我为什么要写这篇关于网络基础的教学？因为我最近在网络上踩的坑实在太多了。。。\n诚然，Codex或者别的Agent每次都能帮我把这些问题解决，但是这种感受很不好——批量下载公众号和视频号直播回放都需要临时切换代理；Grok、Gemini和DMIT经常抽风，然后就不打开了，Codex改半天才能正常使用。\n当然，Claude封号是Codex也解决不了的问题，得人来慢慢研究。\n综上，我选择了从零学习网络基础知识，把Clash Verge作为桌面网络代理客户端工具，从第一性原理出发解决这些问题。本篇教程仅分享我自己的学习经验，不构成任何专业知识讲解，如果有专业错误，敬请扶正！\n一、首页\n \n咱们从上到下来梳理Clash Verge打开的第一个界面”首页“包含的内容。包含了”订阅的节点“、”当前节点“、”网络设置“、”代理模式“、”流量统计“、”网站测试“、”IP 信息“、”Clash 信息“、”系统信息“。\n1）订阅的节点\n我这边是用DMIT（一家VPS供应商）自建的节点，采用Reality（保护本机到 VPS ）连接，所以我给它明明为了DMIT-Reality。\nDMIT购买地址（经常断货）：https://www.dmit.io/aff.php?aff=18784\n搬瓦工购买地址（略贵）:https://bandwagonhost.com/aff.php?aff=84928\n2）当前节点\n \n我只买一个VPS，也只建了一个节点，所以没得选，只能选DMIT-VPS（其实这个不是坏事，至少IP不会乱飘）。然后代理组因为只有一个节点，也就只能选Proxy。\n【我目前VPS用的是TCP传输，但是因为具备UDP传输能力，所以显示为UDP。TCP、Vless、UDP、XUDP稍后展开讲，直接讲难度过大】\n然后节点那块可以选DMIT-VPS和DIRECT，但是肯定选DMIT-VPS，要不然就是直连了，还怎么上网。。。\n3）网络配置\n \n这一块可能是大家最容易搞混的地方了——我估计大部分人对这块代理和TUN模式就是似懂非懂，乱按一通，能用就行的状态。\n其实搞清楚两个点这块就梳理清除了：“网络设置”决定流量怎么进入 Clash Verge；“代理模式”决定流量进入 Clash Verge 后往哪里走。\n“网络设置”有“系统代理”和“虚拟网卡”（TUN模式）两个模式。分开来讲：\n“系统代理”开启后，Clash Verge 会告诉 macOS：浏览器和其他支持系统代理的软件，联网时先把请求交给 Clash Verge。（但系统代理不是强制接管，有些游戏、命令行工具或者特殊软件不读取系统代理，因此可能绕过 Clash Verge，直接联网）\n“虚拟网卡”模式，也就是 TUN 模式，它会在电脑里创建一张虚拟网卡，让更多网络数据先进入 Clash，包括一些不遵守系统代理的软件。\n因此，两者比较，TUN 接管流量范围更广，但也更容易与其他 VPN、游戏加速器、公司网络、DNS 或局域网发生冲突。【为什么会冲突，之后再讲，此处只需要知道TUN模式虽然接管流量更广，但是特定用途下有弊端即可】\n4）代理模式\n流量进入 Clash 后，才轮到“规则”“全局”和“直连”决定它怎么走。\n规则模式下，Clash 会根据访问网站、IP、应用等规则分别处理：\n百度、国内网站\n→ DIRECT\n→ 使用本地网络直接访问\nGoogle、YouTube 等网站\n→ PROXY\n→ 通过 DMIT-VPS 访问\n广告或危险地址\n→ REJECT\n→ 直接拒绝连接\n全局模式下，已经进入 Clash 的流量，基本都交给代理节点：\n应用\n→ Clash\n→ DMIT-VPS\n→ 目标网站\n如果有时候遇到“规则”打不开某个网站，可以切换到“全局”，但是“全局”不适合无脑开，因为国内网站也会绕到美国服务器，可能变慢。\n注意：全局模式只处理“已经进入 Clash 的流量”，如果某个游戏的流量根本没有被系统代理或 TUN 接住，它仍然可能直连。。。\n直连模式就比较好理解了，就是已经进入 Clash 的流量，全部使用本地网络，不经过 DMIT。\n应用\n→ Clash\n→ 本地网络\n→ 目标网站\n直连模式不等于退出 Clash，也不等于关闭系统代理。流量仍然是先进入 Clash，只是 Clash 最后选择不使用远程节点，直连目标网站。\n5）流量统计\n \n这一块是 Clash Verge 的“流量统计”，用来观察 Mihomo 当前处理了多少网络流量，先来解释一下Mihomo是啥：\n代理软件内部真正处理网络连接的程序叫代理核心——它读取节点和规则，接收流量，连接远程服务器，再把返回的数据交还给应用。Mihomo 就是Clash Verge 官方版本内置的代理核心，因此点击 Clash Verge 里的系统代理、TUN、全局模式或规则模式，界面会把你的流量交由 Mihomo处理。\n上传速度：1.57 KB/s，表示 Mihomo 当前每秒处理约 1.57 KB 的上传数据（向网站发送请求，上传信息等）；\n下载速度：7.79 KB/s，表示 Mihomo 当前每秒下载约 7.79 KB 的数据\n活跃连接：66，表示 Mihomo 当时正在维护 66 条逻辑连接（网页后台请求、微信通信等等）\n上传量：139 MB，表示 Mihomo 本次运行期间累计处理了 139 MB 上传流量。\n下载量：1.18 GB，表示本次运行期间，Mihomo 累计处理了 `1.18 GB` 下载流量（包含了直连和代理流量）。\n内核占用：36.6 MB，表示 Mihomo 当前大约占用了 `36.6 MB` 内存。\n6）网站测试\n \n这是 Clash Verge 的网站测试功能，这个指的不是下载速度，而是测试从你的电脑开始建立网络连接，到指定网站完成 TLS 握手（正式传输网页内容前的准备过程：电脑确认网站身份，并与网站协商加密方式）一共花了多长时间。\n这四个网站都已经成功完成 TLS 握手，所以从网络连接层面看，它们都是可以连接的。数字越小，代表建立连接时的等待越短。\n7）IP信息【可以把IP理解为你在网络世界里的通信地址，稍后会详细展开】\n \nUnited States：我的出口 IP 被识别为美国。\n 服务商 DMIT：这个 IP 来自我购买的 DMIT VPS。\n 位置 Los Angeles：数据库将 IP 定位在美国洛杉矶。\n AS906：DMIT 所属网络的编号，用于标识 IP 属于哪个网络运营组织【关于网络运营组织会在后续展开】。\n 时区 America/Los_Angeles：该 IP 所在地区对应的洛杉矶时区。\n IP 后面的眼睛：点击可以显示或隐藏完整 IP。\n 77s：77 秒后自动重新检测。\n 右上角按钮：立即刷新。\n8）Clash 信息\n \n内核版本 v1.19.29 Mihomo：Mihomo 是真正负责接管、分流和转发网络请求的核心程序。\n 系统代理地址 127.0.0.1:7897：应用程序把流量交给本机 7897 端口的 Mihomo。\n 混合代理端口 7897：这个端口同时接收 HTTP 和 SOCKS5 代理请求。【HTTP和SOCKS5也会在后续展开讲解】\n 运行时间 3:56:25：Mihomo 已连续运行约 3 小时 56 分钟。\n 规则数量 14：当前配置中有 14 条分流规则，用于决定哪些请求直连（DIRECT）、走代理（PROXY）或被拦截（REJECT）。\n9）系统信息\n 操作系统信息：我的 Mac 正在运行 macOS Tahoe 26.5.1。\n 开机自启未启用：重启 Mac 后，Clash Verge 不会自动打开。\n 服务模式：Clash 通过系统后台服务运行，方便使用 TUN 等需要系统权限（相当于有一个后台小助手，不用每次输入MAC开机密码）的功能。\n 最后检查更新：最近一次检查软件更新的时间。\n Verge 版本 v2.5.2：我安装的是 Clash Verge Rev 2.5.2。\n 右上角齿轮：进入最左侧导航栏的“设置”界面。\n二、代理\n \n规则界面：PROXY 是一个代理组，可以理解成“给流量设定的规则需要走代理时，应该使用哪个出口”。Selector的意思是这个代理组需要手动选择， DMIT-VPS 表示当前我选择的是 DMIT-VPS。\n我目前有两个选项：\nDMIT-VPS：通过我的美国 DMIT VPS 访问网站。\nDIRECT：不通过 VPS，直接使用本地网络访问。\n全局界面：选中DMIT-VPS即可，这个是我的实际节点。PROXY是代理组，如果选择，就代表我要从里面挑一个出口，但其实里面也只有DMIT—VPS和DIRECT，所以不用切换。\n \n \n链式代理：\n普通代理只经过一个远程节点：你我的 Mac → DMIT-VPS → 目标网站，而链式代理会依次经过两个或更多远程节点：我的 Mac → 节点 A → 节点 B → 目标网站\nClash Verge 把第一个节点称为入口节点，把最后一个节点称为出口节点。例如：我的 Mac → 日本节点 → 美国 DMIT-VPS → Claude，Claude 看到的就是美国 DMIT-VPS 的 IP。\n链式代理一般用于改善前半段线路。比如我的Mac直连美国DMIT很不稳定，但连接某个日本节点很稳定，就可以让日本节点作为入口，再连接美国 DMIT。但是链式代理也会导致延迟增加、任一节点故障代理链即断开的问题，一般不建议使用。。。\n三、订阅\n \n先讲讲“配置”“节点”和“订阅”的关系，我之前老是把这三个东西混在一起。。。\n配置方案（图中的DMIT——Reality）指的是一整套网络设置，包含了节点、代理组（RPOXY）、分流规则和DNS设置【DNS稍后讲】。\n节点指的是实际连接的远程代理服务器，例如我的DMIT—VPS。\n而订阅链接则是指用于从网上下载和更新配置方案的网址。\n上图中最上方有一个“订阅文件链接”+“导入”：这里用来导入在线订阅链接的（很多VPN就是提供的这个），服务商提供订阅链接 → 粘贴到输入框 → 点击导入 → Clash Verge下载配置 → 页面出现新的配置卡片。\n \n右上角第三个是“查看运行时订阅”按钮，打开就可以看到完整的配置文件（只读），类似这样：\n全局扩展覆写配置（Merge），每次我切换 DMIT-Reality 或者其他节点的时候，Clash Verge 都会把 Merge 里的固定设置加入当前配置。我的这块配置只有一个设置：记住我在代理组中选择的节点——这样我下次重启Mihomo，它就自动选择DMIT-VPS，而不是默认选项。\n全局扩展脚本（Script），是一段可以自动处理配置的程序。它能根据条件增加、删除或修改节点和规则，适合比较复杂的需求。我目前还没用到。。。\n \n右键点击具体的节点，出现——\n编辑信息就是修改配置卡片的名称、描述等基本信息，不会修改VPS节点本身的参数。\n编辑文件：直接编辑这套配置的完整YAML文件（其中包含完整的节点、代理组、规则、DNS等内容）。但要小心编辑，错了你的网络可能就用不了了。。。\n \n编辑文件这块有个值得注意的，Rules的最后一行有个MATCH，这个就是代理的兜底规则，如果前面的规则全部都没有匹配时，就把连接交给PROXY代理组（当然你也可以设置为其他）。\n编辑规则：调整流量应该走直连、DMIT-VPS，还是被拦截。也就是配置分流规则。\n编辑节点：添加、修改或者移除远程代理节点。这个也别轻易搞，容易出事。。。\n编辑代理组：管理PROXY这类“代理选择组”，决定组里包含哪些节点，以及采用手动选择、自动测速等方式。\n拓展覆写配置：给 DMIT-Reality 单独追加一份 YAML 设置，用来覆盖或补充原配置，但不直接改原始文件。（这一块也可以直接在编辑文件里面编辑）\n扩展脚本：用 JavaScript 自动加工这套配置，可根据条件批量修改节点、规则或代理组。\n四、连接\n \n可以把“连接”理解成 Mihomo 当前管理的网络连接清单。它展示了电脑正在连接哪些服务器、传输了多少数据，以及最终走了哪个节点。\n点击任意一行，会显示更详细的信息，包括：\n是哪个进程发起的；\n命中了哪条规则；\n电脑上的源地址和端口；\n目标 IP 和目标端口；\n使用 TCP 还是 UDP；\n连接建立了多久；\n最终经过什么链路。\n还可以只关闭这一条连接，不影响其他连接。\n五、规则\n \n“规则”页面，可以理解成 Mihomo 的分流规则清单——它决定一条进入 Mihomo 的连接，是走 DMIT-VPS、直接连接，还是拒绝连接。（但要注意，这些规则只有在“规则“模式下才负责分流，”全局“模式不会被影响！）\n这一块我自己是把微信大多数网站访问设置成了DIRECT（直连），因为确实害怕微信封我号。。。当然，你可以像我一样，把你觉得需要直连的网站在这个全部设置一下，包括淘宝、天猫、飞书这些网站。\n也不用你自己设置，让Codex帮你编辑一下节点的配置文件即可，把网址告诉它哈哈哈。\n六、日志\n \n“日志”页面记录的是 Mihomo 每次处理网络连接时做出的判断——什么时间、连接了哪里、命中了什么规则、最终走哪个出口。\n拆解一条规则：07-30 20:40:53 INFO [TCP] 127.0.0.1:65147 → chatgpt.com:443 match Match using PROXY[DMIT-VPS]\n \n六、测试\n \n”测试“是指测试请求使用的出口IP，能不能访问某个平台的地区限定服务。它会从当前网络出口向 ChatGPT、Claude、Netflix、Disney+ 等平台发送测试请求，判断这个出口 IP 是否处于平台允许的地区。\n但是这个测试并非绝对精准，这个检测程序是Clash Verge自己弄的，所以可能出现”实际连接上了网站，但是测试失败“的情况，具体是否连接上还是得看”连接“（有没有真正传输数据）和”日志“（看请求如何处理以及哪里出错）界面。\n七、设置\n设置这块内容有点多，分成四块来讲”系统设置“”Clash设置“”Verge基础设置“”Verge高级设置“\n \n1.系统设置\n1）虚拟网卡模式，之前已经加单讲过，这里更深入一些——也叫TUN模式，右边的齿轮打开可以更加细致地设置。\n \nTUN模式堆栈是指Mihomo用什么方式处理TUN收到的TCP和UDP数据：\nSystem：使用 macOS 系统网络能力处理 TCP 和 UDP，资源占用较低。\nGVisor：由 Mihomo 在软件内部处理网络数据，隔离性更强。我当前选择的是它。\nMixed：TCP 使用 System，UDP 使用 GVisor，是两种方式的组合。\n这一块必须讲解TCP和UDP是什么了。。。\nTCP和UDP其实都是运输数据的规则。假如我访问了ChatGPT，那么经过一系列流程【后续会讲】会在浏览器和服务器之间建立一个连接来传输数据，TCP和UDP就是传输这些数据的规则。只不过TCP更优先保证把这些数据完整传输到，不保证速度；UDP优先保证速度，不保证把数据完整传输到。\n一般来说，Mixed效果最好（Codex给我的建议），这个模式能够在兼容性、性能和软件处理能力之间取平衡。\nutun1024是Clash Verge 在macOS中创建的虚拟网卡名称，仅供系统识别使用，没太大作用。\n自动设置全局路由开启后，Mihomo自动修改macOS路由，让设备流量进入TUN虚拟网卡，把流量交给Mihono，后续根据选择是”分流“还是”全局“分流量；如果没打开”自动设置全局路由“且系统代理仍然开启，那么浏览器等遵循macOS系统代理的软件，仍然会通过127.0.0.1:7897把流量交给Mihono，然后按照规则分流，但是不读取系统代理的软件，不会自动进入TUN，仍然会直接访问网络。\n严格路由开启后，Mihono会使用更严格的系统路由规则，限制流量绕过TUN——某些无法按照TUN路由处理的链接不会自动退回原始网络，这有利于接住流量，但会增加兼容性问题（对局域网设备、虚拟机或特殊网络连接受到影响）。一般来说关闭即可。\nDNS劫持这个概念讲解之前，得先讲讲DNS。。。DNS的全称是 Domain Name System（域名系统），它的作用是把网站名称（域名）转换成IP地址。\nDNS劫持就是把电脑发出的DNS查询拦下来，交给Mihomo统一处理，让域名解析和分流规则更一致，减少DNS暴露本地网络位置的风险。\n其中any:53表示拦截进入TUN、发往UDP53端口【端口的概念稍后展开】的普通DNS查询。因为DNS主要使用UDP 53，所以保持any:53。\n最大传输单元，表示虚拟网卡一次最多装多大的网络数据包，1500表示每个数据包最大约1500字节。\n排除自定义网段是制定某一批IP地址不要进入TUN，直接使用本地网络连接。适用于访问路由器、打印机或者NAS（私有云盘）。\n2）系统代理模式\n也是讲讲这个小齿轮中的进阶东西。\n \n127.0.0.1代表我当前这台 Mac；7897是 Mihomo 在本机开放的混合代理端口。\n代理主机是127.0.0.1，表示系统代理只连接当前Mac上的Mihomo，保持不变即可。如果修改，macOS会尝试把代理请求发给那个地址，设置错误就会导致无法上网。\nPAC 是“代理自动配置文件”。它是一段规则脚本，可以让应用在把流量交给 Mihomo之前，先判断某个网址应该使用代理还是直连，但PAC模式和Clash Verge的规则模式不一样——PAC在应用和macOS这一层判断，规则模式在流量进入Mihomo后做判断。正常保持关闭即可。\n系统代理守卫是保护macOS系统代理设置不被其他软件改掉。开启后，Clash Verge 会定期（设置代理守卫间隔）检查系统代理，如果代理被另一个 VPN、代理工具或软件修改了，Clash Verge 会重新写回 127.0.0.1:7897。正常一个代理软件关闭即可。\n始终使用默认绕过表示下方的地址不交给系统代理，直接使用本地网络。\n2.Clash设置\n \n局域网连接开启后，同一个局域网里的手机、平板或其他电脑，可以通过你这台 Mac 使用 Mihomo。例如我这台 Mac 的局域网 IP 192.168.1.2，其他设备可以把代理地址设置为——主机：192.168.1.2，端口：7897。\nDNS覆写开启后，Clash Verge会给当前配置额外加入一套DNS设置，覆盖或补充订阅原来的DNS配置，打开的话其实就是一份yaml文件，包含了是否启用DNS、是否使用Fake IP等等。默认保持覆写关闭即可，就用DMIT-Reality配置自带的DNS。\n \nIPv6是新一代地址格式，这里的开关决定Mihomo是否接受和处理IPv6的流量，如果关闭，则只接受IPV4。\n统一延迟是一种只影响节点测速结果的计算方式。尽量排除掉很多乱七八糟的干扰，Mihomo用统一方式计算延迟。\n日志等级决定Mihomo记录多少运行信息：\nSilent：不记录运行日志。\nError：只记录导致功能无法使用的错误。\nWarning：记录警告和错误。\nInfo：记录普通连接、规则匹配、节点选择、警告和错误。\nDebug：记录大量底层调试信息。\n端口设置为7897，代表Mihomo在我这台Mac上开放的本地混合（混合是指HTTPS和SOCKS5都可以从这个端口进入【这两概念稍后讲】）代理入口。\n外部控制是Mihomo提供的管理接口。Clash Verge可以通过这个接口读取和修改内核状态。\n网页界面是Mihomo的浏览器管理界面，打开后，可以在浏览器里查看连接、规则、节点和日志。\nGeoData是Mihomo用来判断某个域名或IP属于哪一类的数据库。例如规则写着 GeoSite：tencent → DIRECT，Mihomo 就会查 GeoData，判断当前域名是否属于腾讯，再决定直连。\n流量隧道管理是一个特殊的固定转发服务（一般不需要添加）。意思是Mihomo 在本机开放一个指定端口，收到数据后，把它转发到指定服务器和端口，并且可以指定经过哪个代理节点。\n \n3.Clash Verge基础设置\n这一部分就是界面本身的一些操作习惯设置，大家根据喜好来就行。\n4.Verge 高级设置\n备份设置：备份订阅、规则和软件设置，重装或换电脑时有用。\n当前配置：查看 Mihomo 最终实际运行（把订阅、拓展覆写、扩展脚本和全局设置合并后交给Mihomo运行）的完整配置。排查规则、DNS、TUN 和节点问题时很重要。\n到这，其实远远没有结束，甚至可以说，刚开始，因为IP、DNS、流量到底是怎么传输的......我都还没讲。我截了一张图——内容太多了，不知道从何讲起比较好，可能我会特意挑几个今天说的【稍后再讲】的知识点出来单独开一章。然后再用结果导向讲解【批量代理抓公众号】【批量代理抓视频号】【怎么去注册一个Claude账号】可能会好一些🤔\n \n如果你看到了这里，那就给我点个赞吧，因为想要梳理这么一篇文章（零基础的情况下）确实不容易，学了很多个小时。。。\n",
+          "preview_text": "我为什么要写这篇关于网络基础的教学？因为我最近在网络上踩的坑实在太多了。。。",
+          "title": "Clash Verge从0~1零基础教程（界面认识）"
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T14:18:44.000Z",
+        "edit_history_tweet_ids": [
+          "2083195661353394227"
+        ],
+        "id": "2083195661353394227",
+        "public_metrics": {
+          "bookmark_count": 1914,
+          "impression_count": 195596,
+          "like_count": 1305,
+          "quote_count": 5,
+          "reply_count": 44,
+          "retweet_count": 195
+        },
+        "text": "https://t.co/H1C1dId1tA"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T11:55:50.000Z",
+        "edit_history_tweet_ids": [
+          "2083159701437796535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589849192511348736",
+              "start": 0,
+              "username": "TowardMu"
+            }
+          ]
+        },
+        "id": "2083159701437796535",
+        "in_reply_to_user_id": "1589849192511348736",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083157559482139131",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@TowardMu 现在是14天Seedance2.0随便造，顶级会员"
+      },
+      {
+        "author_id": "1589849192511348736",
+        "created_at": "2026-07-31T11:47:20.000Z",
+        "edit_history_tweet_ids": [
+          "2083157559482139131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2083157559482139131",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ Seedance2.5 效果太好了。Higgsfield上线后希望有福利可以撸一波"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2083150709407809536"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T11:21:04.000Z",
+        "edit_history_tweet_ids": [
+          "2083150951385546865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 213,
+              "start": 190,
+              "url": "https://t.co/ETe0b5KgUB"
+            }
+          ]
+        },
+        "id": "2083150951385546865",
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 15559,
+          "like_count": 26,
+          "quote_count": 5,
+          "reply_count": 90,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083105837795745797",
+            "type": "quoted"
+          }
+        ],
+        "text": "AI视频界唯一真神Seedance2.5正式上线！依旧SOTA，影视大片既视感，全球领先！\n\nSeedance2.5 原生支持一次性生成 30 秒超长视频，以前可能还觉得制作几分钟的AI短剧有些难度，但是现在做一条完整视频只需要生成几个片段就行！\n\n而且红果短剧现在还有出海红利加持，抓住Seedance2.5这波红利就是猛猛干。 https://t.co/mBkhz88emu https://t.co/ETe0b5KgUB"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T10:57:56.000Z",
+        "edit_history_tweet_ids": [
+          "2083145130144604463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018538247073546240",
+              "start": 0,
+              "username": "HenryY54001"
+            }
+          ]
+        },
+        "id": "2083145130144604463",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 616,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@HenryY54001 DeepSeek原生不是多模态，现在也不是。。。要接OCR"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T09:05:44.000Z",
+        "edit_history_tweet_ids": [
+          "2083116895373504630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988475714501570561",
+              "start": 0,
+              "username": "liyue_ai"
+            }
+          ]
+        },
+        "id": "2083116895373504630",
+        "in_reply_to_user_id": "1988475714501570561",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083114782715265531",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@liyue_ai 学习"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2083114456251576320",
+            "3_2083114456251510784"
+          ]
+        },
+        "author_id": "1988475714501570561",
+        "created_at": "2026-07-31T08:57:21.000Z",
+        "edit_history_tweet_ids": [
+          "2083114782715265531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 193,
+              "start": 170,
+              "url": "https://t.co/SLmt8TOnJY"
+            }
+          ]
+        },
+        "id": "2083114782715265531",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 9986,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082674249790324777",
+            "type": "quoted"
+          }
+        ],
+        "text": "「现代东方剪纸艺术」×「女性成长梦境海报」第二弹🥳\n\n这张 GPT Image 2 生成的图片，最打动人的地方，就是“梦从花朵内部生长”这个设定。\n\n- 她不是站在花前，而是从花芯里醒来，像把春天从自己心里慢慢打开。\n- 杏粉、奶油白、香槟金这组颜色也很妙，温柔，但不腻；通透，却不空。\n- https://t.co/885MUFTadf https://t.co/SLmt8TOnJY"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T09:01:24.000Z",
+        "edit_history_tweet_ids": [
+          "2083115801540960694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2019253868077428736",
+              "start": 0,
+              "username": "momo1521482"
+            }
+          ]
+        },
+        "id": "2083115801540960694",
+        "in_reply_to_user_id": "2019253868077428736",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 808,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083113716359520746",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@momo1521482 Yeah, Emmerve Translation+ Deepseek V4 Flash is a fantastic combination"
+      },
+      {
+        "author_id": "2019253868077428736",
+        "created_at": "2026-07-31T08:53:07.000Z",
+        "edit_history_tweet_ids": [
+          "2083113716359520746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2083113716359520746",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 829,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083093315705065923",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ Indeed, it's really too cheap. I topped up my API at the end of June, and I've spent less than 1 yuan so far, using it with immersive translation. It's almost equivalent to being free!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2083083557040472064",
+            "3_2083083943835000832",
+            "3_2083084736902340608",
+            "3_2083085055916937217"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T06:59:16.000Z",
+        "edit_history_tweet_ids": [
+          "2083085066394309021",
+          "2083085275467846070",
+          "2083093315705065923"
+        ],
+        "id": "2083085066394309021",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "我靠！DeepSeek V4-Flash正式版上线了，梁圣再显神威！\n\n支持Response API，百万Tokens输入1元，缓存命中0.02元，输出2元，并发限制2500\n\n采用峰谷定价，这段时间价格翻倍：北京时间每日 9:00～12:00 和 14:00～18:00\n\nDeepSeek https://t.co/mNiujEnhyv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2083083557040472064",
+            "3_2083083943835000832",
+            "3_2083084736902340608",
+            "3_2083085055916937217"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T07:00:06.000Z",
+        "edit_history_tweet_ids": [
+          "2083085066394309021",
+          "2083085275467846070",
+          "2083093315705065923"
+        ],
+        "id": "2083085275467846070",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1558,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "我靠！DeepSeek V4-Flash正式版上线了，Agent能力大幅提升，梁圣再显神威！\n\n支持Response API，百万Tokens输入1元，缓存命中0.02元，输出2元，并发限制2500\n\n采用峰谷定价，这段时间价格翻倍：北京时间每日 9:00～12:00 和 14:00～18:00\n\nDeepSeek https://t.co/eDwqzgDDcr"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2083083557040472064",
+            "3_2083083943835000832",
+            "3_2083084736902340608",
+            "3_2083085055916937217"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T07:32:03.000Z",
+        "edit_history_tweet_ids": [
+          "2083085066394309021",
+          "2083085275467846070",
+          "2083093315705065923"
+        ],
+        "id": "2083093315705065923",
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 16934,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 17
+        },
+        "text": "我靠！DeepSeek V4-Flash正式版上线了，Agent能力大幅提升，梁圣再显神威！\n\nDeepSeek V4-Flash支持Response API，百万Tokens输入1元，缓存命中0.02元，输出2元，并发限制2500\n\n采用峰谷定价，这段时间价格翻倍：北京时间每日 9:00～12:00 和 14:00～18:00\n\nDeepSeek https://t.co/Ts4oouN1KB"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T05:34:50.000Z",
+        "edit_history_tweet_ids": [
+          "2083063818863931838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "id": "2083063818863931838",
+        "in_reply_to_user_id": "1881991469730594816",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1450,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083034355509903361",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gkxspace 那啥，ULTRA多少钱"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2083029707550076928"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "created_at": "2026-07-31T03:37:45.000Z",
+        "edit_history_tweet_ids": [
+          "2083034355509903361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 212,
+              "start": 189,
+              "url": "https://t.co/W7Bltdveek"
+            }
+          ]
+        },
+        "id": "2083034355509903361",
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 79597,
+          "like_count": 440,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083008098063847456",
+            "type": "quoted"
+          }
+        ],
+        "text": "爽了，AI视频终于卷起来了，MiniMax H3 牛逼！！！\n\nSeedance 2.0 30% 的价格 + 2K 画质 + 原生声音 + 角色一致 + 指令编辑\n\n真香！我来给大家详细讲一讲这个模型：\n\n它原生同时出画面和声音。给一段描述，视频出来自带对话、音效、环境音，不用像以前一样跑完视频再去配 TTS、找音效、对口型。 https://t.co/74GEKhqEt9 https://t.co/W7Bltdveek"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T03:04:29.000Z",
+        "edit_history_tweet_ids": [
+          "2083025982374674755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1946792877352493059",
+              "start": 0,
+              "username": "Strength04_X"
+            }
+          ]
+        },
+        "id": "2083025982374674755",
+        "in_reply_to_user_id": "1946792877352493059",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083024899518677158",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Strength04_X Yeah, It is really good to create authenticity!"
+      },
+      {
+        "author_id": "1946792877352493059",
+        "created_at": "2026-07-31T03:00:11.000Z",
+        "edit_history_tweet_ids": [
+          "2083024899518677158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2083024899518677158",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082972353940840473",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ The phone camera look is perfect"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T02:50:06.000Z",
+        "edit_history_tweet_ids": [
+          "2083022364288373158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1558317849508122629",
+              "start": 0,
+              "username": "CuiMao"
+            }
+          ]
+        },
+        "id": "2083022364288373158",
+        "in_reply_to_user_id": "1558317849508122629",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1908,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082994279413375025",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@CuiMao 能力一般，团队协作比Codex方便，主要还是B端场景"
+      },
+      {
+        "author_id": "1558317849508122629",
+        "created_at": "2026-07-31T00:58:31.000Z",
+        "edit_history_tweet_ids": [
+          "2082994279413375025"
+        ],
+        "id": "2082994279413375025",
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 177425,
+          "like_count": 229,
+          "quote_count": 12,
+          "reply_count": 403,
+          "retweet_count": 4
+        },
+        "text": "满大街都是 workbuddy 的广告，吊大的出来说说，到底好不好用，我是国产 IDE 除了 TRAE 一个没敢用。😅😅"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T01:33:23.000Z",
+        "edit_history_tweet_ids": [
+          "2083003056812367954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938813785881395200",
+              "start": 0,
+              "username": "JianingXiong"
+            }
+          ]
+        },
+        "id": "2083003056812367954",
+        "in_reply_to_user_id": "1938813785881395200",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082999131421941922",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@JianingXiong 谢谢加宁老师🥰"
+      },
+      {
+        "author_id": "1938813785881395200",
+        "created_at": "2026-07-31T01:17:47.000Z",
+        "edit_history_tweet_ids": [
+          "2082999131421941922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 32,
+              "start": 9,
+              "url": "https://t.co/bWQjAE9lVZ"
+            }
+          ]
+        },
+        "id": "2082999131421941922",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 467,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082463900025680060",
+            "type": "quoted"
+          }
+        ],
+        "text": "太强了，真实用！ https://t.co/bWQjAE9lVZ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2082999180268859392",
+            "3_2082999189097914368"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T01:18:03.000Z",
+        "edit_history_tweet_ids": [
+          "2082999197662679318"
+        ],
+        "id": "2082999197662679318",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3374,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082972353940840473",
+            "type": "replied_to"
+          }
+        ],
+        "text": "中文提示词和参考图如下👇\n\n场景背景 https://t.co/Cr2xHasjct"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2082971211299164160"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-30T23:31:23.000Z",
+        "edit_history_tweet_ids": [
+          "2082972353940840473"
+        ],
+        "id": "2082972353940840473",
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 19574,
+          "like_count": 44,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "text": "Seedance2.0真的在一次又一次地模糊真实与虚拟的边界，我现在几乎感知不到一个视频到底是不是真的了😱\n\n在真实的沙滩拍摄，镜头向上拉，宇宙飞船的压迫感，一颗黑色晶体从天而降，上前去查看......\n\n最关键的提示词核心：第一人称视角、手机真实拍摄、轻微抖动、急促呼吸、自然运动模糊、快速反应。 https://t.co/U6Kw3PPVS1"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T00:46:29.000Z",
+        "edit_history_tweet_ids": [
+          "2082991251423666488"
+        ],
+        "id": "2082991251423666488",
+        "in_reply_to_user_id": "1960523407969460224",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082987241480360424",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@lxfeng999 是的，AI 电影在美国已经上映了…"
+      },
+      {
+        "author_id": "1960523407969460224",
+        "created_at": "2026-07-31T00:30:33.000Z",
+        "edit_history_tweet_ids": [
+          "2082987241480360424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2082987241480360424",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@gengdaJ 以后影视类的不用演员了😅据说明年将有第一部AI电视剧上映，期待"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T00:26:12.000Z",
+        "edit_history_tweet_ids": [
+          "2082986147253543383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2005592197488668672",
+              "start": 0,
+              "username": "zhibudaoba"
+            }
+          ]
+        },
+        "id": "2082986147253543383",
+        "in_reply_to_user_id": "886009320306900992",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082977739125178372",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@zhibudaoba 是的，手持拍摄是很重要的影视手法"
+      },
+      {
+        "author_id": "886009320306900992",
+        "created_at": "2026-07-30T23:52:47.000Z",
+        "edit_history_tweet_ids": [
+          "2082977739125178372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2082977739125178372",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082972353940840473",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 手机随手拍的瑕疵感，反而成了最强的真实滤镜。"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T00:25:39.000Z",
+        "edit_history_tweet_ids": [
+          "2082986008292040809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1727593804851445760",
+              "start": 0,
+              "username": "smark0428"
+            }
+          ]
+        },
+        "id": "2082986008292040809",
+        "in_reply_to_user_id": "1727593804851445760",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082981597754843360",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@smark0428 15s视频大概一二十块钱吧"
+      },
+      {
+        "author_id": "1727593804851445760",
+        "created_at": "2026-07-31T00:08:07.000Z",
+        "edit_history_tweet_ids": [
+          "2082981597754843360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2082981597754843360",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082972353940840473",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ Seedance2.0的收费是多少，比如生成一张图片或者15S的视频要多少"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-31T00:25:23.000Z",
+        "edit_history_tweet_ids": [
+          "2082985944056271034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "925713441913847810",
+              "start": 0,
+              "username": "trungbepx"
+            }
+          ]
+        },
+        "id": "2082985944056271034",
+        "in_reply_to_user_id": "925713441913847810",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082980527414616551",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@trungbepx Cool！"
+      },
+      {
+        "author_id": "925713441913847810",
+        "created_at": "2026-07-31T00:03:52.000Z",
+        "edit_history_tweet_ids": [
+          "2082980527414616551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2082980527414616551",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082834049434095758",
+            "type": "quoted"
+          },
+          {
+            "id": "2082972353940840473",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ cool bro, i also try other\nhttps://t.co/93bE9iZxKC"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-30T23:32:56.000Z",
+        "edit_history_tweet_ids": [
+          "2082972744610910261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "431617343",
+              "start": 0,
+              "username": "berryxia"
+            }
+          ]
+        },
+        "id": "2082972744610910261",
+        "in_reply_to_user_id": "431617343",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082971730570871144",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@berryxia 哈哈神佬，其实我也只是Agent学会了～"
+      },
+      {
+        "author_id": "431617343",
+        "created_at": "2026-07-30T23:28:54.000Z",
+        "edit_history_tweet_ids": [
+          "2082971730570871144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 42,
+              "start": 19,
+              "url": "https://t.co/1gYIJzDHQM"
+            }
+          ]
+        },
+        "id": "2082971730570871144",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2246,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082833209516311001",
+            "type": "quoted"
+          }
+        ],
+        "text": "让Agent 学习一下 我眼睛学会了 https://t.co/1gYIJzDHQM"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-07-30T23:31:24.000Z",
+        "edit_history_tweet_ids": [
+          "2082972356721647902"
+        ],
+        "id": "2082972356721647902",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1622,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082972353940840473",
+            "type": "replied_to"
+          }
+        ],
+        "text": "SCENE CONTEXT\nOn a crowded beach under an overcast grey sky, a massive alien spacecraft hovers silently within the clouds. A large black crystal drops from the ship and crashes onto the beach near the shoreline. A first-person POV male beachgoer runs toward the impact site with"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1570599115",
+        "name": "Alex 🧩 Scaling Video GenAI",
+        "protected": false,
+        "username": "alexmashrabov"
+      },
+      {
+        "id": "790804453796352000",
+        "name": "Calvin",
+        "protected": false,
+        "username": "CalvinNotes"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "protected": false,
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "500485482",
+        "name": "枫哥说AI(cad版)",
+        "protected": false,
+        "username": "xiaofeng01"
+      },
+      {
+        "id": "1589849192511348736",
+        "name": "木向（爆赚一亿U）",
+        "protected": false,
+        "username": "TowardMu"
+      },
+      {
+        "id": "2018538247073546240",
+        "name": "Henry | Ye",
+        "protected": false,
+        "username": "HenryY54001"
+      },
+      {
+        "id": "1988475714501570561",
+        "name": "李岳",
+        "protected": false,
+        "username": "liyue_ai"
+      },
+      {
+        "id": "2019253868077428736",
+        "name": "momo",
+        "protected": false,
+        "username": "momo1521482"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "protected": false,
+        "username": "gkxspace"
+      },
+      {
+        "id": "1946792877352493059",
+        "name": "M-studioAi",
+        "protected": false,
+        "username": "Strength04_X"
+      },
+      {
+        "id": "1558317849508122629",
+        "name": "CuiMao",
+        "protected": false,
+        "username": "CuiMao"
+      },
+      {
+        "id": "1938813785881395200",
+        "name": "Jianing 加宁",
+        "protected": false,
+        "username": "JianingXiong"
+      },
+      {
+        "id": "1960523407969460224",
+        "name": "Feng",
+        "protected": false,
+        "username": "XFENG999"
+      },
+      {
+        "id": "886009320306900992",
+        "name": "半格",
+        "protected": false,
+        "username": "ai_bange"
+      },
+      {
+        "id": "2005592197488668672",
+        "name": "知道就知道吧",
+        "protected": false,
+        "username": "zhibudaoba"
+      },
+      {
+        "id": "1727593804851445760",
+        "name": "E吴大哥wu|",
+        "protected": false,
+        "username": "smark0428"
+      },
+      {
+        "id": "925713441913847810",
+        "name": "trungbep",
+        "protected": false,
+        "username": "trungbepx"
+      },
+      {
+        "id": "431617343",
+        "name": "Berryxia.AI",
+        "protected": false,
+        "username": "berryxia"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2083329758381965326",
+    "next_token": "b26v89c19zqg8o3juewgibyuj9nkk7v61vtxpropvsp6l",
+    "oldest_id": "2082972356721647902",
+    "result_count": 25
+  }
+}

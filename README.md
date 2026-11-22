@@ -10,7 +10,7 @@
 
 ## 三层结构
 
-1. **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。目前是「出海」（哥飞、西门）、「产品」（刘小排）和「AI 工具」（土豆姐 / @poteto）。以后可扩展，例如 IP、具身智能。
+1. **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。目前是「出海」（哥飞、西门）、「产品」（刘小排）、「AI 工具」（土豆姐 / @poteto）和「自媒体」（小晚不在 / @bbkirstry、逸尘 / @gengdaJ）。以后可扩展，例如 IP、具身智能。
 2. **人**：每人一张人物卡 `people/<slug>.md`（擅长、已有 skill、计划蒸馏成的 skill、材料清单、如何补充新材料）。
 3. **来源类型**：统一用 `wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）。
 
@@ -34,6 +34,8 @@
 | `gefei/ximen-notes/` | 西门笔记（历史路径，不移动） | 西门 | notes | member |
 | `liuxiaopai/x-archive/` | 刘小排 X 归档（帖子、长文、原始 JSON） | 刘小排 | x | public |
 | `poteto/x-archive/` | 土豆姐（@poteto）X 归档：Grok Bot 相关帖、长文、原始 JSON；无关帖见 other.md | 土豆姐（lauren） | x | public |
+| `bbkirstry/x-archive/` | 小晚不在（@bbkirstry）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 小晚不在 | x | public |
+| `gengdaj/x-archive/` | 逸尘（@gengdaJ）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 逸尘 | x | public |
 
 ## 可见性规则
 

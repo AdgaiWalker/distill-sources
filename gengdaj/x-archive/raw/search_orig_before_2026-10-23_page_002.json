@@ -1,0 +1,1871 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2108086705458921472",
+          "3_2108086705458909184",
+          "3_2108086704766885888",
+          "3_2108086705463144448"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108349221334319380",
+      "created_at": "2026-10-09T00:10:00.000Z",
+      "edit_history_tweet_ids": [
+        "2108349221334319380"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/CwaVWSvvaK",
+            "end": 202,
+            "expanded_url": "https://x.com/gengdaJ/status/2108349221334319380/photo/1",
+            "media_key": "3_2108086705458921472",
+            "start": 179,
+            "url": "https://t.co/CwaVWSvvaK"
+          },
+          {
+            "display_url": "pic.x.com/CwaVWSvvaK",
+            "end": 202,
+            "expanded_url": "https://x.com/gengdaJ/status/2108349221334319380/photo/2",
+            "media_key": "3_2108086705458909184",
+            "start": 179,
+            "url": "https://t.co/CwaVWSvvaK"
+          },
+          {
+            "display_url": "pic.x.com/CwaVWSvvaK",
+            "end": 202,
+            "expanded_url": "https://x.com/gengdaJ/status/2108349221334319380/photo/3",
+            "media_key": "3_2108086704766885888",
+            "start": 179,
+            "url": "https://t.co/CwaVWSvvaK"
+          },
+          {
+            "display_url": "pic.x.com/CwaVWSvvaK",
+            "end": 202,
+            "expanded_url": "https://x.com/gengdaJ/status/2108349221334319380/photo/4",
+            "media_key": "3_2108086705463144448",
+            "start": 179,
+            "url": "https://t.co/CwaVWSvvaK"
+          }
+        ]
+      },
+      "id": "2108349221334319380",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "teamily.ai/link/3_vxByktC…",
+              "end": 462,
+              "expanded_url": "https://teamily.ai/link/3_vxByktCPc",
+              "start": 439,
+              "url": "https://t.co/FaQ9IpzlKt"
+            },
+            {
+              "display_url": "teamily.ai/link/2OytpiTP1…",
+              "end": 491,
+              "expanded_url": "https://teamily.ai/link/2OytpiTP1_I",
+              "start": 468,
+              "url": "https://t.co/e5FC33XmZv"
+            },
+            {
+              "display_url": "teamily.ai/link/6Yo5yIW7Px",
+              "end": 521,
+              "expanded_url": "https://teamily.ai/link/6Yo5yIW7Px",
+              "start": 498,
+              "url": "https://t.co/NB1BLRLwI5"
+            }
+          ]
+        },
+        "text": "兄弟们，原来“卧槽”真的是X的流量密码。。。我把余温的1027篇文章喂给Teamily AI（我觉得是Muse、Dots这些Personal Agent的进阶形态），使用Website Builder功能，调动八个Agent并行开工：\n\n1、Teamily Agent写计划，开头结构 Agent、正文结构 Agent和爆文关键词 Agent分析所有数据。\n2、前端、后端、API测试、运维和代码审查Agent结合分析的数据，共同完成网站开发，呈现数据报告。\n3、也可以叫程序员朋友一起加入群聊，保证后续维护的方便性。\n\n最后网站报告中，阅读中位数最高的当属“情绪爆发式”，其中首当其冲的关键词是——“卧槽”。。。\n\n爆文关键词Agent的报告也很值得学习：YouTube、雅思、港卡、播客、英语、评论区、出海、封号、Discord，和卧槽。。。\n\n说到底流量焚决就是一句话：抓住观众的情绪。\n\n细节太多，值得我接下来细细专研内容本质，相关报告也给兄弟们开源出来了👀\n开头报告：https://t.co/FaQ9IpzlKt\n正文报告：https://t.co/e5FC33XmZv\n关键词报告：https://t.co/NB1BLRLwI5"
+      },
+      "public_metrics": {
+        "bookmark_count": 110,
+        "impression_count": 48781,
+        "like_count": 114,
+        "quote_count": 18,
+        "reply_count": 57,
+        "retweet_count": 17
+      },
+      "text": "兄弟们，原来“卧槽”真的是X的流量密码。。。我把余温的1027篇文章喂给Teamily AI（我觉得是Muse、Dots这些Personal Agent的进阶形态），使用Website Builder功能，调动八个Agent并行开工：\n\n1、Teamily Agent写计划，开头结构 Agent、正文结构 Agent和爆文关键词 Agent分析所有数据。 https://t.co/CwaVWSvvaK",
+      "url": "https://x.com/gengdaJ/status/2108349221334319380"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2107281944442781696"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2107282051456258248",
+      "created_at": "2026-10-06T01:29:27.000Z",
+      "edit_history_tweet_ids": [
+        "2107282051456258248"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/8YEHhNls5E",
+            "end": 178,
+            "expanded_url": "https://x.com/gengdaJ/status/2107282051456258248/video/1",
+            "media_key": "13_2107281944442781696",
+            "start": 155,
+            "url": "https://t.co/8YEHhNls5E"
+          },
+          {
+            "display_url": "x.com/higgsfield/sta…",
+            "end": 202,
+            "expanded_url": "https://twitter.com/higgsfield/status/2107112781854245256",
+            "start": 179,
+            "url": "https://t.co/lwUbUhRq0j"
+          }
+        ]
+      },
+      "id": "2107282051456258248",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我去！这是一个潜力很大AI视频商业闭环项目啊。当别人还在用数字人带货的时候，你已经用Higgsfield AI influencer...\n\n1、创建一个AI网红角色（不一定是你的数字人，也可以是动物、奇异生物...）\n2、找到某个产品领域中最具病毒传播力的 UGC 广告，然后用Genjutsu去复刻爆款。\n3、然后把做出来的样品视频展示给品牌方，每月收取稳定的内容生产费用（视频号、抖音和小红书都有大量带货需求）\n\n这个市场目前最大的差异性就在于，别人都是真人、数字人。你只要换一个别的IP，然后做出爆款，申请IP版权，你就拥有了真正意义上“AI网红”，可以通过卖视频、授权IP，源源不断获取收益。美滋滋啊！"
+      },
+      "public_metrics": {
+        "bookmark_count": 514,
+        "impression_count": 47541,
+        "like_count": 412,
+        "quote_count": 13,
+        "reply_count": 58,
+        "retweet_count": 76
+      },
+      "referenced_tweets": [
+        {
+          "id": "2107112781854245256",
+          "type": "quoted"
+        }
+      ],
+      "text": "我去！这是一个潜力很大AI视频商业闭环项目啊。当别人还在用数字人带货的时候，你已经用Higgsfield AI influencer...\n\n1、创建一个AI网红角色（不一定是你的数字人，也可以是动物、奇异生物...）\n2、找到某个产品领域中最具病毒传播力的 UGC 广告，然后用Genjutsu去复刻爆款。 https://t.co/8YEHhNls5E https://t.co/lwUbUhRq0j",
+      "url": "https://x.com/gengdaJ/status/2107282051456258248"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2105478866655649792",
+          "3_2105478892496855040"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2105494159557533897",
+      "created_at": "2026-10-01T03:05:00.000Z",
+      "edit_history_tweet_ids": [
+        "2105494159557533897"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/DpsGNYtSf8",
+            "end": 179,
+            "expanded_url": "https://x.com/gengdaJ/status/2105494159557533897/video/1",
+            "media_key": "13_2105478866655649792",
+            "start": 156,
+            "url": "https://t.co/DpsGNYtSf8"
+          },
+          {
+            "display_url": "pic.x.com/DpsGNYtSf8",
+            "end": 179,
+            "expanded_url": "https://x.com/gengdaJ/status/2105494159557533897/photo/2",
+            "media_key": "3_2105478892496855040",
+            "start": 156,
+            "url": "https://t.co/DpsGNYtSf8"
+          }
+        ]
+      },
+      "id": "2105494159557533897",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "Codex的这波更新，其实我在意的不是dot，而是它想成为AI时代超级入口的野心！而且第一波受益的是所有AI视频工作者——电商带货、YouTube AI视频从业者。\n\n昨晚我更新Codex的时候，非常惊讶地发现Higgsfield竟然在Codex有一个独立的界面！所有的本地文件直接和Higgsfield打通。\n\n意味着：自动化工作流，在Codex里面享受前所未有的便捷。\n\n比如，做 YouTube电商的朋友（这是一个红利机会，信息差，我知道已经有达到月GMV10万$的），就可以通过Codex+ Higgsfield插件自动编排脚本、生成视频、发布到YouTube，并在视频中插入 Affiliate 联盟营销链接获利。\n\n又比如，你是主攻YouTube AI视频的YPP流量收益（现在建议做中长视频），也完全可以通过Higgsfield插件，批量生成视频片段，然后直接在Codex里面使用剪辑Skill拼接删减，无缝上传到YouTube，非常适合做矩阵。"
+      },
+      "public_metrics": {
+        "bookmark_count": 267,
+        "impression_count": 36625,
+        "like_count": 199,
+        "quote_count": 2,
+        "reply_count": 32,
+        "retweet_count": 37
+      },
+      "text": "Codex的这波更新，其实我在意的不是dot，而是它想成为AI时代超级入口的野心！而且第一波受益的是所有AI视频工作者——电商带货、YouTube AI视频从业者。\n\n昨晚我更新Codex的时候，非常惊讶地发现Higgsfield竟然在Codex有一个独立的界面！所有的本地文件直接和Higgsfield打通。 https://t.co/DpsGNYtSf8",
+      "url": "https://x.com/gengdaJ/status/2105494159557533897"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2105469924181442560",
+          "3_2105471321404792832",
+          "3_2105471773404008448",
+          "3_2105472706066161665"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2105472933196177754",
+      "created_at": "2026-10-01T01:40:39.000Z",
+      "edit_history_tweet_ids": [
+        "2105472933196177754"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5Sc6WlrP5W",
+            "end": 171,
+            "expanded_url": "https://x.com/gengdaJ/status/2105472933196177754/photo/1",
+            "media_key": "3_2105469924181442560",
+            "start": 148,
+            "url": "https://t.co/5Sc6WlrP5W"
+          },
+          {
+            "display_url": "pic.x.com/5Sc6WlrP5W",
+            "end": 171,
+            "expanded_url": "https://x.com/gengdaJ/status/2105472933196177754/photo/2",
+            "media_key": "3_2105471321404792832",
+            "start": 148,
+            "url": "https://t.co/5Sc6WlrP5W"
+          },
+          {
+            "display_url": "pic.x.com/5Sc6WlrP5W",
+            "end": 171,
+            "expanded_url": "https://x.com/gengdaJ/status/2105472933196177754/photo/3",
+            "media_key": "3_2105471773404008448",
+            "start": 148,
+            "url": "https://t.co/5Sc6WlrP5W"
+          },
+          {
+            "display_url": "pic.x.com/5Sc6WlrP5W",
+            "end": 171,
+            "expanded_url": "https://x.com/gengdaJ/status/2105472933196177754/photo/4",
+            "media_key": "3_2105472706066161665",
+            "start": 148,
+            "url": "https://t.co/5Sc6WlrP5W"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 195,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2105465426134315335",
+            "start": 172,
+            "url": "https://t.co/iP9EBg0nPx"
+          }
+        ]
+      },
+      "id": "2105472933196177754",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "才发现Codex还更新了“空间”这个巨牛逼的功能，一口气直接杀死Obsidian和飞书！！！\n\n神级功能太多了，我列举我觉得最最最炸裂的：\n\n1、自带原生AI文档：直接调用GPT Image 2.5生成图片，直接调用AI生成可视化图表，当然，也可以生成文字，最后还支持Markdown直接导出。\n\n2、AI原生文档一个@符号，超乎想象：打通ChatGPT聊天、插件、dot、文档\n\n3、支持多种格式的文档直接修改：Markdown、json、Word、PDF。\n\n4、飞书我最喜欢的两个核心功能一下被干死了：分享互联网链接、历史版本（类似git，防止误删）。"
+      },
+      "public_metrics": {
+        "bookmark_count": 493,
+        "impression_count": 110122,
+        "like_count": 417,
+        "quote_count": 5,
+        "reply_count": 40,
+        "retweet_count": 52
+      },
+      "referenced_tweets": [
+        {
+          "id": "2105465426134315335",
+          "type": "quoted"
+        }
+      ],
+      "text": "才发现Codex还更新了“空间”这个巨牛逼的功能，一口气直接杀死Obsidian和飞书！！！\n\n神级功能太多了，我列举我觉得最最最炸裂的：\n\n1、自带原生AI文档：直接调用GPT Image 2.5生成图片，直接调用AI生成可视化图表，当然，也可以生成文字，最后还支持Markdown直接导出。 https://t.co/5Sc6WlrP5W https://t.co/iP9EBg0nPx",
+      "url": "https://x.com/gengdaJ/status/2105472933196177754"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2105465255430369280",
+          "3_2105465270777331712"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2105465426134315335",
+      "created_at": "2026-10-01T01:10:49.000Z",
+      "edit_history_tweet_ids": [
+        "2105465426134315335"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 117,
+            "id": "1753271414382350336",
+            "start": 107,
+            "username": "Tiny_Fish"
+          },
+          {
+            "end": 138,
+            "id": "2086579254138204160",
+            "start": 130,
+            "username": "MonidHQ"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/zhden2Jd4r",
+            "end": 188,
+            "expanded_url": "https://x.com/gengdaJ/status/2105465426134315335/photo/1",
+            "media_key": "3_2105465255430369280",
+            "start": 165,
+            "url": "https://t.co/zhden2Jd4r"
+          },
+          {
+            "display_url": "pic.x.com/zhden2Jd4r",
+            "end": 188,
+            "expanded_url": "https://x.com/gengdaJ/status/2105465426134315335/photo/2",
+            "media_key": "3_2105465270777331712",
+            "start": 165,
+            "url": "https://t.co/zhden2Jd4r"
+          },
+          {
+            "display_url": "x.com/shengkunye/sta…",
+            "end": 212,
+            "expanded_url": "https://twitter.com/shengkunye/status/2105382345092264390",
+            "start": 189,
+            "url": "https://t.co/AG21WQMz9C"
+          }
+        ]
+      },
+      "id": "2105465426134315335",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 117,
+              "id": "1753271414382350336",
+              "start": 107,
+              "username": "Tiny_Fish"
+            },
+            {
+              "end": 138,
+              "id": "2086579254138204160",
+              "start": 130,
+              "username": "MonidHQ"
+            }
+          ]
+        },
+        "text": "牛逼了，TinyFish除了Search和Fetch，还可以储存你的浏览器网站登录状态，所有Agent都能复用。\n\n之前所有的Agent运行Playwright浏览器之类的，每次都需要重新登录Google账号，现在@Tiny_Fish直接复用登录态，这次再接入@MonidHQ——Agent界的OpenRouter，想象力很大。\n\n而且更牛逼的是，假如你常用的网站，储存在多个Google Profile里面，TinyFish也可以统一存储。\n\n比如你的X在账号1，YouTube在账号2，它们就可以一起被储存在TinyFish的Browser Context profiles里面。\n\n另外TinyFish还提供云端浏览器，所以也不用担心电脑关机，而且有专门的反爬和代理机制，把很多脚本、任务托管在云端执行就很爽。\n\n比如，我要同时发布视频推文到X和YouTube，就可以调用TinyFish的云端浏览器，让它来帮我执行这个任务。"
+      },
+      "public_metrics": {
+        "bookmark_count": 86,
+        "impression_count": 120457,
+        "like_count": 50,
+        "quote_count": 12,
+        "reply_count": 36,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2105382345092264390",
+          "type": "quoted"
+        }
+      ],
+      "text": "牛逼了，TinyFish除了Search和Fetch，还可以储存你的浏览器网站登录状态，所有Agent都能复用。\n\n之前所有的Agent运行Playwright浏览器之类的，每次都需要重新登录Google账号，现在@Tiny_Fish直接复用登录态，这次再接入@MonidHQ——Agent界的OpenRouter，想象力很大。 https://t.co/zhden2Jd4r https://t.co/AG21WQMz9C",
+      "url": "https://x.com/gengdaJ/status/2105465426134315335"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104460357242957825",
+          "3_2104460357234466816",
+          "3_2104460357242920960",
+          "3_2104460357234475009"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104460368676626479",
+      "created_at": "2026-09-28T06:37:05.000Z",
+      "edit_history_tweet_ids": [
+        "2104460368676626479"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/i0ZE3zQT8M",
+            "end": 139,
+            "expanded_url": "https://x.com/gengdaJ/status/2104460368676626479/photo/1",
+            "media_key": "3_2104460357242957825",
+            "start": 116,
+            "url": "https://t.co/i0ZE3zQT8M"
+          },
+          {
+            "display_url": "pic.x.com/i0ZE3zQT8M",
+            "end": 139,
+            "expanded_url": "https://x.com/gengdaJ/status/2104460368676626479/photo/2",
+            "media_key": "3_2104460357234466816",
+            "start": 116,
+            "url": "https://t.co/i0ZE3zQT8M"
+          },
+          {
+            "display_url": "pic.x.com/i0ZE3zQT8M",
+            "end": 139,
+            "expanded_url": "https://x.com/gengdaJ/status/2104460368676626479/photo/3",
+            "media_key": "3_2104460357242920960",
+            "start": 116,
+            "url": "https://t.co/i0ZE3zQT8M"
+          },
+          {
+            "display_url": "pic.x.com/i0ZE3zQT8M",
+            "end": 139,
+            "expanded_url": "https://x.com/gengdaJ/status/2104460368676626479/photo/4",
+            "media_key": "3_2104460357234475009",
+            "start": 116,
+            "url": "https://t.co/i0ZE3zQT8M"
+          },
+          {
+            "display_url": "x.com/heyMisheng/sta…",
+            "end": 163,
+            "expanded_url": "https://twitter.com/heyMisheng/status/2104419259535548705",
+            "start": 140,
+            "url": "https://t.co/r6NsisSf5u"
+          }
+        ]
+      },
+      "id": "2104460368676626479",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "Vesta是我最好的朋友之一，也是我现实里面见过最夸张、最会社交、最会抱大腿的 06 年同龄人，也是我同级的校友。\n\n超级外向，社交狠人，混进国内头部法律团队，成为A10 大佬唯一真传弟子，在外滩最繁华地段有自己的独立办公室。。。\n\n她精力好得恐怖！能在一天飞三个城市，每天睡三个小时，以下是她发给我的近期航线图。。。\n\n这不是小说，这是真的。。。比 X 上其他年入百万但咨询费收几百的 00 后强太多。。。\n\n分享个我和她的故事，有一次她给某律所客户报了个百万的 AI 落地项目，然后让我假装她的 cofounder 去单独对接对面一整个团队，差点给我吓死，最后还好我凭借过硬的心理素质完成咨询。。。我敢说，我的胆子变大了，至少有她一半功劳。。。\n\n然后，我现在把她骗过来做 X 和海内外自媒体了，让她多给大家分享点社交、法律、AI 和自媒体干货😁\n\n现在入股关注，绝对不亏！😎"
+      },
+      "public_metrics": {
+        "bookmark_count": 78,
+        "impression_count": 36691,
+        "like_count": 84,
+        "quote_count": 0,
+        "reply_count": 23,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104419259535548705",
+          "type": "quoted"
+        }
+      ],
+      "text": "Vesta是我最好的朋友之一，也是我现实里面见过最夸张、最会社交、最会抱大腿的 06 年同龄人，也是我同级的校友。\n\n超级外向，社交狠人，混进国内头部法律团队，成为A10 大佬唯一真传弟子，在外滩最繁华地段有自己的独立办公室。。。 https://t.co/i0ZE3zQT8M https://t.co/r6NsisSf5u",
+      "url": "https://x.com/gengdaJ/status/2104460368676626479"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104414516897579008"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104414578239267314",
+      "created_at": "2026-09-28T03:35:08.000Z",
+      "edit_history_tweet_ids": [
+        "2104413979703677022",
+        "2104414578239267314"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/hZIsKYTkv8",
+            "end": 159,
+            "expanded_url": "https://x.com/gengdaJ/status/2104414578239267314/photo/1",
+            "media_key": "3_2104414516897579008",
+            "start": 136,
+            "url": "https://t.co/hZIsKYTkv8"
+          },
+          {
+            "display_url": "x.com/raealisa/statu…",
+            "end": 183,
+            "expanded_url": "https://twitter.com/raealisa/status/2100002993001373810",
+            "start": 160,
+            "url": "https://t.co/04Kwa2SA8g"
+          }
+        ]
+      },
+      "id": "2104414578239267314",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "特喵的，以后可以笑着走出理发店了，让GPT-image 2.5给我发型和美容建议，太夸张了！！！\n\n建议大家都去试一下这个提示词，国庆节，无论是给自己出片，还是给女朋友/老婆出片，都无敌了！\n\n提示词如下👇：\n\n请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。\n\n识别出能让我看起来更精致和谐的最高影响力的变化，包括发型/发式/发色、眉毛、眼妆、皮肤/妆容位置、嘴唇，以及整体面部平衡。\n\n请针对我的实际特征给出具体建议，而不是泛泛而谈。  然后，生成这张确切照片的现实“之后”版本，展示你推荐的焕然一新效果。保持我可辨识为同一个人，并保留我的面部解剖结构，除非你特别推荐细微的结构调整。\n\n尽可能保持相同的姿势、相机角度、表情、光线、服装和背景。  让这些变化精致且现实，而不是夸张的美颜滤镜。优先考虑高影响力、低风险的造型调整。\n\n不要自动让我脸变瘦、鼻子变小、嘴唇变大、眼睛变大，或皮肤不切实际地完美。  对于头发，选择最能衬托我个人比例的发型、发色、分线、蓬松度和面部框架。\n\n对于妆容，优化眉形、眼线/睫毛、腮红/轮廓位置、唇部定义和肤色，同时保持自然。  \n\n生成一张前后对比照片，带有照片标注，解释每项变化，类似于专业美容咨询。"
+      },
+      "public_metrics": {
+        "bookmark_count": 957,
+        "impression_count": 139903,
+        "like_count": 1186,
+        "quote_count": 3,
+        "reply_count": 81,
+        "retweet_count": 172
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100002993001373810",
+          "type": "quoted"
+        }
+      ],
+      "text": "特喵的，以后可以笑着走出理发店了，让GPT-image 2.5给我发型和美容建议，太夸张了！！！\n\n建议大家都去试一下这个提示词，国庆节，无论是给自己出片，还是给女朋友/老婆出片，都无敌了！\n\n提示词如下👇：\n\n请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。 https://t.co/hZIsKYTkv8 https://t.co/04Kwa2SA8g",
+      "url": "https://x.com/gengdaJ/status/2104414578239267314"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104413208106954752",
+          "3_2104413377758208000"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104413979703677022",
+      "created_at": "2026-09-28T03:32:45.000Z",
+      "edit_history_tweet_ids": [
+        "2104413979703677022",
+        "2104414578239267314"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/CR0lrCjJez",
+            "end": 159,
+            "expanded_url": "https://x.com/gengdaJ/status/2104413979703677022/photo/1",
+            "media_key": "3_2104413208106954752",
+            "start": 136,
+            "url": "https://t.co/CR0lrCjJez"
+          },
+          {
+            "display_url": "pic.x.com/CR0lrCjJez",
+            "end": 159,
+            "expanded_url": "https://x.com/gengdaJ/status/2104413979703677022/photo/2",
+            "media_key": "3_2104413377758208000",
+            "start": 136,
+            "url": "https://t.co/CR0lrCjJez"
+          },
+          {
+            "display_url": "x.com/raealisa/statu…",
+            "end": 183,
+            "expanded_url": "https://twitter.com/raealisa/status/2100002993001373810",
+            "start": 160,
+            "url": "https://t.co/04Kwa2SA8g"
+          }
+        ]
+      },
+      "id": "2104413979703677022",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "特喵的，以后可以笑着走出理发店了，让GPT-image 2.5给我发型和美容建议，太夸张了！！！\n\n建议大家都去试一下这个提示词，国庆节，无论是给自己出片，还是给女朋友/老婆出片，都无敌了！\n\n提示词如下👇：\n\n请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。\n\n识别出能让我看起来更精致和谐的最高影响力的变化，包括发型/发式/发色、眉毛、眼妆、皮肤/妆容位置、嘴唇，以及整体面部平衡。\n\n请针对我的实际特征给出具体建议，而不是泛泛而谈。  然后，生成这张确切照片的现实“之后”版本，展示你推荐的焕然一新效果。保持我可辨识为同一个人，并保留我的面部解剖结构，除非你特别推荐细微的结构调整。\n\n尽可能保持相同的姿势、相机角度、表情、光线、服装和背景。  让这些变化精致且现实，而不是夸张的美颜滤镜。优先考虑高影响力、低风险的造型调整。\n\n不要自动让我脸变瘦、鼻子变小、嘴唇变大、眼睛变大，或皮肤不切实际地完美。  对于头发，选择最能衬托我个人比例的发型、发色、分线、蓬松度和面部框架。\n\n对于妆容，优化眉形、眼线/睫毛、腮红/轮廓位置、唇部定义和肤色，同时保持自然。  \n\n生成一张前后对比照片，带有照片标注，解释每项变化，类似于专业美容咨询。"
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 314,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100002993001373810",
+          "type": "quoted"
+        }
+      ],
+      "text": "特喵的，以后可以笑着走出理发店了，让GPT-image 2.5给我发型和美容建议，太夸张了！！！\n\n建议大家都去试一下这个提示词，国庆节，无论是给自己出片，还是给女朋友/老婆出片，都无敌了！\n\n提示词如下👇：\n\n请像一位美学/美容顾问一样，从我附带的照片中分析我的外貌。 https://t.co/CR0lrCjJez https://t.co/04Kwa2SA8g",
+      "url": "https://x.com/gengdaJ/status/2104413979703677022"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104397606189473792",
+          "3_2104398400565506049",
+          "3_2104400350983884800",
+          "3_2104402118669156352"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104405179827359892",
+      "created_at": "2026-09-28T02:57:47.000Z",
+      "edit_history_tweet_ids": [
+        "2104402581376368782",
+        "2104405179827359892"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/FH33qzEbXZ",
+            "end": 109,
+            "expanded_url": "https://x.com/gengdaJ/status/2104405179827359892/photo/1",
+            "media_key": "3_2104397606189473792",
+            "start": 86,
+            "url": "https://t.co/FH33qzEbXZ"
+          },
+          {
+            "display_url": "pic.x.com/FH33qzEbXZ",
+            "end": 109,
+            "expanded_url": "https://x.com/gengdaJ/status/2104405179827359892/photo/2",
+            "media_key": "3_2104398400565506049",
+            "start": 86,
+            "url": "https://t.co/FH33qzEbXZ"
+          },
+          {
+            "display_url": "pic.x.com/FH33qzEbXZ",
+            "end": 109,
+            "expanded_url": "https://x.com/gengdaJ/status/2104405179827359892/photo/3",
+            "media_key": "3_2104400350983884800",
+            "start": 86,
+            "url": "https://t.co/FH33qzEbXZ"
+          },
+          {
+            "display_url": "pic.x.com/FH33qzEbXZ",
+            "end": 109,
+            "expanded_url": "https://x.com/gengdaJ/status/2104405179827359892/photo/4",
+            "media_key": "3_2104402118669156352",
+            "start": 86,
+            "url": "https://t.co/FH33qzEbXZ"
+          }
+        ]
+      },
+      "id": "2104405179827359892",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "兄弟们，这几天我没有玩Muse，但是我已经把Claude玩疯了，中国护照过的，没封号！！！\n\n说一下几个Claude Code桌面端和Codex桌面端不同的感受吧：\n1. 模型层面：Opus5.5真的很强，没尬吹，体感比Astra还强一些。Fable5.1我这种菜鸡体验下来，其实和Opus5.5差距不大，出方案也很强，但我更多的是让它把我记忆系统给诊断了一遍，给了很多宝贵的建议。\n\n2. Computer Use和Chrome浏览器控制层面：这一块，Codex还是真神，Claude还会抢电脑。。。不能干别的事真的很难受。。。而且速度还很慢。。。所以只要有这方面的需求，都是让Claude出方案，然后让Codex去执行。\n\n3.交互层面：Claude完全真神级别，说人话，字体、输出格式，都更人性化，比Codex好理解很多。唯一麻烦的地方是只有英文（这可能也是我的缺点），但也很好解决，安装豆包工作，悬浮球，划段落翻译就行。\n\n4.插件生态：Codex还是领先太多了，数量上领先。常见的Higgsfield、topview这种内容插件都没有。而且Codex最近新出了一个模型写作风格的Skill，大家可以看看开启没有，可以模仿你的邮件内容和谷歌文档内容写作。Codex时不时在更新中给一些小惊喜，还是很不错！\n\n5.对话层面：Codex还是比Claude省心，在Bypass all permissions模式下，Codex是真的几乎不会问你问题（偶尔有补充问题，也会并行执行其他不想干任务），Claude就老是有毛病了，各种授权，尤其涉及到computer use，屁事老多了。。。\n\n6.使用量层面：量大管饱已经不是Codex的代言词，而是Claude的代言词，我两个Pro20✖️，感觉消耗得比我的Claude Max100$的还快。。。Opus5.5现在才是真神！\n\n本来都打算往Claude多转转，70%左右吧，但是Codex新界面更新之后，我觉得还是55，确实交互度丝滑了很多，新增了定时任务界面、站点管理界面、资料库界面，我又舍不得了。。。现在只能说两家各有优劣，鱼和熊掌暂时兼得一段时间吧。。。\n\n我的Claude都稳定用了快一周了，中国护照过KYC，暂时没感觉有啥问题，接着我就开始写教程了。。。说自己中国护照被封的，估计是网络、环境、支付方式，这些其他问题。。。"
+      },
+      "public_metrics": {
+        "bookmark_count": 69,
+        "impression_count": 29442,
+        "like_count": 91,
+        "quote_count": 1,
+        "reply_count": 67,
+        "retweet_count": 11
+      },
+      "text": "兄弟们，这几天我没有玩Muse，但是我已经把Claude玩疯了，中国护照过的，没封号！！！\n\n说一下几个Claude Code桌面端和Codex桌面端不同的感受吧：\n1. https://t.co/FH33qzEbXZ",
+      "url": "https://x.com/gengdaJ/status/2104405179827359892"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104397606189473792",
+          "3_2104398400565506049",
+          "3_2104400350983884800",
+          "3_2104402118669156352"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2104402581376368782",
+      "created_at": "2026-09-28T02:47:27.000Z",
+      "edit_history_tweet_ids": [
+        "2104402581376368782",
+        "2104405179827359892"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/qIqNSFXAHt",
+            "end": 146,
+            "expanded_url": "https://x.com/gengdaJ/status/2104402581376368782/photo/1",
+            "media_key": "3_2104397606189473792",
+            "start": 123,
+            "url": "https://t.co/qIqNSFXAHt"
+          },
+          {
+            "display_url": "pic.x.com/qIqNSFXAHt",
+            "end": 146,
+            "expanded_url": "https://x.com/gengdaJ/status/2104402581376368782/photo/2",
+            "media_key": "3_2104398400565506049",
+            "start": 123,
+            "url": "https://t.co/qIqNSFXAHt"
+          },
+          {
+            "display_url": "pic.x.com/qIqNSFXAHt",
+            "end": 146,
+            "expanded_url": "https://x.com/gengdaJ/status/2104402581376368782/photo/3",
+            "media_key": "3_2104400350983884800",
+            "start": 123,
+            "url": "https://t.co/qIqNSFXAHt"
+          },
+          {
+            "display_url": "pic.x.com/qIqNSFXAHt",
+            "end": 146,
+            "expanded_url": "https://x.com/gengdaJ/status/2104402581376368782/photo/4",
+            "media_key": "3_2104402118669156352",
+            "start": 123,
+            "url": "https://t.co/qIqNSFXAHt"
+          }
+        ]
+      },
+      "id": "2104402581376368782",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "兄弟们，这几天我没有玩Muse，但是我已经把Claude玩疯了，Mac上玩，iPhone上玩，开着UU远程玩，云端玩，本地也玩，想怎么玩怎么玩，就和打游戏一样上瘾。\n\n说一下几个Claude Code桌面端和Codex桌面端不同的感受吧：\n1. 模型层面：Opus5.5真的很强，没尬吹，体感比Astra还强一些。Fable5.1我这种菜鸡体验下来，其实和Opus5.5差距不大，出方案也很强，但我更多的是让它把我记忆系统给诊断了一遍，给了很多宝贵的建议。\n\n2. Computer Use和Chrome浏览器控制层面：这一块，Codex还是真神，Claude还会抢电脑。。。不能干别的事真的很难受。。。而且速度还很慢。。。所以只要有这方面的需求，都是让Claude出方案，然后让Codex去执行。\n\n3.交互层面：Claude完全真神级别，说人话，字体、输出格式，都更人性化，比Codex好理解很多。唯一麻烦的地方是只有英文（这可能也是我的缺点），但也很好解决，安装豆包工作，悬浮球，划段落翻译就行。\n\n4.插件生态：Codex还是领先太多了，数量上领先。常见的Higgsfield、topview这种内容插件都没有。而且Codex最近新出了一个模型写作风格的Skill，大家可以看看开启没有，可以模仿你的邮件内容和谷歌文档内容写作。Codex时不时在更新中给一些小惊喜，还是很不错！\n\n5.对话层面：Codex还是比Claude省心，在Bypass all permissions模式下，Codex是真的几乎不会问你问题（偶尔有补充问题，也会并行执行其他不想干任务），Claude就老是有毛病了，各种授权，尤其涉及到computer use，屁事老多了。。。\n\n6.使用量层面：量大管饱已经不是Codex的代言词，而是Claude的代言词，我两个Pro20✖️，感觉消耗得比我的Claude Max100$的还快。。。Opus5.5现在才是真神！\n\n本来都打算往Claude多转转，70%左右吧，但是Codex新界面更新之后，我觉得还是55，确实交互度丝滑了很多，新增了定时任务界面、站点管理界面、资料库界面，我又舍不得了。。。现在只能说两家各有优劣，鱼和熊掌暂时兼得一段时间吧。。。\n\n然后我的Claude都稳定用了快一周了，中国护照过KYC，暂时没感觉有啥问题，接着我就开始写教程了。。。说自己中国护照被封的，估计是网络、环境、支付方式，这些其他问题。。。"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 554,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "兄弟们，这几天我没有玩Muse，但是我已经把Claude玩疯了，Mac上玩，iPhone上玩，开着UU远程玩，云端玩，本地也玩，想怎么玩怎么玩，就和打游戏一样上瘾。\n\n说一下几个Claude Code桌面端和Codex桌面端不同的感受吧：\n1. https://t.co/qIqNSFXAHt",
+      "url": "https://x.com/gengdaJ/status/2104402581376368782"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2103726156386320384",
+          "3_2103726156415717376"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103726169317413244",
+      "created_at": "2026-09-26T05:59:38.000Z",
+      "edit_history_tweet_ids": [
+        "2103726169317413244"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Woc5S6VLwQ",
+            "end": 177,
+            "expanded_url": "https://x.com/gengdaJ/status/2103726169317413244/photo/1",
+            "media_key": "3_2103726156386320384",
+            "start": 154,
+            "url": "https://t.co/Woc5S6VLwQ"
+          },
+          {
+            "display_url": "pic.x.com/Woc5S6VLwQ",
+            "end": 177,
+            "expanded_url": "https://x.com/gengdaJ/status/2103726169317413244/photo/2",
+            "media_key": "3_2103726156415717376",
+            "start": 154,
+            "url": "https://t.co/Woc5S6VLwQ"
+          }
+        ]
+      },
+      "id": "2103726169317413244",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "过去的三个月，就和做梦一样，这绝对是我人生目前为止最浓墨重彩的一笔！\n\n从六月底决定孤身一人来到上海律所实习，\n7月 10号正式来到上海，\n再到今天（9 月 26 号）离开上海，\n我经历了太多太多，\n给大家分享下我的故事吧。\n\n先说说收获，\n月收入增长至少五倍，\n换了 iPhone 18 pro max，\n做了第一次企业级 AI 分享，\n结识了各行业的大佬前辈，\n线下面基了超过 50 个 X 上的朋友——\n温总、杭哥、小晚姐、微微子、yiwei…太多太多朋友了\n\n但这次来到上海，\n刚开始我是抱着破釜沉舟的决心，\n身上的钱孤注一掷，\n全部投资到好的住宿环境（一个月接近一万），\n这里离公司通勤仅五分钟。\n\n为了对得起投资的钱，我把作息被强行调整成了：\n六点半起床\n七点吃完早饭\n健身一小时\n九点上班\n边工作边玩 AI\n六点下班\n继续做 AI 自媒体\n\n重复上面这个过程，一天天重复。\n就和我上大学的这两年一模一样。\n\n随着认知、内容和收入的提升，\n我的生活也渐渐变得不一样。\n\n我有了尝试更多新鲜玩意儿的勇气：\n1、飞去郑州做了一次企业内部的 AI 分享，\n获得了创始人的认可，我们还在长期联系。\n\n2、去了所谓的“高端餐厅”，过了 20 岁生日，对面就是东方明珠。\n\n3、奢侈地住了外滩边的酒店、去了度假山庄、玩最贵的汤泉、吃最贵的饭。\n\n4、在豪华酒店里面随机找陌生人进行采访，虽然因为对方职业特殊原因失败了。\n\n不是炫耀，我是想说如果我要去更大的世界、做更多有意思的事情，就必须培养一种“配得感”——世界上没有我不能去的地方、一切都是资源、一切都可以利用。\n\n我需要见识更多的东西，认识更多的人，来充裕我的生活和灵魂，人生来世一遭，别给自己设限，先爽了再说！\n\n而且，这些也都是我之后创作的素材，假如有一天我财富自由，我去写小说，这些都会成为里面的故事。\n\n最后，我临走的时候，还请我带教吃了顿饭，他问我为什么能是一个 06 年的人，为什么在这样的年纪过上了这样的生活，有什么品质是需要具备的。\n\n我笑着回答：“勇气、执行力、好奇心、坚持、自律、乐观、擅于孤独”。\n\nFake it till you make it"
+      },
+      "public_metrics": {
+        "bookmark_count": 108,
+        "impression_count": 50897,
+        "like_count": 395,
+        "quote_count": 6,
+        "reply_count": 520,
+        "retweet_count": 13
+      },
+      "text": "过去的三个月，就和做梦一样，这绝对是我人生目前为止最浓墨重彩的一笔！\n\n从六月底决定孤身一人来到上海律所实习，\n7月 10号正式来到上海，\n再到今天（9 月 26 号）离开上海，\n我经历了太多太多，\n给大家分享下我的故事吧。\n\n先说说收获，\n月收入增长至少五倍，\n换了 iPhone 18 pro max， https://t.co/Woc5S6VLwQ",
+      "url": "https://x.com/gengdaJ/status/2103726169317413244"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103528805717729747",
+      "created_at": "2026-09-25T16:55:23.000Z",
+      "edit_history_tweet_ids": [
+        "2103528805717729747"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/higgsfield_ai/…",
+            "end": 155,
+            "expanded_url": "https://twitter.com/higgsfield_ai/status/2103237751584010496",
+            "start": 132,
+            "url": "https://t.co/1XLb89iKTm"
+          }
+        ]
+      },
+      "id": "2103528805717729747",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 20898,
+        "like_count": 20,
+        "quote_count": 10,
+        "reply_count": 12,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103237751584010496",
+          "type": "quoted"
+        }
+      ],
+      "text": "爽了！搞 AI 短剧和视频类 Agent的有福了，大羊毛来咯🔥\n\nHiggsfield 拿出2000 万美元搞活动，API充多少送多少，100%额度返现，所有模型可用！（最高可获得 10 万美元额度）\n\n但一定注意，所有返现额度必须在 9 月 30 日之前用掉。 https://t.co/1XLb89iKTm",
+      "url": "https://x.com/gengdaJ/status/2103528805717729747"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2103048643645464576",
+          "3_2103049366659612672",
+          "3_2103049736089657344"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2103049745984037061",
+      "created_at": "2026-09-24T09:11:46.000Z",
+      "edit_history_tweet_ids": [
+        "2103049745984037061"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/xoaitxmUue",
+            "end": 163,
+            "expanded_url": "https://x.com/gengdaJ/status/2103049745984037061/photo/1",
+            "media_key": "3_2103048643645464576",
+            "start": 140,
+            "url": "https://t.co/xoaitxmUue"
+          },
+          {
+            "display_url": "pic.x.com/xoaitxmUue",
+            "end": 163,
+            "expanded_url": "https://x.com/gengdaJ/status/2103049745984037061/photo/2",
+            "media_key": "3_2103049366659612672",
+            "start": 140,
+            "url": "https://t.co/xoaitxmUue"
+          },
+          {
+            "display_url": "pic.x.com/xoaitxmUue",
+            "end": 163,
+            "expanded_url": "https://x.com/gengdaJ/status/2103049745984037061/photo/3",
+            "media_key": "3_2103049736089657344",
+            "start": 140,
+            "url": "https://t.co/xoaitxmUue"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 187,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2102939502646108332",
+            "start": 164,
+            "url": "https://t.co/iRXmjki7CZ"
+          }
+        ]
+      },
+      "id": "2103049745984037061",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/alchaincyf/zha…",
+              "end": 180,
+              "expanded_url": "https://github.com/alchaincyf/zhangxuefeng-skill/issues/63",
+              "start": 157,
+              "url": "https://t.co/WPrU1zBKMy"
+            }
+          ]
+        },
+        "text": "wtf？原来中国护照就能过Claude的KYC认证，之前谁在吓唬我！！！\n\n今天Pro 5h限额两下就到了，用的非常不爽，然后就点了升级Max，差点把我吓死😭😱\n\n然后我搜咸鱼怎么过KYC认证，结果发现关键词全被下架了。。。只能求助谷歌搜索。\n\n然后发现了一个神奇的GitHub issue提到过关于KYC的问题：https://t.co/WPrU1zBKMy\n\n发现其实KYC和Persona这家公司有关，其实Claude只是想验证你是否是真实人类，然后Persona本身是允许中国护照通过验证的，毕竟有在美国公司工作的中国人。。。\n\n然后我就上传了我的护照，手机扫码，拍摄护照，扫人脸，一下就过了，成功升级Max，yeah✌️！"
+      },
+      "public_metrics": {
+        "bookmark_count": 1541,
+        "impression_count": 477260,
+        "like_count": 1207,
+        "quote_count": 25,
+        "reply_count": 197,
+        "retweet_count": 88
+      },
+      "referenced_tweets": [
+        {
+          "id": "2102939502646108332",
+          "type": "quoted"
+        }
+      ],
+      "text": "wtf？原来中国护照就能过Claude的KYC认证，之前谁在吓唬我！！！\n\n今天Pro 5h限额两下就到了，用的非常不爽，然后就点了升级Max，差点把我吓死😭😱\n\n然后我搜咸鱼怎么过KYC认证，结果发现关键词全被下架了。。。只能求助谷歌搜索。\n\n然后发现了一个神奇的GitHub https://t.co/xoaitxmUue https://t.co/iRXmjki7CZ",
+      "url": "https://x.com/gengdaJ/status/2103049745984037061"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2102954815232102400",
+          "3_2102955384713715713"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2102955817838547207",
+      "created_at": "2026-09-24T02:58:32.000Z",
+      "edit_history_tweet_ids": [
+        "2102955817838547207"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "A shared Claude Code session on claude.ai/code",
+            "display_url": "claude.ai/code/claim-cre…",
+            "end": 175,
+            "expanded_url": "https://claude.ai/code/claim-credit/10",
+            "images": [
+              {
+                "height": 376,
+                "url": "https://pbs.twimg.com/news_img/2116776851171688448/3meU098l?format=png&name=orig",
+                "width": 616
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116776851171688448/3meU098l?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 152,
+            "status": 200,
+            "title": "Claude Code",
+            "unwound_url": "https://claude.ai/code/claim-credit/10",
+            "url": "https://t.co/FPlb4tLuFK"
+          },
+          {
+            "display_url": "pic.x.com/Jp5946QQfY",
+            "end": 199,
+            "expanded_url": "https://x.com/gengdaJ/status/2102955817838547207/photo/1",
+            "media_key": "3_2102954815232102400",
+            "start": 176,
+            "url": "https://t.co/Jp5946QQfY"
+          },
+          {
+            "display_url": "pic.x.com/Jp5946QQfY",
+            "end": 199,
+            "expanded_url": "https://x.com/gengdaJ/status/2102955817838547207/photo/2",
+            "media_key": "3_2102955384713715713",
+            "start": 176,
+            "url": "https://t.co/Jp5946QQfY"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 223,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2102939502646108332",
+            "start": 200,
+            "url": "https://t.co/iRXmjki7CZ"
+          }
+        ]
+      },
+      "id": "2102955817838547207",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "claude.ai/code/claim-cre…",
+              "end": 175,
+              "expanded_url": "https://claude.ai/code/claim-credit/10",
+              "start": 152,
+              "url": "https://t.co/QjIhzLi1zr"
+            }
+          ]
+        },
+        "text": "太爽了！！！今天刚用上Claude，官方就开始发福利了！所有Claude Pro和Max用户都能免费领取云端Claude Code额度，你的电脑关闭了，CC还能继续跑！\n\n连接Claude账号到GitHub账号即可领取，Pro 版本免费领取100$额度，Max 版本免费领取 250$额度。\n\n领取地址：https://t.co/QjIhzLi1zr\n或者在命令行输入/claim-credit 来领取。\n截止时间：10 月 7 日之前。"
+      },
+      "public_metrics": {
+        "bookmark_count": 112,
+        "impression_count": 48793,
+        "like_count": 86,
+        "quote_count": 3,
+        "reply_count": 34,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2102939502646108332",
+          "type": "quoted"
+        }
+      ],
+      "text": "太爽了！！！今天刚用上Claude，官方就开始发福利了！所有Claude Pro和Max用户都能免费领取云端Claude Code额度，你的电脑关闭了，CC还能继续跑！\n\n连接Claude账号到GitHub账号即可领取，Pro 版本免费领取100$额度，Max 版本免费领取 250$额度。\n\n领取地址：https://t.co/FPlb4tLuFK https://t.co/Jp5946QQfY https://t.co/iRXmjki7CZ",
+      "url": "https://x.com/gengdaJ/status/2102955817838547207"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2102938949497016320",
+          "3_2102939033659994112"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2102939502646108332",
+      "created_at": "2026-09-24T01:53:42.000Z",
+      "edit_history_tweet_ids": [
+        "2102939502646108332"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/9uXrHt3OU7",
+            "end": 166,
+            "expanded_url": "https://x.com/gengdaJ/status/2102939502646108332/photo/1",
+            "media_key": "3_2102938949497016320",
+            "start": 143,
+            "url": "https://t.co/9uXrHt3OU7"
+          },
+          {
+            "display_url": "pic.x.com/9uXrHt3OU7",
+            "end": 166,
+            "expanded_url": "https://x.com/gengdaJ/status/2102939502646108332/photo/2",
+            "media_key": "3_2102939033659994112",
+            "start": 143,
+            "url": "https://t.co/9uXrHt3OU7"
+          }
+        ]
+      },
+      "id": "2102939502646108332",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "看到大家都在说Opus5.5多么多么牛逼，说不眼红，肯定是假的，我是喜欢用Codex，但架不住它的内容交互模式确实不讨人喜欢。。。\n\n所以，我做了一次相当充足的准备，在昨晚凌晨十二点，我重新开通了Claude Pro。\n\n这一次，我清理了Mac基本所有的Claude配置，把Clash Verge换成了Shadowrocket且重新配置网络分流规则。\n\n在新iPhone上面注册了新的Gmail，养了一天，然后用这个Gmail在iPhone上面新注册了Claude账号。\n\n最后用独享的美国IP、新加坡卡，成功在Mac登入Claude账号并购买了Claude Pro会员。\n\n截止目前，iPhone和Mac的Claude都能正常使用。\n\n试了一下网页端的Opus5.5，这交互感觉真特喵爽啊！！！而且每一个文字感觉都比Astra优雅很多倍。。。\n\n兄弟们，等我再用用，如果稳定了，一定给大家出保姆级教程！就是细到那种连银行卡地址怎么去找都给大家截图带提示词的程度！"
+      },
+      "public_metrics": {
+        "bookmark_count": 358,
+        "impression_count": 637026,
+        "like_count": 388,
+        "quote_count": 10,
+        "reply_count": 127,
+        "retweet_count": 21
+      },
+      "text": "看到大家都在说Opus5.5多么多么牛逼，说不眼红，肯定是假的，我是喜欢用Codex，但架不住它的内容交互模式确实不讨人喜欢。。。\n\n所以，我做了一次相当充足的准备，在昨晚凌晨十二点，我重新开通了Claude Pro。\n\n这一次，我清理了Mac基本所有的Claude配置，把Clash https://t.co/9uXrHt3OU7",
+      "url": "https://x.com/gengdaJ/status/2102939502646108332"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2102929247937646592",
+          "3_2102929261518843904"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2102929512694796438",
+      "created_at": "2026-09-24T01:14:01.000Z",
+      "edit_history_tweet_ids": [
+        "2102929512694796438"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 124,
+            "id": "2096180083556044800",
+            "start": 115,
+            "username": "PhAILabs"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/KAjLUGFts5",
+            "end": 172,
+            "expanded_url": "https://x.com/gengdaJ/status/2102929512694796438/photo/1",
+            "media_key": "3_2102929247937646592",
+            "start": 149,
+            "url": "https://t.co/KAjLUGFts5"
+          },
+          {
+            "display_url": "pic.x.com/KAjLUGFts5",
+            "end": 172,
+            "expanded_url": "https://x.com/gengdaJ/status/2102929512694796438/photo/2",
+            "media_key": "3_2102929261518843904",
+            "start": 149,
+            "url": "https://t.co/KAjLUGFts5"
+          },
+          {
+            "display_url": "x.com/PhAILabs/statu…",
+            "end": 196,
+            "expanded_url": "https://twitter.com/PhAILabs/status/2102771468165906800",
+            "start": 173,
+            "url": "https://t.co/ci95Kak0OB"
+          }
+        ]
+      },
+      "id": "2102929512694796438",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 124,
+              "id": "2096180083556044800",
+              "start": 115,
+              "username": "PhAILabs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "science-buddy.io",
+              "end": 960,
+              "expanded_url": "https://science-buddy.io/",
+              "start": 937,
+              "url": "https://t.co/fCzPYnPvjx"
+            },
+            {
+              "display_url": "arxiv.org/abs/2609.17523",
+              "end": 987,
+              "expanded_url": "https://arxiv.org/abs/2609.17523",
+              "start": 964,
+              "url": "https://t.co/dcnWlvU9f3"
+            },
+            {
+              "display_url": "phai-labs.com/papers/science…",
+              "end": 1018,
+              "expanded_url": "https://phai-labs.com/papers/sciencebuddy/",
+              "start": 995,
+              "url": "https://t.co/ynVLkjDDHF"
+            },
+            {
+              "display_url": "github.com/Gen-Verse/Scie…",
+              "end": 1049,
+              "expanded_url": "https://github.com/Gen-Verse/ScienceBuddy",
+              "start": 1026,
+              "url": "https://t.co/9nXpfL7Odt"
+            }
+          ]
+        },
+        "text": "我越来越觉得，在AI时代，有部分医学生真的能成为世界巨星。\n\n癌症、艾滋病、阿尔兹海默症、渐冻症......这些以目前的医疗手段束手无策的疾病，在实现RSI之后，很多生物医学从业者真的可能和Agent一起攻破这些旷世生物难题。\n\n@PhAILabs新推出的ScienceBuddy在加速这个过程。\n它让医学生也终于有了自己的AI科研工作台，而且，完全免费！\n\n所以，我迫不及待，让我那在西安交大（打算去华西）苦修医学的好兄弟试了试🥰他一顿猛如虎的操作之后，告诉我，ScienceBuddy对他真的很实用！👇\n\n1.在医学实验没有选题思路的时候，帮助给出选题参考。\n\n2.制定好实验计划之后，或者实验失败的时候，可以帮忙排查实验漏洞。\n\n3.检索文献和跑分析代码的时候，把结果和每一步分析的过程都在右侧呈现，直观易懂。\n\n4.读文献的时候，ScienceBuddy直接批量阅读并且按照要求输出，不用痛苦地一篇篇看！\n而且需要引用参考文献作为自己的观点时，但不知道引用文章中哪一部分，可以直接用它生成证据表。\n\n5实验研究员（亲手在实验室操作试剂、液体、生物样本做实体实验）需要进行组学数据分析时很有帮助！\n（1）差异表达分析。一批组织样本测序后得到几千上万个基因表达量的巨大表格，经ScienceBuddy分析后，产出差异基因表格，写清楚哪些基因升高、哪些降低、可信度多少。\n（2）富集分析。单独看一个个基因名字没意义，把这些差异基因比对数据库，观察是否集中在某些通路。\n（3）画图。不只是内置好火山图、热图这些现成模板；还可以自定义代码，绘制其他科研数据图，只要是数据类统计图表，都可绘制。\n（4）附脚本，这一步好兄弟特别兴奋！！！写好一套指令，换一批数据，直接运行脚本就能重新跑出全套结果和图片。\n\n说实话，我看不懂这些数据库的含义，但我从字里行间李能感受到，ScienceBuddy对他做实验的帮助是巨大的。\n\n而且随着科研人员的使用和持续反馈，ScienceBuddy持续迭代到RSI的那一天，我觉得，人类离延长寿命的那一天，真的不远了。。。\n\n你也可以把ScienceBuddy 分享给你那懂医学的朋友，让他为你的长寿之路添砖加瓦😆\nScienceBuddy传送门：https://t.co/fCzPYnPvjx\n论文：https://t.co/dcnWlvU9f3\n相关技术报告：https://t.co/ynVLkjDDHF\nGitHub：https://t.co/9nXpfL7Odt\n但是ScienBuddy目前为 Preview 版本，分析结果需要自行核验后再用于研究！"
+      },
+      "public_metrics": {
+        "bookmark_count": 144,
+        "impression_count": 104776,
+        "like_count": 146,
+        "quote_count": 14,
+        "reply_count": 42,
+        "retweet_count": 26
+      },
+      "referenced_tweets": [
+        {
+          "id": "2102771468165906800",
+          "type": "quoted"
+        }
+      ],
+      "text": "我越来越觉得，在AI时代，有部分医学生真的能成为世界巨星。\n\n癌症、艾滋病、阿尔兹海默症、渐冻症......这些以目前的医疗手段束手无策的疾病，在实现RSI之后，很多生物医学从业者真的可能和Agent一起攻破这些旷世生物难题。\n\n@PhAILabs新推出的ScienceBuddy在加速这个过程。 https://t.co/KAjLUGFts5 https://t.co/ci95Kak0OB",
+      "url": "https://x.com/gengdaJ/status/2102929512694796438"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2102557400255647744",
+          "3_2102558399418544128"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2102559119672852951",
+      "created_at": "2026-09-23T00:42:12.000Z",
+      "edit_history_tweet_ids": [
+        "2102559119672852951"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/PpICw0KcJ3",
+            "end": 191,
+            "expanded_url": "https://x.com/gengdaJ/status/2102559119672852951/photo/1",
+            "media_key": "3_2102557400255647744",
+            "start": 168,
+            "url": "https://t.co/PpICw0KcJ3"
+          },
+          {
+            "display_url": "pic.x.com/PpICw0KcJ3",
+            "end": 191,
+            "expanded_url": "https://x.com/gengdaJ/status/2102559119672852951/photo/2",
+            "media_key": "3_2102558399418544128",
+            "start": 168,
+            "url": "https://t.co/PpICw0KcJ3"
+          },
+          {
+            "display_url": "x.com/OpenAI/status/…",
+            "end": 215,
+            "expanded_url": "https://twitter.com/OpenAI/status/2102460975790137662",
+            "start": 192,
+            "url": "https://t.co/Qs1PURP8Uw"
+          }
+        ]
+      },
+      "id": "2102559119672852951",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "WTF？？？GPT-6 Sol和GPT-6 Luna正式上线，简直是价格屠夫，Luna直接比DeepSeek还便宜，咱老百姓也能爽玩Codex了！\n\nGPT-6 Sol和GPT-6Luna比GPT 5.6同系列模型便宜一半，也就是比GPT-6Astra要便宜四倍！！！\n\n等于说，我现在就只用GPT-6 Sol模型，我只要有一个GPT Pro20×账号，等于原本Astra状态下的五个账号。\n\n但是我有两个20×，所以我等于有了10个账号！！！Crazy！！！\n\n我现在已经把所有Astra定时任务全部切换成了Sol。\n也准备把Luna的API全量替代原来的DeepSeek V4.1-Flash。\n\n感觉以后只要不是特别大的开发项目，就用Sol+Luna已经绰绰有余，而且对咱这种非专业编程人员性价比简直拉到满中满！"
+      },
+      "public_metrics": {
+        "bookmark_count": 35,
+        "impression_count": 70733,
+        "like_count": 91,
+        "quote_count": 1,
+        "reply_count": 100,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2102460975790137662",
+          "type": "quoted"
+        }
+      ],
+      "text": "WTF？？？GPT-6 Sol和GPT-6 Luna正式上线，简直是价格屠夫，Luna直接比DeepSeek还便宜，咱老百姓也能爽玩Codex了！\n\nGPT-6 Sol和GPT-6Luna比GPT 5.6同系列模型便宜一半，也就是比GPT-6Astra要便宜四倍！！！\n\n等于说，我现在就只用GPT-6 Sol模型，我只要有一个GPT https://t.co/PpICw0KcJ3 https://t.co/Qs1PURP8Uw",
+      "url": "https://x.com/gengdaJ/status/2102559119672852951"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2108086705458921472",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108086705458909184",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108086704766885888",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108086705463144448",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2107281944442781696",
+        "type": "video"
+      },
+      {
+        "media_key": "13_2105478866655649792",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2105478892496855040",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2105469924181442560",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2105471321404792832",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2105471773404008448",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2105472706066161665",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2105465255430369280",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2105465270777331712",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104460357242957825",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104460357234466816",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104460357242920960",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104460357234475009",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104414516897579008",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104413208106954752",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104413377758208000",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104397606189473792",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104398400565506049",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104400350983884800",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2104402118669156352",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2103726156386320384",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2103726156415717376",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2103048643645464576",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2103049366659612672",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2103049736089657344",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2102954815232102400",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2102955384713715713",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2102938949497016320",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2102939033659994112",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2102929247937646592",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2102929261518843904",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2102557400255647744",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2102558399418544128",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2107111382588243968"
+          ]
+        },
+        "author_id": "1895453094361890816",
+        "conversation_id": "2107112781854245256",
+        "created_at": "2026-10-05T14:16:50.000Z",
+        "edit_history_tweet_ids": [
+          "2107112781854245256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 257,
+              "id": "2101653481643778048",
+              "start": 242,
+              "username": "JeanPhilMadame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTlaBmGiQX",
+              "end": 281,
+              "expanded_url": "https://x.com/higgsfield/status/2107112781854245256/video/1",
+              "media_key": "13_2107111382588243968",
+              "start": 258,
+              "url": "https://t.co/GTlaBmGiQX"
+            }
+          ]
+        },
+        "id": "2107112781854245256",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4600,
+          "impression_count": 5111559,
+          "like_count": 5928,
+          "quote_count": 708,
+          "reply_count": 626,
+          "retweet_count": 615
+        },
+        "text": "Officially, every viral AI influencer was made on Higgsfield.\n\nMake one with your face or from scratch. Then jump on viral trends with Genjutsu.\n\nTry up to 5 generations free.\n\nAvailable now in Higgsfield and via ChatGPT Extension.\n\nCredits: @JeanPhilMadame https://t.co/GTlaBmGiQX"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2105465255430369280",
+            "3_2105465270777331712"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2105465426134315335",
+        "created_at": "2026-10-01T01:10:49.000Z",
+        "edit_history_tweet_ids": [
+          "2105465426134315335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 117,
+              "id": "1753271414382350336",
+              "start": 107,
+              "username": "Tiny_Fish"
+            },
+            {
+              "end": 138,
+              "id": "2086579254138204160",
+              "start": 130,
+              "username": "MonidHQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhden2Jd4r",
+              "end": 188,
+              "expanded_url": "https://x.com/gengdaJ/status/2105465426134315335/photo/1",
+              "media_key": "3_2105465255430369280",
+              "start": 165,
+              "url": "https://t.co/zhden2Jd4r"
+            },
+            {
+              "display_url": "pic.x.com/zhden2Jd4r",
+              "end": 188,
+              "expanded_url": "https://x.com/gengdaJ/status/2105465426134315335/photo/2",
+              "media_key": "3_2105465270777331712",
+              "start": 165,
+              "url": "https://t.co/zhden2Jd4r"
+            },
+            {
+              "display_url": "x.com/shengkunye/sta…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/shengkunye/status/2105382345092264390",
+              "start": 189,
+              "url": "https://t.co/AG21WQMz9C"
+            }
+          ]
+        },
+        "id": "2105465426134315335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 117,
+                "id": "1753271414382350336",
+                "start": 107,
+                "username": "Tiny_Fish"
+              },
+              {
+                "end": 138,
+                "id": "2086579254138204160",
+                "start": 130,
+                "username": "MonidHQ"
+              }
+            ]
+          },
+          "text": "牛逼了，TinyFish除了Search和Fetch，还可以储存你的浏览器网站登录状态，所有Agent都能复用。\n\n之前所有的Agent运行Playwright浏览器之类的，每次都需要重新登录Google账号，现在@Tiny_Fish直接复用登录态，这次再接入@MonidHQ——Agent界的OpenRouter，想象力很大。\n\n而且更牛逼的是，假如你常用的网站，储存在多个Google Profile里面，TinyFish也可以统一存储。\n\n比如你的X在账号1，YouTube在账号2，它们就可以一起被储存在TinyFish的Browser Context profiles里面。\n\n另外TinyFish还提供云端浏览器，所以也不用担心电脑关机，而且有专门的反爬和代理机制，把很多脚本、任务托管在云端执行就很爽。\n\n比如，我要同时发布视频推文到X和YouTube，就可以调用TinyFish的云端浏览器，让它来帮我执行这个任务。"
+        },
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 120457,
+          "like_count": 50,
+          "quote_count": 12,
+          "reply_count": 36,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105382345092264390",
+            "type": "quoted"
+          }
+        ],
+        "text": "牛逼了，TinyFish除了Search和Fetch，还可以储存你的浏览器网站登录状态，所有Agent都能复用。\n\n之前所有的Agent运行Playwright浏览器之类的，每次都需要重新登录Google账号，现在@Tiny_Fish直接复用登录态，这次再接入@MonidHQ——Agent界的OpenRouter，想象力很大。 https://t.co/zhden2Jd4r https://t.co/AG21WQMz9C"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2105382271280988160"
+          ]
+        },
+        "author_id": "1939084397044740096",
+        "conversation_id": "2105382345092264390",
+        "created_at": "2026-09-30T19:40:41.000Z",
+        "edit_history_tweet_ids": [
+          "2105382345092264390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEf1wDHXGo",
+              "end": 311,
+              "expanded_url": "https://x.com/shengkunye/status/2105382345092264390/video/1",
+              "media_key": "13_2105382271280988160",
+              "start": 288,
+              "url": "https://t.co/nEf1wDHXGo"
+            }
+          ]
+        },
+        "id": "2105382345092264390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 315,
+                "id": "1753271414382350336",
+                "start": 305,
+                "username": "Tiny_Fish"
+              },
+              {
+                "end": 328,
+                "id": "2086579254138204160",
+                "start": 320,
+                "username": "MonidHQ"
+              }
+            ]
+          },
+          "text": "We just killed the login wall.\n\nYour agent can now log in once and stay signed in. \n\n>LinkedIn, Amazon, Workday, Facebook, Instagram.\n>One browser, one profile.\n>Every run after that starts authenticated.\n\nNobody types their password every time they open a tab. Agents shouldn't either.\n\nMade possible by @Tiny_Fish and @MonidHQ."
+        },
+        "public_metrics": {
+          "bookmark_count": 487,
+          "impression_count": 97989,
+          "like_count": 387,
+          "quote_count": 37,
+          "reply_count": 74,
+          "retweet_count": 43
+        },
+        "text": "We just killed the login wall.\n\nYour agent can now log in once and stay signed in. \n\n&gt;LinkedIn, Amazon, Workday, Facebook, Instagram.\n&gt;One browser, one profile.\n&gt;Every run after that starts authenticated.\n\nNobody types their password every time they open a tab. Agents shouldn't https://t.co/nEf1wDHXGo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2104419207203131392",
+            "3_2104419207198961664",
+            "3_2104419207194836992",
+            "3_2104419205303189504"
+          ]
+        },
+        "author_id": "2101554864652496896",
+        "conversation_id": "2104419259535548705",
+        "created_at": "2026-09-28T03:53:44.000Z",
+        "edit_history_tweet_ids": [
+          "2104419259535548705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oidi3uivLS",
+              "end": 167,
+              "expanded_url": "https://x.com/heyMisheng/status/2104419259535548705/photo/1",
+              "media_key": "3_2104419207203131392",
+              "start": 144,
+              "url": "https://t.co/oidi3uivLS"
+            },
+            {
+              "display_url": "pic.x.com/oidi3uivLS",
+              "end": 167,
+              "expanded_url": "https://x.com/heyMisheng/status/2104419259535548705/photo/2",
+              "media_key": "3_2104419207198961664",
+              "start": 144,
+              "url": "https://t.co/oidi3uivLS"
+            },
+            {
+              "display_url": "pic.x.com/oidi3uivLS",
+              "end": 167,
+              "expanded_url": "https://x.com/heyMisheng/status/2104419259535548705/photo/3",
+              "media_key": "3_2104419207194836992",
+              "start": 144,
+              "url": "https://t.co/oidi3uivLS"
+            },
+            {
+              "display_url": "pic.x.com/oidi3uivLS",
+              "end": 167,
+              "expanded_url": "https://x.com/heyMisheng/status/2104419259535548705/photo/4",
+              "media_key": "3_2104419205303189504",
+              "start": 144,
+              "url": "https://t.co/oidi3uivLS"
+            }
+          ]
+        },
+        "id": "2104419259535548705",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "20岁，我成了A10 大佬唯一弟子，入职不到两月分成10W+，自己也谈过几单下来10W+的律所培训合作。\n\n虽然看似小有成就，但这是我踩了无数坑、拼了命抓住每一次机会汇聚成的结果。\n\n大一的时候，我还是一个很传统的八爪鱼法学生，竞赛科研绩点一起抓，用一年半时间拿了3个国奖、15个省奖。\n\n后来，学校保研政策突然变了🥲，我才觉醒之前玩的都是过家家游戏，逐渐把重心转移到真实社会。\n\nAI、法律实务、自媒体、创业……我都做，而且我发现，来到新的游戏规则，我还是挺会玩！\n\n之前的一次跨国研学，本是再普通不过的纯旅游活动，但晚上的慈善晚宴，我跑去和各行业大佬social，硬生生碰出了意想不到的机会——有幸参与到联合国环境规划署在新加坡的项目。\n\n后来去深圳某红圈所实习，发现自己是纯牛马😅😅😅前途没有希望，于是用 ChatGPT搜索在深圳本地举办的法律界商务活动。\n\n有个活动相当牛逼，参会的老板都交了6万会员费，但我又肯定没有那个实力🥺。。。\n\n所以我想了个歪招🤪，去找到了活动主理人的社媒，私信问能不能去兼职帮忙办活动。\n\n就是在那里，我遇到了现在的老板。他应该是觉得这活动太无聊，就和我聊了起来。\n\n刚好聊到 AI 这块，他非常感兴趣，又知道我过去的法律背景，最后就直接邀请我去上海跟着他干。\n\n更疯狂的是，当天凌晨他发出的邀请，我第二天毫不犹豫，就直接跟我老板从深圳飞去了上海。\n\n我当时的想法很简单：这个机会可能会把我带到一个更大的世界，那我就去，莽就完了！👊🏼\n\n这一次，我赌对了，我成了他目前唯一正式带的徒弟。\n\n很多朋友说我很会向上社交，我以前也这么觉得，后来发现不完全是。\n\n诚然，我确实慕强，但不太怯。碰到比我厉害很多的人，我不会急着证明其实我也很厉害，毕竟我是真草台。\n\n我更想知道：你为什么这么厉害？你是怎么做到的？这里面有什么是我可以学走的？\n\n社交只是入口，从里面收获，擅于从里面收获，才是核心能力。\n\n我现在20岁，X上比我会赚钱、会AI、会做产品、会创业的佬太多了。我现在做出的这些东西，放进更大的世界里，都还很渺小。\n\n但这不妨碍我对自己有一种近乎固执的自信：我会迅速地成长。也能在较短时间找到自己在X里的生态位。\n\n接下来我也会在X上持续分享AI、自媒体、金融、投资、法律等领域的实战知识👇\n1、在处理社交类问题颇有心得，比如结交贵人（年长/同龄/年下）、家庭关系处理等。\n2、我目前深耕于伪投资、伪金融领域，如各位有被诓骗/要开脱的需求，欢迎咨询（限国内和新加坡），我的案例经验绝对是少见的丰富。\n3、我是个大E人，所以在销售方面也比较有经验，之前在法律AI领域也成交过好几个大项目，接下来也会继续培养此技能。\n\n欢迎大家来和我交朋友～"
+        },
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 50990,
+          "like_count": 73,
+          "quote_count": 8,
+          "reply_count": 168,
+          "retweet_count": 5
+        },
+        "text": "20岁，我成了A10 大佬唯一弟子，入职不到两月分成10W+，自己也谈过几单下来10W+的律所培训合作。\n\n虽然看似小有成就，但这是我踩了无数坑、拼了命抓住每一次机会汇聚成的结果。\n\n大一的时候，我还是一个很传统的八爪鱼法学生，竞赛科研绩点一起抓，用一年半时间拿了3个国奖、15个省奖。 https://t.co/oidi3uivLS"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100002990128234496"
+          ]
+        },
+        "author_id": "1381048313290498049",
+        "conversation_id": "2100002993001373810",
+        "created_at": "2026-09-15T23:25:04.000Z",
+        "edit_history_tweet_ids": [
+          "2100002993001373810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0Mf59KhCG",
+              "end": 67,
+              "expanded_url": "https://x.com/raealisa/status/2100002993001373810/photo/1",
+              "media_key": "3_2100002990128234496",
+              "start": 44,
+              "url": "https://t.co/Y0Mf59KhCG"
+            }
+          ]
+        },
+        "id": "2100002993001373810",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 19161,
+          "impression_count": 15036840,
+          "like_count": 12967,
+          "quote_count": 558,
+          "reply_count": 98,
+          "retweet_count": 753
+        },
+        "text": "chatgpt actually gives great glow up advice https://t.co/Y0Mf59KhCG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2103235366501392384"
+          ]
+        },
+        "author_id": "1712267009483022336",
+        "conversation_id": "2103237751584010496",
+        "created_at": "2026-09-24T21:38:50.000Z",
+        "edit_history_tweet_ids": [
+          "2103237751584010496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 123,
+              "id": "14642331",
+              "start": 110,
+              "username": "gregisenberg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzLb2cV50G",
+              "end": 302,
+              "expanded_url": "https://x.com/higgsfield_ai/status/2103237751584010496/video/1",
+              "media_key": "13_2103235366501392384",
+              "start": 279,
+              "url": "https://t.co/AzLb2cV50G"
+            },
+            {
+              "display_url": "x.com/higgsfield/sta…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/higgsfield/status/2103234987403481500",
+              "start": 303,
+              "url": "https://t.co/ILYWQzYTaj"
+            }
+          ]
+        },
+        "id": "2103237751584010496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 123,
+                "id": "14642331",
+                "start": 110,
+                "username": "gregisenberg"
+              }
+            ]
+          },
+          "text": "Build your next business with GPT-6 Astra + Higgsfield API. We’re backing builders with a $20M API cashback.\n\n@gregisenberg filmed a step-by-step guide on YouTube 24 hours ago you can copy and implement.\n\nGet 100% of your API spend back instantly in API credits, on every model. Up to $100,000 per business.\n\nSpend $100,000 → get $100,000 back in API credits, for a total of $200,000 worth of API usage.\n\nUnused cashback expires on September 30.\n\nCan’t wait to see what you’ll build."
+        },
+        "public_metrics": {
+          "bookmark_count": 901,
+          "impression_count": 347496,
+          "like_count": 748,
+          "quote_count": 32,
+          "reply_count": 69,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103234987403481500",
+            "type": "quoted"
+          }
+        ],
+        "text": "Build your next business with GPT-6 Astra + Higgsfield API. We’re backing builders with a $20M API cashback.\n\n@gregisenberg filmed a step-by-step guide on YouTube 24 hours ago you can copy and implement.\n\nGet 100% of your API spend back instantly in API credits, on every model. https://t.co/AzLb2cV50G https://t.co/ILYWQzYTaj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2102938949497016320",
+            "3_2102939033659994112"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2102939502646108332",
+        "created_at": "2026-09-24T01:53:42.000Z",
+        "edit_history_tweet_ids": [
+          "2102939502646108332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9uXrHt3OU7",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2102939502646108332/photo/1",
+              "media_key": "3_2102938949497016320",
+              "start": 143,
+              "url": "https://t.co/9uXrHt3OU7"
+            },
+            {
+              "display_url": "pic.x.com/9uXrHt3OU7",
+              "end": 166,
+              "expanded_url": "https://x.com/gengdaJ/status/2102939502646108332/photo/2",
+              "media_key": "3_2102939033659994112",
+              "start": 143,
+              "url": "https://t.co/9uXrHt3OU7"
+            }
+          ]
+        },
+        "id": "2102939502646108332",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "看到大家都在说Opus5.5多么多么牛逼，说不眼红，肯定是假的，我是喜欢用Codex，但架不住它的内容交互模式确实不讨人喜欢。。。\n\n所以，我做了一次相当充足的准备，在昨晚凌晨十二点，我重新开通了Claude Pro。\n\n这一次，我清理了Mac基本所有的Claude配置，把Clash Verge换成了Shadowrocket且重新配置网络分流规则。\n\n在新iPhone上面注册了新的Gmail，养了一天，然后用这个Gmail在iPhone上面新注册了Claude账号。\n\n最后用独享的美国IP、新加坡卡，成功在Mac登入Claude账号并购买了Claude Pro会员。\n\n截止目前，iPhone和Mac的Claude都能正常使用。\n\n试了一下网页端的Opus5.5，这交互感觉真特喵爽啊！！！而且每一个文字感觉都比Astra优雅很多倍。。。\n\n兄弟们，等我再用用，如果稳定了，一定给大家出保姆级教程！就是细到那种连银行卡地址怎么去找都给大家截图带提示词的程度！"
+        },
+        "public_metrics": {
+          "bookmark_count": 358,
+          "impression_count": 637026,
+          "like_count": 388,
+          "quote_count": 10,
+          "reply_count": 127,
+          "retweet_count": 21
+        },
+        "text": "看到大家都在说Opus5.5多么多么牛逼，说不眼红，肯定是假的，我是喜欢用Codex，但架不住它的内容交互模式确实不讨人喜欢。。。\n\n所以，我做了一次相当充足的准备，在昨晚凌晨十二点，我重新开通了Claude Pro。\n\n这一次，我清理了Mac基本所有的Claude配置，把Clash https://t.co/9uXrHt3OU7"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2102598429142925312"
+          ]
+        },
+        "author_id": "2096180083556044800",
+        "conversation_id": "2102771468165906800",
+        "created_at": "2026-09-23T14:46:00.000Z",
+        "edit_history_tweet_ids": [
+          "2102771468165906800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/enOIJ9H9VC",
+              "end": 297,
+              "expanded_url": "https://x.com/PhAILabs/status/2102771468165906800/video/1",
+              "media_key": "13_2102598429142925312",
+              "start": 274,
+              "url": "https://t.co/enOIJ9H9VC"
+            }
+          ]
+        },
+        "id": "2102771468165906800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 529,
+                "start": 516,
+                "tag": "ScienceBuddy"
+              },
+              {
+                "end": 539,
+                "start": 530,
+                "tag": "PhAILabs"
+              },
+              {
+                "end": 551,
+                "start": 540,
+                "tag": "AI4Science"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "science-buddy.io",
+                "end": 513,
+                "expanded_url": "http://science-buddy.io",
+                "start": 490,
+                "url": "https://t.co/lECPnbS28t"
+              }
+            ]
+          },
+          "text": "Introducing ScienceBuddy — a free workspace for scientific agents that improve through researcher collaboration. \n\nUse GPT-6 in ScienceBuddy at no cost. GPU-accelerated, and fused with the JEV framework.\n\n🧵 Two loops:\n🔹 Inner loop — refines the agent harness\n🔹 Outer loop — trains the model with rubric-guided RL  \nTogether: Recursive-in-Recursive Self-Improvement.\n\nScienceBuddy explores how scientific agents can improve through sustained collaboration with researchers.  \n\n🔬Try it free: https://t.co/lECPnbS28t \n\n#ScienceBuddy #PhAILabs #AI4Science"
+        },
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 1264369,
+          "like_count": 876,
+          "quote_count": 54,
+          "reply_count": 124,
+          "retweet_count": 128
+        },
+        "text": "Introducing ScienceBuddy — a free workspace for scientific agents that improve through researcher collaboration. \n\nUse GPT-6 in ScienceBuddy at no cost. GPU-accelerated, and fused with the JEV framework.\n\n🧵 Two loops:\n🔹 Inner loop — refines the agent harness\n🔹 Outer loop — https://t.co/enOIJ9H9VC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2102460948430966784"
+          ]
+        },
+        "author_id": "4398626122",
+        "conversation_id": "2102460975790137662",
+        "created_at": "2026-09-22T18:12:13.000Z",
+        "edit_history_tweet_ids": [
+          "2102460975790137662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LiVE4rbFt",
+              "end": 303,
+              "expanded_url": "https://x.com/OpenAI/status/2102460975790137662/video/1",
+              "media_key": "13_2102460948430966784",
+              "start": 280,
+              "url": "https://t.co/5LiVE4rbFt"
+            }
+          ]
+        },
+        "id": "2102460975790137662",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 promotional pricing."
+        },
+        "public_metrics": {
+          "bookmark_count": 6244,
+          "impression_count": 10235612,
+          "like_count": 53043,
+          "quote_count": 3051,
+          "reply_count": 2211,
+          "retweet_count": 5226
+        },
+        "text": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and https://t.co/5LiVE4rbFt"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2108349221334319380",
+    "next_token": "b26v89c19zqg8o3juziwmrnzxnrwnp6b8ku5n43auc9dp",
+    "oldest_id": "2102559119672852951",
+    "result_count": 17
+  }
+}

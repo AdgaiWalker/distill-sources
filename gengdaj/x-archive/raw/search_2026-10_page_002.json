@@ -1,0 +1,1189 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T10:41:21.000Z",
+      "edit_history_tweet_ids": [
+        "2115393476334612720"
+      ],
+      "id": "2115393476334612720",
+      "in_reply_to_user_id": "1876261876302295041",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 804,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115273974817100128",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@suyuan1711 apple订阅要出啊。。。我的要出，真是没招了，然后下一步就是被封。。。",
+      "url": "https://x.com/gengdaJ/status/2115393476334612720"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T10:32:20.000Z",
+      "edit_history_tweet_ids": [
+        "2115391207736283468"
+      ],
+      "id": "2115391207736283468",
+      "in_reply_to_user_id": "1492195583699951620",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 5165,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115349867329708277",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Khazix0918 可以直接把Codex的computer use封装成lcu这样mcp的形式给claude装上，就更简单",
+      "url": "https://x.com/gengdaJ/status/2115391207736283468"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T10:31:33.000Z",
+      "edit_history_tweet_ids": [
+        "2115391009081393340"
+      ],
+      "id": "2115391009081393340",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 245,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115350337179807903",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c @Kimi_Moonshot 牛啊牛啊",
+      "url": "https://x.com/gengdaJ/status/2115391009081393340"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T07:58:26.000Z",
+      "edit_history_tweet_ids": [
+        "2115352478636286447"
+      ],
+      "id": "2115352478636286447",
+      "in_reply_to_user_id": "1792608085409939456",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 327,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115117112545128864",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 包的杭哥😄",
+      "url": "https://x.com/gengdaJ/status/2115352478636286447"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T06:14:40.000Z",
+      "edit_history_tweet_ids": [
+        "2115326363527942547"
+      ],
+      "id": "2115326363527942547",
+      "in_reply_to_user_id": "701821719061745664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1402,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115322016270315628",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@noname_nonce OK，谢谢！",
+      "url": "https://x.com/gengdaJ/status/2115326363527942547"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T04:36:41.000Z",
+      "edit_history_tweet_ids": [
+        "2115301706946994672"
+      ],
+      "id": "2115301706946994672",
+      "in_reply_to_user_id": "2032979032535609344",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1401,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115301360338120881",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CaptainXTop 其实我有，但搞忘了切换。。。",
+      "url": "https://x.com/gengdaJ/status/2115301706946994672"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T04:28:18.000Z",
+      "edit_history_tweet_ids": [
+        "2115299596754882619"
+      ],
+      "id": "2115299596754882619",
+      "in_reply_to_user_id": "1986087438721449984",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1623,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115260723345653930",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaoxiaodong Claude Code接的DeepSeek啊，网络断了用不了Codex这些",
+      "url": "https://x.com/gengdaJ/status/2115299596754882619"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T04:27:30.000Z",
+      "edit_history_tweet_ids": [
+        "2115299393213788648"
+      ],
+      "id": "2115299393213788648",
+      "in_reply_to_user_id": "1121235746164076544",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1281,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115298741641191448",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nic0203 没退，今天又充了几百美金进去，一分没退，全封了",
+      "url": "https://x.com/gengdaJ/status/2115299393213788648"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T02:32:29.000Z",
+      "edit_history_tweet_ids": [
+        "2115270447986299013"
+      ],
+      "id": "2115270447986299013",
+      "in_reply_to_user_id": "1792608085409939456",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 544,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115260259925111061",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 杭哥 你试试 grok 你大概率换 ipv6 连不上😅",
+      "url": "https://x.com/gengdaJ/status/2115270447986299013"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T01:32:29.000Z",
+      "edit_history_tweet_ids": [
+        "2115255350127739361"
+      ],
+      "id": "2115255350127739361",
+      "in_reply_to_user_id": "2088049876693405696",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 768,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115253927600148939",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dongshan_lab @CaiZhao12835 桌面端啊",
+      "url": "https://x.com/gengdaJ/status/2115255350127739361"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T01:23:55.000Z",
+      "edit_history_tweet_ids": [
+        "2115253193659793786"
+      ],
+      "id": "2115253193659793786",
+      "in_reply_to_user_id": "2010272176830840832",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3366,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115250122506514494",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xingbugengming 我一次没退过，应该会退给我吧",
+      "url": "https://x.com/gengdaJ/status/2115253193659793786"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T01:19:52.000Z",
+      "edit_history_tweet_ids": [
+        "2115252172917248173"
+      ],
+      "id": "2115252172917248173",
+      "in_reply_to_user_id": "1882470734192324609",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3400,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115250732312186949",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CaiZhao12835 中国护照可以过的，我发誓以后再也不用Claude Code CLI了",
+      "url": "https://x.com/gengdaJ/status/2115252172917248173"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115244257837768704"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-28T00:51:38.000Z",
+      "edit_history_tweet_ids": [
+        "2115245071159419069"
+      ],
+      "id": "2115245071159419069",
+      "public_metrics": {
+        "bookmark_count": 54,
+        "impression_count": 50192,
+        "like_count": 60,
+        "quote_count": 4,
+        "reply_count": 118,
+        "retweet_count": 3
+      },
+      "text": "大家千万不要用Claude Code CLI接CC Switch去修改网络相关的设置。。。我踏马天塌了。。。\n\n昨天Dmit端口出问题了，我就让Claude Code CLI接DeepSeek 去修，然后。。。晚上账号就G了。。。\n\n重新买礼品卡，Apple Store250$，直接充，又被封了一个，汲取教训，这次从20$开始充。 https://t.co/FpZYX4UTPy",
+      "url": "https://x.com/gengdaJ/status/2115245071159419069"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T13:28:05.000Z",
+      "edit_history_tweet_ids": [
+        "2115073050094027154"
+      ],
+      "id": "2115073050094027154",
+      "in_reply_to_user_id": "2039007329127968769",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1459,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115072468113309973",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MAnigbo92914 Yes, you can register a Chinese Apple ID",
+      "url": "https://x.com/gengdaJ/status/2115073050094027154"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T12:52:21.000Z",
+      "edit_history_tweet_ids": [
+        "2115064056021454870"
+      ],
+      "id": "2115064056021454870",
+      "in_reply_to_user_id": "1516075159169363969",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 287,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115036577646903704",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Easlo_eth @atypica_AI 第三张图片",
+      "url": "https://x.com/gengdaJ/status/2115064056021454870"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T12:15:22.000Z",
+      "edit_history_tweet_ids": [
+        "2115054747803955642"
+      ],
+      "id": "2115054747803955642",
+      "in_reply_to_user_id": "1866821173755121666",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 197,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115044551379591186",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cnyzgkc 很不错的产品！",
+      "url": "https://x.com/gengdaJ/status/2115054747803955642"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T10:46:01.000Z",
+      "edit_history_tweet_ids": [
+        "2115032264707039728"
+      ],
+      "id": "2115032264707039728",
+      "in_reply_to_user_id": "882438965361393664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 355,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115029868249547107",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@liluocheng13 @atypica_AI 老板都喜欢用这个，我已经疯狂安利一众老板用上。一次就省了大几百上千万。",
+      "url": "https://x.com/gengdaJ/status/2115032264707039728"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T10:25:39.000Z",
+      "edit_history_tweet_ids": [
+        "2115027136478355928"
+      ],
+      "id": "2115027136478355928",
+      "in_reply_to_user_id": "1597865155169521664",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3469,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115022592176476625",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TanckyK 😅",
+      "url": "https://x.com/gengdaJ/status/2115027136478355928"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T10:19:54.000Z",
+      "edit_history_tweet_ids": [
+        "2115025691607736831"
+      ],
+      "id": "2115025691607736831",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 5691,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115025631167795550",
+          "type": "quoted"
+        },
+        {
+          "id": "2115004998711152654",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/LspODgkPOP",
+      "url": "https://x.com/gengdaJ/status/2115025691607736831"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115025494118936576"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T10:19:41.000Z",
+      "edit_history_tweet_ids": [
+        "2115025634842104046"
+      ],
+      "id": "2115025634842104046",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 3150,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115025631167795550",
+          "type": "replied_to"
+        }
+      ],
+      "text": "老板们都说好☺️：https://t.co/WRKM19RaRS\n完整调研报告：https://t.co/dF2tMbRTOF\nMCP地址：https://t.co/MAJMOZRqsA https://t.co/6CSKryXH1i",
+      "url": "https://x.com/gengdaJ/status/2115025634842104046"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115025392465797120",
+          "3_2115025406759972864",
+          "3_2115025421947604993",
+          "3_2115025436518543360"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T10:19:40.000Z",
+      "edit_history_tweet_ids": [
+        "2115025631167795550"
+      ],
+      "id": "2115025631167795550",
+      "public_metrics": {
+        "bookmark_count": 122,
+        "impression_count": 32200,
+        "like_count": 88,
+        "quote_count": 11,
+        "reply_count": 27,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109586171596775926",
+          "type": "quoted"
+        }
+      ],
+      "text": "所有老板和流量操盘手都来和我一起偷师！\n\n上次我去混沌商学院，才发现年营收几个亿的老板们都在用@atypica_AI这个Personal research agent来辅助自己做商业决策。\n\nAtypica有100万+ 完整人格画像、且经过真人校准、超过85%准确性的AI模拟消费者。 https://t.co/03Qz5uvaDK https://t.co/9kCwOaga4I",
+      "url": "https://x.com/gengdaJ/status/2115025631167795550"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-10-27T10:03:44.000Z",
+      "edit_history_tweet_ids": [
+        "2115021619806785550"
+      ],
+      "id": "2115021619806785550",
+      "in_reply_to_user_id": "1630518191414992896",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2997,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115020797169615180",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Smart04261410 没看到充钱入口嘞",
+      "url": "https://x.com/gengdaJ/status/2115021619806785550"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2115260259925111061].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2115260259925111061",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2115260259925111061"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2115244257837768704",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115025494118936576",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115025392465797120",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115025406759972864",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115025421947604993",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2115025436518543360",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1876261876302295041",
+        "created_at": "2026-10-28T02:46:30.000Z",
+        "edit_history_tweet_ids": [
+          "2115273974817100128"
+        ],
+        "id": "2115273974817100128",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1474,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115245071159419069",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 1、不能 2、试试我的方法 apple 订阅不出 kyc 3、不用换 ip 清理一下设备指纹 id 就行"
+      },
+      {
+        "author_id": "1492195583699951620",
+        "created_at": "2026-10-28T07:48:04.000Z",
+        "edit_history_tweet_ids": [
+          "2115348329714618547",
+          "2115348412551877004",
+          "2115348674293494090",
+          "2115349867329708277"
+        ],
+        "id": "2115349867329708277",
+        "public_metrics": {
+          "bookmark_count": 627,
+          "impression_count": 75087,
+          "like_count": 542,
+          "quote_count": 22,
+          "reply_count": 140,
+          "retweet_count": 43
+        },
+        "text": "因为怕被Claude封号，所以Claude浏览器插件啥的都没装，是直接让Claude指挥Codex操控浏览器的，规则都写在了CLAUDE.md里，目前用着很舒服，分享一下这个小规则：\n\n#浏览器操作\n- 用户是残障人士，不方便操作浏览器。网页上要点、要填、要确认的事（包括"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115349707069497344"
+          ]
+        },
+        "author_id": "1869683226178146304",
+        "created_at": "2026-10-28T07:49:56.000Z",
+        "edit_history_tweet_ids": [
+          "2115349970178244718",
+          "2115350337179807903"
+        ],
+        "id": "2115350337179807903",
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 32902,
+          "like_count": 389,
+          "quote_count": 6,
+          "reply_count": 179,
+          "retweet_count": 6
+        },
+        "text": "很开心能成为 kimi 大使，希望能和 kimi 一起越走越远 ❤️\n\n@Kimi_Moonshot https://t.co/ka9p0nReg0"
+      },
+      {
+        "author_id": "1792608085409939456",
+        "created_at": "2026-10-27T16:23:11.000Z",
+        "edit_history_tweet_ids": [
+          "2115117112545128864"
+        ],
+        "id": "2115117112545128864",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 569,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115004998711152654",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 这么专业啊？？？"
+      },
+      {
+        "author_id": "701821719061745664",
+        "created_at": "2026-10-28T05:57:24.000Z",
+        "edit_history_tweet_ids": [
+          "2115322016270315628"
+        ],
+        "id": "2115322016270315628",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1488,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115245071159419069",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 第一个可以，只要能购买成功就可以，购买不了就要等苹果解除claude关联限制就可以继续买，我试过，而且我还发起过退款也成功了，你可以试试，试过才有发言权，别听网友瞎bb"
+      },
+      {
+        "author_id": "2032979032535609344",
+        "created_at": "2026-10-28T04:35:19.000Z",
+        "edit_history_tweet_ids": [
+          "2115301360338120881"
+        ],
+        "id": "2115301360338120881",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1545,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115245071159419069",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 我觉得除了自己搭网络以为，还是可以弄一个第三方的梯子，这样自己的断了还有第三方的🪜可以救急，可以不要很好，codex 啥的对网络要求不是很高"
+      },
+      {
+        "author_id": "1986087438721449984",
+        "created_at": "2026-10-28T01:53:50.000Z",
+        "edit_history_tweet_ids": [
+          "2115260723345653930"
+        ],
+        "id": "2115260723345653930",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2422,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115245071159419069",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 为什么要DeepSeek 去修， 直接让cli 去修就和了呀。"
+      },
+      {
+        "author_id": "1121235746164076544",
+        "created_at": "2026-10-28T04:24:55.000Z",
+        "edit_history_tweet_ids": [
+          "2115298741641191448"
+        ],
+        "id": "2115298741641191448",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1357,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115245071159419069",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 大哥 你这个钱还退吗？"
+      },
+      {
+        "author_id": "2088049876693405696",
+        "created_at": "2026-10-28T01:26:50.000Z",
+        "edit_history_tweet_ids": [
+          "2115253927600148939"
+        ],
+        "id": "2115253927600148939",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 770,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115252172917248173",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @CaiZhao12835 不用CLI那用什么"
+      },
+      {
+        "author_id": "2010272176830840832",
+        "created_at": "2026-10-28T01:11:43.000Z",
+        "edit_history_tweet_ids": [
+          "2115250122506514494"
+        ],
+        "id": "2115250122506514494",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3694,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115245071159419069",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 我看有人说苹果账号只给退一次款\n\n网络我都是拿codex修的，正好逸尘老师可以开个经验帖给我们避避雷"
+      },
+      {
+        "author_id": "1882470734192324609",
+        "created_at": "2026-10-28T01:14:08.000Z",
+        "edit_history_tweet_ids": [
+          "2115250732312186949"
+        ],
+        "id": "2115250732312186949",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3532,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115245071159419069",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 苍天饶过谁啊哇哈哈哈哈，前两天看你 克劳德老法师附体，张牙舞爪嘚瑟的样子，历历在目。可惜了我 10 月份，一个 20Max，两个 Pro。。。哎，现在，但凡我 20 升 100 就要验证。。。。"
+      },
+      {
+        "author_id": "2039007329127968769",
+        "created_at": "2026-10-27T13:25:47.000Z",
+        "edit_history_tweet_ids": [
+          "2115072468113309973"
+        ],
+        "id": "2115072468113309973",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1500,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115004998711152654",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ Is this exclusive to Chinese alone?"
+      },
+      {
+        "author_id": "1516075159169363969",
+        "created_at": "2026-10-27T11:03:10.000Z",
+        "edit_history_tweet_ids": [
+          "2115036577646903704"
+        ],
+        "id": "2115036577646903704",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115025631167795550",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @atypica_AI 结果呢，最后AI挑了哪个方向哈哈"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115044541858476032",
+            "3_2115044541862731776",
+            "3_2115044541854273536",
+            "3_2115044541841784832"
+          ]
+        },
+        "author_id": "1866821173755121666",
+        "created_at": "2026-10-27T11:34:51.000Z",
+        "edit_history_tweet_ids": [
+          "2115044551379591186"
+        ],
+        "id": "2115044551379591186",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12035,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "text": "突然收到个扣费提醒，果然！又把自动续费服务给忘了！\n\n事情是这样的，我之前用支付宝自动续费了Apple Care，我本来要取消，但是时间太长我忘了，结果今天怒扣了我899！\n这能忍？果断取消订阅！\n但是日常生活里这种自动扣费服务太多了，确实容易忘啊～ https://t.co/uikeqCboGX"
+      },
+      {
+        "author_id": "882438965361393664",
+        "created_at": "2026-10-27T10:36:30.000Z",
+        "edit_history_tweet_ids": [
+          "2115029868249547107"
+        ],
+        "id": "2115029868249547107",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115025631167795550",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @atypica_AI 正好投资我AIGC公司的大老板是做孵化器的，这个信息对他来说会很有用，推荐给他。"
+      },
+      {
+        "author_id": "1597865155169521664",
+        "created_at": "2026-10-27T10:07:35.000Z",
+        "edit_history_tweet_ids": [
+          "2115022592176476625"
+        ],
+        "id": "2115022592176476625",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3739,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115004998711152654",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 看来只有微信自己才能把微信打通，别的产品是不可能了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115004784013197312",
+            "3_2115004810340782080",
+            "3_2115004832872648704",
+            "3_2115004853856731136"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-27T08:57:41.000Z",
+        "edit_history_tweet_ids": [
+          "2115004998711152654"
+        ],
+        "id": "2115004998711152654",
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 72338,
+          "like_count": 224,
+          "quote_count": 7,
+          "reply_count": 83,
+          "retweet_count": 25
+        },
+        "text": "所有中国人即将进入Personal Agent时代！灵光2.0上线，今天试用了一下，第一次体验到老外用Muse的感觉，确实很方便！\n\n首先是打通了一些系统服务：日历、提醒事项、位置、闹钟、短信、文件、通讯录和iCloud Drive，要查个什么资料简直手拿把掐。 https://t.co/72Cwb2TtWh"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115025392465797120",
+            "3_2115025406759972864",
+            "3_2115025421947604993",
+            "3_2115025436518543360"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-10-27T10:19:40.000Z",
+        "edit_history_tweet_ids": [
+          "2115025631167795550"
+        ],
+        "id": "2115025631167795550",
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 32200,
+          "like_count": 88,
+          "quote_count": 11,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109586171596775926",
+            "type": "quoted"
+          }
+        ],
+        "text": "所有老板和流量操盘手都来和我一起偷师！\n\n上次我去混沌商学院，才发现年营收几个亿的老板们都在用@atypica_AI这个Personal research agent来辅助自己做商业决策。\n\nAtypica有100万+ 完整人格画像、且经过真人校准、超过85%准确性的AI模拟消费者。 https://t.co/03Qz5uvaDK https://t.co/9kCwOaga4I"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2109581759155421184"
+          ]
+        },
+        "author_id": "1947932538967924736",
+        "created_at": "2026-10-12T10:05:12.000Z",
+        "edit_history_tweet_ids": [
+          "2109586171596775926"
+        ],
+        "id": "2109586171596775926",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 61708,
+          "like_count": 29,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "text": "Your ad budget goes further when you test the idea before buying the impressions.\n\nThree ad concepts. Same product. One emotional, one focused on features, one built around lifestyle.\n\nConnect Atypica to Claude via MCP, upload your creatives, and explore how your target audience https://t.co/3KUqmdoy8S"
+      },
+      {
+        "author_id": "1630518191414992896",
+        "created_at": "2026-10-27T10:00:27.000Z",
+        "edit_history_tweet_ids": [
+          "2115020797169615180"
+        ],
+        "id": "2115020797169615180",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3170,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115004998711152654",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 先问一句，给钱不😂😂"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1876261876302295041",
+        "name": "夙愿学长",
+        "username": "suyuan1711"
+      },
+      {
+        "id": "1492195583699951620",
+        "name": "数字生命卡兹克",
+        "username": "Khazix0918"
+      },
+      {
+        "id": "1869683226178146304",
+        "name": "Sac",
+        "username": "Saccc_c"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "701821719061745664",
+        "name": "Evan",
+        "username": "noname_nonce"
+      },
+      {
+        "id": "2032979032535609344",
+        "name": "CaptainX",
+        "username": "CaptainXTop"
+      },
+      {
+        "id": "1986087438721449984",
+        "name": "小小东",
+        "username": "xiaoxiaodong"
+      },
+      {
+        "id": "1121235746164076544",
+        "name": "Nic_",
+        "username": "nic0203"
+      },
+      {
+        "id": "2088049876693405696",
+        "name": "东山",
+        "username": "dongshan_lab"
+      },
+      {
+        "id": "2010272176830840832",
+        "name": "小奇说",
+        "username": "xingbugengming"
+      },
+      {
+        "id": "1882470734192324609",
+        "name": "BaiCat",
+        "username": "CaiZhao12835"
+      },
+      {
+        "id": "2039007329127968769",
+        "name": "Maynard",
+        "username": "MAnigbo92914"
+      },
+      {
+        "id": "1516075159169363969",
+        "name": "Easlo 🚀｜一人公司 × AI",
+        "username": "Easloai"
+      },
+      {
+        "id": "1866821173755121666",
+        "name": "木马人",
+        "username": "cnyzgkc"
+      },
+      {
+        "id": "882438965361393664",
+        "name": "Zidan 子丹",
+        "username": "liluocheng13"
+      },
+      {
+        "id": "1597865155169521664",
+        "name": "tancky777",
+        "username": "TanckyK"
+      },
+      {
+        "id": "1630518191414992896",
+        "name": "XiaoMing",
+        "username": "Smart04261410"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115393476334612720",
+    "next_token": "b26v89c19zqg8o3juzlxntuhazrig0vmu5kixkj5m9tvh",
+    "oldest_id": "2115021619806785550",
+    "result_count": 22
+  }
+}

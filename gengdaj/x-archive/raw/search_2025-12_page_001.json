@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2005425765274533898",
+      "created_at": "2025-12-29T12:19:09.000Z",
+      "edit_history_tweet_ids": [
+        "2005614565862846720"
+      ],
+      "id": "2005614565862846720",
+      "in_reply_to_user_id": "6782882",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 79,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2005425765274533898",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oran_ge 当时电脑内存爆了，新增了一个盘，C 盘所有文件都让 cc 分析了一遍，花了一天终于把个人文件迁移完了。说实话，没有 cc 我不知道是不是这台电脑就废了",
+      "url": "https://x.com/gengdaJ/status/2005614565862846720"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "6782882",
+        "conversation_id": "2005425765274533898",
+        "created_at": "2025-12-28T23:48:56.000Z",
+        "edit_history_tweet_ids": [
+          "2005425765274533898"
+        ],
+        "id": "2005425765274533898",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "Claude Code 是我今年最推荐的 AI 产品，没有之一。\nClaude Code 虽然叫 Code，但它的功能绝对不止是写代码，而是一款真正意义上的通用 Agent。\n很多电脑上的很繁琐的工作，都是 CC 一句话的事情。\n我用它做问答、写作、写网页、写软件，数据分析、甚至拆分工资条。\n它甚至可以帮我把音频和图片快速合成视频。\n\nCC 也是那个让著名的 OpenAI 研究员 AK 都感到自己落伍的那个软件。\n我一直在给身边的同事们、朋友们安利 CC，每次看他们用完之后都会惊呼，这 AI 太智能了。\n但是之前 CC 使用起来非常难，封号封到一个月三次郎，根本受不了。\n在周一的时候，我的朋友杨攀在群里激动地说，这个时刻到了！\n\n现在，终于有一个开源模型，可以在 Claude Code 里真正用起来了。\n我也终于可以写一个给新手小白的 Claude Code 入门指南了。\n\n友情提醒，这篇文章比较长，一步一步操作下来，大概需要一个小时，可以先收藏再看。\n欢迎大家收藏阅读转发，感谢🙏"
+        },
+        "public_metrics": {
+          "bookmark_count": 1296,
+          "impression_count": 197536,
+          "like_count": 928,
+          "quote_count": 9,
+          "reply_count": 42,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005419365450252425",
+            "type": "quoted"
+          }
+        ],
+        "text": "Claude Code 是我今年最推荐的 AI 产品，没有之一。\nClaude Code 虽然叫 Code，但它的功能绝对不止是写代码，而是一款真正意义上的通用 Agent。\n很多电脑上的很繁琐的工作，都是 CC 一句话的事情。\n我用它做问答、写作、写网页、写软件，数据分析、甚至拆分工资条。 https://t.co/Y4qFrq7Imb"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "6782882",
+        "name": "Orange AI",
+        "username": "oran_ge"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2005614565862846720",
+    "next_token": "b26v89c19zqg8o3jue8jki34p6itx29yykm8bpay1xmkd",
+    "oldest_id": "2005614565862846720",
+    "result_count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1897545708770840576",
+  "username": "gengdaJ",
+  "name": "逸尘",
+  "created_at": "2025-03-06T07:12:24.000Z",
+  "description": "🦄06年 | 渝客松发起人 | 永远在学习的法学生\n💗付费咨询（yichen10801）：企业AI服务&AI自媒体增长\n🚢付费社群：TradeWinds\n📮gengdajin1101@gmail.com\n🔪没素材了，去流浪地球攒一点\n👀yichen-skill、Agent记忆系统、Ailu开发者",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "display_url": "yichen.ai",
+          "end": 23,
+          "expanded_url": "https://yichen.ai",
+          "start": 0,
+          "url": "https://t.co/TISID9QNYO"
+        }
+      ]
+    }
+  },
+  "url": "https://yichen.ai",
+  "location": "https://github.com/mcncarl",
+  "protected": false,
+  "verified": true,
+  "verified_type": "blue",
+  "public_metrics": {
+    "followers_count": 64147,
+    "following_count": 363,
+    "like_count": 3527,
+    "listed_count": 464,
+    "media_count": 614,
+    "post_count": 4412
+  },
+  "pinned_post_id": "2100508398240288797",
+  "pinned_post_status": "not_found",
+  "most_recent_post_id": "2124436844125540830",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1976552498564579328/SFfHx_IG_normal.jpg",
+  "site": "https://yichen.ai",
+  "github": "https://github.com/mcncarl"
+}

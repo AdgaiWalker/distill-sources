@@ -1,0 +1,2483 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-20T06:28:05.000Z",
+      "edit_history_tweet_ids": [
+        "2123664662268961246"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "557822055",
+            "start": 0,
+            "username": "long_log_47"
+          },
+          {
+            "end": 26,
+            "id": "1783786448556331008",
+            "start": 13,
+            "username": "ryuu_restart"
+          }
+        ]
+      },
+      "id": "2123664662268961246",
+      "in_reply_to_user_id": "557822055",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 142,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123654164727443675",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@long_log_47 @ryuu_restart 真假的？实测下来不错啊",
+      "url": "https://x.com/gengdaJ/status/2123664662268961246"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-20T02:10:34.000Z",
+      "edit_history_tweet_ids": [
+        "2123599852848197800"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "913521757100769280",
+            "start": 0,
+            "username": "NewsFromGoogle"
+          },
+          {
+            "end": 31,
+            "id": "4783690002",
+            "start": 16,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "2123599852848197800",
+      "in_reply_to_user_id": "913521757100769280",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 338,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123534801139614132",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NewsFromGoogle @GoogleDeepMind Gemini!",
+      "url": "https://x.com/gengdaJ/status/2123599852848197800"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-20T02:06:27.000Z",
+      "edit_history_tweet_ids": [
+        "2123598819015135679"
+      ],
+      "id": "2123598819015135679",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1000,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123598661984690570",
+          "type": "quoted"
+        },
+        {
+          "id": "2123245141930774539",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/sGbNE6bJWO",
+      "url": "https://x.com/gengdaJ/status/2123598819015135679"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-20T00:49:47.000Z",
+      "edit_history_tweet_ids": [
+        "2123579525934059951"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1895453094361890816",
+            "start": 3,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2123579525934059951",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 152,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 408
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123519417610825890",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @higgsfield: Introducing Higgsfield GPU Harness.\n\nRent on-demand GPUs in Claude and ChatGPT to render, run open-weight models and train…",
+      "url": "https://x.com/gengdaJ/status/2123579525934059951"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T16:10:25.000Z",
+      "edit_history_tweet_ids": [
+        "2123448820587782602"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1450040510316310528",
+            "start": 0,
+            "username": "FeiyanXie"
+          }
+        ]
+      },
+      "id": "2123448820587782602",
+      "in_reply_to_user_id": "1450040510316310528",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2122,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123370128058548558",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@FeiyanXie 对claude kyc 大幅利好",
+      "url": "https://x.com/gengdaJ/status/2123448820587782602"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T14:07:58.000Z",
+      "edit_history_tweet_ids": [
+        "2123418004331614720"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2051663555309514763",
+            "start": 0,
+            "username": "OrcaCyberHQ"
+          }
+        ]
+      },
+      "id": "2123418004331614720",
+      "in_reply_to_user_id": "2051663555309514763",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 925,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123416501021720995",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OrcaCyberHQ Cool！官方来了！",
+      "url": "https://x.com/gengdaJ/status/2123418004331614720"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T13:30:25.000Z",
+      "edit_history_tweet_ids": [
+        "2123408556544434374"
+      ],
+      "id": "2123408556544434374",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 2627,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123408428630757461",
+          "type": "quoted"
+        },
+        {
+          "id": "2123245141930774539",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/uyOoooA2yu",
+      "url": "https://x.com/gengdaJ/status/2123408556544434374"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T13:29:55.000Z",
+      "edit_history_tweet_ids": [
+        "2123408431671636157"
+      ],
+      "id": "2123408431671636157",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 2669,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123408428630757461",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Shield 免绑卡就能免费试用五天（进控制台 Secure → Shield 就能开）：https://t.co/KsAmCN4BZt\n官方配置文档（可以丢给Agent）：https://t.co/AXn7anhLJC",
+      "url": "https://x.com/gengdaJ/status/2123408431671636157"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2123408015609241600",
+          "3_2123408036513677312",
+          "3_2123408060806991872"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T13:29:55.000Z",
+      "edit_history_tweet_ids": [
+        "2123408428630757461"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 128,
+            "start": 105,
+            "url": "https://t.co/hYV7zl0WOv"
+          }
+        ]
+      },
+      "id": "2123408428630757461",
+      "public_metrics": {
+        "bookmark_count": 961,
+        "impression_count": 61705,
+        "like_count": 698,
+        "quote_count": 18,
+        "reply_count": 31,
+        "retweet_count": 104
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123258076921053596",
+          "type": "quoted"
+        }
+      ],
+      "text": "离谱😳中国安全开发者开源的 AI 渗透工具 ARTEX，正在给全世界黑客做嫁衣。。。此刻我感觉自己的几个网站在裸奔。。。而且这件事和每一个做网站的朋友息息相关。 https://t.co/piHSZx1ZTy https://t.co/hYV7zl0WOv",
+      "url": "https://x.com/gengdaJ/status/2123408428630757461"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T10:23:31.000Z",
+      "edit_history_tweet_ids": [
+        "2123361519425769847"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2953739684",
+            "start": 0,
+            "username": "AzrianoY1"
+          }
+        ]
+      },
+      "id": "2123361519425769847",
+      "in_reply_to_user_id": "2953739684",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 953,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123255172373848147",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AzrianoY1 模型不好",
+      "url": "https://x.com/gengdaJ/status/2123361519425769847"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T10:23:02.000Z",
+      "edit_history_tweet_ids": [
+        "2123361398814359975"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1483321720979468288",
+            "start": 0,
+            "username": "harrisonitsme"
+          }
+        ]
+      },
+      "id": "2123361398814359975",
+      "in_reply_to_user_id": "1483321720979468288",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 799,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123291544325357715",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@harrisonitsme 好玩",
+      "url": "https://x.com/gengdaJ/status/2123361398814359975"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T07:09:08.000Z",
+      "edit_history_tweet_ids": [
+        "2123312604416540732"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "730414778087137280",
+            "start": 0,
+            "username": "zhangboknight"
+          }
+        ]
+      },
+      "id": "2123312604416540732",
+      "in_reply_to_user_id": "730414778087137280",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1962,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123294756046610763",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@zhangboknight Linger真不错！等我之后换一台更好的硬件设备再好好玩玩，现在只能用云端体验哈哈",
+      "url": "https://x.com/gengdaJ/status/2123312604416540732"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T06:47:28.000Z",
+      "edit_history_tweet_ids": [
+        "2123307148549738550"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1667641208368185345",
+            "start": 0,
+            "username": "wildwebside"
+          }
+        ]
+      },
+      "id": "2123307148549738550",
+      "in_reply_to_user_id": "1667641208368185345",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 46,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123295018224066777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wildwebside 所有的大厂创业团队，都以“系”称呼，比如阿里系，字节系",
+      "url": "https://x.com/gengdaJ/status/2123307148549738550"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T06:47:00.000Z",
+      "edit_history_tweet_ids": [
+        "2123307031465750807"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1667641208368185345",
+            "start": 0,
+            "username": "wildwebside"
+          }
+        ]
+      },
+      "id": "2123307031465750807",
+      "in_reply_to_user_id": "1667641208368185345",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1083,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123295018224066777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wildwebside “系”，可以看看创始人介绍，前DeepSeek成员",
+      "url": "https://x.com/gengdaJ/status/2123307031465750807"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T03:07:35.000Z",
+      "edit_history_tweet_ids": [
+        "2123251813252219026"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1792608085409939456",
+            "start": 0,
+            "username": "Astronaut_1216"
+          }
+        ]
+      },
+      "id": "2123251813252219026",
+      "in_reply_to_user_id": "1792608085409939456",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 312,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123251216121819638",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 AI 进入生活了…",
+      "url": "https://x.com/gengdaJ/status/2123251813252219026"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T03:07:03.000Z",
+      "edit_history_tweet_ids": [
+        "2123251682251518170"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1792608085409939456",
+            "start": 0,
+            "username": "Astronaut_1216"
+          }
+        ]
+      },
+      "id": "2123251682251518170",
+      "in_reply_to_user_id": "1792608085409939456",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2000,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123246626374566350",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 雀实不错",
+      "url": "https://x.com/gengdaJ/status/2123251682251518170"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T03:06:57.000Z",
+      "edit_history_tweet_ids": [
+        "2123251656154591470"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2123251656154591470",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1827,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123248324769956049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 我也想，等我再赚点钱",
+      "url": "https://x.com/gengdaJ/status/2123251656154591470"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T02:50:15.000Z",
+      "edit_history_tweet_ids": [
+        "2123247454321770762"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          }
+        ]
+      },
+      "id": "2123247454321770762",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 69,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123247380032258174",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c 我就在深圳😃",
+      "url": "https://x.com/gengdaJ/status/2123247454321770762"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T02:48:47.000Z",
+      "edit_history_tweet_ids": [
+        "2123247081943146615"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          }
+        ]
+      },
+      "id": "2123247081943146615",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2666,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123245860121411895",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c 呜呜我的电脑配置太差，本地模型用的不够爽😭",
+      "url": "https://x.com/gengdaJ/status/2123247081943146615"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T02:48:08.000Z",
+      "edit_history_tweet_ids": [
+        "2123246921078997371"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          }
+        ]
+      },
+      "id": "2123246921078997371",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 396,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123245548258074810",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c 等我买一台更好的 Mac 就开始猛用",
+      "url": "https://x.com/gengdaJ/status/2123246921078997371"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T02:45:54.000Z",
+      "edit_history_tweet_ids": [
+        "2123246359763640627"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          },
+          {
+            "end": 24,
+            "id": "730414778087137280",
+            "start": 10,
+            "username": "zhangboknight"
+          }
+        ]
+      },
+      "id": "2123246359763640627",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1120,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123245311472882083",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace @zhangboknight 就恨我只有 24g mac 用的不过瘾",
+      "url": "https://x.com/gengdaJ/status/2123246359763640627"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T02:41:33.000Z",
+      "edit_history_tweet_ids": [
+        "2123245265276809367"
+      ],
+      "id": "2123245265276809367",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 1347,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123245141930774539",
+          "type": "quoted"
+        },
+        {
+          "id": "2122994499622203846",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/6mlYxPNb8j",
+      "url": "https://x.com/gengdaJ/status/2123245265276809367"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T02:41:19.000Z",
+      "edit_history_tweet_ids": [
+        "2123245203385618707"
+      ],
+      "id": "2123245203385618707",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 1458,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123245141930774539",
+          "type": "quoted"
+        },
+        {
+          "id": "2122869389238382875",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/6mlYxPNb8j",
+      "url": "https://x.com/gengdaJ/status/2123245203385618707"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T02:41:05.000Z",
+      "edit_history_tweet_ids": [
+        "2123245144690581979"
+      ],
+      "id": "2123245144690581979",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 82,
+        "impression_count": 7254,
+        "like_count": 40,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123245141930774539",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Linger开源地址在此，对本地Personal Agent感兴趣的朋友快去star，实操体验一下：https://t.co/3n1PNMstmn",
+      "url": "https://x.com/gengdaJ/status/2123245144690581979"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2123244835180290048",
+          "3_2123244848878899200",
+          "3_2123244896178081792",
+          "3_2123244913903190016"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-11-19T02:41:04.000Z",
+      "edit_history_tweet_ids": [
+        "2123245141930774539"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "end": 199,
+            "start": 176,
+            "url": "https://t.co/oK4AR5lgty"
+          }
+        ]
+      },
+      "id": "2123245141930774539",
+      "public_metrics": {
+        "bookmark_count": 1743,
+        "impression_count": 101723,
+        "like_count": 1075,
+        "quote_count": 12,
+        "reply_count": 68,
+        "retweet_count": 155
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123237197050794364",
+          "type": "quoted"
+        }
+      ],
+      "text": "好消息！DeepSeek系团队开源神级仓库Linger，丝滑平替Grok Bot，实现完全用本地大模型运行Personal Agent，零云端Token费用。\n\n⓵既可免费本地推理，又可无缝衔接Claude Code和Codex官方订阅\n本地 Linger 默认使用 Pi 框架，最低 Mac 16GB https://t.co/aPWvsHlg4n https://t.co/oK4AR5lgty",
+      "url": "https://x.com/gengdaJ/status/2123245141930774539"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2123598661984690570].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2123598661984690570",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2123598661984690570"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2123408015609241600",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXfcVwObIAAF9tr.jpg",
+        "width": 1280
+      },
+      {
+        "height": 730,
+        "media_key": "3_2123408036513677312",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXfcW-GbgAAaDBb.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2123408060806991872",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXfcYYmaEAA1hq8.jpg",
+        "width": 1220
+      },
+      {
+        "height": 649,
+        "media_key": "3_2123244835180290048",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXdH7ZwaoAAo7n0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1133,
+        "media_key": "3_2123244848878899200",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXdH8Mya0AA-BDO.jpg",
+        "width": 1280
+      },
+      {
+        "height": 888,
+        "media_key": "3_2123244896178081792",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXdH-8_bEAA20d7.jpg",
+        "width": 1280
+      },
+      {
+        "height": 906,
+        "media_key": "3_2123244913903190016",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXdH__BawAAJPrh.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-20T06:28:05.000Z",
+        "edit_history_tweet_ids": [
+          "2123664662268961246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "557822055",
+              "start": 0,
+              "username": "long_log_47"
+            },
+            {
+              "end": 26,
+              "id": "1783786448556331008",
+              "start": 13,
+              "username": "ryuu_restart"
+            }
+          ]
+        },
+        "id": "2123664662268961246",
+        "in_reply_to_user_id": "557822055",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123654164727443675",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@long_log_47 @ryuu_restart 真假的？实测下来不错啊"
+      },
+      {
+        "author_id": "557822055",
+        "created_at": "2026-11-20T05:46:23.000Z",
+        "edit_history_tweet_ids": [
+          "2123654164727443675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 22,
+              "id": "1783786448556331008",
+              "start": 9,
+              "username": "ryuu_restart"
+            }
+          ]
+        },
+        "id": "2123654164727443675",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123598661984690570",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @ryuu_restart weshare 那个 IP 一定要多测一下，我上次买了一个 IP，它就是很垃圾的 IP，我已经拉黑了这个服务商了"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-20T02:10:34.000Z",
+        "edit_history_tweet_ids": [
+          "2123599852848197800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "913521757100769280",
+              "start": 0,
+              "username": "NewsFromGoogle"
+            },
+            {
+              "end": 31,
+              "id": "4783690002",
+              "start": 16,
+              "username": "GoogleDeepMind"
+            }
+          ]
+        },
+        "id": "2123599852848197800",
+        "in_reply_to_user_id": "913521757100769280",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123534801139614132",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@NewsFromGoogle @GoogleDeepMind Gemini!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123533503568449536"
+          ]
+        },
+        "author_id": "913521757100769280",
+        "created_at": "2026-11-19T21:52:04.000Z",
+        "edit_history_tweet_ids": [
+          "2123534801139614132"
+        ],
+        "id": "2123534801139614132",
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 186276,
+          "like_count": 2647,
+          "quote_count": 42,
+          "reply_count": 105,
+          "retweet_count": 170
+        },
+        "text": "With Gemini 4 Neon joining our slate of new Gemini models, here’s how our current lineup breaks down ↓\n\n✨ Carbon: Hardest long-horizon projects and deep research\n✨ Neon: Deep reasoning across software engineering, knowledge work, and science\n✨ Hydrogen: Speed and efficiency https://t.co/Vz37EaQZ1m"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-20T02:06:27.000Z",
+        "edit_history_tweet_ids": [
+          "2123598819015135679"
+        ],
+        "id": "2123598819015135679",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1000,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123598661984690570",
+            "type": "quoted"
+          },
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/sGbNE6bJWO"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123244835180290048",
+            "3_2123244848878899200",
+            "3_2123244896178081792",
+            "3_2123244913903190016"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T02:41:04.000Z",
+        "edit_history_tweet_ids": [
+          "2123245141930774539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 199,
+              "start": 176,
+              "url": "https://t.co/oK4AR5lgty"
+            }
+          ]
+        },
+        "id": "2123245141930774539",
+        "public_metrics": {
+          "bookmark_count": 1743,
+          "impression_count": 101723,
+          "like_count": 1075,
+          "quote_count": 12,
+          "reply_count": 68,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123237197050794364",
+            "type": "quoted"
+          }
+        ],
+        "text": "好消息！DeepSeek系团队开源神级仓库Linger，丝滑平替Grok Bot，实现完全用本地大模型运行Personal Agent，零云端Token费用。\n\n⓵既可免费本地推理，又可无缝衔接Claude Code和Codex官方订阅\n本地 Linger 默认使用 Pi 框架，最低 Mac 16GB https://t.co/aPWvsHlg4n https://t.co/oK4AR5lgty"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-20T00:49:47.000Z",
+        "edit_history_tweet_ids": [
+          "2123579525934059951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895453094361890816",
+              "start": 3,
+              "username": "higgsfield"
+            }
+          ]
+        },
+        "id": "2123579525934059951",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123519417610825890",
+            "type": "retweeted"
+          }
+        ],
+        "text": "RT @higgsfield: Introducing Higgsfield GPU Harness.\n\nRent on-demand GPUs in Claude and ChatGPT to render, run open-weight models and train…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123518834673876992"
+          ]
+        },
+        "author_id": "1895453094361890816",
+        "created_at": "2026-11-19T20:50:56.000Z",
+        "edit_history_tweet_ids": [
+          "2123519417610825890"
+        ],
+        "id": "2123519417610825890",
+        "public_metrics": {
+          "bookmark_count": 979,
+          "impression_count": 645528,
+          "like_count": 1601,
+          "quote_count": 70,
+          "reply_count": 115,
+          "retweet_count": 408
+        },
+        "text": "Introducing Higgsfield GPU Harness.\n\nRent on-demand GPUs in Claude and ChatGPT to render, run open-weight models and train LoRAs.\n\nLet several AI agents work on your professional apps in the cloud at once, from any device.\n\nBlack Friday deal, live now: get GPUs at up to 64% OFF. https://t.co/1giGxWot7Z"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T16:10:25.000Z",
+        "edit_history_tweet_ids": [
+          "2123448820587782602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1450040510316310528",
+              "start": 0,
+              "username": "FeiyanXie"
+            }
+          ]
+        },
+        "id": "2123448820587782602",
+        "in_reply_to_user_id": "1450040510316310528",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2122,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123370128058548558",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@FeiyanXie 对claude kyc 大幅利好"
+      },
+      {
+        "author_id": "1450040510316310528",
+        "created_at": "2026-11-19T10:57:43.000Z",
+        "edit_history_tweet_ids": [
+          "2123370128058548558"
+        ],
+        "id": "2123370128058548558",
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 683522,
+          "like_count": 1466,
+          "quote_count": 15,
+          "reply_count": 248,
+          "retweet_count": 41
+        },
+        "text": "听说，李在明总统从🇨🇳深圳回家后\n\n马上宣布韩国🇰🇷对中国🇨🇳免签\n\n这速度杠杠滴👍，看来国家大佬们多走动走动还是有看得见的好处的😎"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T14:07:58.000Z",
+        "edit_history_tweet_ids": [
+          "2123418004331614720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051663555309514763",
+              "start": 0,
+              "username": "OrcaCyberHQ"
+            }
+          ]
+        },
+        "id": "2123418004331614720",
+        "in_reply_to_user_id": "2051663555309514763",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 925,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123416501021720995",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@OrcaCyberHQ Cool！官方来了！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_2123416491752300544"
+          ]
+        },
+        "author_id": "2051663555309514763",
+        "created_at": "2026-11-19T14:01:59.000Z",
+        "edit_history_tweet_ids": [
+          "2123416501021720995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123416501021720995",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1159,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123408428630757461",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ https://t.co/VrA11EzDg2"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T13:30:25.000Z",
+        "edit_history_tweet_ids": [
+          "2123408556544434374"
+        ],
+        "id": "2123408556544434374",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2627,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123408428630757461",
+            "type": "quoted"
+          },
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/uyOoooA2yu"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123408015609241600",
+            "3_2123408036513677312",
+            "3_2123408060806991872"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T13:29:55.000Z",
+        "edit_history_tweet_ids": [
+          "2123408428630757461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 128,
+              "start": 105,
+              "url": "https://t.co/hYV7zl0WOv"
+            }
+          ]
+        },
+        "id": "2123408428630757461",
+        "public_metrics": {
+          "bookmark_count": 961,
+          "impression_count": 61705,
+          "like_count": 698,
+          "quote_count": 18,
+          "reply_count": 31,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123258076921053596",
+            "type": "quoted"
+          }
+        ],
+        "text": "离谱😳中国安全开发者开源的 AI 渗透工具 ARTEX，正在给全世界黑客做嫁衣。。。此刻我感觉自己的几个网站在裸奔。。。而且这件事和每一个做网站的朋友息息相关。 https://t.co/piHSZx1ZTy https://t.co/hYV7zl0WOv"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T13:29:55.000Z",
+        "edit_history_tweet_ids": [
+          "2123408431671636157"
+        ],
+        "id": "2123408431671636157",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2669,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123408428630757461",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Shield 免绑卡就能免费试用五天（进控制台 Secure → Shield 就能开）：https://t.co/KsAmCN4BZt\n官方配置文档（可以丢给Agent）：https://t.co/AXn7anhLJC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123258034055159808"
+          ]
+        },
+        "author_id": "2049258250923810816",
+        "created_at": "2026-11-19T03:32:28.000Z",
+        "edit_history_tweet_ids": [
+          "2123258076921053596"
+        ],
+        "id": "2123258076921053596",
+        "public_metrics": {
+          "bookmark_count": 1359,
+          "impression_count": 3456829,
+          "like_count": 1566,
+          "quote_count": 27,
+          "reply_count": 72,
+          "retweet_count": 146
+        },
+        "text": "Today we’re launching Shield: AI-native defense against offensive agents. \n\nAttacker agents probing your site? Don’t block them. Deceive them.\n\nWe pointed ARTEX — the autonomous AI pentester the FBI just warned about—at our own prod. 5 minutes in, it pulled /.env and /.git/config https://t.co/KEZU3ypUmF"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T10:23:31.000Z",
+        "edit_history_tweet_ids": [
+          "2123361519425769847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2953739684",
+              "start": 0,
+              "username": "AzrianoY1"
+            }
+          ]
+        },
+        "id": "2123361519425769847",
+        "in_reply_to_user_id": "2953739684",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 953,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123255172373848147",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@AzrianoY1 模型不好"
+      },
+      {
+        "author_id": "2953739684",
+        "created_at": "2026-11-19T03:20:55.000Z",
+        "edit_history_tweet_ids": [
+          "2123255172373848147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123255172373848147",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1455,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 16G 的 Mac 跑起来会不会很卡？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T10:23:02.000Z",
+        "edit_history_tweet_ids": [
+          "2123361398814359975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483321720979468288",
+              "start": 0,
+              "username": "harrisonitsme"
+            }
+          ]
+        },
+        "id": "2123361398814359975",
+        "in_reply_to_user_id": "1483321720979468288",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 799,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123291544325357715",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@harrisonitsme 好玩"
+      },
+      {
+        "author_id": "1483321720979468288",
+        "created_at": "2026-11-19T05:45:27.000Z",
+        "edit_history_tweet_ids": [
+          "2123291544325357715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123291544325357715",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 954,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 牛"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T07:09:08.000Z",
+        "edit_history_tweet_ids": [
+          "2123312604416540732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "730414778087137280",
+              "start": 0,
+              "username": "zhangboknight"
+            }
+          ]
+        },
+        "id": "2123312604416540732",
+        "in_reply_to_user_id": "730414778087137280",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1962,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123294756046610763",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@zhangboknight Linger真不错！等我之后换一台更好的硬件设备再好好玩玩，现在只能用云端体验哈哈"
+      },
+      {
+        "author_id": "730414778087137280",
+        "created_at": "2026-11-19T05:58:13.000Z",
+        "edit_history_tweet_ids": [
+          "2123294756046610763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123294756046610763",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2519,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 感谢逸尘老师推荐"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T06:47:28.000Z",
+        "edit_history_tweet_ids": [
+          "2123307148549738550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667641208368185345",
+              "start": 0,
+              "username": "wildwebside"
+            }
+          ]
+        },
+        "id": "2123307148549738550",
+        "in_reply_to_user_id": "1667641208368185345",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123295018224066777",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@wildwebside 所有的大厂创业团队，都以“系”称呼，比如阿里系，字节系"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123295011693355008"
+          ]
+        },
+        "author_id": "1667641208368185345",
+        "created_at": "2026-11-19T05:59:15.000Z",
+        "edit_history_tweet_ids": [
+          "2123295018224066777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123295018224066777",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1452,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ R u shure about “official deepseek team”? Its made by Claude https://t.co/qll6vIXHhG"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T06:47:00.000Z",
+        "edit_history_tweet_ids": [
+          "2123307031465750807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667641208368185345",
+              "start": 0,
+              "username": "wildwebside"
+            }
+          ]
+        },
+        "id": "2123307031465750807",
+        "in_reply_to_user_id": "1667641208368185345",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1083,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123295018224066777",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@wildwebside “系”，可以看看创始人介绍，前DeepSeek成员"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T03:07:35.000Z",
+        "edit_history_tweet_ids": [
+          "2123251813252219026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792608085409939456",
+              "start": 0,
+              "username": "Astronaut_1216"
+            }
+          ]
+        },
+        "id": "2123251813252219026",
+        "in_reply_to_user_id": "1792608085409939456",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123251216121819638",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Astronaut_1216 AI 进入生活了…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123250462594072576"
+          ]
+        },
+        "author_id": "1792608085409939456",
+        "created_at": "2026-11-19T03:05:12.000Z",
+        "edit_history_tweet_ids": [
+          "2123251216121819638"
+        ],
+        "id": "2123251216121819638",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 10455,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "text": "逆天！！做制造业FDE的兄弟们真的有福了，直接拿去就能用了！！最近在深入的研究具身智能+AI硬件，让我发现了个行业的惊天秘密\n\n做视觉识别，最麻烦的可能不是识别物体，而是每来一个新需求，就可能要重新标注数据、训练模型\n\n但如果只需要换一句话呢？\n找出被白色快递袋围着的黑色包裹 https://t.co/4atf5g4o7a"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T03:07:03.000Z",
+        "edit_history_tweet_ids": [
+          "2123251682251518170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792608085409939456",
+              "start": 0,
+              "username": "Astronaut_1216"
+            }
+          ]
+        },
+        "id": "2123251682251518170",
+        "in_reply_to_user_id": "1792608085409939456",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2000,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123246626374566350",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Astronaut_1216 雀实不错"
+      },
+      {
+        "author_id": "1792608085409939456",
+        "created_at": "2026-11-19T02:46:58.000Z",
+        "edit_history_tweet_ids": [
+          "2123246626374566350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123246626374566350",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2180,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 牛哇！"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T03:06:57.000Z",
+        "edit_history_tweet_ids": [
+          "2123251656154591470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "id": "2123251656154591470",
+        "in_reply_to_user_id": "1881991469730594816",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1827,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123248324769956049",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gkxspace 我也想，等我再赚点钱"
+      },
+      {
+        "author_id": "1881991469730594816",
+        "created_at": "2026-11-19T02:53:43.000Z",
+        "edit_history_tweet_ids": [
+          "2123248324769956049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123248324769956049",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2187,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 换台电脑搞本地模型吧😚"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T02:50:15.000Z",
+        "edit_history_tweet_ids": [
+          "2123247454321770762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869683226178146304",
+              "start": 0,
+              "username": "Saccc_c"
+            }
+          ]
+        },
+        "id": "2123247454321770762",
+        "in_reply_to_user_id": "1869683226178146304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123247380032258174",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Saccc_c 我就在深圳😃"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "created_at": "2026-11-19T02:49:58.000Z",
+        "edit_history_tweet_ids": [
+          "2123247380032258174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123247380032258174",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123246921078997371",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 等你来深圳 也可以来我家用"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T02:48:47.000Z",
+        "edit_history_tweet_ids": [
+          "2123247081943146615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869683226178146304",
+              "start": 0,
+              "username": "Saccc_c"
+            }
+          ]
+        },
+        "id": "2123247081943146615",
+        "in_reply_to_user_id": "1869683226178146304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2666,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245860121411895",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Saccc_c 呜呜我的电脑配置太差，本地模型用的不够爽😭"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "created_at": "2026-11-19T02:43:55.000Z",
+        "edit_history_tweet_ids": [
+          "2123245860121411895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2123245860121411895",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2936,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 感谢逸尘老师推荐"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T02:48:08.000Z",
+        "edit_history_tweet_ids": [
+          "2123246921078997371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869683226178146304",
+              "start": 0,
+              "username": "Saccc_c"
+            }
+          ]
+        },
+        "id": "2123246921078997371",
+        "in_reply_to_user_id": "1869683226178146304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245548258074810",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Saccc_c 等我买一台更好的 Mac 就开始猛用"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123244085393973248",
+            "3_2123244127211188224",
+            "3_2123244454857617410",
+            "3_2123244492199452672",
+            "3_2123244516421595136",
+            "3_2123244571350245377"
+          ]
+        },
+        "author_id": "1869683226178146304",
+        "created_at": "2026-11-19T02:42:41.000Z",
+        "edit_history_tweet_ids": [
+          "2123245548258074810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "end": 227,
+              "start": 204,
+              "url": "https://t.co/ypjyUmMxPE"
+            }
+          ]
+        },
+        "id": "2123245548258074810",
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 33381,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123237197050794364",
+            "type": "quoted"
+          }
+        ],
+        "text": "这个 Github 仓库将 grok bot 开源了，并能帮你一键配置本地模型，意味着让你直接拥有无限 token ，数据完全在本地的 personal agent！ \n\n仓库名称是 Linger，直接在 github 仓库中就可以下载，Linger 本质是一个完全跑在本地的 personal agent ：大模型， agent 运行环境以及记忆层都在本地 https://t.co/uiUWTSDMmp https://t.co/ypjyUmMxPE"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T02:45:54.000Z",
+        "edit_history_tweet_ids": [
+          "2123246359763640627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            },
+            {
+              "end": 24,
+              "id": "730414778087137280",
+              "start": 10,
+              "username": "zhangboknight"
+            }
+          ]
+        },
+        "id": "2123246359763640627",
+        "in_reply_to_user_id": "1881991469730594816",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1120,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245311472882083",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gkxspace @zhangboknight 就恨我只有 24g mac 用的不过瘾"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123244950402048000",
+            "3_2123244966705270784",
+            "3_2123244986477219841",
+            "3_2123245010611277824"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "created_at": "2026-11-19T02:41:44.000Z",
+        "edit_history_tweet_ids": [
+          "2123245311472882083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 120,
+              "id": "730414778087137280",
+              "start": 106,
+              "username": "zhangboknight"
+            }
+          ],
+          "urls": [
+            {
+              "end": 213,
+              "start": 190,
+              "url": "https://t.co/RdoHJ0rgbM"
+            }
+          ]
+        },
+        "id": "2123245311472882083",
+        "public_metrics": {
+          "bookmark_count": 330,
+          "impression_count": 25596,
+          "like_count": 209,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123237197050794364",
+            "type": "quoted"
+          }
+        ],
+        "text": "好家伙，开源的本地 Grok Bot 真有人做出来了，而且把多角色自动交接做成了现成工作台！！！\n\nLinger 装在自己本地，能把 Codex、Claude 等订阅直接接进去当，也能搭配本地模型推理\n\n创始人 @zhangboknight 是 DeepSeek 最早期的核心成员之一，这次带队把模型加速引擎和整套个人 Agent https://t.co/YDMGMcUFZ7 https://t.co/RdoHJ0rgbM"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T02:41:33.000Z",
+        "edit_history_tweet_ids": [
+          "2123245265276809367"
+        ],
+        "id": "2123245265276809367",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1347,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "quoted"
+          },
+          {
+            "id": "2122994499622203846",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/6mlYxPNb8j"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122992205745074177",
+            "3_2122992888875552770",
+            "3_2122993322071629824",
+            "3_2122994333070802944"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-18T10:05:06.000Z",
+        "edit_history_tweet_ids": [
+          "2122994400150315286",
+          "2122994499622203846"
+        ],
+        "id": "2122994499622203846",
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 40103,
+          "like_count": 292,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 13
+        },
+        "text": "在Antigravity里面调用Gemini 4 Carbon，使用下面这个普通到极致的提示词分析了17分钟，却得到了我完全不敢想象的建议（甚至碾压Fable5.2）😱：\n\n你来复盘我最近几个月所有的Codex和Claude Code聊天记录，你看一下你有没有什么好的建议和思考给我 https://t.co/1kSJK18WFa"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T02:41:19.000Z",
+        "edit_history_tweet_ids": [
+          "2123245203385618707"
+        ],
+        "id": "2123245203385618707",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1458,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "quoted"
+          },
+          {
+            "id": "2122869389238382875",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/6mlYxPNb8j"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122869374562500608"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-18T01:47:58.000Z",
+        "edit_history_tweet_ids": [
+          "2122869389238382875"
+        ],
+        "id": "2122869389238382875",
+        "public_metrics": {
+          "bookmark_count": 888,
+          "impression_count": 213546,
+          "like_count": 528,
+          "quote_count": 6,
+          "reply_count": 133,
+          "retweet_count": 44
+        },
+        "text": "我靠，兄弟们快冲，最后的机会，免费领12个月Google Ultra 5×，爽用Gemini4，我已经成功开通两个号了！时间不等人！\n\n港卡、中国PayPal都能付款！\n\n就是需要额外买12个月YouTube，这个还是很划算，一个月12$，刚好在看YouTube的朋友还节约了这笔钱。\n\nhttps://t.co/95Ny1UreRh https://t.co/5afZRu9jcn"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "created_at": "2026-11-19T02:41:05.000Z",
+        "edit_history_tweet_ids": [
+          "2123245144690581979"
+        ],
+        "id": "2123245144690581979",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 7254,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123245141930774539",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Linger开源地址在此，对本地Personal Agent感兴趣的朋友快去star，实操体验一下：https://t.co/3n1PNMstmn"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123235635670704128"
+          ]
+        },
+        "author_id": "730414778087137280",
+        "created_at": "2026-11-19T02:09:30.000Z",
+        "edit_history_tweet_ids": [
+          "2123237197050794364"
+        ],
+        "id": "2123237197050794364",
+        "public_metrics": {
+          "bookmark_count": 749,
+          "impression_count": 760154,
+          "like_count": 922,
+          "quote_count": 124,
+          "reply_count": 140,
+          "retweet_count": 198
+        },
+        "text": "In the 1960s, computing was centralized until the PC put power into everyone's hands. Now Al is trained in datacenters and rented back to you token by token.\n\nToday we open source Linger (@HeyLingerAl), your personal agent living on your own computer. \n\nWe believe intelligence https://t.co/o3gX7KYSVi"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "557822055",
+        "name": "Noodle.dev",
+        "protected": false,
+        "username": "long_log_47"
+      },
+      {
+        "id": "1783786448556331008",
+        "name": "Ryuu｜玉龙",
+        "protected": false,
+        "username": "ryuu_restart"
+      },
+      {
+        "id": "913521757100769280",
+        "name": "News from Google",
+        "protected": false,
+        "username": "NewsFromGoogle"
+      },
+      {
+        "id": "4783690002",
+        "name": "Google DeepMind",
+        "protected": false,
+        "username": "GoogleDeepMind"
+      },
+      {
+        "id": "1895453094361890816",
+        "name": "Higgsfield AI 🧩",
+        "protected": false,
+        "username": "higgsfield"
+      },
+      {
+        "id": "1450040510316310528",
+        "name": "Feiyan Xie",
+        "protected": false,
+        "username": "FeiyanXie"
+      },
+      {
+        "id": "2051663555309514763",
+        "name": "OrcaCyber",
+        "protected": false,
+        "username": "OrcaCyberHQ"
+      },
+      {
+        "id": "2953739684",
+        "name": "0xAzr",
+        "protected": false,
+        "username": "AzrianoY1"
+      },
+      {
+        "id": "1483321720979468288",
+        "name": "森叔",
+        "protected": false,
+        "username": "harrisonitsme"
+      },
+      {
+        "id": "730414778087137280",
+        "name": "Tony Zhang",
+        "protected": false,
+        "username": "zhangboknight"
+      },
+      {
+        "id": "1667641208368185345",
+        "name": "netrunner",
+        "protected": false,
+        "username": "wildwebside"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "protected": false,
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "protected": false,
+        "username": "gkxspace"
+      },
+      {
+        "id": "1869683226178146304",
+        "name": "Sac",
+        "protected": false,
+        "username": "Saccc_c"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2123664662268961246",
+    "next_token": "7140dibdnow9c7btwp0gm9g5200kzl57tzcel9qm8zebd",
+    "oldest_id": "2123245141930774539",
+    "previous_token": "77qpymm88g5h9vqkmfps2ozp1qoulkaqyb2xk1y7la0xi",
+    "result_count": 25
+  }
+}

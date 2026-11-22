@@ -1,0 +1,3471 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120725657680506993",
+      "created_at": "2026-11-12T03:49:32.000Z",
+      "display_text_range": [
+        0,
+        106
+      ],
+      "edit_history_tweet_ids": [
+        "2120725657680506993"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1988475714501570561",
+            "start": 3,
+            "username": "liyue_ai"
+          }
+        ],
+        "urls": [
+          {
+            "description": "嚎哭深渊海克斯大乱斗：选择英雄，在冰桥上进行单人练习或东京联机对战。",
+            "display_url": "lol.hanyue.io",
+            "end": 74,
+            "expanded_url": "https://lol.hanyue.io/",
+            "start": 51,
+            "status": 200,
+            "title": "嚎哭深渊 · 海克斯大乱斗",
+            "unwound_url": "https://lol.hanyue.io/",
+            "url": "https://t.co/cUh8PcjU48"
+          }
+        ]
+      },
+      "id": "2120725657680506993",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 145,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 59
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120449465211613236",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @liyue_ai: 又是被震撼的一天！！！\n\n客户端的LOL玩过？网页端的LOL玩过没有？\n\nhttps://t.co/cUh8PcjU48\n\n实时匹配对战，这效果太强了，AI已经进化到这种程度了吗？？？",
+      "url": "https://x.com/gengdaJ/status/2120725657680506993"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120449465211613236",
+      "created_at": "2026-11-12T03:49:09.000Z",
+      "display_text_range": [
+        10,
+        16
+      ],
+      "edit_history_tweet_ids": [
+        "2120725562604019761"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1988475714501570561",
+            "start": 0,
+            "username": "liyue_ai"
+          }
+        ]
+      },
+      "id": "2120725562604019761",
+      "in_reply_to_user_id": "1988475714501570561",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2801,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120449465211613236",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@liyue_ai 我尼玛震惊了",
+      "url": "https://x.com/gengdaJ/status/2120725562604019761"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-12T03:44:16.000Z",
+      "display_text_range": [
+        23,
+        35
+      ],
+      "edit_history_tweet_ids": [
+        "2120724329851957572"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2059237303974064128",
+            "start": 0,
+            "username": "hanksen26"
+          },
+          {
+            "end": 22,
+            "id": "1876494331491848192",
+            "start": 11,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2120724329851957572",
+      "in_reply_to_user_id": "2059237303974064128",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 934,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120719793418645650",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@hanksen26 @chatcutapp chatcut 确实丝滑",
+      "url": "https://x.com/gengdaJ/status/2120724329851957572"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120719037969915904"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120719049676161383",
+      "created_at": "2026-11-12T03:23:17.000Z",
+      "display_text_range": [
+        0,
+        150
+      ],
+      "edit_history_tweet_ids": [
+        "2120719049676161383"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/mcncarl/yichen…",
+            "end": 104,
+            "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+            "start": 81,
+            "status": 200,
+            "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+            "url": "https://t.co/fEwRqlcVcU"
+          },
+          {
+            "display_url": "pic.x.com/YqEGwHKqK6",
+            "end": 174,
+            "expanded_url": "https://x.com/gengdaJ/status/2120719049676161383/photo/1",
+            "media_key": "3_2120719037969915904",
+            "start": 151,
+            "url": "https://t.co/YqEGwHKqK6"
+          },
+          {
+            "display_url": "x.com/gengdaj/status…",
+            "end": 198,
+            "expanded_url": "https://twitter.com/gengdaj/status/2120690544825250061",
+            "start": 175,
+            "url": "https://t.co/Hx9vO19AaH"
+          }
+        ]
+      },
+      "id": "2120719049676161383",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 301,
+        "impression_count": 39475,
+        "like_count": 207,
+        "quote_count": 3,
+        "reply_count": 20,
+        "retweet_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120690544825250061",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "我靠 Grok Bot 牛逼啊，现在直接打通了我的微信，手机上随时给我推送微信里面的重要信息和待办。\n\n1. 手机和电脑同时登录 Grok bot\n2.电脑端安装https://t.co/fEwRqlcVcU，授予完全磁盘完全访问权限\n3. 手机端 Grok Bot 随时推送，按照自己喜欢的频率来。 https://t.co/YqEGwHKqK6 https://t.co/Hx9vO19AaH",
+      "url": "https://x.com/gengdaJ/status/2120719049676161383"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-12T02:50:40.000Z",
+      "display_text_range": [
+        28,
+        45
+      ],
+      "edit_history_tweet_ids": [
+        "2120710841435873757"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1792608085409939456",
+            "start": 0,
+            "username": "Astronaut_1216"
+          },
+          {
+            "end": 27,
+            "id": "1876494331491848192",
+            "start": 16,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2120710841435873757",
+      "in_reply_to_user_id": "1792608085409939456",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 609,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120710293332558263",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Astronaut_1216 @chatcutapp 这个视频是蹲着录的哈哈哈，累死我了",
+      "url": "https://x.com/gengdaJ/status/2120710841435873757"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-12T02:18:50.000Z",
+      "display_text_range": [
+        29,
+        36
+      ],
+      "edit_history_tweet_ids": [
+        "2120702831238008881"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1825735044218105859",
+            "start": 0,
+            "username": "qifenglelelelel"
+          },
+          {
+            "end": 28,
+            "id": "1876494331491848192",
+            "start": 17,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2120702831238008881",
+      "in_reply_to_user_id": "1825735044218105859",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 733,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120697547312488902",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@qifenglelelelel @chatcutapp 可以可以好用的",
+      "url": "https://x.com/gengdaJ/status/2120702831238008881"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-12T01:50:40.000Z",
+      "display_text_range": [
+        21,
+        33
+      ],
+      "edit_history_tweet_ids": [
+        "2120695742411231708"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          },
+          {
+            "end": 20,
+            "id": "1876494331491848192",
+            "start": 9,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2120695742411231708",
+      "in_reply_to_user_id": "1869683226178146304",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 779,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120694364548792813",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Saccc_c @chatcutapp 哈哈哈谢谢 sac 哥～",
+      "url": "https://x.com/gengdaJ/status/2120695742411231708"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120572030122860544",
+          "3_2120572039656517635",
+          "3_2120572063245316096",
+          "3_2120572077476646912"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-12T01:30:01.000Z",
+      "display_text_range": [
+        0,
+        102
+      ],
+      "edit_history_tweet_ids": [
+        "2120690544825250061"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 24,
+            "id": "1876494331491848192",
+            "start": 13,
+            "username": "chatcutapp"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/j72TblBCSP",
+            "end": 126,
+            "expanded_url": "https://x.com/gengdaJ/status/2120690544825250061/photo/1",
+            "media_key": "3_2120572030122860544",
+            "start": 103,
+            "url": "https://t.co/j72TblBCSP"
+          },
+          {
+            "display_url": "pic.x.com/j72TblBCSP",
+            "end": 126,
+            "expanded_url": "https://x.com/gengdaJ/status/2120690544825250061/photo/2",
+            "media_key": "3_2120572039656517635",
+            "start": 103,
+            "url": "https://t.co/j72TblBCSP"
+          },
+          {
+            "display_url": "pic.x.com/j72TblBCSP",
+            "end": 126,
+            "expanded_url": "https://x.com/gengdaJ/status/2120690544825250061/photo/3",
+            "media_key": "3_2120572063245316096",
+            "start": 103,
+            "url": "https://t.co/j72TblBCSP"
+          },
+          {
+            "display_url": "pic.x.com/j72TblBCSP",
+            "end": 126,
+            "expanded_url": "https://x.com/gengdaJ/status/2120690544825250061/photo/4",
+            "media_key": "3_2120572077476646912",
+            "start": 103,
+            "url": "https://t.co/j72TblBCSP"
+          }
+        ]
+      },
+      "id": "2120690544825250061",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1876494331491848192",
+              "start": 13,
+              "username": "chatcutapp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ChatCut.io/grok",
+              "end": 917,
+              "expanded_url": "http://ChatCut.io/grok",
+              "start": 894,
+              "url": "https://t.co/ecbc3EojiG"
+            }
+          ]
+        },
+        "text": "我去真的后悔没早点用上啊，@chatcutapp帮我打开了全新的剪辑思路——直接用手机版Grok bot实现了云剪辑，爽飞啊！出门在外，再也不用背电脑，一部手机，随时随地剪辑。\n\n之前一直没意识到Grok Bot的应用场景，这两天做数字人的时候，刚好用iPhone录制了几段很长的原始口播素材，但感觉上传到Mac再剪辑太麻烦了，我就在想，能不能用手机就把视频给剪辑了？云Agent似乎可以操作？🤔\n\n所以我直接掏出Grok Bot，结果发现这家伙只支持196MB以下的视频。。。\n\n最后神级解决方案就是用ChatCut生成一个上传链接，然后打开链接就能上传视频到ChatCut的云上，再操控Grok Bot来剪辑。\n\nChatCut真的是不用不知道，绝对的宝藏工具，用上剪辑（认知）水平都能提升一大截。\n\n有个“素材库”，里面包含了MG动画、音效、转场、特效、缩放、LUT、音频效果。对于没有一点剪辑实力的我来说，真的太友好了。。。直接挑选模板就能一键应用，傻瓜式永远是最牛逼（摩擦最小）的产品🤪\n\n而且口播剪辑、MG动画、加字幕、调色这些基础功能，全部都是免费的，所以手机云剪辑基本没啥成本。添加MG动画的时候，用Grok Bot还能给我几个模板让我挑选，如果是Claude Code，可能一口气干完了然后再返工。。。\n\n如果还需要进阶剪电商类或者财经类的精品视频，chatcut内置的也有图片生成、视频生成、音乐生成、音效生成、数字人克隆这些功能。\n\nGrok Bot手机云剪辑的应用场景还有很多：\n1、把手机相册里面的照片和各种视频片段，剪辑成Vlog直接发抖音、小红书。\n2、比如我开发的Glimdo App，我接下来打算在小红书再卖一波，所以大概率就用iPhone内录，Grok Bot+ChatCut手机上就剪辑完了。\n3、为啥我感觉Grok Bot剪辑很好？真的是随时随地都可以剪辑，打车的时候很无聊，没法集中精神工作，就适合personal agent这种碎片化工作，对ADHD真的很友好。\n使用方法也很简单：\n\n1、新建一个“视频剪辑”Bot。\n2、发送指令：Read https://t.co/ecbc3EojiG to connect the ChatCut app。\n3、Bot 会读取安装指南，引导用户在对话内给连接器授权，同时安装好skill。\n4、然后发送指令：生成一个ChatCut上传链接，把想要剪辑的视频在打开的网页里面上传。\n5、正常和Grok Bot对话（语音输入法），畅享vibe editing。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 342,
+        "impression_count": 64703,
+        "like_count": 199,
+        "quote_count": 4,
+        "reply_count": 34,
+        "retweet_count": 30
+      },
+      "reply_settings": "everyone",
+      "text": "我去真的后悔没早点用上啊，@chatcutapp帮我打开了全新的剪辑思路——直接用手机版Grok bot实现了云剪辑，爽飞啊！出门在外，再也不用背电脑，一部手机，随时随地剪辑。\n\n之前一直没意识到Grok https://t.co/j72TblBCSP",
+      "url": "https://x.com/gengdaJ/status/2120690544825250061"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120491932917141711",
+      "created_at": "2026-11-11T17:40:40.000Z",
+      "display_text_range": [
+        14,
+        58
+      ],
+      "edit_history_tweet_ids": [
+        "2120572431236845794"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "35685086",
+            "start": 0,
+            "username": "xs1688888888"
+          }
+        ]
+      },
+      "id": "2120572431236845794",
+      "in_reply_to_user_id": "35685086",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1060,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120530487777350010",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@xs1688888888 应该是宿主机做完所有操作，然后把聊天同步回去，具体怎么实现的，说实话我也不太懂技术。。。",
+      "url": "https://x.com/gengdaJ/status/2120572431236845794"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120491932917141711",
+      "created_at": "2026-11-11T15:43:43.000Z",
+      "display_text_range": [
+        11,
+        17
+      ],
+      "edit_history_tweet_ids": [
+        "2120542998660587916"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1930093924653379584",
+            "start": 0,
+            "username": "anaki2025"
+          }
+        ]
+      },
+      "id": "2120542998660587916",
+      "in_reply_to_user_id": "1930093924653379584",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1437,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120541904828018940",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@anaki2025 不行，1v1",
+      "url": "https://x.com/gengdaJ/status/2120542998660587916"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120491932917141711",
+      "created_at": "2026-11-11T14:56:41.000Z",
+      "display_text_range": [
+        15,
+        18
+      ],
+      "edit_history_tweet_ids": [
+        "2120531163454619795"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "2104957556959686657",
+            "start": 0,
+            "username": "NullPointssm3"
+          }
+        ]
+      },
+      "id": "2120531163454619795",
+      "in_reply_to_user_id": "2104957556959686657",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1167,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120521187474493906",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@NullPointssm3 大封号",
+      "url": "https://x.com/gengdaJ/status/2120531163454619795"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120491932917141711",
+      "created_at": "2026-11-11T14:56:31.000Z",
+      "display_text_range": [
+        13,
+        27
+      ],
+      "edit_history_tweet_ids": [
+        "2120531120660021556"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1796108419059077120",
+            "start": 0,
+            "username": "_At_Player_"
+          }
+        ]
+      },
+      "id": "2120531120660021556",
+      "in_reply_to_user_id": "1796108419059077120",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1274,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120524732957384916",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@_At_Player_ 你去操作下微信…不封你来找我",
+      "url": "https://x.com/gengdaJ/status/2120531120660021556"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120491932917141711",
+      "created_at": "2026-11-11T12:50:18.000Z",
+      "display_text_range": [
+        11,
+        19
+      ],
+      "edit_history_tweet_ids": [
+        "2120499358370329008"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1089049411831779328",
+            "start": 0,
+            "username": "WenBuilds"
+          }
+        ]
+      },
+      "id": "2120499358370329008",
+      "in_reply_to_user_id": "1089049411831779328",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1253,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120498944937795710",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@WenBuilds 真是这么打算的…",
+      "url": "https://x.com/gengdaJ/status/2120499358370329008"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120487106250428417"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120491932917141711",
+      "created_at": "2026-11-11T12:20:48.000Z",
+      "display_text_range": [
+        0,
+        112
+      ],
+      "edit_history_tweet_ids": [
+        "2120487119672262867",
+        "2120487622091162033",
+        "2120491932917141711"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/SMAr7arK6Z",
+            "end": 136,
+            "expanded_url": "https://x.com/gengdaJ/status/2120491932917141711/photo/1",
+            "media_key": "3_2120487106250428417",
+            "start": 113,
+            "url": "https://t.co/SMAr7arK6Z"
+          }
+        ]
+      },
+      "id": "2120491932917141711",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "硬件大佬思路就是牛逼，微信自动化写入都能突破，给我吓坏了…\n\n采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。\n\n现在是初步测试阶段（因为他之前没意识到可以操作微信），现在我也新注册了一个微信放到他那里搞。如果能成的话，私域的天就变了。微信是，WhatsApp 也是。\n\n我个人感觉技术上是能做到微信识别不了的，不知道有没有技术大佬斧正🤔\n\n而且大佬还有海外资源，claude code 也能跑啊！能把这台电脑放到迪拜，远程控制就行，然后把 KYC、支付全打通，只是他之前不了解 claude code 还能这么赚钱。。。\n\n我赶紧让他跑这个闭环，感觉 11 月 12 号政策收紧之后，这个需求会暴增。兄弟们觉得呢？我反正看到了一大堆钱。\n\n哦哦对了，如果有想要测试私域这个的，有资源的朋友可以私我，我可以让大佬给点主机名额给大家免费测试一下。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 141,
+        "impression_count": 25339,
+        "like_count": 112,
+        "quote_count": 0,
+        "reply_count": 29,
+        "retweet_count": 12
+      },
+      "reply_settings": "everyone",
+      "text": "硬件大佬思路就是牛逼，微信自动化写入都能突破，给我吓坏了…\n\n采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。 https://t.co/SMAr7arK6Z",
+      "url": "https://x.com/gengdaJ/status/2120491932917141711"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120464771900379217",
+      "created_at": "2026-11-11T11:30:40.000Z",
+      "display_text_range": [
+        10,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2120479315347509420"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2120479315347509420",
+      "in_reply_to_user_id": "1881991469730594816",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 112,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120466922076872853",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@gkxspace 你找错人了吧！(◎_◎;)",
+      "url": "https://x.com/gengdaJ/status/2120479315347509420"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2100748639228367257",
+      "created_at": "2026-11-11T11:05:52.000Z",
+      "display_text_range": [
+        16,
+        32
+      ],
+      "edit_history_tweet_ids": [
+        "2120473076890730524"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "2082757334271676416",
+            "start": 0,
+            "username": "purnaahmadx5kh"
+          }
+        ]
+      },
+      "id": "2120473076890730524",
+      "in_reply_to_user_id": "2082757334271676416",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 21,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120469482011566233",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@purnaahmadx5kh 律师函了。目前只在社群内部开放了",
+      "url": "https://x.com/gengdaJ/status/2120473076890730524"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120464771900379217",
+      "created_at": "2026-11-11T10:38:48.000Z",
+      "display_text_range": [
+        10,
+        27
+      ],
+      "edit_history_tweet_ids": [
+        "2120466266347712691"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2120466266347712691",
+      "in_reply_to_user_id": "1881991469730594816",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3602,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120464771900379217",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@gkxspace 学废了，下次教我一个人就行了，谢谢",
+      "url": "https://x.com/gengdaJ/status/2120466266347712691"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120033719235076142",
+      "created_at": "2026-11-11T09:53:54.000Z",
+      "display_text_range": [
+        16,
+        19
+      ],
+      "edit_history_tweet_ids": [
+        "2120454965856817314"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "2072052380682854400",
+            "start": 0,
+            "username": "Encorelightbob"
+          }
+        ]
+      },
+      "id": "2120454965856817314",
+      "in_reply_to_user_id": "2072052380682854400",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 99,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120454640064254327",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Encorelightbob 可以啊",
+      "url": "https://x.com/gengdaJ/status/2120454965856817314"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2119914895861076151",
+      "created_at": "2026-11-11T02:58:14.000Z",
+      "display_text_range": [
+        10,
+        15
+      ],
+      "edit_history_tweet_ids": [
+        "2120350359973691631"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1377338130785828867",
+            "start": 0,
+            "username": "ZyphraAI"
+          }
+        ]
+      },
+      "id": "2120350359973691631",
+      "in_reply_to_user_id": "1377338130785828867",
+      "lang": "es",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 238,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2119914895861076151",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@ZyphraAI ZONOS",
+      "url": "https://x.com/gengdaJ/status/2120350359973691631"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120320834590138424",
+      "created_at": "2026-11-11T01:00:55.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "2120320834590138424"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1897545708770840576",
+            "start": 3,
+            "username": "gengdaJ"
+          }
+        ]
+      },
+      "id": "2120320834590138424",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120172421789716790",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @gengdaJ: 你可能再也找不到这么省、还这么高质量的视频工作流了。。。不管是跨境还是国内短视频平台，不管是复刻爆款还是生成新视频，都可以通过这套AI工作流来大幅降低成本。真的是各渠道对比下来最省的了。。。\n\nTikTok数据接口：1070条对标视频，0.07美元。……",
+      "url": "https://x.com/gengdaJ/status/2120320834590138424"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "card_uri": "https://t.co/UqcyqyFTCt",
+      "conversation_id": "2120320483648532481",
+      "created_at": "2026-11-11T00:59:31.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "2120320483648532481"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "4215921",
+            "start": 3,
+            "username": "jasonlk"
+          },
+          {
+            "end": 35,
+            "id": "1570599115",
+            "start": 21,
+            "username": "alexmashrabov"
+          },
+          {
+            "end": 54,
+            "id": "1712267009483022336",
+            "start": 40,
+            "username": "higgsfield_ai"
+          }
+        ]
+      },
+      "id": "2120320483648532481",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 145,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 229
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120285005939409019",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @jasonlk: In May, @alexmashrabov CEO @higgsfield_ai and I did a deep dive at SaaStr AI on how Higgsfield rocketed to $600m ARR in record…",
+      "url": "https://x.com/gengdaJ/status/2120320483648532481"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120033719235076142",
+      "created_at": "2026-11-10T17:22:10.000Z",
+      "display_text_range": [
+        9,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2120205385227542679"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          }
+        ]
+      },
+      "id": "2120205385227542679",
+      "in_reply_to_user_id": "1869683226178146304",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 301,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120175230111137848",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Saccc_c 哈哈哈确实国内国外都可以适用",
+      "url": "https://x.com/gengdaJ/status/2120205385227542679"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "card_uri": "https://t.co/4QAbijreIH",
+      "conversation_id": "2120172421789716790",
+      "created_at": "2026-11-10T15:11:12.000Z",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "edit_history_tweet_ids": [
+        "2120172426432798723"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. - hypit-ai/hypit",
+            "display_url": "github.com/hypit-ai/hypit",
+            "end": 33,
+            "expanded_url": "https://github.com/hypit-ai/hypit",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2124240981663059968/tOgp4oNH?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124240981663059968/tOgp4oNH?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 10,
+            "status": 200,
+            "title": "GitHub - hypit-ai/hypit: Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+            "unwound_url": "https://github.com/hypit-ai/hypit",
+            "url": "https://t.co/4QAbijreIH"
+          },
+          {
+            "description": "One skill unlocks 2,800+ tools & APIs. No per-tool sign-ups, no subscriptions.",
+            "display_url": "monid.ai/?fpr=ian-deed9d",
+            "end": 65,
+            "expanded_url": "https://monid.ai?fpr=ian-deed9d",
+            "images": [
+              {
+                "height": 1260,
+                "url": "https://pbs.twimg.com/news_img/2120172477401993216/E_KwjGxR?format=jpg&name=orig",
+                "width": 2400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120172477401993216/E_KwjGxR?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 42,
+            "status": 200,
+            "title": "Monid | Connect your agent to every tool it needs",
+            "unwound_url": "https://monid.ai?fpr=ian-deed9d",
+            "url": "https://t.co/8vs7MJReG7"
+          },
+          {
+            "description": "Unleash your creativity with RunningHub's AI infinite canvas. Explore powerful AI models, smart agents, and creative workflows to generate stunning images, videos, and professional content—all in one place.",
+            "display_url": "runninghub.ai/?inviteCode=jz…",
+            "end": 103,
+            "expanded_url": "https://www.runninghub.ai?inviteCode=jzd1z24k",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2120172436364939264/KxtP4uKZ?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120172436364939264/KxtP4uKZ?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 80,
+            "status": 200,
+            "title": "RunningHub | AI Infinite Canvas & Creative Platform",
+            "unwound_url": "https://www.runninghub.ai?inviteCode=jzd1z24k",
+            "url": "https://t.co/OuzUSj0Pba"
+          },
+          {
+            "description": "Create your APIMart account and access 500+ AI models",
+            "display_url": "apimart.ai/register?aff=E…",
+            "end": 137,
+            "expanded_url": "https://apimart.ai/register?aff=EkQW",
+            "start": 114,
+            "status": 200,
+            "title": "WeChat",
+            "unwound_url": "https://apimart.ai/register?aff=EkQW",
+            "url": "https://t.co/DkdtzayYvy"
+          }
+        ]
+      },
+      "id": "2120172426432798723",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 23,
+        "impression_count": 2582,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120172421789716790",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "Hypit开源地址：https://t.co/4QAbijreIH\nMonid网址：https://t.co/8vs7MJReG7\nRunningHub网址：\nhttps://t.co/OuzUSj0Pba\nAPIMart网址：https://t.co/DkdtzayYvy",
+      "url": "https://x.com/gengdaJ/status/2120172426432798723"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2120487119672262867].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2120487119672262867",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2120487119672262867"
+    },
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2120487622091162033].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2120487622091162033",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2120487622091162033"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2120719037969915904",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW5Oup6a4AAcK-L.jpg",
+        "width": 943
+      },
+      {
+        "height": 2781,
+        "media_key": "3_2120572030122860544",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW3JBrAaIAAv-Se.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2781,
+        "media_key": "3_2120572039656517635",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW3JCOhaMAMk5H2.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2120572063245316096",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW3JDmZasAAGRAM.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2120572077476646912",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW3JEbabkAAjlpH.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2120487106250428417",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW17yc7aUAE43So.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120725657680506993",
+        "created_at": "2026-11-12T03:49:32.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_history_tweet_ids": [
+          "2120725657680506993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988475714501570561",
+              "start": 3,
+              "username": "liyue_ai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "嚎哭深渊海克斯大乱斗：选择英雄，在冰桥上进行单人练习或东京联机对战。",
+              "display_url": "lol.hanyue.io",
+              "end": 74,
+              "expanded_url": "https://lol.hanyue.io/",
+              "start": 51,
+              "status": 200,
+              "title": "嚎哭深渊 · 海克斯大乱斗",
+              "unwound_url": "https://lol.hanyue.io/",
+              "url": "https://t.co/cUh8PcjU48"
+            }
+          ]
+        },
+        "id": "2120725657680506993",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120449465211613236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liyue_ai: 又是被震撼的一天！！！\n\n客户端的LOL玩过？网页端的LOL玩过没有？\n\nhttps://t.co/cUh8PcjU48\n\n实时匹配对战，这效果太强了，AI已经进化到这种程度了吗？？？"
+      },
+      {
+        "author_id": "1988475714501570561",
+        "conversation_id": "2120449465211613236",
+        "created_at": "2026-11-11T09:32:03.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_history_tweet_ids": [
+          "2120449465211613236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "嚎哭深渊海克斯大乱斗：选择英雄，在冰桥上进行单人练习或东京联机对战。",
+              "display_url": "lol.hanyue.io",
+              "end": 60,
+              "expanded_url": "https://lol.hanyue.io/",
+              "start": 37,
+              "status": 200,
+              "title": "嚎哭深渊 · 海克斯大乱斗",
+              "unwound_url": "https://lol.hanyue.io/",
+              "url": "https://t.co/cUh8PcjU48"
+            }
+          ]
+        },
+        "id": "2120449465211613236",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1044,
+          "impression_count": 322453,
+          "like_count": 915,
+          "quote_count": 13,
+          "reply_count": 78,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "又是被震撼的一天！！！\n\n客户端的LOL玩过？网页端的LOL玩过没有？\n\nhttps://t.co/cUh8PcjU48\n\n实时匹配对战，这效果太强了，AI已经进化到这种程度了吗？？？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120449465211613236",
+        "created_at": "2026-11-12T03:49:09.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_history_tweet_ids": [
+          "2120725562604019761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988475714501570561",
+              "start": 0,
+              "username": "liyue_ai"
+            }
+          ]
+        },
+        "id": "2120725562604019761",
+        "in_reply_to_user_id": "1988475714501570561",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2801,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120449465211613236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyue_ai 我尼玛震惊了"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T03:44:16.000Z",
+        "display_text_range": [
+          23,
+          35
+        ],
+        "edit_history_tweet_ids": [
+          "2120724329851957572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059237303974064128",
+              "start": 0,
+              "username": "hanksen26"
+            },
+            {
+              "end": 22,
+              "id": "1876494331491848192",
+              "start": 11,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120724329851957572",
+        "in_reply_to_user_id": "2059237303974064128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 934,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120719793418645650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanksen26 @chatcutapp chatcut 确实丝滑"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120718137264160768",
+            "3_2120718510699819008"
+          ]
+        },
+        "author_id": "2059237303974064128",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T03:26:14.000Z",
+        "display_text_range": [
+          21,
+          118
+        ],
+        "edit_history_tweet_ids": [
+          "2120719793418645650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nD7Mqgh1Ff",
+              "end": 142,
+              "expanded_url": "https://x.com/hanksen26/status/2120719793418645650/photo/1",
+              "media_key": "3_2120718137264160768",
+              "start": 119,
+              "url": "https://t.co/nD7Mqgh1Ff"
+            },
+            {
+              "display_url": "pic.x.com/nD7Mqgh1Ff",
+              "end": 142,
+              "expanded_url": "https://x.com/hanksen26/status/2120719793418645650/photo/2",
+              "media_key": "3_2120718510699819008",
+              "start": 119,
+              "url": "https://t.co/nD7Mqgh1Ff"
+            }
+          ]
+        },
+        "id": "2120719793418645650",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1278,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @chatcutapp 亏麻了，昨天还在自己调 broll skill。 \n试了下 ChatCut 是真方便啊，AI 剪辑一条龙，剪映都不打算再打开了。打算也尝试下在手机让 grok bot 调用 ChatCut 剪。 https://t.co/nD7Mqgh1Ff"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120719037969915904"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120719049676161383",
+        "created_at": "2026-11-12T03:23:17.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_history_tweet_ids": [
+          "2120719049676161383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 104,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+              "start": 81,
+              "status": 200,
+              "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wechat-local-vault",
+              "url": "https://t.co/fEwRqlcVcU"
+            },
+            {
+              "display_url": "pic.x.com/YqEGwHKqK6",
+              "end": 174,
+              "expanded_url": "https://x.com/gengdaJ/status/2120719049676161383/photo/1",
+              "media_key": "3_2120719037969915904",
+              "start": 151,
+              "url": "https://t.co/YqEGwHKqK6"
+            },
+            {
+              "display_url": "x.com/gengdaj/status…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/gengdaj/status/2120690544825250061",
+              "start": 175,
+              "url": "https://t.co/Hx9vO19AaH"
+            }
+          ]
+        },
+        "id": "2120719049676161383",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 39475,
+          "like_count": 207,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠 Grok Bot 牛逼啊，现在直接打通了我的微信，手机上随时给我推送微信里面的重要信息和待办。\n\n1. 手机和电脑同时登录 Grok bot\n2.电脑端安装https://t.co/fEwRqlcVcU，授予完全磁盘完全访问权限\n3. 手机端 Grok Bot 随时推送，按照自己喜欢的频率来。 https://t.co/YqEGwHKqK6 https://t.co/Hx9vO19AaH"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120572030122860544",
+            "3_2120572039656517635",
+            "3_2120572063245316096",
+            "3_2120572077476646912"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T01:30:01.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_history_tweet_ids": [
+          "2120690544825250061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1876494331491848192",
+              "start": 13,
+              "username": "chatcutapp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j72TblBCSP",
+              "end": 126,
+              "expanded_url": "https://x.com/gengdaJ/status/2120690544825250061/photo/1",
+              "media_key": "3_2120572030122860544",
+              "start": 103,
+              "url": "https://t.co/j72TblBCSP"
+            },
+            {
+              "display_url": "pic.x.com/j72TblBCSP",
+              "end": 126,
+              "expanded_url": "https://x.com/gengdaJ/status/2120690544825250061/photo/2",
+              "media_key": "3_2120572039656517635",
+              "start": 103,
+              "url": "https://t.co/j72TblBCSP"
+            },
+            {
+              "display_url": "pic.x.com/j72TblBCSP",
+              "end": 126,
+              "expanded_url": "https://x.com/gengdaJ/status/2120690544825250061/photo/3",
+              "media_key": "3_2120572063245316096",
+              "start": 103,
+              "url": "https://t.co/j72TblBCSP"
+            },
+            {
+              "display_url": "pic.x.com/j72TblBCSP",
+              "end": 126,
+              "expanded_url": "https://x.com/gengdaJ/status/2120690544825250061/photo/4",
+              "media_key": "3_2120572077476646912",
+              "start": 103,
+              "url": "https://t.co/j72TblBCSP"
+            }
+          ]
+        },
+        "id": "2120690544825250061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 24,
+                "id": "1876494331491848192",
+                "start": 13,
+                "username": "chatcutapp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ChatCut.io/grok",
+                "end": 917,
+                "expanded_url": "http://ChatCut.io/grok",
+                "start": 894,
+                "url": "https://t.co/ecbc3EojiG"
+              }
+            ]
+          },
+          "text": "我去真的后悔没早点用上啊，@chatcutapp帮我打开了全新的剪辑思路——直接用手机版Grok bot实现了云剪辑，爽飞啊！出门在外，再也不用背电脑，一部手机，随时随地剪辑。\n\n之前一直没意识到Grok Bot的应用场景，这两天做数字人的时候，刚好用iPhone录制了几段很长的原始口播素材，但感觉上传到Mac再剪辑太麻烦了，我就在想，能不能用手机就把视频给剪辑了？云Agent似乎可以操作？🤔\n\n所以我直接掏出Grok Bot，结果发现这家伙只支持196MB以下的视频。。。\n\n最后神级解决方案就是用ChatCut生成一个上传链接，然后打开链接就能上传视频到ChatCut的云上，再操控Grok Bot来剪辑。\n\nChatCut真的是不用不知道，绝对的宝藏工具，用上剪辑（认知）水平都能提升一大截。\n\n有个“素材库”，里面包含了MG动画、音效、转场、特效、缩放、LUT、音频效果。对于没有一点剪辑实力的我来说，真的太友好了。。。直接挑选模板就能一键应用，傻瓜式永远是最牛逼（摩擦最小）的产品🤪\n\n而且口播剪辑、MG动画、加字幕、调色这些基础功能，全部都是免费的，所以手机云剪辑基本没啥成本。添加MG动画的时候，用Grok Bot还能给我几个模板让我挑选，如果是Claude Code，可能一口气干完了然后再返工。。。\n\n如果还需要进阶剪电商类或者财经类的精品视频，chatcut内置的也有图片生成、视频生成、音乐生成、音效生成、数字人克隆这些功能。\n\nGrok Bot手机云剪辑的应用场景还有很多：\n1、把手机相册里面的照片和各种视频片段，剪辑成Vlog直接发抖音、小红书。\n2、比如我开发的Glimdo App，我接下来打算在小红书再卖一波，所以大概率就用iPhone内录，Grok Bot+ChatCut手机上就剪辑完了。\n3、为啥我感觉Grok Bot剪辑很好？真的是随时随地都可以剪辑，打车的时候很无聊，没法集中精神工作，就适合personal agent这种碎片化工作，对ADHD真的很友好。\n使用方法也很简单：\n\n1、新建一个“视频剪辑”Bot。\n2、发送指令：Read https://t.co/ecbc3EojiG to connect the ChatCut app。\n3、Bot 会读取安装指南，引导用户在对话内给连接器授权，同时安装好skill。\n4、然后发送指令：生成一个ChatCut上传链接，把想要剪辑的视频在打开的网页里面上传。\n5、正常和Grok Bot对话（语音输入法），畅享vibe editing。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 342,
+          "impression_count": 64703,
+          "like_count": 199,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我去真的后悔没早点用上啊，@chatcutapp帮我打开了全新的剪辑思路——直接用手机版Grok bot实现了云剪辑，爽飞啊！出门在外，再也不用背电脑，一部手机，随时随地剪辑。\n\n之前一直没意识到Grok https://t.co/j72TblBCSP"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T02:50:40.000Z",
+        "display_text_range": [
+          28,
+          45
+        ],
+        "edit_history_tweet_ids": [
+          "2120710841435873757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792608085409939456",
+              "start": 0,
+              "username": "Astronaut_1216"
+            },
+            {
+              "end": 27,
+              "id": "1876494331491848192",
+              "start": 16,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120710841435873757",
+        "in_reply_to_user_id": "1792608085409939456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 609,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120710293332558263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astronaut_1216 @chatcutapp 这个视频是蹲着录的哈哈哈，累死我了"
+      },
+      {
+        "author_id": "1792608085409939456",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T02:48:29.000Z",
+        "display_text_range": [
+          21,
+          28
+        ],
+        "edit_history_tweet_ids": [
+          "2120710293332558263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120710293332558263",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 779,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @chatcutapp 略显憔悴啊哥哥"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T02:18:50.000Z",
+        "display_text_range": [
+          29,
+          36
+        ],
+        "edit_history_tweet_ids": [
+          "2120702831238008881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825735044218105859",
+              "start": 0,
+              "username": "qifenglelelelel"
+            },
+            {
+              "end": 28,
+              "id": "1876494331491848192",
+              "start": 17,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120702831238008881",
+        "in_reply_to_user_id": "1825735044218105859",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120697547312488902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qifenglelelelel @chatcutapp 可以可以好用的"
+      },
+      {
+        "author_id": "1825735044218105859",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T01:57:50.000Z",
+        "display_text_range": [
+          21,
+          28
+        ],
+        "edit_history_tweet_ids": [
+          "2120697547312488902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120697547312488902",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @chatcutapp 哈哈我也用上了"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T01:50:40.000Z",
+        "display_text_range": [
+          21,
+          33
+        ],
+        "edit_history_tweet_ids": [
+          "2120695742411231708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869683226178146304",
+              "start": 0,
+              "username": "Saccc_c"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120695742411231708",
+        "in_reply_to_user_id": "1869683226178146304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 779,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120694364548792813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saccc_c @chatcutapp 哈哈哈谢谢 sac 哥～"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T01:45:11.000Z",
+        "display_text_range": [
+          21,
+          24
+        ],
+        "edit_history_tweet_ids": [
+          "2120694364548792813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120694364548792813",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @chatcutapp 帅呆了"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T17:40:40.000Z",
+        "display_text_range": [
+          14,
+          58
+        ],
+        "edit_history_tweet_ids": [
+          "2120572431236845794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "35685086",
+              "start": 0,
+              "username": "xs1688888888"
+            }
+          ]
+        },
+        "id": "2120572431236845794",
+        "in_reply_to_user_id": "35685086",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1060,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120530487777350010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs1688888888 应该是宿主机做完所有操作，然后把聊天同步回去，具体怎么实现的，说实话我也不太懂技术。。。"
+      },
+      {
+        "author_id": "35685086",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T14:54:00.000Z",
+        "display_text_range": [
+          9,
+          100
+        ],
+        "edit_history_tweet_ids": [
+          "2120530487777350010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120530487777350010",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1348,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120491932917141711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 不知道有没理解错，是指通过类似远程桌面的方式，在宿主机做OCR，然后定位到输入框位置，再模拟远程输入吗？如果是这种方式，好像不稳，我经常远程家里的微信突然就风控退出，要扫码才能继续。"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T15:43:43.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_history_tweet_ids": [
+          "2120542998660587916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1930093924653379584",
+              "start": 0,
+              "username": "anaki2025"
+            }
+          ]
+        },
+        "id": "2120542998660587916",
+        "in_reply_to_user_id": "1930093924653379584",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1437,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120541904828018940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anaki2025 不行，1v1"
+      },
+      {
+        "author_id": "1930093924653379584",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T15:39:22.000Z",
+        "display_text_range": [
+          9,
+          75
+        ],
+        "edit_history_tweet_ids": [
+          "2120541904828018940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120541904828018940",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1511,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120491932917141711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 我也是这么想的  我的思路使用本地模型建语料知识库   这里最关键问题集控能不能解决 一台电脑装10个虚拟机 挂10个微信 能不能行"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T14:56:41.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_history_tweet_ids": [
+          "2120531163454619795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2104957556959686657",
+              "start": 0,
+              "username": "NullPointssm3"
+            }
+          ]
+        },
+        "id": "2120531163454619795",
+        "in_reply_to_user_id": "2104957556959686657",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1167,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120521187474493906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NullPointssm3 大封号"
+      },
+      {
+        "author_id": "2104957556959686657",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T14:17:03.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_history_tweet_ids": [
+          "2120521187474493906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120521187474493906",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1266,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120491932917141711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 12号政策收紧啥意思"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T14:56:31.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_history_tweet_ids": [
+          "2120531120660021556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796108419059077120",
+              "start": 0,
+              "username": "_At_Player_"
+            }
+          ]
+        },
+        "id": "2120531120660021556",
+        "in_reply_to_user_id": "1796108419059077120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1274,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120524732957384916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_At_Player_ 你去操作下微信…不封你来找我"
+      },
+      {
+        "author_id": "1796108419059077120",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T14:31:08.000Z",
+        "display_text_range": [
+          9,
+          32
+        ],
+        "edit_history_tweet_ids": [
+          "2120524732957384916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120524732957384916",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1358,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120491932917141711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ computer use 不是已经可以实现了吗"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T12:50:18.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_history_tweet_ids": [
+          "2120499358370329008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1089049411831779328",
+              "start": 0,
+              "username": "WenBuilds"
+            }
+          ]
+        },
+        "id": "2120499358370329008",
+        "in_reply_to_user_id": "1089049411831779328",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1253,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120498944937795710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenBuilds 真是这么打算的…"
+      },
+      {
+        "author_id": "1089049411831779328",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T12:48:40.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_history_tweet_ids": [
+          "2120498944937795710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120498944937795710",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1322,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120491932917141711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 屏幕前再架个机械臂就齐活了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120487106250428417"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120491932917141711",
+        "created_at": "2026-11-11T12:20:48.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_history_tweet_ids": [
+          "2120487119672262867",
+          "2120487622091162033",
+          "2120491932917141711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMAr7arK6Z",
+              "end": 136,
+              "expanded_url": "https://x.com/gengdaJ/status/2120491932917141711/photo/1",
+              "media_key": "3_2120487106250428417",
+              "start": 113,
+              "url": "https://t.co/SMAr7arK6Z"
+            }
+          ]
+        },
+        "id": "2120491932917141711",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "硬件大佬思路就是牛逼，微信自动化写入都能突破，给我吓坏了…\n\n采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。\n\n现在是初步测试阶段（因为他之前没意识到可以操作微信），现在我也新注册了一个微信放到他那里搞。如果能成的话，私域的天就变了。微信是，WhatsApp 也是。\n\n我个人感觉技术上是能做到微信识别不了的，不知道有没有技术大佬斧正🤔\n\n而且大佬还有海外资源，claude code 也能跑啊！能把这台电脑放到迪拜，远程控制就行，然后把 KYC、支付全打通，只是他之前不了解 claude code 还能这么赚钱。。。\n\n我赶紧让他跑这个闭环，感觉 11 月 12 号政策收紧之后，这个需求会暴增。兄弟们觉得呢？我反正看到了一大堆钱。\n\n哦哦对了，如果有想要测试私域这个的，有资源的朋友可以私我，我可以让大佬给点主机名额给大家免费测试一下。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 25339,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "硬件大佬思路就是牛逼，微信自动化写入都能突破，给我吓坏了…\n\n采用了独立盒子单独装 Windows 系统，然后单独在里面放一个微信。实控主机用 OCR 技术识别，结合知识库生成回复，然后写入任何 App（微信只是举个例子）。 https://t.co/SMAr7arK6Z"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120464771900379217",
+        "created_at": "2026-11-11T11:30:40.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2120479315347509420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "id": "2120479315347509420",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120466922076872853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace 你找错人了吧！(◎_◎;)"
+      },
+      {
+        "author_id": "1881991469730594816",
+        "conversation_id": "2120464771900379217",
+        "created_at": "2026-11-11T10:41:25.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_history_tweet_ids": [
+          "2120466922076872853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120466922076872853",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120466266347712691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 我面对面手把手教你，你可以教我撩妹吗"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2100748639228367257",
+        "created_at": "2026-11-11T11:05:52.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_history_tweet_ids": [
+          "2120473076890730524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082757334271676416",
+              "start": 0,
+              "username": "purnaahmadx5kh"
+            }
+          ]
+        },
+        "id": "2120473076890730524",
+        "in_reply_to_user_id": "2082757334271676416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120469482011566233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@purnaahmadx5kh 律师函了。目前只在社群内部开放了"
+      },
+      {
+        "author_id": "2082757334271676416",
+        "conversation_id": "2100748639228367257",
+        "created_at": "2026-11-11T10:51:35.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_history_tweet_ids": [
+          "2120469482011566233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120469482011566233",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101173061668176294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 404了？下架了吗"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120464771900379217",
+        "created_at": "2026-11-11T10:38:48.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_history_tweet_ids": [
+          "2120466266347712691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "id": "2120466266347712691",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3602,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120464771900379217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace 学废了，下次教我一个人就行了，谢谢"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120183421477801984",
+            "3_2120455879153836032",
+            "3_2120456057801887744",
+            "3_2120457241761587200"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "conversation_id": "2120464771900379217",
+        "created_at": "2026-11-11T10:32:52.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_history_tweet_ids": [
+          "2120464771900379217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUuQclwjSN",
+              "end": 182,
+              "expanded_url": "https://x.com/gkxspace/status/2120464771900379217/photo/1",
+              "media_key": "3_2120183421477801984",
+              "start": 159,
+              "url": "https://t.co/fUuQclwjSN"
+            },
+            {
+              "display_url": "pic.x.com/fUuQclwjSN",
+              "end": 182,
+              "expanded_url": "https://x.com/gkxspace/status/2120464771900379217/photo/2",
+              "media_key": "3_2120455879153836032",
+              "start": 159,
+              "url": "https://t.co/fUuQclwjSN"
+            },
+            {
+              "display_url": "pic.x.com/fUuQclwjSN",
+              "end": 182,
+              "expanded_url": "https://x.com/gkxspace/status/2120464771900379217/photo/3",
+              "media_key": "3_2120456057801887744",
+              "start": 159,
+              "url": "https://t.co/fUuQclwjSN"
+            },
+            {
+              "display_url": "pic.x.com/fUuQclwjSN",
+              "end": 182,
+              "expanded_url": "https://x.com/gkxspace/status/2120464771900379217/photo/4",
+              "media_key": "3_2120457241761587200",
+              "start": 159,
+              "url": "https://t.co/fUuQclwjSN"
+            }
+          ]
+        },
+        "id": "2120464771900379217",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "上个月差点被我删库的站，前几天针对地做了下 SEO 和 GEO\n\n把增长运营都交给 Claude了，立马就从日入几百块到 1000～2000 多了😋\n\n也算是我的处女之站了，哈哈，过段时间会不会月入万刀了🤔\n\n它还是主要靠 GEO，就是 ChatGPT 推荐，因为我连外链都没发过，SEO 也不太懂，主要就懂个逻辑吧\n\n不过，好像这也够了，其他交给 AI 得了，到现在为止，其实我也只介入了几次......\n\n说一下我大概的思路吧（不专业，供参考）：\n1、因为这是我自己的需求，所以我想要的东西很明确，就让 AI 去批量看竞品的数据和好页面，把用户的真实痛点找出来\n\n2、摸准需求后，直接让 Claude 全自动生成上千个页面，针对用户很细分的问法，针对不同的人群和需求，把概览页和 Q&A 做好\n而且现在 ChatGPT 爬取特别快，新页面上去很快就能被抓到，起效快到离谱\n\n3、后续做好归因，直接看实际的收录和收入数据，让 AI 自动维护：\n针对转化比较好的页面做重点优化，对于没有收录或者有问题的页面也做处理，出单猛的方向就继续扩，把整套维护跑成闭环\n\n说实话，我感觉现在 GEO 的机会真的很多，主要就是一个思路问题，很多方向还是挺好做的\n\nAI 时代，无限可能🫡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1024,
+          "impression_count": 115444,
+          "like_count": 495,
+          "quote_count": 10,
+          "reply_count": 73,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "上个月差点被我删库的站，前几天针对地做了下 SEO 和 GEO\n\n把增长运营都交给 Claude了，立马就从日入几百块到 1000～2000 多了😋\n\n也算是我的处女之站了，哈哈，过段时间会不会月入万刀了🤔\n\n它还是主要靠 GEO，就是 ChatGPT 推荐，因为我连外链都没发过，SEO 也不太懂，主要就懂个逻辑吧 https://t.co/fUuQclwjSN"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120033719235076142",
+        "created_at": "2026-11-11T09:53:54.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_history_tweet_ids": [
+          "2120454965856817314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2072052380682854400",
+              "start": 0,
+              "username": "Encorelightbob"
+            }
+          ]
+        },
+        "id": "2120454965856817314",
+        "in_reply_to_user_id": "2072052380682854400",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120454640064254327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Encorelightbob 可以啊"
+      },
+      {
+        "author_id": "2072052380682854400",
+        "conversation_id": "2120033719235076142",
+        "created_at": "2026-11-11T09:52:36.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_history_tweet_ids": [
+          "2120454640064254327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120454640064254327",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120033719235076142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 大佬我们是做灯的，也可以做吗😀😀😀"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2119914895861076151",
+        "created_at": "2026-11-11T02:58:14.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_history_tweet_ids": [
+          "2120350359973691631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1377338130785828867",
+              "start": 0,
+              "username": "ZyphraAI"
+            }
+          ]
+        },
+        "id": "2120350359973691631",
+        "in_reply_to_user_id": "1377338130785828867",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2119914895861076151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZyphraAI ZONOS"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2119907023366299648"
+          ]
+        },
+        "author_id": "1377338130785828867",
+        "conversation_id": "2119914895861076151",
+        "created_at": "2026-11-09T22:07:51.000Z",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "edit_history_tweet_ids": [
+          "2119914895861076151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPfmg76hs7",
+              "end": 294,
+              "expanded_url": "https://x.com/ZyphraAI/status/2119914895861076151/video/1",
+              "media_key": "13_2119907023366299648",
+              "start": 271,
+              "url": "https://t.co/rPfmg76hs7"
+            }
+          ]
+        },
+        "id": "2119914895861076151",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 253401,
+          "like_count": 231,
+          "quote_count": 26,
+          "reply_count": 72,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Meet ZONOS3-Mini: open-source text-to-speech with voice cloning and word-level control. All on-device and super fast.\n\nEvery voice in this video is from a TTS model that can run real-time on a phone.\n\nComment “ZONOS” within 2 days for 20 hours of free audio.\n\nSound on 🔊 https://t.co/rPfmg76hs7"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120320834590138424",
+        "created_at": "2026-11-11T01:00:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "2120320834590138424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897545708770840576",
+              "start": 3,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120320834590138424",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120172421789716790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gengdaJ: 你可能再也找不到这么省、还这么高质量的视频工作流了。。。不管是跨境还是国内短视频平台，不管是复刻爆款还是生成新视频，都可以通过这套AI工作流来大幅降低成本。真的是各渠道对比下来最省的了。。。\n\nTikTok数据接口：1070条对标视频，0.07美元。……"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120163023461703680",
+            "3_2120167413664890881",
+            "3_2120168255700758528",
+            "3_2120168356548681728"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120172421789716790",
+        "created_at": "2026-11-10T15:11:10.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_history_tweet_ids": [
+          "2120172421789716790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vSzaNf38U",
+              "end": 149,
+              "expanded_url": "https://x.com/gengdaJ/status/2120172421789716790/photo/1",
+              "media_key": "3_2120163023461703680",
+              "start": 126,
+              "url": "https://t.co/1vSzaNf38U"
+            },
+            {
+              "display_url": "pic.x.com/1vSzaNf38U",
+              "end": 149,
+              "expanded_url": "https://x.com/gengdaJ/status/2120172421789716790/photo/2",
+              "media_key": "3_2120167413664890881",
+              "start": 126,
+              "url": "https://t.co/1vSzaNf38U"
+            },
+            {
+              "display_url": "pic.x.com/1vSzaNf38U",
+              "end": 149,
+              "expanded_url": "https://x.com/gengdaJ/status/2120172421789716790/photo/3",
+              "media_key": "3_2120168255700758528",
+              "start": 126,
+              "url": "https://t.co/1vSzaNf38U"
+            },
+            {
+              "display_url": "pic.x.com/1vSzaNf38U",
+              "end": 149,
+              "expanded_url": "https://x.com/gengdaJ/status/2120172421789716790/photo/4",
+              "media_key": "3_2120168356548681728",
+              "start": 126,
+              "url": "https://t.co/1vSzaNf38U"
+            },
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/gengdaJ/status/2120033719235076142",
+              "start": 150,
+              "url": "https://t.co/bqUTytkfGQ"
+            }
+          ]
+        },
+        "id": "2120172421789716790",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "你可能再也找不到这么省、还这么高质量的视频工作流了。。。不管是跨境还是国内短视频平台，不管是复刻爆款还是生成新视频，都可以通过这套AI工作流来大幅降低成本。真的是各渠道对比下来最省的了。。。\n\nTikTok数据接口：1070条对标视频，0.07美元。\n抖音、小红书、视频号接口Monid也全部都覆盖了，按需调用。\n\nHypit开源框架+参考图片和视频接口：\nMinimax H3在RunningHub：最低1.12人民币。\nGPT Image 2K在APIMart：0.015美元。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 14049,
+          "like_count": 182,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120033719235076142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你可能再也找不到这么省、还这么高质量的视频工作流了。。。不管是跨境还是国内短视频平台，不管是复刻爆款还是生成新视频，都可以通过这套AI工作流来大幅降低成本。真的是各渠道对比下来最省的了。。。\n\nTikTok数据接口：1070条对标视频，0.07美元。 https://t.co/1vSzaNf38U https://t.co/bqUTytkfGQ"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "card_uri": "https://t.co/UqcyqyFTCt",
+        "conversation_id": "2120320483648532481",
+        "created_at": "2026-11-11T00:59:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "2120320483648532481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4215921",
+              "start": 3,
+              "username": "jasonlk"
+            },
+            {
+              "end": 35,
+              "id": "1570599115",
+              "start": 21,
+              "username": "alexmashrabov"
+            },
+            {
+              "end": 54,
+              "id": "1712267009483022336",
+              "start": 40,
+              "username": "higgsfield_ai"
+            }
+          ]
+        },
+        "id": "2120320483648532481",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120285005939409019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jasonlk: In May, @alexmashrabov CEO @higgsfield_ai and I did a deep dive at SaaStr AI on how Higgsfield rocketed to $600m ARR in record…"
+      },
+      {
+        "author_id": "4215921",
+        "card_uri": "https://t.co/UqcyqyFTCt",
+        "conversation_id": "2120285005939409019",
+        "created_at": "2026-11-10T22:38:33.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_history_tweet_ids": [
+          "2120285005939409019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1570599115",
+              "start": 8,
+              "username": "alexmashrabov"
+            },
+            {
+              "end": 41,
+              "id": "1712267009483022336",
+              "start": 27,
+              "username": "higgsfield_ai"
+            }
+          ]
+        },
+        "id": "2120285005939409019",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 22,
+                "id": "1570599115",
+                "start": 8,
+                "username": "alexmashrabov"
+              },
+              {
+                "end": 41,
+                "id": "1712267009483022336",
+                "start": 27,
+                "username": "higgsfield_ai"
+              },
+              {
+                "end": 306,
+                "id": "706639614258208769",
+                "start": 295,
+                "username": "saastrfund"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=xlu4mK…",
+                "end": 332,
+                "expanded_url": "https://www.youtube.com/watch?v=xlu4mKwDElY",
+                "start": 309,
+                "url": "https://t.co/UqcyqyFTCt"
+              }
+            ]
+          },
+          "text": "In May, @alexmashrabov CEO @higgsfield_ai and I did a deep dive at SaaStr AI on how Higgsfield rocketed to $600m ARR in record time.  \n\nJust a few months later, I had to update the thumbnail to $1B ARR\n\nNow, they're on track for $2B by December\n\nProud to be one very first customers & investors @saastrfund \n\nhttps://t.co/UqcyqyFTCt"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 116181,
+          "like_count": 309,
+          "quote_count": 12,
+          "reply_count": 22,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "In May, @alexmashrabov CEO @higgsfield_ai and I did a deep dive at SaaStr AI on how Higgsfield rocketed to $600m ARR in record time.  \n\nJust a few months later, I had to update the thumbnail to $1B ARR\n\nNow, they're on track for $2B by December\n\nProud to be one very first"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120033719235076142",
+        "created_at": "2026-11-10T17:22:10.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2120205385227542679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869683226178146304",
+              "start": 0,
+              "username": "Saccc_c"
+            }
+          ]
+        },
+        "id": "2120205385227542679",
+        "in_reply_to_user_id": "1869683226178146304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120175230111137848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saccc_c 哈哈哈确实国内国外都可以适用"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "conversation_id": "2120033719235076142",
+        "created_at": "2026-11-10T15:22:20.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_history_tweet_ids": [
+          "2120175230111137848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120175230111137848",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120033719235076142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 说实话 这个思路真值得考虑"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "card_uri": "https://t.co/4QAbijreIH",
+        "conversation_id": "2120172421789716790",
+        "created_at": "2026-11-10T15:11:12.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_history_tweet_ids": [
+          "2120172426432798723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. - hypit-ai/hypit",
+              "display_url": "github.com/hypit-ai/hypit",
+              "end": 33,
+              "expanded_url": "https://github.com/hypit-ai/hypit",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2124240981663059968/tOgp4oNH?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2124240981663059968/tOgp4oNH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "GitHub - hypit-ai/hypit: Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+              "unwound_url": "https://github.com/hypit-ai/hypit",
+              "url": "https://t.co/4QAbijreIH"
+            },
+            {
+              "description": "One skill unlocks 2,800+ tools & APIs. No per-tool sign-ups, no subscriptions.",
+              "display_url": "monid.ai/?fpr=ian-deed9d",
+              "end": 65,
+              "expanded_url": "https://monid.ai?fpr=ian-deed9d",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/2120172477401993216/E_KwjGxR?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120172477401993216/E_KwjGxR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "Monid | Connect your agent to every tool it needs",
+              "unwound_url": "https://monid.ai?fpr=ian-deed9d",
+              "url": "https://t.co/8vs7MJReG7"
+            },
+            {
+              "description": "Unleash your creativity with RunningHub's AI infinite canvas. Explore powerful AI models, smart agents, and creative workflows to generate stunning images, videos, and professional content—all in one place.",
+              "display_url": "runninghub.ai/?inviteCode=jz…",
+              "end": 103,
+              "expanded_url": "https://www.runninghub.ai?inviteCode=jzd1z24k",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2120172436364939264/KxtP4uKZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120172436364939264/KxtP4uKZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "RunningHub | AI Infinite Canvas & Creative Platform",
+              "unwound_url": "https://www.runninghub.ai?inviteCode=jzd1z24k",
+              "url": "https://t.co/OuzUSj0Pba"
+            },
+            {
+              "description": "Create your APIMart account and access 500+ AI models",
+              "display_url": "apimart.ai/register?aff=E…",
+              "end": 137,
+              "expanded_url": "https://apimart.ai/register?aff=EkQW",
+              "start": 114,
+              "status": 200,
+              "title": "WeChat",
+              "unwound_url": "https://apimart.ai/register?aff=EkQW",
+              "url": "https://t.co/DkdtzayYvy"
+            }
+          ]
+        },
+        "id": "2120172426432798723",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2582,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120172421789716790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Hypit开源地址：https://t.co/4QAbijreIH\nMonid网址：https://t.co/8vs7MJReG7\nRunningHub网址：\nhttps://t.co/OuzUSj0Pba\nAPIMart网址：https://t.co/DkdtzayYvy"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1988475714501570561",
+        "name": "李岳",
+        "protected": false,
+        "username": "liyue_ai"
+      },
+      {
+        "id": "2059237303974064128",
+        "name": "韩克森 Hanksen",
+        "protected": false,
+        "username": "hanksen26"
+      },
+      {
+        "id": "1876494331491848192",
+        "name": "ChatCut",
+        "protected": false,
+        "username": "chatcutapp"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "protected": false,
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "1825735044218105859",
+        "name": "起风了",
+        "protected": false,
+        "username": "qifenglelelelel"
+      },
+      {
+        "id": "1869683226178146304",
+        "name": "Sac",
+        "protected": false,
+        "username": "Saccc_c"
+      },
+      {
+        "id": "35685086",
+        "name": "x.s",
+        "protected": false,
+        "username": "xs1688888888"
+      },
+      {
+        "id": "1930093924653379584",
+        "name": "Xsxsdj",
+        "protected": false,
+        "username": "anaki2025"
+      },
+      {
+        "id": "2104957556959686657",
+        "name": "是铭is",
+        "protected": false,
+        "username": "NullPointssm3"
+      },
+      {
+        "id": "1796108419059077120",
+        "name": "Player",
+        "protected": false,
+        "username": "_At_Player_"
+      },
+      {
+        "id": "1089049411831779328",
+        "name": "WenWen",
+        "protected": false,
+        "username": "WenBuilds"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "protected": false,
+        "username": "gkxspace"
+      },
+      {
+        "id": "2082757334271676416",
+        "name": "阚花",
+        "protected": false,
+        "username": "purnaahmadx5kh"
+      },
+      {
+        "id": "2072052380682854400",
+        "name": "Shenzhen Encore Optoelectronic Technology Co., Ltd",
+        "protected": false,
+        "username": "Encorelightbob"
+      },
+      {
+        "id": "1377338130785828867",
+        "name": "Zyphra",
+        "protected": false,
+        "username": "ZyphraAI"
+      },
+      {
+        "id": "4215921",
+        "name": "Jason ✨👾SaaStr.Ai✨ Lemkin",
+        "protected": false,
+        "username": "jasonlk"
+      },
+      {
+        "id": "1570599115",
+        "name": "Alex 🧩 Scaling Video GenAI",
+        "protected": false,
+        "username": "alexmashrabov"
+      },
+      {
+        "id": "1712267009483022336",
+        "name": "Higgsfield AI 🧩",
+        "protected": false,
+        "username": "higgsfield_ai"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2120725657680506993",
+    "next_token": "7140dibdnow9c7btwp0gm31ny3zl88gj5hb241xt9ndpv",
+    "oldest_id": "2120172426432798723",
+    "previous_token": "77qpymm88g5h9vqkmfps2ilt83wlguiltha13vixlmh4j",
+    "result_count": 23
+  }
+}

@@ -1,0 +1,1375 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T23:45:05.000Z",
+      "edit_history_tweet_ids": [
+        "2072104164935762323"
+      ],
+      "id": "2072104164935762323",
+      "in_reply_to_user_id": "1995129612888940544",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 900,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071967716563427664",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Formulasearch 其实挺好用的，在创造性和探索性工作上",
+      "url": "https://x.com/gengdaJ/status/2072104164935762323"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T14:41:32.000Z",
+      "edit_history_tweet_ids": [
+        "2071967377944887577"
+      ],
+      "id": "2071967377944887577",
+      "in_reply_to_user_id": "885086674828578816",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1466,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071713395813028114",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@PandaTalk8 因为字节团队（我知道的）都是从啥都不会开始摸索，没有固化产品思维。他们很多团队真的太草台了，但是效率也确实高，从不会到会也就是几个月。。。",
+      "url": "https://x.com/gengdaJ/status/2071967377944887577"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T14:08:54.000Z",
+      "edit_history_tweet_ids": [
+        "2071959164545601885"
+      ],
+      "id": "2071959164545601885",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1056,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071949325672894598",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c 值得逐帧学习，这个思路真的太妙了！😎",
+      "url": "https://x.com/gengdaJ/status/2071959164545601885"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T14:02:57.000Z",
+      "edit_history_tweet_ids": [
+        "2071957664645681516"
+      ],
+      "id": "2071957664645681516",
+      "in_reply_to_user_id": "1953337039510003712",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 183,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071897922510164152",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thsottiaux @iamsahaj_xyz Google Calendar? Why not add one into Codex?",
+      "url": "https://x.com/gengdaJ/status/2071957664645681516"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2071503587667025920"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T13:25:09.000Z",
+      "edit_history_tweet_ids": [
+        "2071948152882757803"
+      ],
+      "id": "2071948152882757803",
+      "public_metrics": {
+        "bookmark_count": 575,
+        "impression_count": 54584,
+        "like_count": 537,
+        "quote_count": 3,
+        "reply_count": 41,
+        "retweet_count": 113
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071881016013205890",
+          "type": "quoted"
+        }
+      ],
+      "text": "我愿称Sac老师为个人网站的神！从未见过这么牛逼的用Codex搭建个人网站的方法！\n\n高级感个人网站搭建，小白上手的保姆级教程：\n\n1. 用 Codex 分析社媒数据，整理详细的网站内容文档。 https://t.co/0AmkEJNdLf",
+      "url": "https://x.com/gengdaJ/status/2071948152882757803"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T13:12:37.000Z",
+      "edit_history_tweet_ids": [
+        "2071945001454752070"
+      ],
+      "id": "2071945001454752070",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1007,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071943696921079902",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c Sac老师，这个得擦亮眼，这个估计是找苦力去做内测，不是真心想付费合作",
+      "url": "https://x.com/gengdaJ/status/2071945001454752070"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T13:07:22.000Z",
+      "edit_history_tweet_ids": [
+        "2071943678197920085"
+      ],
+      "id": "2071943678197920085",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 85,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071943377185026103",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c 我已经在搭建自己的网站了，争取尽快上线哈哈哈",
+      "url": "https://x.com/gengdaJ/status/2071943678197920085"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T12:33:23.000Z",
+      "edit_history_tweet_ids": [
+        "2071935127622742247"
+      ],
+      "id": "2071935127622742247",
+      "in_reply_to_user_id": "1928711169419956224",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1435,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071861081551601760",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoSailGlobal 还送书呢，但我觉得还不如Jason哥的推文干货多🤣",
+      "url": "https://x.com/gengdaJ/status/2071935127622742247"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T12:14:19.000Z",
+      "edit_history_tweet_ids": [
+        "2071930326327361541"
+      ],
+      "id": "2071930326327361541",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3213,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071881016013205890",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c 卧槽！又要逐帧学习了！Sac老师牛逼！",
+      "url": "https://x.com/gengdaJ/status/2071930326327361541"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T10:16:51.000Z",
+      "edit_history_tweet_ids": [
+        "2071900765493579853"
+      ],
+      "id": "2071900765493579853",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2408,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071872329181765681",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 我真要装逼了，抖音必须得装，那些人都是慕强的。",
+      "url": "https://x.com/gengdaJ/status/2071900765493579853"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-30T00:46:44.000Z",
+      "edit_history_tweet_ids": [
+        "2071757290508877956"
+      ],
+      "id": "2071757290508877956",
+      "in_reply_to_user_id": "1185491874",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 681,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071655771193176306",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Marathon1024 有时候 Macbook Air也不方便携带的场景就很合适。如果非要 Mac Mini 和 Macbook Air 同事开发，要么并行开发，要么 GitHub 同步",
+      "url": "https://x.com/gengdaJ/status/2071757290508877956"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T12:38:12.000Z",
+      "edit_history_tweet_ids": [
+        "2071573951525073159"
+      ],
+      "id": "2071573951525073159",
+      "in_reply_to_user_id": "1941694593097138176",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 934,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071572348747325532",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vvelvia50 但是不知道的人第一次听说，真的很震惊！！！",
+      "url": "https://x.com/gengdaJ/status/2071573951525073159"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2071557939580817408"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T11:38:56.000Z",
+      "edit_history_tweet_ids": [
+        "2071559037372547316"
+      ],
+      "id": "2071559037372547316",
+      "public_metrics": {
+        "bookmark_count": 50,
+        "impression_count": 40864,
+        "like_count": 68,
+        "quote_count": 0,
+        "reply_count": 16,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2057297590593667090",
+          "type": "quoted"
+        }
+      ],
+      "text": "唯一一个我爸都迫切想用的产品。。。\n\nGPT啥的他都不感兴趣，但是我不经意间使用UU远程的时候，他两眼都在发光。\n\n所以AI工具为啥普及不开，就是因为效果不够立竿见影，很多人第一次使用都是对着对话框发呆。 https://t.co/b9rjl8G3s7 https://t.co/GA4LAKWIQD",
+      "url": "https://x.com/gengdaJ/status/2071559037372547316"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T08:44:05.000Z",
+      "edit_history_tweet_ids": [
+        "2071515034682053075"
+      ],
+      "id": "2071515034682053075",
+      "in_reply_to_user_id": "1869683226178146304",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3051,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071508004772475209",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c 我靠这个真得学",
+      "url": "https://x.com/gengdaJ/status/2071515034682053075"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2071508179868135424"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T08:16:59.000Z",
+      "edit_history_tweet_ids": [
+        "2071508214081020188"
+      ],
+      "id": "2071508214081020188",
+      "in_reply_to_user_id": "3178231",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1833,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071479120794382585",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotey 😭 https://t.co/hdWjcRaPDS",
+      "url": "https://x.com/gengdaJ/status/2071508214081020188"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T08:13:03.000Z",
+      "edit_history_tweet_ids": [
+        "2071507224086847831"
+      ],
+      "id": "2071507224086847831",
+      "in_reply_to_user_id": "1920570925465956352",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 74,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071452177428627564",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@outlanderbarui @hqmank Wow！",
+      "url": "https://x.com/gengdaJ/status/2071507224086847831"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2071507104867995648"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T08:12:39.000Z",
+      "edit_history_tweet_ids": [
+        "2071507122815468018"
+      ],
+      "id": "2071507122815468018",
+      "in_reply_to_user_id": "1260921",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1441,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071426331607465994",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hqmank 🥹 https://t.co/Bnnwcj6ywF",
+      "url": "https://x.com/gengdaJ/status/2071507122815468018"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T08:11:10.000Z",
+      "edit_history_tweet_ids": [
+        "2071506751527207182"
+      ],
+      "id": "2071506751527207182",
+      "in_reply_to_user_id": "1226419222474936320",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 92,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071503672778060284",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@canghe 我是个啥大佬🤣来向苍何老师学习",
+      "url": "https://x.com/gengdaJ/status/2071506751527207182"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T07:54:59.000Z",
+      "edit_history_tweet_ids": [
+        "2071502678904254500"
+      ],
+      "id": "2071502678904254500",
+      "in_reply_to_user_id": "1226419222474936320",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1477,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071437886273253871",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@canghe 来了苍何老师",
+      "url": "https://x.com/gengdaJ/status/2071502678904254500"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T07:53:53.000Z",
+      "edit_history_tweet_ids": [
+        "2071502402214383964"
+      ],
+      "id": "2071502402214383964",
+      "in_reply_to_user_id": "1881991469730594816",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3381,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071444502837887216",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gkxspace 我推荐了三次了温总，前两个都断货了，还剩一个，好像叫 dedline 还是啥哈哈哈",
+      "url": "https://x.com/gengdaJ/status/2071502402214383964"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T05:38:03.000Z",
+      "edit_history_tweet_ids": [
+        "2071468218045403454"
+      ],
+      "id": "2071468218045403454",
+      "in_reply_to_user_id": "1938813785881395200",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 122,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071466592073076828",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JianingXiong @Astronaut_1216 不收，帮抖音办的，还给钱。但是好处是积累了抖音资源和高校资源，虽然目前看下来，作用不大…当然也有可能是我局限了",
+      "url": "https://x.com/gengdaJ/status/2071468218045403454"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T04:01:41.000Z",
+      "edit_history_tweet_ids": [
+        "2071443965195558971"
+      ],
+      "id": "2071443965195558971",
+      "in_reply_to_user_id": "1792608085409939456",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1445,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071127376046739774",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 去年十一月份组织了一场C端活动，发誓这辈子除非特别能赚钱，再也不办了，力竭了",
+      "url": "https://x.com/gengdaJ/status/2071443965195558971"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T03:55:28.000Z",
+      "edit_history_tweet_ids": [
+        "2071442400992809325"
+      ],
+      "id": "2071442400992809325",
+      "in_reply_to_user_id": "1897545708770840576",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 8880,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2070666305020350830",
+          "type": "quoted"
+        },
+        {
+          "id": "2071061503764226193",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/IPoPDa2HJX",
+      "url": "https://x.com/gengdaJ/status/2071442400992809325"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T02:15:19.000Z",
+      "edit_history_tweet_ids": [
+        "2071417198443422078"
+      ],
+      "id": "2071417198443422078",
+      "in_reply_to_user_id": "1583844110372323328",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1232,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071156480674607525",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mzmmsplf 微信官方插件。。。正规合规",
+      "url": "https://x.com/gengdaJ/status/2071417198443422078"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "created_at": "2026-06-29T02:14:58.000Z",
+      "edit_history_tweet_ids": [
+        "2071417107376636324"
+      ],
+      "id": "2071417107376636324",
+      "in_reply_to_user_id": "742486840884748292",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1866,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071296756420342256",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@StewartWon0527 主要飞书打开频率相比微信还是低太多了",
+      "url": "https://x.com/gengdaJ/status/2071417107376636324"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2071452177428627564].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071452177428627564",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2071452177428627564"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "13_2071503587667025920",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2071557939580817408",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2071508179868135424",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2071507104867995648",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1995129612888940544",
+        "created_at": "2026-06-30T14:42:53.000Z",
+        "edit_history_tweet_ids": [
+          "2071967716563427664"
+        ],
+        "id": "2071967716563427664",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5463,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "text": "作为去年一直用Gemini的人，\n\n现在看Gemini，\n\n就像是在看自己兄弟逐渐得了阿尔茨海默病一样"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071712211769368576"
+          ]
+        },
+        "author_id": "885086674828578816",
+        "created_at": "2026-06-29T21:52:18.000Z",
+        "edit_history_tweet_ids": [
+          "2071713395813028114"
+        ],
+        "id": "2071713395813028114",
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 37124,
+          "like_count": 42,
+          "quote_count": 3,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "text": "不知道为什么， 现在国内三家互联网大厂里， 阿里、腾讯的产品都不如字节的产品。 \n字节的豆包和trae的产品符合常识， 有结构，有逻辑， 简单也好理解。  \n很好奇做出这样的产品，有没有做产品的标准SOP模板可以学习和套用。 https://t.co/lYMC3YyHaG"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "created_at": "2026-06-30T13:29:48.000Z",
+        "edit_history_tweet_ids": [
+          "2071949325672894598"
+        ],
+        "id": "2071949325672894598",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1305,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071948152882757803",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 感谢逸尘老师推荐"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-06-30T10:05:33.000Z",
+        "edit_history_tweet_ids": [
+          "2071897922510164152"
+        ],
+        "id": "2071897922510164152",
+        "in_reply_to_user_id": "1426676644152889345",
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 34845,
+          "like_count": 511,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071742864405799294",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@iamsahaj_xyz I personally DM it to Codex and it stores it into my notes folder all neatly organized. Some things it then just does itself and for the rest it reminds me of things I need to do a few when I have free time based on my calendar"
+      },
+      {
+        "article": {
+          "cover_media": "3_2071880566132076544",
+          "entities": {
+            "code": [
+              {
+                "code": "这是我目前生成好的网页参考图。请你逐页分析它们的结构，帮我判断：\n1. 哪些部分可以用代码实现\n2. 哪些关键视觉元素需要单独生成素材\n先不要开始写代码，先给我一份素材拆解建议。",
+                "content": "```plaintext\n这是我目前生成好的网页参考图。请你逐页分析它们的结构，帮我判断：\n1. 哪些部分可以用代码实现\n2. 哪些关键视觉元素需要单独生成素材\n先不要开始写代码，先给我一份素材拆解建议。\n\n```",
+                "language": "plaintext"
+              }
+            ],
+            "tweets": [
+              {
+                "id": "2071508004772475209"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/imagegen-frontend-web/SKILL.md"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f3c5.svg"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f3c5.svg"
+              },
+              {
+                "text": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/imagegen-frontend-web/SKILL.md%EF%BC%89"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2071873168881377280",
+            "3_2071869395207368704",
+            "3_2071866507890425856",
+            "3_2071875453707583488",
+            "3_2071868281175105536"
+          ],
+          "plain_text": "AI时代，个人网站就是最好的简历。\n昨天我发布了个人网站demo，全网收获了近10万的浏览，许多朋友私信我制作方法。\n \n0:05\n🏅8,849\n🏅8,849\n承蒙大家的喜欢，我将详细介绍如何用Codex在2小时内做出属于你自己风格的个人网站。\n总体步骤： 整理网站内容文档 — 使用 taste skill 生成网页参考图 — 单独生成素材图片 — 用Frontend App Builder skill 复刻网页\n（详细步骤如下）\n第一步：用 Codex 整理详细的网站内容文档\n和 Codex 详细表达自己的个人信息和网站需要传递的内容，让其整理一份详细的结构化文档。\n我的文档大致包括了以下内容：\nSac 个人信息和IP定位\n页面数目、结构和风格\n整体的设计方向和布局\n小 tips: 可以利用 Chrome 插件让 Codex 查看你社媒，帮你补充信息\n第二步：利用 taste skill 生成高质量网页参考图\n使用 taste skill 里的 imagegen-frontend-web skill，结合网站内容文档，生成每一个页面的详细参考图。\nGitHub地址：https://github.com/Leonxlnx/taste-skill/blob/main/skills/imagegen-frontend-web/SKILL.md\n这是我的提示词：\n \n得到的参考图效果如下：\n \n注：taste skill 里的 imagegen-frontend-web skill能让 Codex 在生成图片时更有审美，画面会更具设计感\n第三步：分析拆解参考图结构，关键素材单独生成图片\n在得到完整的参考图后，各个网页的关键素材需要单独生成。我们可以直接在对话框输入： \n \n然后利用 ImageGen 生成关键素材图片，保证和参考图里的细节一致。\n例如我个人网站中的头像素材：\n \n第四步：利用Codex内置的Frontend App Builder skill将网页参考图复刻成真实网页\n把前面确定好的参考图和素材图片提交给 Codex 进行网页复刻。\n这里用到的是 Build Web Apps 插件里的 Frontend App Builder skill，它会把参考图当成设计稿，并按照一套结构化流程进行高保真还原。\n复刻网页的参考提示词：\n \n复刻的效果如下：\n ",
+          "preview_text": "AI时代，个人网站就是最好的简历。\n昨天我发布了个人网站demo，全网收获了近10万的浏览，许多朋友私信我制作方法。\n \n0:05\n🏅8,849\n🏅8,849",
+          "title": "个人网站，是你上手 Codex 的最好项目"
+        },
+        "author_id": "1869683226178146304",
+        "created_at": "2026-06-30T08:58:22.000Z",
+        "edit_history_tweet_ids": [
+          "2071881016013205890"
+        ],
+        "id": "2071881016013205890",
+        "public_metrics": {
+          "bookmark_count": 1216,
+          "impression_count": 226811,
+          "like_count": 720,
+          "quote_count": 32,
+          "reply_count": 67,
+          "retweet_count": 114
+        },
+        "text": "https://t.co/qjWJeE5kR4"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071943684057100288"
+          ]
+        },
+        "author_id": "1869683226178146304",
+        "created_at": "2026-06-30T13:07:26.000Z",
+        "edit_history_tweet_ids": [
+          "2071943696921079902"
+        ],
+        "id": "2071943696921079902",
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 16228,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071508004772475209",
+            "type": "quoted"
+          }
+        ],
+        "text": "做 AI 自媒体是一定要做国内平台的，我小红书200粉丝居然都会有人找我合作 https://t.co/6zsLBEk60t https://t.co/tWKqupZc3d"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "created_at": "2026-06-30T13:06:10.000Z",
+        "edit_history_tweet_ids": [
+          "2071943377185026103"
+        ],
+        "id": "2071943377185026103",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1660,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071930326327361541",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 逸尘老师牛逼 一起加油"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071859431185215488",
+            "3_2071859962058330112"
+          ]
+        },
+        "author_id": "1928711169419956224",
+        "created_at": "2026-06-30T07:39:09.000Z",
+        "edit_history_tweet_ids": [
+          "2071861081551601760"
+        ],
+        "id": "2071861081551601760",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5522,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "text": "原来ai博主的福利还有WAIC门票\n\n之前还成了WAIC世界人工智能大会的合作社群\n\n话说我的设计美感太差了，有没有哪个哥给我GoSail设计个logo啊 https://t.co/ZJNW674Eyd"
+      },
+      {
+        "author_id": "1881991469730594816",
+        "created_at": "2026-06-30T08:23:51.000Z",
+        "edit_history_tweet_ids": [
+          "2071872329181765681"
+        ],
+        "id": "2071872329181765681",
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 124462,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "text": "想做好自媒体，只需要会“合理的”装逼\n\n但我又觉得装逼会显得自己很傻逼。。。\n\n看来我需要突破一下了......"
+      },
+      {
+        "author_id": "1185491874",
+        "created_at": "2026-06-29T18:03:20.000Z",
+        "edit_history_tweet_ids": [
+          "2071655771193176306"
+        ],
+        "id": "2071655771193176306",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 964,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071559037372547316",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 用这个工具的话，还是要让 MacBook Air 一直开机的。我也考虑过用这个方案，但是与其这样用，那还不如就干脆把 MacBook Air 带在身边呢。另外我想可能可以用 UU 连上家里一直开机的 Mac mini，在 Mac mini 上另外跑一个 codex 或者 Claude 的进程？但是我没想好 Mac mini 上开发的项目目录怎么和"
+      },
+      {
+        "author_id": "1941694593097138176",
+        "created_at": "2026-06-29T12:31:50.000Z",
+        "edit_history_tweet_ids": [
+          "2071572348747325532"
+        ],
+        "id": "2071572348747325532",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1068,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071559037372547316",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 这种工具都好多年啦，以前都是游戏在家挂着，上班偶尔用手机点一下"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2057296443619307520",
+            "3_2057296483905568768",
+            "3_2057296501563703296"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-05-21T03:09:02.000Z",
+        "edit_history_tweet_ids": [
+          "2057296825032601758",
+          "2057297590593667090"
+        ],
+        "id": "2057297590593667090",
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 92559,
+          "like_count": 108,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 9
+        },
+        "text": "在这款工具面前，Codex App的远程操控有点小巫见大巫啊！我现在出门在外只有一部手机，全靠这款远程控制工具！\n​\n下面这个视频是我手机上录制的！我直接在手机上用UU远程操控了我的Codex，然后在对话框调用手机键盘配合豆包输入法口喷实现了谷歌2026 I/O 大会新模型新功能的研究。 https://t.co/swSBafe4wk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2071503587667025920"
+          ]
+        },
+        "author_id": "1869683226178146304",
+        "created_at": "2026-06-29T08:16:09.000Z",
+        "edit_history_tweet_ids": [
+          "2071508004772475209"
+        ],
+        "id": "2071508004772475209",
+        "public_metrics": {
+          "bookmark_count": 626,
+          "impression_count": 150245,
+          "like_count": 812,
+          "quote_count": 8,
+          "reply_count": 151,
+          "retweet_count": 66
+        },
+        "text": "AI时代个人网站是最好的简历\n\n下面是我用Codex制作的个人网站，各位大佬能否提提意见 https://t.co/su07ExtOJA"
+      },
+      {
+        "author_id": "3178231",
+        "created_at": "2026-06-29T06:21:23.000Z",
+        "edit_history_tweet_ids": [
+          "2071478945363493171",
+          "2071479120794382585"
+        ],
+        "id": "2071479120794382585",
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 134812,
+          "like_count": 153,
+          "quote_count": 16,
+          "reply_count": 68,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071426331607465994",
+            "type": "quoted"
+          }
+        ],
+        "text": "据说 GPT 5.6 Sol 正在灰度，可以通过 Juice 测试 Prompt 验证，如果返回 128 就是 GPT 5.6 Sol，否则还是 GPT 5.5。我测试了还是 768\n\n选择 gpt-5.5，将推理设置为 xhigh，然后运行 Juice 测试提示：\n\n&lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt;\n&lt;request xmlns:xsi=\"https://t.co/IYRQSe7Dlu\" https://t.co/SnFlyE7zef"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071426324883984384"
+          ]
+        },
+        "author_id": "1260921",
+        "created_at": "2026-06-29T02:51:37.000Z",
+        "edit_history_tweet_ids": [
+          "2071426331607465994"
+        ],
+        "id": "2071426331607465994",
+        "public_metrics": {
+          "bookmark_count": 398,
+          "impression_count": 287381,
+          "like_count": 701,
+          "quote_count": 28,
+          "reply_count": 91,
+          "retweet_count": 38
+        },
+        "text": "Community report: Codex may be quietly routing some gpt-5.5 xhigh sessions to gpt-5.6-sol.\n\nTry it in Codex App/CLI:\n\nselect gpt-5.5, set reasoning to xhigh, then run the Juice test prompt.\n\nIf it returns 128, you are probably in the gray rollout.\n\nWorth testing to see if you got https://t.co/t2IJ0A3rQV"
+      },
+      {
+        "author_id": "1226419222474936320",
+        "created_at": "2026-06-29T07:58:56.000Z",
+        "edit_history_tweet_ids": [
+          "2071503672778060284"
+        ],
+        "id": "2071503672778060284",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071502678904254500",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 大佬来捧场了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071437821290987520"
+          ]
+        },
+        "author_id": "1226419222474936320",
+        "created_at": "2026-06-29T03:37:32.000Z",
+        "edit_history_tweet_ids": [
+          "2071437886273253871"
+        ],
+        "id": "2071437886273253871",
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 29411,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059579175275561415",
+            "type": "quoted"
+          }
+        ],
+        "text": "很多朋友问 Codex 交流群的事，我先在加上啦。感兴趣的可以入！ https://t.co/4StunnswOX https://t.co/iEwQMsERIO"
+      },
+      {
+        "author_id": "1881991469730594816",
+        "created_at": "2026-06-29T04:03:49.000Z",
+        "edit_history_tweet_ids": [
+          "2071444502837887216"
+        ],
+        "id": "2071444502837887216",
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10905,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "text": "玩 AI 最大的感悟：90% 的\"电脑出问题\"，根源都是网络\n\n我有用 50 块一个月的机场，也有自建的节点(抢不到好的啊)，平时能用，但偶尔还是掉链子。\n偶尔会丢包、卡一下，刷推看视频感知不强，但有的时候真要命。\n\n另外，网速也是一方面，外出用手机热点可以明显感受到“慢”、“卡”、“老是断”\n\n因为 AI"
+      },
+      {
+        "author_id": "1938813785881395200",
+        "created_at": "2026-06-29T05:31:36.000Z",
+        "edit_history_tweet_ids": [
+          "2071466592073076828"
+        ],
+        "id": "2071466592073076828",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071443965195558971",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ @Astronaut_1216 当时活动收费的么？办这种活动一定要收费，不然会很心累。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071126440381485056",
+            "3_2071126445766918144",
+            "3_2071126453220253696",
+            "3_2071127132525481984"
+          ]
+        },
+        "author_id": "1792608085409939456",
+        "created_at": "2026-06-28T07:03:40.000Z",
+        "edit_history_tweet_ids": [
+          "2071127376046739774"
+        ],
+        "id": "2071127376046739774",
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 18359,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 4
+        },
+        "text": "除了消费类场景，其余所有AI toC的活动全都是赔钱赚吆喝，甚至我们这场活动全网应该有百万曝光，光X就有10w+，到场150+人\n\n如果不想在中国的AI市场上赔钱，如果你是一个有AI改变世界这样愿景的人\n\n我真的希望你能好好看一下我的这次「实验」 https://t.co/4yFzRHr7H7"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071059814017531904",
+            "3_2071059830438313984",
+            "3_2071061157054697472",
+            "3_2071061175429898240"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-06-28T02:41:55.000Z",
+        "edit_history_tweet_ids": [
+          "2071061503764226193"
+        ],
+        "id": "2071061503764226193",
+        "public_metrics": {
+          "bookmark_count": 1580,
+          "impression_count": 191025,
+          "like_count": 1270,
+          "quote_count": 5,
+          "reply_count": 123,
+          "retweet_count": 271
+        },
+        "text": "我是不是最迟把Codex接入微信里面的人。。。\n\n1.本机安装并启动 OpenClaw Gateway\n地址是 http://127.0.0.1:18789/，作为微信和 Codex 之间的中转。\n2.安装微信插件\n安装 https://t.co/SO3IZb3e5g"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2070666214981185536",
+            "3_2070666245536669697"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "created_at": "2026-06-27T00:31:32.000Z",
+        "edit_history_tweet_ids": [
+          "2070666305020350830"
+        ],
+        "id": "2070666305020350830",
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 37750,
+          "like_count": 56,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070584474560241701",
+            "type": "quoted"
+          }
+        ],
+        "text": "GPT5.6和Fable5都被美国政府卡脖子了！它让我越来越确定一件事：AI 大模型已经不只是头部大厂之间的产品战争了，它正在变成基础设施、合规和国家安全层面的东西。\n\n我们真的要提前做好哪天Codex和Claude Code全部进入KYC，大规模封禁不让用的准备😅 https://t.co/HYZJYzcMYW https://t.co/IHivMhHEdh"
+      },
+      {
+        "author_id": "1583844110372323328",
+        "created_at": "2026-06-28T08:59:19.000Z",
+        "edit_history_tweet_ids": [
+          "2071156480674607525"
+        ],
+        "id": "2071156480674607525",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1385,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071061503764226193",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 真勇啊，敢把这东西用在微信上……"
+      },
+      {
+        "author_id": "742486840884748292",
+        "created_at": "2026-06-28T18:16:44.000Z",
+        "edit_history_tweet_ids": [
+          "2071296756420342256"
+        ],
+        "id": "2071296756420342256",
+        "in_reply_to_user_id": "1897545708770840576",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2159,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071061503764226193",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@gengdaJ 感觉微信没飞书好用，飞书CLI的体验还是很棒的"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1995129612888940544",
+        "name": "阿哲Phil",
+        "username": "Formulasearch"
+      },
+      {
+        "id": "885086674828578816",
+        "name": "Mr Panda",
+        "username": "PandaTalk8"
+      },
+      {
+        "id": "1869683226178146304",
+        "name": "Sac",
+        "username": "Saccc_c"
+      },
+      {
+        "id": "1953337039510003712",
+        "name": "Tibo",
+        "username": "thsottiaux"
+      },
+      {
+        "id": "1928711169419956224",
+        "name": "Jason Zhu（GEO）",
+        "username": "GoSailGlobal"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "username": "gkxspace"
+      },
+      {
+        "id": "1185491874",
+        "name": "Marathon",
+        "username": "Marathon1024"
+      },
+      {
+        "id": "1941694593097138176",
+        "name": "建勋再次出发",
+        "username": "vvelvia50"
+      },
+      {
+        "id": "3178231",
+        "name": "宝玉",
+        "username": "dotey"
+      },
+      {
+        "id": "1920570925465956352",
+        "name": "outlanderbarui",
+        "username": "outlanderbarui"
+      },
+      {
+        "id": "1260921",
+        "name": "Kai",
+        "username": "hqmank"
+      },
+      {
+        "id": "1226419222474936320",
+        "name": "苍何",
+        "username": "canghe"
+      },
+      {
+        "id": "1938813785881395200",
+        "name": "Jianing 加宁",
+        "username": "JianingXiong"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "1583844110372323328",
+        "name": "狼之羊（欲哭无泪ing）",
+        "username": "mzmmsplf"
+      },
+      {
+        "id": "742486840884748292",
+        "name": "小万同学",
+        "username": "StewartWon0527"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2072104164935762323",
+    "next_token": "b26v89c19zqg8o3juetgazmaacg6tzcojz6wfev22msfx",
+    "oldest_id": "2071417107376636324",
+    "result_count": 25
+  }
+}

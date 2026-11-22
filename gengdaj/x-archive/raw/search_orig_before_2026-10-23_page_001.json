@@ -1,0 +1,2199 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2112851596195540993",
+          "3_2112851725443043328"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2112852661309669815",
+      "created_at": "2026-10-21T10:25:04.000Z",
+      "edit_history_tweet_ids": [
+        "2112852661309669815"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/meV1WhBPtG",
+            "end": 111,
+            "expanded_url": "https://x.com/gengdaJ/status/2112852661309669815/photo/1",
+            "media_key": "3_2112851596195540993",
+            "start": 88,
+            "url": "https://t.co/meV1WhBPtG"
+          },
+          {
+            "display_url": "pic.x.com/meV1WhBPtG",
+            "end": 111,
+            "expanded_url": "https://x.com/gengdaJ/status/2112852661309669815/photo/2",
+            "media_key": "3_2112851725443043328",
+            "start": 88,
+            "url": "https://t.co/meV1WhBPtG"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 135,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2112778834378670195",
+            "start": 112,
+            "url": "https://t.co/mJ1TfI0BHs"
+          }
+        ]
+      },
+      "id": "2112852661309669815",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "？？？兄弟们，我也是好起来了，都收到律师函了。。。\n\nAI时代和传统App入口的竞争，已经来到了火热化的阶段，剪映项目可能存活不了太久了，建议大家赶紧Fork最后一波吧。。。\n\n我个人认为这个项目对剪映项目是利好，让很多不用剪映的人，用Agent降低了门槛，都用起来了，加大了开通剪映SVIP和使用各种付费功能的可能性。\n\n但是鼠目寸光的团队方，非要认为那点软植广告更重要，说实话，没有Agent打通的剪映，在AI时代，迟早被干掉！\n\n害！害！害！\n\n兄弟们想要我怎么回复这封信，也可以留在评论区。"
+      },
+      "public_metrics": {
+        "bookmark_count": 722,
+        "impression_count": 208429,
+        "like_count": 746,
+        "quote_count": 22,
+        "reply_count": 209,
+        "retweet_count": 57
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112778834378670195",
+          "type": "quoted"
+        }
+      ],
+      "text": "？？？兄弟们，我也是好起来了，都收到律师函了。。。\n\nAI时代和传统App入口的竞争，已经来到了火热化的阶段，剪映项目可能存活不了太久了，建议大家赶紧Fork最后一波吧。。。 https://t.co/meV1WhBPtG https://t.co/mJ1TfI0BHs",
+      "url": "https://x.com/gengdaJ/status/2112852661309669815"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2112776138619813889"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2112778834378670195",
+      "created_at": "2026-10-21T05:31:42.000Z",
+      "edit_history_tweet_ids": [
+        "2112778834378670195"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/qsL1r0V1DM",
+            "end": 137,
+            "expanded_url": "https://x.com/gengdaJ/status/2112778834378670195/photo/1",
+            "media_key": "3_2112776138619813889",
+            "start": 114,
+            "url": "https://t.co/qsL1r0V1DM"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 161,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2100748639228367257",
+            "start": 138,
+            "url": "https://t.co/ozenjrGAMu"
+          }
+        ]
+      },
+      "id": "2112778834378670195",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pan.quark.cn/s/2595af66ee0b",
+              "end": 293,
+              "expanded_url": "https://pan.quark.cn/s/2595af66ee0b",
+              "start": 270,
+              "url": "https://t.co/EqmpqcACcX"
+            },
+            {
+              "display_url": "github.com/mcncarl/jianyi…",
+              "end": 330,
+              "expanded_url": "https://github.com/mcncarl/jianying-headless",
+              "start": 307,
+              "url": "https://t.co/CGXDq1tKxP"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 366,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+              "start": 343,
+              "url": "https://t.co/QQ5XDF7Dc4"
+            },
+            {
+              "display_url": "platform.stepfun.com",
+              "end": 408,
+              "expanded_url": "https://platform.stepfun.com",
+              "start": 385,
+              "url": "https://t.co/YniNusjF11"
+            }
+          ]
+        },
+        "text": "无头剪映和剪映Skill大升级！这次我把安装包分享给大家了，一定要保存！一定要保存！大家别再老是和我说版本不适配的问题了。。。😅\n\n1、适配剪映 11.6.0：现在默认使用新版剪映，原来的 11.5、11.4.2 也继续兼容。\n2、接入Openverse：超过520万个音频文件！免费使用！音效直接解放！每次使用联网获取即可（配置好的）\n3、ASR模型成本降低五倍：从豆包ASR改为Step 2.5 ASR 首发，剪辑视频效果和各项指标更优，成本是0.15元/h（对比豆包0.8元/h)，同样支持毫秒级输出。\n\n11.6.0永久安装包地址：https://t.co/EqmpqcACcX\n无头剪映GitHub地址：https://t.co/CGXDq1tKxP\n配套剪辑Skill地址：https://t.co/QQ5XDF7Dc4\nStep 2.5 ASR中国站地址：https://t.co/YniNusjF11"
+      },
+      "public_metrics": {
+        "bookmark_count": 2168,
+        "impression_count": 240426,
+        "like_count": 1055,
+        "quote_count": 11,
+        "reply_count": 56,
+        "retweet_count": 167
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100748639228367257",
+          "type": "quoted"
+        }
+      ],
+      "text": "无头剪映和剪映Skill大升级！这次我把安装包分享给大家了，一定要保存！一定要保存！大家别再老是和我说版本不适配的问题了。。。😅\n\n1、适配剪映 11.6.0：现在默认使用新版剪映，原来的 11.5、11.4.2 也继续兼容。 https://t.co/qsL1r0V1DM https://t.co/ozenjrGAMu",
+      "url": "https://x.com/gengdaJ/status/2112778834378670195"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2111344530490552560",
+      "created_at": "2026-10-17T06:32:17.000Z",
+      "edit_history_tweet_ids": [
+        "2111344530490552560"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/mcncarl/yichen…",
+            "end": 124,
+            "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wecom-local-vault",
+            "start": 101,
+            "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wecom-local-vault",
+            "url": "https://t.co/fZP4cTAouJ"
+          },
+          {
+            "display_url": "github.com/mcncarl/yichen…",
+            "end": 158,
+            "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wecom-local-vault",
+            "start": 135,
+            "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wecom-local-vault",
+            "url": "https://t.co/fZP4cTAouJ"
+          },
+          {
+            "display_url": "x.com/xiaohuiyuan/st…",
+            "end": 220,
+            "expanded_url": "https://twitter.com/xiaohuiyuan/status/2111298599200141342",
+            "start": 197,
+            "url": "https://t.co/xQROzKL2Lu"
+          }
+        ]
+      },
+      "id": "2111344530490552560",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 124,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wecom-local-vault",
+              "start": 101,
+              "url": "https://t.co/RWmFUGr1wr"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 158,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-wecom-local-vault",
+              "start": 135,
+              "url": "https://t.co/RWmFUGr1wr"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 337,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-bookmarks-export",
+              "start": 314,
+              "url": "https://t.co/MaWvcqbihE"
+            },
+            {
+              "display_url": "github.com/mcncarl/agent-…",
+              "end": 404,
+              "expanded_url": "https://github.com/mcncarl/agent-memory-vault",
+              "start": 381,
+              "url": "https://t.co/KClBJy97Zi"
+            }
+          ]
+        },
+        "text": "当下最优的选择，不是用《Personal Agent》，而是用Claude Code打造一套专属自己的《Personal Agent》驯化思路——我眼即Agent眼，共享世界上下文\n\n1、微信数据打通：https://t.co/RWmFUGr1wr\n\n2、企微数据打通：https://t.co/RWmFUGr1wr\n\n3、飞书：飞书CLI\n\n4、Gmail、Slack、Lark：对应的插件\n\n5、电脑所有操作记录：Codex History\n\n6、重要线下会议分享和对话：千问App和豆包App录音（录音豆/录音笔录音），用豆包ASR或Step ASR进行文字转化成Markdown\n\n7、X书签、小红书收藏和抖音收藏打通：https://t.co/MaWvcqbihE\n\n8、所有和Codex、Claude Code的聊天记录，自动沉淀成Markdown：https://t.co/KClBJy97Zi"
+      },
+      "public_metrics": {
+        "bookmark_count": 818,
+        "impression_count": 50757,
+        "like_count": 450,
+        "quote_count": 5,
+        "reply_count": 48,
+        "retweet_count": 78
+      },
+      "referenced_tweets": [
+        {
+          "id": "2111298599200141342",
+          "type": "quoted"
+        }
+      ],
+      "text": "当下最优的选择，不是用《Personal Agent》，而是用Claude Code打造一套专属自己的《Personal Agent》驯化思路——我眼即Agent眼，共享世界上下文\n\n1、微信数据打通：https://t.co/fZP4cTAouJ\n\n2、企微数据打通：https://t.co/fZP4cTAouJ\n\n3、飞书：飞书CLI\n\n4、Gmail、Slack、Lark：对应的插件 https://t.co/xQROzKL2Lu",
+      "url": "https://x.com/gengdaJ/status/2111344530490552560"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2110724232246333792",
+      "created_at": "2026-10-15T13:27:26.000Z",
+      "edit_history_tweet_ids": [
+        "2110724232246333792"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 177,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2108363527971041650",
+            "start": 154,
+            "url": "https://t.co/YywyadtbXk"
+          }
+        ]
+      },
+      "id": "2110724232246333792",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "account.apple.com/account",
+              "end": 422,
+              "expanded_url": "https://account.apple.com/account",
+              "start": 399,
+              "url": "https://t.co/DuYpkquYmV"
+            },
+            {
+              "display_url": "bandwagonhost.com/aff.php?aff=84…",
+              "end": 478,
+              "expanded_url": "https://bandwagonhost.com/aff.php?aff=84928",
+              "start": 455,
+              "url": "https://t.co/BO2d4Q4gtD"
+            },
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 531,
+              "expanded_url": "https://x.com/gengdaJ/status/2029570219354845577",
+              "start": 508,
+              "url": "https://t.co/jaJ7yCy3f1"
+            },
+            {
+              "display_url": "ebay.com/itm/1368402332…",
+              "end": 569,
+              "expanded_url": "https://www.ebay.com/itm/136840233242?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339217721&toolid=80009&mkevt=1",
+              "start": 546,
+              "url": "https://t.co/lm8m6bZVWz"
+            },
+            {
+              "display_url": "shop.beeesim.com/register?ref=7…",
+              "end": 604,
+              "expanded_url": "https://shop.beeesim.com/register?ref=7QLE2MXR",
+              "start": 581,
+              "url": "https://t.co/uvSntMY5jh"
+            },
+            {
+              "display_url": "t.co/eh01nPgoZe",
+              "end": 658,
+              "expanded_url": "https://www.starryblu.com/launchRegister?inviteCode=MDDK02H",
+              "start": 635,
+              "url": "https://t.co/eh01nPgoZe"
+            },
+            {
+              "display_url": "bcn5ot9wwnew.feishu.cn/wiki/RpkuwzpHM…",
+              "end": 715,
+              "expanded_url": "https://bcn5ot9wwnew.feishu.cn/wiki/RpkuwzpHMiCoHak2gMjcuJeInFd?from=from_copylink",
+              "start": 692,
+              "url": "https://t.co/GbiZlIbIcP"
+            }
+          ]
+        },
+        "text": "这俩天和很多混沌商学院的大佬交流，很惊讶地发现这些已经走在最前沿的企业家，其实都还没意识到Claude Code的工作效率已经远远领先Codex（至少是Codex的三倍）和其他所有工具。。。\n\n世界的信息差巨大，X只是很小的一口井。。。但是会用Claude的人和不会用Claude的人真的不是一个物种。。。\n\n而我这个教程应该是中推门槛最低、最详细的Claude防封号注册的订阅教程了。推荐所有朋友试一下，别只是看和收藏，用起来！绝对碾压Codex了。。。\n\n1、注册一个新的Apple ID，搞一个Shadowrocket\n2、用Dmit或者搬瓦工的VPS自建出口IP（付教程）\n3、按照文章内Skill和提示词清理旧环境\n4、修改成台北时区\n5、（可选）redpocket+beesim搞美国手机号ESIM\n6、starryblu新加坡卡订阅Claude\n7、中国护照过KYC\n\n苹果ID注册：https://t.co/DuYpkquYmV\nDMIT VPS购买链接（经常缺货）：\n搬瓦工 VPS购买链接：https://t.co/BO2d4Q4gtD\n独享干净IP搭建教程（把这篇文章发给任意Agent搭建）：https://t.co/jaJ7yCy3f1\nRedpocket购买链接：https://t.co/lm8m6bZVWz\nBeesim购买链接：https://t.co/uvSntMY5jh\nStarryblu开卡链接（9.9美元买一个月，然后取消）：https://t.co/eh01nPgoZe\nStarryblu开卡白名单（需要走我链接，要不给钱也开不了卡）：https://t.co/GbiZlIbIcP"
+      },
+      "public_metrics": {
+        "bookmark_count": 1110,
+        "impression_count": 72732,
+        "like_count": 717,
+        "quote_count": 9,
+        "reply_count": 40,
+        "retweet_count": 160
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108363527971041650",
+          "type": "quoted"
+        }
+      ],
+      "text": "这俩天和很多混沌商学院的大佬交流，很惊讶地发现这些已经走在最前沿的企业家，其实都还没意识到Claude Code的工作效率已经远远领先Codex（至少是Codex的三倍）和其他所有工具。。。\n\n世界的信息差巨大，X只是很小的一口井。。。但是会用Claude的人和不会用Claude的人真的不是一个物种。。。 https://t.co/YywyadtbXk",
+      "url": "https://x.com/gengdaJ/status/2110724232246333792"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2110176951453515776"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2110181059837231614",
+      "created_at": "2026-10-14T01:29:04.000Z",
+      "edit_history_tweet_ids": [
+        "2110181059837231614"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/cKRLjY9k1k",
+            "end": 161,
+            "expanded_url": "https://x.com/gengdaJ/status/2110181059837231614/video/1",
+            "media_key": "13_2110176951453515776",
+            "start": 138,
+            "url": "https://t.co/cKRLjY9k1k"
+          },
+          {
+            "display_url": "x.com/higgsfield_ai/…",
+            "end": 185,
+            "expanded_url": "https://twitter.com/higgsfield_ai/status/2110074247569924489",
+            "start": 162,
+            "url": "https://t.co/bI5D79tVJq"
+          }
+        ]
+      },
+      "id": "2110181059837231614",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "很多用AI视频模型做虚拟人物Vlog、电商广告、产品带货的朋友，如果不知道这个无限Token的信息差，可能会给自己一耳光。。。\n\n在Higgsfield用Wan3.0做视频真的爽完了：\n1、Plus及以上用户七天无限使用，抽卡狂欢！API也立减60%，只要$0.042/秒！\n2、Wan3.0的视频效果基本比肩Seedance2.5——动作、神情、环境细节、色彩饱和度，大片既视感。\n3、直出30s视频片段、原生音画同步、20个参考素材，电商党、短剧党狂欢。\n4、Wan3.0在多视频领域效果都很拔尖——抖音最近很火的科普类视频、2D动画、Vlog、广告、纪实片...\n\nHiggsfield里面用Wan3.0，价格比Seedance2.5便宜了足足九倍，抓紧福利期，肝就完了！"
+      },
+      "public_metrics": {
+        "bookmark_count": 35,
+        "impression_count": 13407,
+        "like_count": 25,
+        "quote_count": 11,
+        "reply_count": 17,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110074247569924489",
+          "type": "quoted"
+        }
+      ],
+      "text": "很多用AI视频模型做虚拟人物Vlog、电商广告、产品带货的朋友，如果不知道这个无限Token的信息差，可能会给自己一耳光。。。\n\n在Higgsfield用Wan3.0做视频真的爽完了：\n1、Plus及以上用户七天无限使用，抽卡狂欢！API也立减60%，只要$0.042/秒！ https://t.co/cKRLjY9k1k https://t.co/bI5D79tVJq",
+      "url": "https://x.com/gengdaJ/status/2110181059837231614"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2109983315084337351",
+      "created_at": "2026-10-13T12:23:18.000Z",
+      "edit_history_tweet_ids": [
+        "2109983315084337351"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Saccc_c/status…",
+            "end": 96,
+            "expanded_url": "https://twitter.com/Saccc_c/status/2109962425512734739",
+            "start": 73,
+            "url": "https://t.co/Uf9purXmEl"
+          }
+        ]
+      },
+      "id": "2109983315084337351",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 110,
+        "impression_count": 32910,
+        "like_count": 126,
+        "quote_count": 2,
+        "reply_count": 5,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109962425512734739",
+          "type": "quoted"
+        }
+      ],
+      "text": "这就是中国3D第一人的实力吗！！！\n\n用Opus5.5+Tripo+Blender打造3D游戏《The Little Prince》，视觉盛宴！ https://t.co/Uf9purXmEl",
+      "url": "https://x.com/gengdaJ/status/2109983315084337351"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2109818865555492866",
+          "3_2109819862306701312"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2109822043378364475",
+      "created_at": "2026-10-13T01:42:28.000Z",
+      "edit_history_tweet_ids": [
+        "2109822043378364475"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/9yzjWolP4F",
+            "end": 187,
+            "expanded_url": "https://x.com/gengdaJ/status/2109822043378364475/photo/1",
+            "media_key": "3_2109818865555492866",
+            "start": 164,
+            "url": "https://t.co/9yzjWolP4F"
+          },
+          {
+            "display_url": "pic.x.com/9yzjWolP4F",
+            "end": 187,
+            "expanded_url": "https://x.com/gengdaJ/status/2109822043378364475/photo/2",
+            "media_key": "3_2109819862306701312",
+            "start": 164,
+            "url": "https://t.co/9yzjWolP4F"
+          }
+        ]
+      },
+      "id": "2109822043378364475",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "grok.com/plans",
+              "end": 638,
+              "expanded_url": "https://grok.com/plans",
+              "start": 615,
+              "url": "https://t.co/evan14y3qk"
+            },
+            {
+              "display_url": "x.ai/pricing",
+              "end": 675,
+              "expanded_url": "https://x.ai/pricing",
+              "start": 652,
+              "url": "https://t.co/ugLRupij4T"
+            }
+          ]
+        },
+        "text": "X Premium、Grok、Cursor套餐终于统一成X Subscription了！\n\n经过我仔细分析，建议原来所有的X Premium+会员无脑升级成新的X Subscription Premium会员！！！\n\n好处实在太特喵多了：\n1、年付价格：395$→300$（所有X权益不变，未使用周期按比例退款）\n2、Grok Bot使用权：这个原来很贵的，只有Cursor会员和Grok会员能玩，现在一统进入30$套餐。\n3、三大应用共享Grok每周用量池：Grok 模型用量在 Grok 应用、X 上的 Grok、Cursor 之间通用，为 4× Plus 级别；用不完可以互相转换。\n4、Cursor也能玩：本地 + 云端 coding agents，不用再单独订阅Cursor套餐，里面的Gemini用来写文章，我馋了好久。\n\n然后全新完整的X subscription订阅套餐价格我也列一下：\n1、Free：月费$0，年费$0，用量倍数 Limited\n2、Plus：月费$8，年费$80 / 年（约 $7/月），用量倍数Base\n3、Premium：月费$30，年费$300/年（约 $25 / 月），用量倍数 4× Plus\n4、Super：月费$100，年费$1000 / 年，用量倍数 15× Plus\n5、Ultra：月费$200，年费$2000 / 年，用量倍数 50× Plus\n\n如果只想一个月尝鲜，通过https://t.co/evan14y3qk订阅，可享50%优惠，如果是https://t.co/ugLRupij4T订阅，就没有优惠。。。😂🤣"
+      },
+      "public_metrics": {
+        "bookmark_count": 76,
+        "impression_count": 30773,
+        "like_count": 49,
+        "quote_count": 4,
+        "reply_count": 26,
+        "retweet_count": 7
+      },
+      "text": "X Premium、Grok、Cursor套餐终于统一成X Subscription了！\n\n经过我仔细分析，建议原来所有的X Premium+会员无脑升级成新的X Subscription Premium会员！！！\n\n好处实在太特喵多了：\n1、年付价格：395$→300$（所有X权益不变，未使用周期按比例退款）\n2、Grok https://t.co/9yzjWolP4F",
+      "url": "https://x.com/gengdaJ/status/2109822043378364475"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2109645494054182912"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2109811358841852290",
+      "created_at": "2026-10-13T01:00:01.000Z",
+      "edit_history_tweet_ids": [
+        "2109811358841852290"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/3sRt4Ib2Y2",
+            "end": 184,
+            "expanded_url": "https://x.com/gengdaJ/status/2109811358841852290/photo/1",
+            "media_key": "3_2109645494054182912",
+            "start": 161,
+            "url": "https://t.co/3sRt4Ib2Y2"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 208,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2108363527971041650",
+            "start": 185,
+            "url": "https://t.co/YywyadtbXk"
+          }
+        ]
+      },
+      "id": "2109811358841852290",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我宣布：Codex正式被打入冷宫，Claude Code+Opus5.5是唯一的版本答案！！！\n\n最近几周，我已经把所有重要工作全部交给了Claude Code桌面端来处理（可以看截图，我接下来最重要的一些工作——公开演讲、App开发、数字人方案，全部由Claude接手）。\n\nCodex仅剩的作用——定时（无脑）任务：\n1、同步我的X推文到别的社媒\n2、GitHub PR和Issue定期检查\n3、AI日报\n4、每日重要消息处理提醒（Gmail、微信、飞书）\n5、定期备份Chrome Cookie\n6、记忆系统的影子检测\n\nClaude Code的优势在哪？\n\n最最最重要的一点——说人话，我看得懂，交互很好，复杂概念会用可视化图表加深理解。就这一点体验，我就更喜欢用Claude。而Codex的那个文档，我真的想呕吐🤮\n\n然后Opus5.5做视频效果好像断层领先（我还没体验），我打算接下来用Opus5.5制作我的 Glimdo App（iPhone版本+Mac版本+安卓版本）在小红书的发布视频）和抖音数字人教学视频。\n\n但是Claude Code也有一些不足：\n1、PPTX没法直接内置显示（我不知道是不是我没用对）\n2、老是找我要各种授权，尽管我已经把所有权限开放\n3、Computer Use不好用，这个直接借用LCU（Codex的Computer Use），美滋滋的\n\n但是瑕不掩瑜，我还是全面用Claude Code桌面端，还没用起来的朋友，可以看看我这教程，早用早爽！用的人多了，我到时候搞个保姆级教程😁"
+      },
+      "public_metrics": {
+        "bookmark_count": 645,
+        "impression_count": 132857,
+        "like_count": 584,
+        "quote_count": 6,
+        "reply_count": 88,
+        "retweet_count": 107
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108363527971041650",
+          "type": "quoted"
+        }
+      ],
+      "text": "我宣布：Codex正式被打入冷宫，Claude Code+Opus5.5是唯一的版本答案！！！\n\n最近几周，我已经把所有重要工作全部交给了Claude Code桌面端来处理（可以看截图，我接下来最重要的一些工作——公开演讲、App开发、数字人方案，全部由Claude接手）。\n\nCodex仅剩的作用——定时（无脑）任务： https://t.co/3sRt4Ib2Y2 https://t.co/YywyadtbXk",
+      "url": "https://x.com/gengdaJ/status/2109811358841852290"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2109297262518214656"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2109456518433350113",
+      "created_at": "2026-10-12T01:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2109456518433350113"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/OGirkZDQP2",
+            "end": 185,
+            "expanded_url": "https://x.com/gengdaJ/status/2109456518433350113/photo/1",
+            "media_key": "3_2109297262518214656",
+            "start": 162,
+            "url": "https://t.co/OGirkZDQP2"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 209,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2108363527971041650",
+            "start": 186,
+            "url": "https://t.co/YywyadtbXk"
+          }
+        ]
+      },
+      "id": "2109456518433350113",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/amontlabs/lcu",
+              "end": 298,
+              "expanded_url": "https://github.com/amontlabs/lcu",
+              "start": 275,
+              "url": "https://t.co/z2ZQF8xcdW"
+            }
+          ]
+        },
+        "text": "Claude Code其实可以直接调用Codex的Computer Use，就可以不占用屏幕，能同时干更多事情，物尽其用！\n\nCodex里面的Computer Use，能读界面、点按钮，原本只有 Codex 能用。但是LCU 把这套程序单独封装成标准的 MCP 工具，Claude Code 就能调用。\n\n而且它不需要登录 Codex，只要本机装着Codex即可。然后Computer Use本身不消耗Codex额度，因为是一个程序——读界面结构、截图、点击和输入，然后Claude进行OCR和推理会消耗自身Token额度。\n\nGitHub开源地址：https://t.co/z2ZQF8xcdW\n大家使用的时候可以根据自身使用情况微调，控制权限。"
+      },
+      "public_metrics": {
+        "bookmark_count": 496,
+        "impression_count": 50257,
+        "like_count": 312,
+        "quote_count": 4,
+        "reply_count": 26,
+        "retweet_count": 39
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108363527971041650",
+          "type": "quoted"
+        }
+      ],
+      "text": "Claude Code其实可以直接调用Codex的Computer Use，就可以不占用屏幕，能同时干更多事情，物尽其用！\n\nCodex里面的Computer Use，能读界面、点按钮，原本只有 Codex 能用。但是LCU 把这套程序单独封装成标准的 MCP 工具，Claude Code 就能调用。\n\n而且它不需要登录 https://t.co/OGirkZDQP2 https://t.co/YywyadtbXk",
+      "url": "https://x.com/gengdaJ/status/2109456518433350113"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2108886668296192000",
+          "3_2108888326073942016"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2109084566615114234",
+      "created_at": "2026-10-11T00:52:00.000Z",
+      "edit_history_tweet_ids": [
+        "2109084566615114234"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/7RbX4e79tF",
+            "end": 132,
+            "expanded_url": "https://x.com/gengdaJ/status/2109084566615114234/photo/1",
+            "media_key": "3_2108886668296192000",
+            "start": 109,
+            "url": "https://t.co/7RbX4e79tF"
+          },
+          {
+            "display_url": "pic.x.com/7RbX4e79tF",
+            "end": 132,
+            "expanded_url": "https://x.com/gengdaJ/status/2109084566615114234/photo/2",
+            "media_key": "3_2108888326073942016",
+            "start": 109,
+            "url": "https://t.co/7RbX4e79tF"
+          }
+        ]
+      },
+      "id": "2109084566615114234",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我靠，我为啥不早点用Codex控制我的手机领取各个App里面的免费福利🤦‍♂️！！！简直错过了一个亿！！！\n\nCodex+iPhone镜像，˙控制高德、携程、美团、大众点评、京东、支付宝，领取到的福利不完全统计于下：\n\n1、积分抵扣：携程20,979分，可抵209.79元；美团酒店1,742分，可抵17元；京东191京豆，可抵1.91元。\n\n2、免费生活服务：美团洗牙、光子嫩肤、1小时保洁各1次，充电宝前1小时免费券×2。\n\n3、酒店福利：携程升房、早餐、免费取消各剩2次；美团免费升房3次/季度、早餐及提前入住、欢迎水果各2次/季度、免费取消3次/季度、延迟退房不限次。\n\n4、酒店优惠：美团订房8.5折起、携程优享会9折起；美团满300减32酒店券×4。\n\n5、火车福利：携程高铁休息室剩1次、在线换座剩25次、安心退改及进阶托管各剩1次。\n\n6、打车租车加油：点评满25减5、85折最高减20打车券，携程新客接送机85折最高减50、租车9折券×2；高德12元加油券。\n\n7、外卖餐饮：美团满45减20外卖券×4。\n\n8、购物鲜花：美团闪购满50减10券×4。\n\n9、景区旅游：美团等级额度为迪士尼尊享卡1次/年、海昌速通3次/年、乐高乐园速通1次/年，旅游满200减20券×4。"
+      },
+      "public_metrics": {
+        "bookmark_count": 785,
+        "impression_count": 116805,
+        "like_count": 607,
+        "quote_count": 15,
+        "reply_count": 88,
+        "retweet_count": 86
+      },
+      "text": "我靠，我为啥不早点用Codex控制我的手机领取各个App里面的免费福利🤦‍♂️！！！简直错过了一个亿！！！\n\nCodex+iPhone镜像，˙控制高德、携程、美团、大众点评、京东、支付宝，领取到的福利不完全统计于下： https://t.co/7RbX4e79tF",
+      "url": "https://x.com/gengdaJ/status/2109084566615114234"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2108808673183387648",
+          "3_2108809561415249920"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108809864822866380",
+      "created_at": "2026-10-10T06:40:26.000Z",
+      "edit_history_tweet_ids": [
+        "2108809864822866380"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/0eJp32jXfr",
+            "end": 180,
+            "expanded_url": "https://x.com/gengdaJ/status/2108809864822866380/photo/1",
+            "media_key": "3_2108808673183387648",
+            "start": 157,
+            "url": "https://t.co/0eJp32jXfr"
+          },
+          {
+            "display_url": "pic.x.com/0eJp32jXfr",
+            "end": 180,
+            "expanded_url": "https://x.com/gengdaJ/status/2108809864822866380/photo/2",
+            "media_key": "3_2108809561415249920",
+            "start": 157,
+            "url": "https://t.co/0eJp32jXfr"
+          },
+          {
+            "display_url": "x.com/xiaomovps/stat…",
+            "end": 204,
+            "expanded_url": "https://twitter.com/xiaomovps/status/2108371593747709979",
+            "start": 181,
+            "url": "https://t.co/beUragBJT7"
+          }
+        ]
+      },
+      "id": "2108809864822866380",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "这应该是Cloudflare改版以来我看到最详细的一个教程了，太干了，太干了，我跟着实操学习了快一个小时。\n\nCloudflare作为网站界的赛博菩萨，提供了大量免费资源，如果你有做网站的需求，不妨仔细学习下这篇文章。\n\n小墨大佬把DNS解析、橙色云、灰色云、SSL、TLS这些之前我很模糊的概念一口气讲清楚了。\n\n我还额外学到了邮件路由转发邮箱、创建R2对象存储、查找哪些AI在爬自己网站（方便GEO）、薅Workers AI资源、用Agent结合cf全面接管Cloudflare...太多实用技巧了。\n\n期待更多Cloudflare的教程！"
+      },
+      "public_metrics": {
+        "bookmark_count": 820,
+        "impression_count": 68205,
+        "like_count": 549,
+        "quote_count": 4,
+        "reply_count": 33,
+        "retweet_count": 147
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108371593747709979",
+          "type": "quoted"
+        }
+      ],
+      "text": "这应该是Cloudflare改版以来我看到最详细的一个教程了，太干了，太干了，我跟着实操学习了快一个小时。\n\nCloudflare作为网站界的赛博菩萨，提供了大量免费资源，如果你有做网站的需求，不妨仔细学习下这篇文章。\n\n小墨大佬把DNS解析、橙色云、灰色云、SSL、TLS这些之前我很模糊的概念一口气讲清楚了。 https://t.co/0eJp32jXfr https://t.co/beUragBJT7",
+      "url": "https://x.com/gengdaJ/status/2108809864822866380"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2108549592895913985",
+          "3_2108549663842590720"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108549740971311226",
+      "created_at": "2026-10-09T13:26:47.000Z",
+      "edit_history_tweet_ids": [
+        "2108549740971311226"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/J3sI49XCok",
+            "end": 167,
+            "expanded_url": "https://x.com/gengdaJ/status/2108549740971311226/video/1",
+            "media_key": "13_2108549592895913985",
+            "start": 144,
+            "url": "https://t.co/J3sI49XCok"
+          },
+          {
+            "display_url": "pic.x.com/J3sI49XCok",
+            "end": 167,
+            "expanded_url": "https://x.com/gengdaJ/status/2108549740971311226/photo/2",
+            "media_key": "3_2108549663842590720",
+            "start": 144,
+            "url": "https://t.co/J3sI49XCok"
+          },
+          {
+            "display_url": "x.com/StepFun_ai/sta…",
+            "end": 191,
+            "expanded_url": "https://twitter.com/StepFun_ai/status/2108543010367512641",
+            "start": 168,
+            "url": "https://t.co/o22OxWUd7J"
+          }
+        ]
+      },
+      "id": "2108549740971311226",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 700,
+              "id": "1888791214864072705",
+              "start": 689,
+              "username": "StepFun_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "openrouter.ai/rankings?view=…",
+              "end": 753,
+              "expanded_url": "https://openrouter.ai/rankings?view=trending#top-models",
+              "start": 730,
+              "url": "https://t.co/r1u5ObMeUT"
+            }
+          ]
+        },
+        "text": "前两天回老家，看到有小朋友玩《保卫萝卜》，玩的不亦乐乎。\n死去的回忆就开始攻击我，如果小时候我不是去玩游戏，而是去造游戏，人生会有什么不一样的呢？🤔\n\n往昔不可追，那我就现在来造一个《保卫萝卜》吧！\n国内小游戏就用国产大模型来做，因为我一直有用阶跃的ASR（世界上性价比最高的ASR），\n前段时间Step 5 Preview又很火，上线第二天就在OpenRouter登顶，\n刚好趁这个机会（用DS对比）看看它的实力！\n\n做《保卫萝卜》的思路很简单：\n1、用CCswitch在Claude Code分别接入Step 5 Preview和DeepSeek 4.1 Flash。\n2、隔离影响因素。在提示词中隔离掉Skill、记忆和其他文档对模型能力的影响。\n3、用这段简单提示词就可以一次性生成完整游戏：\n制作一个《保卫萝卜》游戏，不要借鉴任何提示词、Skill和文件， 全凭模型自身能力（可以联网搜索，但仅限于模型自身的能力，不要调用任何Skill）\n\n最后做出来的效果非常不错：完整的游戏关卡、闯关升级解锁、多守卫塔种类、精致的UI界面......\nStep 5 Preview和DeepSeek 4.1 Flash制作游戏的完整度属于是伯仲之间，\n在易玩性和界面精美程度，我觉得前者更甚一筹，以后的阶跃除了ASR，可能又多了一个选择的理由。\n\n最后不经感慨，以前玩游戏都是纯玩，现在玩游戏可能要考虑怎么做游戏，\n做了游戏，怎么往里面加广告，怎么让用户充值，从而盈利。\n这可能就是长大的代价吧，看花非花，看物非物。\n但我最后，还是认真地玩了两局《保卫萝卜》，回应从前的自己。\n\n@StepFun_ai的Step 5 Preview 在OpenRouter登顶：https://t.co/r1u5ObMeUT"
+      },
+      "public_metrics": {
+        "bookmark_count": 33,
+        "impression_count": 31894,
+        "like_count": 35,
+        "quote_count": 10,
+        "reply_count": 18,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108543010367512641",
+          "type": "quoted"
+        }
+      ],
+      "text": "前两天回老家，看到有小朋友玩《保卫萝卜》，玩的不亦乐乎。\n死去的回忆就开始攻击我，如果小时候我不是去玩游戏，而是去造游戏，人生会有什么不一样的呢？🤔\n\n往昔不可追，那我就现在来造一个《保卫萝卜》吧！\n国内小游戏就用国产大模型来做，因为我一直有用阶跃的ASR（世界上性价比最高的ASR）， https://t.co/J3sI49XCok https://t.co/o22OxWUd7J",
+      "url": "https://x.com/gengdaJ/status/2108549740971311226"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2108470626881343488",
+          "3_2108470676239884288",
+          "3_2108470765335289856",
+          "3_2108470864664784896"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108470885107818729",
+      "created_at": "2026-10-09T08:13:27.000Z",
+      "edit_history_tweet_ids": [
+        "2108470885107818729"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ol3l9q0ef0",
+            "end": 90,
+            "expanded_url": "https://x.com/gengdaJ/status/2108470885107818729/photo/1",
+            "media_key": "3_2108470626881343488",
+            "start": 67,
+            "url": "https://t.co/ol3l9q0ef0"
+          },
+          {
+            "display_url": "pic.x.com/ol3l9q0ef0",
+            "end": 90,
+            "expanded_url": "https://x.com/gengdaJ/status/2108470885107818729/photo/2",
+            "media_key": "3_2108470676239884288",
+            "start": 67,
+            "url": "https://t.co/ol3l9q0ef0"
+          },
+          {
+            "display_url": "pic.x.com/ol3l9q0ef0",
+            "end": 90,
+            "expanded_url": "https://x.com/gengdaJ/status/2108470885107818729/photo/3",
+            "media_key": "3_2108470765335289856",
+            "start": 67,
+            "url": "https://t.co/ol3l9q0ef0"
+          },
+          {
+            "display_url": "pic.x.com/ol3l9q0ef0",
+            "end": 90,
+            "expanded_url": "https://x.com/gengdaJ/status/2108470885107818729/photo/4",
+            "media_key": "3_2108470864664784896",
+            "start": 67,
+            "url": "https://t.co/ol3l9q0ef0"
+          },
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 114,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2108390780809482384",
+            "start": 91,
+            "url": "https://t.co/mqN1gQW35L"
+          }
+        ]
+      },
+      "id": "2108470885107818729",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 547,
+        "impression_count": 49198,
+        "like_count": 407,
+        "quote_count": 1,
+        "reply_count": 16,
+        "retweet_count": 79
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108390780809482384",
+          "type": "quoted"
+        }
+      ],
+      "text": "如果你有Codex和Claude Code，但是你不知道Monid（Agent的手和脚）。\n\n就等同于你买了车子，但一直没给它加油。 https://t.co/ol3l9q0ef0 https://t.co/mqN1gQW35L",
+      "url": "https://x.com/gengdaJ/status/2108470885107818729"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108390780809482384",
+      "created_at": "2026-10-09T02:55:08.000Z",
+      "edit_history_tweet_ids": [
+        "2108390780809482384"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Astronaut_1216…",
+            "end": 199,
+            "expanded_url": "https://twitter.com/Astronaut_1216/status/2108114696692007001",
+            "start": 176,
+            "url": "https://t.co/fFDM2PB8Zl"
+          }
+        ]
+      },
+      "id": "2108390780809482384",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "Recall.ai",
+              "end": 876,
+              "expanded_url": "http://Recall.ai",
+              "start": 853,
+              "url": "https://t.co/OzjXt3QByu"
+            },
+            {
+              "display_url": "Levels.fyi",
+              "end": 1599,
+              "expanded_url": "http://Levels.fyi",
+              "start": 1576,
+              "url": "https://t.co/XAScGbaSpu"
+            }
+          ]
+        },
+        "text": "Monid确实是Agent界的OpenRouter，聚合了2,443个tools & APIs，几乎涵盖了你能想象到的所有功能。\n\n1、TikHub + 社媒数据：获取抖音、小红书、B站、YouTube 等平台的内容、评论和互动数据。\n\n2、Exa + 语义搜索：按问题的含义寻找网页，返回相关内容、摘要和引用。\n\n3、Firecrawl + 网站抓取：批量读取网页、抓取整站，把内容转成适合知识库使用的格式。\n\n4、TinyFish + 浏览器自动化：让 AI 按自然语言目标浏览、操作网页并提取数据。\n\n5、Ahrefs + SEO 分析：查询关键词、搜索排名、网站外链和竞争对手表现。\n\n6、Cloro + AI 搜索曝光检测：查看 ChatGPT、Gemini、Perplexity 等回答提到了哪些品牌、引用了哪些网站。\n\n7、Opoint + 全球新闻检索：按关键词、国家、语言和媒体筛选新闻，获取标题、时间及原始链接。\n\n8、Artificial Analysis + AI 模型评测：查询模型质量、速度、延迟和任务成本，辅助选模型。\n\n9、TypeSafe + 自动分类与评分：按指定规则判断文本或数据，返回分类、评分及置信度。\n\n10、OpenAI + 图片生成与编辑：根据文字生成图片，或结合参考图修改图片。\n\n11、ByteDance / Seedance + 视频生成：根据文字、图片或参考素材生成带声音的视频。\n\n12、ElevenLabs + 语音制作：生成配音、多角色对话，也能转写音频、生成音效。\n\n13、MiniMax + 音乐生成：根据描述生成歌曲和音乐，适合制作内容配乐。\n\n14、Topaz Labs + 画质增强：对图片和视频进行放大、降噪、修复及补帧。\n\n15、Suzanne + 3D 模型生成：把文字或照片转换成带材质的 3D 模型。\n\n16、Magic Hour + GIF 动画生成：把文字描述变成循环动画，输出 GIF、MP4 或 WebM。\n\n17、https://t.co/OzjXt3QByu + 会议录制与转写：让机器人加入 Zoom、Google Meet、Teams 等会议，返回录音、视频和转写。\n\n18、AgentMail + Agent 邮箱：给 AI 创建独立邮箱，管理收发邮件、草稿、附件和邮件线程。\n\n19、Saperly + Agent 电话号码：为 AI 申请、管理和释放真实美国电话号码。\n\n20、Smol Machines + Agent 云电脑：创建独立 Linux 环境，运行命令、处理文件，并保留工作状态。\n\n21、Simple FS + 云端文件管理：存储文件、管理目录，生成供其他工具读取的分享链接。\n\n22、Octen + 内容向量化：生成文字和多模态向量，用于知识库检索和相似内容匹配。\n\n23、Apollo + 企业客户开发：寻找符合条件的公司和联系人，查询企业规模、职位和联系方式。\n\n24、Hunter + 企业邮箱查找与验证：根据公司域名或姓名寻找工作邮箱，检查邮箱是否可投递。\n\n25、Orbit + 人物公开资料整理：根据姓名或社媒账号等线索汇总公开背景，并附上信息来源。\n\n26、Crunchbase + 融资与投资人研究：查询公司融资轮次、投资机构、关键人物和投资组合。\n\n27、Tendata + 进出口贸易研究：查询海关交易记录、进口商、出口商、供应商和贸易趋势。\n\n28、G2 + 软件产品调研：获取软件评价、分类排名和价格信息，辅助比较产品。\n\n29、Clutch + 外包服务商筛选：查询代理公司、开发服务商的客户评价、案例和所在地。\n\n30、Indeed + 招聘信息检索：查询岗位、职位要求、招聘公司和薪资信息。\n\n31、https://t.co/XAScGbaSpu + 薪资对标：查询不同公司、职级的薪酬、福利和实习工资。\n\n32、Amazon（接口类） + 商品研究：获取商品资料和用户评论，分析产品卖点、差评与需求。\n\n33、1688（接口类） + 批发货源研究：查询批发商品、报价和价格，辅助寻找货源。\n\n34、Google Shopping（接口类） + 跨商店比价：获取商品报价、商家和价格信息。\n\n35、Maps & Places（接口类） + 本地商家查询：获取商户位置、店铺资料和评论。\n\n36、Flights（接口类） + 航班与机票查询：获取航班时间、航线和票价信息。\n\n37、Hotels（接口类） + 酒店研究：查询房价、可订情况和住客评价。\n\n38、Zillow + 住宅房产研究：查询房源、房屋估值、经纪人和房贷利率。\n\n39、LoopNet + 商业地产研究：查询商业物业、房源详情和经纪人资料。\n\n40、Carfax + 二手车研究：查询车辆历史摘要、估值、车源和经销商信息。\n\n41、AccuWeather + 天气查询：获取实时天气、多日预报和天气相关提醒。\n\n42、IQAir + 空气质量查询：获取实时和历史空气质量、城市排名及污染地图。\n\n43、Yahoo Finance + 股票行情查询：获取实时价格、历史行情、公司资料和市场新闻。\n\n44、SECForm4 + 内部人士交易与机构持仓：查询股票买卖申报、机构持仓和基金投资组合。\n\n45、DefiLlama + DeFi 数据研究：查询协议资金规模、收益率、手续费、交易量和稳定币数据。\n\n46、QuickNode + 链上数据访问：通过区块链 RPC 和索引接口读取链上数据。\n\n47、Prediction Markets（接口类） + 预测市场研究：查询 Polymarket、Kalshi 等市场的价格、成交量和持仓。\n\n48、Vaquill + 美国法律原文检索：查询联邦及州法律、法规、历史版本和官方来源。\n\n49、Image Search（接口类） + 图片搜索：根据文字或图片寻找网上图片，辅助找视觉参考。\n\n50、Trustpilot + 品牌与商家口碑研究：获取企业评分、消费者评论和分类排名。"
+      },
+      "public_metrics": {
+        "bookmark_count": 811,
+        "impression_count": 88781,
+        "like_count": 478,
+        "quote_count": 7,
+        "reply_count": 23,
+        "retweet_count": 74
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108114696692007001",
+          "type": "quoted"
+        }
+      ],
+      "text": "Monid确实是Agent界的OpenRouter，聚合了2,443个tools &amp; APIs，几乎涵盖了你能想象到的所有功能。\n\n1、TikHub + 社媒数据：获取抖音、小红书、B站、YouTube 等平台的内容、评论和互动数据。\n\n2、Exa + 语义搜索：按问题的含义寻找网页，返回相关内容、摘要和引用。\n\n3、Firecrawl + https://t.co/fFDM2PB8Zl",
+      "url": "https://x.com/gengdaJ/status/2108390780809482384"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108385885763018816",
+      "created_at": "2026-10-09T02:35:41.000Z",
+      "edit_history_tweet_ids": [
+        "2108385885763018816"
+      ],
+      "id": "2108385885763018816",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3640,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "牛批了",
+      "url": "https://x.com/gengdaJ/status/2108385885763018816"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108365241960788340",
+      "created_at": "2026-10-09T01:13:39.000Z",
+      "edit_history_tweet_ids": [
+        "2108365241960788340"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gengdaJ/status…",
+            "end": 176,
+            "expanded_url": "https://twitter.com/gengdaJ/status/2108363527971041650",
+            "start": 153,
+            "url": "https://t.co/YywyadtbXk"
+          }
+        ]
+      },
+      "id": "2108365241960788340",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "爽了！这下真的是所有人都能用上Claude了，国庆闭关给大家写了这篇超级保姆级教程——注册、订阅和过KYC全都讲清楚了。\n\n我敢说我订阅Claude踩的坑之多几乎无人能比，才有了这篇文章。\n\n文章速览：\n1、注册全新Gmail账号\n2、注册全新美区Apple ID\n3、礼品卡购买\n4、干净稳定的IP搭建\n5、旧Claude网络环境的清理\n6、Shadowrocket分流处理\n7、修改时区\n8、注册免费Claude账号\n9、（注册美国手机号）+转换卡\n10、订阅Claude Pro和Max\n11、新加坡支付卡\n12、大陆护照过KYC\n\n大家快去试试吧，之后我可能会出很多关于如何玩Claude Code的教程，因为现在的OpenAI已经半死不活的了，但是Claude好玩的很！！！"
+      },
+      "public_metrics": {
+        "bookmark_count": 648,
+        "impression_count": 64618,
+        "like_count": 487,
+        "quote_count": 5,
+        "reply_count": 29,
+        "retweet_count": 81
+      },
+      "referenced_tweets": [
+        {
+          "id": "2108363527971041650",
+          "type": "quoted"
+        }
+      ],
+      "text": "爽了！这下真的是所有人都能用上Claude了，国庆闭关给大家写了这篇超级保姆级教程——注册、订阅和过KYC全都讲清楚了。\n\n我敢说我订阅Claude踩的坑之多几乎无人能比，才有了这篇文章。\n\n文章速览：\n1、注册全新Gmail账号\n2、注册全新美区Apple ID\n3、礼品卡购买\n4、干净稳定的IP搭建 https://t.co/YywyadtbXk",
+      "url": "https://x.com/gengdaJ/status/2108365241960788340"
+    },
+    {
+      "article": {
+        "cover_media": "3_2108363335775436800",
+        "entities": {
+          "tweets": [
+            {
+              "id": "2095746248208994671"
+            },
+            {
+              "id": "2029570219354845577"
+            }
+          ],
+          "urls": [
+            {
+              "text": "https://account.apple.com/account"
+            },
+            {
+              "text": "https://www.dmit.io/aff.php?aff=18784"
+            },
+            {
+              "text": "https://bandwagonhost.com/aff.php?aff=84928"
+            },
+            {
+              "text": "https://www.equaldcdn.com"
+            },
+            {
+              "text": "https://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md"
+            },
+            {
+              "text": "https://github.com/ryuu-restart/agent-route"
+            },
+            {
+              "text": "https://ippure.com"
+            },
+            {
+              "text": "anthropic.com"
+            },
+            {
+              "text": "claude.ai"
+            },
+            {
+              "text": "claude.com"
+            },
+            {
+              "text": "claudeusercontent.com"
+            },
+            {
+              "text": "claude.ai"
+            },
+            {
+              "text": "https://www.ebay.com/itm/136840233242"
+            },
+            {
+              "text": "redpocket.com/activate"
+            },
+            {
+              "text": "https://shop.beeesim.com/register?ref=7QLE2MXR"
+            },
+            {
+              "text": "https://bcn5ot9wwnew.feishu.cn/wiki/RpkuwzpHMiCoHak2gMjcuJeInFd?from=from_copylink"
+            },
+            {
+              "text": "https://x.com/gkxspace/status/2101993381303820704?s=20"
+            },
+            {
+              "text": "https://github.com/alchaincyf/zhangxuefeng-skill/issues/63"
+            },
+            {
+              "text": "https://www.equaldcdn.com/?ref=81cfc0ce31"
+            },
+            {
+              "text": "https://github.com/alchaincyf/zhangxuefeng-skill/issues/63"
+            },
+            {
+              "text": "https://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md"
+            },
+            {
+              "text": "https://x.com/gkxspace/status/2101993381303820704?s=20"
+            },
+            {
+              "text": "https://www.ebay.com/itm/136840233242?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339217721&toolid=80009&mkevt=1"
+            },
+            {
+              "text": "https://t.co/FJRXeAsBdP"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2108105390231834624",
+          "3_2108106013102776320",
+          "3_2108105648693223424",
+          "3_2108105494338646016",
+          "3_2108105805270843392",
+          "3_2108105596721610753",
+          "3_2108106116320370688",
+          "3_2108105285927948288",
+          "3_2108106168224935937",
+          "3_2108106271933276160",
+          "3_2108104995816218625",
+          "3_2108105081958891520",
+          "3_2108105703437312000",
+          "3_2108106376346210304",
+          "3_2108105545026805760",
+          "3_2108105441935085568",
+          "3_2108106220062298112",
+          "3_2108105961047261185",
+          "3_2108105029450391552",
+          "3_2108106323825131521",
+          "3_2108105753416642561",
+          "3_2108105909021130752",
+          "3_2108106065099599872",
+          "3_2108105339703091200",
+          "3_2108105857640939520"
+        ],
+        "plain_text": "Fable5.2和Opus5.5的实力不必多说，我把最新（更新于2026.11.10）的稳定使用Claude Code的方法重新更新了一下。\n这篇文章，我会把我的全流程保姆级地进行讲解。涉及到很多微小细节，建议先收藏，空了再跟着一步步，谨小慎微地实操。\n由于Anthropic封禁账号的多样性和随机性，这篇文章仅分享我的真实开通流程，不承诺任何防封号保证！\n硬性门槛提前看：\n护照（过支付和KYC）\n一个本地Agent（Codex）\n一台Mac（Windows设置和Mac不一样，不敢保证效果）\n一台iPhone（可选，如需在手机使用Claude App）\nShadowrocket（保证电脑和手机网络分流规则一致性）\n好了，话不多说，我们开始👇\n一、在iPhone上注册一个全新的Gmail账号\n在iPhone上下载一个Chrome浏览器，然后注册一个Gmail账号——右上角头像 → 添加账号 → 创建账号。我注册的时候没有遇到需要手机号验证的情况。\n但是用电脑注册，可能就会需要手机号验证，这一步虽然大陆+86手机号也能通过验证，但是如果后续Claude需要验证手机号，我个人觉得，如果两边不都是同时用美国（或其他支持地区）手机号，会有一点影响，所以在下文我也给大家准备了在国行版iPhone开通美国eSIM手机号教程。\n二、注册全新美区Apple ID，充值礼品卡购买Shadowrocket\nShadowrocket，也就是常说的小火箭，需要2.99$购买，这个主要用来配置后面的干净网络以及分流规则。\n同时，需要美区Apple ID才能在App Store搜索到Shadowrocket。所以，第一步，咱们先来注册一个免费的Apple ID。\n来到：https://account.apple.com/account，在这里，用中国手机号即可注册美区Apple ID。\n \n然后再用这个新注册的免费美区Apple ID分别登录Mac和iPhone的App Store，购买Shadowrocket就行，但是这一步也有个麻烦，就是没有美国银行卡不能直接充，所以需要先去支付宝充个礼品卡。\n支付宝【Nidiya礼品卡】，然后来到这个界面，选择第一个Apple Gift Card US，充值3$到上面美区Apple ID绑定的Google邮箱即可，然后在App Store下载Shadowrocket。\n \n \n三、搭建干净的网络出口IP\n因为Claude封号，大多封的就是乱蹦乱跳的垃圾IP，所以网络配置一定是整个Claude注册环节的重中之重！\n两种选择：自建VPS或者IPEqual打包服务，都是美国静态独享IP，延迟都在150-190ms直连。\n前者流量较多，有回国路线优化，但是经常缺货且是机房IP，而且任何网络问题，都需要自己维护。如果想要住宅IP，还得自己去套一层（经常是大的号池），两者加起来的价格和折腾层面来说，后者是优选。\n后者出了问题有技术快速修复，不需要自己操心，而且是静态住宅IP（优选IP段），有回国路线优化，不需要复杂的链式配置，有1v1专属客服，只建议上Max及以上套餐（因为是独享）。\n我自用的是VPS自建服务，感兴趣的可以去看这一篇，也可以把这一篇文章丢给Codex直接配置，记住改端口为443。\n推荐购买两种VPS：\n1、DMIT（经常缺货）：https://www.dmit.io/aff.php?aff=18784\n2、搬瓦工：https://bandwagonhost.com/aff.php?aff=84928\n \nIPEqual，是我之前看YouTube大佬分享的，前段时间也推给了朋友使用，也反馈说速度不错，延迟和前者差不多，如果不想麻烦地配置、就想快速使用Claude的朋友，可以直接买这个：https://www.equaldcdn.com\n \n购买/搭建相关服务之后，把得到的链接导入Shadowrocket，这一步点击右上角的+，再点击导入即可，实在不会，让Codex帮忙导入也行的。然后就能得到一个稳定的出口IP了。\n四、清理旧的Claude登录与转发配置\n我觉得我之前被Claude封号就是关于其乱七八糟的配置没有清理，所以这次做了次大扫除——把Claude Code、CC Switch、Claude桌面端都狠狠清理了。\n我用的是claude-cleanup Skill，清理时保留了Claude Code的历史会话、Skills、插件和自建配置。第三方转发配置和小火箭分流另外处理。\n这一步直接交给Codex就可以，咱们非科班改代码也改不明白。。。\n1、先退出Claude，把下面这段复制给Codex\n退出Claude桌面应用和正在运行的Claude Code会话，Codex保持打开（可能会用到Computer Use操作CC Switch）。然后发送：\n我准备使用官方Claude账号，请检查这台Mac上的Claude Code和Claude Desktop旧配置。\n\n先获取并审查这份claude-cleanup Skill，参考它的白名单和保护范围做只读审计，暂不执行清理脚本：\nhttps://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md\n\n请先列出简短的清理方案：\n1. 检查旧登录凭据、账号缓存，以及Claude缓存和日志。\n2. 检查主身份文件中的userID、machineID，说明重置这些本地标识的影响和范围。\n3. 检查Claude Code的第三方API地址、认证覆盖项和模型映射。如果使用CC Switch，准备切回Claude Official并关闭Claude接管。\n4. 保留历史会话、Skills、插件、Hooks、自建规则、桌面端持久数据，以及飞书等其他工具依赖的配置。不要清空整个.claude或CC Switch数据库，不要卸载应用。\n\n不要输出密码或令牌。先告诉我要处理什么、保留什么、有什么影响，等我确认后再执行。\n2、执行清理操作\n把这段发给Codex：\n按刚才列明的清单执行。先在本机完整备份相关配置，正常退出需要退出的Claude进程，再清理已确认的旧登录、账号缓存和缓存日志，重置已确认的本地标识，移除Claude Code的旧第三方转发配置。\n\n文件只移入废纸篓；钥匙串只删除刚才明确列出的Claude记录。保留其余数据和配置，修改后逐项核验。如果切换供应商时误清了其他设置，请从备份精确恢复。\n\n完成后告诉我：处理结果、备份位置，以及需要重新打开哪些应用。\n如果脚本要求在终端输入CONFIRM，按Codex提示自己输入。核验完成后，按提示重新打开应用即可。\n我当时做了两轮处理：先清旧登录和缓存、重置部分本地ID，后来又用这个Skill把Claude桌面应用和5项桌面端数据移入废纸篓。Claude Code历史、Skills、共享CC Switch配置和一份旧身份副本保留。\n上面的提示词默认保留桌面端数据和应用。如果想连桌面端也一起清理，就在Codex列清单时明确说明，安全重新再来。\n五、配置Shadowrocket分流\n这一步的目标很简单：电脑和手机访问Claude，都走前面准备好的同一个固定节点，最大程度减少IP的改变\n分流规则直接使用Ryuu维护的上游仓库：https://github.com/ryuu-restart/agent-route。\n有一套完整的分流规则、DNS规则和WebTRC规则。适配客户端：Mihomo、FlClash、Clash Verge Rev、Surge、Shadowrocket 或 sing-box。\n配置好了检查是否还有泄露：\nhttps://ippure.com \n下面三张截图用于核对Shadowrocket键位设置。你可以直接把后面的提示词交给Codex操作。\n设置一下小火箭的TUN模式：设置 → 代理 → 代理类型 → None（TUN Mode）。\n \n“全局路由 → 配置”负责按规则分流，这项也要打开，后续教程中，Codex会来改规则。\n \n再打开「设置 → 隧道 → 包括所有网络」，Mac和iPhone都开启。这个开关会让普通应用的联网流量交给小火箭接管，再按分流规则决定走哪个节点或直连。开启后，仍需核验Claude请求是否走指定节点。\n \n1、选好节点，复制提示词给Codex\n先在Mac的小火箭首页选中自己的固定节点，“全局路由”选择“配置”。\n \n如果以前用过Clash等其他代理工具，部分程序可能还留着旧代理地址，出现浏览器能上网、Claude Code却连不上的情况。这一步不用自己找文件，把检查要求一起交给Codex即可。\n随便取一个节点名称，把下面的【节点名称】替换成小火箭里显示的名字，再发给Codex：\n请帮我配置Mac上的Shadowrocket，固定使用节点【节点名称】。\n\n检查并将“设置 → 代理 → 代理类型”设为None（TUN Mode），“全局路由”使用“配置”。\n\n开启“设置 → 隧道 → 包括所有网络”，确认开关已生效，再核验Claude请求是否命中指定节点。\n\n为以下4个域名添加DOMAIN-SUFFIX（域名后缀）规则，覆盖域名本身及其子域名，使用指定节点：\nanthropic.com\nclaude.ai\nclaude.com\nclaudeusercontent.com\n\n修改前备份配置，保留其他分流规则。Claude相关规则不使用直连备用或自动切换节点。检查当前实际加载的规则，并验证正常连接时的真实出口。\n\n同时检查旧代理配置是否与当前Shadowrocket冲突，包括系统代理、环境变量、shell启动文件、npm、Git、Homebrew和Claude设置。\n\n逐项判断用途，只处理失效或冲突项，保留正常使用的配置。需要修改时，先列出具体改动和影响；修改前备份，修改后核验实际使用的Claude客户端是否正常联网。不要输出密码或令牌，也不要直接套用以前Clash的代理端口或代理组名。\n\n准备iPhone可用的相同Claude分流配置。下一步我会打开iPhone镜像，让你继续配置手机。最后说明哪些已经验证，哪些还需要操作。\n2、用iPhone镜像＋Codex配置手机\n在Mac打开「iPhone镜像」，按提示完成首次连接。iPhone和Mac两端要登录同一个系统Apple账户（不是App Store购买账号），开启Wi-Fi和蓝牙，手机放在Mac旁边并锁屏，开启连接。\n \nMac上看到手机画面后，在刚才的Codex对话里发送：\n我已打开iPhone镜像，请使用Computer Use操作镜像窗口，完成手机上的Shadowrocket配置：\n\n1. 先备份手机现有配置，保留其他分流规则，添加前面准备的4条Claude域名后缀规则。确认这些域名及其子域名走同一个固定节点，选择“配置”路由并连接。\n2. 将“设置 → 代理 → 代理类型”设为None（TUN Mode），开启“设置 → 隧道 → 包括所有网络”，并开启“始终开启”，按当前版本识别对应入口并核验。\n3. 分别核验Mac和iPhone的Claude请求是否命中指定节点，以及该节点的实际出口IP。不要只凭普通IP查询网页判断分流是否正确。\n\n遇到密码、Face ID或系统授权，告诉我接手。不要打开微信或改动无关设置。如果无法操作镜像，或修改VPN后镜像断开，说明停在哪一步，给我最短的接手步骤；恢复后继续核验。不要把未完成的事项写成已完成。\n六、修改Mac和iPhone时区\n因为大陆时间和台北时间一致，且台北是可以用Claude的，所以把时区改成台北就很不错。\nMac这样修改：\n系统设置 → 搜索“时区” → 改成“台北市-台湾”\n关掉“自动设定时区”\n \n搜索“定位服务” → 关掉“定位服务”\n \niPhone这样修改：\n设置 → 搜索“日期与时间”，时区选“台北标准时间”，时区城市选“台北”\n关掉“自动设定时间”\n \n设置 → 搜索“系统服务”，关掉“设定时区”\n \n七、注册全新的免费Claude账号\n准备阶段，万事俱备，只欠东风，正式进入注册Claude阶段！\n用新Gmail邮箱登录Chrome浏览器，打开claude.ai，点击“Continue with Google”。\n接下来就是按照指示来做。然后到了手机号那一步，可填可不填。\n \n八、绑定美国手机号\nClaude要求验证手机号时，再按本节操作；没有要求的，可以直接跳到订阅章节。\n关于手机号验证这一个，有些朋友遇到了，有些朋友没遇到，为了以防万一，我还是把焚决教给大家。\n我选择的是RedPocket美国手机号+BeeSIM转换卡。（因为国行版iPhone不支持直接安装 RedPocket 的 eSIM，所以用了 BeeSIM 实体转换卡）\nRedPocket是一年30美金，BeeSIM是19.9美金永久。（按照教程指导购买，用我的链接可以获取优惠价格）\n这个是实体卡（要插入卡槽的，所以得预留一个卡槽位置），发货最快也要一两天才能到，所以建议提前购买。\n1、购买RedPocket套餐\n直接打开eBay的RedPocket商品页\n因为RedPocket官网需要美国银行卡，eBay可以直接中国PayPal支付，且价格更便宜。\n商品页链接：https://www.ebay.com/itm/136840233242\n中国PayPal很好注册，这个就不在这里展开。\n \n购买套餐\n登录不登录都可以，不登录就游客购买，选择这个一个月2.5美元，一年30美元的套餐，下拉框这块选择eSIM Phone Kit（Most popular），然后点击“Buy it now”（截图中被下拉框挡住了）。\n填写相关信息，用中国PayPal支付。\n \n用ChatGPT或者Google地图找到一个美国免税州地址。\n \n电话号的话填写中国手机号即可。\n2、激活并开启漫游\n支付成功后，需要静静等待十几分钟，然后在上述填写的邮箱中找到一封RedPocket的邮件。\n打开redpocket.com/activate这个网址，输入Confirmation Code。\n \n然后下方的Device MEID/IMEI，在iPhone的设置 → 通用 → 关于本机 → IMEI即可找到。\n \n继续在“Roaming”界面（这个要在App内部找一下。因为我不知道为啥最近电脑登不上RedPocket官网，只能用手机，手机上和电脑上Roaming入口略有差距，大家仔细找找肯定能找到），开启Roaming，然后下拉框选“CHINA”，如果出现“It’s Enabled.”，即代表激活开启漫游成功。\n \n注意：有可能下方的Roaming Balances出现余额为0的情况（我遇到过），这个时候有两种解决办法：\n法一：右下角咨询客服，让它把套餐额度加回来（有人成功过）。\n法二：找eBay客服说明套餐额度问题，直接退款回PayPal，过一天再来重新购买套餐。\n3、导入eSIM到BeeSIM\n如果上述操作一切正常，就需要开始把号码写入BeeSIM了。\n首先，购买BeeSIM的卡，通过这个链接才能享受九折优惠：\nhttps://shop.beeesim.com/register?ref=7QLE2MXR\n \n然后收到的信封上面有一个二维码，用微信扫描二维码就能跳转到BeeSIM小程序，或者直接微信搜索BeeSIM也能找到小程序。\n然后开启蓝牙、连接BeeSIM。\n \n导入eSIM的时候，需要去从邮箱里面找到RedPocket发过来的带美国手机号和二维码的这封邮件。\n用BeeSIM的扫描二维码即可录入相关信息，绑定即可。其余操作看图指示。\n \n到这一步，美国手机号应该就能收发短信和接打电话了。\n这个RedPocket美国手机号除了绑定Claude，也有普遍的海外手机号绑定用途，囤着不亏的。这应该是我估算了七八家之后选定的最终方案，性价比拉满。\n九、订阅Pro和Max\n点击“Upgrade Plan”（哦对了，Claude没有中文界面，所以英文得好好学啊）。\n \n先升级Pro，要不然直接升级Max，很容易封号（特别是20×）。\nFull name随便填一个英文名。\nCountry or region选择United States。\nAddress需要在ChatGPT或者谷歌地图随便找一个免税州地址（就用前面那一个就行）。\nUse a different name on invoices不填。\n支付，我用的是StarryBlu，一张新加坡卡，成功通过了Claude订阅。\n关于如何开卡，大家可以看我这个教程： \n \n有一点点门槛：护照；港卡（如果用国内银行卡需要支付不低的手续费）9.9$买张卡，才能使用，买了之后在问卷填写ID，我帮你加速审核：\nhttps://bcn5ot9wwnew.feishu.cn/wiki/RpkuwzpHMiCoHak2gMjcuJeInFd?from=from_copylink\n等Pro用满第一个五小时之后，我就直接升级了Max5×，从注册账号到开通Max总共一天不到。但是升级20×应该也没啥问题，只要每周的周限额不要打满（留个10%-20%，封号概率就会降低不少）。\n【踩坑补充】：一定要20-100-200这样子慢慢升级，要不然直接充值200很容易被封。\nApple Store内购没问题，可以支付宝礼品卡购买，然后充值Claude——这里注意新的Apple Store账号需要申请购买，一般要等两天才能开通购买权限。Apple Store的好处就是谈KYC概率会变小，但是有苹果税，100变成125，200变成250，大家可以自行决定。\n十、中国护照过KYC认证\n我升级Max5×的时候遇到了一个问题——KYC认证。\n当时可给我急坏了，刚充的Pro就用不了了？？？\n所以，我直接谷歌搜索了一波，找到别人的通过方法——直接使用中国护照。\n\n原理就是进行KYC认证的公司是Persona，这家公司的政策里面是允许中国护照的。\n因为本来就有很多在美国工作的人和留学生，Anthropic也不可能一刀切中国人。\n封号更重要的原因，可能还是在前面的出口IP和各种环境的设置。\n我当时参考的说明如下（参考资料截图）：\n \n过了KYC认证之后，我领了前段时间Claude官方赠送的250$云Claude Code额度，没出现什么问题。\n我手机上也随时在用Claude App，也没有出现什么问题。\n但是我没用过Claude Code CLI，所以不确定这个是否对账号有影响。。。（大家谨慎测试）\n到这里，本篇教程就结束啦，大家快去尽情畅玩Claude Opus5.5吧，不管是写代码、对话、设计都是顶级，据说Fable5.5也不远了，早拥有，早享受！！！\n我是逸尘，咱们下期见！\n\n参考资料：\n余温Claude防封号教程：\nhttps://x.com/gkxspace/status/2101993381303820704?s=20\n\n中国护照过KYC教程：\nhttps://github.com/alchaincyf/zhangxuefeng-skill/issues/63",
+        "preview_text": "Fable5.2和Opus5.5的实力不必多说，我把最新（更新于2026.11.10）的稳定使用Claude Code的方法重新更新了一下。",
+        "title": "任何人都能复刻的Claude注册、订阅和过KYC防封号教程"
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108363527971041650",
+      "created_at": "2026-10-09T01:06:51.000Z",
+      "edit_history_tweet_ids": [
+        "2108363527971041650"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2108…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/article/2108104837099315202",
+            "start": 0,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2108104837099315202",
+            "url": "https://t.co/xlWrXLAQhg"
+          }
+        ]
+      },
+      "id": "2108363527971041650",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 4915,
+        "impression_count": 589604,
+        "like_count": 2505,
+        "quote_count": 52,
+        "reply_count": 104,
+        "retweet_count": 307
+      },
+      "text": "https://t.co/xlWrXLAQhg",
+      "url": "https://x.com/gengdaJ/status/2108363527971041650"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2112851596195540993",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2112851725443043328",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2112776138619813889",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2110176951453515776",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2109818865555492866",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2109819862306701312",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2109645494054182912",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2109297262518214656",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108886668296192000",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108888326073942016",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108808673183387648",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108809561415249920",
+        "type": "photo"
+      },
+      {
+        "media_key": "13_2108549592895913985",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2108549663842590720",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108470626881343488",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108470676239884288",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108470765335289856",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108470864664784896",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108363335775436800",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105390231834624",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108106013102776320",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105648693223424",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105494338646016",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105805270843392",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105596721610753",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108106116320370688",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105285927948288",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108106168224935937",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108106271933276160",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108104995816218625",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105081958891520",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105703437312000",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108106376346210304",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105545026805760",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105441935085568",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108106220062298112",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105961047261185",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105029450391552",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108106323825131521",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105753416642561",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105909021130752",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108106065099599872",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105339703091200",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2108105857640939520",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2112776138619813889"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2112778834378670195",
+        "created_at": "2026-10-21T05:31:42.000Z",
+        "edit_history_tweet_ids": [
+          "2112778834378670195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsL1r0V1DM",
+              "end": 137,
+              "expanded_url": "https://x.com/gengdaJ/status/2112778834378670195/photo/1",
+              "media_key": "3_2112776138619813889",
+              "start": 114,
+              "url": "https://t.co/qsL1r0V1DM"
+            },
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/gengdaJ/status/2100748639228367257",
+              "start": 138,
+              "url": "https://t.co/ozenjrGAMu"
+            }
+          ]
+        },
+        "id": "2112778834378670195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "pan.quark.cn/s/2595af66ee0b",
+                "end": 293,
+                "expanded_url": "https://pan.quark.cn/s/2595af66ee0b",
+                "start": 270,
+                "url": "https://t.co/EqmpqcACcX"
+              },
+              {
+                "display_url": "github.com/mcncarl/jianyi…",
+                "end": 330,
+                "expanded_url": "https://github.com/mcncarl/jianying-headless",
+                "start": 307,
+                "url": "https://t.co/CGXDq1tKxP"
+              },
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 366,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+                "start": 343,
+                "url": "https://t.co/QQ5XDF7Dc4"
+              },
+              {
+                "display_url": "platform.stepfun.com",
+                "end": 408,
+                "expanded_url": "https://platform.stepfun.com",
+                "start": 385,
+                "url": "https://t.co/YniNusjF11"
+              }
+            ]
+          },
+          "text": "无头剪映和剪映Skill大升级！这次我把安装包分享给大家了，一定要保存！一定要保存！大家别再老是和我说版本不适配的问题了。。。😅\n\n1、适配剪映 11.6.0：现在默认使用新版剪映，原来的 11.5、11.4.2 也继续兼容。\n2、接入Openverse：超过520万个音频文件！免费使用！音效直接解放！每次使用联网获取即可（配置好的）\n3、ASR模型成本降低五倍：从豆包ASR改为Step 2.5 ASR 首发，剪辑视频效果和各项指标更优，成本是0.15元/h（对比豆包0.8元/h)，同样支持毫秒级输出。\n\n11.6.0永久安装包地址：https://t.co/EqmpqcACcX\n无头剪映GitHub地址：https://t.co/CGXDq1tKxP\n配套剪辑Skill地址：https://t.co/QQ5XDF7Dc4\nStep 2.5 ASR中国站地址：https://t.co/YniNusjF11"
+        },
+        "public_metrics": {
+          "bookmark_count": 2168,
+          "impression_count": 240426,
+          "like_count": 1055,
+          "quote_count": 11,
+          "reply_count": 56,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100748639228367257",
+            "type": "quoted"
+          }
+        ],
+        "text": "无头剪映和剪映Skill大升级！这次我把安装包分享给大家了，一定要保存！一定要保存！大家别再老是和我说版本不适配的问题了。。。😅\n\n1、适配剪映 11.6.0：现在默认使用新版剪映，原来的 11.5、11.4.2 也继续兼容。 https://t.co/qsL1r0V1DM https://t.co/ozenjrGAMu"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100745690318258177",
+            "3_2100745690309902336",
+            "13_2100745690322493440",
+            "13_2100745690326679552"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2100748639228367257",
+        "created_at": "2026-09-18T00:48:00.000Z",
+        "edit_history_tweet_ids": [
+          "2100748639228367257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/jianyi…",
+              "end": 56,
+              "expanded_url": "https://github.com/mcncarl/jianying-headless",
+              "start": 33,
+              "status": 404,
+              "unwound_url": "https://github.com/mcncarl/jianying-headless",
+              "url": "https://t.co/sP6RI9YzSB"
+            },
+            {
+              "display_url": "github.com/mcncarl/yichen…",
+              "end": 91,
+              "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+              "start": 68,
+              "unwound_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+              "url": "https://t.co/fkxIuRxf67"
+            },
+            {
+              "display_url": "pic.x.com/MOzvZOgNvy",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/1",
+              "media_key": "3_2100745690318258177",
+              "start": 176,
+              "url": "https://t.co/MOzvZOgNvy"
+            },
+            {
+              "display_url": "pic.x.com/MOzvZOgNvy",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/photo/2",
+              "media_key": "3_2100745690309902336",
+              "start": 176,
+              "url": "https://t.co/MOzvZOgNvy"
+            },
+            {
+              "display_url": "pic.x.com/MOzvZOgNvy",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/3",
+              "media_key": "13_2100745690322493440",
+              "start": 176,
+              "url": "https://t.co/MOzvZOgNvy"
+            },
+            {
+              "display_url": "pic.x.com/MOzvZOgNvy",
+              "end": 199,
+              "expanded_url": "https://x.com/gengdaJ/status/2100748639228367257/video/4",
+              "media_key": "13_2100745690326679552",
+              "start": 176,
+              "url": "https://t.co/MOzvZOgNvy"
+            },
+            {
+              "display_url": "x.com/gengdaJ/status…",
+              "end": 223,
+              "expanded_url": "https://twitter.com/gengdaJ/status/2097884422389608812",
+              "start": 200,
+              "url": "https://t.co/oDu0NDLx50"
+            }
+          ]
+        },
+        "id": "2100748639228367257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/mcncarl/jianyi…",
+                "end": 56,
+                "expanded_url": "https://github.com/mcncarl/jianying-headless",
+                "start": 33,
+                "url": "https://t.co/CGXDq1tcIh"
+              },
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 91,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+                "start": 68,
+                "url": "https://t.co/QQ5XDF75mw"
+              },
+              {
+                "display_url": "workbuddy.ai/invite?code=XL…",
+                "end": 359,
+                "expanded_url": "https://workbuddy.ai/invite?code=XLTDTF47",
+                "start": 336,
+                "url": "https://t.co/DhhbXesth0"
+              },
+              {
+                "display_url": "volcengine.com/product/asr",
+                "end": 412,
+                "expanded_url": "https://www.volcengine.com/product/asr",
+                "start": 389,
+                "url": "https://t.co/VlZSRt7Ak6"
+              }
+            ]
+          },
+          "text": "把我珍藏已久的好东西分享给家人们，剪映11.4.2开源！！！🥳🥳🥳https://t.co/CGXDq1tcIh\n\n配套神级Skill：https://t.co/QQ5XDF75mw\n\n只需要简单提示词，口播类视频，全程托管给Codex，不需要任何人类操作。\n\n即使略微失误，由于调用豆包ASR，片段被切割到毫秒级别，导入剪映草稿也可以人工丝滑调整😋\n\n放一个原本8分钟，剪辑后3分钟，完全由Codex+yichen-jianying-edit Skill自动剪辑完成的，前后视频对照，以及提示词截图👇\n\n整个剪辑流程可能需要花费的地方：\n1.Codex Token费用，可以用别的便宜模型平替，比如Workbuddy免费的hy3和DeepSeek-V4.1-Flash。https://t.co/DhhbXesth0\n2.豆包ASR，一小时八毛钱，说实话，不能再便宜了。。。\nhttps://t.co/VlZSRt7Ak6"
+        },
+        "public_metrics": {
+          "bookmark_count": 7370,
+          "impression_count": 1420380,
+          "like_count": 3947,
+          "quote_count": 68,
+          "reply_count": 237,
+          "retweet_count": 665
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097884422389608812",
+            "type": "quoted"
+          }
+        ],
+        "text": "把我珍藏已久的好东西分享给家人们，剪映11.4.2开源！！！🥳🥳🥳https://t.co/sP6RI9YzSB\n\n配套神级Skill：https://t.co/fkxIuRxf67\n\n只需要简单提示词，口播类视频，全程托管给Codex，不需要任何人类操作。\n\n即使略微失误，由于调用豆包ASR，片段被切割到毫秒级别，导入剪映草稿也可以人工丝滑调整😋 https://t.co/MOzvZOgNvy https://t.co/oDu0NDLx50"
+      },
+      {
+        "author_id": "1323768907",
+        "conversation_id": "2111298599200141342",
+        "created_at": "2026-10-17T03:29:46.000Z",
+        "edit_history_tweet_ids": [
+          "2111298599200141342"
+        ],
+        "id": "2111298599200141342",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 183466,
+          "like_count": 287,
+          "quote_count": 21,
+          "reply_count": 255,
+          "retweet_count": 9
+        },
+        "text": "国外Personal Agent这么火，国内有啥好用的靠谱的推荐吗？接下来两周好多出差，发现自己还是在携程上订票、规划时间、比价，太不AI了。在国内，大家都会选择用哪个Agent作为入口，管理自己的生活日程呢？"
+      },
+      {
+        "article": {
+          "cover_media": "3_2108363335775436800",
+          "entities": {
+            "tweets": [
+              {
+                "id": "2095746248208994671"
+              },
+              {
+                "id": "2029570219354845577"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://account.apple.com/account"
+              },
+              {
+                "text": "https://www.dmit.io/aff.php?aff=18784"
+              },
+              {
+                "text": "https://bandwagonhost.com/aff.php?aff=84928"
+              },
+              {
+                "text": "https://www.equaldcdn.com"
+              },
+              {
+                "text": "https://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md"
+              },
+              {
+                "text": "https://github.com/ryuu-restart/agent-route"
+              },
+              {
+                "text": "https://ippure.com"
+              },
+              {
+                "text": "anthropic.com"
+              },
+              {
+                "text": "claude.ai"
+              },
+              {
+                "text": "claude.com"
+              },
+              {
+                "text": "claudeusercontent.com"
+              },
+              {
+                "text": "claude.ai"
+              },
+              {
+                "text": "https://www.ebay.com/itm/136840233242"
+              },
+              {
+                "text": "redpocket.com/activate"
+              },
+              {
+                "text": "https://shop.beeesim.com/register?ref=7QLE2MXR"
+              },
+              {
+                "text": "https://bcn5ot9wwnew.feishu.cn/wiki/RpkuwzpHMiCoHak2gMjcuJeInFd?from=from_copylink"
+              },
+              {
+                "text": "https://x.com/gkxspace/status/2101993381303820704?s=20"
+              },
+              {
+                "text": "https://github.com/alchaincyf/zhangxuefeng-skill/issues/63"
+              },
+              {
+                "text": "https://www.equaldcdn.com/?ref=81cfc0ce31"
+              },
+              {
+                "text": "https://github.com/alchaincyf/zhangxuefeng-skill/issues/63"
+              },
+              {
+                "text": "https://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md"
+              },
+              {
+                "text": "https://x.com/gkxspace/status/2101993381303820704?s=20"
+              },
+              {
+                "text": "https://www.ebay.com/itm/136840233242?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339217721&toolid=80009&mkevt=1"
+              },
+              {
+                "text": "https://t.co/FJRXeAsBdP"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2108105390231834624",
+            "3_2108106013102776320",
+            "3_2108105648693223424",
+            "3_2108105494338646016",
+            "3_2108105805270843392",
+            "3_2108105596721610753",
+            "3_2108106116320370688",
+            "3_2108105285927948288",
+            "3_2108106168224935937",
+            "3_2108106271933276160",
+            "3_2108104995816218625",
+            "3_2108105081958891520",
+            "3_2108105703437312000",
+            "3_2108106376346210304",
+            "3_2108105545026805760",
+            "3_2108105441935085568",
+            "3_2108106220062298112",
+            "3_2108105961047261185",
+            "3_2108105029450391552",
+            "3_2108106323825131521",
+            "3_2108105753416642561",
+            "3_2108105909021130752",
+            "3_2108106065099599872",
+            "3_2108105339703091200",
+            "3_2108105857640939520"
+          ],
+          "plain_text": "Fable5.2和Opus5.5的实力不必多说，我把最新（更新于2026.11.10）的稳定使用Claude Code的方法重新更新了一下。\n这篇文章，我会把我的全流程保姆级地进行讲解。涉及到很多微小细节，建议先收藏，空了再跟着一步步，谨小慎微地实操。\n由于Anthropic封禁账号的多样性和随机性，这篇文章仅分享我的真实开通流程，不承诺任何防封号保证！\n硬性门槛提前看：\n护照（过支付和KYC）\n一个本地Agent（Codex）\n一台Mac（Windows设置和Mac不一样，不敢保证效果）\n一台iPhone（可选，如需在手机使用Claude App）\nShadowrocket（保证电脑和手机网络分流规则一致性）\n好了，话不多说，我们开始👇\n一、在iPhone上注册一个全新的Gmail账号\n在iPhone上下载一个Chrome浏览器，然后注册一个Gmail账号——右上角头像 → 添加账号 → 创建账号。我注册的时候没有遇到需要手机号验证的情况。\n但是用电脑注册，可能就会需要手机号验证，这一步虽然大陆+86手机号也能通过验证，但是如果后续Claude需要验证手机号，我个人觉得，如果两边不都是同时用美国（或其他支持地区）手机号，会有一点影响，所以在下文我也给大家准备了在国行版iPhone开通美国eSIM手机号教程。\n二、注册全新美区Apple ID，充值礼品卡购买Shadowrocket\nShadowrocket，也就是常说的小火箭，需要2.99$购买，这个主要用来配置后面的干净网络以及分流规则。\n同时，需要美区Apple ID才能在App Store搜索到Shadowrocket。所以，第一步，咱们先来注册一个免费的Apple ID。\n来到：https://account.apple.com/account，在这里，用中国手机号即可注册美区Apple ID。\n \n然后再用这个新注册的免费美区Apple ID分别登录Mac和iPhone的App Store，购买Shadowrocket就行，但是这一步也有个麻烦，就是没有美国银行卡不能直接充，所以需要先去支付宝充个礼品卡。\n支付宝【Nidiya礼品卡】，然后来到这个界面，选择第一个Apple Gift Card US，充值3$到上面美区Apple ID绑定的Google邮箱即可，然后在App Store下载Shadowrocket。\n \n \n三、搭建干净的网络出口IP\n因为Claude封号，大多封的就是乱蹦乱跳的垃圾IP，所以网络配置一定是整个Claude注册环节的重中之重！\n两种选择：自建VPS或者IPEqual打包服务，都是美国静态独享IP，延迟都在150-190ms直连。\n前者流量较多，有回国路线优化，但是经常缺货且是机房IP，而且任何网络问题，都需要自己维护。如果想要住宅IP，还得自己去套一层（经常是大的号池），两者加起来的价格和折腾层面来说，后者是优选。\n后者出了问题有技术快速修复，不需要自己操心，而且是静态住宅IP（优选IP段），有回国路线优化，不需要复杂的链式配置，有1v1专属客服，只建议上Max及以上套餐（因为是独享）。\n我自用的是VPS自建服务，感兴趣的可以去看这一篇，也可以把这一篇文章丢给Codex直接配置，记住改端口为443。\n推荐购买两种VPS：\n1、DMIT（经常缺货）：https://www.dmit.io/aff.php?aff=18784\n2、搬瓦工：https://bandwagonhost.com/aff.php?aff=84928\n \nIPEqual，是我之前看YouTube大佬分享的，前段时间也推给了朋友使用，也反馈说速度不错，延迟和前者差不多，如果不想麻烦地配置、就想快速使用Claude的朋友，可以直接买这个：https://www.equaldcdn.com\n \n购买/搭建相关服务之后，把得到的链接导入Shadowrocket，这一步点击右上角的+，再点击导入即可，实在不会，让Codex帮忙导入也行的。然后就能得到一个稳定的出口IP了。\n四、清理旧的Claude登录与转发配置\n我觉得我之前被Claude封号就是关于其乱七八糟的配置没有清理，所以这次做了次大扫除——把Claude Code、CC Switch、Claude桌面端都狠狠清理了。\n我用的是claude-cleanup Skill，清理时保留了Claude Code的历史会话、Skills、插件和自建配置。第三方转发配置和小火箭分流另外处理。\n这一步直接交给Codex就可以，咱们非科班改代码也改不明白。。。\n1、先退出Claude，把下面这段复制给Codex\n退出Claude桌面应用和正在运行的Claude Code会话，Codex保持打开（可能会用到Computer Use操作CC Switch）。然后发送：\n我准备使用官方Claude账号，请检查这台Mac上的Claude Code和Claude Desktop旧配置。\n\n先获取并审查这份claude-cleanup Skill，参考它的白名单和保护范围做只读审计，暂不执行清理脚本：\nhttps://github.com/suyuan2022/suyuan-skill/blob/423473db6b618c7e040f1a5a6879bc83e69e8b3b/claude-cleanup/SKILL.md\n\n请先列出简短的清理方案：\n1. 检查旧登录凭据、账号缓存，以及Claude缓存和日志。\n2. 检查主身份文件中的userID、machineID，说明重置这些本地标识的影响和范围。\n3. 检查Claude Code的第三方API地址、认证覆盖项和模型映射。如果使用CC Switch，准备切回Claude Official并关闭Claude接管。\n4. 保留历史会话、Skills、插件、Hooks、自建规则、桌面端持久数据，以及飞书等其他工具依赖的配置。不要清空整个.claude或CC Switch数据库，不要卸载应用。\n\n不要输出密码或令牌。先告诉我要处理什么、保留什么、有什么影响，等我确认后再执行。\n2、执行清理操作\n把这段发给Codex：\n按刚才列明的清单执行。先在本机完整备份相关配置，正常退出需要退出的Claude进程，再清理已确认的旧登录、账号缓存和缓存日志，重置已确认的本地标识，移除Claude Code的旧第三方转发配置。\n\n文件只移入废纸篓；钥匙串只删除刚才明确列出的Claude记录。保留其余数据和配置，修改后逐项核验。如果切换供应商时误清了其他设置，请从备份精确恢复。\n\n完成后告诉我：处理结果、备份位置，以及需要重新打开哪些应用。\n如果脚本要求在终端输入CONFIRM，按Codex提示自己输入。核验完成后，按提示重新打开应用即可。\n我当时做了两轮处理：先清旧登录和缓存、重置部分本地ID，后来又用这个Skill把Claude桌面应用和5项桌面端数据移入废纸篓。Claude Code历史、Skills、共享CC Switch配置和一份旧身份副本保留。\n上面的提示词默认保留桌面端数据和应用。如果想连桌面端也一起清理，就在Codex列清单时明确说明，安全重新再来。\n五、配置Shadowrocket分流\n这一步的目标很简单：电脑和手机访问Claude，都走前面准备好的同一个固定节点，最大程度减少IP的改变\n分流规则直接使用Ryuu维护的上游仓库：https://github.com/ryuu-restart/agent-route。\n有一套完整的分流规则、DNS规则和WebTRC规则。适配客户端：Mihomo、FlClash、Clash Verge Rev、Surge、Shadowrocket 或 sing-box。\n配置好了检查是否还有泄露：\nhttps://ippure.com \n下面三张截图用于核对Shadowrocket键位设置。你可以直接把后面的提示词交给Codex操作。\n设置一下小火箭的TUN模式：设置 → 代理 → 代理类型 → None（TUN Mode）。\n \n“全局路由 → 配置”负责按规则分流，这项也要打开，后续教程中，Codex会来改规则。\n \n再打开「设置 → 隧道 → 包括所有网络」，Mac和iPhone都开启。这个开关会让普通应用的联网流量交给小火箭接管，再按分流规则决定走哪个节点或直连。开启后，仍需核验Claude请求是否走指定节点。\n \n1、选好节点，复制提示词给Codex\n先在Mac的小火箭首页选中自己的固定节点，“全局路由”选择“配置”。\n \n如果以前用过Clash等其他代理工具，部分程序可能还留着旧代理地址，出现浏览器能上网、Claude Code却连不上的情况。这一步不用自己找文件，把检查要求一起交给Codex即可。\n随便取一个节点名称，把下面的【节点名称】替换成小火箭里显示的名字，再发给Codex：\n请帮我配置Mac上的Shadowrocket，固定使用节点【节点名称】。\n\n检查并将“设置 → 代理 → 代理类型”设为None（TUN Mode），“全局路由”使用“配置”。\n\n开启“设置 → 隧道 → 包括所有网络”，确认开关已生效，再核验Claude请求是否命中指定节点。\n\n为以下4个域名添加DOMAIN-SUFFIX（域名后缀）规则，覆盖域名本身及其子域名，使用指定节点：\nanthropic.com\nclaude.ai\nclaude.com\nclaudeusercontent.com\n\n修改前备份配置，保留其他分流规则。Claude相关规则不使用直连备用或自动切换节点。检查当前实际加载的规则，并验证正常连接时的真实出口。\n\n同时检查旧代理配置是否与当前Shadowrocket冲突，包括系统代理、环境变量、shell启动文件、npm、Git、Homebrew和Claude设置。\n\n逐项判断用途，只处理失效或冲突项，保留正常使用的配置。需要修改时，先列出具体改动和影响；修改前备份，修改后核验实际使用的Claude客户端是否正常联网。不要输出密码或令牌，也不要直接套用以前Clash的代理端口或代理组名。\n\n准备iPhone可用的相同Claude分流配置。下一步我会打开iPhone镜像，让你继续配置手机。最后说明哪些已经验证，哪些还需要操作。\n2、用iPhone镜像＋Codex配置手机\n在Mac打开「iPhone镜像」，按提示完成首次连接。iPhone和Mac两端要登录同一个系统Apple账户（不是App Store购买账号），开启Wi-Fi和蓝牙，手机放在Mac旁边并锁屏，开启连接。\n \nMac上看到手机画面后，在刚才的Codex对话里发送：\n我已打开iPhone镜像，请使用Computer Use操作镜像窗口，完成手机上的Shadowrocket配置：\n\n1. 先备份手机现有配置，保留其他分流规则，添加前面准备的4条Claude域名后缀规则。确认这些域名及其子域名走同一个固定节点，选择“配置”路由并连接。\n2. 将“设置 → 代理 → 代理类型”设为None（TUN Mode），开启“设置 → 隧道 → 包括所有网络”，并开启“始终开启”，按当前版本识别对应入口并核验。\n3. 分别核验Mac和iPhone的Claude请求是否命中指定节点，以及该节点的实际出口IP。不要只凭普通IP查询网页判断分流是否正确。\n\n遇到密码、Face ID或系统授权，告诉我接手。不要打开微信或改动无关设置。如果无法操作镜像，或修改VPN后镜像断开，说明停在哪一步，给我最短的接手步骤；恢复后继续核验。不要把未完成的事项写成已完成。\n六、修改Mac和iPhone时区\n因为大陆时间和台北时间一致，且台北是可以用Claude的，所以把时区改成台北就很不错。\nMac这样修改：\n系统设置 → 搜索“时区” → 改成“台北市-台湾”\n关掉“自动设定时区”\n \n搜索“定位服务” → 关掉“定位服务”\n \niPhone这样修改：\n设置 → 搜索“日期与时间”，时区选“台北标准时间”，时区城市选“台北”\n关掉“自动设定时间”\n \n设置 → 搜索“系统服务”，关掉“设定时区”\n \n七、注册全新的免费Claude账号\n准备阶段，万事俱备，只欠东风，正式进入注册Claude阶段！\n用新Gmail邮箱登录Chrome浏览器，打开claude.ai，点击“Continue with Google”。\n接下来就是按照指示来做。然后到了手机号那一步，可填可不填。\n \n八、绑定美国手机号\nClaude要求验证手机号时，再按本节操作；没有要求的，可以直接跳到订阅章节。\n关于手机号验证这一个，有些朋友遇到了，有些朋友没遇到，为了以防万一，我还是把焚决教给大家。\n我选择的是RedPocket美国手机号+BeeSIM转换卡。（因为国行版iPhone不支持直接安装 RedPocket 的 eSIM，所以用了 BeeSIM 实体转换卡）\nRedPocket是一年30美金，BeeSIM是19.9美金永久。（按照教程指导购买，用我的链接可以获取优惠价格）\n这个是实体卡（要插入卡槽的，所以得预留一个卡槽位置），发货最快也要一两天才能到，所以建议提前购买。\n1、购买RedPocket套餐\n直接打开eBay的RedPocket商品页\n因为RedPocket官网需要美国银行卡，eBay可以直接中国PayPal支付，且价格更便宜。\n商品页链接：https://www.ebay.com/itm/136840233242\n中国PayPal很好注册，这个就不在这里展开。\n \n购买套餐\n登录不登录都可以，不登录就游客购买，选择这个一个月2.5美元，一年30美元的套餐，下拉框这块选择eSIM Phone Kit（Most popular），然后点击“Buy it now”（截图中被下拉框挡住了）。\n填写相关信息，用中国PayPal支付。\n \n用ChatGPT或者Google地图找到一个美国免税州地址。\n \n电话号的话填写中国手机号即可。\n2、激活并开启漫游\n支付成功后，需要静静等待十几分钟，然后在上述填写的邮箱中找到一封RedPocket的邮件。\n打开redpocket.com/activate这个网址，输入Confirmation Code。\n \n然后下方的Device MEID/IMEI，在iPhone的设置 → 通用 → 关于本机 → IMEI即可找到。\n \n继续在“Roaming”界面（这个要在App内部找一下。因为我不知道为啥最近电脑登不上RedPocket官网，只能用手机，手机上和电脑上Roaming入口略有差距，大家仔细找找肯定能找到），开启Roaming，然后下拉框选“CHINA”，如果出现“It’s Enabled.”，即代表激活开启漫游成功。\n \n注意：有可能下方的Roaming Balances出现余额为0的情况（我遇到过），这个时候有两种解决办法：\n法一：右下角咨询客服，让它把套餐额度加回来（有人成功过）。\n法二：找eBay客服说明套餐额度问题，直接退款回PayPal，过一天再来重新购买套餐。\n3、导入eSIM到BeeSIM\n如果上述操作一切正常，就需要开始把号码写入BeeSIM了。\n首先，购买BeeSIM的卡，通过这个链接才能享受九折优惠：\nhttps://shop.beeesim.com/register?ref=7QLE2MXR\n \n然后收到的信封上面有一个二维码，用微信扫描二维码就能跳转到BeeSIM小程序，或者直接微信搜索BeeSIM也能找到小程序。\n然后开启蓝牙、连接BeeSIM。\n \n导入eSIM的时候，需要去从邮箱里面找到RedPocket发过来的带美国手机号和二维码的这封邮件。\n用BeeSIM的扫描二维码即可录入相关信息，绑定即可。其余操作看图指示。\n \n到这一步，美国手机号应该就能收发短信和接打电话了。\n这个RedPocket美国手机号除了绑定Claude，也有普遍的海外手机号绑定用途，囤着不亏的。这应该是我估算了七八家之后选定的最终方案，性价比拉满。\n九、订阅Pro和Max\n点击“Upgrade Plan”（哦对了，Claude没有中文界面，所以英文得好好学啊）。\n \n先升级Pro，要不然直接升级Max，很容易封号（特别是20×）。\nFull name随便填一个英文名。\nCountry or region选择United States。\nAddress需要在ChatGPT或者谷歌地图随便找一个免税州地址（就用前面那一个就行）。\nUse a different name on invoices不填。\n支付，我用的是StarryBlu，一张新加坡卡，成功通过了Claude订阅。\n关于如何开卡，大家可以看我这个教程： \n \n有一点点门槛：护照；港卡（如果用国内银行卡需要支付不低的手续费）9.9$买张卡，才能使用，买了之后在问卷填写ID，我帮你加速审核：\nhttps://bcn5ot9wwnew.feishu.cn/wiki/RpkuwzpHMiCoHak2gMjcuJeInFd?from=from_copylink\n等Pro用满第一个五小时之后，我就直接升级了Max5×，从注册账号到开通Max总共一天不到。但是升级20×应该也没啥问题，只要每周的周限额不要打满（留个10%-20%，封号概率就会降低不少）。\n【踩坑补充】：一定要20-100-200这样子慢慢升级，要不然直接充值200很容易被封。\nApple Store内购没问题，可以支付宝礼品卡购买，然后充值Claude——这里注意新的Apple Store账号需要申请购买，一般要等两天才能开通购买权限。Apple Store的好处就是谈KYC概率会变小，但是有苹果税，100变成125，200变成250，大家可以自行决定。\n十、中国护照过KYC认证\n我升级Max5×的时候遇到了一个问题——KYC认证。\n当时可给我急坏了，刚充的Pro就用不了了？？？\n所以，我直接谷歌搜索了一波，找到别人的通过方法——直接使用中国护照。\n\n原理就是进行KYC认证的公司是Persona，这家公司的政策里面是允许中国护照的。\n因为本来就有很多在美国工作的人和留学生，Anthropic也不可能一刀切中国人。\n封号更重要的原因，可能还是在前面的出口IP和各种环境的设置。\n我当时参考的说明如下（参考资料截图）：\n \n过了KYC认证之后，我领了前段时间Claude官方赠送的250$云Claude Code额度，没出现什么问题。\n我手机上也随时在用Claude App，也没有出现什么问题。\n但是我没用过Claude Code CLI，所以不确定这个是否对账号有影响。。。（大家谨慎测试）\n到这里，本篇教程就结束啦，大家快去尽情畅玩Claude Opus5.5吧，不管是写代码、对话、设计都是顶级，据说Fable5.5也不远了，早拥有，早享受！！！\n我是逸尘，咱们下期见！\n\n参考资料：\n余温Claude防封号教程：\nhttps://x.com/gkxspace/status/2101993381303820704?s=20\n\n中国护照过KYC教程：\nhttps://github.com/alchaincyf/zhangxuefeng-skill/issues/63",
+          "preview_text": "Fable5.2和Opus5.5的实力不必多说，我把最新（更新于2026.11.10）的稳定使用Claude Code的方法重新更新了一下。",
+          "title": "任何人都能复刻的Claude注册、订阅和过KYC防封号教程"
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2108363527971041650",
+        "created_at": "2026-10-09T01:06:51.000Z",
+        "edit_history_tweet_ids": [
+          "2108363527971041650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2108…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2108104837099315202",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2108104837099315202",
+              "url": "https://t.co/xlWrXLAQhg"
+            }
+          ]
+        },
+        "id": "2108363527971041650",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 4915,
+          "impression_count": 589604,
+          "like_count": 2505,
+          "quote_count": 52,
+          "reply_count": 104,
+          "retweet_count": 307
+        },
+        "text": "https://t.co/xlWrXLAQhg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2110073686263013376"
+          ]
+        },
+        "author_id": "1712267009483022336",
+        "conversation_id": "2110074247569924489",
+        "created_at": "2026-10-13T18:24:38.000Z",
+        "edit_history_tweet_ids": [
+          "2110074247569924489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncpqpOg4NX",
+              "end": 301,
+              "expanded_url": "https://x.com/higgsfield_ai/status/2110074247569924489/video/1",
+              "media_key": "13_2110073686263013376",
+              "start": 278,
+              "url": "https://t.co/ncpqpOg4NX"
+            }
+          ]
+        },
+        "id": "2110074247569924489",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 477,
+          "impression_count": 538288,
+          "like_count": 987,
+          "quote_count": 96,
+          "reply_count": 138,
+          "retweet_count": 274
+        },
+        "text": "Wan 3.0 is now UNLIMITED on Higgsfield for 7 days.\n\n60% OFF on Higgsfield API.\n\n&gt; Advanced motion design, animation and live-action realism\n&gt; Consistent characters across every shot\n&gt; Top-tier quality at an affordable price\n\nAvailable now at Higgsfield. Limited offer. https://t.co/ncpqpOg4NX"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2109941568253927424"
+          ]
+        },
+        "author_id": "1869683226178146304",
+        "conversation_id": "2109962425512734739",
+        "created_at": "2026-10-13T11:00:18.000Z",
+        "edit_history_tweet_ids": [
+          "2109962425512734739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "On a planet scarcely bigger than a house, there lives a little prince.",
+              "display_url": "littleprince.dev",
+              "end": 189,
+              "expanded_url": "https://littleprince.dev/",
+              "images": [
+                {
+                  "height": 941,
+                  "url": "https://pbs.twimg.com/news_img/2122487714419544064/9zUaPkQz?format=jpg&name=orig",
+                  "width": 1672
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122487714419544064/9zUaPkQz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 166,
+              "status": 200,
+              "title": "The Little Prince Among the Stars · 小王子：星辰之旅",
+              "unwound_url": "https://littleprince.dev/",
+              "url": "https://t.co/qr4wR0jLu3"
+            },
+            {
+              "display_url": "pic.x.com/fk6mVpZvN1",
+              "end": 213,
+              "expanded_url": "https://x.com/Saccc_c/status/2109962425512734739/video/1",
+              "media_key": "13_2109941568253927424",
+              "start": 190,
+              "url": "https://t.co/fk6mVpZvN1"
+            }
+          ]
+        },
+        "id": "2109962425512734739",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 10098,
+          "impression_count": 3922638,
+          "like_count": 17231,
+          "quote_count": 873,
+          "reply_count": 1399,
+          "retweet_count": 1751
+        },
+        "text": "花费16天，我用 Opus 5.5 将小王子的故事制作成了3D剧情游戏\n\n结合Tripo+Blender，Opus 5.5 将小王子故事中的每一个星球变成了可探索的3D场景\n\n希望大家能支持一手，后续会开源整个游戏，以及详细制作流程\n\nWelcome to The Little Prince: Across the Stars✨：https://t.co/qr4wR0jLu3 https://t.co/fk6mVpZvN1"
+      },
+      {
+        "article": {
+          "cover_media": "3_2108238153429762052",
+          "entities": {
+            "code": [
+              {
+                "code": "cf d1 create --name my-database --dry-run",
+                "content": "```\ncf d1 create --name my-database --dry-run\n```",
+                "language": "none"
+              },
+              {
+                "code": "cf schema d1 create",
+                "content": "```\ncf schema d1 create\n```",
+                "language": "none"
+              },
+              {
+                "code": "",
+                "content": "| 存储            | 适合存什么               | 免费额度                        |\n| ------------- | ------------------- | --------------------------- |\n| Workers KV    | 配置、缓存、短链接这类按键取值的数据  | 每天 10 万次读取、1,000 次写入，共 1 GB |\n| D1 SQLite 数据库 | 需要查询的表格数据，比如留言、订单记录 | 每天读取 500 万行、写入 10 万行，共 5 GB |",
+                "language": "none"
+              },
+              {
+                "code": "",
+                "content": "| 服务         | 免费额度                                                | 需要更多时                        |\n| ---------- | --------------------------------------------------- | ---------------------------- |\n| Workers    | 每天 100,000 次请求，每次 10 毫秒 CPU；访问静态资源的请求免费且不限量         | 付费计划每月 5 美元起，含一定用量           |\n| 旧版 Pages   | 每月 500 次构建，同时 1 个构建，单站 20,000 个文件，单文件 25 MiB        | 看官方付费计划                      |\n| Workers KV | 每天 10 万次读取、1,000 次写入，1 GB 存储                        | 包含在 Workers 付费计划里            |\n| D1         | 每天读取 500 万行、写入 10 万行，5 GB 存储                        | 看官方付费计划                      |\n| R2         | 每月 10 GB 存储、100 万次 A 类操作、1,000 万次 B 类操作，出站免费；仅限标准存储 | 超出部分按用量计费                    |\n| Workers AI | 每天 10,000 Neurons                                   | 付费计划每 1,000 Neurons 0.011 美元 |\n| 邮件路由       | 收信和转发                                               | —                            |",
+                "language": "none"
+              },
+              {
+                "code": "When interacting with Cloudflare, use the cf CLI unless the project has a Wrangler configuration file.",
+                "content": "```\nWhen interacting with Cloudflare, use the cf CLI unless the project has a Wrangler configuration file.\n```",
+                "language": "none"
+              },
+              {
+                "code": "",
+                "content": "| 服务            | 免费额度（截至 2026 年 10 月官方文档）                         |\n| ------------- | ------------------------------------------------ |\n| Workers       | 每天 100,000 次请求，每次最多 10 毫秒 CPU 时间；访问静态资源的请求免费且不限量 |\n| R2            | 每月 10 GB 存储，100 万次 A 类操作，1,000 万次 B 类操作，出站流量免费   |\n| Workers AI    | 每天 10,000 Neurons                                |\n| Email Routing | 接收和转发免费                                          |",
+                "language": "none"
+              },
+              {
+                "code": "cf cli search \"create D1 database\"",
+                "content": "```\ncf cli search \"create D1 database\"\n```",
+                "language": "none"
+              },
+              {
+                "code": "export default {\n  async fetch(request, env) {\n    const answer = await env.AI.run(\"@cf/google/gemma-4-26b-a4b-it\", {\n      messages: [\n        { role: \"system\", content: \"你是一个回答简洁的中文助手。\" },\n        { role: \"user\", content: \"用两句话解释 CDN 是什么。\" },\n      ],\n      chat_template_kwargs: { enable_thinking: false },\n    });\n    return Response.json(answer);\n  },\n};",
+                "content": "```javascript\nexport default {\n  async fetch(request, env) {\n    const answer = await env.AI.run(\"@cf/google/gemma-4-26b-a4b-it\", {\n      messages: [\n        { role: \"system\", content: \"你是一个回答简洁的中文助手。\" },\n        { role: \"user\", content: \"用两句话解释 CDN 是什么。\" },\n      ],\n      chat_template_kwargs: { enable_thinking: false },\n    });\n    return Response.json(answer);\n  },\n};\n```",
+                "language": "javascript"
+              },
+              {
+                "code": "",
+                "content": "| 现象                 | 先检查什么                         | 第一处理动作                         |\n| ------------------ | ----------------------------- | ------------------------------ |\n| 浏览器提示重定向次数过多       | SSL/TLS 模式是不是灵活，服务器是否强制 HTTPS | 改成自动、完整或完整（严格）                 |\n| 域名一直没激活            | 注册商的域名服务器有没有改对，DNSSEC 是否关闭    | 核对两条 NS 地址，耐心等待传播              |\n| 接入后收不到邮件           | MX、SPF、DKIM 记录是否在扫描时漏掉        | 补齐邮件记录，或检查邮件路由的 DNS 记录是否显示配置错误 |\n| SSH 连不上服务器         | 用来连接的域名是不是已代理（橙色云）            | 换成仅 DNS 的子域名，或直接用 IP           |\n| R2 图片访问变慢或被限制      | 是不是在用 `r2.dev` 地址             | 改用自定义域                         |\n| Worker 报错超出 CPU 限制 | 代码里有没有大量计算或循环                 | 把计算挪走，或升级付费计划                  |",
+                "language": "none"
+              },
+              {
+                "code": "npm install --global cf\ncf auth login",
+                "content": "```\nnpm install --global cf\ncf auth login\n```",
+                "language": "none"
+              },
+              {
+                "code": "",
+                "content": "| 模型         | 底座           | 特点                          |\n| ---------- | ------------ | --------------------------- |\n| Clef       | Qwen 3.8 27B | 64K 上下文，支持图片输入，中位延迟约 209 毫秒 |\n| Clef-flash | Qwen 3.5 9B  | 中位延迟约 39 毫秒，速度优先            |",
+                "language": "none"
+              }
+            ],
+            "urls": [
+              {
+                "text": "example.com"
+              },
+              {
+                "text": "79702701.xyz"
+              },
+              {
+                "text": "example.com"
+              },
+              {
+                "text": "example.com"
+              },
+              {
+                "text": "ashton.ns.cloudflare.com"
+              },
+              {
+                "text": "mail.example.com"
+              },
+              {
+                "text": "pi.xiaomovps.com"
+              },
+              {
+                "text": "workers.dev"
+              },
+              {
+                "text": "pi.xiaomovps.com"
+              },
+              {
+                "text": "workers.dev"
+              },
+              {
+                "text": "www.example.com"
+              },
+              {
+                "text": "example.com"
+              },
+              {
+                "text": "example.com"
+              },
+              {
+                "text": "img.example.com"
+              },
+              {
+                "text": "r2.79702701.xyz"
+              },
+              {
+                "text": "r2.dev"
+              },
+              {
+                "text": "r2.dev"
+              },
+              {
+                "text": "https://img.example.com/"
+              },
+              {
+                "text": "env.AI"
+              },
+              {
+                "text": "workers.dev"
+              },
+              {
+                "text": "workers.dev"
+              },
+              {
+                "text": "workers.dev"
+              },
+              {
+                "text": "example.com"
+              },
+              {
+                "text": "https://developers.cloudflare.com/pages/platform/limits/"
+              },
+              {
+                "text": "https://developers.cloudflare.com/workers/platform/pricing/"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/cloudflare-speed-optimization-preferred-ip-guide-single-domain"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/cloudflare-email-routing-catch-all-guide"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/cloudflare-cdn-setup-tutorial"
+              },
+              {
+                "text": "https://x.com/xiaomovps/status/2100768053579715028"
+              },
+              {
+                "text": "https://developers.cloudflare.com/fundamentals/manage-domains/add-site/"
+              },
+              {
+                "text": "https://developers.cloudflare.com/cf/agents/"
+              },
+              {
+                "text": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/"
+              },
+              {
+                "text": "https://developers.cloudflare.com/bots/additional-configurations/ai-labyrinth/"
+              },
+              {
+                "text": "https://developers.cloudflare.com/email-service/get-started/route-emails/"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/cloudflare-waf"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/add-domain-to-cloudflare"
+              },
+              {
+                "text": "https://x.com/xiaomovps/status/2095322130422653298"
+              },
+              {
+                "text": "https://developers.cloudflare.com/r2/buckets/public-buckets/"
+              },
+              {
+                "text": "https://blog.cloudflare.com/clef-decision-models/"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/cloudflare-email-routing-catch-all-guide"
+              },
+              {
+                "text": "https://developers.cloudflare.com/ai-crawl-control/features/manage-ai-crawlers/"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/add-domain-to-cloudflare"
+              },
+              {
+                "text": "https://developers.cloudflare.com/r2/pricing/"
+              },
+              {
+                "text": "https://developers.cloudflare.com/workers-ai/get-started/workers-wrangler/"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/cloudflare-waf"
+              },
+              {
+                "text": "https://dash.cloudflare.com/"
+              },
+              {
+                "text": "https://www.legacyvps.com/archives/cloudflare-speed-optimization-preferred-ip-guide-single-domain"
+              },
+              {
+                "text": "https://developers.cloudflare.com/workers-ai/platform/pricing/"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2108238729873932290",
+            "3_2108238999051784192",
+            "3_2108238649968246784",
+            "3_2108239182355402752",
+            "3_2108238691579936774",
+            "3_2108238893128830976",
+            "3_2108239143990116352",
+            "3_2108238606334902275",
+            "3_2108238852636946432",
+            "3_2108238955753971712",
+            "3_2108239570383106048",
+            "3_2108239370901929984",
+            "3_2108239041292558336",
+            "3_2108238518879469569",
+            "3_2108238813336387587",
+            "3_2108238474365321224",
+            "3_2108238564437999621",
+            "3_2108238247998734337",
+            "3_2108238434943057923",
+            "3_2108238774438346752",
+            "3_2108239676553486337"
+          ],
+          "plain_text": "很多人第一次登录 Cloudflare，是因为某篇建站教程让你“把域名接进 Cloudflare”。照着改完域名服务器，网站确实能打开了，可再回到控制台，左边一长串菜单摆在眼前：域名、计算、AI、存储和数据库、应用程序安全、Zero Trust。每一项都像有用，又不知道哪些跟自己有关。\n我从写 VPS 教程开始就一直在用 Cloudflare，前后单独写过域名托管、CDN、WAF 规则、邮件路由和优选 IP。9 月发过一条 Cloudflare 十项福利，后来又陆续发了域名邮箱、防 AI 爬虫、数字名片、低成本做 AI 应用和新 CLI 几条短帖。零散的点越攒越多，这次干脆串成一篇。\n \n这篇文章用一个域名贯穿全程。先把域名接进 Cloudflare，配好解析和 HTTPS；再从 GitHub 仓库发布一个网站，给域名配一个能收信的邮箱，用 R2 存图片和备份；最后写一个 Worker，调用 Workers AI 跑开源模型，并把整个账号交给 Agent 通过命令行管理。\n标题写了从入门到精通，这里的精通也有一个实际范围。你能用免费版独立搭起个人网站、域名邮箱、对象存储和一个小型 AI 接口，知道每项服务的免费额度在哪里，遇到常见报错知道先查什么，也知道涉及 API 令牌和删除操作时该停下来确认。企业级 WAF 调优、Zero Trust 组网和大规模付费架构，不在这一篇里展开。\n正文用 example.com 代替你的域名，操作时换成自己的即可。截图里的演示域名是我的 79702701.xyz，控制台是中文界面，菜单名以截图为准。\n本文导读\n01｜先把域名接进来\n第一章说清 Cloudflare 对普通人有什么用，第二、三章完成域名接入、DNS 和 HTTPS。看完这三章，你的域名就已经在 Cloudflare 上正常工作。\n02｜网站、邮箱和存储\n第四章从 GitHub 仓库发布网站并绑定域名，第五章配置域名邮箱，第六章用 R2 存放图片和备份。这三样加起来，就是一个个人站点最常用的基础设施。\n03｜挡住不该来的流量\n第七章处理 AI 爬虫和机器人流量，知道谁在爬你的网站，哪些能直接拦，哪些只是拖住。\n04｜给网站加上后端和 AI\n第八章写第一个 Worker，第九章接上 Workers AI，并介绍 Cloudflare 新发布的 Clef 决策模型。\n05｜交给 Agent，再留一张速查表\n第十章用新的 cf 命令行，让 Claude Code、Codex 或 Pi 这类 Agent 管理 Cloudflare。第十一章汇总免费额度和常见故障，只想解决眼前问题，可以直接从最后一章开始查。\n一、Cloudflare 能替普通人做什么\n1. 它站在你的网站前面\n很多人把 Cloudflare 理解成一个 CDN，让网站打开快一点。这只说对了一半。\n更准确的理解是，Cloudflare 站在访客和你的服务器之间。域名接进来以后，访客的请求先到 Cloudflare 的网络，再由它决定怎么处理：直接返回缓存，转给你的服务器，拦下可疑流量，或者交给运行在 Cloudflare 上的代码。\n所以它能做的事情分成三层。\n网站入口。 DNS 解析、CDN 加速、HTTPS 证书和基础防护。这是大多数人用 Cloudflare 的起点。\n开发者平台。 Workers 运行网站和后端代码，R2、KV、D1 负责存储。没有服务器，也能做出一个完整的小应用。\nAgent 基础设施。 Workers AI 能直接调用开源模型，Clef 专门帮 Agent 做判断，新的 cf 命令行则是为 Agent 设计的操作入口。\n2. 免费版已经够个人用很久\n这篇文章的所有操作都在免费版内完成。个人网站、作品页、文档站和小工具，大多数时候碰不到免费额度的上限。\n \n这些数字以后可能调整，正式使用前以官方文档为准。每项服务的细节放在对应章节里。\n3. 读完以后的完成标准\n学完这篇文章，你应该可以完成下面这些事。\n把一个域名接进 Cloudflare，分清已代理和仅 DNS 两种解析\n选对 SSL/TLS 加密模式，避开“重定向次数过多”\n从 GitHub 仓库发布网站，并绑定自己的域名\n让 hi@example.com 这样的地址收信，并转发到常用邮箱\n创建 R2 存储桶，用自己的域名公开访问文件\n看清哪些 AI 爬虫在访问网站，并开启 AI 迷宫\n部署一个 Worker，让它调用开源模型返回回答\n让 Agent 用 cf 查命令、预览改动，再执行\n这些服务看起来很多，最后都会落在同一个域名上。接下来先从控制台开始。\n二、把域名接进 Cloudflare\n1. 先认控制台的入口地图\n登录 Cloudflare 控制台 以后，左侧菜单是整个账号的入口。第一次不用把每一项都点开，先记住和本文有关的几组。\n域名：管理接进来的域名，每个域名有自己的 DNS、SSL/TLS 和安全设置\n计算：Workers 和 Pages、电子邮件服务都在这里\nAI：Workers AI 模型\n存储和数据库：R2 对象存储、Workers KV、D1 数据库\nCloudflare 的控制台改版比较频繁，菜单名称和位置可能和截图有出入。找不到时，按 ⌘K 打开顶部的搜索框，直接搜功能名，通常比翻菜单快。\n \n2. 添加域名\n进入“域名”，选择接入新域名的入口（英文界面是 Onboard a domain），输入根域名 example.com。这里填的是不带 www 的主域名，子域名会在后面的 DNS 记录里管理。\n继续以后选择 Free 计划。Cloudflare 会扫描这个域名现有的 DNS 记录，并列出它找到的结果。\n扫描结果不一定完整。重点核对三类记录：根域名 example.com 指向哪里，www 等常用子域名在不在，邮箱用的 MX、SPF、DKIM 记录有没有漏。漏掉的记录手动补上，再继续。这一步漏了邮件记录，切换以后最常见的结果就是收不到信。\n3. 去注册商修改域名服务器\nCloudflare 会给你分配两条域名服务器地址，形如 ashton.ns.cloudflare.com。接下来要回到买域名的地方，比如 Namecheap、Spaceship 或阿里云，把原来的域名服务器换成这两条。\n接入以后，这两条地址也能随时在域名的 DNS → 设置里查到。\n \n修改之前先确认一件事：如果注册商那边开启了 DNSSEC，要先关闭。Cloudflare 官方文档专门提醒过，带着旧的 DNSSEC 切换域名服务器，可能导致域名暂时无法访问。接入完成后，可以在同一个页面里重新启用。\n各家注册商的修改入口不同，我之前单独写过一篇域名托管到 Cloudflare 的完整步骤，找不到入口可以对照着看。\n4. 等待生效，认识域名自己的菜单\n域名服务器的修改需要时间传播，快的几分钟，慢的可能要更久。期间什么都不用做，Cloudflare 会自动检测，生效后域名状态会变成已激活。\n点进这个域名，左侧菜单会换成它自己的设置。后面要用到的 AI Crawl Control、DNS、电子邮件、SSL/TLS 和安全性，都在这一列里。\n \n到这里，域名的解析已经交给 Cloudflare 管理。下一步处理两个最容易出问题的设置：代理状态和 HTTPS。\n三、DNS、代理与 HTTPS\n1. 橙色云和灰色云\n打开域名的 DNS → 记录，每条记录后面都有一列代理状态。\n \n已代理（橙色云）：访客先到 Cloudflare，再转到你的服务器。CDN、HTTPS 证书、防护和缓存都依赖这个状态，访客也看不到服务器的真实 IP。\n仅 DNS（灰色云）：Cloudflare 只负责解析，访客直接连你的服务器。\n网站的根域名和 www 通常开橙色云。下面这些情况要改成灰色云：\n用来 SSH 登录服务器的域名。代理只转发网页常用的端口，SSH 走不通。\n邮件服务器用的域名，比如 MX 记录指向的 mail.example.com。它的 A 记录开了代理，邮件就送不到服务器。MX、TXT 这类记录本身没有代理选项，截图里三条 MX 记录就固定显示仅 DNS。\n需要访客直连服务器的其他服务，比如某些游戏或数据库端口。\n一个实用习惯：网站用一个开代理的域名，SSH 和面板另配一个灰色云的子域名，两者分开。\n国内访问开了代理的网站，速度有时不理想，可以参考我之前写的优选 IP 教程。\n2. SSL/TLS 模式选错，最常见的结果是打不开\n进入 SSL/TLS → 概述，可以配置加密模式。它决定的是 Cloudflare 和你的服务器之间怎么连接。访客和 Cloudflare 之间，开了代理就会自动使用 HTTPS。\n \n自动 SSL/TLS（推荐）：Cloudflare 扫描你的源服务器，自动应用它支持的最安全模式。截图里的域名，自动模式当前选中的就是完整（严格）。\n完整（严格）：用 HTTPS 连接，并验证服务器证书。最安全。\n完整：用 HTTPS 连接，但不检查证书，自签名证书也接受。\n灵活：Cloudflare 用 HTTP 连你的服务器，服务器上不用装证书，但这一段是明文。\n关闭（不安全）：全程不加密，不要用。\n不确定怎么选，就保持自动模式。想手动指定时，服务器装了有效证书，比如 Let's Encrypt 或 Cloudflare 签发的源服务器证书，就选完整（严格）。\n用灵活模式时最常见的翻车，是浏览器提示“重定向次数过多”。原因是服务器自己设置了 HTTP 跳转 HTTPS，Cloudflare 却一直用 HTTP 去连，于是两边来回跳。改成完整或完整（严格）通常就能解决。\n托管在 Workers 上的网站不涉及你自己的服务器，证书由 Cloudflare 自动处理，这一节的设置主要影响有源服务器的网站。\n3. 打开始终使用 HTTPS\n在 SSL/TLS → 边缘证书页面，打开 Always Use HTTPS（始终使用 HTTPS）。访客输入 http:// 时会被自动跳到 https://。\n到这里，域名已经可以安全地接住访问。接下来让它真正承载内容。\n四、从 GitHub 仓库发布一个网站\n1. 发布入口已经换成了 Workers\n以前在 Cloudflare 发静态网站，第一反应是用 Pages。现在控制台的创建流程默认走 Workers：从 GitHub 导入仓库，构建后作为 Worker 部署。页面顶部还留着一行“需要使用旧版 Pages 工作流？继续前往 Pages”，说明 Pages 已经是旧入口。\n对普通用户来说，差别不大。官方定价页写明，访问静态资源的请求免费且不限量，导入页面上也有同样的提示；以后想给网站加接口、绑定存储，也都在同一个项目里接着做。\n我这里用自己的 Pi 蓝皮书仓库 pi-bluebook 演示，它现在挂在 pi.xiaomovps.com 上。你也可以用之前那篇长文GitHub 从入门到精通里建的 github-first-project，一个只有 index.html 的仓库就够用。\n2. 选择仓库\n进入 计算 → Workers 和 Pages，点击创建，选择从 GitHub 导入存储库。第一次使用需要授权 Cloudflare 访问你的 GitHub 账号，可以只授权需要部署的仓库，不必放开全部。\n \n在仓库列表里搜索并选中要部署的仓库，点击下一步。\n3. 构建与部署设置\n \n项目名称：默认和仓库同名，会出现在 workers.dev 地址里。\n构建命令：可选。纯 HTML 项目不需要构建；用 Hugo、Astro、VitePress 这类框架时，填对应的构建命令。\n部署命令：默认是 npx wrangler deploy，保留即可。\n确认后点击部署。部署失败时，先看构建日志里第一条报错，多半是构建命令或输出目录没对上。\n4. 拿到访问地址\n部署完成后进入项目概述页。右下角的“域名和路由”里能看到 项目名.你的子域.workers.dev 这个地址，右上角的“访问”按钮可以直接打开网站。截图里的项目已经绑定过自定义域名，所以这里多了一行 pi.xiaomovps.com，刚部署的项目只有 workers.dev 一个地址，绑定方法在下一节。\n \n以后每次向 main 推送提交，Cloudflare 都会自动重新部署。\n5. 绑定自己的域名\n切到项目的“域”标签页，在“自定义域和路由”里点击添加域名，填入 www.example.com 或 example.com。域名已经在同一个 Cloudflare 账号下，DNS 记录会自动创建，不用手动去配。\n绑定前先确认这个主机名没有别的用途。官方文档写明，已经有 CNAME 记录的主机名不能直接绑定，要先删掉那条记录。根域名如果还指向 VPS 上的旧网站，建议先用 www 或 blog 这类空闲的子域名试，确认没问题再迁移。\n \n绑定完成后，用自己的域名访问，网站就上线了，证书也已经自动配好。\n想做一个更完整的个人主页，可以参考我之前发的数字名片短帖，同样是 GitHub 加 Cloudflare 的组合。\n五、给域名配一个能收信的邮箱\n1. 邮件路由做的是收信和转发\n有了 example.com，很多人会想要一个 hi@example.com 这样的邮箱，放在网站和名片上更像样。\nCloudflare 的邮件路由（Email Routing）可以免费实现这件事。它的工作方式是：发到 hi@example.com 的邮件，由 Cloudflare 接收，再转发到你已有的 Gmail、Outlook 或 QQ 邮箱。\n先说清它的边界：邮件路由负责收信和转发，不是一个完整的邮箱服务。用这个地址对外发信是另一项功能，控制台里叫“电子邮件发送”，目前还是 Beta，本文不展开。\n使用前提是域名的 DNS 托管在 Cloudflare。上一章已经完成了这一步。\n2. 接入域名\n在控制台进入 计算 → 电子邮件服务 → 电子邮件路由。列表里是已经开启的域名，新域名点右上角的“接入域名”。\n \n接入时，Cloudflare 会提示添加几条 DNS 记录，包括 MX、SPF 和 DKIM，确认即可，通常几分钟内生效。\n如果这个域名之前已经在用别家的企业邮箱，现有的 MX 记录会和邮件路由冲突。开启前想清楚，邮件到底由谁来收。列表里的“DNS 记录”一列显示配置错误时，多半就是这类记录没对上。\n3. 先加目标地址，再建路由规则\n点进域名，可以看到概览、活动日志、路由规则、目标地址等几个标签页。右侧的配置摘要里，路由状态显示已启用，说明收信这一层已经通了。\n \n先在“目标地址”里添加你的常用邮箱。Cloudflare 会往这个邮箱发一封验证邮件，点击里面的链接，状态变成已验证才能使用。\n然后切到“路由规则”，创建一条规则。\n \n电子邮件匹配模式：@ 前面填 hi，后面选择你的域名\n操作：选“发送到电子邮件”，目标选刚才验证过的邮箱\n保存\n用另一个邮箱给 hi@example.com 发一封测试邮件，几秒到几分钟内，常用邮箱就能收到。收不到时先看垃圾箱，再检查 MX 记录是否只剩 Cloudflare 的那几条。\n规则可以建很多条，比如 github@、shop@、newsletter@ 分别对应不同用途，哪个地址开始收垃圾邮件，直接删掉那一条规则。列表里默认还有一条“全收”规则，打开以后，所有没匹配上的地址都会按它处理。想把这件事玩到极致，可以看我之前写的无限子邮箱配置指南。\n六、用 R2 存图片和备份\n1. R2 最大的好处是出站不收费\nR2 是 Cloudflare 的对象存储，可以理解成一个放文件的大仓库，图片、视频、备份压缩包、静态资源都能放。\n它最受欢迎的一点，是出站流量免费。很多云存储按下载流量收费，图片被大量访问时账单会涨得很快。R2 免费版每月包含 10 GB 存储、100 万次 A 类操作和 1,000 万次 B 类操作，下载流量本身不收费。\nA 类操作大致对应写入、列出这类动作，B 类操作大致对应读取。个人图床和备份，一般很难用完。\n需要注意，免费额度只适用于标准存储，不包括不频繁访问存储。\n2. 创建存储桶\n进入 存储和数据库 → R2 对象存储，点击创建存储桶。\n \n存储桶名称：页面上写着“存储桶名称是永久性的”，创建后不能改，最好一开始就想好用途。\n位置：保持自动即可，Cloudflare 会按你的位置选一个区域。\n默认存储类：保持“标准”。选“不频繁访问”就用不了免费额度。\n点击创建存储桶，进入以后把一张图片拖进去上传，就能在“对象”列表里看到它。\n3. 用自己的域名公开访问\n存储桶默认是私有的，外部打不开里面的文件。要让网站引用图片，需要在存储桶的“设置”里开启公开访问，有两条路。\n \n自定义域。 在“自定义域”里点击添加，填入 img.example.com，确认 DNS 记录后连接。状态变成活动，通常只要几分钟。截图里我用的是 r2.79702701.xyz。\n公共开发 URL。 也就是 r2.dev 地址，点击启用，输入 allow 确认。\n正式使用一定选自定义域。官方文档写得很清楚，r2.dev 地址有速率限制，只适合开发测试，也用不了缓存和访问控制。截图里这个存储桶就只开了自定义域，公共开发 URL 保持禁用。\n开启以后，用 https://img.example.com/文件名 就能直接访问刚上传的图片，可以填进网站、Markdown 或博客的图床设置里。\n设置页上方的 S3 API 地址里带着你的账户 ID，截图分享前记得打码。\n想要一个带上传界面的图床，可以看看 awesome-cloudflare 合集里收录的 CloudFlare-ImgBed，它支持把 R2 作为存储后端。这类第三方项目部署前，记得按那篇 GitHub 长文里说的，先看作者、维护状态和 License。\n七、挡住不该来的流量\n1. 先看清谁在爬你的网站\n现在除了搜索引擎，还有大量 AI 公司的爬虫在抓取网页，有的拿去训练模型，有的替用户实时搜索。对内容站来说，这部分流量不一定带来访客，却会消耗资源。\nCloudflare 把这部分管理放在域名菜单里的 AI Crawl Control，免费版也能用。它的概述页按运营商列出访问过网站的爬虫，比如 OpenAI、Anthropic、Common Crawl、ByteDance、Google，以及每家被允许的请求数。\n \n以我这个演示域名为例，过去 7 天 AI 爬虫一共发来 974 次请求，放行 390 次，失败 584 次，OpenAI 的 ChatGPT-User 单个爬虫就有 113 次。这里的失败不等于被拦截，页面提示其中 349 次是爬虫请求了不存在的页面，收到了 404。一个流量不大的小站也是这样，内容多的网站只会更多。\n2. 在“安全性”里决定放行还是拦截\nAI Crawl Control 下面有概述、指标、安全性、优化、信号几个子页。放行和拦截在“安全性”里设置，可以针对每个爬虫单独选择。\n放行：这个爬虫能带来引用和流量，或者你本来就愿意被它收录。\n拦截：你不希望内容被它抓走。拦截时可以选择返回 403 禁止访问，或者 402 需要付费。\n判断方法很简单：搜索引擎类的爬虫一般放行，否则网站在搜索结果里会消失；纯训练用途的爬虫，按你对内容的态度决定。\n3. AI 迷宫是拖住，不是拦截\n有些爬虫不遵守 robots.txt，换着身份继续抓。AI 迷宫（AI Labyrinth）的思路是给它们设一个迷宫：在网页里加入只有爬虫能看到的 nofollow 链接，链向 AI 生成的内容，干扰不遵守爬取规范的自动程序。控制台上的说明写得很清楚，这些链接不会改变网页本身的内容，只对自动程序可见。\n开启位置在域名的 安全性 → 设置，找到“AI 迷宫”这一行，打开右侧开关。它目前还标着 Beta。\n \n要分清它和拦截的区别。官方文档写明，AI 迷宫的动作不算拦截，请求本身不会被阻止或质询。想明确挡住某个爬虫，还是用上一节的拦截。同一个页面里的“配置 AI 自动程序策略”，可以按类型控制 AI 自动程序的访问。\n更完整的防护规则，比如按国家、路径或请求频率拦截，可以看我之前整理的免费版 WAF 规则详解。\n八、Workers：给网站加一段后端\n1. Workers 是什么\n第四章发布的网站是静态的：页面写好放上去，所有人看到的内容一样。想要一个能处理请求的后端，比如接收表单、调用 API、返回动态数据，传统做法是租一台服务器。\nWorkers 让你把一段 JavaScript 代码放到 Cloudflare 的网络上运行。请求进来，代码执行，返回结果。不用管服务器，也不用管扩容。\n免费版每天可以处理 100,000 次请求，每次请求最多 10 毫秒 CPU 时间。这里的 CPU 时间只算代码真正在计算的时间，等待网络请求返回的时间不算在内，所以调用外部 API 的代码一般不容易超限。\n2. 部署第一个 Worker\n为了把后端和第四章的网站分开演示，这里单独建一个新的 Worker。进入 计算 → Workers 和 Pages，点击创建，选择从 Hello World 开始，名称填 hello-ai，然后部署。\n部署完成后，你会得到一个 hello-ai.你的子域.workers.dev 的地址。在浏览器里打开它，能看到返回的 Hello World!。\n \n这一行字说明代码已经在 Cloudflare 的网络上跑起来了。下一章就给它接上模型。\n3. 需要存数据时，再认识 KV 和 D1\nWorker 本身不保存数据，每次请求都是独立的。需要存东西时，Cloudflare 还有两个免费的存储，都在“存储和数据库”菜单里。\n \n本文的例子用不到它们，先知道有这两样东西，等项目需要时再接。\n九、Workers AI：用免费额度跑开源模型\n1. 不用 GPU，也能调用模型\nWorkers AI 把一批开源模型放在 Cloudflare 的 GPU 上，Worker 可以直接调用，不需要自己准备显卡，也不用单独申请模型的 API Key。\n免费版每天有 10,000 Neurons。Neurons 是 Cloudflare 自己的计量单位，不同模型、不同长度的请求消耗不一样。超出后需要升级到付费计划，按每 1,000 Neurons 0.011 美元计费。\n在控制台的 AI 菜单里，可以浏览目前支持的模型，有聊天、翻译、图像生成、语音识别等不同类型。\n2. 给 Worker 绑定 Workers AI\n回到 hello-ai 的概述页，找到“绑定”卡片，点击添加绑定，选择 Workers AI，变量名填 AI。绑定的作用，是让代码里可以通过 env.AI 调用模型。变量名要和代码里一致，大小写也算。\n3. 改代码，让它回答问题\n点击右上角的编辑代码，把默认代码换成下面这段。\n \n这里调用的是 Google 的 Gemma 4 开源模型，模型 ID 取自 Cloudflare 官方入门文档。messages 和常见的聊天接口格式一样，system 设定角色，user 是要问的问题。\n部署以后，刷新刚才的 workers.dev 页面。\n \n浏览器里出现一段 JSON，content 里就是模型用中文写的回答。一个没有服务器、没有显卡、没有额外 API Key 的 AI 接口，就这样跑起来了。\n返回结果末尾的 usage 也值得看一眼。这次一问一答一共 84 个 token，消耗约 1.67 Neurons。按每天 10,000 Neurons 的免费额度粗算，这种短问答一天能跑五六千次。\n模型列表和推荐 ID 会随时间更新。调用报错时，先去 AI 菜单的模型页确认这个 ID 是否还在。\n还有一点要注意：这个 workers.dev 地址谁都能打开，每打开一次就消耗一次额度。免费版超出每天的额度后只会调用失败，不会扣钱，但演示完最好在设置里关掉 workers.dev 访问，或者直接删除这个 Worker。真要做成对外的服务，先加上访问控制。\n4. Clef：专门帮 Agent 做判断的模型\n10 月 1 日，Cloudflare 发布了两个开源的决策模型 Clef 和 Clef-flash。它们和聊天模型不一样，不负责写长段回答，只回答选择题。\n你给它一段内容，再给一组问题和可选答案，比如“这条工单紧不紧急”“该转给哪个团队”。它不生成文字，而是给每个选项打出一个概率。下游程序拿到概率，就能自动决定下一步。\n \n两个模型都以 Apache 2.0 协议开源，权重放在 Hugging Face，也可以在 Workers AI 上通过 @cf/cloudflare/clef 和 @cf/cloudflare/clef-flash 直接调用。\n它适合 Agent 里那些需要快速分流的环节：这封邮件要不要处理，这条评论是不是垃圾信息，这个任务该交给哪个工具。以前这些判断也要调用一次大模型，现在可以交给更快的专用模型。\n十、让 Agent 接管：用 cf 管理 Cloudflare\n1. 一半的命令行操作已经来自 Agent\nCloudflare 原来的命令行工具叫 Wrangler，主要用来开发和部署 Workers。官方公开过一组数据：2026 年 3 月，Agent 发起的 Wrangler 使用占四分之一，到发布 cf 的前一周已经升到 48%，差不多一半。\n于是在 9 月 28 日，Cloudflare 发布了新的命令行工具 cf，目前处于公开测试阶段。它和 Wrangler 的主要区别有两点。\n覆盖范围更大。 Wrangler 大约有 280 条命令路径，cf 覆盖了 Cloudflare API 的 3,000 多项操作，DNS、R2、邮件、安全设置都能管。\n为 Agent 设计。 结果默认输出 JSON，能用自然语言搜索命令，危险操作有额外保护。\nWrangler 不会马上消失。官方的计划是公开测试结束后，再发布一个提示迁移的 Wrangler 最终版本，并继续维护 18 个月。已有项目可以慢慢迁移，第四章导入仓库时默认的部署命令也还是 npx wrangler deploy。\n2. 安装并登录\ncf 通过 npm 安装，电脑上需要先装好 Node.js。\n \ncf auth login 会打开浏览器，在 Cloudflare 页面确认授权后，回到终端就可以使用。\n3. 不知道命令，就让它自己搜\ncf 最适合 Agent 的一点，是不需要提前背命令。用自然语言描述要做的事，它会返回最多 5 条匹配的命令。\n \n \n返回结果是一组 JSON，每条有命令和说明，最匹配的 cf d1 create 排在第一。找到命令以后，可以继续查看这条命令需要哪些参数。\n \n4. 先预览，再执行\n涉及创建和修改的命令，可以加上 --dry-run，只打印将要发出的请求，不真正执行。\n \n \n输出里能看到请求方法、接口地址和请求体，确认无误再去掉 --dry-run 正式执行。接口地址里同样带着账户 ID，截图分享前记得打码。\n删除类操作还有一层保护。在非交互模式下，也就是 Agent 自动执行时，删除命令如果没有加 --force，会输出 Aborted. 并停止。Agent 想删东西，必须明确地多加一个参数，这给了你在审查命令时一个明显的信号。\n要注意，这时命令的退出码是 0，看起来像执行成功了，其实什么都没删。官方文档专门提醒，退出成功不代表资源已被删除，让 Agent 删完以后再查一次确认结果。\n5. 告诉 Agent 用它\n在用户级的 AGENTS.md 或 CLAUDE.md 里加一句官方推荐的说明，这样所有项目都会生效：\n \n意思是操作 Cloudflare 时优先用 cf，项目里已经有 Wrangler 配置文件的除外。Claude Code、Codex、Pi 这类 Agent 读到这句，就知道该调用哪个工具。\n之后可以直接对 Agent 说：“把我账号里的 R2 存储桶列出来”“给 example.com 加一条 CNAME，先 dry-run 给我看”。\n6. 令牌只给必要权限\n让 Agent 在无人值守的环境里运行时，比如定时任务或 CI，不能每次都打开浏览器登录。这时需要创建一个 API 令牌，放进 CLOUDFLARE_API_TOKEN 环境变量。\n这一步有三条规矩。\n令牌只勾选任务需要的权限和域名，不要图省事选全部。\n设置合理的有效期，不用的令牌及时删除。\n令牌不要写进代码、提交到仓库，也不要贴进和 AI 的对话。一旦泄露，立即在控制台撤销并重新创建。\nAgent 能帮你点按钮，但它拿到的权限，就是出问题时的影响范围。\n十一、免费额度速查与常见问题\n1. 免费额度一张表\n \n数字来自 2026 年 10 月的 Cloudflare 官方文档，以后可能调整。\n2. 最常见的六种翻车\n \n3. 一条日常使用路径\n以后遇到新项目，可以按这个顺序想。\n域名先接进 Cloudflare，DNS 和 HTTPS 配好。\n网站从 GitHub 仓库导入，推送后自动部署。\n需要邮箱，开邮件路由转发。\n需要存文件，用 R2 加自定义域。\n需要接口，写一个 Worker；需要存数据，再接 KV 或 D1。\n需要模型，绑定 Workers AI；需要快速判断，试试 Clef。\n日常维护交给 Agent，用 cf 查命令、先预览、再执行。\n不是每个项目都要走完七步。大多数个人网站停在第 3 步就已经够用，等真有需求时再往下加。\n4. 延伸阅读\n下面几篇是我之前写的单项教程，可以按需要接着看。\n保姆级教程：如何将域名无缝托管到 Cloudflare\nCloudflare CDN 部署教程\n告别龟速！Cloudflare 优选 IP 傻瓜式教程\nCloudflare 免费版 WAF 规则分享与详解\n利用 Cloudflare 邮件路由实现无限子邮箱配置指南\n参考资料\nCloudflare 添加域名\nPages 免费版限制\nEmail Routing 开启步骤\nR2 价格、R2 公开存储桶\nAI Crawl Control 管理爬虫、AI Labyrinth\nWorkers 价格与额度\nWorkers AI 价格、Workers AI 入门\nIntroducing Clef\nIntroducing cf、cf 与编程 Agent",
+          "preview_text": "很多人第一次登录 Cloudflare，是因为某篇建站教程让你“把域名接进",
+          "title": "万字长文｜Cloudflare 从入门到精通，一个域名搞定建站、邮箱、存储和 AI 后端"
+        },
+        "author_id": "1572253121547735040",
+        "conversation_id": "2108371593747709979",
+        "created_at": "2026-10-09T01:38:54.000Z",
+        "edit_history_tweet_ids": [
+          "2108371593747709979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2108…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2108238128972742656",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2108238128972742656",
+              "url": "https://t.co/Cc2J2I48Gn"
+            }
+          ]
+        },
+        "id": "2108371593747709979",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 2483,
+          "impression_count": 248144,
+          "like_count": 1062,
+          "quote_count": 45,
+          "reply_count": 44,
+          "retweet_count": 199
+        },
+        "text": "https://t.co/Cc2J2I48Gn"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2108393976969732096"
+          ]
+        },
+        "author_id": "1888791214864072705",
+        "conversation_id": "2108543010367512641",
+        "created_at": "2026-10-09T13:00:03.000Z",
+        "edit_history_tweet_ids": [
+          "2108543010367512641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1681349314797240320",
+              "start": 25,
+              "username": "OpenRouter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyFhkdud5f",
+              "end": 183,
+              "expanded_url": "https://x.com/StepFun_ai/status/2108543010367512641/photo/1",
+              "media_key": "3_2108393976969732096",
+              "start": 160,
+              "url": "https://t.co/QyFhkdud5f"
+            }
+          ]
+        },
+        "id": "2108543010367512641",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 221328,
+          "like_count": 296,
+          "quote_count": 34,
+          "reply_count": 48,
+          "retweet_count": 17
+        },
+        "text": "Step 5 Preview is now on @OpenRouter's New &amp; Trending leaderboard.\n\nThanks to everyone giving it a try, and to our partners bringing it into your workflow. https://t.co/QyFhkdud5f"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2108390780809482384",
+        "created_at": "2026-10-09T02:55:08.000Z",
+        "edit_history_tweet_ids": [
+          "2108390780809482384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Astronaut_1216…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/Astronaut_1216/status/2108114696692007001",
+              "start": 176,
+              "url": "https://t.co/fFDM2PB8Zl"
+            }
+          ]
+        },
+        "id": "2108390780809482384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "Recall.ai",
+                "end": 876,
+                "expanded_url": "http://Recall.ai",
+                "start": 853,
+                "url": "https://t.co/OzjXt3QByu"
+              },
+              {
+                "display_url": "Levels.fyi",
+                "end": 1599,
+                "expanded_url": "http://Levels.fyi",
+                "start": 1576,
+                "url": "https://t.co/XAScGbaSpu"
+              }
+            ]
+          },
+          "text": "Monid确实是Agent界的OpenRouter，聚合了2,443个tools & APIs，几乎涵盖了你能想象到的所有功能。\n\n1、TikHub + 社媒数据：获取抖音、小红书、B站、YouTube 等平台的内容、评论和互动数据。\n\n2、Exa + 语义搜索：按问题的含义寻找网页，返回相关内容、摘要和引用。\n\n3、Firecrawl + 网站抓取：批量读取网页、抓取整站，把内容转成适合知识库使用的格式。\n\n4、TinyFish + 浏览器自动化：让 AI 按自然语言目标浏览、操作网页并提取数据。\n\n5、Ahrefs + SEO 分析：查询关键词、搜索排名、网站外链和竞争对手表现。\n\n6、Cloro + AI 搜索曝光检测：查看 ChatGPT、Gemini、Perplexity 等回答提到了哪些品牌、引用了哪些网站。\n\n7、Opoint + 全球新闻检索：按关键词、国家、语言和媒体筛选新闻，获取标题、时间及原始链接。\n\n8、Artificial Analysis + AI 模型评测：查询模型质量、速度、延迟和任务成本，辅助选模型。\n\n9、TypeSafe + 自动分类与评分：按指定规则判断文本或数据，返回分类、评分及置信度。\n\n10、OpenAI + 图片生成与编辑：根据文字生成图片，或结合参考图修改图片。\n\n11、ByteDance / Seedance + 视频生成：根据文字、图片或参考素材生成带声音的视频。\n\n12、ElevenLabs + 语音制作：生成配音、多角色对话，也能转写音频、生成音效。\n\n13、MiniMax + 音乐生成：根据描述生成歌曲和音乐，适合制作内容配乐。\n\n14、Topaz Labs + 画质增强：对图片和视频进行放大、降噪、修复及补帧。\n\n15、Suzanne + 3D 模型生成：把文字或照片转换成带材质的 3D 模型。\n\n16、Magic Hour + GIF 动画生成：把文字描述变成循环动画，输出 GIF、MP4 或 WebM。\n\n17、https://t.co/OzjXt3QByu + 会议录制与转写：让机器人加入 Zoom、Google Meet、Teams 等会议，返回录音、视频和转写。\n\n18、AgentMail + Agent 邮箱：给 AI 创建独立邮箱，管理收发邮件、草稿、附件和邮件线程。\n\n19、Saperly + Agent 电话号码：为 AI 申请、管理和释放真实美国电话号码。\n\n20、Smol Machines + Agent 云电脑：创建独立 Linux 环境，运行命令、处理文件，并保留工作状态。\n\n21、Simple FS + 云端文件管理：存储文件、管理目录，生成供其他工具读取的分享链接。\n\n22、Octen + 内容向量化：生成文字和多模态向量，用于知识库检索和相似内容匹配。\n\n23、Apollo + 企业客户开发：寻找符合条件的公司和联系人，查询企业规模、职位和联系方式。\n\n24、Hunter + 企业邮箱查找与验证：根据公司域名或姓名寻找工作邮箱，检查邮箱是否可投递。\n\n25、Orbit + 人物公开资料整理：根据姓名或社媒账号等线索汇总公开背景，并附上信息来源。\n\n26、Crunchbase + 融资与投资人研究：查询公司融资轮次、投资机构、关键人物和投资组合。\n\n27、Tendata + 进出口贸易研究：查询海关交易记录、进口商、出口商、供应商和贸易趋势。\n\n28、G2 + 软件产品调研：获取软件评价、分类排名和价格信息，辅助比较产品。\n\n29、Clutch + 外包服务商筛选：查询代理公司、开发服务商的客户评价、案例和所在地。\n\n30、Indeed + 招聘信息检索：查询岗位、职位要求、招聘公司和薪资信息。\n\n31、https://t.co/XAScGbaSpu + 薪资对标：查询不同公司、职级的薪酬、福利和实习工资。\n\n32、Amazon（接口类） + 商品研究：获取商品资料和用户评论，分析产品卖点、差评与需求。\n\n33、1688（接口类） + 批发货源研究：查询批发商品、报价和价格，辅助寻找货源。\n\n34、Google Shopping（接口类） + 跨商店比价：获取商品报价、商家和价格信息。\n\n35、Maps & Places（接口类） + 本地商家查询：获取商户位置、店铺资料和评论。\n\n36、Flights（接口类） + 航班与机票查询：获取航班时间、航线和票价信息。\n\n37、Hotels（接口类） + 酒店研究：查询房价、可订情况和住客评价。\n\n38、Zillow + 住宅房产研究：查询房源、房屋估值、经纪人和房贷利率。\n\n39、LoopNet + 商业地产研究：查询商业物业、房源详情和经纪人资料。\n\n40、Carfax + 二手车研究：查询车辆历史摘要、估值、车源和经销商信息。\n\n41、AccuWeather + 天气查询：获取实时天气、多日预报和天气相关提醒。\n\n42、IQAir + 空气质量查询：获取实时和历史空气质量、城市排名及污染地图。\n\n43、Yahoo Finance + 股票行情查询：获取实时价格、历史行情、公司资料和市场新闻。\n\n44、SECForm4 + 内部人士交易与机构持仓：查询股票买卖申报、机构持仓和基金投资组合。\n\n45、DefiLlama + DeFi 数据研究：查询协议资金规模、收益率、手续费、交易量和稳定币数据。\n\n46、QuickNode + 链上数据访问：通过区块链 RPC 和索引接口读取链上数据。\n\n47、Prediction Markets（接口类） + 预测市场研究：查询 Polymarket、Kalshi 等市场的价格、成交量和持仓。\n\n48、Vaquill + 美国法律原文检索：查询联邦及州法律、法规、历史版本和官方来源。\n\n49、Image Search（接口类） + 图片搜索：根据文字或图片寻找网上图片，辅助找视觉参考。\n\n50、Trustpilot + 品牌与商家口碑研究：获取企业评分、消费者评论和分类排名。"
+        },
+        "public_metrics": {
+          "bookmark_count": 811,
+          "impression_count": 88781,
+          "like_count": 478,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108114696692007001",
+            "type": "quoted"
+          }
+        ],
+        "text": "Monid确实是Agent界的OpenRouter，聚合了2,443个tools &amp; APIs，几乎涵盖了你能想象到的所有功能。\n\n1、TikHub + 社媒数据：获取抖音、小红书、B站、YouTube 等平台的内容、评论和互动数据。\n\n2、Exa + 语义搜索：按问题的含义寻找网页，返回相关内容、摘要和引用。\n\n3、Firecrawl + https://t.co/fFDM2PB8Zl"
+      },
+      {
+        "author_id": "1792608085409939456",
+        "conversation_id": "2108114696692007001",
+        "created_at": "2026-10-08T08:38:05.000Z",
+        "edit_history_tweet_ids": [
+          "2108114696692007001"
+        ],
+        "id": "2108114696692007001",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1478,
+          "impression_count": 455583,
+          "like_count": 962,
+          "quote_count": 9,
+          "reply_count": 168,
+          "retweet_count": 105
+        },
+        "text": "卧槽...........我发现了一个巨无敌牛逼的站，抓取全球数据，无视任何防爬设计，我在纠结要不要分享出来，AI时代巨无敌牛逼的中转站"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "username": "gengdaJ"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2112852661309669815",
+    "next_token": "b26v89c19zqg8o3juziz5l2hooccu4jrcs3ryz9ko00al",
+    "oldest_id": "2108363527971041650",
+    "result_count": 17
+  }
+}

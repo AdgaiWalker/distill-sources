@@ -1,0 +1,3516 @@
+{
+  "data": [
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122839670837105095",
+      "created_at": "2026-11-17T23:49:52.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "2122839670837105095"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "1712267009483022336",
+            "start": 3,
+            "username": "higgsfield_ai"
+          }
+        ]
+      },
+      "id": "2122839670837105095",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 131,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 380
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122751206187802945",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @higgsfield_ai: GPT-6.2 Astra is LIVE on Higgsfield.\n\nOpenAI’s new frontier model for your most demanding projects.\n\nWith Higgsfield plu…",
+      "url": "https://x.com/gengdaJ/status/2122839670837105095"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122557489267024349",
+      "created_at": "2026-11-17T10:06:42.000Z",
+      "display_text_range": [
+        8,
+        9
+      ],
+      "edit_history_tweet_ids": [
+        "2122632514179346548"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1877440800",
+            "start": 0,
+            "username": "li9292"
+          }
+        ]
+      },
+      "id": "2122632514179346548",
+      "in_reply_to_user_id": "1877440800",
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 82,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122631645677453703",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@li9292 ✅",
+      "url": "https://x.com/gengdaJ/status/2122632514179346548"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122557489267024349",
+      "created_at": "2026-11-17T07:37:42.000Z",
+      "display_text_range": [
+        9,
+        26
+      ],
+      "edit_history_tweet_ids": [
+        "2122595017856577891"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          }
+        ]
+      },
+      "id": "2122595017856577891",
+      "in_reply_to_user_id": "1869683226178146304",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 175,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122588694649655521",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Saccc_c 爽得很，拿了英伟达投资都阔气起来了",
+      "url": "https://x.com/gengdaJ/status/2122595017856577891"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122546248913965056",
+          "3_2122547096012353536",
+          "3_2122548389976158208"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122537008270807240",
+      "created_at": "2026-11-17T04:32:28.000Z",
+      "display_text_range": [
+        0,
+        185
+      ],
+      "edit_history_tweet_ids": [
+        "2122548400482849265"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Create images, videos, and voice content with Higgsfield AI from text prompts or references. Edit and upscale media, automate creative workflows with its AI agent, and generate content on web and mobile.",
+            "display_url": "higgsfield.ai/?fpr=chen85",
+            "end": 29,
+            "expanded_url": "https://higgsfield.ai?fpr=chen85",
+            "images": [
+              {
+                "height": 675,
+                "url": "https://pbs.twimg.com/news_img/2122548408351383552/bBePtTaD?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122548408351383552/bBePtTaD?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 6,
+            "status": 200,
+            "title": "Higgsfield AI — AI-native creative suite",
+            "unwound_url": "https://higgsfield.ai?fpr=chen85",
+            "url": "https://t.co/AP48xiuXWS"
+          },
+          {
+            "display_url": "pic.x.com/ku6VXK10Ti",
+            "end": 209,
+            "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/1",
+            "media_key": "3_2122546248913965056",
+            "start": 186,
+            "url": "https://t.co/ku6VXK10Ti"
+          },
+          {
+            "display_url": "pic.x.com/ku6VXK10Ti",
+            "end": 209,
+            "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/2",
+            "media_key": "3_2122547096012353536",
+            "start": 186,
+            "url": "https://t.co/ku6VXK10Ti"
+          },
+          {
+            "display_url": "pic.x.com/ku6VXK10Ti",
+            "end": 209,
+            "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/3",
+            "media_key": "3_2122548389976158208",
+            "start": 186,
+            "url": "https://t.co/ku6VXK10Ti"
+          }
+        ]
+      },
+      "id": "2122548400482849265",
+      "in_reply_to_user_id": "1897545708770840576",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 2055,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122537008270807240",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "传送门地址：https://t.co/AP48xiuXWS\n黑五大促，就只有今天！我真的忍不住不心动，已经下单600$年费套餐（每个月3000积分，可以直接打通我的Claude Code工作流）\n\n1、129$一个月的年费Ultra套餐，现在50$一个月。\n2、Business套餐，还送30天不限量的Seedance2.0/Seedance2.5，这个应该只能官网用。 https://t.co/ku6VXK10Ti",
+      "url": "https://x.com/gengdaJ/status/2122548400482849265"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122536282916372481"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122537008270807240",
+      "created_at": "2026-11-17T03:47:12.000Z",
+      "display_text_range": [
+        0,
+        176
+      ],
+      "edit_history_tweet_ids": [
+        "2122536629495853382",
+        "2122536880789148062",
+        "2122537008270807240"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/tJvADxdvoK",
+            "end": 200,
+            "expanded_url": "https://x.com/gengdaJ/status/2122537008270807240/video/1",
+            "media_key": "13_2122536282916372481",
+            "start": 177,
+            "url": "https://t.co/tJvADxdvoK"
+          },
+          {
+            "display_url": "x.com/higgsfield_ai/…",
+            "end": 224,
+            "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+            "start": 201,
+            "url": "https://t.co/jHfkJChuyo"
+          }
+        ]
+      },
+      "id": "2122537008270807240",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 33925,
+        "like_count": 32,
+        "quote_count": 9,
+        "reply_count": 19,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122377853215936697",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/tJvADxdvoK https://t.co/jHfkJChuyo",
+      "url": "https://x.com/gengdaJ/status/2122537008270807240"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122484162385133678",
+      "created_at": "2026-11-17T00:17:12.000Z",
+      "display_text_range": [
+        0,
+        143
+      ],
+      "edit_history_tweet_ids": [
+        "2122484162385133678"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "1712267009483022336",
+            "start": 3,
+            "username": "higgsfield_ai"
+          }
+        ]
+      },
+      "id": "2122484162385133678",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 146,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 359
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122377853215936697",
+          "type": "retweeted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "RT @higgsfield_ai: Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n&gt; Any style, from dark fantasy to 90…",
+      "url": "https://x.com/gengdaJ/status/2122484162385133678"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122296233264083116",
+      "created_at": "2026-11-16T12:32:41.000Z",
+      "display_text_range": [
+        14,
+        49
+      ],
+      "edit_history_tweet_ids": [
+        "2122306865375871424"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1822141194404593664",
+            "start": 0,
+            "username": "Yiwei_growth"
+          }
+        ]
+      },
+      "id": "2122306865375871424",
+      "in_reply_to_user_id": "1822141194404593664",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 856,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122296233264083116",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Yiwei_growth 所以要多交和 yiwei 这样的朋友，你看着她卷，自己不自主也会卷起来",
+      "url": "https://x.com/gengdaJ/status/2122306865375871424"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2122271554117783948",
+      "created_at": "2026-11-16T10:47:36.000Z",
+      "display_text_range": [
+        10,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2122280418372468822"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2122280418372468822",
+      "in_reply_to_user_id": "1881991469730594816",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1931,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122271554117783948",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@gkxspace 我用的是一个开源免费的哈哈",
+      "url": "https://x.com/gengdaJ/status/2122280418372468822"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2071040330531754375",
+      "created_at": "2026-11-15T01:41:48.000Z",
+      "display_text_range": [
+        11,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2121780674411819184"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1618752347752271873",
+            "start": 0,
+            "username": "beefnoode"
+          }
+        ]
+      },
+      "id": "2121780674411819184",
+      "in_reply_to_user_id": "1618752347752271873",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 28,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071040330531754375",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@beefnoode 用牛肉粉老师的码开了哈哈",
+      "url": "https://x.com/gengdaJ/status/2121780674411819184"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-14T15:30:52.000Z",
+      "display_text_range": [
+        20,
+        64
+      ],
+      "edit_history_tweet_ids": [
+        "2121626927828259153"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1877440800",
+            "start": 0,
+            "username": "li9292"
+          },
+          {
+            "end": 19,
+            "id": "1876494331491848192",
+            "start": 8,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2121626927828259153",
+      "in_reply_to_user_id": "1877440800",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 245,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120985422352269351",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@li9292 @chatcutapp 没有啊，韭二哥。你们从哪看出来我憔悴的🤔我是蹲着录这个视频的，有点累？还是说精神状态不好",
+      "url": "https://x.com/gengdaJ/status/2121626927828259153"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2121615882413908220",
+      "created_at": "2026-11-14T15:26:29.000Z",
+      "display_text_range": [
+        62,
+        77
+      ],
+      "edit_history_tweet_ids": [
+        "2121625827746222353"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 20,
+            "id": "1881991469730594816",
+            "start": 11,
+            "username": "gkxspace"
+          },
+          {
+            "end": 29,
+            "id": "2022118285983232001",
+            "start": 21,
+            "username": "xmmxovo"
+          },
+          {
+            "end": 45,
+            "id": "1792608085409939456",
+            "start": 30,
+            "username": "Astronaut_1216"
+          },
+          {
+            "end": 61,
+            "id": "2008763857142255616",
+            "start": 46,
+            "username": "ShengzheSeanxu"
+          }
+        ]
+      },
+      "id": "2121625827746222353",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1077,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121615882413908220",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@bbkirstry @gkxspace @xmmxovo @Astronaut_1216 @ShengzheSeanxu 哇小晚姐生日快乐！可惜没在杭州",
+      "url": "https://x.com/gengdaJ/status/2121625827746222353"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2121546097437114449",
+      "created_at": "2026-11-14T11:20:21.000Z",
+      "display_text_range": [
+        10,
+        16
+      ],
+      "edit_history_tweet_ids": [
+        "2121563885614571821"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2121563885614571821",
+      "in_reply_to_user_id": "1881991469730594816",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1434,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121546097437114449",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@gkxspace 我去太牛逼了",
+      "url": "https://x.com/gengdaJ/status/2121563885614571821"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2121442608845328697",
+      "created_at": "2026-11-14T08:09:07.000Z",
+      "display_text_range": [
+        11,
+        17
+      ],
+      "edit_history_tweet_ids": [
+        "2121515757117010142"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1807644997321453568",
+            "start": 0,
+            "username": "libuyi543"
+          }
+        ]
+      },
+      "id": "2121515757117010142",
+      "in_reply_to_user_id": "1807644997321453568",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8402,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121446595665572208",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@libuyi543 还能这么玩啊",
+      "url": "https://x.com/gengdaJ/status/2121515757117010142"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2121442608845328697",
+      "created_at": "2026-11-14T08:08:55.000Z",
+      "display_text_range": [
+        16,
+        22
+      ],
+      "edit_history_tweet_ids": [
+        "2121515706760245431"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1792608085409939456",
+            "start": 0,
+            "username": "Astronaut_1216"
+          }
+        ]
+      },
+      "id": "2121515706760245431",
+      "in_reply_to_user_id": "1792608085409939456",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7273,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121444478099816818",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Astronaut_1216 用知识换钱～",
+      "url": "https://x.com/gengdaJ/status/2121515706760245431"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2121440612482433024",
+          "3_2121441058483761152"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2121442608845328697",
+      "created_at": "2026-11-14T03:18:27.000Z",
+      "display_text_range": [
+        0,
+        143
+      ],
+      "edit_history_tweet_ids": [
+        "2121442608845328697"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/RcdmJJu3aK",
+            "end": 167,
+            "expanded_url": "https://x.com/gengdaJ/status/2121442608845328697/photo/1",
+            "media_key": "3_2121440612482433024",
+            "start": 144,
+            "url": "https://t.co/RcdmJJu3aK"
+          },
+          {
+            "display_url": "pic.x.com/RcdmJJu3aK",
+            "end": 167,
+            "expanded_url": "https://x.com/gengdaJ/status/2121442608845328697/photo/2",
+            "media_key": "3_2121441058483761152",
+            "start": 144,
+            "url": "https://t.co/RcdmJJu3aK"
+          }
+        ]
+      },
+      "id": "2121442608845328697",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "experthub.tencent.com/?referral_code…",
+              "end": 777,
+              "expanded_url": "https://experthub.tencent.com/?referral_code=736G7A",
+              "start": 754,
+              "url": "https://t.co/CCOo3NFZm1"
+            },
+            {
+              "display_url": "corexpertdata.com/x/lb-1Z2QWpt",
+              "end": 815,
+              "expanded_url": "https://corexpertdata.com/x/lb-1Z2QWpt",
+              "start": 792,
+              "url": "https://t.co/MJYBDP1GSR"
+            },
+            {
+              "display_url": "siriser.com",
+              "end": 850,
+              "expanded_url": "https://www.siriser.com",
+              "start": 827,
+              "url": "https://t.co/FzRmiEqBU8"
+            }
+          ]
+        },
+        "text": "大厂的AI商战真是朴实无华，就是猛猛砸钱找专家，猛猛做数据标注。。。字节的Xpert，10月份有一个人领了18万。。。\n\nAI时代，只要你有任何特长，只靠贡献自己的知识和努力，也能活得很滋润：\n\n⓵专业问答与评测\n-专业领域问答（医疗、法律、金融、STEM等）\n-模型回复打分与对比评测\n-Benchmark出题与标准答案设计\n\n⓶聊天 / 对话相关\n-多轮对话评估：对模型在聊天中的回复打分、排序、指出问题（准确性、自然度、逻辑、人设一致性等）\n-对话生成 / 改写：写或优化多轮对话数据，用于训练聊天机器人\n-偏好排序（RLHF）：同一问题给出多个回复，选出更好的那个并写理由\n-角色扮演 / 人设对话：按指定角色（医生、律师、客服、特定性格等）进行对话评测或数据生产\n-对话纠错：找出聊天回复中的事实错误、逻辑漏洞、不当内容\n\n⓷内容生产类\n-高质量专业内容撰写（案例库、知识库、语料）\n-复杂指令设计（多约束、高难度Prompt）\n-参考答案撰写\n-专业内容改写与优化\n\n⓸代码 / 技术类\n-代码生成评估\n-Agentic Coding / 长程任务评测\n-Bug查找与代码审查\n-编程题出题与判题标准制定\n\n⓹语音 / 多模态类\n-方言语音采集与标注\n-语音转写质检\n-视频/3D/动捕数据相关\n-多模态内容评估\n\n⓺审核与质检类\n-模型输出合规性审核（医疗、法律、金融强合规场景）\n-知识准确性审核\n-已有标注数据的二次质检\n\n⓻其他\n-访谈类任务\n-数据采集（按脚本录制真实场景）\n-创意内容评估（影视、文学、设计美学等）\n\n上面这些任务，简单到只要愿意花时间聊天，时薪也在三位数。更专业一些的比如生物、法律、金融、制造，就更加赚钱了。\n\n可以参与的平台：\n1、腾讯旗下的ExpertHub：https://t.co/CCOo3NFZm1\n2、字节旗下的Xpert：\nhttps://t.co/MJYBDP1GSR\n3、阿里的晓天睿士：\nhttps://t.co/FzRmiEqBU8"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2120,
+        "impression_count": 219848,
+        "like_count": 1253,
+        "quote_count": 19,
+        "reply_count": 74,
+        "retweet_count": 237
+      },
+      "reply_settings": "everyone",
+      "text": "大厂的AI商战真是朴实无华，就是猛猛砸钱找专家，猛猛做数据标注。。。字节的Xpert，10月份有一个人领了18万。。。\n\nAI时代，只要你有任何特长，只靠贡献自己的知识和努力，也能活得很滋润：\n\n⓵专业问答与评测\n-专业领域问答（医疗、法律、金融、STEM等）\n-模型回复打分与对比评测 https://t.co/RcdmJJu3aK",
+      "url": "https://x.com/gengdaJ/status/2121442608845328697"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120818935537029545",
+      "created_at": "2026-11-13T13:20:33.000Z",
+      "display_text_range": [
+        9,
+        28
+      ],
+      "edit_history_tweet_ids": [
+        "2121231747379781753"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1866821173755121666",
+            "start": 0,
+            "username": "cnyzgkc"
+          }
+        ]
+      },
+      "id": "2121231747379781753",
+      "in_reply_to_user_id": "1866821173755121666",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 869,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120818935537029545",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@cnyzgkc 有个邪修，豆包工作在接微信电话特别有用",
+      "url": "https://x.com/gengdaJ/status/2121231747379781753"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2017784935453749349",
+      "created_at": "2026-11-13T10:28:54.000Z",
+      "display_text_range": [
+        14,
+        16
+      ],
+      "edit_history_tweet_ids": [
+        "2121188550825881869"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1822141194404593664",
+            "start": 0,
+            "username": "Yiwei_growth"
+          }
+        ]
+      },
+      "id": "2121188550825881869",
+      "in_reply_to_user_id": "1822141194404593664",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 47,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121091334085939656",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@Yiwei_growth 干！",
+      "url": "https://x.com/gengdaJ/status/2121188550825881869"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2121096338674766007",
+      "created_at": "2026-11-13T06:56:26.000Z",
+      "display_text_range": [
+        12,
+        19
+      ],
+      "edit_history_tweet_ids": [
+        "2121135080127250702"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "756319701861601281",
+            "start": 0,
+            "username": "AI_Jasonyu"
+          }
+        ]
+      },
+      "id": "2121135080127250702",
+      "in_reply_to_user_id": "756319701861601281",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1247,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121096338674766007",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@AI_Jasonyu 鱼总涉猎太广了",
+      "url": "https://x.com/gengdaJ/status/2121135080127250702"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120865290703552993",
+      "created_at": "2026-11-13T02:45:48.000Z",
+      "display_text_range": [
+        13,
+        16
+      ],
+      "edit_history_tweet_ids": [
+        "2121072005663641738"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1974653328274714624",
+            "start": 0,
+            "username": "AYi_AInotes"
+          }
+        ]
+      },
+      "id": "2121072005663641738",
+      "in_reply_to_user_id": "1974653328274714624",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 979,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120865290703552993",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@AYi_AInotes 学废了",
+      "url": "https://x.com/gengdaJ/status/2121072005663641738"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120893769713336802",
+      "created_at": "2026-11-12T15:49:08.000Z",
+      "display_text_range": [
+        11,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "2120906751851868240"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2120906751851868240",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2246,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120893769713336802",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@bbkirstry 我也配被小晚姐拆解吗🙃🫣",
+      "url": "https://x.com/gengdaJ/status/2120906751851868240"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-12T15:21:31.000Z",
+      "display_text_range": [
+        22,
+        40
+      ],
+      "edit_history_tweet_ids": [
+        "2120899801940369865"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1988475714501570561",
+            "start": 0,
+            "username": "liyue_ai"
+          },
+          {
+            "end": 21,
+            "id": "1876494331491848192",
+            "start": 10,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2120899801940369865",
+      "in_reply_to_user_id": "1988475714501570561",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 398,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120742814954967333",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@liyue_ai @chatcutapp 确实，语音输入加上真不用剪辑了。。。",
+      "url": "https://x.com/gengdaJ/status/2120899801940369865"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120690544825250061",
+      "created_at": "2026-11-12T04:15:07.000Z",
+      "display_text_range": [
+        22,
+        27
+      ],
+      "edit_history_tweet_ids": [
+        "2120732093642895457"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1881991469730594816",
+            "start": 0,
+            "username": "gkxspace"
+          },
+          {
+            "end": 21,
+            "id": "1876494331491848192",
+            "start": 10,
+            "username": "chatcutapp"
+          }
+        ]
+      },
+      "id": "2120732093642895457",
+      "in_reply_to_user_id": "1881991469730594816",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 858,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120729906992881995",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@gkxspace @chatcutapp 补的太多了",
+      "url": "https://x.com/gengdaJ/status/2120732093642895457"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2120719049676161383",
+      "created_at": "2026-11-12T03:54:55.000Z",
+      "display_text_range": [
+        17,
+        27
+      ],
+      "edit_history_tweet_ids": [
+        "2120727012692390163"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1911968142311772161",
+            "start": 0,
+            "username": "hIpHYpksGV89966"
+          }
+        ]
+      },
+      "id": "2120727012692390163",
+      "in_reply_to_user_id": "1911968142311772161",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2159,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120722537604911172",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@hIpHYpksGV89966 只读不习，用了好久了",
+      "url": "https://x.com/gengdaJ/status/2120727012692390163"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2122536629495853382].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2122536629495853382",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2122536629495853382"
+    },
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2122536880789148062].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2122536880789148062",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2122536880789148062"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3214,
+        "media_key": "3_2122546248913965056",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTMkVHa0AAZsCC.jpg",
+        "width": 2812
+      },
+      {
+        "height": 3032,
+        "media_key": "3_2122547096012353536",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTNVozacAAMm_2.jpg",
+        "width": 2846
+      },
+      {
+        "height": 1392,
+        "media_key": "3_2122548389976158208",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTOg9MbMAA9YQn.jpg",
+        "width": 1534
+      },
+      {
+        "duration_ms": 11291,
+        "height": 3840,
+        "media_key": "13_2122536282916372481",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122536282916372481/img/s7HpiXu8lhKqia1-.jpg",
+        "type": "video",
+        "width": 2160
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2121440612482433024",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXDe_0caQAAxDR1.jpg",
+        "width": 1256
+      },
+      {
+        "height": 1806,
+        "media_key": "3_2121441058483761152",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXDfZx7acAAV0a5.jpg",
+        "width": 2908
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122839670837105095",
+        "created_at": "2026-11-17T23:49:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "2122839670837105095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1712267009483022336",
+              "start": 3,
+              "username": "higgsfield_ai"
+            }
+          ]
+        },
+        "id": "2122839670837105095",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122751206187802945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higgsfield_ai: GPT-6.2 Astra is LIVE on Higgsfield.\n\nOpenAI’s new frontier model for your most demanding projects.\n\nWith Higgsfield plu…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122750352021737472"
+          ]
+        },
+        "author_id": "1712267009483022336",
+        "conversation_id": "2122751206187802945",
+        "created_at": "2026-11-17T17:58:21.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "2122751206187802945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yexTCORq8I",
+              "end": 303,
+              "expanded_url": "https://x.com/higgsfield_ai/status/2122751206187802945/video/1",
+              "media_key": "13_2122750352021737472",
+              "start": 280,
+              "url": "https://t.co/yexTCORq8I"
+            },
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/OpenAI/status/2122750124543926515",
+              "start": 304,
+              "url": "https://t.co/re5JLj5Ikc"
+            }
+          ]
+        },
+        "id": "2122751206187802945",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 235291,
+          "like_count": 839,
+          "quote_count": 9,
+          "reply_count": 103,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122750124543926515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GPT-6.2 Astra is LIVE on Higgsfield.\n\nOpenAI’s new frontier model for your most demanding projects.\n\nWith Higgsfield plugin, GPT-6.2 Astra powers proactive multi-agent workflows across design, coding, and creative production.\n\nJoin Higgsfield with up to 65% off for Black Friday. https://t.co/yexTCORq8I https://t.co/re5JLj5Ikc"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122557489267024349",
+        "created_at": "2026-11-17T10:06:42.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_history_tweet_ids": [
+          "2122632514179346548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877440800",
+              "start": 0,
+              "username": "li9292"
+            }
+          ]
+        },
+        "id": "2122632514179346548",
+        "in_reply_to_user_id": "1877440800",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122631645677453703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li9292 ✅"
+      },
+      {
+        "author_id": "1877440800",
+        "conversation_id": "2122557489267024349",
+        "created_at": "2026-11-17T10:03:15.000Z",
+        "display_text_range": [
+          9,
+          37
+        ],
+        "edit_history_tweet_ids": [
+          "2122631645677453703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122631645677453703",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122557489267024349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 所以逸尘是下单了ultra 的600美元一年的套餐是吗？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122557489267024349",
+        "created_at": "2026-11-17T07:37:42.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_history_tweet_ids": [
+          "2122595017856577891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869683226178146304",
+              "start": 0,
+              "username": "Saccc_c"
+            }
+          ]
+        },
+        "id": "2122595017856577891",
+        "in_reply_to_user_id": "1869683226178146304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122588694649655521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saccc_c 爽得很，拿了英伟达投资都阔气起来了"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "conversation_id": "2122557489267024349",
+        "created_at": "2026-11-17T07:12:35.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_history_tweet_ids": [
+          "2122588694649655521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2122588694649655521",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122557489267024349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 我也下单去"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122546248913965056",
+            "3_2122547096012353536",
+            "3_2122548389976158208"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-17T04:32:28.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_history_tweet_ids": [
+          "2122548400482849265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Create images, videos, and voice content with Higgsfield AI from text prompts or references. Edit and upscale media, automate creative workflows with its AI agent, and generate content on web and mobile.",
+              "display_url": "higgsfield.ai/?fpr=chen85",
+              "end": 29,
+              "expanded_url": "https://higgsfield.ai?fpr=chen85",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2122548408351383552/bBePtTaD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122548408351383552/bBePtTaD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "Higgsfield AI — AI-native creative suite",
+              "unwound_url": "https://higgsfield.ai?fpr=chen85",
+              "url": "https://t.co/AP48xiuXWS"
+            },
+            {
+              "display_url": "pic.x.com/ku6VXK10Ti",
+              "end": 209,
+              "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/1",
+              "media_key": "3_2122546248913965056",
+              "start": 186,
+              "url": "https://t.co/ku6VXK10Ti"
+            },
+            {
+              "display_url": "pic.x.com/ku6VXK10Ti",
+              "end": 209,
+              "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/2",
+              "media_key": "3_2122547096012353536",
+              "start": 186,
+              "url": "https://t.co/ku6VXK10Ti"
+            },
+            {
+              "display_url": "pic.x.com/ku6VXK10Ti",
+              "end": 209,
+              "expanded_url": "https://x.com/gengdaJ/status/2122548400482849265/photo/3",
+              "media_key": "3_2122548389976158208",
+              "start": 186,
+              "url": "https://t.co/ku6VXK10Ti"
+            }
+          ]
+        },
+        "id": "2122548400482849265",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2055,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122537008270807240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传送门地址：https://t.co/AP48xiuXWS\n黑五大促，就只有今天！我真的忍不住不心动，已经下单600$年费套餐（每个月3000积分，可以直接打通我的Claude Code工作流）\n\n1、129$一个月的年费Ultra套餐，现在50$一个月。\n2、Business套餐，还送30天不限量的Seedance2.0/Seedance2.5，这个应该只能官网用。 https://t.co/ku6VXK10Ti"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122536282916372481"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122537008270807240",
+        "created_at": "2026-11-17T03:47:12.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_history_tweet_ids": [
+          "2122536629495853382",
+          "2122536880789148062",
+          "2122537008270807240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJvADxdvoK",
+              "end": 200,
+              "expanded_url": "https://x.com/gengdaJ/status/2122537008270807240/video/1",
+              "media_key": "13_2122536282916372481",
+              "start": 177,
+              "url": "https://t.co/tJvADxdvoK"
+            },
+            {
+              "display_url": "x.com/higgsfield_ai/…",
+              "end": 224,
+              "expanded_url": "https://twitter.com/higgsfield_ai/status/2122377853215936697",
+              "start": 201,
+              "url": "https://t.co/jHfkJChuyo"
+            }
+          ]
+        },
+        "id": "2122537008270807240",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 比例可选，适配各大社媒平台(TikTok、Instagram、YouTube和X)\n\nHiggsfield也开展了黑五活动，此时不冲更待何时，最高享受65%折扣！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 33925,
+          "like_count": 32,
+          "quote_count": 9,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122377853215936697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AIGC这一块学的慢确实不用学。。。Higgsfield推出Short Drama Studio，通过MCP连接Claude Code和Codex，制作短剧门槛低的离谱：\n1. 通过Fable5.2构思任意风格的短剧剧本\n2. 上传剧本，Short Drama Studio直出一整季完整短剧，保持良好的人物一致性\n3. 9:16、16:9 或 4:3 https://t.co/tJvADxdvoK https://t.co/jHfkJChuyo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2122376442927370240"
+          ]
+        },
+        "author_id": "1712267009483022336",
+        "conversation_id": "2122377853215936697",
+        "created_at": "2026-11-16T17:14:46.000Z",
+        "display_text_range": [
+          0,
+          285
+        ],
+        "edit_history_tweet_ids": [
+          "2122377517164081507",
+          "2122377853215936697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ga0IilUOEK",
+              "end": 309,
+              "expanded_url": "https://x.com/higgsfield_ai/status/2122377853215936697/video/1",
+              "media_key": "13_2122376442927370240",
+              "start": 286,
+              "url": "https://t.co/Ga0IilUOEK"
+            }
+          ]
+        },
+        "id": "2122377853215936697",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n> Any style, from dark fantasy to 90s high school\n> Same cast in every episode\n> 9:16, 16:9 or 4:3\n\nUp to 65% OFF on Higgsfield for Black Friday.\n\nAvailable now on Higgsfield and in Claude and ChatGPT via Higgsfield MCP."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 916,
+          "impression_count": 591380,
+          "like_count": 1729,
+          "quote_count": 66,
+          "reply_count": 156,
+          "retweet_count": 359
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n&gt; Any style, from dark fantasy to 90s high school\n&gt; Same cast in every episode\n&gt; 9:16, 16:9 or 4:3\n\nUp to 65% OFF on Higgsfield for Black Friday.\n\nAvailable now on Higgsfield and in Claude and https://t.co/Ga0IilUOEK"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122484162385133678",
+        "created_at": "2026-11-17T00:17:12.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_history_tweet_ids": [
+          "2122484162385133678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1712267009483022336",
+              "start": 3,
+              "username": "higgsfield_ai"
+            }
+          ]
+        },
+        "id": "2122484162385133678",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 359
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122377853215936697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higgsfield_ai: Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n&gt; Any style, from dark fantasy to 90…"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122296233264083116",
+        "created_at": "2026-11-16T12:32:41.000Z",
+        "display_text_range": [
+          14,
+          49
+        ],
+        "edit_history_tweet_ids": [
+          "2122306865375871424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822141194404593664",
+              "start": 0,
+              "username": "Yiwei_growth"
+            }
+          ]
+        },
+        "id": "2122306865375871424",
+        "in_reply_to_user_id": "1822141194404593664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 856,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122296233264083116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yiwei_growth 所以要多交和 yiwei 这样的朋友，你看着她卷，自己不自主也会卷起来"
+      },
+      {
+        "author_id": "1822141194404593664",
+        "conversation_id": "2122296233264083116",
+        "created_at": "2026-11-16T11:50:27.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_history_tweet_ids": [
+          "2122296233264083116"
+        ],
+        "id": "2122296233264083116",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "最近创业者聚会去的有点过多了 明显感觉到\n\n一个人的财富水平和认知水平很多时候并不是正相关挂钩的。\n\n一个人的认知水平以及道德品行只和他身边最常交往的几个朋友呈强相关。\n很多时候人赚到钱和认知一点关系都没有。\n\n如何快速判断他的上限：\n看看他赚到的钱大部分花在哪里了。一时的享乐是人之常情，但大多数都是风口过去之后就陷在泥潭里了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3160,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近创业者聚会去的有点过多了 明显感觉到\n\n一个人的财富水平和认知水平很多时候并不是正相关挂钩的。\n\n一个人的认知水平以及道德品行只和他身边最常交往的几个朋友呈强相关。\n很多时候人赚到钱和认知一点关系都没有。\n\n如何快速判断他的上限："
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2122271554117783948",
+        "created_at": "2026-11-16T10:47:36.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2122280418372468822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "id": "2122280418372468822",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1931,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122271554117783948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace 我用的是一个开源免费的哈哈"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122270844185690112"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "conversation_id": "2122271554117783948",
+        "created_at": "2026-11-16T10:12:23.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_history_tweet_ids": [
+          "2122271554117783948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iViAyWpgER",
+              "end": 83,
+              "expanded_url": "https://x.com/gkxspace/status/2122271554117783948/photo/1",
+              "media_key": "3_2122270844185690112",
+              "start": 60,
+              "url": "https://t.co/iViAyWpgER"
+            },
+            {
+              "display_url": "x.com/gkxspace/statu…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/gkxspace/status/2121932458971324592",
+              "start": 84,
+              "url": "https://t.co/EDNjhXkRA0"
+            }
+          ]
+        },
+        "id": "2122271554117783948",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 18897,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121932458971324592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额，海鲜市场真是应有尽有啊😅\n\n320买一年，结果它 4年 30块\n\n但是，这类的产品，我是不敢买，万一出事了啥都没了 https://t.co/iViAyWpgER https://t.co/EDNjhXkRA0"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2071040330531754375",
+        "created_at": "2026-11-15T01:41:48.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2121780674411819184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1618752347752271873",
+              "start": 0,
+              "username": "beefnoode"
+            }
+          ]
+        },
+        "id": "2121780674411819184",
+        "in_reply_to_user_id": "1618752347752271873",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071040330531754375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beefnoode 用牛肉粉老师的码开了哈哈"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2071034882084716544"
+          ]
+        },
+        "author_id": "1618752347752271873",
+        "conversation_id": "2071040330531754375",
+        "created_at": "2026-06-28T01:17:47.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_history_tweet_ids": [
+          "2071040330531754375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZAEsP06fW",
+              "end": 175,
+              "expanded_url": "https://x.com/beefnoode/status/2071040330531754375/photo/1",
+              "media_key": "3_2071034882084716544",
+              "start": 152,
+              "url": "https://t.co/oZAEsP06fW"
+            }
+          ]
+        },
+        "id": "2071040330531754375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "l.za.group/pQ3AX",
+                "end": 450,
+                "expanded_url": "https://l.za.group/pQ3AX",
+                "start": 427,
+                "url": "https://t.co/GWxqDrDOFU"
+              }
+            ]
+          },
+          "text": "前两天去香港，顺手把众安（ZA Bank）办下来了\n说实话，现在办众安真的太方便了\n\n从深圳过关后坐上地铁，开启漫游，在 APP 上就能解决存款账户 + 美股、基金投资账户，最后再开个 ZA Card\n不超过半小时，在地铁上就能全部搞定\n\n相比于汇丰等传统银行，众安优势太明显 —— 门槛最低、福利最多\n\n就拿汇丰的狮子卡举例，从今年开始，如果账户里的日均资产少于 1 万港币，每个月还要收 100 港币的服务费，真的挺夸张\n\n更别说众安这边的福利还非常丰富：\n1. 各种存款加息券，最高年化20个点\n2. 股票交易赠送活动\n3. 还有ZA Card 的消费返利\n\n所以我干脆没有办汇丰，只办了众安，对我来说完全够用了\n不过，如果你是高净值客户的话，办汇丰也没毛病\n\n如果兄弟们有机会去香港，真心建议顺路办一张\n未来政策也可能会重新收紧，不一定会有现在这么方便了\n\n如果感兴趣的朋友，到时候注册可以点击下方链接，走我的邀请码 MHJKJ9，各种福利拉满\nhttps://t.co/GWxqDrDOFU"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 29134,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "前两天去香港，顺手把众安（ZA Bank）办下来了\n说实话，现在办众安真的太方便了\n\n从深圳过关后坐上地铁，开启漫游，在 APP 上就能解决存款账户 + 美股、基金投资账户，最后再开个 ZA Card\n不超过半小时，在地铁上就能全部搞定\n\n相比于汇丰等传统银行，众安优势太明显 —— 门槛最低、福利最多 https://t.co/oZAEsP06fW"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-14T15:30:52.000Z",
+        "display_text_range": [
+          20,
+          64
+        ],
+        "edit_history_tweet_ids": [
+          "2121626927828259153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877440800",
+              "start": 0,
+              "username": "li9292"
+            },
+            {
+              "end": 19,
+              "id": "1876494331491848192",
+              "start": 8,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2121626927828259153",
+        "in_reply_to_user_id": "1877440800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120985422352269351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li9292 @chatcutapp 没有啊，韭二哥。你们从哪看出来我憔悴的🤔我是蹲着录这个视频的，有点累？还是说精神状态不好"
+      },
+      {
+        "author_id": "1877440800",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T21:01:45.000Z",
+        "display_text_range": [
+          21,
+          33
+        ],
+        "edit_history_tweet_ids": [
+          "2120985422352269351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120985422352269351",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @chatcutapp 憔悴了哥，是海风吹的吗？"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2121615882413908220",
+        "created_at": "2026-11-14T15:26:29.000Z",
+        "display_text_range": [
+          62,
+          77
+        ],
+        "edit_history_tweet_ids": [
+          "2121625827746222353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            },
+            {
+              "end": 20,
+              "id": "1881991469730594816",
+              "start": 11,
+              "username": "gkxspace"
+            },
+            {
+              "end": 29,
+              "id": "2022118285983232001",
+              "start": 21,
+              "username": "xmmxovo"
+            },
+            {
+              "end": 45,
+              "id": "1792608085409939456",
+              "start": 30,
+              "username": "Astronaut_1216"
+            },
+            {
+              "end": 61,
+              "id": "2008763857142255616",
+              "start": 46,
+              "username": "ShengzheSeanxu"
+            }
+          ]
+        },
+        "id": "2121625827746222353",
+        "in_reply_to_user_id": "1923981862273417222",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1077,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121615882413908220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkirstry @gkxspace @xmmxovo @Astronaut_1216 @ShengzheSeanxu 哇小晚姐生日快乐！可惜没在杭州"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2121615868199411712",
+            "3_2121615868203573248"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2121615882413908220",
+        "created_at": "2026-11-14T14:46:58.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_history_tweet_ids": [
+          "2121615882413908220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "2022118285983232001",
+              "start": 59,
+              "username": "xmmxovo"
+            },
+            {
+              "end": 77,
+              "id": "1881991469730594816",
+              "start": 68,
+              "username": "gkxspace"
+            },
+            {
+              "end": 93,
+              "id": "1792608085409939456",
+              "start": 78,
+              "username": "Astronaut_1216"
+            },
+            {
+              "end": 109,
+              "id": "2008763857142255616",
+              "start": 94,
+              "username": "ShengzheSeanxu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6SHYlvCCp",
+              "end": 187,
+              "expanded_url": "https://x.com/bbkirstry/status/2121615882413908220/photo/1",
+              "media_key": "3_2121615868199411712",
+              "start": 164,
+              "url": "https://t.co/v6SHYlvCCp"
+            },
+            {
+              "display_url": "pic.x.com/v6SHYlvCCp",
+              "end": 187,
+              "expanded_url": "https://x.com/bbkirstry/status/2121615882413908220/photo/2",
+              "media_key": "3_2121615868203573248",
+              "start": 164,
+              "url": "https://t.co/v6SHYlvCCp"
+            }
+          ]
+        },
+        "id": "2121615882413908220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 67,
+                "id": "2022118285983232001",
+                "start": 59,
+                "username": "xmmxovo"
+              },
+              {
+                "end": 77,
+                "id": "1881991469730594816",
+                "start": 68,
+                "username": "gkxspace"
+              },
+              {
+                "end": 93,
+                "id": "1792608085409939456",
+                "start": 78,
+                "username": "Astronaut_1216"
+              },
+              {
+                "end": 109,
+                "id": "2008763857142255616",
+                "start": 94,
+                "username": "ShengzheSeanxu"
+              }
+            ]
+          },
+          "text": "恭喜自己又大一岁！🍻\n早上一睁眼，推特真正意义上万粉了\n\n非常认真拥抱AI的这一年\n我的人生发生了非常多的变化\n喜欢 @xmmxovo @gkxspace @Astronaut_1216 @ShengzheSeanxu 🥰🥰\n00后的好朋友们，给了我非常大的力量\n\n我的职业生涯，这8年，每次裸辞或者跳槽都没有休息超过一个星期\n但！！！就在前天，已经谈了离职 💌\n\n接下来，我要为我自己而活了！\nAI时代，我们一定会创造更多精彩的👻"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12053,
+          "like_count": 131,
+          "quote_count": 4,
+          "reply_count": 64,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜自己又大一岁！🍻\n早上一睁眼，推特真正意义上万粉了\n\n非常认真拥抱AI的这一年\n我的人生发生了非常多的变化\n喜欢 @xmmxovo @gkxspace @Astronaut_1216 @ShengzheSeanxu 🥰🥰\n00后的好朋友们，给了我非常大的力量\n\n我的职业生涯，这8年，每次裸辞或者跳槽都没有休息超过一个星期 https://t.co/v6SHYlvCCp"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2121546097437114449",
+        "created_at": "2026-11-14T11:20:21.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_history_tweet_ids": [
+          "2121563885614571821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "id": "2121563885614571821",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1434,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121546097437114449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace 我去太牛逼了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2121544145219256320"
+          ]
+        },
+        "author_id": "1881991469730594816",
+        "conversation_id": "2121546097437114449",
+        "created_at": "2026-11-14T10:09:40.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_history_tweet_ids": [
+          "2121546097437114449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/53kTsKw6KG",
+              "end": 191,
+              "expanded_url": "https://x.com/gkxspace/status/2121546097437114449/photo/1",
+              "media_key": "3_2121544145219256320",
+              "start": 168,
+              "url": "https://t.co/53kTsKw6KG"
+            },
+            {
+              "display_url": "x.com/gkxspace/statu…",
+              "end": 215,
+              "expanded_url": "https://twitter.com/gkxspace/status/2120464771900379217",
+              "start": 192,
+              "url": "https://t.co/1cN2pa5oqB"
+            }
+          ]
+        },
+        "id": "2121546097437114449",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "今天这个站第一次到 3k 块\n\n同时，在 Claude 的运营下，周交易额也翻了三倍\n\n让我没想到的是，WorkBuddy 有几个词居然排到了第一，ds 也带来了些用户，震惊了，国内 AI 推荐也这么猛？\n\n然后，我溯源了一下，还发现！！！\n\n华为的 PetalBot 爬虫抓取量也好大，Claude 说他是华为小艺😅\n\n接下来，除了 Claude 以外，也让 Grok Bot 去搞一搞外链，扩一扩信源之类的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 17644,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120464771900379217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天这个站第一次到 3k 块\n\n同时，在 Claude 的运营下，周交易额也翻了三倍\n\n让我没想到的是，WorkBuddy 有几个词居然排到了第一，ds 也带来了些用户，震惊了，国内 AI 推荐也这么猛？\n\n然后，我溯源了一下，还发现！！！\n\n华为的 PetalBot 爬虫抓取量也好大，Claude 说他是华为小艺😅\n\n接下来，除了 https://t.co/53kTsKw6KG https://t.co/1cN2pa5oqB"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2121442608845328697",
+        "created_at": "2026-11-14T08:09:07.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_history_tweet_ids": [
+          "2121515757117010142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1807644997321453568",
+              "start": 0,
+              "username": "libuyi543"
+            }
+          ]
+        },
+        "id": "2121515757117010142",
+        "in_reply_to_user_id": "1807644997321453568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8402,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121446595665572208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libuyi543 还能这么玩啊"
+      },
+      {
+        "author_id": "1807644997321453568",
+        "conversation_id": "2121442608845328697",
+        "created_at": "2026-11-14T03:34:17.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_history_tweet_ids": [
+          "2121446595665572208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2121446595665572208",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9819,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121442608845328697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 那些一个月10多万的很大概率是有团队做返佣的"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2121442608845328697",
+        "created_at": "2026-11-14T08:08:55.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_history_tweet_ids": [
+          "2121515706760245431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792608085409939456",
+              "start": 0,
+              "username": "Astronaut_1216"
+            }
+          ]
+        },
+        "id": "2121515706760245431",
+        "in_reply_to_user_id": "1792608085409939456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7273,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121444478099816818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astronaut_1216 用知识换钱～"
+      },
+      {
+        "author_id": "1792608085409939456",
+        "conversation_id": "2121442608845328697",
+        "created_at": "2026-11-14T03:25:52.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_history_tweet_ids": [
+          "2121444478099816818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2121444478099816818",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8218,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121442608845328697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 好牛"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2121440612482433024",
+            "3_2121441058483761152"
+          ]
+        },
+        "author_id": "1897545708770840576",
+        "conversation_id": "2121442608845328697",
+        "created_at": "2026-11-14T03:18:27.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_history_tweet_ids": [
+          "2121442608845328697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcdmJJu3aK",
+              "end": 167,
+              "expanded_url": "https://x.com/gengdaJ/status/2121442608845328697/photo/1",
+              "media_key": "3_2121440612482433024",
+              "start": 144,
+              "url": "https://t.co/RcdmJJu3aK"
+            },
+            {
+              "display_url": "pic.x.com/RcdmJJu3aK",
+              "end": 167,
+              "expanded_url": "https://x.com/gengdaJ/status/2121442608845328697/photo/2",
+              "media_key": "3_2121441058483761152",
+              "start": 144,
+              "url": "https://t.co/RcdmJJu3aK"
+            }
+          ]
+        },
+        "id": "2121442608845328697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "experthub.tencent.com/?referral_code…",
+                "end": 777,
+                "expanded_url": "https://experthub.tencent.com/?referral_code=736G7A",
+                "start": 754,
+                "url": "https://t.co/CCOo3NFZm1"
+              },
+              {
+                "display_url": "corexpertdata.com/x/lb-1Z2QWpt",
+                "end": 815,
+                "expanded_url": "https://corexpertdata.com/x/lb-1Z2QWpt",
+                "start": 792,
+                "url": "https://t.co/MJYBDP1GSR"
+              },
+              {
+                "display_url": "siriser.com",
+                "end": 850,
+                "expanded_url": "https://www.siriser.com",
+                "start": 827,
+                "url": "https://t.co/FzRmiEqBU8"
+              }
+            ]
+          },
+          "text": "大厂的AI商战真是朴实无华，就是猛猛砸钱找专家，猛猛做数据标注。。。字节的Xpert，10月份有一个人领了18万。。。\n\nAI时代，只要你有任何特长，只靠贡献自己的知识和努力，也能活得很滋润：\n\n⓵专业问答与评测\n-专业领域问答（医疗、法律、金融、STEM等）\n-模型回复打分与对比评测\n-Benchmark出题与标准答案设计\n\n⓶聊天 / 对话相关\n-多轮对话评估：对模型在聊天中的回复打分、排序、指出问题（准确性、自然度、逻辑、人设一致性等）\n-对话生成 / 改写：写或优化多轮对话数据，用于训练聊天机器人\n-偏好排序（RLHF）：同一问题给出多个回复，选出更好的那个并写理由\n-角色扮演 / 人设对话：按指定角色（医生、律师、客服、特定性格等）进行对话评测或数据生产\n-对话纠错：找出聊天回复中的事实错误、逻辑漏洞、不当内容\n\n⓷内容生产类\n-高质量专业内容撰写（案例库、知识库、语料）\n-复杂指令设计（多约束、高难度Prompt）\n-参考答案撰写\n-专业内容改写与优化\n\n⓸代码 / 技术类\n-代码生成评估\n-Agentic Coding / 长程任务评测\n-Bug查找与代码审查\n-编程题出题与判题标准制定\n\n⓹语音 / 多模态类\n-方言语音采集与标注\n-语音转写质检\n-视频/3D/动捕数据相关\n-多模态内容评估\n\n⓺审核与质检类\n-模型输出合规性审核（医疗、法律、金融强合规场景）\n-知识准确性审核\n-已有标注数据的二次质检\n\n⓻其他\n-访谈类任务\n-数据采集（按脚本录制真实场景）\n-创意内容评估（影视、文学、设计美学等）\n\n上面这些任务，简单到只要愿意花时间聊天，时薪也在三位数。更专业一些的比如生物、法律、金融、制造，就更加赚钱了。\n\n可以参与的平台：\n1、腾讯旗下的ExpertHub：https://t.co/CCOo3NFZm1\n2、字节旗下的Xpert：\nhttps://t.co/MJYBDP1GSR\n3、阿里的晓天睿士：\nhttps://t.co/FzRmiEqBU8"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2120,
+          "impression_count": 219848,
+          "like_count": 1253,
+          "quote_count": 19,
+          "reply_count": 74,
+          "retweet_count": 237
+        },
+        "reply_settings": "everyone",
+        "text": "大厂的AI商战真是朴实无华，就是猛猛砸钱找专家，猛猛做数据标注。。。字节的Xpert，10月份有一个人领了18万。。。\n\nAI时代，只要你有任何特长，只靠贡献自己的知识和努力，也能活得很滋润：\n\n⓵专业问答与评测\n-专业领域问答（医疗、法律、金融、STEM等）\n-模型回复打分与对比评测 https://t.co/RcdmJJu3aK"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120818935537029545",
+        "created_at": "2026-11-13T13:20:33.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_history_tweet_ids": [
+          "2121231747379781753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1866821173755121666",
+              "start": 0,
+              "username": "cnyzgkc"
+            }
+          ]
+        },
+        "id": "2121231747379781753",
+        "in_reply_to_user_id": "1866821173755121666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 869,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120818935537029545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnyzgkc 有个邪修，豆包工作在接微信电话特别有用"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120818605927661568"
+          ]
+        },
+        "author_id": "1866821173755121666",
+        "conversation_id": "2120818935537029545",
+        "created_at": "2026-11-12T10:00:11.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_history_tweet_ids": [
+          "2120818935537029545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUKbUfP9rr",
+              "end": 191,
+              "expanded_url": "https://x.com/cnyzgkc/status/2120818935537029545/photo/1",
+              "media_key": "3_2120818605927661568",
+              "start": 168,
+              "url": "https://t.co/IUKbUfP9rr"
+            }
+          ]
+        },
+        "id": "2120818935537029545",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "字节大气啊！趁着双十一，是要把办公 Agent 的价格打下来了~\n\n今天早上豆包官方号宣布，正式向所有用户开放第三方模型：除了自研的豆包 2.1 Pro/Lite，一口气把 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等主流模型全放出来了，支持随时手切，也能选“自动”模式（小额任务直接免费）。\n\n有个小细节：本次更新后，豆包工作的 Logo 也同步换回了大家熟悉的“豆姐”~\n\n帮大家算笔账：\n之前我们用 Agent 最肉疼“杀鸡用牛刀”，干点小活也按顶配扣额度； \n现在每款模型后面直接明码标倍率（0.46x～0.95x），叠加工作日和节假日指定时段优惠，豆包 2.1 Lite 和 DeepSeek V4.1 Flash 限时优惠更是直接干到了 0.01x！\n\n有人好奇：字节自己有大模型，为啥还要给友商腾位置？ \n看海外 Codex、Claude 就懂了——进了长链路 Agent 阶段，没有单一模型能通吃所有活，真正的胜负手在底层的 Harness（模型调度、上下文记忆、工具执行与成本工程）。\n\n字节这波确实大气，豆包工作希望越来越好~"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9367,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "字节大气啊！趁着双十一，是要把办公 Agent 的价格打下来了~\n\n今天早上豆包官方号宣布，正式向所有用户开放第三方模型：除了自研的豆包 2.1 Pro/Lite，一口气把 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等主流模型全放出来了，支持随时手切，也能选“自动”模式（小额任务直接免费）。 https://t.co/IUKbUfP9rr"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2017784935453749349",
+        "created_at": "2026-11-13T10:28:54.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_history_tweet_ids": [
+          "2121188550825881869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822141194404593664",
+              "start": 0,
+              "username": "Yiwei_growth"
+            }
+          ]
+        },
+        "id": "2121188550825881869",
+        "in_reply_to_user_id": "1822141194404593664",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121091334085939656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yiwei_growth 干！"
+      },
+      {
+        "author_id": "1822141194404593664",
+        "conversation_id": "2017784935453749349",
+        "created_at": "2026-11-13T04:02:36.000Z",
+        "display_text_range": [
+          9,
+          81
+        ],
+        "edit_history_tweet_ids": [
+          "2121091334085939656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2121091334085939656",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017784935453749349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈把辅导员当做牛马，表面可以答应他的所有要求，但是不要实际去执行。哈哈哈哈哈哈哈哈 哈哈哈哈哈哈 还得是我们"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2121096338674766007",
+        "created_at": "2026-11-13T06:56:26.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_history_tweet_ids": [
+          "2121135080127250702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756319701861601281",
+              "start": 0,
+              "username": "AI_Jasonyu"
+            }
+          ]
+        },
+        "id": "2121135080127250702",
+        "in_reply_to_user_id": "756319701861601281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1247,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121096338674766007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AI_Jasonyu 鱼总涉猎太广了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2121095843361046528"
+          ]
+        },
+        "author_id": "756319701861601281",
+        "conversation_id": "2121096338674766007",
+        "created_at": "2026-11-13T04:22:29.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_history_tweet_ids": [
+          "2121096338674766007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbxaSfTBtU",
+              "end": 177,
+              "expanded_url": "https://x.com/AI_Jasonyu/status/2121096338674766007/video/1",
+              "media_key": "13_2121095843361046528",
+              "start": 154,
+              "url": "https://t.co/AbxaSfTBtU"
+            }
+          ]
+        },
+        "id": "2121096338674766007",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "无语了，作为一个投资新手，今年追高买美股，买在了最高点，被套得死死的，裤衩子都亏没了～😑\n\n好巧不巧，这两天美股还在跌，我是坐不住了，想着与其干瞪眼，不如学点美股知识，让 AI 帮我把这些公司好好研究一遍，起码搞清楚自己到底买了个啥。\n\n之前的坑确实是踩了，所以这次我用 Tencent WorkBuddy 的「股票投研助手」挨个研究了几家上市公司，一句话任务丢进去，还是给了我不少实在的东西：\n\n1、公司整体财务状况，营收、利润、增长率、研发费用、资本开支，可以跨几个季度拉出来看\n2、核心业务板块拆分，哪块业务在赚钱、哪块在烧钱算得清清楚楚的，对于公司来说AI这条新业务线就是最大的亏损来源和资本黑洞～～\n3、最新进展，比如最近一个季度的盈亏，还有近几年的趋势图\n4、创始人和高管怎么看公司现状，能把他们在披露和公开场合的原话搜出来\n\n我看了下报告里面的关键数字都能点回原文出处，而且它会把已经验证的事实、公司自己的解释、还需要核实的判断，分成不同的模块给我，哪些该信哪些该再查，自己心里有数，我就不用在一堆夹着幻觉的内容里猜测和判断。\n针对有疑问的地方可以接着追问，也能打包成一份报告给我。\n\n投研这事本来就靠事实和数据说话，这种场景下，专门的投研助手比我平时拿通用大模型瞎问要靠谱不少。当然它不会告诉你能不能买，这个还得自己拿主意哈。\n\n目前是金融场景试用，画面都是演示数据，不构成投资建议。入口放评论区，有港美股的兄弟可以试试。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 57546,
+          "like_count": 161,
+          "quote_count": 3,
+          "reply_count": 40,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "无语了，作为一个投资新手，今年追高买美股，买在了最高点，被套得死死的，裤衩子都亏没了～😑\n\n好巧不巧，这两天美股还在跌，我是坐不住了，想着与其干瞪眼，不如学点美股知识，让 AI 帮我把这些公司好好研究一遍，起码搞清楚自己到底买了个啥。\n\n之前的坑确实是踩了，所以这次我用 Tencent WorkBuddy https://t.co/AbxaSfTBtU"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120865290703552993",
+        "created_at": "2026-11-13T02:45:48.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_history_tweet_ids": [
+          "2121072005663641738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974653328274714624",
+              "start": 0,
+              "username": "AYi_AInotes"
+            }
+          ]
+        },
+        "id": "2121072005663641738",
+        "in_reply_to_user_id": "1974653328274714624",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 979,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120865290703552993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AYi_AInotes 学废了"
+      },
+      {
+        "article": {
+          "cover_media": "3_2120863245992914944",
+          "entities": {
+            "code": [
+              {
+                "code": "",
+                "content": "| 阶段 | 成功调用 | 输入 / 输出 token | FUMO（公开价） | Fable 5.1 测算 | Astra 测算 |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| 设计 + 首版 | 2 次 | 1.8 万 / 6.7 万 | $1.38 | $3.51 | $3.51 |\n| 四轮修改 | 4 次 | 17.5 万 / 19.3 万 | $4.39 | $11.41 | $11.41 |\n| **做到能玩** | **6 次** | **19.3 万 / 26.0 万** | **$5.77** | **$14.92** | **$14.92** |\n| Blender 建猫 | 5 次 | 9.7 万 / 15.3 万 | $3.31 | $8.46 | $8.47 |\n| 毛发预览页 | 2 次 | 1.4 万 / 5.0 万 | $1.04 | $2.64 | $2.64 |\n| 合进游戏与近景 | 4 次 | 25.9 万 / 18.7 万 | $4.36 | $11.38 | $11.42 |\n| **全流程** | **17 次** | **56.3 万 / 65.0 万** | **$14.48** | **$37.40** | **$37.45** |",
+                "language": "none"
+              },
+              {
+                "code": "下面附上的是《猫咪拆家：从出租屋拆到博物馆》的游戏设计文档。请严格按照文档，写出完整可运行的 index.html。\n\n硬性要求：\n- 单文件，Three.js 通过 CDN importmap 引入，不引用任何外部模型、贴图、音频、字体文件\n- 完整实现文档中的核心循环：90 秒短局、拆家计分与连击、猫罐头经济、三项升级、4 个场景的解锁与切换、LocalStorage 自动存档、每日任务、结算表情评分\n- 双端操作：键盘鼠标，以及移动端虚拟摇杆和跳跃、挥爪、冲刺按钮\n- 特效：碎片粒子、震屏、大件倒塌慢动作、Web Audio 合成音效\n- 导演模式：H 键隐藏全部界面，C 键切换电影感环绕镜头\n- 结算面板预留\"看广告双倍罐头\"等广告触发接口，当前用空函数占位，不接任何外部广告\n- 画面要好看：低多边形卡通风、暖色光照与柔和阴影，家具、展品和猫的造型要可爱、有辨识度，不要用纯方块糊弄\n- 打开 3 秒内能直接开始玩，中端笔记本保持流畅\n- 代码按模块分区注释，不写占位符，不省略任何部分\n\n只输出完整的 index.html，放在一个代码块里。",
+                "content": "```text\n下面附上的是《猫咪拆家：从出租屋拆到博物馆》的游戏设计文档。请严格按照文档，写出完整可运行的 index.html。\n\n硬性要求：\n- 单文件，Three.js 通过 CDN importmap 引入，不引用任何外部模型、贴图、音频、字体文件\n- 完整实现文档中的核心循环：90 秒短局、拆家计分与连击、猫罐头经济、三项升级、4 个场景的解锁与切换、LocalStorage 自动存档、每日任务、结算表情评分\n- 双端操作：键盘鼠标，以及移动端虚拟摇杆和跳跃、挥爪、冲刺按钮\n- 特效：碎片粒子、震屏、大件倒塌慢动作、Web Audio 合成音效\n- 导演模式：H 键隐藏全部界面，C 键切换电影感环绕镜头\n- 结算面板预留\"看广告双倍罐头\"等广告触发接口，当前用空函数占位，不接任何外部广告\n- 画面要好看：低多边形卡通风、暖色光照与柔和阴影，家具、展品和猫的造型要可爱、有辨识度，不要用纯方块糊弄\n- 打开 3 秒内能直接开始玩，中端笔记本保持流畅\n- 代码按模块分区注释，不写占位符，不省略任何部分\n\n只输出完整的 index.html，放在一个代码块里。\n```",
+                "language": "text"
+              },
+              {
+                "code": "export FUMO_API_KEY=\"你的_API_KEY\"\ncurl https://capi.fumolab.ai/api/fusion/v1/chat/completions \\\n  -H \"Authorization: Bearer $FUMO_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"model\":\"fusion-max-2.0\",\"messages\":[{\"role\":\"user\",\"content\":\"Hello\"}]}'",
+                "content": "```bash\nexport FUMO_API_KEY=\"你的_API_KEY\"\ncurl https://capi.fumolab.ai/api/fusion/v1/chat/completions \\\n  -H \"Authorization: Bearer $FUMO_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"model\":\"fusion-max-2.0\",\"messages\":[{\"role\":\"user\",\"content\":\"Hello\"}]}'\n```",
+                "language": "bash"
+              },
+              {
+                "code": "我要做一款能直接在海外游戏平台（如 CrazyGames）上架并变现的 3D 网页小游戏《猫咪拆家：从出租屋拆到博物馆》，请你先写一份完整的游戏设计文档（Markdown）。\n\n## 核心定位与变现目标\n这款游戏不仅要好玩、好看，还要专门针对网页游戏平台（CrazyGames）的核心考核指标进行逆向设计：\n1. **单次游玩时长 ≥ 10 分钟**：不能是一次性通关，必须有强烈的「90秒短局 + 拆家值换猫罐头 + 属性升级 + 解锁更豪华场景」正反馈循环\n2. **次日留存 10% ~ 15%**：必须有 LocalStorage 自动存档机制、未解锁豪宅/博物馆图鉴展示、以及每日破坏任务目标\n3. **1分钟转化率 ≥ 80%**：纯代码程序化生成（零外部模型/贴图下载，秒开加载）、砍掉冗长开场、首局 3 秒内直接上手；支持 PC 键鼠 + 移动端触屏双操作\n\n## 一句话玩法与升级路线\n你是一只橘猫，趁主人出门上班在屋内大搞破坏。\n- **单局规则**：每局限时 90 秒，在主人开门回家前推倒、打碎越多物品越好\n- **经济系统**：拆家值实时兑换成「小鱼干/猫罐头」，用于升级猫咪：\n  - 爪力（推力更大，能推倒更重的大件）\n  - 敏捷/冲刺速度（移动更快、连击不中断）\n  - 体型/跳跃高度（能跳上更高处、推翻吊灯和书架顶层）\n- **场景晋升（爽感与笑点升级）**：\n  - Stage 1【廉价出租屋】：推杯子、打翻泡面、撕卷纸、推倒小书桌\n  - Stage 2【精装小资公寓】：打碎昂贵花瓶、抓烂真皮沙发、推倒大电视\n  - Stage 3【奢华独栋别墅】：打碎名贵红酒柜、推倒巨型水晶吊灯、掀翻钢琴\n  - Stage 4【市中心国家博物馆】：推倒名画展架、打翻古代青花瓷、最后掀翻镇馆之宝「巨型霸王龙骨架」！\n\n## 硬性技术约束\n- **纯单文件实现**：仅输出一个 `index.html`，Three.js / 简易物理 / 字体均通过 CDN importmap 引入\n- **零外部资产依赖**：不引用任何外部 3D 模型 (.gltf/.obj)、外部图片贴图、外部音频 mp3；所有场景、家具、展品、猫咪均用 Three.js Procedural Geometry（低多边形 Low-Poly 卡通风）代码生成；音效用 Web Audio API 合成\n- **双端操作支持**：\n  - PC：WASD 移动，空格跳跃，鼠标左键或 J 挥爪，Shift 冲刺\n  - 移动端：左下角虚拟摇杆移动，右下角「跳跃」「挥爪」「冲刺」三个大按钮\n- **视觉风格**：低多边形卡通风、午后阳光/射灯光影、物品碎裂粒子飞溅、大件倒塌时 0.5 秒微慢动作震屏\n- **录屏与变现接口**：\n  - 导演模式：按 H 键隐藏所有 UI，按 C 键切换电影感环绕镜头（方便录制宣传片与平台封面视频）\n  - 广告位预留：在结算面板预留「看广告双倍罐头」「看广告直接体验博物馆」的前端触发逻辑钩子\n\n## 请在设计文档中详细写明：\n1. 核心循环与数值体系（单局时长、罐头产出公式、升级消耗曲线）\n2. 4 个场景的坐标尺寸、布局草图、各场景特色可破坏道具清单（道具重量、分值、破坏特效）\n3. 猫咪的物理控制与手感参数（移动/冲刺速度、跳跃重力、挥爪判定球半径与击退力度）\n4. 视觉与光影规范（各场景色系调色板、光照布置、碎裂粒子参数）\n5. UI / UX 流程（加载 → 选关/升级界面 → 战斗 HUD → 结算表情评分与看广告双倍按钮）\n6. 存档数据结构（LocalStorage JSON schema）\n7. 单文件模块架构设计与实现优先级\n\n只输出这份 Markdown 文档本身。",
+                "content": "```text\n我要做一款能直接在海外游戏平台（如 CrazyGames）上架并变现的 3D 网页小游戏《猫咪拆家：从出租屋拆到博物馆》，请你先写一份完整的游戏设计文档（Markdown）。\n\n## 核心定位与变现目标\n这款游戏不仅要好玩、好看，还要专门针对网页游戏平台（CrazyGames）的核心考核指标进行逆向设计：\n1. **单次游玩时长 ≥ 10 分钟**：不能是一次性通关，必须有强烈的「90秒短局 + 拆家值换猫罐头 + 属性升级 + 解锁更豪华场景」正反馈循环\n2. **次日留存 10% ~ 15%**：必须有 LocalStorage 自动存档机制、未解锁豪宅/博物馆图鉴展示、以及每日破坏任务目标\n3. **1分钟转化率 ≥ 80%**：纯代码程序化生成（零外部模型/贴图下载，秒开加载）、砍掉冗长开场、首局 3 秒内直接上手；支持 PC 键鼠 + 移动端触屏双操作\n\n## 一句话玩法与升级路线\n你是一只橘猫，趁主人出门上班在屋内大搞破坏。\n- **单局规则**：每局限时 90 秒，在主人开门回家前推倒、打碎越多物品越好\n- **经济系统**：拆家值实时兑换成「小鱼干/猫罐头」，用于升级猫咪：\n  - 爪力（推力更大，能推倒更重的大件）\n  - 敏捷/冲刺速度（移动更快、连击不中断）\n  - 体型/跳跃高度（能跳上更高处、推翻吊灯和书架顶层）\n- **场景晋升（爽感与笑点升级）**：\n  - Stage 1【廉价出租屋】：推杯子、打翻泡面、撕卷纸、推倒小书桌\n  - Stage 2【精装小资公寓】：打碎昂贵花瓶、抓烂真皮沙发、推倒大电视\n  - Stage 3【奢华独栋别墅】：打碎名贵红酒柜、推倒巨型水晶吊灯、掀翻钢琴\n  - Stage 4【市中心国家博物馆】：推倒名画展架、打翻古代青花瓷、最后掀翻镇馆之宝「巨型霸王龙骨架」！\n\n## 硬性技术约束\n- **纯单文件实现**：仅输出一个 `index.html`，Three.js / 简易物理 / 字体均通过 CDN importmap 引入\n- **零外部资产依赖**：不引用任何外部 3D 模型 (.gltf/.obj)、外部图片贴图、外部音频 mp3；所有场景、家具、展品、猫咪均用 Three.js Procedural Geometry（低多边形 Low-Poly 卡通风）代码生成；音效用 Web Audio API 合成\n- **双端操作支持**：\n  - PC：WASD 移动，空格跳跃，鼠标左键或 J 挥爪，Shift 冲刺\n  - 移动端：左下角虚拟摇杆移动，右下角「跳跃」「挥爪」「冲刺」三个大按钮\n- **视觉风格**：低多边形卡通风、午后阳光/射灯光影、物品碎裂粒子飞溅、大件倒塌时 0.5 秒微慢动作震屏\n- **录屏与变现接口**：\n  - 导演模式：按 H 键隐藏所有 UI，按 C 键切换电影感环绕镜头（方便录制宣传片与平台封面视频）\n  - 广告位预留：在结算面板预留「看广告双倍罐头」「看广告直接体验博物馆」的前端触发逻辑钩子\n\n## 请在设计文档中详细写明：\n1. 核心循环与数值体系（单局时长、罐头产出公式、升级消耗曲线）\n2. 4 个场景的坐标尺寸、布局草图、各场景特色可破坏道具清单（道具重量、分值、破坏特效）\n3. 猫咪的物理控制与手感参数（移动/冲刺速度、跳跃重力、挥爪判定球半径与击退力度）\n4. 视觉与光影规范（各场景色系调色板、光照布置、碎裂粒子参数）\n5. UI / UX 流程（加载 → 选关/升级界面 → 战斗 HUD → 结算表情评分与看广告双倍按钮）\n6. 存档数据结构（LocalStorage JSON schema）\n7. 单文件模块架构设计与实现优先级\n\n只输出这份 Markdown 文档本身。\n```",
+                "language": "text"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://fumolab.ai/en?utm_source=9dta63zy4y"
+              },
+              {
+                "text": "https://fumolab.ai/en?utm_source=9dta63zy4y"
+              },
+              {
+                "text": "https://capi.fumolab.ai/api/fusion/v1"
+              },
+              {
+                "text": "https://fumolab.ai/en?utm_source=9dta63zy4y"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2121433222391222272",
+            "3_2121435298039029760",
+            "3_2121433404428136448",
+            "3_2121433403253784576",
+            "3_2120850500996214784",
+            "3_2120850485343051776",
+            "13_2121418330170904576",
+            "3_2120850449569808384",
+            "3_2121435433309466625",
+            "3_2121433074416123906",
+            "13_2121418786284744704"
+          ],
+          "plain_text": "独立开发者 anul agarwal 用 ChatGPT 写代码做了个合成大西瓜变体，累计赚了 $25,000 以上。但他也说了，前后做了 120 多个原型，前 100 个几乎没赚到钱。小游戏想赚钱，靠的是能一直试下去，而每试一次都要付一次模型账单。\n这次我一行游戏代码没写，用新加坡 FUMO Lab 的融合模型 Fusion Max 2.0，做出了一款能玩的 3D 网页小游戏《猫咪拆家：从出租屋拆到博物馆》。\n先看成品，让人惊喜的是，这个视频也是Fusion Max 纯代码做的：\n \n从写设计、写代码到连改四轮，只花了 $5.77。同样的用量按官方公开价测算，换成 Claude Fable 5.1 或 GPT-6 Astra 要约 $14.92，是它的 2.6 倍；做 100 个原型，差出 900 多美元。\n这篇把整个过程摊开：两段提示词原文、四轮修改各改了什么、17 次调用的成本明细、接入的 4 步，还有上 CrazyGames 和微信小游戏各要过哪些关。\n想自己试的话，FUMO 新用户注册就送试用额度，按输入价换算，约等于 167 万 token 的 Fusion Max 2.0，或 250 万 token 的 Fusion Code 1.0。注册入口在这里：https://fumolab.ai/en?utm_source=9dta63zy4y 。\n这篇我们聊：\n▸ 试错成本 · 120 多个原型，前 100 个几乎没赚到钱\n▸ 选型 · 为什么用 Fusion Max 2.0：单次能输出 128K，内部协作的 token 不计费\n▸ 先看成品 · 从 2.7 万字设计文档，到 130KB 的首版代码\n▸ 连改四轮 · 20 项要求确认了 16 项，代码一行没手改\n▸ 换上 Blender 胖橘猫和 24 层毛发\n▸ 成本账 · 做到能玩 $5.77，换别家约 $14.92，100 个原型差 900 多美元\n▸ 自己上手 · 领试用额度，4 步接入，两段提示词原文直接抄\n▸ 上架 · CrazyGames 的三条考核线，微信小游戏要备的四样材料，和一盆冷水\n \n一、试错成本 · 120 多个原型，前 100 个几乎没赚到钱\n开头说的那款合成大西瓜变体，是 anul agarwal 2023 年用 ChatGPT 写代码、DALL-E 画图做的，他今年 5 月写过这件事。他另一篇里说得更直白：做游戏大约 6 年，前后 120 多个原型，前 100 个几乎没赚到钱，后面大约 20 个才比较接近六位数。\n我从这里读到的是，小游戏想赚钱，得能低成本地一直试下去。每做一个原型都要付一次模型账单，账单越低，能试的次数就越多。所以这次我想测的就一件事：用 Fusion Max 2.0 从零做一款能玩的游戏，效果怎么样，要花多少钱。\n二、选型 · 为什么用 Fusion Max 2.0：单次能输出 128K，内部协作的 token 不计费\nFusion 用一个自研的路由模型，在任务的每一步挑合适的模型来做；到了关键步骤，会让多个模型从不同角度分析，再把结论合成一个答案。传统路由一般只在请求入口选一个模型，这是两者最大的区别。\n放到这次的游戏上，有三点正好对得上：\n一次要吐出一整个游戏文件。 我要的是单文件 index.html，每次修改都要完整重写一遍，这次每轮输出在 4.5 万到 6.4 万 token 之间。Max 2.0 的上下文是 1M token，单次最多输出 128K token，装得下整个文件再加一份修改说明。\n既要想清楚，又要写得多。 先写 2.7 万字的玩法和数值设计，再按设计写代码、按 bug 改代码，正好是 Max 2.0 主打的网页编程和多轮 Agent 任务。\n改得越多，账单越要压得住。 官方写明，内部多模型协作产生的 token 不计费，账单只按接口返回的用量算。\n能力上到底行不行，得看它实际写出来的东西。\n三、先看成品 · 从 2.7 万字设计文档，到 130KB 的首版代码\n先放一段最终游戏的实机演示，\n \n这就是我用 Fusion Max 2.0 做出来的《猫咪拆家：从出租屋拆到博物馆》。玩家控制一只橘猫，在 90 秒内尽可能搞破坏，推倒家具、打碎物品、赚猫罐头，再用罐头升级属性、解锁新场景。整个游戏有 3D 场景、角色控制、破坏计分、升级系统和存档，电脑和手机都能玩。\n不过，视频里的效果不是第一次生成就有的。在我看来，不管用哪家模型，想靠一次生成就拿到完全满意的成品，都不太现实。这个效果是经过四轮修改和多次试玩，一点点打磨出来的。\n先说最开始是怎么做的。我给 Fusion Max 2.0 的要求是：单文件 index.html，Three.js 走 CDN，不用任何外部图片和 3D 模型，房间和橘猫全用代码生成低多边形，电脑和手机都能玩，带 90 秒倒计时、破坏计分、猫罐头升级和 4 个解锁场景。\n第一步，我把玩法要求交给 Fusion Max 2.0，推理强度设成 high，拿到一份 2.7 万字的设计文档，数值公式、四个场景的道具清单、手感参数、存档结构都写进去了。\n第二步，我把设计文档原样交回去，让它按文档写出完整代码，拿到一个 130KB 的 index.html。\n打开第一版，开始界面已经比较完整，倒计时、每日任务栏也都有了。实际进游戏后，还有几个地方需要继续打磨：\n场景渲染：点开始后约 1 到 2 秒，3D 场景会消失，画面只剩背景色；\n交互细节：点开始的那一下同时被识别成了挥爪，一开局就多了 18 分拆家值；\n角色造型：初版橘猫是比较简化的低多边形，轮廓和比例还不够理想，挡住了一部分视野。\n第一版已经把游戏的基本框架搭起来了，场景稳定性、操作交互和角色表现，交给后面几轮来打磨。\n下面两张是第一版点开始后的画面，以及第一轮修好渲染之后的初版橘猫。\n \n \n四、连改四轮 · 20 项要求确认了 16 项，代码一行没手改\n修改的方式很简单：我在无头 Chrome 里试玩，把看到的问题写成一段话，连同当前整份代码一起交回去，要一个完整的新文件。四轮下来，游戏代码我一行没手改，人做的只有试玩、描述问题和截图。\n第一轮：场景消失和误触挥爪，一轮就修好了。我只描述了现象，原因是它自己定位到的。猫的造型这一轮还没调到位，留到下一轮继续改。\n第二轮：初版造型换成了一只有耳朵、条纹、四条腿和尾巴的低多边形橘猫，主菜单、升级、场景图鉴、中断对局折算罐头都跑通了，控制台没有报错，稳定 60 帧。镜头这边还要微调：上一轮给镜头加了边界，避免拍到房间外面，猫走到边上时会出画面。\n第三轮：镜头能稳稳跟住猫了。我用脚本完整打了一局 90 秒，结算评级 Furniture Assassin，拆家值 394，拿到 55 罐，解锁 6 个新图鉴，升级、场景、每日任务、存档都能用。剩下要优化的是镜头距离：手机上猫显得偏大，靠墙时视野会被墙挡住一部分。\n这是那一局的结算卡。\n \n第四轮：镜头拉远，大半个房间都能看见；靠镜头一侧的墙会自动藏起来；手机上的操作提示也改成了按住挥爪按钮。到这里，我事先列的 20 项要求里，脚本能直接确认的有 16 项，粒子、震屏、慢动作和音效这几项要靠人眼和耳朵来看\n后面换上 Blender 做的猫之后，同一间出租屋的桌面和手机是这样。\n \n \n整体用下来，Fusion Max 2.0 对用大白话描述的 bug 理解得不错，大部分问题一轮就能改对。四轮里每次都要整篇重写约 130KB 的代码，我每轮都回归试玩，原有功能一直保持稳定，没有出现功能丢失。\n当然，做一个完整的游戏本来就要一边测一边改，个别调整会带出新的细节问题，所以每轮改完都值得再试玩一遍。从反馈问题到改好代码，这套来回迭代 Fusion Max 2.0 撑得住。\n五、换上 Blender 胖橘猫和 24 层毛发\n低多边形的猫有点硬。我没用第三方建模平台，而是让 Fusion Max 2.0 写 Blender 5.2 的 Python 脚本，在本机无界面运行，导出带骨骼动画的 GLB 模型。\n第一版脚本放进 Blender 直接跑通，没有报错，就是猫偏瘦、颜色发灰。又改了四轮，加上了半阖的眼睛、圆滚滚的脸颊、白色的嘴套和胸口毛簇。\n浏览器里跑毛发是另一道难题。它写了一个单独的预览页，用 24 层壳层毛发（Shell Fur），60 帧下近看已经有毛绒玩具的感觉。\n下面三张分别是 Blender 里的胖橘猫、24 层毛发预览，以及放进游戏后的近景。\n \n \n \n把猫合回游戏时，有个细节让我印象挺深：游戏里的毛发效果和预览页有些差异，我让它继续优化，它没有直接动代码，而是先提出需要补充毛发预览页的代码和对比截图，好更准确地定位问题。缺上下文时，它会先指出信息缺口，而不是盲目修改。\n补齐信息后，近景效果又进了一步，脸部轮廓、白色嘴套和条纹都能看清。在正常游玩的镜头距离下，毛发的蓬松感和预览页还有些差距，但整个角色已经完整多了。网页游戏要同时兼顾实时渲染和 60 帧流畅，精细毛发本身就是个难活，后面还有继续优化的空间。\n六、成本账 · 做到能玩 $5.77，换别家约 $14.92，100 个原型差 900 多美元\n先说单价。在输入不超过 20 万 token 的标准档，Fusion Max 2.0 是输入每百万 token $3、缓存输入 $0.30、输出 $20。Claude Fable 5.1 和 GPT-6 Astra 都是输入 $10、输出 $50。写代码这种输出远多于输入的任务，输出单价决定了账单厚度，$20 对 $50，这一项就差 2.5 倍。\n \n \nFUMO 一栏是接口返回的用量乘官方公开价。另外两家我手头没有 Key，没有实际跑，是同一份用量乘它们的官方公开价，属于测算；它们真跑起来如果推理更长、或者要多改几轮，只会更贵。另有 3 次调用没有返回用量，不计入表内。\n换算成原型：按这次做到能玩的用量，100 个原型在 FUMO 上大约 $577，按 Fable 5.1 或 Astra 的单价测算大约 $1,492。对独立开发者来说，这近千美元的差价，可能就是能不能撑到下一个爆款的那段路费。\n七、自己上手 · 领试用额度，4 步接入，两段提示词原文直接抄\n有兴趣的朋友，建议先把 FUMO 这波新用户福利领了：按输入价换算，约等于 167 万 token 的 Fusion Max 2.0，或 250 万 token 的 Fusion Code 1.0。拿来做小游戏，或者测自己的 AI 编程项目，都值得试试。注册入口：https://fumolab.ai/en?utm_source=9dta63zy4y\n接入按官方入门文档来：\n注册并登录 FUMO 控制台；\n打开 API Keys，点 Create New Key，新建一把 Key；\nBase URL 填 https://capi.fumolab.ai/api/fusion/v1，模型名称填 fusion-max-2.0；\n用一条命令验证接口是否畅通：\n \n它兼容 OpenAI 的 Chat Completions 接口，Cursor、Codex 这类工具填上 Base URL 和 Key 就能用。记账只认返回里的用量；回复如果中途被截断，别拿它覆盖上一版还能跑的文件。\n这次用到的两段提示词，原文如下：\n第一段｜玩法与数值设计：\n \n第二段｜按设计写代码：\n \n后面四轮修改没有通用模板，每一轮都是当时看到的问题，加上当前整份代码。\n八、上架 · CrazyGames 的三条考核线，微信小游戏要备的四样材料，和一盆冷水\n代码写完了，想在海外平台赚到钱，还得先过平台的测试期。\n以 CrazyGames 为例，新游戏先进入 Basic Launch 基础测试期。按官方文档，要同时满足上线满 7 天、游玩满 500 次，测试期才结束；500 次一直不到，21 天后自动结束。这段时间广告是关的，没有广告收入。\n官方看三个指标，下面是官方指南里表现好的游戏常见的水平，不是公开的及格线：\n平均游玩时长 10 分钟以上，对应设计里的 90 秒短局加多轮升级；\n次日留存 10% 到 15%，对应自动存档和每日任务；\n开始后玩满 1 分钟的玩家在 80% 以上，同时建议加载少于 10 秒、包体小于 20MB。\n指标比平台上其他游戏好，才会进入 Full Launch 正式发布，接 SDK 拿广告分成。另一条路是把授权卖给别的平台，但各家的独家条款可能互相冲突，签之前要看清合同。\n想上微信小游戏的话\n最近中推很多人在传「微信小游戏单机不用备案就能上架」，我翻了微信官方文档，口径没变：版本审核通过后，要完成小程序备案才能发布。实际情况是这样的：\n个人做免费的单机小游戏、只靠广告赚钱（IAA），不需要版号；\n但软著、游戏自审自查报告、小游戏备案、小程序备案一样都不能少，管局审核要 10 到 20 个工作日；\n单机的意思是断网也能玩。这份代码里的 Three.js 是从 CDN 加载的，想上微信得先把它打包进项目，再改成小游戏的工程结构；\n社区里有开发者反馈，签了单机承诺书、审核通过后，备案还没走完就能点发布了。但官方没有发公告，备案最后没过的话，照样会被下架。\n所以别冲着「免备案」去，按流程把材料备齐，备案期间把游戏先打磨好，时间一点都不浪费。\n这款猫咪拆家目前还在我本地，没有提交。老实讲，哪怕模型把开发成本压到几美元，大部分小游戏还是很难一击即中。但当做一个原型的账单从十几美元降到几美元，做原型—看数据—再改这件事，普通创作者终于试得起了。\n想自己试一遍的话，新用户试用额度在这里领：https://fumolab.ai/en?utm_source=9dta63zy4y",
+          "preview_text": "独立开发者 anul agarwal 用 ChatGPT 写代码做了个合成大西瓜变体，累计赚了 $25,000 以上。但他也说了，前后做了 120 多个原型，前 100",
+          "title": "网页小游戏有人赚了 $25,000+！我只花 $5.77 做出 3D 猫咪拆家，整套提示词 + 工作流全部开源！"
+        },
+        "author_id": "1974653328274714624",
+        "conversation_id": "2120865290703552993",
+        "created_at": "2026-11-12T13:04:23.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2120865290703552993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2120…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2120849810181722112",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2120849810181722112",
+              "url": "https://t.co/ec77qpRS9L"
+            }
+          ]
+        },
+        "id": "2120865290703552993",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 613,
+          "impression_count": 239510,
+          "like_count": 645,
+          "quote_count": 33,
+          "reply_count": 64,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ec77qpRS9L"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120893769713336802",
+        "created_at": "2026-11-12T15:49:08.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "2120906751851868240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2120906751851868240",
+        "in_reply_to_user_id": "1923981862273417222",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2246,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120893769713336802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkirstry 我也配被小晚姐拆解吗🙃🫣"
+      },
+      {
+        "article": {
+          "cover_media": "3_2120773756096331778",
+          "entities": {
+            "code": [
+              {
+                "code": "你是一位拥有品牌内容营销、个人IP策划和社交媒体运营经验的内容策略顾问。\n\n我会提供我的个人背景、账号主页、最近10—20条内容、部分后台数据，以及我想对标的优秀博主。\n\n请按照以下步骤帮助我分析：\n\n1. 了解我的背景和目标\n\n先确认我的职业、经验、擅长的能力、内容创作条件、目标用户，以及我希望通过账号获得什么。如果缺少重要信息，请先提问。\n\n2. 从陌生人的视角诊断账号\n\n检查头像、昵称、简介、置顶和近期内容，判断用户能否理解我是谁、有什么优势、为什么值得长期关注。\n\n3. 拆解内容与对标\n\n从选题、标题、封面、开头、信息组织、表达质感和价值增量等维度，比较我的内容和优秀案例。\n\n区分能够直接学习的表达动作，以及需要长期积累的专业能力和资源条件。\n\n4. 根据数据定位问题\n\n结合曝光、点击、观看、互动、收藏和关注转化等信息，判断账号目前可能存在的问题。\n\n请说明每个判断的依据，不要只给出笼统结论。\n\n5. 给出可以执行的优化方案\n\n先指出我已经做得好的地方，再提出最值得优先调整的3个问题。\n\n每项建议说明原因、具体修改方式，以及后续如何验证效果。\n\n不要直接套用标准化的运营建议，也不要强迫我模仿不适合自己经历、能力和目标的博主。\n\n如果资料不足，请明确告诉我需要补充什么。",
+                "content": "```\n你是一位拥有品牌内容营销、个人IP策划和社交媒体运营经验的内容策略顾问。\n\n我会提供我的个人背景、账号主页、最近10—20条内容、部分后台数据，以及我想对标的优秀博主。\n\n请按照以下步骤帮助我分析：\n\n1. 了解我的背景和目标\n\n先确认我的职业、经验、擅长的能力、内容创作条件、目标用户，以及我希望通过账号获得什么。如果缺少重要信息，请先提问。\n\n2. 从陌生人的视角诊断账号\n\n检查头像、昵称、简介、置顶和近期内容，判断用户能否理解我是谁、有什么优势、为什么值得长期关注。\n\n3. 拆解内容与对标\n\n从选题、标题、封面、开头、信息组织、表达质感和价值增量等维度，比较我的内容和优秀案例。\n\n区分能够直接学习的表达动作，以及需要长期积累的专业能力和资源条件。\n\n4. 根据数据定位问题\n\n结合曝光、点击、观看、互动、收藏和关注转化等信息，判断账号目前可能存在的问题。\n\n请说明每个判断的依据，不要只给出笼统结论。\n\n5. 给出可以执行的优化方案\n\n先指出我已经做得好的地方，再提出最值得优先调整的3个问题。\n\n每项建议说明原因、具体修改方式，以及后续如何验证效果。\n\n不要直接套用标准化的运营建议，也不要强迫我模仿不适合自己经历、能力和目标的博主。\n\n如果资料不足，请明确告诉我需要补充什么。\n```",
+                "language": "none"
+              },
+              {
+                "code": "",
+                "content": "| 层次 | 具体看什么 |\n|---|---|\n| 内容形式 | 封面、字体、配色、录屏、口播、剪辑 |\n| 表达方法 | 选题切入、开头、信息组织、案例展示 |\n| 个人能力 | 专业经验、知识理解、审美、创意与表达 |\n| 成长条件 | 产品、业务、粉丝基础、团队和资源 |",
+                "language": "none"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 13,
+                "username": "Ai"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://x.com/bbkirstry/status/2119430655390122208?a=hSkeSp6LGNsZ4QeAAcw&s=20"
+              },
+              {
+                "text": "https://github.com/cyberxiaowan/cyber-xiaowan"
+              },
+              {
+                "text": "https://github.com/cyberxiaowan/xiaowan-wechat-layout-skill"
+              },
+              {
+                "text": "https://github.com/cyberxiaowan/xiaowan-wechat-layout-skill"
+              },
+              {
+                "text": "https://x.com/bbkirstry/status/2119430655390122208?a=hSkeSp6LGNsZ4QeAAcw&s=20"
+              },
+              {
+                "text": "https://github.com/cyberxiaowan/cyber-xiaowan"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2120773764161921025",
+            "3_2120773758830907393",
+            "3_2120773757828481024",
+            "3_2120773762186358784",
+            "3_2120893553501175808",
+            "3_2120826861693612034",
+            "3_2120773762215813120",
+            "3_2120893404708261888",
+            "3_2120773764266786817",
+            "3_2120773760416399360",
+            "3_2120885224473288704"
+          ],
+          "plain_text": "\n上一期火出圈了，2天涨了3000+粉！感谢支持，本期2.0双手奉上\n很多朋友已经知道新手实操有哪些步骤了，但真到自己动手找对标、学封面、写标题、录教程、坚持更新的时候，又开始犯愁了：\n\n“小晚老师，你觉得我这个账号怎么样？”\n“为什么别人这样做有流量，我照着做就没有？”\n“是不是 我的封面不够好看？是不是应该重新做定位？”\n\n我见过太多诸如此类的问题\n于是，这里就又暴露了一个情况：\n很多人以为做自媒体起步最大的问题是执行，但其实是认知。\n\n你连一个内容、一个博主究竟好在哪里、差在哪里都不知道。\n\n昨晚，我在付费社群里做了一场将近两个半小时的直播，帮大家看了十来个账号，顺便拆解了Ai林爻、oil欧呦、逸尘、余温等几位大家都很喜欢的AI创作者。\n我分析了很多平时自己观察内容的小细节，比如一张封面的视觉重心、一篇长文的信息层级、一个人的表达姿态，甚至口播视频里的语速、音色和肢体动作。\n这些东西单独拿出来，好像都不是什么了不起的技巧，但组合在一起就会形成我们经常说的「内容质感」。\n\n以前做品牌内容的时候，我就特别喜欢研究一件事：\n为什么有些创意让人过目不忘？\n为什么有些产品明明差不多，消费者却愿意为其中一个付出更高的价格？\n现在做自媒体，我依然保持着这个习惯。\n\n看到一个优秀的博主，我会忍不住研究他究竟哪里厉害、什么东西值得学习，哪些是长期积累的能力，又有哪些具体的动作能够直接借鉴。\n所以这一篇，我想把自己平时研究账号和内容的方法分享给大家。\n\n希望你下次看到一个优秀博主和内容的时候，不只是感慨「哇，好厉害」，还能真正学会看懂他到底厉害在哪里。\n话不多说，直接开干\n \n01｜先学会看主页，判断一个账号有没有长期关注价值\n我帮别人看账号，通常会先代入一个陌生路人的角度打开主页。\n假设我完全不认识你，也不知道你之前做过什么。\n你只有极短的时间，让我知道你是谁、有什么值得关注的地方。\n\n请时刻谨记：\n互联网，是一场注意力抢夺的战争。\n\n有些朋友拥有很丰富的经历，做过项目、有自己的产品、取得过商业成果，但主页里却看不出来。\n比如有位独立开发者朋友，既有产品经验，也有收入成果，还在探索数字游民生活，但我看他的主页时，几乎想象不出来他是怎么样一个人。\n我不知道你到底是做AI产品开发的，还是分享工具和赚钱机会的？\n我关注你之后，能持续得到什么新的价值？\n很多人并不缺少值得介绍的东西，只是没把这些信息整理清楚。\n\n① 主页信息：让别人快速认识你\n我一般只看头像、昵称、简介、置顶和最近10条内容。\n头像和昵称，必须要有自己的辨识度。\n如果你同时做X、小红书、抖音，我建议尽量统一，增加我在任何平台刷到你都可以认出你的概率，沉淀一份视觉印象资产。\n\n简介可以拆成身份、经历和价值三个部分。\n身份怎么理解呢？\n比如你是AI设计师，做过哪些项目、有几年经验、平时分享什么，就可以分层次地告诉大家。\n如果你是技术博主，尤其要注意专业名词：什么FDE、Agent、某某架构，圈内人可能一眼就懂，但小红书上的普通用户不一定知道你到底在做什么。\n你可以保留自己的专业背景，但必须让你的目标用户能理解它。\n\n置顶内容则可以用来展示代表作、个人介绍，或者最能证明你专业能力的内容。\n我经常看到有人置顶一篇长文，写了很多啰嗦空泛的话，但陌生人看得云里雾里。\n你到底想通过它告诉大家什么？\n它真的值得被放在这里吗？\n你为什么把它放在最显眼的位置？\n如果置顶是为了让别人认识你，就应该尽可能明确地告诉别人：这篇文章有什么值得看的东西，你是谁、你在做什么、能提供什么信息和价值、有什么作品。\n\n② 前10条内容：让用户知道关注你以后还能获得什么\n你们可以自己做个小测试：\n打开自己的主页，从最近更新的内容开始往下翻10条。\n假设你是一个完全不认识自己的陌生人，你会认为这是一个什么样的博主？\n比如我看到一个设计师，最近10条内容里有AI绘图、设计工具、作品案例、创意方法，我大概就能知道他长期在研究什么。\n但如果今天分享一条AI资讯，明天突然讲玄学，后天又开始教大家做自媒体，内容之间也没有明显的联系，我可能就不会关注了。\n\n但我的意思并非必须把账号做得特别垂直。\n我们要统一的是别人对你的认知，不是每一条内容的题目。\n一个设计师可以分享工具、审美、作品，也可以分享生活；一个独立开发者也可以讲产品、技术，也可以讲商业和个人成长。\n只要这些内容能够共同构成一个人的特点，让我知道你大概在研究什么、擅长什么就好了。\n\n还有一个经常被忽略的问题：转发。\n特别是X上的朋友，你们可以回头看一下自己的主页。\n有些人10条内容里5条是转发，配文就两个字：\n「学习。」\n\n我真的很想问一句：\n你爱学习我能理解，但是你的粉丝为什么需要关注你看你学习啊！！！\n你至少可以帮大家把原文最值得看的几个知识点提炼出来，补充自己的看法，或者告诉大家这篇内容改变了你什么认知。\n在转发别人文章的时候，学会提供新的价值。\n不然我直接去关注原作者不就好了？\n多去研究一下大佬是怎么转发别人的内容的，他们给到了什么新的信息或者视角，或者采用了什么动作和形式。\n不要只是单纯地在「浏览」。\n\n💡本章实操：\n找一个不太熟悉你的朋友，让他看你的主页30秒，然后问三个问题：\n你觉得我是谁？\n我主要分享什么？\n你有没有发现任何一个愿意关注我的理由？\n再回头检查最近10条内容，看看它们有没有帮助别人形成一个相对稳定的印象。\n \n02｜研究对标：不要只模仿形式，要看懂背后的能力\n\n上一篇我建议大家先找5—10个对标账号。\n但找完以后怎么学，我觉得才是最需要研究的事情。\n\n很多人看见一个博主数据很好，就开始模仿他的封面、视频形式、文案结构。\n但你有没有想过，别人做得好的原因跟你正在模仿的东西，可能根本不是一回事？\n\n \n① Ai林爻：你看到了她手写的形式带来的数据，但实际上真正厉害的能力是把知识深入浅出地讲清楚\n这次直播里，我跟群友分析了@Ai林爻 这位博主。\n她的内容形式很有辨识度，经常通过手写的方式，把AI知识和工具使用方法整理成比较清楚的框架。\n乍一看，你会觉得这种内容还挺简单。\n找个知识点，用纸笔写下来，再讲解一下，不就可以了吗？\n\n外行看热闹，内行看门道\n你以为你能成功的是一种形式，实际上它是一种能力\n\n我很喜欢Ai林爻呈现出来的感觉，有点像那种很厉害的学霸姐姐。\n她可以把知识消化之后，再用很容易理解的方式分享给别人。开头也很简洁，不需要铺垫一堆背景，就能直接告诉你今天要学习什么。\n我看她的内容，会觉得跟着这个人应该能学会东西。\n那么这种感觉，究竟是从哪里来的呢？\n是因为她把知识理解得足够清楚，能够提取重点、组织框架，再一步一步教给别人。\n\n所以你要研究的应该是：\n她怎样把一个复杂的知识点拆成几个部分？\n为什么选择这个讲解顺序？\n有哪些信息被简化了？\n她如何用简单的表达降低理解门槛？\n而不是只会复刻形式，同时还妄想拿到别人的结果。\n\n如果你自己根本没有理解那个知识点，就算一模一样地拍手写视频，也只是在复刻话术和稿子，几乎无法把这个信息讲清楚。\n而这种学习能力，不仅仅是做自媒体需要的。\n从复杂的信息里提炼出一套结构、把自己学会的东西讲给别人听、完成真正有效的传递和分享，本身就是非常值得长期练习的能力。\n\n \n② oil欧呦：把真实工作变成持续更新的内容\noil欧呦是另一种大家很欣赏的类型，AI+产品经理+00后。\n我之前专门看过他的X、小红书和抖音，发现他有一套比较稳定的内容呈现方式，比如录屏、人物小窗、功能演示。\n但我觉得更有意思的是，他有大量内容来自自己正在学习的内容、自己做的产品和项目。\n\n比如今天更新了一个功能，他会告诉你：\n为什么要更新？\n之前用户反馈了什么问题？\n这次改了哪些地方？\n最终效果怎么样？\n你看，这一件事情，他就找到了很多值得讲的地方。\n他也公开分享过自己的产品实践，比如VibeHub的开发、内测和调整过程。\n这种内容不仅能够让别人认识产品，也能让人通过具体项目了解他的专业能力。\n\n想象一下，如果你是一家企业的老板或者负责人，正在寻找优秀的产品经理或者开发者，看完这些真实的项目过程，是不是就已经对这个人的能力形成初步判断了？\n所以我认为，自媒体其实是一张很好的社交名片。\n\n而且同样一件事情，可以在不同平台衍生不同内容。\n在X上，可以分享为什么做这个功能、用户提出了什么需求、产品是怎么迭代的。\n在小红书上，可以更直接地展示最终效果，告诉普通人这个功能能解决什么问题。\n这才是我理解的，更具备长期效用的「一鱼多吃」。\n不是做完一条视频，原封不动发到三个平台，而是让你本身做的一件事情，能够产生不同的内容，服务于不同平台、不同用户。\n\n所以我很建议希望长期做个人IP的朋友，去研究那些本身就在做产品、做业务，同时还持续分享的创作者。\n因为他们的选题不完全依赖热点，而是能够持续地从真实工作中生发出来。\n当然，你不一定要自己开发产品。\n今天用AI完成了一项工作、优化了一套流程、解决了一个具体问题，都可以把过程整理出来，分享出去。\n这也是一种大家经常说的：Building in Public。\n\n③ 对标时，把能直接学习的动作和需要积累的能力分开\n我建议大家拆解一个博主时，至少研究四层。\n \n如果你现在还是新手，可以先学习别人怎么展示结果、怎么写开头、怎么把复杂操作讲清楚。\n至于专业知识、产品经验和表达能力，需要靠持续实践慢慢积累。\n不要看见一个成熟博主做某种内容很成功，就以为自己使用相同的形式，也一定能获得类似的结果。\n\n💡本章实操：\n找3个自己特别喜欢的博主，各选一条代表作。\n先拆他们具体怎么做，再想想为什么他们能够这么做。\n最后挑出三个你当前就能尝试的动作，放进下一条内容里。\n\n \n03｜拆解单条内容：从选题、封面到表达，具体好在哪里\n我们经常说一条内容很有质感、一个博主很有网感。\n但你如果只能泛泛地描述「好看」「高级」「感觉很专业」，对你自己的下一次创作其实没什么太大帮助。\n我通常会拆解更细的颗粒度，比如继续研究以下几个部分。\n\n① 选题：找到明确的用户需求和使用场景\n比如同样是介绍Codex：\n「Codex最新功能介绍」\n「不会编程，怎么用Codex整理电脑文件？」\n「我用Codex自动完成了一周的重复工作」\n这三个选题面向的用户并不一样。\n第一条更适合关注产品更新的人，第二条面向想要上手的普通用户，第三条则强调具体工作场景和结果。\n所以不要只看别人选题数据好，就直接照着发。\n先判断这条内容到底吸引了什么人，他们为什么需要它。\n你还可以去小红书搜索相关关键词，看看用户经常提出哪些问题，再结合评论区，找到还没有被很好解决的需求。\n\n② 标题：快速交代内容价值和点击理由\n同样介绍AI工作流：\n「分享一个非常好用的AI工作流」\n「我让AI每天自动整理工作文件，不用再手动分类」\n后者更具体，也更容易让普通人理解自己为什么需要这套方法。\n我觉得标题至少应该让用户快速知道：你准备讲什么，这件事跟他有什么关系。\n不要为了显得专业，把一件简单的事情写得特别复杂。\n\n③ 封面：建立清晰的视觉重心和信息层级\n我特别建议大家把封面放进小红书双列信息流里看。\n有时候一张封面放大特别漂亮，但缩小以后文字看不清、主体太小，整个画面也没有明确重点。\n\n我通常会检查：\n视觉重心： 第一眼看到的是人物、标题，还是最终效果？\n信息层级： 最大的文字是不是最重要的信息？\n构图比例： 主体有没有太大或太小？留白是否合理？\n字体和配色： 有没有影响阅读的元素？画面是否过于拥挤？\n个人识别： 和主页其他内容放在一起，能不能形成比较稳定的风格？\n\n另外上一篇说过，封面大字和发布标题不必重复\n比如封面写：\n「不会编程，也能让电脑自己干活？」\n标题可以补充：\n「Codex新手教程｜手把手教你用AI整理电脑文件」\n前者吸引注意力，后者解释具体内容，也可以自然覆盖用户搜索的关键词。\n\n④ 视频开头：尽快展示价值，减少无效铺垫\n我之前那条Codex超小白教程，开头其实就是在吐槽。\n因为我每次跟朋友安利Codex，他们都信誓旦旦地说一定要学，结果真正动手的人少得可怜（现在想到还是觉得很可惜）\n我当时真的特别想吐槽，所以录出来的情绪也很自然。\n\n但如果换成那种很标准的开场：\n「大家好，今天给大家介绍一款非常强大的AI工具……」\n你爱听吗？我自己都觉得没什么意思。\n所以我那天爆火的开头，是从身边朋友的反应切入，既有具体的问题，也有情绪，自然而然就吸引了用户的注意力。\n\n很多优秀博主的开头其实很简单。\n直接展示结果，抛出问题，或者告诉你接下来能学到什么。\n尤其是教程类视频，如果前十几秒都在讲背景，真正的效果迟迟不出现，用户可能早就划走了。\n能删掉且不影响理解的废话，就尽量删掉。\n\n⑤ 正文结构：让用户更容易理解和吸收信息\n图文内容要看信息层级、分段、重点和操作步骤。\n视频内容要看演示顺序、镜头切换、信息密度和讲解节奏。\n比如讲一个AI工具，你可以先展示最终效果，再介绍关键操作，最后补充使用过程中容易踩坑的地方。\n\n长文也是一样的。\n很多人写文章的时候，自己觉得逻辑很完整，但整屏都是文字，没有分段、没有重点，读者根本不知道应该先看哪里。\n我自己写长文时，会通过分段、加粗和信息分组（就比如现在😬），让读者更容易找到重点，阅读起来也不会那么累。\n这也是内容质感的一部分。\n\n⑥ 价值增量：从功能介绍延伸到真实体验与独立判断\n这次直播里，我专门给大家看了逸尘 余温的内容。\n我觉得很多人低估了「认真体验一款产品」能够创造多少内容价值。\n \n比如逸尘弟弟10月27日分享的灵光2.0 的资讯，我就印象很深\n普通工具资讯博主可能会介绍：灵光更新了！现在能连接日历、文件、网盘、支付宝和各种办公软件，还有很多新功能。（是的，没错，这里就是我。我反思一下我偷懒了自罚三杯对不起家人们🍻🍺）\n好，介绍完了。\n但我发现，逸尘都会把产品功能放进更具体的使用场景里：\n比如连接日历和提醒事项，管理自己的体测安排与合作事务；整理百度网盘时，发现里面竟然存了3GB多以前手机自动同步的照片；再到出行安排，尝试通过工具连接服务、规划行程。\n你看，同样是介绍一款产品，他至少多做了三件事情！！\n\n第一，把产品功能翻译成普通人能理解的使用场景。\n用户未必关心新增了多少接口，但会关心AI能不能帮自己安排事务、整理文件。\n第二，加入自己的真实体验和发现。\n网盘里意外发现的旧照片，就是一个很具体的个人经历，让内容不只是官方功能列表。\n第三，进一步挖掘产品的使用价值。\n从日程管理、文件整理到更复杂的任务，让用户知道这些功能可以怎样组合使用。\n\n \n余温弟弟也是我很欣赏的一位创作者！\n\n他分享工具的时候，都会附带自己制作的测试案例，用具体的结果帮助观众理解产品能做什么，而且他其实会深入地看每一条评论、做出解答，甚至大半夜还在回复私信问题。\n我还尤其喜欢他整体的视觉风格，干净、稳定，又有自己的个人特点。\n\n这两位博主的风格不一样，但有一个我特别欣赏的共同点：\n他们是真的实打实用心花时间体验、测试、理解，再把经过自己消化的信息分享出来的。\n这也就是我一直讲的：创造价值增量。\n\n作为一个做了很多年品牌内容营销的人，我也会从品牌方的角度研究这些作品和作者。\n真正好的品牌，需要的不是纯粹地帮忙重复广告词，而是能够理解产品、找到用户真正关心的价值的创作者，让他们用好的内容把产品的价值表达出来。\n你以后做工具测评，也可以按照这个顺序：\n产品有什么功能 → 解决什么真实问题 → 我实际怎么使用 → 得到了什么结果 → 还有哪些新的发现。\n即便你不会开发工具，只要足够擅长体验、比较和判断工具，也能成为很有价值的测评型创作者。\n而当用户开始相信你的判断，下一次想找工具的时候，就可能先来看看你推荐了什么。\n\n💡本章实操：\n找一条自己发布过的内容，按照选题、标题、封面、开头、正文结构和价值增量逐项检查。\n再找三条同类优秀作品，对比它们在哪些细节上处理得更好。\n把别人内容的所谓的高级感，尽量具体拆解到：标题怎样表达、开头提前展示了什么、哪些案例让内容更有说服力。\n \n04｜内容质感：从视觉风格到镜头表现力\n\n上一篇说过，小红书和ins这类平台的内容有一种很微妙的「精致感」。\n有些人明明没有特别贵的设备，拍摄环境也很简单，但画面舒服、讲话自然，就是会让人觉得很专业。\n还有一些博主，设备、灯光、布景都不错，最后的视频却还是有点僵硬。\n所以我很喜欢研究，所谓的质感到底是怎么形成的。\n\n① 视觉统一：保留稳定元素，不需要复制同一张模板\n直播里有位做设计的朋友，最近在尝试蓝色手账风格，担心以后每张封面都使用蓝色网格底，会不会限制自己的内容场景。\n我当时建议她：\n保留蓝白或蓝米配色、手写字体、涂鸦元素，以及相对稳定的人物比例，但每张封面的具体构图完全可以变化。\n比如介绍手机软件，可以加入涂鸦风格的手机；\n介绍AI工具，也可以使用产品画面，跟原来的设计元素结合。\n这样既有统一感，也不会把自己限制在一种模板里。\n\n而且一个人的视觉风格，最好跟他本身的气质相匹配。\n如果你是一个年轻、亲切、学生气比较强的创作者，太商务化的封面，可能反而让你的个人特点消失。\n如果你的优势是专业审美和设计能力，就应该尽可能通过作品和视觉表达，让人感受到你的专业水平。\n\n② 镜头表现：情绪、声音和肢体动作都值得练习\n我在直播里还给大家看了几个口播视频。\n有些新手博主，明明讲的内容不错，但镜头前的状态就是有点紧张。\n比如手一直晃来晃去，表情没什么变化，语速也不太稳定。\n\n这时候你可以继续拆得更细一点：\n情绪： 讲到开心的事情，表情有没有变化？有没有真实想分享的感觉？\n声音： 音色、语调、语速和重音，有没有帮助观众理解重点？\n肢体动作： 幅度会不会太大？动作是否频繁干扰观看？\n画面： 人物小窗有没有遮挡操作？字幕、主体和边距是否合理？\n有些成熟博主，甚至会根据讲解内容有意识地调整音色、语速和肢体幅度。\n你听起来觉得很自然的表达，其实可能经过了大量练习。\n\n当然，我不是让大家都学会慢条斯理地讲话。\n有些人的风格就是活泼、夸张、抽象，这完全没问题。\n关键是你能不能有意识地控制自己的表达，让它服务于内容，而不是被紧张和习惯带着走。\n\n③ 专业感是很多小细节共同形成的结果\n我还特别在意一个问题：设计细节上，你有没有替用户考虑周全。\n比如做录屏教程，人物小窗会不会遮住按钮？手机上能不能看清文字？操作结果是否展示得足够早？\n再比如做设计向的作品合集展示，第一眼应该先看到视觉作品，而不是一大段文字向的自我介绍。\n\n你是设计师，就应该尽可能用自己的视觉作品证明能力。\n你是文案，就要注意自己的语言表达。\n你在哪个领域建立专业身份，就应该让别人从相关细节里感受到你的专业能力。\n熟悉我的朋友可能会比较清楚，我本人对「不专业」这件事的容忍度极低。\n而且我觉得很多时候，真正优秀的作品不一定在于多么复杂的“装饰”，而是创作者已经非常漂亮地提前把那些容易让用户困惑、不舒服的地方细心处理好了。\n\n💡本章实操：\n找一位你喜欢的口播博主，先静音看视频，观察他的动作、表情和构图；再只听声音，研究语速、音色和节奏。\n然后回头看自己的视频，找出最明显的一个问题，下一条有意识地练习。\n\n \n05｜长期关注价值：把自己的真实优势变成内容\n我觉得很多创作者会遇到这样的情况。\n有一条工具推荐表现很好，点赞和收藏都不错，但就是没有带来多少新粉丝。于是开始怀疑：是不是不应该继续做这个选题？\n但你现在遇到的问题是：内容有人看，却没有多少人关注。\n这里延展出来的问题是：\n单条内容有价值，不代表整个账号已经建立了长期关注价值。\n\n① 关注理由可以来自不同的能力\n回头看看前面提到的几位创作者：\nAi林爻擅长把知识讲清楚。\noil欧呦能够持续分享真实的产品实践。\n逸尘和余温会通过测试、案例和体验，为用户提供更多有价值的信息。\n他们的内容形式、专业背景、个人风格都不一样，却各自拥有让人愿意持续关注的理由。\n\n所以别急着把自己包装成一个标准的知识博主。\n你究竟有什么独特的能力、经历和资源？\n它们有没有可能成为你持续分享的内容？\n\n② 从已有能力中寻找内容方向\n直播里还有位朋友特别擅长社交，认识很多行业里很厉害的人，也经常参加线下活动。\n他一直在想自己应该做什么选题，但我觉得他已经拥有非常明确的优势了：他有很多普通人不容易获得的社交机会和行业信息（很多人对于自己的优势在哪里其实是不清楚的）。\n如果每天只是分享自己跟谁吃饭、参加了什么活动，大家可能觉得很厉害，但很像日常朋友圈，或者像纯装逼。\n\n如果他开始分享：\n最近有哪些值得参加的行业活动？\n在哪里报名？\n跟某位前辈交流时，他问了什么问题？\n他从这些交流里发现了哪些可以被普通人借鉴的经验？\n那这些社交资源，就被转换成了任何一个路人都能够使用的内容。\n\n你看，他根本不需要强迫自己做一个技术教程博主。\n只需要学会从自己的优势里，提取别人需要的信息，就足够站稳自己的定位。\n同样的道理：设计师可以分享作品和创作方法，产品经理可以讲产品决策，独立开发者可以公开项目进展。\n你做过的工作、解决过的问题，甚至最近刚刚搞明白的一件事情，都可能是别人需要的内容。\n\n③ 用自己的表达建立个人辨识度\n还有一个我非常非常非常非常想提醒的问题。\nAI文案用多了，很多人真的越来越不会说人话了！！！！！！\n我经常看到一些文章，语法没问题，逻辑好像也完整，但就是不像正常人会说的话。\n我自己也会用AI辅助写作，但最后一定会检查：\n这句话我平时会跟朋友这么说吗？\n我有没有为了显得高级，把一件简单的事情写得特别复杂？\n那些真实的情绪、经历和观点，有没有被AI全部洗掉？\n就像我现在半夜 11 点还在手搓一样：）\n但是因为用心制作，数据也是真好啊！woc。\n\n尤其希望做个人IP的朋友，你本来就需要让别人认识你这个人。\n你可以专业，也可以幽默、抽象、偶尔吐槽。\n但千万不要过度依赖AI，最后把自己的账号做成一个没有任何个人特点的内容机器。\n\n💡本章实操：\n把自己最近20条内容放在一起，看看哪些主要提供资讯，哪些展示了你的专业能力，哪些真正体现了自己的经历、观点和个人特点。\n再想想自己希望别人长期记住的是什么，下一轮有意识地增加相关内容。\n\n \n06｜账号复盘：根据问题所在的位置，决定下一步改什么\n很多人一看到数据不好，就开始怀疑自己的定位。\n这条没流量，是不是赛道不行？\n那条没人关注，是不是自己不适合做自媒体？\n你先看看问题到底出在哪里啊！！！\n不同的表现，可能对应完全不同的原因。\n\n① 曝光少：先检查选题和内容分发\n先确认发布状态是否正常，再研究选题需求、内容竞争力，以及同类内容的表现。\n不要把所有问题都归结成平台不给流量。\n\n② 有曝光但点击少：检查标题和封面\n用户已经有机会看到你，但没有产生足够的点击兴趣。\n可以看看是不是选题跟目标用户关系不大，或者封面、标题没有把价值讲明白。\n\n③ 有点击但看不下去：检查开头和内容组织\n是不是铺垫太长了？\n结果展示得太晚了？\n讲解顺序不清楚？\n或者标题承诺的价值，正文根本没有兑现？\n\n④ 点赞收藏不错，但涨粉少：检查长期关注理由\n用户认可某条内容，不代表他一定想持续看你。\n这时候可以回到主页，研究你的身份、内容主线和个人辨识度。\n\n⑤ 有粉丝但没有商业机会：检查能力展示和用户匹配\n你吸引来的是什么人？\n平时的内容有没有证明你能够提供什么专业服务、产品价值或商业合作能力？\n如果你希望接AI工具商单，却很少展示真实测评和产品演示能力，品牌未必能够判断你适不适合合作。\n如果你提供设计服务，却没有好好展示作品和设计过程，潜在客户也很难了解你的专业水平。\n这些判断可以帮助你缩小排查范围，具体原因还需要结合后台数据、历史内容和用户反馈进一步分析。\n\n⑥ 每次复盘，尽可能把问题写具体\n学会进一步判断：\n「标题没说明使用场景，普通人可能不知道工具能解决什么问题。」\n或者：\n「开头花了太多时间介绍背景，用户还没看到效果就划走了。」\n再或者：\n「这条教程收藏不错，但主页没有类似内容，用户不知道以后关注我有什么用。」\n当你能把问题具体到这种程度，下一步应该做什么就清楚多了。\n\n💡 本章实操：\n新账号先看最近10条，有内容积累的创作者可以看最近20—30条。找出表现最好和最差的几条，比较选题、封面、标题、开头、正文和用户反馈。\n根据实际数据，写下两个最值得优先检查的问题，在下一轮内容里逐步调整。\n\n \n07｜利用AI辅助分析，建立自己的内容判断标准\n我知道有些朋友看完可能会觉得：\n这些道理我能理解，但我自己没有那么多经验，怎么知道自己的判断准不准？\n那就让AI帮你一起看嘛！\n\n不过我特别建议大家，不要只发一张主页截图，就让AI告诉你怎么涨粉。\n这种时候它很容易输出一套特别标准的建议：优化头像简介、保持垂直、提高更新频率、增加互动……（这就是我到现在还没有做任何运营 skill 的原因，因为我觉得需要考虑的影响因素实在是太多了）\n但它根本不知道你是谁、有什么能力、希望获得什么。\n\n我自己做内容诊断的时候，必须先了解一个人的背景和目标，再判断他的账号应该往什么方向调整。\n所以如果想让AI帮你分析，可以直接使用下面这段提示词（当然了，也只能用来试试啊，毕竟这是 GPT 基于我的直播内容写的，我不会写\n\nAI账号诊断提示词\n \n你也可以把优秀博主的公开作品、视频逐字稿、评论区和自己的内容一起交给AI，让它帮助你做对照分析。\n\n我很建议把每一次诊断和修改都记录下来。\n比如这次发现什么问题，具体调整了什么，下一批内容数据有什么变化。\n时间久了，你会逐渐形成自己的判断标准，也能越来越清楚什么内容适合自己。\n\n写在最后\n我一直觉得，做内容是一件特别有意思的事情。\n我每天上班做各种好玩的内容，其实挺开心的。\n因为你会发现，很多表面上看起来很简单的东西，背后其实藏着大量经验和能力：\n为什么有些博主的视频特别有吸引力？\n为什么有些封面明明没有多少元素，却看起来很有质感？\n为什么同样一个知识点，有人讲半天你都听不懂，有人几句话就能让你恍然大悟？\n我真的很喜欢在互联网上到处标记好玩的人类，废寝忘食地研究这些问题。\n\n以前做品牌内容的时候，我研究消费者为什么喜欢一个产品，为什么愿意为某种价值付费；现在做自媒体，我又开始研究为什么人们愿意关注一个陌生人，愿意花时间看他分享的东西。\n\n研究久了，我发现很多做内容的方法，其实都可以被拆解\n只是大家看到的可能是一种形式，我看到的是他为什么选择这种表达；你觉得这个人很专业，我可能会继续研究他通过哪些细节建立了专业感。\n你看到一个账号数据好，我会想知道他究竟满足了什么需求，拥有怎样的能力，以及到底是哪些条件让这个结果成立。\n这些观察慢慢积累下来，就会形成自己的内容判断力。\n\n而且我觉得在AI时代，这种能力会越来越重要。\nAI可以帮你写文案、生成图片、剪辑视频，甚至自动完成很多创作流程。但是如果你自己连一个结果到底好不好、问题在哪里都不知道，又怎么判断AI交付的东西能不能用？\n所以下次看到一条特别好的内容，不妨多花几分钟研究一下。\n它的选题是怎么得出的？\n标题怎么吸引到了你？\n封面有什么特点？\n讲解顺序为什么让你觉得特别舒服？\n这个创作者究竟提供了什么别人没有的价值？\n再回到自己的作品里，试着改进一点点。\n\n上在发够100条之前，你我可能都还只是在互联网的岸边。\n所以基于1.0，这篇我想补充的是认知：\n坚持出摊很重要，但更重要的是，每一次创作都能从中学到一点新的东西。\n\n别急着成为一个很厉害的博主。\n先学会看懂一条好的内容，再试着把自己下一条内容做得更好。\n剩下的，让我们边做边学。\n\n———\n这里是@小晚不在 🙋\nAI时代的内容营销践行者\n上一篇百万爆文：《小红书起号保姆级教程｜从0开始找对标，坚持出摊、商业化》：https://x.com/bbkirstry/status/2119430655390122208?a=hSkeSp6LGNsZ4QeAAcw&s=20\n\n我的思考助手Skill「赛博小晚」：\nhttps://github.com/cyberxiaowan/cyber-xiaowan\n我的长图文排版Skill：\nhttps://github.com/cyberxiaowan/xiaowan-wechat-layout-skill\n本文部分案例来自我对公开博主作品的观察与个人内容实践。感谢阅读！",
+          "preview_text": "上一期火出圈了，2天涨了3000+粉！感谢支持，本期2.0双手奉上\n很多朋友已经知道新手实操有哪些步骤了，但真到自己动手找对标、学封面、写标题、录教程、坚持更新的时候，又开始犯愁了：",
+          "title": "小红书起号保姆级教程②｜如何拆解优秀博主，培养内容感知和判断力"
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2120893769713336802",
+        "created_at": "2026-11-12T14:57:33.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_history_tweet_ids": [
+          "2120893769713336802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2120…",
+              "end": 41,
+              "expanded_url": "https://x.com/i/article/2120773969393352704",
+              "start": 18,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2120773969393352704",
+              "url": "https://t.co/ZhgsnDLoQx"
+            }
+          ]
+        },
+        "id": "2120893769713336802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 941,
+          "impression_count": 166642,
+          "like_count": 734,
+          "quote_count": 35,
+          "reply_count": 58,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "有手就会的国内社媒起号教程 2.0 https://t.co/ZhgsnDLoQx"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T15:21:31.000Z",
+        "display_text_range": [
+          22,
+          40
+        ],
+        "edit_history_tweet_ids": [
+          "2120899801940369865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988475714501570561",
+              "start": 0,
+              "username": "liyue_ai"
+            },
+            {
+              "end": 21,
+              "id": "1876494331491848192",
+              "start": 10,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120899801940369865",
+        "in_reply_to_user_id": "1988475714501570561",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120742814954967333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyue_ai @chatcutapp 确实，语音输入加上真不用剪辑了。。。"
+      },
+      {
+        "author_id": "1988475714501570561",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T04:57:43.000Z",
+        "display_text_range": [
+          21,
+          29
+        ],
+        "edit_history_tweet_ids": [
+          "2120742814954967333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120742814954967333",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 684,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @chatcutapp 这下真解放双手了"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T04:15:07.000Z",
+        "display_text_range": [
+          22,
+          27
+        ],
+        "edit_history_tweet_ids": [
+          "2120732093642895457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            },
+            {
+              "end": 21,
+              "id": "1876494331491848192",
+              "start": 10,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120732093642895457",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120729906992881995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace @chatcutapp 补的太多了"
+      },
+      {
+        "author_id": "1881991469730594816",
+        "conversation_id": "2120690544825250061",
+        "created_at": "2026-11-12T04:06:25.000Z",
+        "display_text_range": [
+          21,
+          32
+        ],
+        "edit_history_tweet_ids": [
+          "2120729906992881995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            },
+            {
+              "end": 20,
+              "id": "1876494331491848192",
+              "start": 9,
+              "username": "chatcutapp"
+            }
+          ]
+        },
+        "id": "2120729906992881995",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1269,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120690544825250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ @chatcutapp 看样子你需要多补一补了"
+      },
+      {
+        "author_id": "1897545708770840576",
+        "conversation_id": "2120719049676161383",
+        "created_at": "2026-11-12T03:54:55.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_history_tweet_ids": [
+          "2120727012692390163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911968142311772161",
+              "start": 0,
+              "username": "hIpHYpksGV89966"
+            }
+          ]
+        },
+        "id": "2120727012692390163",
+        "in_reply_to_user_id": "1911968142311772161",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2159,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120722537604911172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hIpHYpksGV89966 只读不习，用了好久了"
+      },
+      {
+        "author_id": "1911968142311772161",
+        "conversation_id": "2120719049676161383",
+        "created_at": "2026-11-12T03:37:08.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_history_tweet_ids": [
+          "2120722537604911172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897545708770840576",
+              "start": 0,
+              "username": "gengdaJ"
+            }
+          ]
+        },
+        "id": "2120722537604911172",
+        "in_reply_to_user_id": "1897545708770840576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2322,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120719049676161383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gengdaJ 不会被封吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "id": "1897545708770840576",
+        "name": "逸尘",
+        "protected": false,
+        "username": "gengdaJ"
+      },
+      {
+        "id": "1712267009483022336",
+        "name": "Higgsfield AI 🧩",
+        "protected": false,
+        "username": "higgsfield_ai"
+      },
+      {
+        "id": "1877440800",
+        "name": "李韭二",
+        "protected": false,
+        "username": "li9292"
+      },
+      {
+        "id": "1869683226178146304",
+        "name": "Sac",
+        "protected": false,
+        "username": "Saccc_c"
+      },
+      {
+        "id": "1822141194404593664",
+        "name": "Yiwei",
+        "protected": false,
+        "username": "Yiwei_growth"
+      },
+      {
+        "id": "1881991469730594816",
+        "name": "余温",
+        "protected": false,
+        "username": "gkxspace"
+      },
+      {
+        "id": "1618752347752271873",
+        "name": "来碗牛肉粉",
+        "protected": false,
+        "username": "beefnoode"
+      },
+      {
+        "id": "1876494331491848192",
+        "name": "ChatCut",
+        "protected": false,
+        "username": "chatcutapp"
+      },
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "protected": false,
+        "username": "bbkirstry"
+      },
+      {
+        "id": "1792608085409939456",
+        "name": "叫我阿杭",
+        "protected": false,
+        "username": "Astronaut_1216"
+      },
+      {
+        "id": "2022118285983232001",
+        "name": "西门聪明蛋XD",
+        "protected": false,
+        "username": "xmmxovo"
+      },
+      {
+        "id": "2008763857142255616",
+        "name": "Shengzhe Xu",
+        "protected": false,
+        "username": "ShengzheSeanxu"
+      },
+      {
+        "id": "1807644997321453568",
+        "name": "Liz不吃荔枝",
+        "protected": false,
+        "username": "libuyi543"
+      },
+      {
+        "id": "1866821173755121666",
+        "name": "木马人",
+        "protected": false,
+        "username": "cnyzgkc"
+      },
+      {
+        "id": "756319701861601281",
+        "name": "鱼总聊AI",
+        "protected": false,
+        "username": "AI_Jasonyu"
+      },
+      {
+        "id": "1974653328274714624",
+        "name": "AYi",
+        "protected": false,
+        "username": "AYi_AInotes"
+      },
+      {
+        "id": "1988475714501570561",
+        "name": "李岳",
+        "protected": false,
+        "username": "liyue_ai"
+      },
+      {
+        "id": "1911968142311772161",
+        "name": "hesekii",
+        "protected": false,
+        "username": "hIpHYpksGV89966"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2122839670837105095",
+    "next_token": "7140dibdnow9c7btwp0gm33gh46s6ajv1tsa0kk4krub7",
+    "oldest_id": "2120727012692390163",
+    "previous_token": "77qpymm88g5h9vqkmfps2mvkcqoeyp9l0sd2z5j2ero6t",
+    "result_count": 23
+  }
+}
