@@ -10,7 +10,7 @@
 - **原文件不移动、不改名、不改内容**。本文件与 `people/`、`index/classification.csv` 都是新增索引。
 - 由 [`scripts/classify.py`](scripts/classify.py) 生成，可重跑。
 - 会员 GitHub 仓按 `UPSTREAM.md` / 仓库名归到对应的人，只记到仓，不逐文件列出。`github-seed` 归哥飞。
-- 生成时间：2026-11-22 16:48（America/New_York）。
+- 生成时间：2026-11-22 16:48（北京时间）。
 
 ## 一览
 
