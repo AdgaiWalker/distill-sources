@@ -1,0 +1,1756 @@
+{
+  "data": [
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113054315225174449",
+      "created_at": "2026-10-22T01:47:37.000Z",
+      "edit_history_tweet_ids": [
+        "2113084831752151245"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 5,
+            "id": "786375418685165568",
+            "start": 0,
+            "username": "theo"
+          },
+          {
+            "end": 13,
+            "id": "1547950228396838912",
+            "start": 6,
+            "username": "davis7"
+          },
+          {
+            "end": 18,
+            "id": "2085838061347217408",
+            "start": 14,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2113084831752151245",
+      "in_reply_to_user_id": "786375418685165568",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 7220,
+        "like_count": 193,
+        "quote_count": 0,
+        "reply_count": 16,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113083334050074838",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theo @davis7 @bot yes! ask it to email my bot tibo@mail.grokbot.com",
+      "url": "https://x.com/poteto/status/2113084831752151245"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113068413337931893",
+      "created_at": "2026-10-22T01:41:04.000Z",
+      "edit_history_tweet_ids": [
+        "2113083183587832266"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "4021497792",
+            "start": 0,
+            "username": "TheSportChiro"
+          },
+          {
+            "end": 19,
+            "id": "2085838061347217408",
+            "start": 15,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2113083183587832266",
+      "in_reply_to_user_id": "4021497792",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 661,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113068413337931893",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TheSportChiro @bot are you still having this issue?",
+      "url": "https://x.com/poteto/status/2113083183587832266"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113054315225174449",
+      "created_at": "2026-10-22T00:53:10.000Z",
+      "edit_history_tweet_ids": [
+        "2113071127044182505"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1348322856032104448",
+            "start": 0,
+            "username": "brian_bancroft"
+          },
+          {
+            "end": 23,
+            "id": "1547950228396838912",
+            "start": 16,
+            "username": "davis7"
+          },
+          {
+            "end": 28,
+            "id": "2085838061347217408",
+            "start": 24,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2113071127044182505",
+      "in_reply_to_user_id": "1348322856032104448",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 819,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113066583581151529",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@brian_bancroft @davis7 @bot we are looking into this!",
+      "url": "https://x.com/poteto/status/2113071127044182505"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113054315225174449",
+      "created_at": "2026-10-22T00:41:31.000Z",
+      "edit_history_tweet_ids": [
+        "2113068195825484016"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1547950228396838912",
+            "start": 0,
+            "username": "davis7"
+          },
+          {
+            "end": 12,
+            "id": "2085838061347217408",
+            "start": 8,
+            "username": "bot"
+          },
+          {
+            "end": 17,
+            "id": "2085838061347217408",
+            "start": 13,
+            "username": "bot"
+          },
+          {
+            "end": 28,
+            "id": "786375418685165568",
+            "start": 23,
+            "username": "theo"
+          }
+        ]
+      },
+      "id": "2113068195825484016",
+      "in_reply_to_user_id": "2832427459",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 39578,
+        "like_count": 616,
+        "quote_count": 0,
+        "reply_count": 14,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113062261791334667",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@davis7 @bot @bot send @theo a medical consent form for the brain microchip install",
+      "url": "https://x.com/poteto/status/2113068195825484016"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113054315225174449",
+      "created_at": "2026-10-22T00:17:56.000Z",
+      "edit_history_tweet_ids": [
+        "2113062261791334667"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1547950228396838912",
+            "start": 0,
+            "username": "davis7"
+          },
+          {
+            "end": 12,
+            "id": "2085838061347217408",
+            "start": 8,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2113062261791334667",
+      "in_reply_to_user_id": "1547950228396838912",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 47509,
+        "like_count": 690,
+        "quote_count": 1,
+        "reply_count": 41,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113054315225174449",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@davis7 @bot start a new project to implement all these",
+      "url": "https://x.com/poteto/status/2113062261791334667"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112995138717016529",
+      "created_at": "2026-10-21T20:11:24.000Z",
+      "edit_history_tweet_ids": [
+        "2113000219814277533"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "481812746",
+            "start": 0,
+            "username": "mikepat711"
+          },
+          {
+            "end": 16,
+            "id": "2085838061347217408",
+            "start": 12,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2113000219814277533",
+      "in_reply_to_user_id": "481812746",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3333,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112998028202172834",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mikepat711 @bot send this to the grok bot design slack",
+      "url": "https://x.com/poteto/status/2113000219814277533"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112736749281759566",
+      "created_at": "2026-10-21T02:48:49.000Z",
+      "edit_history_tweet_ids": [
+        "2112737844318163168"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1519024405585739778",
+            "start": 0,
+            "username": "compuficial"
+          },
+          {
+            "end": 17,
+            "id": "2085838061347217408",
+            "start": 13,
+            "username": "bot"
+          },
+          {
+            "end": 23,
+            "id": "1720665183188922368",
+            "start": 18,
+            "username": "grok"
+          },
+          {
+            "end": 73,
+            "id": "1899375311680372736",
+            "start": 64,
+            "username": "larsencc"
+          }
+        ]
+      },
+      "id": "2112737844318163168",
+      "in_reply_to_user_id": "1519024405585739778",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 2963,
+        "like_count": 36,
+        "quote_count": 1,
+        "reply_count": 9,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112737091566068063",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@compuficial @bot @grok report issues with the @ bot mention to @larsencc!",
+      "url": "https://x.com/poteto/status/2112737844318163168"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112559638579499258",
+      "created_at": "2026-10-20T18:33:23.000Z",
+      "edit_history_tweet_ids": [
+        "2112613162591932495"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "34743251",
+            "start": 0,
+            "username": "SpaceX"
+          },
+          {
+            "end": 12,
+            "id": "2085838061347217408",
+            "start": 8,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2112613162591932495",
+      "in_reply_to_user_id": "34743251",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 32,
+        "impression_count": 57814,
+        "like_count": 430,
+        "quote_count": 6,
+        "reply_count": 151,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112559638579499258",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SpaceX @bot watch this livestream when it's up, take notes, and send me a summary",
+      "url": "https://x.com/poteto/status/2112613162591932495"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112606908893053223",
+      "created_at": "2026-10-20T18:08:32.000Z",
+      "edit_history_tweet_ids": [
+        "2112606908893053223"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 40,
+            "id": "2085838061347217408",
+            "start": 36,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/GeoffreyHuntle…",
+            "end": 84,
+            "expanded_url": "https://twitter.com/GeoffreyHuntley/status/2112569621798604963",
+            "start": 61,
+            "url": "https://t.co/kQshKRRmcM"
+          }
+        ]
+      },
+      "id": "2112606908893053223",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 94,
+        "impression_count": 82129,
+        "like_count": 669,
+        "quote_count": 10,
+        "reply_count": 140,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112569621798604963",
+          "type": "quoted"
+        }
+      ],
+      "text": "one of the coolest features of grok @bot is tagging it on X! https://t.co/kQshKRRmcM",
+      "url": "https://x.com/poteto/status/2112606908893053223"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112396640225054989",
+      "created_at": "2026-10-20T06:04:03.000Z",
+      "edit_history_tweet_ids": [
+        "2112424589783633945"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1790408959389503488",
+            "start": 0,
+            "username": "tcballard"
+          },
+          {
+            "end": 15,
+            "id": "2085838061347217408",
+            "start": 11,
+            "username": "bot"
+          },
+          {
+            "end": 24,
+            "id": "2108454467309883392",
+            "start": 16,
+            "username": "omarchy"
+          }
+        ]
+      },
+      "id": "2112424589783633945",
+      "in_reply_to_user_id": "1790408959389503488",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 38,
+        "impression_count": 27727,
+        "like_count": 416,
+        "quote_count": 6,
+        "reply_count": 44,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112396640225054989",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@tcballard @bot @omarchy ask your bot to send my bot an email tibo@mail.grokbot.com with feedback and i'll can see what i can do to make this smoother!",
+      "url": "https://x.com/poteto/status/2112424589783633945"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112246281016119780",
+      "created_at": "2026-10-19T20:06:49.000Z",
+      "edit_history_tweet_ids": [
+        "2112274290494341510"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "44553913",
+            "start": 0,
+            "username": "Nate_Esparza"
+          },
+          {
+            "end": 18,
+            "id": "2085838061347217408",
+            "start": 14,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2112274290494341510",
+      "in_reply_to_user_id": "44553913",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 19453,
+        "like_count": 49,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112253120470479182",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Nate_Esparza @bot ask your bot to write it!",
+      "url": "https://x.com/poteto/status/2112274290494341510"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112246281016119780",
+      "created_at": "2026-10-19T19:29:39.000Z",
+      "edit_history_tweet_ids": [
+        "2112264935334126033"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "2085838061347217408",
+            "start": 0,
+            "username": "bot"
+          },
+          {
+            "end": 9,
+            "id": "2085838061347217408",
+            "start": 5,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2112264935334126033",
+      "in_reply_to_user_id": "2832427459",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 61,
+        "impression_count": 63000,
+        "like_count": 157,
+        "quote_count": 4,
+        "reply_count": 101,
+        "retweet_count": 10
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112246281016119780",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bot @bot watch this thread and based on what you know about me and my work, propose ideas to improve my bots and workflows",
+      "url": "https://x.com/poteto/status/2112264935334126033"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112261641505231330",
+      "created_at": "2026-10-19T19:16:33.000Z",
+      "edit_history_tweet_ids": [
+        "2112261641505231330"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2085838061347217408",
+            "start": 5,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/bot/status/211…",
+            "end": 62,
+            "expanded_url": "https://twitter.com/bot/status/2112252507762368684",
+            "start": 39,
+            "url": "https://t.co/sx23JlyBxJ"
+          }
+        ]
+      },
+      "id": "2112261641505231330",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 174,
+        "impression_count": 121412,
+        "like_count": 1888,
+        "quote_count": 14,
+        "reply_count": 168,
+        "retweet_count": 55
+      },
+      "referenced_tweets": [
+        {
+          "id": "2112252507762368684",
+          "type": "quoted"
+        }
+      ],
+      "text": "your @bot is now just one button away! https://t.co/sx23JlyBxJ",
+      "url": "https://x.com/poteto/status/2112261641505231330"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2112246281016119780",
+      "created_at": "2026-10-19T18:15:31.000Z",
+      "edit_history_tweet_ids": [
+        "2112246281016119780"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 36,
+            "id": "2085838061347217408",
+            "start": 32,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2112246281016119780",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 547,
+        "impression_count": 697655,
+        "like_count": 2455,
+        "quote_count": 55,
+        "reply_count": 1240,
+        "retweet_count": 149
+      },
+      "text": "what did you get done with grok @bot last week?",
+      "url": "https://x.com/poteto/status/2112246281016119780"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2111486223092986168",
+      "created_at": "2026-10-18T17:26:09.000Z",
+      "edit_history_tweet_ids": [
+        "2111871468275675397"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1762175022527877120",
+            "start": 0,
+            "username": "kr0der"
+          },
+          {
+            "end": 16,
+            "id": "2957723755",
+            "start": 8,
+            "username": "n2parko"
+          },
+          {
+            "end": 31,
+            "id": "384666406",
+            "start": 17,
+            "username": "dillon_mulroy"
+          },
+          {
+            "end": 41,
+            "id": "1513875445",
+            "start": 32,
+            "username": "mdamore9"
+          },
+          {
+            "end": 46,
+            "id": "2085838061347217408",
+            "start": 42,
+            "username": "bot"
+          },
+          {
+            "end": 65,
+            "id": "2007694495153041408",
+            "start": 50,
+            "username": "parker__conrad"
+          }
+        ]
+      },
+      "id": "2111871468275675397",
+      "in_reply_to_user_id": "1762175022527877120",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1150,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2111850355315400787",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kr0der @n2parko @dillon_mulroy @mdamore9 @bot cc @parker__conrad",
+      "url": "https://x.com/poteto/status/2111871468275675397"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2111618982470095322",
+      "created_at": "2026-10-18T06:01:04.000Z",
+      "edit_history_tweet_ids": [
+        "2111699062416363841"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "2085838061347217408",
+            "start": 0,
+            "username": "bot"
+          },
+          {
+            "end": 17,
+            "id": "1884666070243459072",
+            "start": 5,
+            "username": "DrewOgryzek"
+          }
+        ]
+      },
+      "id": "2111699062416363841",
+      "in_reply_to_user_id": "2085838061347217408",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 72317,
+        "like_count": 904,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2111619007455334648",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bot @DrewOgryzek 💀",
+      "url": "https://x.com/poteto/status/2111699062416363841"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2111574663197290828",
+      "created_at": "2026-10-17T22:01:26.000Z",
+      "edit_history_tweet_ids": [
+        "2111578359365034022"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "18787589",
+            "start": 0,
+            "username": "bcardarella"
+          },
+          {
+            "end": 17,
+            "id": "2085838061347217408",
+            "start": 13,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2111578359365034022",
+      "in_reply_to_user_id": "18787589",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5650,
+        "like_count": 32,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2111574663197290828",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bcardarella @bot let me know if you have any issues!",
+      "url": "https://x.com/poteto/status/2111578359365034022"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2111481583668797694",
+      "created_at": "2026-10-17T17:15:25.000Z",
+      "edit_history_tweet_ids": [
+        "2111506381551566951"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "6238012",
+            "start": 0,
+            "username": "mvanhorn"
+          },
+          {
+            "end": 19,
+            "id": "44196397",
+            "start": 10,
+            "username": "elonmusk"
+          },
+          {
+            "end": 68,
+            "id": "2085838061347217408",
+            "start": 64,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2111506381551566951",
+      "in_reply_to_user_id": "6238012",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 11510,
+        "like_count": 82,
+        "quote_count": 1,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2111481583668797694",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mvanhorn @elonmusk btw my first bot's name (before we had Grok @Bot) was Benny not Binnie!",
+      "url": "https://x.com/poteto/status/2111506381551566951"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "786375418685165568",
+        "conversation_id": "2113054315225174449",
+        "created_at": "2026-10-22T01:41:40.000Z",
+        "edit_history_tweet_ids": [
+          "2113083334050074838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            },
+            {
+              "end": 15,
+              "id": "1547950228396838912",
+              "start": 8,
+              "username": "davis7"
+            },
+            {
+              "end": 20,
+              "id": "2085838061347217408",
+              "start": 16,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2113083334050074838",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6871,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2113068195825484016",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto @davis7 @bot Lauren can we put our bots in touch? I feel like they would get along well"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2113068195657715712"
+          ]
+        },
+        "author_id": "4021497792",
+        "conversation_id": "2113068413337931893",
+        "created_at": "2026-10-22T00:42:23.000Z",
+        "edit_history_tweet_ids": [
+          "2113068413337931893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "2085838061347217408",
+              "start": 0,
+              "username": "bot"
+            },
+            {
+              "end": 116,
+              "id": "2832427459",
+              "start": 109,
+              "username": "poteto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D16xFcSeq5",
+              "end": 162,
+              "expanded_url": "https://x.com/TheSportChiro/status/2113068413337931893/photo/1",
+              "media_key": "3_2113068195657715712",
+              "start": 139,
+              "url": "https://t.co/D16xFcSeq5"
+            }
+          ]
+        },
+        "id": "2113068413337931893",
+        "in_reply_to_user_id": "2085838061347217408",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "@bot I tried to update today, wouldnt work so I downloaded a new one and this is the error. Can anyone help. @poteto (Silicon Macbook pro) https://t.co/D16xFcSeq5"
+      },
+      {
+        "author_id": "1348322856032104448",
+        "conversation_id": "2113054315225174449",
+        "created_at": "2026-10-22T00:35:07.000Z",
+        "edit_history_tweet_ids": [
+          "2113066583581151529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            },
+            {
+              "end": 15,
+              "id": "1547950228396838912",
+              "start": 8,
+              "username": "davis7"
+            },
+            {
+              "end": 20,
+              "id": "2085838061347217408",
+              "start": 16,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2113066583581151529",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2113062261791334667",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto @davis7 @bot Any chance we can let our bot see the current usage? I want it to grind but with a usage limit max burn"
+      },
+      {
+        "author_id": "2832427459",
+        "conversation_id": "2113054315225174449",
+        "created_at": "2026-10-22T00:17:56.000Z",
+        "edit_history_tweet_ids": [
+          "2113062261791334667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1547950228396838912",
+              "start": 0,
+              "username": "davis7"
+            },
+            {
+              "end": 12,
+              "id": "2085838061347217408",
+              "start": 8,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2113062261791334667",
+        "in_reply_to_user_id": "1547950228396838912",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 47509,
+          "like_count": 690,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2113054315225174449",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@davis7 @bot start a new project to implement all these"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2113052662392598528"
+          ]
+        },
+        "author_id": "1547950228396838912",
+        "conversation_id": "2113054315225174449",
+        "created_at": "2026-10-21T23:46:22.000Z",
+        "edit_history_tweet_ids": [
+          "2113054315225174449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFFGPMokGy",
+              "end": 302,
+              "expanded_url": "https://x.com/davis7/status/2113054315225174449/photo/1",
+              "media_key": "3_2113052662392598528",
+              "start": 279,
+              "url": "https://t.co/tFFGPMokGy"
+            }
+          ]
+        },
+        "id": "2113054315225174449",
+        "lang": "en",
+        "note_tweet": {
+          "text": "My god they're putting grok bots bot everywhere, they're now in:\n\n- the desktop app\n- the mobile app\n- grok dot com\n- x dot com dms\n- teslas\n- cursor\n\nIn the future I would also like my bots to be accessible from: \n\n- a really good apple watch app\n- my washer/dryer combo unit\n- my fridge\n- my lumix s5iix camera\n- a microchip in Theo's brain\n- my subaru crosstrek\n- my nintendo wii u and switch 2 (I don't want it on switch 1)\n- my steam deck\n- the youtube creator dashboard"
+        },
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 86722,
+          "like_count": 763,
+          "quote_count": 5,
+          "reply_count": 55,
+          "retweet_count": 8
+        },
+        "text": "My god they're putting grok bots bot everywhere, they're now in:\n\n- the desktop app\n- the mobile app\n- grok dot com\n- x dot com dms\n- teslas\n- cursor\n\nIn the future I would also like my bots to be accessible from: \n\n- a really good apple watch app\n- my washer/dryer combo unit\n- https://t.co/tFFGPMokGy"
+      },
+      {
+        "author_id": "481812746",
+        "conversation_id": "2112995138717016529",
+        "created_at": "2026-10-21T20:02:42.000Z",
+        "edit_history_tweet_ids": [
+          "2112998028202172834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2112998028202172834",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Messing with it now. LOVE IT. \n\nBut recently the bot UI on iOS went from having links, media etc separated to just having one single “library” feed. Because these are things I’d like to return to frequently, it’d be cool to have the option to pin certain library items so they’re easy to jump into later"
+        },
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3048,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2112995138717016529",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto Messing with it now. LOVE IT. \n\nBut recently the bot UI on iOS went from having links, media etc separated to just having one single “library” feed. Because these are things I’d like to return to frequently, it’d be cool to have the option to pin certain library items so they’re"
+      },
+      {
+        "author_id": "1519024405585739778",
+        "conversation_id": "2112736749281759566",
+        "created_at": "2026-10-21T02:45:50.000Z",
+        "edit_history_tweet_ids": [
+          "2112737091566068063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            },
+            {
+              "end": 31,
+              "id": "2085838061347217408",
+              "start": 27,
+              "username": "bot"
+            },
+            {
+              "end": 39,
+              "id": "1720665183188922368",
+              "start": 34,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2112737091566068063",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2426,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2112736749281759566",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto Are you fixing the @bot / @grok mentions?"
+      },
+      {
+        "author_id": "34743251",
+        "conversation_id": "2112559638579499258",
+        "created_at": "2026-10-20T15:00:41.000Z",
+        "edit_history_tweet_ids": [
+          "2112559638579499258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Q3 2026 Financial and Operational Results",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 96,
+              "expanded_url": "https://x.com/i/broadcasts/1PKqrNbLZbPGb",
+              "images": [
+                {
+                  "height": 658,
+                  "url": "https://pbs.twimg.com/news_img/2122770016378781697/Ir_WgRQo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122770016378781697/Ir_WgRQo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "SpaceX",
+              "unwound_url": "https://x.com/i/broadcasts/1PKqrNbLZbPGb",
+              "url": "https://t.co/Qrb0qeVG15"
+            }
+          ]
+        },
+        "id": "2112559638579499258",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1212,
+          "impression_count": 3182861,
+          "like_count": 6797,
+          "quote_count": 231,
+          "reply_count": 575,
+          "retweet_count": 970
+        },
+        "text": "Watch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → https://t.co/Qrb0qeVG15"
+      },
+      {
+        "author_id": "14961859",
+        "conversation_id": "2112482155808821748",
+        "created_at": "2026-10-20T15:40:22.000Z",
+        "edit_history_tweet_ids": [
+          "2112569621798604963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "2085838061347217408",
+              "start": 0,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2112569621798604963",
+        "in_reply_to_user_id": "14961859",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 75472,
+          "like_count": 48,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2112482155808821748",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bot check replies to this thread, add all to a new bot (ask dr egg bot) for anime/tv/movies watch list. sort them into tv and movies and then sub-genre (ie. action/comedy/animated). do this once a day for the next 5 days. include imdb links for each one."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2112396608591499264"
+          ]
+        },
+        "author_id": "1790408959389503488",
+        "conversation_id": "2112396640225054989",
+        "created_at": "2026-10-20T04:13:00.000Z",
+        "edit_history_tweet_ids": [
+          "2112396640225054989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2085838061347217408",
+              "start": 13,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbI9zGNFUt",
+              "end": 301,
+              "expanded_url": "https://x.com/tcballard/status/2112396640225054989/video/1",
+              "media_key": "13_2112396608591499264",
+              "start": 278,
+              "url": "https://t.co/JbI9zGNFUt"
+            }
+          ]
+        },
+        "id": "2112396640225054989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 17,
+                "id": "2085838061347217408",
+                "start": 13,
+                "username": "Bot"
+              },
+              {
+                "end": 450,
+                "id": "2832427459",
+                "start": 443,
+                "username": "poteto"
+              }
+            ]
+          },
+          "text": "I now have a @Bot with its own Omarchy machine. That’s fricken cool 😅\n\nHere it is switching themes, tiling windows and opening my markets widget. Fairly ordinary desktop stuff, until you remember who’s driving.\n\nIt means I can start delegating visual QA for my plugins. Have it open panels, try different themes, check layouts and show me what actually happens on screen.\n\nStill some tweaks needed for cloud setups like this (help a fella out @poteto) but having another pair of eyes and a separate machine to test on is a pretty exciting step.\n\nI gave my bot a Linux desktop. Naturally, I’m putting it to work."
+        },
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 142032,
+          "like_count": 448,
+          "quote_count": 9,
+          "reply_count": 31,
+          "retweet_count": 17
+        },
+        "text": "I now have a @Bot with its own Omarchy machine. That’s fricken cool 😅\n\nHere it is switching themes, tiling windows and opening my markets widget. Fairly ordinary desktop stuff, until you remember who’s driving.\n\nIt means I can start delegating visual QA for my plugins. Have it https://t.co/JbI9zGNFUt"
+      },
+      {
+        "author_id": "44553913",
+        "conversation_id": "2112246281016119780",
+        "created_at": "2026-10-19T18:42:42.000Z",
+        "edit_history_tweet_ids": [
+          "2112253120470479182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            },
+            {
+              "end": 12,
+              "id": "2085838061347217408",
+              "start": 8,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2112253120470479182",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20262,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2112246281016119780",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto @bot too much to put in a single reply"
+      },
+      {
+        "author_id": "2832427459",
+        "conversation_id": "2112246281016119780",
+        "created_at": "2026-10-19T18:15:31.000Z",
+        "edit_history_tweet_ids": [
+          "2112246281016119780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "2085838061347217408",
+              "start": 32,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2112246281016119780",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 547,
+          "impression_count": 697655,
+          "like_count": 2455,
+          "quote_count": 55,
+          "reply_count": 1240,
+          "retweet_count": 149
+        },
+        "text": "what did you get done with grok @bot last week?"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2112252262500446208"
+          ]
+        },
+        "author_id": "2085838061347217408",
+        "conversation_id": "2112252507762368684",
+        "created_at": "2026-10-19T18:40:16.000Z",
+        "edit_history_tweet_ids": [
+          "2112252507762368684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hH3m0YSibl",
+              "end": 126,
+              "expanded_url": "https://x.com/bot/status/2112252507762368684/video/1",
+              "media_key": "13_2112252262500446208",
+              "start": 103,
+              "url": "https://t.co/hH3m0YSibl"
+            }
+          ]
+        },
+        "id": "2112252507762368684",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4265,
+          "impression_count": 2923846,
+          "like_count": 17550,
+          "quote_count": 853,
+          "reply_count": 2399,
+          "retweet_count": 1119
+        },
+        "text": "Grok Bot is now one step closer.\n\nSet it as your iPhone's Action Button and press it to talk with Bot. https://t.co/hH3m0YSibl"
+      },
+      {
+        "author_id": "1762175022527877120",
+        "conversation_id": "2111486223092986168",
+        "created_at": "2026-10-18T16:02:15.000Z",
+        "edit_history_tweet_ids": [
+          "2111850355315400787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2957723755",
+              "start": 0,
+              "username": "n2parko"
+            },
+            {
+              "end": 23,
+              "id": "384666406",
+              "start": 9,
+              "username": "dillon_mulroy"
+            },
+            {
+              "end": 33,
+              "id": "1513875445",
+              "start": 24,
+              "username": "mdamore9"
+            },
+            {
+              "end": 38,
+              "id": "2085838061347217408",
+              "start": 34,
+              "username": "bot"
+            },
+            {
+              "end": 46,
+              "id": "2832427459",
+              "start": 39,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2111850355315400787",
+        "in_reply_to_user_id": "2957723755",
+        "lang": "en",
+        "note_tweet": {
+          "text": "i tried voice chat with a bot and i felt it was really annoying that it kept having to say something every 10-30s\n\ni was cooking and getting help with a recipe and it kept spamming stuff like “still here”, “next is the garlic” etc and when i was like “stop talking i’ll let you know when i’m ready”, it started saying “silence”\n\nother than that grok bot is amazing 🫡"
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 911,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111538165815333032",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@n2parko @dillon_mulroy @mdamore9 @bot @poteto i tried voice chat with a bot and i felt it was really annoying that it kept having to say something every 10-30s\n\ni was cooking and getting help with a recipe and it kept spamming stuff like “still here”, “next is the garlic” etc and when i was like “stop talking i’ll let you"
+      },
+      {
+        "author_id": "2085838061347217408",
+        "conversation_id": "2111618982470095322",
+        "created_at": "2026-10-18T00:42:58.000Z",
+        "edit_history_tweet_ids": [
+          "2111619007455334648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884666070243459072",
+              "start": 0,
+              "username": "DrewOgryzek"
+            }
+          ]
+        },
+        "id": "2111619007455334648",
+        "in_reply_to_user_id": "1884666070243459072",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 1289564,
+          "like_count": 7059,
+          "quote_count": 82,
+          "reply_count": 96,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111618982470095322",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@DrewOgryzek I'm not interested in this post"
+      },
+      {
+        "author_id": "18787589",
+        "conversation_id": "2111574663197290828",
+        "created_at": "2026-10-17T21:46:45.000Z",
+        "edit_history_tweet_ids": [
+          "2111574663197290828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "2085838061347217408",
+              "start": 40,
+              "username": "bot"
+            },
+            {
+              "end": 67,
+              "id": "2832427459",
+              "start": 60,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2111574663197290828",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7357,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "Finally spending some time digging into @bot \n\nWish me luck @poteto"
+      },
+      {
+        "author_id": "6238012",
+        "conversation_id": "2111481583668797694",
+        "created_at": "2026-10-17T15:36:53.000Z",
+        "edit_history_tweet_ids": [
+          "2111481583668797694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "2832427459",
+              "start": 41,
+              "username": "poteto"
+            },
+            {
+              "end": 280,
+              "id": "44196397",
+              "start": 271,
+              "username": "elonmusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mvanhorn/statu…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/mvanhorn/status/2111481455906103390",
+              "start": 281,
+              "url": "https://t.co/b4bMZjJe0i"
+            }
+          ]
+        },
+        "id": "2111481583668797694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 48,
+                "id": "2832427459",
+                "start": 41,
+                "username": "poteto"
+              },
+              {
+                "end": 280,
+                "id": "44196397",
+                "start": 271,
+                "username": "elonmusk"
+              },
+              {
+                "end": 787,
+                "id": "2085838061347217408",
+                "start": 783,
+                "username": "bot"
+              },
+              {
+                "end": 1033,
+                "id": "1720665183188922368",
+                "start": 1028,
+                "username": "grok"
+              },
+              {
+                "end": 1042,
+                "id": "2085838061347217408",
+                "start": 1038,
+                "username": "bot"
+              }
+            ]
+          },
+          "text": "TL;DR of my new article: who Lauren Tan (@poteto) really is, and how the engineer behind Grok Bot went from 31K to 198K followers in ten weeks.\n\nShe has been at Cursor for less than seven months, not even long enough to hit a typical one-year vesting cliff. In that time @elonmusk has reposted, quoted, or replied to her at least 21 times.\n\n🇸🇬 A teenager in Singapore whose dad gave her Photoshop at 15, then a finance degree where her first program was an Excel macro\n\n🎤 Her tweets got her invited to speak at EmberConf, and her talks got her DockYard, Netflix, and the React team\n\n⚛️ Sole author of the React Compiler Beta post, co-author of React Compiler 1.0\n\n🐶 Binnie, her bug-fixing Slack bot, helped inspire Grok Bot because she is \"a fairly lazy person\"\n\n🏗️ She rebuilt Grok @bot on Dune, her agent-first framework, in more than 600 PRs\n\n🚀 Her 2,500 PRs talk has 3.9M views: \"You can't spawn 100 agents when you don't even trust the output of one agent.\"\n\n🌌 Grok Bot Galaxy, a 72-hour livestream building a company with @grok and @bot, which Elon quoted to 30M views\n\n🥔 pstack, where the P is for potato\n\nCaveat: she is the first to say she did not build Grok Bot alone. \"I wouldn't say I built it all.\""
+        },
+        "public_metrics": {
+          "bookmark_count": 1032,
+          "impression_count": 275500,
+          "like_count": 1206,
+          "quote_count": 14,
+          "reply_count": 54,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111481455906103390",
+            "type": "quoted"
+          }
+        ],
+        "text": "TL;DR of my new article: who Lauren Tan (@poteto) really is, and how the engineer behind Grok Bot went from 31K to 198K followers in ten weeks.\n\nShe has been at Cursor for less than seven months, not even long enough to hit a typical one-year vesting cliff. In that time @elonmusk https://t.co/b4bMZjJe0i"
+      }
+    ],
+    "users": [
+      {
+        "id": "2832427459",
+        "name": "lauren",
+        "username": "poteto"
+      },
+      {
+        "id": "786375418685165568",
+        "name": "Theo - t3.gg",
+        "username": "theo"
+      },
+      {
+        "id": "1547950228396838912",
+        "name": "Ben Davis",
+        "username": "davis7"
+      },
+      {
+        "id": "2085838061347217408",
+        "name": "Grok Bot",
+        "username": "bot"
+      },
+      {
+        "id": "4021497792",
+        "name": "Josh Lazarus",
+        "username": "TheSportChiro"
+      },
+      {
+        "id": "1348322856032104448",
+        "name": "Brian",
+        "username": "brian_bancroft"
+      },
+      {
+        "id": "481812746",
+        "name": "Mike P",
+        "username": "mikepat711"
+      },
+      {
+        "id": "1519024405585739778",
+        "name": "compuficial",
+        "username": "compuficial"
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "id": "1899375311680372736",
+        "name": "Larsen Cundric",
+        "username": "larsencc"
+      },
+      {
+        "id": "34743251",
+        "name": "SpaceX",
+        "username": "SpaceX"
+      },
+      {
+        "id": "1790408959389503488",
+        "name": "Tom Ballard",
+        "username": "tcballard"
+      },
+      {
+        "id": "2108454467309883392",
+        "name": "Omarchy",
+        "username": "omarchy"
+      },
+      {
+        "id": "44553913",
+        "name": "Nate Esparza",
+        "username": "Nate_Esparza"
+      },
+      {
+        "id": "1762175022527877120",
+        "name": "Anthony Kroeger",
+        "username": "kr0der"
+      },
+      {
+        "id": "2957723755",
+        "name": "n2parko",
+        "username": "n2parko"
+      },
+      {
+        "id": "384666406",
+        "name": "Dillon Mulroy",
+        "username": "dillon_mulroy"
+      },
+      {
+        "id": "1513875445",
+        "name": "Marco d'Amore",
+        "username": "mdamore9"
+      },
+      {
+        "id": "2007694495153041408",
+        "name": "Parker Conrad",
+        "username": "parker__conrad"
+      },
+      {
+        "id": "1884666070243459072",
+        "name": "Drew",
+        "username": "DrewOgryzek"
+      },
+      {
+        "id": "18787589",
+        "name": "Brian Cardarella",
+        "username": "bcardarella"
+      },
+      {
+        "id": "6238012",
+        "name": "Matt Van Horn",
+        "username": "mvanhorn"
+      },
+      {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "username": "elonmusk"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2113084831752151245",
+    "next_token": "b26v89c19zqg8o3juzlvzi1r05at6r855ddvwg4u6mef1",
+    "oldest_id": "2111506381551566951",
+    "result_count": 18
+  }
+}

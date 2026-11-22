@@ -1,0 +1,1490 @@
+{
+  "data": [
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2124430192521469992",
+      "created_at": "2026-11-22T09:10:02.000Z",
+      "edit_history_tweet_ids": [
+        "2124430192521469992"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2832427459",
+            "start": 3,
+            "username": "poteto"
+          },
+          {
+            "end": 58,
+            "id": "2085838061347217408",
+            "start": 54,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "description": "11,000 pull requests in one month, with a revert rate around 0.5%. ...",
+            "display_url": "youtu.be/O_zcc6Xl12g",
+            "end": 135,
+            "expanded_url": "https://youtu.be/O_zcc6Xl12g",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2124201679625330689/w0kgs6jl?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124201679625330689/w0kgs6jl?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 112,
+            "status": 200,
+            "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI",
+            "unwound_url": "https://www.youtube.com/watch?v=O_zcc6Xl12g&feature=youtu.be",
+            "url": "https://t.co/Fel7tlxqSL"
+          }
+        ]
+      },
+      "id": "2124430192521469992",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 965
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121673563489140863",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @poteto: my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://t.co/Fel7tlxqSL",
+      "url": "https://x.com/poteto/status/2124430192521469992"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2123907614551810372",
+      "created_at": "2026-11-20T22:33:30.000Z",
+      "edit_history_tweet_ids": [
+        "2123907614551810372"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/status/21238…",
+            "end": 87,
+            "expanded_url": "https://twitter.com/i/status/2123890949029818800",
+            "start": 64,
+            "url": "https://t.co/L43rG0Xs7m"
+          }
+        ]
+      },
+      "id": "2123907614551810372",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 306,
+        "impression_count": 161552,
+        "like_count": 4300,
+        "quote_count": 45,
+        "reply_count": 204,
+        "retweet_count": 160
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123890949029818800",
+          "type": "quoted"
+        }
+      ],
+      "text": "imagine orchestrating all of your grok bots with just your mind https://t.co/L43rG0Xs7m",
+      "url": "https://x.com/poteto/status/2123907614551810372"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2123851577891176702",
+      "created_at": "2026-11-20T18:50:50.000Z",
+      "edit_history_tweet_ids": [
+        "2123851577891176702"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1518984544421965824",
+            "start": 3,
+            "username": "mattyp"
+          },
+          {
+            "end": 72,
+            "id": "2085838061347217408",
+            "start": 68,
+            "username": "bot"
+          },
+          {
+            "end": 112,
+            "id": "1106616565573844992",
+            "start": 102,
+            "username": "Tailscale"
+          }
+        ]
+      },
+      "id": "2123851577891176702",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3549,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 197
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123849095865585754",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @mattyp: Grok Bot can do cool stuff on your home network:\n\n- Use @bot to optimize your wi-fi\n- Use @Tailscale in Grok Bot to access your…",
+      "url": "https://x.com/poteto/status/2123851577891176702"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2123840558800289816",
+      "created_at": "2026-11-20T18:07:02.000Z",
+      "edit_history_tweet_ids": [
+        "2123840558800289816"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "2085838061347217408",
+            "start": 3,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2123840558800289816",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3209,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 191
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123840024747946383",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @bot: Grok Bot now connects to Intuit QuickBooks.\n\nAsk about your cash flow, profit, or who still owes you, and have Grok Bot draft invo…",
+      "url": "https://x.com/poteto/status/2123840558800289816"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2123824683862855898",
+      "created_at": "2026-11-20T17:03:58.000Z",
+      "edit_history_tweet_ids": [
+        "2123824683862855898"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "if you want to go fast, go deep first. pstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence.",
+            "display_url": "x.ai/bot/plugin/971…",
+            "end": 275,
+            "expanded_url": "https://x.ai/bot/plugin/9717366",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2123356480329924608/N13FaKg4?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2123356480329924608/N13FaKg4?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 252,
+            "status": 200,
+            "title": "pstack for Grok Bot",
+            "unwound_url": "https://x.ai/bot/plugin/9717366",
+            "url": "https://t.co/lOpojdZtT2"
+          }
+        ]
+      },
+      "id": "2123824683862855898",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1410,
+        "impression_count": 430169,
+        "like_count": 3913,
+        "quote_count": 38,
+        "reply_count": 243,
+        "retweet_count": 236
+      },
+      "text": "small updates in pstack v0.15.46\n\n• lots of pruning, skills are now much shorter\n• gemini 4 neon is added as a panel reviewer \n\nit's autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again\n\nhttps://t.co/lOpojdZtT2",
+      "url": "https://x.com/poteto/status/2123824683862855898"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2123264880757121024"
+        ],
+        "media_source_tweet_id": [
+          "2123264933844656472"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2123607429346984217",
+      "created_at": "2026-11-20T02:40:40.000Z",
+      "edit_history_tweet_ids": [
+        "2123607429346984217"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "2096819916175212548",
+            "start": 3,
+            "username": "alexmichael"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/1UOsa0UcJA",
+            "end": 97,
+            "expanded_url": "https://x.com/alexmichael/status/2123264933844656472/video/1",
+            "media_key": "13_2123264880757121024",
+            "start": 74,
+            "url": "https://t.co/1UOsa0UcJA"
+          }
+        ]
+      },
+      "id": "2123607429346984217",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4198,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 44
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123264933844656472",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @alexmichael: Me playing GTA 6 while Grok Bot runs the rest of my life https://t.co/1UOsa0UcJA",
+      "url": "https://x.com/poteto/status/2123607429346984217"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2123288606760468830",
+      "created_at": "2026-11-19T05:33:47.000Z",
+      "edit_history_tweet_ids": [
+        "2123288606760468830"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 19,
+            "id": "505835394",
+            "start": 3,
+            "username": "ericzakariasson"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Community bots and apps for Grok Bot. Find a bot for every job, and apps that give it new tools and skills.",
+            "display_url": "grok-bot.directory",
+            "end": 44,
+            "expanded_url": "https://grok-bot.directory",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2123102652385165312/DdHgnFmS?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2123102652385165312/DdHgnFmS?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 21,
+            "status": 200,
+            "title": "Grok Bot Directory",
+            "unwound_url": "https://grok-bot.directory",
+            "url": "https://t.co/K2jVNGbB5d"
+          }
+        ]
+      },
+      "id": "2123288606760468830",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4079,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 191
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123102642704675241",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ericzakariasson: https://t.co/K2jVNGbB5d is live!\n\nthe community directory for grok bot: browse and install bots &amp; apps people have bui…",
+      "url": "https://x.com/poteto/status/2123288606760468830"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2123181834192486708",
+      "created_at": "2026-11-18T22:29:30.000Z",
+      "edit_history_tweet_ids": [
+        "2123181834192486708"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "44196397",
+            "start": 3,
+            "username": "elonmusk"
+          },
+          {
+            "end": 29,
+            "id": "2085838061347217408",
+            "start": 25,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2123181834192486708",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2641,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1063
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123161902683746640",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @elonmusk: Treat Grok @Bot like a really smart employee",
+      "url": "https://x.com/poteto/status/2123181834192486708"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122921811239157760",
+        "entities": {
+          "urls": [
+            {
+              "text": "https://x.ai/bot/rJW52lmFLtCvy2tSHcIag"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122923508481081344",
+          "3_2122923874048208896",
+          "3_2122924062435409920"
+        ],
+        "plain_text": "Automation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more ambitious goals.\nA way of thinking\nAutomation is really just a way of thinking that anyone can learn. It's about thinking systematically and logically, breaking things down into small steps while keeping a goal in mind. \nThere are 2 parts to it: a goal, and a process.\nAn everyday example of this is baking an apple pie (the goal). You follow a recipe or process which has clearly laid out steps - buying and preparing the right ingredients, assembling the pie and decorating it, baking it, letting it cool, and so on. Or if you're replacing a flat tire (also a goal), you might need to find a way to jack the car up so you can reach the tire, find the tools to remove and replace it with a new one, and then put everything back together again.\nSimply put, the goal is what you want at the end, and the process is how you get there.\n \nAutomation is the same thing: a goal and a process, but with the addition of something like a machine, like the ones a bakery might use to bake lots of apple pies. Or code, what software engineers used to write by hand to automate stuff that could be done by a computer. It's about breaking things down into steps towards a goal, then automating the process so you don't have to personally do it every time.\nGrok Bot is automation for everyone\nJust a year or two ago, automation was limited to those with the technical know-how of how to build or put together machines or write code. With Grok Bot, automating anything that can be done with a computer is now in reach even for people who aren't technical or software engineers! And the really surprising thing is just how much computers can do, even on tasks that you might not think a bot is capable of doing. \nYou don’t need to know how to write code to start automating tasks with Grok Bot. You can describe what you want in plain English, then work with your bot to figure out the steps. Bots can write code for you, and use its own computer to do pretty much anything that you can do on your own computer or smartphone. \nIf you're not technical, I want you to suspend your disbelief for a moment. Bots really can do anything that you can do on a computer. It can move its own mouse around and click on things, install or connect to apps and software that you use everyday, browse the internet on its own browser, join meetings and take notes for you, and so much more. \nAnd because so much of our work and life these days relies on technology, it means that more and more work can be done by a bot instead, freeing you up to focus on other things.\nStart with the goal\nTo make this concrete, let's build a new bot together that will automate something for you. Go to Grok Bot, then make a new bot and give it any name you like. If you're struggling to find a name, just call it Potato and ask it to name itself later.\nBefore we start chatting with the bot: when I think about automation, I always start with thinking about the goal. What are we trying to do here? \nOne mistake I often see is that people confuse the process for the goal. For example, you may already have a well-defined process at work for the tasks that you do. But the goal is not to fill up a form, or to send an email. That's just a step in the process. \nInstead, think about the goal at the end: what is this process for, and where does it fit into the business? Does it help increase revenue (eg processing a sale, building new features), or does it reduce costs (eg ordering just the right amount of inventory)? If you're not sure, chat with your manager or colleagues, or even ask Bot to help you figure it out!\nClarifying what the goal is the best place to start because it focuses you and Grok Bot on the end result. You may actually find that bots can figure out how to make the process more efficient too, so it's important not to be too attached to a specific process, since it's a means to an end after all.\nOnce you're figured out the goal, start by describing it to the new bot, then ask it to pick a name for itself if you'd rather not call it Potato. \n\"Hi Potato, this is the goal I want you to be responsible for: <goal>. Pick out a name and picture for yourself based on it.\"\nHere are some starter goal ideas you can tell your bot:\nSave money towards buying a new car, house, college fund for my kids\nSchedule new customer bookings for my small business\nImprove my customer experience for my small business so they leave me good reviews\nHire new employee for my small business\nGather feedback for my product so I can make improvements to it\nPrepare slides for a weekly meeting\nBuild new features for my product\nIf you're not quite sure how to describe your goal, ask Potato to help you! Tell it:\n\"Hi Potato, I'd like you to be responsible for a goal, but I'm not sure how to best describe it. Can you ask me some questions and interview me until we have a goal that I'm happy with?\"\nThe process\nOnce you've told it your goal, think about how you would achieve this goal if you were doing it, then ask the bot to see where it can make things more efficient. If you'd rather it do a task exactly following your process, you can tell it that too.\nThe best way to give bot this information is to use voice dictation in Grok Bot and speak for a while, brain dump everything it needs to know to do the job, and don't worry about the stream of consciousness or organizing your thoughts first. Tell it:\nThe steps you usually take\nThe things you watch out for and pay attention to\nThe apps and tools you use to do it\nHow you check that the work was done right\nWhere you get the information you need to do it (eg email, Slack/Teams, a ticket, an app or website)\nWhere you get feedback on how it went (eg customer feedback/review, feedback from colleagues)\n\"Potato, this is how I usually do this goal myself: <process>\n\nI want you to think about how you can take this over completely from me. Before you begin, restate what you think my goal and process is in simple English so I can give you feedback and confirm it. I don't want you to start executing on this yet, let's focus on getting the process planned first.\"\n \nDon't worry about getting it right on the first pass. Review what the bot says and then correct it by giving it more information. Once you've done this a few times, you should have something you're happy with. You can then tell bot to proceed, and to start connecting to the apps and tools it needs to do the job correctly.\nIf you're feeling ambitious, you can even ask it to review the process against the goal and see if it can think of a better or more efficient way to do it.\n\"Review our process against my original goal, and if you see a way to make it better or more efficient, let me know.\"\nTeach your bot how you think\nOne thing that's easy to forget when explaining a process is how much you do without really thinking about it. If you're booking customers, you probably know which services take longer, who can do each job, and when to leave extra time between appointments. These decisions might feel obvious to you, but your bot needs that context too. Think about what you're paying attention to when you do the task yourself, and what makes you do something differently.\nTell it where you get that information and how you check that the work is done right. For example, if an email and your booking system show different appointment times, which should it trust? A booking also isn't finished just because an email was sent. The appointment needs to be saved correctly and the customer needs a confirmation. If you're still waiting for details, have the bot keep track of that so it can pick things back up later without accidentally creating another booking.\nDon't worry about explaining every possible situation upfront. Start with a few real examples, including ones where something went wrong or you had to do something differently. Ask the bot how it would handle them, then give it feedback. You can also ask it to help you figure out what you've forgotten to explain!\n“Potato, help me figure out what I haven't told you about this process yet. Ask me questions about how I make decisions, where I get my information, how I check the work, and when you should ask me for help. Ask one question at a time, then walk me through a few examples so I can give you feedback before we automate this.”\nLet your bots improve themselves\nOnce your bot is performing the workflow, it's important to give it feedback so it can improve. The best way to do it is to equip your bot with the apps and tools it needs to get that feedback for itself. The way I approach this is to think about what I would do if it was me doing the task and I wanted to self improve.\nFor example, if your bot is managing new customer bookings for you, a way to let it improve itself is by letting it monitor your emails, social media, or Google/Yelp reviews for customer feedback. It can look out for that feedback and then take the initiative to propose improvements to your process. \nMaybe a customer says on Yelp that they had to wait very long before someone could attend to them. If your bot can look up this information on Yelp for itself, and also look up any records you have for the customer that day, it could see what might have gone wrong. \n \nIn that sense, the more computerized your business is, the better for bots and automation. The availability of that data is what gives your bot the ability to come up with better improvements. And the best part is that Grok Bot can build tools for you to get this data! For example, if you're operating a car repair service, you could ask bot to build you an app that you can use on your computer and phone to log details about a customer visit. \nIf you log the time of: \nwhen they got to your shop\nwhen they were able to speak to a service rep\nwhen you took possession of their keys\nwhen service started and finished\nYou could work out how long they spent waiting and better diagnose why. This is just a simple example, but the key lesson here is that the more data you have available to Grok Bot, the better it can help you and your business and work. \nBots can also cross reference data across multiple sources if you have something like an ID - some kind of number or unique text like an email address that gives that data an identity. This could be a customer ID or email address, an order number, a part number, a barcode, an employee ID, and so on. If you use multiple apps and services, having unique and consistent IDs across all these tools will help you bring that data together so bot can fully understand what's going on. \nMaking bots do work automatically\nThe next thing is, when should the bot do the work?  Should it start when an email arrives, when someone sends a message, or on a regular schedule? In Grok Bot, you set this up with routines.\nWithout a routine, bots will only do the work when you ask them to. This is fine when you're first starting out with using bot, but if you want to streamline things, you'll want to figure out how to get the bot to do it automatically, so you're no longer the bottleneck.\nUsually, the work happens with some kind of trigger like an email or Slack/Teams message. Or maybe it happens on a regular schedule, like once a week or every other day. Either way, if you ask your bot to set it up, it will! \nInstall Dr Eggbot\nI taught everything I know about automating work to Dr Eggbot, so if you want to start automating your work more, install it and ask it to help you! Dr Eggbot is a bot designer - it will create high quality bots for you.\n \nThanks for reading!",
+        "preview_text": "Automation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more",
+        "title": "Automate Anything with Grok Bot"
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2123159537016533493",
+      "created_at": "2026-11-18T21:00:54.000Z",
+      "edit_history_tweet_ids": [
+        "2123159537016533493"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 259,
+            "expanded_url": "https://x.com/i/article/2122921713864171520",
+            "start": 236,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122921713864171520",
+            "url": "https://t.co/FwJ4AwuHeU"
+          }
+        ]
+      },
+      "id": "2123159537016533493",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 32012,
+        "impression_count": 2926800,
+        "like_count": 17476,
+        "quote_count": 581,
+        "reply_count": 1232,
+        "retweet_count": 1897
+      },
+      "text": "I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot! https://t.co/FwJ4AwuHeU",
+      "url": "https://x.com/poteto/status/2123159537016533493"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2123133226281500882",
+      "created_at": "2026-11-18T19:16:21.000Z",
+      "edit_history_tweet_ids": [
+        "2123133226281500882"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "2085838061347217408",
+            "start": 3,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2123133226281500882",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3154,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 372
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123121401762918718",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @bot: Plan your next trip with Grok Bot.\n\nBot can now book flights, hotels, and rental cars, finding you the best deal anywhere you go.…",
+      "url": "https://x.com/poteto/status/2123133226281500882"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122755939912572928"
+        ],
+        "media_source_tweet_id": [
+          "2122755945683890566"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2122785061619843538",
+      "created_at": "2026-11-17T20:12:52.000Z",
+      "edit_history_tweet_ids": [
+        "2122785061619843538"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1604863807574212611",
+            "start": 3,
+            "username": "techdevnotes"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/F2YyCHfGKo",
+            "end": 90,
+            "expanded_url": "https://x.com/techdevnotes/status/2122755945683890566/photo/1",
+            "media_key": "3_2122755939912572928",
+            "start": 67,
+            "url": "https://t.co/F2YyCHfGKo"
+          }
+        ]
+      },
+      "id": "2122785061619843538",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3973,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 50
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122755945683890566",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @techdevnotes: Grok Bot now has Google Search Console connector https://t.co/F2YyCHfGKo",
+      "url": "https://x.com/poteto/status/2122785061619843538"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2122772436009791861",
+      "created_at": "2026-11-17T19:46:04.000Z",
+      "edit_history_tweet_ids": [
+        "2122778315232813561"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1413148902279155730",
+            "start": 0,
+            "username": "zachlloydtweets"
+          },
+          {
+            "end": 26,
+            "id": "2085838061347217408",
+            "start": 22,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2122778315232813561",
+      "in_reply_to_user_id": "1413148902279155730",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 14711,
+        "like_count": 275,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122772436009791861",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@zachlloydtweets grok @bot",
+      "url": "https://x.com/poteto/status/2122778315232813561"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2122774297840398639",
+      "created_at": "2026-11-17T19:30:06.000Z",
+      "edit_history_tweet_ids": [
+        "2122774297840398639"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2085838061347217408",
+            "start": 5,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/christianreber…",
+            "end": 301,
+            "expanded_url": "https://twitter.com/christianreber/status/2122637866329366530",
+            "start": 278,
+            "url": "https://t.co/LSZx2kt3k6"
+          }
+        ]
+      },
+      "id": "2122774297840398639",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2085838061347217408",
+              "start": 5,
+              "username": "bot"
+            }
+          ]
+        },
+        "text": "grok @bot is both a great teammate and also a personal assistant! the more context you give it through connectors, the more powerful and capable it becomes\n\ntry giving bot your most ambitious tasks. ask it to help you save money, help you find new customers/clients, and handle your workflows from end to end. you will find that bot will pay for itself many times over\n\nthe best way to do this is to use voice dictation and just talk for 10 minutes telling it everything it needs to know about your workflows. walk bot through it like you would if you hired someone, and you’re onboarding them\n\njust before you send the message, ask it to restate it back to you in its own words to confirm it got what you said right. \n\nif there are specific tools/apps you use, mention that in your monologue, and bot will ask to connect to them. you can also ask bot to save its own skills so it can repeat your workflows exactly how you like it!"
+      },
+      "public_metrics": {
+        "bookmark_count": 639,
+        "impression_count": 128597,
+        "like_count": 1757,
+        "quote_count": 17,
+        "reply_count": 147,
+        "retweet_count": 78
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122637866329366530",
+          "type": "quoted"
+        }
+      ],
+      "text": "grok @bot is both a great teammate and also a personal assistant! the more context you give it through connectors, the more powerful and capable it becomes\n\ntry giving bot your most ambitious tasks. ask it to help you save money, help you find new customers/clients, and handle https://t.co/LSZx2kt3k6",
+      "url": "https://x.com/poteto/status/2122774297840398639"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2122368339326783543",
+      "created_at": "2026-11-16T16:36:58.000Z",
+      "edit_history_tweet_ids": [
+        "2122368339326783543"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1518984544421965824",
+            "start": 3,
+            "username": "mattyp"
+          }
+        ]
+      },
+      "id": "2122368339326783543",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3645,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 286
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122343944889483583",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @mattyp: What's new in Grok Bot 1.0 🚀\n\n00:45 Team Bot improvements\n01:47 Bots join your meetings\n03:26 Bots take initiative\n04:10 Bots l…",
+      "url": "https://x.com/poteto/status/2122368339326783543"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2122016027651547485",
+      "created_at": "2026-11-16T01:14:43.000Z",
+      "edit_history_tweet_ids": [
+        "2122136248160747914"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1518984544421965824",
+            "start": 0,
+            "username": "mattyp"
+          },
+          {
+            "end": 13,
+            "id": "1720665183188922368",
+            "start": 8,
+            "username": "grok"
+          },
+          {
+            "end": 24,
+            "id": "1695890961094909952",
+            "start": 14,
+            "username": "cursor_ai"
+          },
+          {
+            "end": 38,
+            "id": "164081884",
+            "start": 25,
+            "username": "UnrealEngine"
+          }
+        ]
+      },
+      "id": "2122136248160747914",
+      "in_reply_to_user_id": "1518984544421965824",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 7016,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122016027651547485",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattyp @grok @cursor_ai @UnrealEngine sad i missed this!",
+      "url": "https://x.com/poteto/status/2122136248160747914"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2122047817242071107",
+      "created_at": "2026-11-15T19:23:20.000Z",
+      "edit_history_tweet_ids": [
+        "2122047817242071107"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "1376308155626360837",
+            "start": 3,
+            "username": "aiDotEngineer"
+          },
+          {
+            "end": 89,
+            "id": "2832427459",
+            "start": 82,
+            "username": "poteto"
+          },
+          {
+            "end": 139,
+            "id": "1661523610111193088",
+            "start": 130,
+            "username": "spacexai"
+          }
+        ]
+      },
+      "id": "2122047817242071107",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4025,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 65
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121981562824564960",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @aiDotEngineer: 11,000 pull requests in one month.\nA revert rate around 0.5%.\n\n@poteto on the Grok Bot team's shipping pace at @spacexai…",
+      "url": "https://x.com/poteto/status/2122047817242071107"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "13_2123264880757121024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123264880757121024/img/MXJZT8735qQufXYq.jpg",
+        "type": "video"
+      },
+      {
+        "media_key": "3_2122755939912572928",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXWLR89W4AAsOPc.jpg"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "2832427459",
+        "conversation_id": "2121673563489140863",
+        "created_at": "2026-11-14T18:36:10.000Z",
+        "edit_history_tweet_ids": [
+          "2121673563489140863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "2085838061347217408",
+              "start": 42,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "description": "11,000 pull requests in one month, with a revert rate around 0.5%. ...",
+              "display_url": "youtu.be/O_zcc6Xl12g",
+              "end": 123,
+              "expanded_url": "https://youtu.be/O_zcc6Xl12g",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2124201679625330689/w0kgs6jl?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2124201679625330689/w0kgs6jl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI",
+              "unwound_url": "https://www.youtube.com/watch?v=O_zcc6Xl12g&feature=youtu.be",
+              "url": "https://t.co/Fel7tlxqSL"
+            }
+          ]
+        },
+        "id": "2121673563489140863",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8968,
+          "impression_count": 2975448,
+          "like_count": 10388,
+          "quote_count": 295,
+          "reply_count": 453,
+          "retweet_count": 965
+        },
+        "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://t.co/Fel7tlxqSL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123890210454777856"
+          ]
+        },
+        "author_id": "895332160130891776",
+        "conversation_id": "2123890949029818800",
+        "created_at": "2026-11-20T21:27:16.000Z",
+        "edit_history_tweet_ids": [
+          "2123890949029818800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViFjXK9OSV",
+              "end": 55,
+              "expanded_url": "https://x.com/neuralink/status/2123890949029818800/video/1",
+              "media_key": "13_2123890210454777856",
+              "start": 32,
+              "url": "https://t.co/ViFjXK9OSV"
+            }
+          ]
+        },
+        "id": "2123890949029818800",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 6610,
+          "impression_count": 8431021,
+          "like_count": 42726,
+          "quote_count": 1579,
+          "reply_count": 1064,
+          "retweet_count": 4845
+        },
+        "text": "Playing GTA VI with a Neuralink https://t.co/ViFjXK9OSV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123849055415803904"
+          ]
+        },
+        "author_id": "1518984544421965824",
+        "conversation_id": "2123849095865585754",
+        "created_at": "2026-11-20T18:40:58.000Z",
+        "edit_history_tweet_ids": [
+          "2123849095865585754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "2085838061347217408",
+              "start": 56,
+              "username": "bot"
+            },
+            {
+              "end": 100,
+              "id": "1106616565573844992",
+              "start": 90,
+              "username": "Tailscale"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGil8siz9l",
+              "end": 164,
+              "expanded_url": "https://x.com/mattyp/status/2123849095865585754/video/1",
+              "media_key": "13_2123849055415803904",
+              "start": 141,
+              "url": "https://t.co/OGil8siz9l"
+            },
+            {
+              "display_url": "x.com/15189845444219…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/1518984544421965824/status/2121439659179848108",
+              "start": 165,
+              "url": "https://t.co/dzPvW2yY87"
+            }
+          ]
+        },
+        "id": "2123849095865585754",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1879,
+          "impression_count": 444963,
+          "like_count": 2503,
+          "quote_count": 20,
+          "reply_count": 222,
+          "retweet_count": 197
+        },
+        "referenced_tweets": [
+          {
+            "id": "2121439659179848108",
+            "type": "quoted"
+          }
+        ],
+        "text": "Grok Bot can do cool stuff on your home network:\n\n- Use @bot to optimize your wi-fi\n- Use @Tailscale in Grok Bot to access your media server https://t.co/OGil8siz9l https://t.co/dzPvW2yY87"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123839854849269760"
+          ]
+        },
+        "author_id": "2085838061347217408",
+        "conversation_id": "2123840024747946383",
+        "created_at": "2026-11-20T18:04:55.000Z",
+        "edit_history_tweet_ids": [
+          "2123840024747946383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r95UUnf5bk",
+              "end": 212,
+              "expanded_url": "https://x.com/bot/status/2123840024747946383/photo/1",
+              "media_key": "3_2123839854849269760",
+              "start": 189,
+              "url": "https://t.co/r95UUnf5bk"
+            }
+          ]
+        },
+        "id": "2123840024747946383",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 872,
+          "impression_count": 225933,
+          "like_count": 3389,
+          "quote_count": 114,
+          "reply_count": 350,
+          "retweet_count": 191
+        },
+        "text": "Grok Bot now connects to Intuit QuickBooks.\n\nAsk about your cash flow, profit, or who still owes you, and have Grok Bot draft invoices, estimates, and payment reminders for you to approve. https://t.co/r95UUnf5bk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123264880757121024"
+          ]
+        },
+        "author_id": "2096819916175212548",
+        "conversation_id": "2123264933844656472",
+        "created_at": "2026-11-19T03:59:43.000Z",
+        "edit_history_tweet_ids": [
+          "2123264933844656472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UOsa0UcJA",
+              "end": 80,
+              "expanded_url": "https://x.com/alexmichael/status/2123264933844656472/video/1",
+              "media_key": "13_2123264880757121024",
+              "start": 57,
+              "url": "https://t.co/1UOsa0UcJA"
+            }
+          ]
+        },
+        "id": "2123264933844656472",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 34146,
+          "like_count": 478,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 44
+        },
+        "text": "Me playing GTA 6 while Grok Bot runs the rest of my life https://t.co/1UOsa0UcJA"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123102605375393792"
+          ]
+        },
+        "author_id": "505835394",
+        "conversation_id": "2123102642704675241",
+        "created_at": "2026-11-18T17:14:50.000Z",
+        "edit_history_tweet_ids": [
+          "2123102642704675241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Community bots and apps for Grok Bot. Find a bot for every job, and apps that give it new tools and skills.",
+              "display_url": "grok-bot.directory",
+              "end": 23,
+              "expanded_url": "https://grok-bot.directory",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2123102652385165312/DdHgnFmS?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2123102652385165312/DdHgnFmS?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Grok Bot Directory",
+              "unwound_url": "https://grok-bot.directory",
+              "url": "https://t.co/K2jVNGbB5d"
+            },
+            {
+              "display_url": "pic.x.com/g5uCliQUXa",
+              "end": 207,
+              "expanded_url": "https://x.com/ericzakariasson/status/2123102642704675241/video/1",
+              "media_key": "13_2123102605375393792",
+              "start": 184,
+              "url": "https://t.co/g5uCliQUXa"
+            }
+          ]
+        },
+        "id": "2123102642704675241",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2428,
+          "impression_count": 662569,
+          "like_count": 2228,
+          "quote_count": 88,
+          "reply_count": 223,
+          "retweet_count": 191
+        },
+        "text": "https://t.co/K2jVNGbB5d is live!\n\nthe community directory for grok bot: browse and install bots &amp; apps people have built, or publish your own\n\nlet me know which your favorites are https://t.co/g5uCliQUXa"
+      },
+      {
+        "author_id": "44196397",
+        "conversation_id": "2123161902683746640",
+        "created_at": "2026-11-18T21:10:18.000Z",
+        "edit_history_tweet_ids": [
+          "2123161902683746640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2085838061347217408",
+              "start": 11,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/poteto/status/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/poteto/status/2123159537016533493",
+              "start": 45,
+              "url": "https://t.co/vxR4Hsx7Tv"
+            }
+          ]
+        },
+        "id": "2123161902683746640",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4494,
+          "impression_count": 1827598,
+          "like_count": 9610,
+          "quote_count": 141,
+          "reply_count": 1040,
+          "retweet_count": 1063
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123159537016533493",
+            "type": "quoted"
+          }
+        ],
+        "text": "Treat Grok @Bot like a really smart employee https://t.co/vxR4Hsx7Tv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123120877680365568"
+          ]
+        },
+        "author_id": "2085838061347217408",
+        "conversation_id": "2123121401762918718",
+        "created_at": "2026-11-18T18:29:22.000Z",
+        "edit_history_tweet_ids": [
+          "2123121401762918718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8A9WUYIJ7",
+              "end": 153,
+              "expanded_url": "https://x.com/bot/status/2123121401762918718/video/1",
+              "media_key": "13_2123120877680365568",
+              "start": 130,
+              "url": "https://t.co/O8A9WUYIJ7"
+            }
+          ]
+        },
+        "id": "2123121401762918718",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 768,
+          "impression_count": 577163,
+          "like_count": 3720,
+          "quote_count": 147,
+          "reply_count": 511,
+          "retweet_count": 372
+        },
+        "text": "Plan your next trip with Grok Bot.\n\nBot can now book flights, hotels, and rental cars, finding you the best deal anywhere you go. https://t.co/O8A9WUYIJ7"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122755939912572928"
+          ]
+        },
+        "author_id": "1604863807574212611",
+        "conversation_id": "2122755945683890566",
+        "created_at": "2026-11-17T18:17:11.000Z",
+        "edit_history_tweet_ids": [
+          "2122755945683890566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2YyCHfGKo",
+              "end": 72,
+              "expanded_url": "https://x.com/techdevnotes/status/2122755945683890566/photo/1",
+              "media_key": "3_2122755939912572928",
+              "start": 49,
+              "url": "https://t.co/F2YyCHfGKo"
+            }
+          ]
+        },
+        "id": "2122755945683890566",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 534,
+          "impression_count": 98069,
+          "like_count": 1351,
+          "quote_count": 22,
+          "reply_count": 83,
+          "retweet_count": 50
+        },
+        "text": "Grok Bot now has Google Search Console connector https://t.co/F2YyCHfGKo"
+      },
+      {
+        "author_id": "1413148902279155730",
+        "conversation_id": "2122772436009791861",
+        "created_at": "2026-11-17T19:22:42.000Z",
+        "edit_history_tweet_ids": [
+          "2122772436009791861"
+        ],
+        "id": "2122772436009791861",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 33696,
+          "like_count": 103,
+          "quote_count": 6,
+          "reply_count": 66,
+          "retweet_count": 1
+        },
+        "text": "what's a great piece of software that's been built from the ground up with agents?"
+      },
+      {
+        "author_id": "11418222",
+        "conversation_id": "2122637866329366530",
+        "created_at": "2026-11-17T10:27:58.000Z",
+        "edit_history_tweet_ids": [
+          "2122637866329366530"
+        ],
+        "id": "2122637866329366530",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 127212,
+          "like_count": 306,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 11
+        },
+        "text": "Grok Bot took me from inbox zero to life zero. Everything is handled."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2121988507195572224"
+          ]
+        },
+        "author_id": "1518984544421965824",
+        "conversation_id": "2122343944889483583",
+        "created_at": "2026-11-16T15:00:02.000Z",
+        "edit_history_tweet_ids": [
+          "2122343944889483583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQCLjzgJ5A",
+              "end": 245,
+              "expanded_url": "https://x.com/mattyp/status/2122343944889483583/video/1",
+              "media_key": "13_2121988507195572224",
+              "start": 222,
+              "url": "https://t.co/bQCLjzgJ5A"
+            }
+          ]
+        },
+        "id": "2122343944889483583",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1549,
+          "impression_count": 5609368,
+          "like_count": 3800,
+          "quote_count": 94,
+          "reply_count": 399,
+          "retweet_count": 286
+        },
+        "text": "What's new in Grok Bot 1.0 🚀\n\n00:45 Team Bot improvements\n01:47 Bots join your meetings\n03:26 Bots take initiative\n04:10 Bots learn and improve\n05:19 Bots are smarter and faster\n\nLots of easter eggs in this one for y'all! https://t.co/bQCLjzgJ5A"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122016024723963904"
+          ]
+        },
+        "author_id": "1518984544421965824",
+        "conversation_id": "2122016027651547485",
+        "created_at": "2026-11-15T17:17:00.000Z",
+        "edit_history_tweet_ids": [
+          "2122016027651547485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "1720665183188922368",
+              "start": 45,
+              "username": "Grok"
+            },
+            {
+              "end": 62,
+              "id": "1695890961094909952",
+              "start": 52,
+              "username": "cursor_ai"
+            },
+            {
+              "end": 81,
+              "id": "164081884",
+              "start": 68,
+              "username": "UnrealEngine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZDB5RcBJC",
+              "end": 300,
+              "expanded_url": "https://x.com/mattyp/status/2122016027651547485/photo/1",
+              "media_key": "3_2122016024723963904",
+              "start": 277,
+              "url": "https://t.co/dZDB5RcBJC"
+            }
+          ]
+        },
+        "id": "2122016027651547485",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 50,
+                "id": "1720665183188922368",
+                "start": 45,
+                "username": "Grok"
+              },
+              {
+                "end": 62,
+                "id": "1695890961094909952",
+                "start": 52,
+                "username": "cursor_ai"
+              },
+              {
+                "end": 81,
+                "id": "164081884",
+                "start": 68,
+                "username": "UnrealEngine"
+              }
+            ]
+          },
+          "text": "Amazing to see 2,500+ builders creating with @Grok, @cursor_ai, and @UnrealEngine at the Epic Games MegaJam!\n\nOne of my favorite anecdotes: using cursor projects + self-hosted runners with beefy dev machines for cloud-orchestrated AI workflows!\n\nAdd in Grok Bot and you have a light weight orchestrator… I may need to make a video about this!\n\nCan’t wait to see what gets shipped"
+        },
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 37475,
+          "like_count": 738,
+          "quote_count": 5,
+          "reply_count": 80,
+          "retweet_count": 37
+        },
+        "text": "Amazing to see 2,500+ builders creating with @Grok, @cursor_ai, and @UnrealEngine at the Epic Games MegaJam!\n\nOne of my favorite anecdotes: using cursor projects + self-hosted runners with beefy dev machines for cloud-orchestrated AI workflows!\n\nAdd in Grok Bot and you have a https://t.co/dZDB5RcBJC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2121655228139188224"
+          ]
+        },
+        "author_id": "1376308155626360837",
+        "conversation_id": "2121981562824564960",
+        "created_at": "2026-11-15T15:00:03.000Z",
+        "edit_history_tweet_ids": [
+          "2121981562824564960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 70,
+              "id": "2832427459",
+              "start": 63,
+              "username": "poteto"
+            },
+            {
+              "end": 120,
+              "id": "1661523610111193088",
+              "start": 111,
+              "username": "spacexai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1frMmMvAS",
+              "end": 246,
+              "expanded_url": "https://x.com/aiDotEngineer/status/2121981562824564960/video/1",
+              "media_key": "13_2121655228139188224",
+              "start": 223,
+              "url": "https://t.co/k1frMmMvAS"
+            }
+          ]
+        },
+        "id": "2121981562824564960",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 389,
+          "impression_count": 67912,
+          "like_count": 795,
+          "quote_count": 27,
+          "reply_count": 34,
+          "retweet_count": 65
+        },
+        "text": "11,000 pull requests in one month.\nA revert rate around 0.5%.\n\n@poteto on the Grok Bot team's shipping pace at @spacexai. More contributors, daily stable releases, and an app that got faster.\n\nFrom AI Engineer Code Summit. https://t.co/k1frMmMvAS"
+      }
+    ],
+    "users": [
+      {
+        "description": "grok @bot at @SpaceXSI. react compiler core team, prev cursor, meta, netflix",
+        "id": "2832427459",
+        "name": "lauren",
+        "username": "poteto"
+      },
+      {
+        "description": "AI teammates that you can give real work to.",
+        "id": "2085838061347217408",
+        "name": "Grok Bot",
+        "username": "bot"
+      },
+      {
+        "description": "cursor & @bot at @spacexsi",
+        "id": "1518984544421965824",
+        "name": "matt palmer",
+        "username": "mattyp"
+      },
+      {
+        "description": "Simple, secure networks for teams of any scale. Built on WireGuard.",
+        "id": "1106616565573844992",
+        "name": "Tailscale",
+        "username": "Tailscale"
+      },
+      {
+        "description": "I post interesting things from the internet\nworking on @slopranks\n\ntry grok bot free\nhttps://t.co/2NUs9TMIKv",
+        "id": "2096819916175212548",
+        "name": "Alex",
+        "username": "alexmichael"
+      },
+      {
+        "description": "tinkering @spacexsi, prev @cursor_ai",
+        "id": "505835394",
+        "name": "eric zakariasson",
+        "username": "ericzakariasson"
+      },
+      {
+        "description": "https://t.co/ZdBx5WABYx",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "username": "elonmusk"
+      },
+      {
+        "description": "Notes on tech",
+        "id": "1604863807574212611",
+        "name": "Tech Dev Notes",
+        "username": "techdevnotes"
+      },
+      {
+        "description": "Trying to build impactful software.  Founder @warpdotdev, former Principal eng @Google.",
+        "id": "1413148902279155730",
+        "name": "Zach Lloyd",
+        "username": "zachlloydtweets"
+      },
+      {
+        "description": "@grok it",
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "description": "Coding agent for building ambitious software",
+        "id": "1695890961094909952",
+        "name": "Cursor",
+        "username": "cursor_ai"
+      },
+      {
+        "description": "We make the engine. You make it Unreal.",
+        "id": "164081884",
+        "name": "Unreal Engine",
+        "username": "UnrealEngine"
+      },
+      {
+        "description": "We run the highest signal technical conferences in the industry and publish it all for free online for over 2 million AI Engineers a month",
+        "id": "1376308155626360837",
+        "name": "AI.Engineer",
+        "username": "aiDotEngineer"
+      },
+      {
+        "description": "",
+        "id": "1661523610111193088",
+        "name": "SpaceX Super Intelligence",
+        "username": "SpaceXSI"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2124430192521469992",
+    "next_token": "b26v89c19zqg8o3juzow692gg0if944kwhxel2p9hf0ql",
+    "oldest_id": "2122047817242071107",
+    "result_count": 16
+  }
+}

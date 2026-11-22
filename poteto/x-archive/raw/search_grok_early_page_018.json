@@ -1,0 +1,1950 @@
+{
+  "data": [
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-26T17:31:35.000Z",
+      "edit_history_tweet_ids": [
+        "2092666279102710024"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "2085838061347217408",
+            "start": 9,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "end": 58,
+            "start": 35,
+            "url": "https://t.co/XYJGd8zVto"
+          }
+        ]
+      },
+      "id": "2092666279102710024",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 53758,
+        "like_count": 595,
+        "quote_count": 5,
+        "reply_count": 80,
+        "retweet_count": 20
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092664183334846840",
+          "type": "quoted"
+        }
+      ],
+      "text": "try grok @bot! and enjoy the reset https://t.co/XYJGd8zVto",
+      "url": "https://x.com/poteto/status/2092666279102710024"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-26T16:25:04.000Z",
+      "edit_history_tweet_ids": [
+        "2092649539757044178"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "362538679",
+            "start": 0,
+            "username": "davidtsolheim"
+          },
+          {
+            "end": 20,
+            "id": "1720665183188922368",
+            "start": 15,
+            "username": "grok"
+          },
+          {
+            "end": 25,
+            "id": "2085838061347217408",
+            "start": 21,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092649539757044178",
+      "in_reply_to_user_id": "362538679",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 305,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092575897618653384",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@davidtsolheim @grok @bot stay tuned",
+      "url": "https://x.com/poteto/status/2092649539757044178"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-26T16:24:47.000Z",
+      "edit_history_tweet_ids": [
+        "2092649466667073888"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1764350643219656704",
+            "start": 0,
+            "username": "mayorxbt"
+          },
+          {
+            "end": 15,
+            "id": "1720665183188922368",
+            "start": 10,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2092649466667073888",
+      "in_reply_to_user_id": "1764350643219656704",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 9176,
+        "like_count": 121,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092648045338870210",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mayorxbt @grok is this true",
+      "url": "https://x.com/poteto/status/2092649466667073888"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-26T08:28:16.000Z",
+      "edit_history_tweet_ids": [
+        "2092529548831383636"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "34654359",
+            "start": 0,
+            "username": "abhinavguptas"
+          },
+          {
+            "end": 25,
+            "id": "81775512",
+            "start": 15,
+            "username": "tibor_tee"
+          },
+          {
+            "end": 33,
+            "id": "2897605543",
+            "start": 26,
+            "username": "ASMGKR"
+          },
+          {
+            "end": 42,
+            "id": "133438008",
+            "start": 34,
+            "username": "joshkim"
+          },
+          {
+            "end": 48,
+            "id": "1720665183188922368",
+            "start": 43,
+            "username": "grok"
+          },
+          {
+            "end": 53,
+            "id": "2074186776130859008",
+            "start": 49,
+            "username": "xai"
+          },
+          {
+            "end": 58,
+            "id": "2085838061347217408",
+            "start": 54,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092529548831383636",
+      "in_reply_to_user_id": "34654359",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 468,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092504185182790115",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@abhinavguptas @tibor_tee @ASMGKR @joshkim @grok @xai @bot did you download the correct build? if you're on an apple silicon mac you need arm64 not x64",
+      "url": "https://x.com/poteto/status/2092529548831383636"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-26T07:22:06.000Z",
+      "edit_history_tweet_ids": [
+        "2092512896408592713"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1593667131249418240",
+            "start": 0,
+            "username": "bigp34ch"
+          },
+          {
+            "end": 24,
+            "id": "1574209048425242624",
+            "start": 10,
+            "username": "TheCyberverse"
+          }
+        ]
+      },
+      "id": "2092512896408592713",
+      "in_reply_to_user_id": "1593667131249418240",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 1866,
+        "like_count": 17,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092509680274985066",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bigp34ch @TheCyberverse i still look at the code! i review what my agents land, and also what other engineers on my team are merging and i try to be observant about where the code smells are. then i either refactor the code to eliminate the problem entirely or i add lints to prevent it from happening.",
+      "url": "https://x.com/poteto/status/2092512896408592713"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-26T05:51:04.000Z",
+      "edit_history_tweet_ids": [
+        "2092489988365812060"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1871763689541713920",
+            "start": 0,
+            "username": "AuK1tyoo"
+          }
+        ]
+      },
+      "id": "2092489988365812060",
+      "in_reply_to_user_id": "1871763689541713920",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 378,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092487987112399269",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AuK1tyoo try updating your bot's computer: grokbot://app/v1/settings?id=update-computer",
+      "url": "https://x.com/poteto/status/2092489988365812060"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-26T03:32:34.000Z",
+      "edit_history_tweet_ids": [
+        "2092455132638449779"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "91144157",
+            "start": 0,
+            "username": "millepun"
+          }
+        ]
+      },
+      "id": "2092455132638449779",
+      "in_reply_to_user_id": "2832427459",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1177,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092441183943557426",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@millepun looks like this is because your client is ahead of your bot's computer, can you update it here? grokbot://app/v1/settings?id=update-computer",
+      "url": "https://x.com/poteto/status/2092455132638449779"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T23:50:15.000Z",
+      "edit_history_tweet_ids": [
+        "2092399187199692860"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "217946435",
+            "start": 0,
+            "username": "LGD950003"
+          },
+          {
+            "end": 16,
+            "id": "1720665183188922368",
+            "start": 11,
+            "username": "grok"
+          },
+          {
+            "end": 30,
+            "id": "1586038021660545029",
+            "start": 17,
+            "username": "danielmriley"
+          },
+          {
+            "end": 35,
+            "id": "2085838061347217408",
+            "start": 31,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092399187199692860",
+      "in_reply_to_user_id": "217946435",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 251,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092397775056953401",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LGD950003 @grok @danielmriley @bot working on it",
+      "url": "https://x.com/poteto/status/2092399187199692860"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T23:20:29.000Z",
+      "edit_history_tweet_ids": [
+        "2092391693454802968"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "389681470",
+            "start": 3,
+            "username": "kentcdodds"
+          },
+          {
+            "end": 58,
+            "id": "2085838061347217408",
+            "start": 54,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092391693454802968",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 430,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092390980549005799",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @kentcdodds: Ask your Grok Bot to add Kody and now @bot can access your personal software ecosystem across all your agent sessions. http…",
+      "url": "https://x.com/poteto/status/2092391693454802968"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2092385864559243264"
+        ]
+      },
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T23:15:26.000Z",
+      "edit_history_tweet_ids": [
+        "2092390422555582769"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "10667972",
+            "start": 3,
+            "username": "RhysSullivan"
+          }
+        ]
+      },
+      "id": "2092390422555582769",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 431,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092386249466323088",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @RhysSullivan: Executor now has a Grok Bot plugin!\n\nJust ask your bot to add Executor and you're good to go https://t.co/FsfUUc7gGJ",
+      "url": "https://x.com/poteto/status/2092390422555582769"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T23:13:07.000Z",
+      "edit_history_tweet_ids": [
+        "2092389842810441921"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "170887088",
+            "start": 3,
+            "username": "dannymacias"
+          },
+          {
+            "end": 26,
+            "id": "2085838061347217408",
+            "start": 22,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092389842810441921",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 434,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092389182798987775",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @dannymacias: Grok @bot negotiated a new car lease for my partner. Got her the 2nd highest discount in the US (based on available data).…",
+      "url": "https://x.com/poteto/status/2092389842810441921"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T23:04:34.000Z",
+      "edit_history_tweet_ids": [
+        "2092387688783757625"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "7958322",
+            "start": 3,
+            "username": "lennysan"
+          },
+          {
+            "end": 53,
+            "id": "1661523610111193088",
+            "start": 44,
+            "username": "spacexai"
+          }
+        ]
+      },
+      "id": "2092387688783757625",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 413,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 179
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092386630397255796",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @lennysan: BREAKING: I'm partnering with @spacexai to give all Lenny's Newsletter annual subscribers a free month of Grok Bot 💥 (include…",
+      "url": "https://x.com/poteto/status/2092387688783757625"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T23:04:17.000Z",
+      "edit_history_tweet_ids": [
+        "2092387618864681115"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1747028802591494144",
+            "start": 0,
+            "username": "LouieMota88"
+          },
+          {
+            "end": 18,
+            "id": "1720665183188922368",
+            "start": 13,
+            "username": "grok"
+          },
+          {
+            "end": 23,
+            "id": "2085838061347217408",
+            "start": 19,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092387618864681115",
+      "in_reply_to_user_id": "1747028802591494144",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 677,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092383810784555162",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LouieMota88 @grok @bot we have seen this! stay tuned",
+      "url": "https://x.com/poteto/status/2092387618864681115"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T22:10:08.000Z",
+      "edit_history_tweet_ids": [
+        "2092373991076098277"
+      ],
+      "id": "2092373991076098277",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 478,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092357445964222865",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @dallastsladavid: 2 hours into grok bot and it’s already saved me 13K see story below.\n\nMy finance bot “Warren” (like buffet) just found…",
+      "url": "https://x.com/poteto/status/2092373991076098277"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T20:28:55.000Z",
+      "edit_history_tweet_ids": [
+        "2092348518262600059"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "21211490",
+            "start": 3,
+            "username": "DannyLimanseta"
+          }
+        ]
+      },
+      "id": "2092348518262600059",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 466,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092272526781284387",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @DannyLimanseta: Grok bot has been an increasingly big part of my daily work and life routines now. \n\nHaving a Chief of Staff really cha…",
+      "url": "https://x.com/poteto/status/2092348518262600059"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T18:41:34.000Z",
+      "edit_history_tweet_ids": [
+        "2092321501831958581"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1747028802591494144",
+            "start": 0,
+            "username": "LouieMota88"
+          }
+        ]
+      },
+      "id": "2092321501831958581",
+      "in_reply_to_user_id": "1747028802591494144",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 731,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092320336247156752",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LouieMota88 👀 u could also just use grok bot",
+      "url": "https://x.com/poteto/status/2092321501831958581"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2092319395288920064"
+        ]
+      },
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T18:33:54.000Z",
+      "edit_history_tweet_ids": [
+        "2092319573836202485"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "2085838061347217408",
+            "start": 0,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092319573836202485",
+      "in_reply_to_user_id": "2832427459",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 32235,
+        "like_count": 40,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092317628635418739",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bot to share a link to a plugin, hover over the title and copy the link! \n\nyou can also hover over settings and share them, for example to change your language: grokbot://app/v1/settings?id=language https://t.co/lWuW5oAT28",
+      "url": "https://x.com/poteto/status/2092319573836202485"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T18:26:10.000Z",
+      "edit_history_tweet_ids": [
+        "2092317628635418739"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 36,
+            "id": "2085838061347217408",
+            "start": 32,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092317628635418739",
+      "public_metrics": {
+        "bookmark_count": 287,
+        "impression_count": 78628,
+        "like_count": 564,
+        "quote_count": 6,
+        "reply_count": 58,
+        "retweet_count": 19
+      },
+      "text": "just shipped deeplinks for Grok @Bot on desktop (mobile coming soon)! \n\ntry installing the X plugin: grokbot://app/v1/plugin/add?id=49086599 \n\nand pstack of course: grokbot://app/v1/plugin/add?id=9717366",
+      "url": "https://x.com/poteto/status/2092317628635418739"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T18:23:26.000Z",
+      "edit_history_tweet_ids": [
+        "2092316940538949956"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "7344112",
+            "start": 0,
+            "username": "orange_boy"
+          },
+          {
+            "end": 16,
+            "id": "2085838061347217408",
+            "start": 12,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092316940538949956",
+      "in_reply_to_user_id": "7344112",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 1736,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092303501409857610",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@orange_boy @bot try this grokbot://app/v1/plugin/add?id=9717366",
+      "url": "https://x.com/poteto/status/2092316940538949956"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T16:34:49.000Z",
+      "edit_history_tweet_ids": [
+        "2092289604481405307"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1518984544421965824",
+            "start": 3,
+            "username": "mattyp"
+          },
+          {
+            "end": 61,
+            "id": "2085838061347217408",
+            "start": 57,
+            "username": "Bot"
+          }
+        ]
+      },
+      "id": "2092289604481405307",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 443,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 226
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092286281266962681",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @mattyp: Getting Started with Grok Bot\n\n01:00 What is @Bot?\n05:26 Anatomy of a bot\n08:49 3 ways to run\n12:04 Multi-bot chains\n16:06 Work…",
+      "url": "https://x.com/poteto/status/2092289604481405307"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T16:23:11.000Z",
+      "edit_history_tweet_ids": [
+        "2092286677729595469"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1953991414523842560",
+            "start": 0,
+            "username": "dqlopez"
+          }
+        ]
+      },
+      "id": "2092286677729595469",
+      "in_reply_to_user_id": "1953991414523842560",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 248,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092277951383707972",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dqlopez in cursor you can use it as a custom mode (hit opt + enter after typing /lauren-mode), in grok bot you have to still invoke it yourself",
+      "url": "https://x.com/poteto/status/2092286677729595469"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T16:15:53.000Z",
+      "edit_history_tweet_ids": [
+        "2092284842952249540"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1187025909901090817",
+            "start": 0,
+            "username": "ccccjjjjeeee"
+          }
+        ]
+      },
+      "id": "2092284842952249540",
+      "in_reply_to_user_id": "1187025909901090817",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 1861,
+        "like_count": 31,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092281143236382924",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ccccjjjjeeee haha yeah it uses a lot of tokens, which is why an efficient model like Grok 4.6 non fast is key!",
+      "url": "https://x.com/poteto/status/2092284842952249540"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T15:47:26.000Z",
+      "edit_history_tweet_ids": [
+        "2092277682050634138"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "81712767",
+            "start": 3,
+            "username": "leerob"
+          }
+        ]
+      },
+      "id": "2092277682050634138",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 351,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 324
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092276970226671789",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @leerob: We just increased the included usage of Grok models in Cursor!\n\nDemand has been increasing with the launch of Grok 4.6. We alre…",
+      "url": "https://x.com/poteto/status/2092277682050634138"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-25T00:56:24.000Z",
+      "edit_history_tweet_ids": [
+        "2092053443880116502"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1885077883582111747",
+            "start": 3,
+            "username": "kristaletz"
+          },
+          {
+            "end": 118,
+            "id": "2085838061347217408",
+            "start": 114,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2092053443880116502",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 420,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 173
+      },
+      "referenced_tweets": [
+        {
+          "id": "2091573453409472513",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @kristaletz: Hi friends! Going to walk through Grok Bot for GTM this week, come join and we can chat about our @bot teams: https://t.co/…",
+      "url": "https://x.com/poteto/status/2092053443880116502"
+    },
+    {
+      "author_id": "2832427459",
+      "created_at": "2026-08-24T23:25:13.000Z",
+      "edit_history_tweet_ids": [
+        "2092030497535021552"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "94002419",
+            "start": 3,
+            "username": "sunrao"
+          },
+          {
+            "end": 97,
+            "id": "64844802",
+            "start": 92,
+            "username": "a16z"
+          },
+          {
+            "end": 126,
+            "id": "2832427459",
+            "start": 119,
+            "username": "poteto"
+          }
+        ]
+      },
+      "id": "2092030497535021552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 410,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092030324918350046",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @sunrao: we're hosting our first-ever grok bot build night for women with our friends at @a16z 💛 \n\nyou'll hear from @poteto (!!), @clair…",
+      "url": "https://x.com/poteto/status/2092030497535021552"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2092487987112399269].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092487987112399269",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2092487987112399269"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2092385864559243264",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQml254aMAADUoY.png"
+      },
+      {
+        "media_key": "3_2092319395288920064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlpZ4jbMAAqmti.jpg"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "2085838061347217408",
+        "created_at": "2026-08-26T17:23:15.000Z",
+        "edit_history_tweet_ids": [
+          "2092664183334846840"
+        ],
+        "id": "2092664183334846840",
+        "public_metrics": {
+          "bookmark_count": 1848,
+          "impression_count": 55343959,
+          "like_count": 18207,
+          "quote_count": 814,
+          "reply_count": 1635,
+          "retweet_count": 1179
+        },
+        "text": "All SuperGrok and Cursor Pro subscribers now have access to Grok Bot.\n\nWe're also resetting weekly usage limits for all users.\n\nEnjoy!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2092575388082057216"
+          ]
+        },
+        "author_id": "362538679",
+        "created_at": "2026-08-26T11:32:26.000Z",
+        "edit_history_tweet_ids": [
+          "2092575897618653384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            },
+            {
+              "end": 23,
+              "id": "2085838061347217408",
+              "start": 19,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2092575897618653384",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 656,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "Peeps at the @grok @bot team, cough.... poteto poteto poteto... If this is true it is seriously the best. Please do make my dreams come true! Currently running several projects, and continuing to onboard more, each with their own SuperGrok Heavy sub. Would be amazing! https://t.co/vR2PsrjDnR"
+      },
+      {
+        "author_id": "1764350643219656704",
+        "created_at": "2026-08-26T16:19:08.000Z",
+        "edit_history_tweet_ids": [
+          "2092642357367673228",
+          "2092648045338870210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "2832427459",
+              "start": 44,
+              "username": "poteto"
+            }
+          ],
+          "urls": [
+            {
+              "end": 88,
+              "start": 65,
+              "url": "https://t.co/nNiEDNSel1"
+            }
+          ]
+        },
+        "id": "2092648045338870210",
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 24148,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092499533523726660",
+            "type": "quoted"
+          }
+        ],
+        "text": "legend says if you say poteto poteto poteto @poteto will spin up https://t.co/nNiEDNSel1"
+      },
+      {
+        "author_id": "34654359",
+        "created_at": "2026-08-26T06:47:29.000Z",
+        "edit_history_tweet_ids": [
+          "2092504185182790115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "81775512",
+              "start": 0,
+              "username": "tibor_tee"
+            },
+            {
+              "end": 18,
+              "id": "2897605543",
+              "start": 11,
+              "username": "ASMGKR"
+            },
+            {
+              "end": 27,
+              "id": "133438008",
+              "start": 19,
+              "username": "joshkim"
+            },
+            {
+              "end": 33,
+              "id": "1720665183188922368",
+              "start": 28,
+              "username": "grok"
+            },
+            {
+              "end": 41,
+              "id": "2832427459",
+              "start": 34,
+              "username": "poteto"
+            },
+            {
+              "end": 46,
+              "id": "2074186776130859008",
+              "start": 42,
+              "username": "xai"
+            },
+            {
+              "end": 51,
+              "id": "2085838061347217408",
+              "start": 47,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2092504185182790115",
+        "in_reply_to_user_id": "81775512",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092502544303943961",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@tibor_tee @ASMGKR @joshkim @grok @poteto @xai @bot The app itself was sluggish, im on decent macbook pro. Ill try again today and confirm. For me the 1st start was not engaging yo keep me hooked."
+      },
+      {
+        "author_id": "1593667131249418240",
+        "created_at": "2026-08-26T07:09:19.000Z",
+        "edit_history_tweet_ids": [
+          "2092509680274985066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            },
+            {
+              "end": 22,
+              "id": "1574209048425242624",
+              "start": 8,
+              "username": "TheCyberverse"
+            }
+          ]
+        },
+        "id": "2092509680274985066",
+        "in_reply_to_user_id": "2832427459",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 911,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092500605348765769",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto @TheCyberverse Watched your viral interview. How do you maintain context when you’re neither writing or reviewing code? When someone comes to my team to ask about how to do X, am I just feeding those questions to an agent and parroting the response? How do I know how to prompt/guide the agents"
+      },
+      {
+        "author_id": "2832427459",
+        "created_at": "2026-08-26T02:37:08.000Z",
+        "edit_history_tweet_ids": [
+          "2092441183943557426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "91144157",
+              "start": 0,
+              "username": "millepun"
+            }
+          ]
+        },
+        "id": "2092441183943557426",
+        "in_reply_to_user_id": "91144157",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1255,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092438825377337428",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@millepun 🫪 looking!"
+      },
+      {
+        "author_id": "217946435",
+        "created_at": "2026-08-25T23:44:39.000Z",
+        "edit_history_tweet_ids": [
+          "2092397775056953401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 19,
+              "id": "1586038021660545029",
+              "start": 6,
+              "username": "danielmriley"
+            },
+            {
+              "end": 24,
+              "id": "2085838061347217408",
+              "start": 20,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2092397775056953401",
+        "in_reply_to_user_id": "1720665183188922368",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092358499934122125",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@grok @danielmriley @bot this is super lame. i wonder if poteto poteto poteto can help shed some light and if there will be a linux version 🫣"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2092390605188132864"
+          ]
+        },
+        "author_id": "389681470",
+        "created_at": "2026-08-25T23:17:39.000Z",
+        "edit_history_tweet_ids": [
+          "2092390980549005799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "2085838061347217408",
+              "start": 38,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2092390980549005799",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10627,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "text": "Ask your Grok Bot to add Kody and now @bot can access your personal software ecosystem across all your agent sessions. https://t.co/PbUE8woRDv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2092385864559243264"
+          ]
+        },
+        "author_id": "10667972",
+        "created_at": "2026-08-25T22:58:51.000Z",
+        "edit_history_tweet_ids": [
+          "2092385892283650320",
+          "2092386249466323088"
+        ],
+        "id": "2092386249466323088",
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 20022,
+          "like_count": 193,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "text": "Executor now has a Grok Bot plugin!\n\nJust ask your bot to add Executor and you're good to go https://t.co/FsfUUc7gGJ"
+      },
+      {
+        "author_id": "170887088",
+        "created_at": "2026-08-25T23:10:30.000Z",
+        "edit_history_tweet_ids": [
+          "2092389182798987775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2085838061347217408",
+              "start": 5,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2092389182798987775",
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 41662,
+          "like_count": 287,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 19
+        },
+        "text": "Grok @bot negotiated a new car lease for my partner. Got her the 2nd highest discount in the US (based on available data). Helped negotiate a strong money factor ratio etc. Spent less than 2 hours in the dealership.\n\n$9k discount from sticker. Then found a $4k rebate. $13k saved."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2092386089407574016"
+          ]
+        },
+        "author_id": "7958322",
+        "created_at": "2026-08-25T23:00:22.000Z",
+        "edit_history_tweet_ids": [
+          "2092386630397255796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1661523610111193088",
+              "start": 30,
+              "username": "spacexai"
+            },
+            {
+              "end": 176,
+              "id": "1661523610111193088",
+              "start": 167,
+              "username": "spacexai"
+            }
+          ]
+        },
+        "id": "2092386630397255796",
+        "public_metrics": {
+          "bookmark_count": 1095,
+          "impression_count": 5224451,
+          "like_count": 2806,
+          "quote_count": 36,
+          "reply_count": 133,
+          "retweet_count": 179
+        },
+        "text": "BREAKING: I'm partnering with @spacexai to give all Lenny's Newsletter annual subscribers a free month of Grok Bot 💥 (included in Cursor Pro+)\n\nThis is the first time @spacexai has offered a deal like this to anyone, and I'm thrilled to make this amazing product accessible to https://t.co/gaDrTFlVtU"
+      },
+      {
+        "author_id": "1747028802591494144",
+        "created_at": "2026-08-25T22:49:09.000Z",
+        "edit_history_tweet_ids": [
+          "2092383810784555162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720665183188922368",
+              "start": 7,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "2085838061347217408",
+              "start": 13,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "end": 89,
+              "start": 66,
+              "url": "https://t.co/7ZYssaPAUe"
+            }
+          ]
+        },
+        "id": "2092383810784555162",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1058,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092280202122633401",
+            "type": "quoted"
+          }
+        ],
+        "text": "Please @grok @bot poteto poteto poteto help us to drive this way! https://t.co/7ZYssaPAUe"
+      },
+      {
+        "author_id": "412654009",
+        "created_at": "2026-08-25T21:04:23.000Z",
+        "edit_history_tweet_ids": [
+          "2092357445964222865"
+        ],
+        "id": "2092357445964222865",
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 405260,
+          "like_count": 325,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 12
+        },
+        "text": "2 hours into grok bot and it’s already saved me 13K see story below.\n\nMy finance bot “Warren” (like buffet) just found a medical bill that got sent to a collection agency tied to a surgery I had a year ago that I didn’t even know about. \n\nHe asked for my healthcare login, found"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2092263778004209664"
+          ]
+        },
+        "author_id": "21211490",
+        "created_at": "2026-08-25T15:26:57.000Z",
+        "edit_history_tweet_ids": [
+          "2092272526781284387"
+        ],
+        "id": "2092272526781284387",
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 20583,
+          "like_count": 282,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 9
+        },
+        "text": "Grok bot has been an increasingly big part of my daily work and life routines now. \n\nHaving a Chief of Staff really changed the game for me, I rely on it to spin up new bots and new skills for the bots really easily. I recommend you to set up a Chief of Staff bot if you haven't! https://t.co/8vPMizrSfq"
+      },
+      {
+        "author_id": "1747028802591494144",
+        "created_at": "2026-08-25T18:36:56.000Z",
+        "edit_history_tweet_ids": [
+          "2092320336247156752"
+        ],
+        "id": "2092320336247156752",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "Rigth now i'm implementing poteto poteto poteto pstack on my hermes =)\n\nLets c what we got here =)"
+      },
+      {
+        "author_id": "2832427459",
+        "created_at": "2026-08-25T18:26:10.000Z",
+        "edit_history_tweet_ids": [
+          "2092317628635418739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "2085838061347217408",
+              "start": 32,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2092317628635418739",
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 78628,
+          "like_count": 564,
+          "quote_count": 6,
+          "reply_count": 58,
+          "retweet_count": 19
+        },
+        "text": "just shipped deeplinks for Grok @Bot on desktop (mobile coming soon)! \n\ntry installing the X plugin: grokbot://app/v1/plugin/add?id=49086599 \n\nand pstack of course: grokbot://app/v1/plugin/add?id=9717366"
+      },
+      {
+        "author_id": "7344112",
+        "created_at": "2026-08-25T17:30:02.000Z",
+        "edit_history_tweet_ids": [
+          "2092303305531662478",
+          "2092303501409857610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085838061347217408",
+              "start": 8,
+              "username": "bot"
+            },
+            {
+              "end": 35,
+              "id": "2832427459",
+              "start": 28,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2092303501409857610",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1805,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "my grok @bot refuses to use @poteto pstack\nit says we already using same system \"and i will not install dozens of someones skills\". \nto times i tied and it like \"meh\" \n\ni know that im good enough to know that im not good enough to just replace pstack without realising it.\n\ndo i"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2090953710696329216"
+          ]
+        },
+        "author_id": "1518984544421965824",
+        "created_at": "2026-08-25T16:21:36.000Z",
+        "edit_history_tweet_ids": [
+          "2092286281266962681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2085838061347217408",
+              "start": 45,
+              "username": "bot"
+            },
+            {
+              "end": 157,
+              "id": "2365706162",
+              "start": 150,
+              "username": "notion"
+            },
+            {
+              "end": 234,
+              "id": "1695890961094909952",
+              "start": 224,
+              "username": "cursor_ai"
+            }
+          ]
+        },
+        "id": "2092286281266962681",
+        "public_metrics": {
+          "bookmark_count": 3716,
+          "impression_count": 1395010,
+          "like_count": 2394,
+          "quote_count": 53,
+          "reply_count": 116,
+          "retweet_count": 226
+        },
+        "text": "Getting Started with Grok Bot\n\n01:00 What is @Bot?\n05:26 Anatomy of a bot\n08:49 3 ways to run\n12:04 Multi-bot chains\n16:06 Workflow 1: X followers to @Notion\n20:29 Workflow 2: Personal software\n23:08 Workflow 3: Coding with @cursor_ai\n26:44 Workflow 4: Search\n28:27 Recap https://t.co/UUdJR9NpLn"
+      },
+      {
+        "author_id": "1953991414523842560",
+        "created_at": "2026-08-25T15:48:30.000Z",
+        "edit_history_tweet_ids": [
+          "2092274776601731128",
+          "2092277951383707972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2092277951383707972",
+        "in_reply_to_user_id": "2832427459",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "@poteto poteto poteto, question, how does /poteto-mode behave in a follow-up prompt? it should stick right? same session."
+      },
+      {
+        "author_id": "1187025909901090817",
+        "created_at": "2026-08-25T16:01:11.000Z",
+        "edit_history_tweet_ids": [
+          "2092281143236382924"
+        ],
+        "id": "2092281143236382924",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3103,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "text": "watched the poteto poteto poteto talk yesterday, now i have more psychosis than ever rigging up this factory and seeing how many PRs i can ship in a day\n\nalso just burned a whole chatgpt pro weekly allowance in a day 😅"
+      },
+      {
+        "author_id": "81712767",
+        "created_at": "2026-08-25T15:44:36.000Z",
+        "edit_history_tweet_ids": [
+          "2092276970226671789"
+        ],
+        "id": "2092276970226671789",
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 599580,
+          "like_count": 7682,
+          "quote_count": 170,
+          "reply_count": 595,
+          "retweet_count": 324
+        },
+        "text": "We just increased the included usage of Grok models in Cursor!\n\nDemand has been increasing with the launch of Grok 4.6. We already doubled limits last month with more compute. And now we're raising limits again permanently.\n\nEnjoy!"
+      },
+      {
+        "author_id": "1885077883582111747",
+        "created_at": "2026-08-23T17:09:05.000Z",
+        "edit_history_tweet_ids": [
+          "2091573287608570215",
+          "2091573453409472513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 102,
+              "id": "2085838061347217408",
+              "start": 98,
+              "username": "bot"
+            }
+          ]
+        },
+        "id": "2091573453409472513",
+        "public_metrics": {
+          "bookmark_count": 2133,
+          "impression_count": 760345,
+          "like_count": 2330,
+          "quote_count": 20,
+          "reply_count": 116,
+          "retweet_count": 173
+        },
+        "text": "Hi friends! Going to walk through Grok Bot for GTM this week, come join and we can chat about our @bot teams: https://t.co/wixBBGHcGN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2092029957816078338"
+          ]
+        },
+        "author_id": "94002419",
+        "created_at": "2026-08-24T23:24:32.000Z",
+        "edit_history_tweet_ids": [
+          "2092030324918350046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 85,
+              "id": "64844802",
+              "start": 80,
+              "username": "a16z"
+            },
+            {
+              "end": 114,
+              "id": "2832427459",
+              "start": 107,
+              "username": "poteto"
+            },
+            {
+              "end": 130,
+              "id": "15383123",
+              "start": 121,
+              "username": "clairevo"
+            },
+            {
+              "end": 152,
+              "id": "1252691385095868417",
+              "start": 137,
+              "username": "stuffyokodraws"
+            }
+          ]
+        },
+        "id": "2092030324918350046",
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 43516,
+          "like_count": 321,
+          "quote_count": 13,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "text": "we're hosting our first-ever grok bot build night for women with our friends at @a16z 💛 \n\nyou'll hear from @poteto (!!), @clairevo &amp; @stuffyokodraws with tons of hands-on build time. if you're in sf, join us! https://t.co/qNmxEPqzvj"
+      }
+    ],
+    "users": [
+      {
+        "id": "2832427459",
+        "name": "lauren",
+        "username": "poteto"
+      },
+      {
+        "id": "2085838061347217408",
+        "name": "Grok Bot",
+        "username": "bot"
+      },
+      {
+        "id": "362538679",
+        "name": "David Solheim",
+        "username": "davidtsolheim"
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "id": "1764350643219656704",
+        "name": "Mayor",
+        "username": "mayorxbt"
+      },
+      {
+        "id": "34654359",
+        "name": "Abhinav Gupta",
+        "username": "abhinavguptas"
+      },
+      {
+        "id": "81775512",
+        "name": "Tibor (Tee)",
+        "username": "tibor_tee"
+      },
+      {
+        "id": "2897605543",
+        "name": "Abhishek Simgekar 💭",
+        "username": "ASMGKR"
+      },
+      {
+        "id": "133438008",
+        "name": "Josh Kim",
+        "username": "joshkim"
+      },
+      {
+        "id": "2074186776130859008",
+        "name": "xAI",
+        "username": "xai"
+      },
+      {
+        "id": "1593667131249418240",
+        "name": "James",
+        "username": "bigp34ch"
+      },
+      {
+        "id": "1574209048425242624",
+        "name": "Celestine",
+        "username": "TheCyberverse"
+      },
+      {
+        "id": "1871763689541713920",
+        "name": "K1tyoo",
+        "username": "AuK1tyoo"
+      },
+      {
+        "id": "91144157",
+        "name": "Mille",
+        "username": "millepun"
+      },
+      {
+        "id": "217946435",
+        "name": "Drew",
+        "username": "LGD950003"
+      },
+      {
+        "id": "1586038021660545029",
+        "name": "Daniel Riley",
+        "username": "danielmriley"
+      },
+      {
+        "id": "389681470",
+        "name": "Kent C. Dodds 🐨",
+        "username": "kentcdodds"
+      },
+      {
+        "id": "10667972",
+        "name": "Rhys",
+        "username": "RhysSullivan"
+      },
+      {
+        "id": "170887088",
+        "name": "danny",
+        "username": "dannymacias"
+      },
+      {
+        "id": "7958322",
+        "name": "Lenny Rachitsky",
+        "username": "lennysan"
+      },
+      {
+        "id": "1661523610111193088",
+        "name": "SpaceX Super Intelligence",
+        "username": "SpaceXSI"
+      },
+      {
+        "id": "1747028802591494144",
+        "name": "Louie Mota",
+        "username": "LouieMota88"
+      },
+      {
+        "id": "21211490",
+        "name": "Danny Limanseta",
+        "username": "DannyLimanseta"
+      },
+      {
+        "id": "7344112",
+        "name": "Vlad P",
+        "username": "orange_boy"
+      },
+      {
+        "id": "1518984544421965824",
+        "name": "matt palmer",
+        "username": "mattyp"
+      },
+      {
+        "id": "1953991414523842560",
+        "name": "Dante Lopez",
+        "username": "dqlopez"
+      },
+      {
+        "id": "1187025909901090817",
+        "name": "Christopher Ehrlich",
+        "username": "ccccjjjjeeee"
+      },
+      {
+        "id": "81712767",
+        "name": "Lee Robinson",
+        "username": "leerob"
+      },
+      {
+        "id": "1885077883582111747",
+        "name": "Krista Letz",
+        "username": "kristaletz"
+      },
+      {
+        "id": "94002419",
+        "name": "Sunita Rao",
+        "username": "sunrao"
+      },
+      {
+        "id": "64844802",
+        "name": "a16z",
+        "username": "a16z"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2092666279102710024",
+    "next_token": "b26v89c19zqg8o3juezg9osb0rb8t8tfhv0m2skw2wkfx",
+    "oldest_id": "2092030497535021552",
+    "result_count": 25
+  }
+}

@@ -545,7 +545,7 @@ def write_index(config: dict, records: list[dict], generated_at: str) -> None:
         "",
         "三层结构：**用途 → 人 → 来源类型**。",
         "",
-        "- **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。已用：出海、产品。可扩展（例如 IP、AI 工具、具身智能）。",
+        "- **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。已用：出海、产品、AI 工具。可扩展（例如 IP、具身智能）。",
         "- **人**：每人一张人物卡，见 `people/<slug>.md`。",
         "- **来源类型**：`wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）。",
         "",

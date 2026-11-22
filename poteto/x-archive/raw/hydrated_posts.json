@@ -1,0 +1,1549 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2111132352542121984"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2111133080526495985",
+      "created_at": "2026-10-16T16:32:04.000Z",
+      "edit_history_post_ids": [
+        "2111133080526495985"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 85,
+            "id": "2085838061347217408",
+            "start": 81,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/ah9dbKnrWy",
+            "end": 302,
+            "expanded_url": "https://x.com/poteto/status/2111133080526495985/photo/1",
+            "media_key": "3_2111132352542121984",
+            "start": 279,
+            "url": "https://t.co/ah9dbKnrWy"
+          }
+        ]
+      },
+      "id": "2111133080526495985",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 85,
+              "id": "2085838061347217408",
+              "start": 81,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/cursor/plugins…",
+              "end": 1203,
+              "expanded_url": "https://github.com/cursor/plugins/tree/main/pstack",
+              "start": 1180,
+              "url": "https://t.co/u9xIlN3eN0"
+            }
+          ]
+        },
+        "text": "how do you trust your agents' work more? copy this post/link and give it to your @bot or agent!\n\n1. codebase improvements: this is just good software engineering - better architecture, stronger types and invariants, clear boundaries. agents love to copy what exists and take the shortest path, so make the easy thing the right thing. categorically eliminate problems through code and you won't need to think about it again.\n2. static analysis: lint rules, tests, CI, verification (eg TLA+). very token efficient ways to catch issues ahead of time.\n3. prose: comments, rules, AGENTS.md, skills - anything that can't be enforced and requires agent judgment. use it minimally, but do use /create-verification-skill.\n4. human review: the hardest to scale. at the rate agents land code, it's pretty much impossible to thoroughly review every PR, so spend that effort on the highest leverage point, designing an environment where agents do the right thing by default.\n\nthis forms an inverse pyramid: you want most of your effort at the top, least at the bottom. codebase improvements are deterministic, making it more token efficient, and lets you sleep more soundly at night.\n\ninstall https://t.co/u9xIlN3eN0 and create a new Project:\n1. look through my slack/chat messages and code review comments where i've given feedback on PRs, code, architecture\n2. use /recall on my past transcripts to learn how i steer agents\n3. /poteto-mode use /correct and /architect on past commits to find the most common pitfalls agents fall into, then propose a plan to rearchitect the code i own so it's more agent friendly. answer open questions with prototyping rather than defer to me, and back the plan with real data. \n4. before you begin, use /sharpen + /in-your-own-words and confirm this prompt with me"
+      },
+      "public_metrics": {
+        "bookmark_count": 13195,
+        "impression_count": 775518,
+        "like_count": 7011,
+        "quote_count": 123,
+        "reply_count": 610,
+        "repost_count": 526
+      },
+      "text": "how do you trust your agents' work more? copy this post/link and give it to your @bot or agent!\n\n1. codebase improvements: this is just good software engineering - better architecture, stronger types and invariants, clear boundaries. agents love to copy what exists and take the https://t.co/ah9dbKnrWy",
+      "url": "https://x.com/poteto/status/2111133080526495985"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2106542593656111276",
+      "created_at": "2026-10-04T00:31:06.000Z",
+      "edit_history_post_ids": [
+        "2106542593656111276"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/poteto/status/…",
+            "end": 302,
+            "expanded_url": "https://twitter.com/poteto/status/2089067865098113024",
+            "start": 279,
+            "url": "https://t.co/yCkQGRKScn"
+          }
+        ]
+      },
+      "id": "2106542593656111276",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 714,
+              "id": "208212889",
+              "start": 701,
+              "username": "brendangregg"
+            }
+          ]
+        },
+        "text": "it's easy to fall into the trap of micromanaging your agents instead of correcting the environment that shapes its behavior. \n\npstack 0.15.9 now ships a new /correct skill: if you keep correcting agents for the same mistakes, it finds the pattern and fixes it with architecture, types, and checks.\n\ni like to imagine that commits rapidly flowing into the codebase are like a bonsai tree rapidly growing in whatever direction it pleases. what you want to do is not to give in to the chaos, but tame it intentionally with the right constraints\n\n0.15.9 also has improvements to:\n• /architect: now includes instructions on designing agent friendly architecture\n• a new /benchmark-checklist skill based on @brendangregg's benchmarking checklist\n\nhere's a prompt you can give to grok bot to start architecting a better codebase with pstack: \n\n/poteto-mode create a new Project agent to refactor and rearchitect my repo so that our architecture is more agent friendly. it should use both the /correct and /architect skill to look through past commits and find the most common pitfalls that agents fall into, whether its with code quality, performance, or bugs. if relevant you can also use the /recall skill to find past conversations for context. it should make a high level plan for me to review. it should also answer its own open questions by prototyping rather than defer to me. come back to me with a plan backed by real data. once i approve the plan, use either the stack or full autopilot playbook (ask me which i want) to execute"
+      },
+      "public_metrics": {
+        "bookmark_count": 5197,
+        "impression_count": 310892,
+        "like_count": 4440,
+        "quote_count": 51,
+        "reply_count": 190,
+        "repost_count": 213
+      },
+      "referenced_tweets": [
+        {
+          "id": "2089067865098113024",
+          "type": "quoted"
+        }
+      ],
+      "text": "it's easy to fall into the trap of micromanaging your agents instead of correcting the environment that shapes its behavior. \n\npstack 0.15.9 now ships a new /correct skill: if you keep correcting agents for the same mistakes, it finds the pattern and fixes it with architecture, https://t.co/yCkQGRKScn",
+      "url": "https://x.com/poteto/status/2106542593656111276"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2090141955695198633",
+      "created_at": "2026-08-19T18:20:49.000Z",
+      "edit_history_post_ids": [
+        "2090141955695198633"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 174,
+            "id": "2085838061347217408",
+            "start": 170,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Cursor plugin specification and official plugins. Contribute to cursor/plugins development by creating an account on GitHub.",
+            "display_url": "github.com/cursor/plugins…",
+            "end": 254,
+            "expanded_url": "https://github.com/cursor/plugins/tree/main/pstack",
+            "images": [
+              {
+                "height": 400,
+                "url": "https://pbs.twimg.com/news_img/2119521081858117632/JHCl11Ob?format=png&name=orig",
+                "width": 400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2119521081858117632/JHCl11Ob?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 231,
+            "title": "plugins/pstack at main · cursor/plugins",
+            "unwound_url": "https://github.com/cursor/plugins/tree/main/pstack",
+            "url": "https://t.co/SxilBe4Diu"
+          },
+          {
+            "display_url": "x.com/cursor_ai/stat…",
+            "end": 299,
+            "expanded_url": "https://twitter.com/cursor_ai/status/2090136956101414982",
+            "start": 276,
+            "url": "https://t.co/Yf8aCbVIc0"
+          }
+        ]
+      },
+      "id": "2090141955695198633",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 174,
+              "id": "2085838061347217408",
+              "start": 170,
+              "username": "Bot"
+            },
+            {
+              "end": 431,
+              "id": "2085838061347217408",
+              "start": 427,
+              "username": "Bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/cursor/plugins…",
+              "end": 254,
+              "expanded_url": "https://github.com/cursor/plugins/tree/main/pstack",
+              "start": 231,
+              "url": "https://t.co/u9xIlN3eN0"
+            }
+          ]
+        },
+        "text": "this is a huge release! i shipped 1000 PRs last month and am on track to doubling that this month, all thanks to cloud agents. you can also launch cloud agents with Grok @Bot btw! \n\nhere's how i'm so productive:\n\n• i built pstack (https://t.co/u9xIlN3eN0), my personal set of skills for rigorous engineering and verification. inside of our codebase i call it /lauren-mode, but it's called /poteto-mode in pstack. \n• i use Grok @Bot routines to farm context for me: bug reports on slack, user complaints on X, generating new feature ideas. Grok Bot feeds my \"outer loop\", where i think about what to point my factory at next.\n• i make heavy use of /goal, /loop, and /swarm inside of pstack to run my Full Autopilot playbook, which lets your agents/bots fully own, verify, and ship a task from start to finish. \n• everything runs on cloud agents, so my bots work 24/7 even when i'm asleep or my laptop is offline."
+      },
+      "public_metrics": {
+        "bookmark_count": 1431,
+        "impression_count": 180940,
+        "like_count": 1603,
+        "quote_count": 27,
+        "reply_count": 141,
+        "repost_count": 57
+      },
+      "referenced_tweets": [
+        {
+          "id": "2090136956101414982",
+          "type": "quoted"
+        }
+      ],
+      "text": "this is a huge release! i shipped 1000 PRs last month and am on track to doubling that this month, all thanks to cloud agents. you can also launch cloud agents with Grok @Bot btw! \n\nhere's how i'm so productive:\n\n• i built pstack (https://t.co/SxilBe4Diu), my personal set of https://t.co/Yf8aCbVIc0",
+      "url": "https://x.com/poteto/status/2090141955695198633"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2087977008253071816",
+      "created_at": "2026-08-13T18:58:06.000Z",
+      "edit_history_post_ids": [
+        "2087977008253071816"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/cursor_ai/stat…",
+            "end": 301,
+            "expanded_url": "https://twitter.com/cursor_ai/status/2087941307624980753",
+            "start": 278,
+            "url": "https://t.co/mPkLQX6OHX"
+          }
+        ]
+      },
+      "id": "2087977008253071816",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 664,
+              "id": "2085838061347217408",
+              "start": 660,
+              "username": "bot"
+            },
+            {
+              "end": 676,
+              "id": "1695890961094909952",
+              "start": 666,
+              "username": "cursor_ai"
+            }
+          ]
+        },
+        "text": "worktrees are dead. cloud agents are the future.\n\nthey've allowed me to massively orchestrate swarms of agents, all with their own computer. it's how i've been able to trust that my agents are actually doing what i want them to, because they can run their code, take videos and screenshots, and interact with UIs the same way users do.\n\ncloud agents + pstack is the reason why i'm able to ship thousands of PRs a month with high confidence. spawn a verification /swarm of Grok 4.6 agents to \"fuzz\" every stack of PRs and you'll be able to let your agents merge their own work while you sleep!\n\nalthough i miss writing the code myself, the combination of using @bot, @cursor_ai, and the speed, intelligence, and efficiency of Grok 4.6 makes building so much fun. the future of coding is really starting to look more like playing starcraft!"
+      },
+      "public_metrics": {
+        "bookmark_count": 893,
+        "impression_count": 197559,
+        "like_count": 1484,
+        "quote_count": 24,
+        "reply_count": 97,
+        "repost_count": 66
+      },
+      "referenced_tweets": [
+        {
+          "id": "2087941307624980753",
+          "type": "quoted"
+        }
+      ],
+      "text": "worktrees are dead. cloud agents are the future.\n\nthey've allowed me to massively orchestrate swarms of agents, all with their own computer. it's how i've been able to trust that my agents are actually doing what i want them to, because they can run their code, take videos and https://t.co/mPkLQX6OHX",
+      "url": "https://x.com/poteto/status/2087977008253071816"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2104646114427457941",
+      "created_at": "2026-09-28T18:55:10.000Z",
+      "edit_history_post_ids": [
+        "2104646114427457941"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 49,
+            "id": "2085838061347217408",
+            "start": 45,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/bot/status/210…",
+            "end": 298,
+            "expanded_url": "https://twitter.com/bot/status/2103936247995752705",
+            "start": 275,
+            "url": "https://t.co/YnJRvjH1aR"
+          }
+        ]
+      },
+      "id": "2104646114427457941",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2085838061347217408",
+              "start": 45,
+              "username": "bot"
+            }
+          ]
+        },
+        "text": "in case you missed it over the weekend, grok @bot can help with your finances! combined with the other connectors available in grok bot you can build custom dashboards for your business, budgeting tools for you and your family, and even find more ways to save you money\n\ntry looking through all the subs you pay for and forgot about and save and make money today with grok bot!"
+      },
+      "public_metrics": {
+        "bookmark_count": 292,
+        "impression_count": 710376,
+        "like_count": 1540,
+        "quote_count": 9,
+        "reply_count": 123,
+        "repost_count": 135
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103936247995752705",
+          "type": "quoted"
+        }
+      ],
+      "text": "in case you missed it over the weekend, grok @bot can help with your finances! combined with the other connectors available in grok bot you can build custom dashboards for your business, budgeting tools for you and your family, and even find more ways to save you money\n\ntry https://t.co/YnJRvjH1aR",
+      "url": "https://x.com/poteto/status/2104646114427457941"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2105376625261170688"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2105377066942349794",
+      "created_at": "2026-09-30T19:19:43.000Z",
+      "edit_history_post_ids": [
+        "2105377066942349794"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2085838061347217408",
+            "start": 5,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/zKastryCwY",
+            "end": 301,
+            "expanded_url": "https://x.com/poteto/status/2105377066942349794/photo/1",
+            "media_key": "3_2105376625261170688",
+            "start": 278,
+            "url": "https://t.co/zKastryCwY"
+          },
+          {
+            "display_url": "x.com/bot/status/210…",
+            "end": 325,
+            "expanded_url": "https://twitter.com/bot/status/2105373767568621895",
+            "start": 302,
+            "url": "https://t.co/ftAC0Ail65"
+          }
+        ]
+      },
+      "id": "2105377066942349794",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2085838061347217408",
+              "start": 5,
+              "username": "bot"
+            }
+          ]
+        },
+        "text": "grok @bot combined with cloud agents is a magical experience! here's my favorite use case:\n\n1. create a new team engineer bot and add it to slack \n2. @ your bot whenever you want it to do some coding work \n3. you can even tell it to create new Projects, which is a way to group together many related agents into one conversation\n\nyou can use any model available on cursor with these cloud agents, and since they each have their own computer, it frees up your bot to be more of a manager rather than write the code itself!"
+      },
+      "public_metrics": {
+        "bookmark_count": 982,
+        "impression_count": 3179996,
+        "like_count": 1469,
+        "quote_count": 46,
+        "reply_count": 149,
+        "repost_count": 101
+      },
+      "referenced_tweets": [
+        {
+          "id": "2105373767568621895",
+          "type": "quoted"
+        }
+      ],
+      "text": "grok @bot combined with cloud agents is a magical experience! here's my favorite use case:\n\n1. create a new team engineer bot and add it to slack \n2. @ your bot whenever you want it to do some coding work \n3. you can even tell it to create new Projects, which is a way to group https://t.co/zKastryCwY https://t.co/ftAC0Ail65",
+      "url": "https://x.com/poteto/status/2105377066942349794"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2120967515224609057",
+      "created_at": "2026-11-12T19:50:35.000Z",
+      "edit_history_post_ids": [
+        "2120967515224609057"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/status/21209…",
+            "end": 304,
+            "expanded_url": "https://twitter.com/i/status/2120946968403095906",
+            "start": 281,
+            "url": "https://t.co/wv1h2bNFlw"
+          }
+        ]
+      },
+      "id": "2120967515224609057",
+      "lang": "en",
+      "note_tweet": {
+        "text": "one of the best ways to get the most out of grok bot is with our many connectors. the more context and tools your bot has, the more helpful it can be to your work and life!\n\ntry asking bot to look at messages from your family and update your calendar for important events\n\nor look at messages from potential clients for your small business and help manage your bookings"
+      },
+      "public_metrics": {
+        "bookmark_count": 285,
+        "impression_count": 122330,
+        "like_count": 1309,
+        "quote_count": 14,
+        "reply_count": 161,
+        "repost_count": 46
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120946968403095906",
+          "type": "quoted"
+        }
+      ],
+      "text": "one of the best ways to get the most out of grok bot is with our many connectors. the more context and tools your bot has, the more helpful it can be to your work and life!\n\ntry asking bot to look at messages from your family and update your calendar for important events\n\nor look https://t.co/wv1h2bNFlw",
+      "url": "https://x.com/poteto/status/2120967515224609057"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2104663592834568192"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2104664283808428165",
+      "created_at": "2026-09-28T20:07:22.000Z",
+      "edit_history_post_ids": [
+        "2104664283808428165"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 64,
+            "id": "2085838061347217408",
+            "start": 60,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/70THUAdSe2",
+            "end": 301,
+            "expanded_url": "https://x.com/poteto/status/2104664283808428165/photo/1",
+            "media_key": "3_2104663592834568192",
+            "start": 278,
+            "url": "https://t.co/70THUAdSe2"
+          },
+          {
+            "display_url": "x.com/bot/status/210…",
+            "end": 325,
+            "expanded_url": "https://twitter.com/bot/status/2104661562715967548",
+            "start": 302,
+            "url": "https://t.co/ewhPanas3G"
+          }
+        ]
+      },
+      "id": "2104664283808428165",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "2085838061347217408",
+              "start": 60,
+              "username": "bot"
+            }
+          ]
+        },
+        "text": "very excited to share one of my favorite new features! grok @bot is now multiplayer. make a team bot which has access to your plugins, skills, credentials, and then add it to slack with one click. it's super easy!\n\nguess what i named my bot 🤪 i love chatting with it and firing off cloud agents\n\nmuch more to come"
+      },
+      "public_metrics": {
+        "bookmark_count": 375,
+        "impression_count": 694539,
+        "like_count": 1818,
+        "quote_count": 17,
+        "reply_count": 124,
+        "repost_count": 133
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104661562715967548",
+          "type": "quoted"
+        }
+      ],
+      "text": "very excited to share one of my favorite new features! grok @bot is now multiplayer. make a team bot which has access to your plugins, skills, credentials, and then add it to slack with one click. it's super easy!\n\nguess what i named my bot 🤪 i love chatting with it and firing https://t.co/70THUAdSe2 https://t.co/ewhPanas3G",
+      "url": "https://x.com/poteto/status/2104664283808428165"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2119311856565391360"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2119313621188849806",
+      "created_at": "2026-11-08T06:18:36.000Z",
+      "edit_history_post_ids": [
+        "2119313621188849806"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "A free 2.5D pixel survivors-like by @poteto. Survive 15 minutes as Tibo with a pack of up to three dogs. Tap to play right here.",
+            "display_url": "tibo.dog",
+            "end": 79,
+            "expanded_url": "https://tibo.dog",
+            "images": [
+              {
+                "height": 1200,
+                "url": "https://pbs.twimg.com/news_img/2122156324041740288/meRRa_C8?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122156324041740288/meRRa_C8?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 56,
+            "status": 200,
+            "title": "tibo.dog",
+            "unwound_url": "https://tibo.dog",
+            "url": "https://t.co/diV7PyPaqv"
+          },
+          {
+            "display_url": "pic.x.com/WZkKTETLCZ",
+            "end": 304,
+            "expanded_url": "https://x.com/poteto/status/2119313621188849806/video/1",
+            "media_key": "13_2119311856565391360",
+            "start": 281,
+            "url": "https://t.co/WZkKTETLCZ"
+          }
+        ]
+      },
+      "id": "2119313621188849806",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "tibo.dog",
+              "end": 79,
+              "expanded_url": "http://tibo.dog",
+              "start": 56,
+              "url": "https://t.co/sa18sM28uD"
+            }
+          ]
+        },
+        "text": "i asked grok bot to make a video about how the music in https://t.co/sa18sM28uD was made! i started by clumsily describing something i wanted (i have 0 experience making music): gameboyish music, seamlessly transitioning between variations of a main melody like another game i had played (genshin)\n\none prompt i tried that helped me communicate my goal better was telling bot \"i lack the vocabulary to describe what i want\" and using the /sharpen skill from pstack. then the /in-your-own-words skill helped me confirm whether or not it understood what i was trying to say\n\ni also used this same trick when making this video, so my agent produced a storyboard and animatic before working on the full thing\n\nknowing the right words is very powerful"
+      },
+      "public_metrics": {
+        "bookmark_count": 679,
+        "impression_count": 158319,
+        "like_count": 1403,
+        "quote_count": 40,
+        "reply_count": 156,
+        "repost_count": 66
+      },
+      "text": "i asked grok bot to make a video about how the music in https://t.co/diV7PyPaqv was made! i started by clumsily describing something i wanted (i have 0 experience making music): gameboyish music, seamlessly transitioning between variations of a main melody like another game i had https://t.co/WZkKTETLCZ",
+      "url": "https://x.com/poteto/status/2119313621188849806"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2102832736109268992"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2102835770784694385",
+      "created_at": "2026-09-23T19:01:31.000Z",
+      "edit_history_post_ids": [
+        "2102835770784694385"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 49,
+            "id": "2085838061347217408",
+            "start": 45,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Watch the Grok Bot Galaxy sessions, and sign up for updates on future events.",
+            "display_url": "x.ai/galaxy",
+            "end": 160,
+            "expanded_url": "https://x.ai/galaxy",
+            "start": 137,
+            "status": 200,
+            "title": "Grok Bot Galaxy",
+            "unwound_url": "https://x.ai/galaxy",
+            "url": "https://t.co/sgCDVfWm3w"
+          },
+          {
+            "description": "Thursday Arena is a free auto battler in your browser. Buy bots in the shop, win a best-of-three auto battle, and get a rank on the season leaderboard. Practice as a guest, or sign in with X to play rated matches.",
+            "display_url": "thursdayarena.com",
+            "end": 220,
+            "expanded_url": "https://thursdayarena.com/",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2121323471850356737/10kgNSYC?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2121323471850356737/10kgNSYC?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 197,
+            "status": 200,
+            "title": "Thursday Arena: A free auto battler in your browser.",
+            "unwound_url": "https://thursdayarena.com/",
+            "url": "https://t.co/wVQ5Y2ZqW0"
+          },
+          {
+            "display_url": "pic.x.com/90Z6UwWE7p",
+            "end": 303,
+            "expanded_url": "https://x.com/poteto/status/2102835770784694385/video/1",
+            "media_key": "13_2102832736109268992",
+            "start": 280,
+            "url": "https://t.co/90Z6UwWE7p"
+          }
+        ]
+      },
+      "id": "2102835770784694385",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2085838061347217408",
+              "start": 45,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.ai/galaxy",
+              "end": 160,
+              "expanded_url": "https://x.ai/galaxy",
+              "start": 137,
+              "url": "https://t.co/pkqZ3O6IZw"
+            },
+            {
+              "display_url": "thursdayarena.com",
+              "end": 220,
+              "expanded_url": "https://thursdayarena.com/",
+              "start": 197,
+              "url": "https://t.co/3rfSr1UyFj"
+            },
+            {
+              "display_url": "x.ai/bot/guides",
+              "end": 303,
+              "expanded_url": "https://x.ai/bot/guides",
+              "start": 280,
+              "url": "https://t.co/rqUVPf9PK9"
+            }
+          ]
+        },
+        "text": "we started a game studio last week with grok @bot on the grok bot galaxy livestream! here's our recap\n\nyou can watch our past streams on https://t.co/pkqZ3O6IZw and play our studio's first game at https://t.co/3rfSr1UyFj\n\nin addition to all the tips we dropped on stream, we have https://t.co/rqUVPf9PK9 that will help you use grok bot to do everything from marketing, development, to GTM, and more. let us know if you need any help!"
+      },
+      "public_metrics": {
+        "bookmark_count": 438,
+        "impression_count": 77689,
+        "like_count": 744,
+        "quote_count": 14,
+        "reply_count": 49,
+        "repost_count": 49
+      },
+      "text": "we started a game studio last week with grok @bot on the grok bot galaxy livestream! here's our recap\n\nyou can watch our past streams on https://t.co/sgCDVfWm3w and play our studio's first game at https://t.co/wVQ5Y2ZqW0\n\nin addition to all the tips we dropped on stream, we have https://t.co/90Z6UwWE7p",
+      "url": "https://x.com/poteto/status/2102835770784694385"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2092953342238720203",
+      "created_at": "2026-08-28T01:38:20.000Z",
+      "edit_history_post_ids": [
+        "2093151162333880463"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "30273948",
+            "start": 0,
+            "username": "jamonholmgren"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Cursor plugin specification and official plugins. Contribute to cursor/plugins development by creating an account on GitHub.",
+            "display_url": "github.com/cursor/plugins…",
+            "end": 287,
+            "expanded_url": "https://github.com/cursor/plugins/blob/main/pstack/skills/no-comments/SKILL.md",
+            "images": [
+              {
+                "height": 400,
+                "url": "https://pbs.twimg.com/news_img/2123898838020964352/yIg7h95x?format=png&name=orig",
+                "width": 400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2123898838020964352/yIg7h95x?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 264,
+            "status": 200,
+            "title": "plugins/pstack/skills/no-comments/SKILL.md at main · cursor/plugins",
+            "unwound_url": "https://github.com/cursor/plugins/blob/main/pstack/skills/no-comments/SKILL.md",
+            "url": "https://t.co/jWyuhe2xUs"
+          }
+        ]
+      },
+      "id": "2093151162333880463",
+      "in_reply_to_user_id": "30273948",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 531,
+        "impression_count": 32951,
+        "like_count": 688,
+        "quote_count": 16,
+        "reply_count": 21,
+        "repost_count": 20
+      },
+      "referenced_tweets": [
+        {
+          "id": "2092953342238720203",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jamonholmgren yup, we ban comments in the grok bot codebase too. also made a skill for it. agents just seem to use comments as a way to justify some workaround or bandaid instead of addressing the core problem. over time you just get hacks built on top of hacks\n\nhttps://t.co/jWyuhe2xUs",
+      "url": "https://x.com/poteto/status/2093151162333880463"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2109292877109137674",
+      "created_at": "2026-10-11T18:34:56.000Z",
+      "edit_history_post_ids": [
+        "2109352063302058351"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "972108392",
+            "start": 0,
+            "username": "sasajuric"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/poteto/status/…",
+            "end": 313,
+            "expanded_url": "https://x.com/poteto/status/2102050467505430555",
+            "start": 290,
+            "url": "https://t.co/7fzYZV8LGH"
+          }
+        ]
+      },
+      "id": "2109352063302058351",
+      "in_reply_to_user_id": "972108392",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poteto/status/…",
+              "end": 500,
+              "expanded_url": "https://x.com/poteto/status/2102050467505430555",
+              "start": 477,
+              "url": "https://t.co/7fzYZV8LGH"
+            }
+          ]
+        },
+        "text": "haha we're on the same page, maybe just talking past each other. i talk a lot about code being memory too, and it's a big part of the work i've been doing on grok bot's codebase! i don't think that's incompatible with what i said in my post though. i still read code, but i read it more like a factory designer sampling items off the line rather than all of it\n\nmy goal is to achieve both high volume and high quality. it is difficult to do so but that's the fun in it for me\n\nhttps://t.co/7fzYZV8LGH"
+      },
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 976,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2102050467505430555",
+          "type": "quoted"
+        },
+        {
+          "id": "2109351238429032596",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sasajuric haha we're on the same page, maybe just talking past each other. i talk a lot about code being memory too, and it's a big part of the work i've been doing on grok bot's codebase! i don't think that's incompatible with what i said in my post though. i still read code, but i read https://t.co/7fzYZV8LGH",
+      "url": "https://x.com/poteto/status/2109352063302058351"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2110028086247063552"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2110029484758028732",
+      "created_at": "2026-10-13T15:26:46.000Z",
+      "edit_history_post_ids": [
+        "2110029484758028732"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Apply to join a curated, role-based Grok Bot community on X and share best practices with other power users and SpaceXSI teammates.",
+            "display_url": "x.ai/bot/community",
+            "end": 83,
+            "expanded_url": "https://x.ai/bot/community",
+            "start": 60,
+            "status": 200,
+            "title": "Grok Bot · Communities",
+            "unwound_url": "https://x.ai/bot/community",
+            "url": "https://t.co/1dEvXMU7Su"
+          },
+          {
+            "display_url": "pic.x.com/kqbXdx50N7",
+            "end": 288,
+            "expanded_url": "https://x.com/poteto/status/2110029484758028732/photo/1",
+            "media_key": "3_2110028086247063552",
+            "start": 265,
+            "url": "https://t.co/kqbXdx50N7"
+          }
+        ]
+      },
+      "id": "2110029484758028732",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1239,
+        "impression_count": 406483,
+        "like_count": 2788,
+        "quote_count": 36,
+        "reply_count": 235,
+        "repost_count": 211
+      },
+      "text": "Don't build alone, apply to join our Grok Bot X Communities https://t.co/1dEvXMU7Su! We have curated group chats for:\n\n• GTM\n• Product\n• Marketing\n• Engineering\n• Recruiting\n• Design \n\nwhere you can share what you're working on and learn from others using Grok Bot https://t.co/kqbXdx50N7",
+      "url": "https://x.com/poteto/status/2110029484758028732"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2106114332434309616",
+      "created_at": "2026-10-02T20:09:21.000Z",
+      "edit_history_post_ids": [
+        "2106114332434309616"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/morganlinton/s…",
+            "end": 258,
+            "expanded_url": "https://twitter.com/morganlinton/status/2106099681210282295",
+            "start": 235,
+            "url": "https://t.co/kHVdZ2KStK"
+          }
+        ]
+      },
+      "id": "2106114332434309616",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 149,
+        "impression_count": 111546,
+        "like_count": 2102,
+        "quote_count": 19,
+        "reply_count": 162,
+        "repost_count": 53
+      },
+      "referenced_tweets": [
+        {
+          "id": "2106099681210282295",
+          "type": "quoted"
+        }
+      ],
+      "text": "we are just getting started with Grok Bot! all of us on the team dogfood it daily, and use bot to build bot and i hope it shows. we have much more to improve and to ship, but expect bot to keep getting better, faster, and more capable https://t.co/kHVdZ2KStK",
+      "url": "https://x.com/poteto/status/2106114332434309616"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2111132352542121984",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUw_sHsboAARf-5.jpg"
+      },
+      {
+        "duration_ms": 43866,
+        "media_key": "13_2090134542501789697",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090134542501789697/img/62CXY3RFQdCl4FTe.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090134542501789697/pl/0kL2GIm0ceJbnKFW.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090134542501789697/vid/avc1/1280x720/u3mwCXzfboOBA9Ja.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090134542501789697/vid/avc1/640x360/npkbA6C-1cze2Fmz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090134542501789697/vid/avc1/1920x1080/AnmRieMoV--DFrp6.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090134542501789697/vid/avc1/480x270/xy1MPQrF96uScf8a.mp4"
+          }
+        ]
+      },
+      {
+        "duration_ms": 19900,
+        "media_key": "13_2087940772037529601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087940772037529601/img/QJFH3TukzK9iTD9E.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087940772037529601/vid/avc1/480x270/V4r0PCfG1Mq-7W2P.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087940772037529601/vid/avc1/640x360/iuec-zUPmu3nxOdD.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087940772037529601/vid/avc1/1920x1080/c7nX3-FfK-MUkDb8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087940772037529601/pl/WrDnCEGH6VElE1sn.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087940772037529601/vid/avc1/1280x720/ssvaledmES_nxIkv.mp4"
+          }
+        ]
+      },
+      {
+        "media_key": "3_2103935209318273024",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKt7P3aUAAZptd.jpg"
+      },
+      {
+        "media_key": "3_2105373317419118592",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfJ4KBaMAA1DlH.jpg"
+      },
+      {
+        "media_key": "3_2105376625261170688",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTfM4ssaUAANWHE.png"
+      },
+      {
+        "media_key": "3_2120939413362593792",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HW8XKMOaUAAegaG.jpg"
+      },
+      {
+        "duration_ms": 26733,
+        "media_key": "13_2104654684527251457",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104654684527251457/img/7ZvdEODvazICBcqM.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104654684527251457/pl/mqHg__v5UAzgmoz5.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104654684527251457/vid/avc1/480x270/1xRaF0ijbLl5C-en.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104654684527251457/vid/avc1/640x360/7LrtKk_452AKLr39.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104654684527251457/vid/avc1/1280x720/ihOxFvKyc39f-dIg.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104654684527251457/vid/avc1/1920x1080/ND4TiKpzSKI2vp3Q.mp4"
+          }
+        ]
+      },
+      {
+        "media_key": "3_2104663592834568192",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTVEYv6aEAAdaXF.png"
+      },
+      {
+        "duration_ms": 230633,
+        "media_key": "13_2119311856565391360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2119311856565391360/img/a5edNvpINOvshceC.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2119311856565391360/vid/avc1/1920x1080/kGtHxkldPKgtzy8i.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2119311856565391360/vid/avc1/640x360/GY2AVlM3woPNujh2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2119311856565391360/pl/-nojjzHaYRRDwYcu.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2119311856565391360/vid/avc1/1280x720/Bj_YfHauENv2kv1M.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2119311856565391360/vid/avc1/480x270/iYdAyHx09VlRFquG.mp4"
+          }
+        ]
+      },
+      {
+        "duration_ms": 147902,
+        "media_key": "13_2102832736109268992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102832736109268992/img/-_HUjVPOXtD90LcH.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102832736109268992/vid/avc1/640x360/mHfMqjkUiVDMajYx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102832736109268992/pl/7TeY5woZ4dmGxsd7.m3u8?v=170"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102832736109268992/vid/avc1/480x270/_w-0XOpK7Lvfcqwh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102832736109268992/vid/avc1/1280x720/Uwaupi90actflfc0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102832736109268992/vid/avc1/1920x1080/R9qCU5pJyzxMtY7K.mp4"
+          }
+        ]
+      },
+      {
+        "duration_ms": 2281984,
+        "media_key": "13_2101938030122868736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101938030122868736/img/e-Vk06LcPlqFYO1q.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101938030122868736/pl/RAvQOMFFvDHPOmlx.m3u8?v=bd3"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101938030122868736/vid/avc1/430x270/yyfU23snwfb5se7a.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101938030122868736/vid/avc1/572x360/YRQJe-RmtAThmkz7.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101938030122868736/vid/avc1/1720x1080/UUpyAVFZOyZiZPz-.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101938030122868736/vid/avc1/3442x2160/BQlPlAZCEVPDemv1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101938030122868736/vid/avc1/1146x720/ZTI6iAqJmvcqiasi.mp4"
+          }
+        ]
+      },
+      {
+        "media_key": "3_2110028086247063552",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUhTXXLagAA0v7N.png"
+      }
+    ],
+    "posts": [
+      {
+        "author_id": "2832427459",
+        "conversation_id": "2089067865098113024",
+        "created_at": "2026-08-16T19:12:46.000Z",
+        "edit_history_post_ids": [
+          "2089067865098113024"
+        ],
+        "id": "2089067865098113024",
+        "lang": "en",
+        "note_tweet": {
+          "text": "every time you intervene and correct your agent, you should think about how to eliminate it entirely. \n\nin order of value:\n1. categorically eliminate the problem through better architecture or choice of data structures\n2. turn it into a lint rule or test so CI catches it\n3. turn it into a skill or rule\n4. have humans review the code to catch it (ngmi)"
+        },
+        "public_metrics": {
+          "bookmark_count": 2386,
+          "impression_count": 365335,
+          "like_count": 2449,
+          "quote_count": 41,
+          "reply_count": 72,
+          "repost_count": 173
+        },
+        "text": "every time you intervene and correct your agent, you should think about how to eliminate it entirely. \n\nin order of value:\n1. categorically eliminate the problem through better architecture or choice of data structures\n2. turn it into a lint rule or test so CI catches it\n3. turn"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2090134542501789697"
+          ]
+        },
+        "author_id": "1695890961094909952",
+        "conversation_id": "2090136956101414982",
+        "created_at": "2026-08-19T18:00:57.000Z",
+        "edit_history_post_ids": [
+          "2090136956101414982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vACdkc7gOT",
+              "end": 177,
+              "expanded_url": "https://x.com/cursor_ai/status/2090136956101414982/video/1",
+              "media_key": "13_2090134542501789697",
+              "start": 154,
+              "url": "https://t.co/vACdkc7gOT"
+            }
+          ]
+        },
+        "id": "2090136956101414982",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 537,
+          "impression_count": 605794,
+          "like_count": 3163,
+          "quote_count": 103,
+          "reply_count": 193,
+          "repost_count": 190
+        },
+        "text": "We're continuing to improve cloud agents in Cursor.\n\nThey pick up work from events, hold a goal until it's met, and stay on course through long sessions. https://t.co/vACdkc7gOT"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2087940772037529601"
+          ]
+        },
+        "author_id": "1695890961094909952",
+        "conversation_id": "2087941307624980753",
+        "created_at": "2026-08-13T16:36:14.000Z",
+        "edit_history_post_ids": [
+          "2087941307624980753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0JrSQomAob",
+              "end": 303,
+              "expanded_url": "https://x.com/cursor_ai/status/2087941307624980753/video/1",
+              "media_key": "13_2087940772037529601",
+              "start": 280,
+              "url": "https://t.co/0JrSQomAob"
+            }
+          ]
+        },
+        "id": "2087941307624980753",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 620,
+          "impression_count": 713481,
+          "like_count": 3393,
+          "quote_count": 63,
+          "reply_count": 108,
+          "repost_count": 183
+        },
+        "text": "Cloud agents now start 3x faster so you can hand them ambitious, long-running tasks to execute from start to finish.\n\nThis performance improvement comes from builds: ready-to-use development environments that Cursor prepares continuously in the background, at no additional cost. https://t.co/0JrSQomAob"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2103935209318273024"
+          ]
+        },
+        "author_id": "2085838061347217408",
+        "conversation_id": "2103936247995752705",
+        "created_at": "2026-09-26T19:54:25.000Z",
+        "edit_history_post_ids": [
+          "2103936247995752705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNTf1OT545",
+              "end": 210,
+              "expanded_url": "https://x.com/bot/status/2103936247995752705/photo/1",
+              "media_key": "3_2103935209318273024",
+              "start": 187,
+              "url": "https://t.co/qNTf1OT545"
+            }
+          ]
+        },
+        "id": "2103936247995752705",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1980,
+          "impression_count": 24744899,
+          "like_count": 6554,
+          "quote_count": 325,
+          "reply_count": 602,
+          "repost_count": 551
+        },
+        "text": "Grok Bot now connects to your finances.\n\nLink your bank, card, and investment accounts with the new Finance integration, then ask Bot to help manage your spending, investments, and more. https://t.co/qNTf1OT545"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2105373317419118592"
+          ]
+        },
+        "author_id": "2085838061347217408",
+        "conversation_id": "2105373767568621895",
+        "created_at": "2026-09-30T19:06:36.000Z",
+        "edit_history_post_ids": [
+          "2105373767568621895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7LXiFvSZN2",
+              "end": 209,
+              "expanded_url": "https://x.com/bot/status/2105373767568621895/photo/1",
+              "media_key": "3_2105373317419118592",
+              "start": 186,
+              "url": "https://t.co/7LXiFvSZN2"
+            }
+          ]
+        },
+        "id": "2105373767568621895",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1502,
+          "impression_count": 13330501,
+          "like_count": 6978,
+          "quote_count": 197,
+          "reply_count": 396,
+          "repost_count": 612
+        },
+        "text": "Grok Bot is now more powerful for building software.\n\nBots can hand off coding tasks to Cursor, manage your PRs with GitHub and Origin plugins, and share video demos of what they build. https://t.co/7LXiFvSZN2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2120939413362593792"
+          ]
+        },
+        "author_id": "2085838061347217408",
+        "conversation_id": "2120946968403095906",
+        "created_at": "2026-11-12T18:28:57.000Z",
+        "edit_history_post_ids": [
+          "2120946968403095906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZEMB14KJ4",
+              "end": 119,
+              "expanded_url": "https://x.com/bot/status/2120946968403095906/photo/1",
+              "media_key": "3_2120939413362593792",
+              "start": 96,
+              "url": "https://t.co/xZEMB14KJ4"
+            }
+          ]
+        },
+        "id": "2120946968403095906",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1604,
+          "impression_count": 2692853,
+          "like_count": 8618,
+          "quote_count": 337,
+          "reply_count": 1579,
+          "repost_count": 563
+        },
+        "text": "Grok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location, and Contacts. https://t.co/xZEMB14KJ4"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2104654684527251457"
+          ]
+        },
+        "author_id": "2085838061347217408",
+        "conversation_id": "2104661562715967548",
+        "created_at": "2026-09-28T19:56:33.000Z",
+        "edit_history_post_ids": [
+          "2104661562715967548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73RrG4xpaU",
+              "end": 227,
+              "expanded_url": "https://x.com/bot/status/2104661562715967548/video/1",
+              "media_key": "13_2104654684527251457",
+              "start": 204,
+              "url": "https://t.co/73RrG4xpaU"
+            }
+          ]
+        },
+        "id": "2104661562715967548",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2220,
+          "impression_count": 42556767,
+          "like_count": 6349,
+          "quote_count": 276,
+          "reply_count": 382,
+          "repost_count": 555
+        },
+        "text": "Introducing Team Bots, shared AI teammates that learn as your team works with them.\n\nGive your Team Bot the skills, plugins, and credentials it needs for its role, then work with it in Slack or Grok Bot. https://t.co/73RrG4xpaU"
+      },
+      {
+        "author_id": "30273948",
+        "conversation_id": "2092953342238720203",
+        "created_at": "2026-08-27T12:32:16.000Z",
+        "edit_history_post_ids": [
+          "2092953342238720203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eeuoss/status/…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/eeuoss/status/2092705785625346432",
+              "start": 67,
+              "url": "https://t.co/7d1RB5Cj0A"
+            }
+          ]
+        },
+        "id": "2092953342238720203",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 96386,
+          "like_count": 758,
+          "quote_count": 7,
+          "reply_count": 38,
+          "repost_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092705785625346432",
+            "type": "quoted"
+          }
+        ],
+        "text": "Ban agent comments. You will have fewer bugs. (I’m being serious.) https://t.co/7d1RB5Cj0A"
+      },
+      {
+        "author_id": "972108392",
+        "conversation_id": "2109292877109137674",
+        "created_at": "2026-10-11T18:31:39.000Z",
+        "edit_history_post_ids": [
+          "2109351238429032596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2109351238429032596",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "note_tweet": {
+          "text": "You're absolutely right! 😅️\nWhich is why I think that statements such as \"there was slop before\" are dangerous (not to mention misleading, because it's a false equivalence), and that the implication is that we shouldn't care about the code. Code is a part of the context. Arguably its biggest part. And if it becomes a bloated slop, it's more difficult for the agents to deal with it too. So yeah, we need to steer the agents to write good code, and part of that steering IMO shockingly involves reading some of it 🤷‍♂️️"
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1359,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "repost_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109331984346652941",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto You're absolutely right! 😅️\nWhich is why I think that statements such as \"there was slop before\" are dangerous (not to mention misleading, because it's a false equivalence), and that the implication is that we shouldn't care about the code. Code is a part of the context."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2101938030122868736"
+          ]
+        },
+        "author_id": "2832427459",
+        "conversation_id": "2102050467505430555",
+        "created_at": "2026-09-21T15:01:00.000Z",
+        "edit_history_post_ids": [
+          "2102050467505430555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 180,
+              "id": "2085838061347217408",
+              "start": 176,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgrGz7tmPM",
+              "end": 294,
+              "expanded_url": "https://x.com/poteto/status/2102050467505430555/video/1",
+              "media_key": "13_2101938030122868736",
+              "start": 271,
+              "url": "https://t.co/NgrGz7tmPM"
+            }
+          ]
+        },
+        "id": "2102050467505430555",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 38060,
+          "impression_count": 4741003,
+          "like_count": 22558,
+          "quote_count": 659,
+          "reply_count": 852,
+          "repost_count": 1965
+        },
+        "text": "here's how i shipped 2,500 PRs last month to production\n\nthis was originally supposed to be for Cursor Compile in London. i couldn't make it since i was livestreaming for Grok @Bot Galaxy so i'm making it available for free here on X! watch it on 2x speed, i talk slowly https://t.co/NgrGz7tmPM"
+      },
+      {
+        "author_id": "19016936",
+        "conversation_id": "2106099681210282295",
+        "created_at": "2026-10-02T19:11:08.000Z",
+        "edit_history_post_ids": [
+          "2106099681210282295"
+        ],
+        "id": "2106099681210282295",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 869,
+                "id": "2832427459",
+                "start": 862,
+                "username": "poteto"
+              }
+            ]
+          },
+          "text": "Okay, so after three days with Dot, I have to say, I am really impressed with it, but I do think Grok Bot is a better product at this stage.\n\nWill be sharing more details when I can, but I think a lot of people have missed how much Grok Bot has matured as a product since launch, and really how much you can do with it.\n\nI now honestly believe most people are really only scratching the surface most of the time with products in this category. And in most cases, if you just scratch the surface, most of the solutions seem kinda interchangeable.\n\nOnce you go deeper, there start to be some very clear differences, and Grok Bot is the clear market leader at the moment in my opinion.\n\nAlso, one major piece of alpha. \n\nIf you want to really go deep with Grok Bot, and understand more about how you can really maximize what you can do with it, make sure to follow @poteto, and look back on her tweets over the last few weeks, some absolute gold in there.\n\nBot on 🤘"
+        },
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 136068,
+          "like_count": 395,
+          "quote_count": 11,
+          "reply_count": 40,
+          "repost_count": 13
+        },
+        "text": "Okay, so after three days with Dot, I have to say, I am really impressed with it, but I do think Grok Bot is a better product at this stage.\n\nWill be sharing more details when I can, but I think a lot of people have missed how much Grok Bot has matured as a product since launch,"
+      }
+    ],
+    "users": [
+      {
+        "id": "2832427459",
+        "name": "lauren",
+        "username": "poteto"
+      }
+    ]
+  },
+  "meta": {
+    "result_count": 14
+  }
+}

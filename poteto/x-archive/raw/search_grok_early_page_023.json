@@ -1,0 +1,750 @@
+{
+  "data": [
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2077517017155014716",
+      "created_at": "2026-07-15T22:13:49.000Z",
+      "edit_history_tweet_ids": [
+        "2077517017155014716"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1661523610111193088",
+            "start": 3,
+            "username": "spacexai"
+          }
+        ]
+      },
+      "id": "2077517017155014716",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 107,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2193
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077494535387828644",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @spacexai: We've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support m…",
+      "url": "https://x.com/poteto/status/2077517017155014716"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2075310768984326552",
+      "created_at": "2026-07-09T20:06:59.000Z",
+      "edit_history_tweet_ids": [
+        "2075310768984326552"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 96,
+            "id": "1695890961094909952",
+            "start": 86,
+            "username": "cursor_ai"
+          }
+        ]
+      },
+      "id": "2075310768984326552",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 11207,
+        "like_count": 224,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 4
+      },
+      "text": "so many exciting new models launching this week! so nice that you can use them all in @cursor_ai\n\nif you're feeling rich you can get an /arena (from pstack) across fable, sol, and grok 4.5 to work on your hardest hardest tasks",
+      "url": "https://x.com/poteto/status/2075310768984326552"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2075088103967256576"
+        ],
+        "media_source_tweet_id": [
+          "2075090486403166516"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2075298950299726104",
+      "created_at": "2026-07-09T19:20:01.000Z",
+      "edit_history_tweet_ids": [
+        "2075298950299726104"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "44196397",
+            "start": 3,
+            "username": "elonmusk"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/Y40sMIgeHu",
+            "end": 61,
+            "expanded_url": "https://x.com/theo/status/2075090486403166516/video/1",
+            "media_key": "13_2075088103967256576",
+            "start": 38,
+            "url": "https://t.co/Y40sMIgeHu"
+          }
+        ]
+      },
+      "id": "2075298950299726104",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 91,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1067
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075130137817825315",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @elonmusk: Good review of Grok 4.5 https://t.co/Y40sMIgeHu",
+      "url": "https://x.com/poteto/status/2075298950299726104"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2074969878277333216",
+      "created_at": "2026-07-09T02:48:23.000Z",
+      "edit_history_tweet_ids": [
+        "2075049397554127234"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "82374965",
+            "start": 0,
+            "username": "stanzilla"
+          }
+        ]
+      },
+      "id": "2075049397554127234",
+      "in_reply_to_user_id": "82374965",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 172,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074983674714456234",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@stanzilla if you run /setup-pstack with your own models that won't get changed, so you can run it again later when Grok 4.5 is available in EU!",
+      "url": "https://x.com/poteto/status/2075049397554127234"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2075032662063112577",
+      "created_at": "2026-07-09T01:41:53.000Z",
+      "edit_history_tweet_ids": [
+        "2075032662063112577"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "83546545",
+            "start": 3,
+            "username": "jessethanley"
+          },
+          {
+            "end": 95,
+            "id": "1695890961094909952",
+            "start": 85,
+            "username": "cursor_ai"
+          },
+          {
+            "end": 107,
+            "id": "2772253272",
+            "start": 101,
+            "username": "Bento"
+          }
+        ]
+      },
+      "id": "2075032662063112577",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 117,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075011146646691996",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @jessethanley: Okay so here is my take after merging in ~12 PRs from Grok 4.5 via @cursor_ai into @Bento this morning: \n\nIt is good and…",
+      "url": "https://x.com/poteto/status/2075032662063112577"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2075032479845831100",
+      "created_at": "2026-07-09T01:41:10.000Z",
+      "edit_history_tweet_ids": [
+        "2075032479845831100"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1952461093449674752",
+            "start": 3,
+            "username": "RampLabs"
+          }
+        ]
+      },
+      "id": "2075032479845831100",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 94,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075000359668339165",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @RampLabs: Grok 4.5 launched today.\n\nIt displays frontier-level shell discipline, chaining Bash commands and filtering their outputs mor…",
+      "url": "https://x.com/poteto/status/2075032479845831100"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2074969878277333216",
+      "created_at": "2026-07-08T21:32:24.000Z",
+      "edit_history_tweet_ids": [
+        "2074969878277333216"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Summary Replaces every composer-2.5-fast default with grok-4.5-fast-xhigh across pstack's routed skills (how, why, arena, architect, interrogate, reflect, poteto-mode + playbooks, and the ...",
+            "display_url": "github.com/cursor/plugins…",
+            "end": 55,
+            "expanded_url": "https://github.com/cursor/plugins/pull/142",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2074969882383544320/KWLYBiQd?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2074969882383544320/KWLYBiQd?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 32,
+            "status": 200,
+            "title": "pstack: route composer slots to grok-4.5-fast-xhigh by poteto · Pull Request #142 · cursor/plugins",
+            "unwound_url": "https://github.com/cursor/plugins/pull/142",
+            "url": "https://t.co/7eBs3bnMPh"
+          }
+        ]
+      },
+      "id": "2074969878277333216",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 6225,
+        "like_count": 52,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "text": "updated pstack to use grok 4.5\n\nhttps://t.co/7eBs3bnMPh",
+      "url": "https://x.com/poteto/status/2074969878277333216"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2074921550906892464",
+      "created_at": "2026-07-08T18:20:22.000Z",
+      "edit_history_tweet_ids": [
+        "2074921550906892464"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1661523610111193088",
+            "start": 3,
+            "username": "spacexai"
+          }
+        ]
+      },
+      "id": "2074921550906892464",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 109,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3446
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074915721684086811",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @spacexai: Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers fronti…",
+      "url": "https://x.com/poteto/status/2074921550906892464"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2074921541176070608",
+      "created_at": "2026-07-08T18:20:20.000Z",
+      "edit_history_tweet_ids": [
+        "2074921541176070608"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1695890961094909952",
+            "start": 3,
+            "username": "cursor_ai"
+          }
+        ]
+      },
+      "id": "2074921541176070608",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 82,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1491
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074915744999969059",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @cursor_ai: We've partnered with SpaceXAI to train Grok 4.5.\n\nIt’s our most powerful model yet and the first we've built for more than s…",
+      "url": "https://x.com/poteto/status/2074921541176070608"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "13_2075088103967256576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075088103967256576/img/s7PEOoCwWQomVvZz.jpg",
+        "type": "video"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1661523610111193088",
+        "conversation_id": "2077494535387828644",
+        "created_at": "2026-07-15T20:44:29.000Z",
+        "edit_history_tweet_ids": [
+          "2077494535387828644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Grok Build is open source. Explore SpaceXAI's coding agent on GitHub.",
+              "display_url": "x.ai/open-source",
+              "end": 254,
+              "expanded_url": "http://x.ai/open-source",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2105896898246660096/kd5M3CAa?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105896898246660096/kd5M3CAa?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 231,
+              "status": 200,
+              "title": "Open Source: Grok Build Coding Agent",
+              "unwound_url": "https://x.ai/open-source",
+              "url": "https://t.co/3SSvPu2Nrz"
+            }
+          ]
+        },
+        "id": "2077494535387828644",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4202,
+          "impression_count": 8626346,
+          "like_count": 16125,
+          "quote_count": 1091,
+          "reply_count": 932,
+          "retweet_count": 2193
+        },
+        "text": "We've open-sourced Grok Build and have reset usage limits for all users.\n\nOpen sourcing Grok Build allows anyone to support making a reliable and robust harness. Check out our code, including the Git repo for the Grok Build CLI. \n\nhttps://t.co/3SSvPu2Nrz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2075088103967256576"
+          ],
+          "media_source_tweet_id": [
+            "2075090486403166516"
+          ]
+        },
+        "author_id": "44196397",
+        "conversation_id": "2075130137817825315",
+        "created_at": "2026-07-09T08:09:13.000Z",
+        "edit_history_tweet_ids": [
+          "2075130137817825315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y40sMIgeHu",
+              "end": 47,
+              "expanded_url": "https://x.com/theo/status/2075090486403166516/video/1",
+              "media_key": "13_2075088103967256576",
+              "start": 24,
+              "url": "https://t.co/Y40sMIgeHu"
+            }
+          ]
+        },
+        "id": "2075130137817825315",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1890,
+          "impression_count": 2187481,
+          "like_count": 9797,
+          "quote_count": 107,
+          "reply_count": 1045,
+          "retweet_count": 1067
+        },
+        "text": "Good review of Grok 4.5 https://t.co/Y40sMIgeHu"
+      },
+      {
+        "author_id": "82374965",
+        "conversation_id": "2074969878277333216",
+        "created_at": "2026-07-08T22:27:14.000Z",
+        "edit_history_tweet_ids": [
+          "2074983674714456234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2074983674714456234",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074969878277333216",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto Grok is not available to me yet, guess I should wait for before I fumble up all the settings with reroutes, yeah?"
+      },
+      {
+        "author_id": "83546545",
+        "conversation_id": "2075011146646691996",
+        "created_at": "2026-07-09T00:16:23.000Z",
+        "edit_history_tweet_ids": [
+          "2075011146646691996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "1695890961094909952",
+              "start": 67,
+              "username": "cursor_ai"
+            },
+            {
+              "end": 89,
+              "id": "2772253272",
+              "start": 83,
+              "username": "Bento"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/jessethanley/s…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/jessethanley/status/2074969590350901284",
+              "start": 275,
+              "url": "https://t.co/1qR5NsJZBL"
+            }
+          ]
+        },
+        "id": "2075011146646691996",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 77,
+                "id": "1695890961094909952",
+                "start": 67,
+                "username": "cursor_ai"
+              },
+              {
+                "end": 89,
+                "id": "2772253272",
+                "start": 83,
+                "username": "Bento"
+              },
+              {
+                "end": 443,
+                "id": "2832427459",
+                "start": 436,
+                "username": "poteto"
+              }
+            ]
+          },
+          "text": "Okay so here is my take after merging in ~12 PRs from Grok 4.5 via @cursor_ai into @Bento this morning: \n\nIt is good and safe to setup as default but only if you have guardrails/not default harness setup. \n\nThis is the first model from Grok/Cursor you can use for day to day coding, as you were with Opus or GPT 5.5, but you have to have your harness spec'd out to keep it focused and on task. \n\nFor Cursor users, this means installing @poteto pstack and using the skills to kick off agents (\"/poteto-mode build X feature\"). \n\nIf you do that it crushes just as the other models do. \n\nIf you don't it loses the plot. \n\nExample from a PR this morning: customer reported an issue with a timezone picker (kyiv/kiev). \n\nWith /poteto-mode (pstack): 1 file change, a few lines. Worked.\n\nWithout skills: 15 file changes, dedicated Bento::Kyiv classes (????), just a mess. Worked but absolute slop. \n\nI also find that it has a habit of refactoring aggressively which is sometimes nice but can be annoying as often I just want very targeted fixes. \n\nAgain, spending time on skills and playbooks seems to be the key to making this model work and stopping it from doing this. \n\nI also imagine the ponytail project would also help here greatly. \n\nIt also says \"code judo\" a lot. \n\nTAKEAWAY: Spend 1 hour today playing with pstack or learning what it is and making your own version then use Grok 4.5 day to day!"
+        },
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 14070,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074969590350901284",
+            "type": "quoted"
+          }
+        ],
+        "text": "Okay so here is my take after merging in ~12 PRs from Grok 4.5 via @cursor_ai into @Bento this morning: \n\nIt is good and safe to setup as default but only if you have guardrails/not default harness setup. \n\nThis is the first model from Grok/Cursor you can use for day to day https://t.co/1qR5NsJZBL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2075000226859933696"
+          ]
+        },
+        "author_id": "1952461093449674752",
+        "conversation_id": "2075000359668339165",
+        "created_at": "2026-07-08T23:33:32.000Z",
+        "edit_history_tweet_ids": [
+          "2075000359668339165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AO7p5Qn2E",
+              "end": 190,
+              "expanded_url": "https://x.com/RampLabs/status/2075000359668339165/video/1",
+              "media_key": "13_2075000226859933696",
+              "start": 167,
+              "url": "https://t.co/7AO7p5Qn2E"
+            }
+          ]
+        },
+        "id": "2075000359668339165",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 28606,
+          "like_count": 278,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "text": "Grok 4.5 launched today.\n\nIt displays frontier-level shell discipline, chaining Bash commands and filtering their outputs more frequently than any other model tested. https://t.co/7AO7p5Qn2E"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2074912187391610880"
+          ]
+        },
+        "author_id": "1661523610111193088",
+        "conversation_id": "2074915721684086811",
+        "created_at": "2026-07-08T17:57:12.000Z",
+        "edit_history_tweet_ids": [
+          "2074915721684086811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work.",
+              "display_url": "x.ai/news/grok-4-5",
+              "end": 204,
+              "expanded_url": "https://x.ai/news/grok-4-5",
+              "images": [
+                {
+                  "height": 537,
+                  "url": "https://pbs.twimg.com/news_img/2113205910537707520/hvazMUC0?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2113205910537707520/hvazMUC0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 181,
+              "status": 200,
+              "title": "Introducing Grok 4.5",
+              "unwound_url": "https://x.ai/news/grok-4-5",
+              "url": "https://t.co/i8HpU7w64k"
+            },
+            {
+              "display_url": "pic.x.com/oBjGtTsoNc",
+              "end": 228,
+              "expanded_url": "https://x.com/SpaceXAI/status/2074915721684086811/video/1",
+              "media_key": "13_2074912187391610880",
+              "start": 205,
+              "url": "https://t.co/oBjGtTsoNc"
+            }
+          ]
+        },
+        "id": "2074915721684086811",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3678,
+          "impression_count": 69315228,
+          "like_count": 26448,
+          "quote_count": 1168,
+          "reply_count": 1485,
+          "retweet_count": 3446
+        },
+        "text": "Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency.\n\nhttps://t.co/i8HpU7w64k https://t.co/oBjGtTsoNc"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2074911222143602688"
+          ]
+        },
+        "author_id": "1695890961094909952",
+        "conversation_id": "2074915744999969059",
+        "created_at": "2026-07-08T17:57:18.000Z",
+        "edit_history_tweet_ids": [
+          "2074915744999969059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4B8Tedl34",
+              "end": 168,
+              "expanded_url": "https://x.com/cursor_ai/status/2074915744999969059/photo/1",
+              "media_key": "3_2074911222143602688",
+              "start": 145,
+              "url": "https://t.co/U4B8Tedl34"
+            }
+          ]
+        },
+        "id": "2074915744999969059",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1675,
+          "impression_count": 5312545,
+          "like_count": 17679,
+          "quote_count": 824,
+          "reply_count": 763,
+          "retweet_count": 1491
+        },
+        "text": "We've partnered with SpaceXAI to train Grok 4.5.\n\nIt’s our most powerful model yet and the first we've built for more than software engineering. https://t.co/U4B8Tedl34"
+      }
+    ],
+    "users": [
+      {
+        "id": "2832427459",
+        "name": "lauren",
+        "username": "poteto"
+      },
+      {
+        "id": "1661523610111193088",
+        "name": "SpaceX Super Intelligence",
+        "username": "SpaceXSI"
+      },
+      {
+        "id": "1695890961094909952",
+        "name": "Cursor",
+        "username": "cursor_ai"
+      },
+      {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "username": "elonmusk"
+      },
+      {
+        "id": "82374965",
+        "name": "Stanzilla",
+        "username": "stanzilla"
+      },
+      {
+        "id": "83546545",
+        "name": "˗ˏˋ Jesse Hanley ˎˊ˗",
+        "username": "jessethanley"
+      },
+      {
+        "id": "2772253272",
+        "name": "Bento",
+        "username": "Bento"
+      },
+      {
+        "id": "1952461093449674752",
+        "name": "Ramp Labs",
+        "username": "RampLabs"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2077517017155014716",
+    "next_token": "b26v89c19zqg8o3juethkr41biqyczpfnjhty9uyj7j3x",
+    "oldest_id": "2074921541176070608",
+    "result_count": 9
+  }
+}

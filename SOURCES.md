@@ -11,6 +11,7 @@
 | `gefei/github-seed/` | `/workspace/gefei/github_seed/` | https://github.com/mundane799699/gefei_mp_export.git （收录时 commit `105cd6bed2c65c277502b5aed7c32156ca8887eb`） | 608 | 20M |
 | `gefei/ximen-notes/` | `/workspace/gefei/ximen-notes/` | 无；哆啦整理的西门笔记 | 1 | 8.0K |
 | `liuxiaopai/x-archive/` | `/workspace/x-archive/bourneliu66/` | 无代码仓库；内容来自刘小排 X 账号 [@bourneliu66](https://x.com/bourneliu66) | 70 | 1.9M |
+| `poteto/x-archive/` | `/workspace/x-archive/poteto/` | 无代码仓库；内容来自 [@poteto](https://x.com/poteto) 公开 X 帖（Grok Bot 相关为主） | 88 | 4.5M |
 | `gefei/github-member-repos/` | `/workspace/gefei/github-refs/` | 见下表各仓 | 4488（另加各目录 `UPSTREAM.md`） | 470M |
 
 复制完成后，本仓合计约 502M（含 README / SOURCES / `.gitignore` / 各 `UPSTREAM.md` 之前约为 502M）。
@@ -39,6 +40,12 @@
 - `index.md`、`all.md`
 - `articles/`：46 个文件（X Article 与长帖/长线程）
 - `raw/`：22 个文件（原始 JSON 等）
+
+### 土豆姐 X 归档 `poteto/x-archive/`
+
+- `index.md`、`all.md`（Grok Bot 相关）、`other.md`（本次取到但明显无关）
+- `articles/`：42 个文件（X Article、长帖与长线程）
+- `raw/`：43 个文件（账号资料、合并帖、各次搜索/时间线原始 JSON）
 
 ### 会员 GitHub 工作区 `gefei/github-member-repos/`
 

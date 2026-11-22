@@ -1,0 +1,544 @@
+{
+  "data": [
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113456466447454598",
+      "created_at": "2026-10-23T02:24:22.000Z",
+      "edit_history_tweet_ids": [
+        "2113456466447454598"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "339061487",
+            "start": 3,
+            "username": "APompliano"
+          },
+          {
+            "end": 54,
+            "id": "1720665183188922368",
+            "start": 49,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2113456466447454598",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2810,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 145
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113420868168609814",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @APompliano: Every day I am more impressed by @grok bot",
+      "url": "https://x.com/poteto/status/2113456466447454598"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113430923857527080",
+      "created_at": "2026-10-23T02:20:50.000Z",
+      "edit_history_tweet_ids": [
+        "2113455579276681371"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "36813475",
+            "start": 0,
+            "username": "neemax"
+          },
+          {
+            "end": 12,
+            "id": "2085838061347217408",
+            "start": 8,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2113455579276681371",
+      "in_reply_to_user_id": "36813475",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4126,
+        "like_count": 28,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113431974610391243",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@neemax @bot send to grok bot design slack",
+      "url": "https://x.com/poteto/status/2113455579276681371"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113433023370981877",
+      "created_at": "2026-10-23T00:51:13.000Z",
+      "edit_history_tweet_ids": [
+        "2113433023370981877"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "3382",
+            "start": 3,
+            "username": "hnshah"
+          },
+          {
+            "end": 103,
+            "id": "1720665183188922368",
+            "start": 98,
+            "username": "grok"
+          },
+          {
+            "end": 108,
+            "id": "2085838061347217408",
+            "start": 104,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2113433023370981877",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2762,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 145
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113410068435566937",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @hnshah: I’ve got a problem. I’m addicted to Grok Bot.\n\nI keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots…",
+      "url": "https://x.com/poteto/status/2113433023370981877"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113426421075050909",
+      "created_at": "2026-10-23T00:47:11.000Z",
+      "edit_history_tweet_ids": [
+        "2113432008869527770"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "14749725",
+            "start": 0,
+            "username": "nikorasu_pro"
+          },
+          {
+            "end": 18,
+            "id": "2085838061347217408",
+            "start": 14,
+            "username": "bot"
+          }
+        ]
+      },
+      "id": "2113432008869527770",
+      "in_reply_to_user_id": "14749725",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 988,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113430115736842268",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nikorasu_pro @bot send to grok bot design slack",
+      "url": "https://x.com/poteto/status/2113432008869527770"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2113426421075050909",
+      "created_at": "2026-10-23T00:24:59.000Z",
+      "edit_history_tweet_ids": [
+        "2113426421075050909"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/ericzakariasso…",
+            "end": 248,
+            "expanded_url": "https://twitter.com/ericzakariasson/status/2113423577408278903",
+            "start": 225,
+            "url": "https://t.co/f600bFNPoh"
+          }
+        ]
+      },
+      "id": "2113426421075050909",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 141,
+        "impression_count": 115663,
+        "like_count": 1876,
+        "quote_count": 18,
+        "reply_count": 351,
+        "retweet_count": 43
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113423577408278903",
+          "type": "quoted"
+        }
+      ],
+      "text": "the grok bot team is shipping at a incredible pace! please keep sending us your feedback and bug reports, we will continue working hard on improving and polishing grok bot so it's the best assistant and employee you can hire https://t.co/f600bFNPoh",
+      "url": "https://x.com/poteto/status/2113426421075050909"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "339061487",
+        "conversation_id": "2113420868168609814",
+        "created_at": "2026-10-23T00:02:55.000Z",
+        "edit_history_tweet_ids": [
+          "2113420868168609814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1720665183188922368",
+              "start": 33,
+              "username": "grok"
+            }
+          ]
+        },
+        "id": "2113420868168609814",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 438147,
+          "like_count": 2315,
+          "quote_count": 20,
+          "reply_count": 163,
+          "retweet_count": 145
+        },
+        "text": "Every day I am more impressed by @grok bot"
+      },
+      {
+        "author_id": "36813475",
+        "conversation_id": "2113430923857527080",
+        "created_at": "2026-10-23T00:47:03.000Z",
+        "edit_history_tweet_ids": [
+          "2113431974610391243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            },
+            {
+              "end": 19,
+              "id": "2832427459",
+              "start": 12,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2113431974610391243",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2627,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2113430923857527080",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto hey @poteto Why is there no unread toggle for your bots so you can quickly see which one of them has a message for you to read? My list of bots is getting pretty long. It'd be really good to just have an unread toggle."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2113406374764048384"
+          ]
+        },
+        "author_id": "3382",
+        "conversation_id": "2113410068435566937",
+        "created_at": "2026-10-22T23:20:00.000Z",
+        "edit_history_tweet_ids": [
+          "2113410068435566937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 91,
+              "id": "1720665183188922368",
+              "start": 86,
+              "username": "grok"
+            },
+            {
+              "end": 96,
+              "id": "2085838061347217408",
+              "start": 92,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oi6H3dC1jk",
+              "end": 304,
+              "expanded_url": "https://x.com/hnshah/status/2113410068435566937/photo/1",
+              "media_key": "3_2113406374764048384",
+              "start": 281,
+              "url": "https://t.co/Oi6H3dC1jk"
+            }
+          ]
+        },
+        "id": "2113410068435566937",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 91,
+                "id": "1720665183188922368",
+                "start": 86,
+                "username": "grok"
+              },
+              {
+                "end": 96,
+                "id": "2085838061347217408",
+                "start": 92,
+                "username": "bot"
+              }
+            ]
+          },
+          "text": "I’ve got a problem. I’m addicted to Grok Bot.\n\nI keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots since August.\n\nSo the team gave me 50 codes to give away for a free month of Super ($100 tier).\n\nHaven’t tried it yet? Reply with what you’d build.\n\nI’ll pick 50 of the most interesting ideas. New users only."
+        },
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 946657,
+          "like_count": 1669,
+          "quote_count": 23,
+          "reply_count": 560,
+          "retweet_count": 145
+        },
+        "text": "I’ve got a problem. I’m addicted to Grok Bot.\n\nI keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots since August.\n\nSo the team gave me 50 codes to give away for a free month of Super ($100 tier).\n\nHaven’t tried it yet? Reply with what you’d build.\n\nI’ll https://t.co/Oi6H3dC1jk"
+      },
+      {
+        "author_id": "14749725",
+        "conversation_id": "2113426421075050909",
+        "created_at": "2026-10-23T00:39:39.000Z",
+        "edit_history_tweet_ids": [
+          "2113430115736842268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2832427459",
+              "start": 0,
+              "username": "poteto"
+            }
+          ]
+        },
+        "id": "2113430115736842268",
+        "in_reply_to_user_id": "2832427459",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Emoji-reaction guy here 🙋‍♂️\nYes you are! I love how quickly everything gets actioned! 🎉\n\n1. Would love to be able to pin the emoji reactions list, rather than it always being the \"last used\".\n\nI save time (and hopefully tokens) by just reacting to bot proposals. Basically 👍 👎 ⛔ 🆗 ✅ ⏲️ etc.\n\n2 . Would love for those reactions to show at the bottom of the bot message, not the top. The reason is, on long messages, the reaction gets lost above the fold.\n\n3. Custom emojis! j/k\nAre we no longer able to edit Routines and Instructions on the MacOS app? Still possible on mobile. I have to ask the bot for any changes."
+        },
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 999,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2113426421075050909",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@poteto Emoji-reaction guy here 🙋‍♂️\nYes you are! I love how quickly everything gets actioned! 🎉\n\n1. Would love to be able to pin the emoji reactions list, rather than it always being the \"last used\".\n\nI save time (and hopefully tokens) by just reacting to bot proposals. Basically 👍 👎"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2113423566268157952",
+            "3_2113423569241899008",
+            "3_2113423571993415680",
+            "3_2113423574946234368"
+          ]
+        },
+        "author_id": "505835394",
+        "conversation_id": "2113423577408278903",
+        "created_at": "2026-10-23T00:13:41.000Z",
+        "edit_history_tweet_ids": [
+          "2113423577408278903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2085838061347217408",
+              "start": 5,
+              "username": "bot"
+            }
+          ],
+          "urls": [
+            {
+              "description": "New features, improvements, and fixes in each Grok Bot release, with the version that ships them.",
+              "display_url": "x.ai/changelog/bot",
+              "end": 264,
+              "expanded_url": "https://x.ai/changelog/bot",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/2123500021782093824/DY4UpXSH?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2123500021782093824/DY4UpXSH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 241,
+              "status": 200,
+              "title": "Grok Bot Changelog",
+              "unwound_url": "https://x.ai/changelog/bot",
+              "url": "https://t.co/dyBGOXTxKP"
+            },
+            {
+              "display_url": "pic.x.com/4Rghs0XPYE",
+              "end": 288,
+              "expanded_url": "https://x.com/ericzakariasson/status/2113423577408278903/photo/1",
+              "media_key": "3_2113423566268157952",
+              "start": 265,
+              "url": "https://t.co/4Rghs0XPYE"
+            },
+            {
+              "display_url": "pic.x.com/4Rghs0XPYE",
+              "end": 288,
+              "expanded_url": "https://x.com/ericzakariasson/status/2113423577408278903/photo/2",
+              "media_key": "3_2113423569241899008",
+              "start": 265,
+              "url": "https://t.co/4Rghs0XPYE"
+            },
+            {
+              "display_url": "pic.x.com/4Rghs0XPYE",
+              "end": 288,
+              "expanded_url": "https://x.com/ericzakariasson/status/2113423577408278903/photo/3",
+              "media_key": "3_2113423571993415680",
+              "start": 265,
+              "url": "https://t.co/4Rghs0XPYE"
+            },
+            {
+              "display_url": "pic.x.com/4Rghs0XPYE",
+              "end": 288,
+              "expanded_url": "https://x.com/ericzakariasson/status/2113423577408278903/photo/4",
+              "media_key": "3_2113423574946234368",
+              "start": 265,
+              "url": "https://t.co/4Rghs0XPYE"
+            }
+          ]
+        },
+        "id": "2113423577408278903",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 1026176,
+          "like_count": 854,
+          "quote_count": 31,
+          "reply_count": 121,
+          "retweet_count": 42
+        },
+        "text": "grok @bot 0.75.2 is out!\n\n- pages: reports, memos and dashboards your bot builds and keeps up to date\n- new cards in every desktop chat\n- bots can make videos from a description or an image\n\nand a lot more! read everything in the changelog: https://t.co/dyBGOXTxKP https://t.co/4Rghs0XPYE"
+      }
+    ],
+    "users": [
+      {
+        "description": "grok @bot at @SpaceXSI. react compiler core team, prev cursor, meta, netflix",
+        "id": "2832427459",
+        "name": "lauren",
+        "username": "poteto"
+      },
+      {
+        "description": "Entrepreneur, investor, and lifelong learner.\n\nDaily writing: https://t.co/tpCu2xhIBx\nWebsite: https://t.co/aof319cnW2\nMy second book: https://t.co/2W94vXav7i",
+        "id": "339061487",
+        "name": "Anthony Pompliano 🌪",
+        "username": "APompliano"
+      },
+      {
+        "description": "@grok it",
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "description": "Business Financing Specialist. 2x Boy Dad. Husband. CyberTruck FSD. $Tesla. $Hood. Snowboarding. Nature. Photography. Reef Tank. \n\nMake Iran Great Again.",
+        "id": "36813475",
+        "name": "Neema Farhang",
+        "username": "neemax"
+      },
+      {
+        "description": "AI teammates that you can give real work to.",
+        "id": "2085838061347217408",
+        "name": "Grok Bot",
+        "username": "bot"
+      },
+      {
+        "description": "Sharing what endures in business, growth & people. Founder & CEO building SaaS for 20+ yrs. Built Crazy Egg (2005), KISSmetrics (2008) & Nira (2020).",
+        "id": "3382",
+        "name": "Hiten Shah",
+        "username": "hnshah"
+      },
+      {
+        "description": "🇦🇷 出身、日本に帰化したプロ雀士 🀄\n\n麻雀を通して、勝負・意思決定・仕事の話。\n天鳳七段｜雀魂挑戦中\nAI・Web開発・GTM @Vercel\n日本語 / 英語 / スペイン語\n\n『日本の麻雀を世界へ！』\n\n出演・取材・お仕事のご相談はHPまたはDMへ\n※発言は個人の見解です",
+        "id": "14749725",
+        "name": "ニコラス 🀄｜日本プロ麻雀協会16期",
+        "username": "nikorasu_pro"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2113456466447454598",
+    "next_token": "b26v89c19zqg8o3juzlwtr5i9sans76rfmrrtpz0k4i2l",
+    "oldest_id": "2113426421075050909",
+    "result_count": 5
+  }
+}
