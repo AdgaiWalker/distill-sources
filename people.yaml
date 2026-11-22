@@ -1,0 +1,67 @@
+# distill-sources 人物与来源配置（脚本 scripts/classify.py 读取）
+#
+# 新增一个人只需：
+#   1. 在本文件 people 下加一条
+#   2. 建材料目录（新人用顶层 <slug>/；已有路径不要移动）
+#   3. 复制 templates/person-card.md 为 people/<slug>.md 并填写
+#   4. 运行 python3 scripts/classify.py
+#
+# 用途 = 这种知识能帮着蒸馏出哪类 skill。已用：出海、产品。
+# 可扩展举例：IP、AI 工具、具身智能。每人一个主用途，可以有多个用途。
+#
+# 来源类型只使用：wechat / group-chat / x / github / notes
+# 可见性：public 或 member。拿不准标 member。
+
+known_purposes:
+  - 出海
+  - 产品
+
+people:
+  - slug: gefei
+    name: 哥飞
+    primary_purpose: 出海
+    purposes:
+      - 出海
+    sources:
+      - path: gefei/wechat-articles
+        source_type: wechat
+        visibility: public
+        scanner: files
+        glob: "*.md"
+      - path: gefei/group-chat
+        source_type: group-chat
+        visibility: member
+        scanner: files
+        glob: "*.md"
+        dir_units:
+          - rel: screenshots
+            title: 会员群截图（转录附件）
+      - path: gefei/github-seed
+        source_type: github
+        visibility: public
+        scanner: github-seed
+      - path: gefei/github-member-repos
+        source_type: github
+        visibility: member
+        scanner: repos
+  - slug: ximen
+    name: 西门
+    primary_purpose: 出海
+    purposes:
+      - 出海
+    sources:
+      - path: gefei/ximen-notes
+        source_type: notes
+        visibility: member
+        scanner: files
+        glob: "*.md"
+  - slug: liuxiaopai
+    name: 刘小排
+    primary_purpose: 产品
+    purposes:
+      - 产品
+    sources:
+      - path: liuxiaopai/x-archive
+        source_type: x
+        visibility: public
+        scanner: x-archive

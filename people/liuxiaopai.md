@@ -1,16 +1,50 @@
+---
+name: 刘小排
+slug: liuxiaopai
+primary_purpose: 产品
+purposes:
+  - 产品
+expertise: 产品与相关实操（依据其公开 X 归档，以及已写入的「他人补充」）
+planned_skills: 待补
+existing_skills:
+  - 已作为补充写入本机 `/workspace/gefei/gefei-skill-pack/gefei/references/practitioner/liuxiaopai.md`（非独立 skill，且须标明刘小排、不得混作哥飞原话）
+sources:
+  - x
+coverage_until: "2026-11-22"
+update_method: 待补
+visibility: public
+---
+
 # 刘小排
 
-刘小排（@bourneliu66）的 X 归档。用来做产品。
+主用途是**产品**：用他的知识蒸馏产品相关 skill。X 账号 [@bourneliu66](https://x.com/bourneliu66)。
 
-- 人：刘小排
-- 用途：产品
-- 条目：49
+## 擅长
 
-由 `scripts/classify.py` 生成。原文件未移动。
+可核实的部分：本仓收有他的公开 X 归档（长文、长帖与原始 JSON）。其中可执行的方法已作为「他人补充·刘小排（非哥飞）」写入本机 `gefei/references/practitioner/liuxiaopai.md`，并附在若干哥飞能力卡末节。引用必须标明刘小排，不得混作哥飞原话。
+
+尚未单独做成一套「刘小排 skill」。
+
+## 已有相关 skill
+
+- 补充页（非独立 skill）：本机 `/workspace/gefei/gefei-skill-pack/gefei/references/practitioner/liuxiaopai.md`
+
+## 计划蒸馏成的 skill
+
+待补。
+
+## 材料清单
+
+<!-- BEGIN MATERIAL LIST -->
+共 49 条；public 49，member 0。
+主用途：产品。全部用途：产品。
+材料日期覆盖至：2026-11-22。
+
+由 `scripts/classify.py` 根据 `people.yaml` 生成。原文件未移动。
 
 ## `liuxiaopai/x-archive`
 
-49 条。
+来源类型：x（公开帖/长文）。可见性：public。49 条。
 
 | 日期 | 标题 | 路径 |
 |---|---|---|
@@ -63,3 +97,11 @@
 | 2025-08-17 | [全世界Claude Code用户激情辩论中 —— 使用Claude Code $200美元的包月套餐，积极使用高级功能用于编码工作，一个月消耗了价值$50K美元的Token，算是滥用吗？](../liuxiaopai/x-archive/articles/2025-08-17_全世界Claude-Code用户激情辩论中-——-使用Claude-Code-$.md) | `liuxiaopai/x-archive/articles/2025-08-17_全世界Claude-Code用户激情辩论中-——-使用Claude-Code-$.md` |
 | — | [X 归档原始 JSON（22 个文件）](../liuxiaopai/x-archive/raw/) | `liuxiaopai/x-archive/raw/` |
 | — | [@bourneliu66 归档全文（按时间正序）](../liuxiaopai/x-archive/all.md) | `liuxiaopai/x-archive/all.md` |
+<!-- END MATERIAL LIST -->
+
+## 如何补充新材料
+
+1. 把新的 X 归档放进 `liuxiaopai/x-archive/`（文章进 `articles/`，原始 JSON 进 `raw/`）。不要改已有原文，不要改名。
+2. 若改来源类型或可见性，先改 `people.yaml`。
+3. 在仓库根目录运行 `python3 scripts/classify.py`。
+4. 本批材料来自公开 X 帖，标 `public`。若以后收入会员内容，必须标 `member`，且由此蒸出的 skill 不得公开发布。

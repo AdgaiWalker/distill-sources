@@ -1,16 +1,52 @@
+---
+name: 哥飞
+slug: gefei
+primary_purpose: 出海
+purposes:
+  - 出海
+expertise: 出海建站与网站获流（依据其公众号正文，以及已蒸馏的能力卡）
+planned_skills: 待补
+existing_skills:
+  - 本机 `/workspace/gefei/gefei-skill-pack`（能力卡，非本仓）
+  - 公开仓库 https://github.com/AdgaiWalker/gefei-agent （非官方蒸馏，标注信息来源）
+sources:
+  - wechat
+  - group-chat
+  - github
+coverage_until: "2026-11-08"
+update_method: 待补
+visibility: mixed
+---
+
 # 哥飞
 
-哥飞的公众号、会员群、会员整理的哥飞相关仓库，以及 GitHub 种子仓。用来做出海。
+主用途是**出海**：用他的知识蒸馏出海相关 skill。
 
-- 人：哥飞
-- 用途：出海
-- 条目：1195
+## 擅长
 
-由 `scripts/classify.py` 生成。原文件未移动。
+可核实的部分：公众号长期写出海建站、找需求、做网站、获取流量。这些公开文章已被蒸馏成本机能力卡，并有一份公开的非官方蒸馏仓库。会员群记录和会员整理的 GitHub 仓也在本仓，但属于会员材料。
+
+## 已有相关 skill
+
+- 本机能力包：`/workspace/gefei/gefei-skill-pack`（13 张能力卡，不在本仓）
+- GitHub 公开仓库：[AdgaiWalker/gefei-agent](https://github.com/AdgaiWalker/gefei-agent)（哥飞出海方法论 Agent，非官方蒸馏，标注信息来源）
+
+## 计划蒸馏成的 skill
+
+待补。
+
+## 材料清单
+
+<!-- BEGIN MATERIAL LIST -->
+共 1195 条；public 1176，member 19。
+主用途：出海。全部用途：出海。
+材料日期覆盖至：2026-11-08。
+
+由 `scripts/classify.py` 根据 `people.yaml` 生成。原文件未移动。
 
 ## `gefei/github-member-repos`
 
-15 条。
+来源类型：github。可见性：member。15 条。
 
 | 日期 | 标题 | 路径 |
 |---|---|---|
@@ -32,7 +68,7 @@
 
 ## `gefei/github-seed`
 
-309 条。
+来源类型：github。可见性：public。309 条。
 
 | 日期 | 标题 | 路径 |
 |---|---|---|
@@ -348,18 +384,18 @@
 
 ## `gefei/group-chat`
 
-4 条。
+来源类型：group-chat（会员群）。可见性：member。4 条。
 
 | 日期 | 标题 | 路径 |
 |---|---|---|
 | 2026-10-22 | [哥飞会员群发言转录 — 2026-10-22](../gefei/group-chat/20261022.md) | `gefei/group-chat/20261022.md` |
 | 2026-10-04 | [哥飞会员群发言转录 — 2026-10-04](../gefei/group-chat/20261004.md) | `gefei/group-chat/20261004.md` |
 | — | [哥飞会员群发言转录 — 与刘小排的分工定位](../gefei/group-chat/刘小排分工.md) | `gefei/group-chat/刘小排分工.md` |
-| — | [会员群截图（11 张，转录附件）](../gefei/group-chat/screenshots/) | `gefei/group-chat/screenshots/` |
+| — | [会员群截图（转录附件）（11 个文件）](../gefei/group-chat/screenshots/) | `gefei/group-chat/screenshots/` |
 
 ## `gefei/wechat-articles`
 
-867 条。
+来源类型：wechat（公众号）。可见性：public。867 条。
 
 | 日期 | 标题 | 路径 |
 |---|---|---|
@@ -1230,3 +1266,11 @@
 | 2020-03-15 | [创业增长心理学](../gefei/wechat-articles/20200315_创业增长心理学.md) | `gefei/wechat-articles/20200315_创业增长心理学.md` |
 | 2020-01-15 | [今天内测的公众号付费阅读，我计算了一下平均在看价值，发现定价是个技术活](../gefei/wechat-articles/20200115_今天内测的公众号付费阅读，我计算了一下平均在看价值，发现定价是个技术活.md) | `gefei/wechat-articles/20200115_今天内测的公众号付费阅读，我计算了一下平均在看价值，发现定价是个技术活.md` |
 | 2019-10-14 | [从大学生抖音带货赚100万佣金说起聊聊互联网广告系统的规则漏洞](../gefei/wechat-articles/20191014_从大学生抖音带货赚100万佣金说起聊聊互联网广告系统的规则漏洞.md) | `gefei/wechat-articles/20191014_从大学生抖音带货赚100万佣金说起聊聊互联网广告系统的规则漏洞.md` |
+<!-- END MATERIAL LIST -->
+
+## 如何补充新材料
+
+1. 把新的原始文件放进已有目录：`gefei/wechat-articles/`（公众号）、`gefei/group-chat/`（会员群）、`gefei/github-seed/` 或 `gefei/github-member-repos/`（GitHub）。不要改已有原文，不要改名，不要移动旧路径。
+2. 若是新的来源类型或可见性，先改仓库根目录的 `people.yaml`。
+3. 在仓库根目录运行 `python3 scripts/classify.py`。
+4. 会员群和会员 GitHub 仓标 `member`。从会员材料蒸馏出的 skill 不得公开发布。

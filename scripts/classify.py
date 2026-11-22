@@ -1,18 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""按「哪些人、拿来做什么用」给 distill-sources 建索引。
+"""按「用途 → 人 → 来源类型」给 distill-sources 建索引。
 
-口径：
-  哥飞、西门 → 用途：出海
-  刘小排     → 用途：产品
+配置在仓库根目录 people.yaml。新增一个人：改配置、建目录、加人物卡，然后重跑本脚本。
 
-不移动、不改名、不改写任何原始材料。可重复运行，每次覆盖生成：
+不移动、不改名、不改写任何原始材料。可重复运行，覆盖生成：
   INDEX.md
-  people/gefei.md
-  people/ximen.md
-  people/liuxiaopai.md
-  people/other.md（仅当有「其他」时）
   index/classification.csv
+  people/<slug>.md 中 <!-- BEGIN MATERIAL LIST --> 与 <!-- END MATERIAL LIST --> 之间的清单
+  （人物卡其余手写部分不改）
+
+时间一律用北京时间（UTC+8）。
 
 用法：
   python3 scripts/classify.py
@@ -22,37 +20,26 @@ from __future__ import annotations
 
 import csv
 import datetime as dt
+import fnmatch
 import re
 import sys
 from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PEOPLE_DIR = ROOT / "people"
+CONFIG_PATH = ROOT / "people.yaml"
+INDEX_MD = ROOT / "INDEX.md"
 INDEX_DIR = ROOT / "index"
 CSV_PATH = INDEX_DIR / "classification.csv"
-INDEX_MD = ROOT / "INDEX.md"
+PEOPLE_DIR = ROOT / "people"
 
-# 人 → 默认用途。用途只允许：出海 / 产品 / 未分类
-PERSON_PURPOSE = {
-    "哥飞": "出海",
-    "西门": "出海",
-    "刘小排": "产品",
-}
+BEIJING = dt.timezone(dt.timedelta(hours=8))
+SOURCE_TYPES = ("wechat", "group-chat", "x", "github", "notes")
+VISIBILITIES = ("public", "member")
+BEGIN_MARK = "<!-- BEGIN MATERIAL LIST -->"
+END_MARK = "<!-- END MATERIAL LIST -->"
 
-PERSON_SLUG = {
-    "哥飞": "gefei",
-    "西门": "ximen",
-    "刘小排": "liuxiaopai",
-    "其他": "other",
-}
-
-PERSON_BLURB = {
-    "哥飞": "哥飞的公众号、会员群、会员整理的哥飞相关仓库，以及 GitHub 种子仓。用来做出海。",
-    "西门": "哆啦整理的西门笔记。用来做出海。",
-    "刘小排": "刘小排（@bourneliu66）的 X 归档。用来做产品。",
-    "其他": "无法归到哥飞、西门或刘小排的材料。",
-}
+SKIP_DIR_NAMES = {".git", ".github", ".obsidian", ".agents", "node_modules", "__pycache__"}
 
 DATE_IN_NAME = re.compile(
     r"(?:^|/)((?:20\d{2})[-_]?(?:0[1-9]|1[0-2])[-_]?(?:0[1-9]|[12]\d|3[01]))"
@@ -62,8 +49,134 @@ DATE_FIELD = re.compile(
 )
 ISO_DATE = re.compile(r"(20\d{2})[-年_]?(\d{2})[-月_]?(\d{2})")
 
-SKIP_DIR_NAMES = {".git", ".github", ".obsidian", ".agents", "node_modules", "__pycache__"}
 
+def now_beijing() -> str:
+    return dt.datetime.now(BEIJING).strftime("%Y-%m-%d %H:%M")
+
+
+# ---------- 极简 YAML 子集（无第三方依赖） ----------
+
+def load_yaml(path: Path) -> dict:
+    try:
+        import yaml  # type: ignore
+        return yaml.safe_load(path.read_text(encoding="utf-8"))
+    except ImportError:
+        return load_simple_yaml(path.read_text(encoding="utf-8"))
+
+
+def load_simple_yaml(text: str):
+    """解析本仓 people.yaml 用到的子集：注释、映射、列表、标量。"""
+    lines: list[tuple[int, str]] = []
+    for raw in text.splitlines():
+        if not raw.strip() or raw.lstrip().startswith("#"):
+            continue
+        indent = len(raw) - len(raw.lstrip(" "))
+        lines.append((indent, raw.strip()))
+
+    def parse_scalar(s: str):
+        if s in ("null", "~", ""):
+            return None
+        if s in ("true", "True"):
+            return True
+        if s in ("false", "False"):
+            return False
+        if (s.startswith('"') and s.endswith('"')) or (s.startswith("'") and s.endswith("'")):
+            return s[1:-1]
+        if re.fullmatch(r"-?\d+", s):
+            return int(s)
+        return s
+
+    def parse_flow(s: str):
+        s = s.strip()
+        if s.startswith("[") and s.endswith("]"):
+            inner = s[1:-1].strip()
+            if not inner:
+                return []
+            return [parse_scalar(p.strip()) for p in inner.split(",")]
+        return parse_scalar(s)
+
+    def parse_block(idx: int, indent: int):
+        # peek
+        if idx >= len(lines):
+            return None, idx
+        i, content = lines[idx]
+        if i < indent:
+            return None, idx
+        if content.startswith("- "):
+            return parse_list(idx, indent)
+        return parse_map(idx, indent)
+
+    def parse_map(idx: int, indent: int):
+        result = {}
+        while idx < len(lines):
+            i, content = lines[idx]
+            if i < indent:
+                break
+            if i > indent:
+                raise ValueError(f"YAML 缩进异常: {content}")
+            if content.startswith("- "):
+                break
+            if ":" not in content:
+                raise ValueError(f"YAML 行缺少冒号: {content}")
+            key, _, rest = content.partition(":")
+            key = key.strip()
+            rest = rest.strip()
+            idx += 1
+            if rest:
+                result[key] = parse_flow(rest)
+            else:
+                if idx < len(lines) and lines[idx][0] > indent:
+                    child, idx = parse_block(idx, lines[idx][0])
+                    result[key] = child
+                else:
+                    result[key] = None
+        return result, idx
+
+    def parse_list(idx: int, indent: int):
+        result = []
+        while idx < len(lines):
+            i, content = lines[idx]
+            if i < indent:
+                break
+            if i > indent:
+                raise ValueError(f"YAML 列表缩进异常: {content}")
+            if not content.startswith("- "):
+                break
+            item = content[2:].strip()
+            idx += 1
+            if not item:
+                if idx < len(lines) and lines[idx][0] > indent:
+                    child, idx = parse_block(idx, lines[idx][0])
+                    result.append(child)
+                else:
+                    result.append(None)
+            elif item.endswith(":") and (idx >= len(lines) or lines[idx][0] > indent or (idx < len(lines) and lines[idx][1].startswith("- "))):
+                # "- key:" with nested body, or just empty
+                key = item[:-1].strip()
+                if idx < len(lines) and lines[idx][0] > indent:
+                    child, idx = parse_block(idx, lines[idx][0])
+                    result.append({key: child})
+                else:
+                    result.append({key: None})
+            elif ":" in item and not item.startswith("[") and not item.startswith("'") and not item.startswith('"'):
+                key, _, rest = item.partition(":")
+                obj = {key.strip(): parse_flow(rest.strip())}
+                # following indented keys belong to this list dict
+                if idx < len(lines) and lines[idx][0] > indent and not lines[idx][1].startswith("- "):
+                    more, idx = parse_map(idx, lines[idx][0])
+                    obj.update(more)
+                result.append(obj)
+            else:
+                result.append(parse_flow(item))
+        return result, idx
+
+    doc, idx = parse_map(0, lines[0][0] if lines else 0)
+    if idx != len(lines):
+        raise ValueError(f"YAML 未解析完，停在: {lines[idx]}")
+    return doc
+
+
+# ---------- 文本与日期 ----------
 
 def norm_date(s: str | None) -> str:
     if not s:
@@ -117,43 +230,11 @@ def rel_posix(path: Path) -> str:
     return path.relative_to(ROOT).as_posix()
 
 
-def count_files(path: Path) -> int:
-    n = 0
-    for dirpath, dirs, files in path.walk() if hasattr(path, "walk") else []:
-        dirs[:] = [d for d in dirs if d not in SKIP_DIR_NAMES]
-        n += len(files)
-    if n == 0:
-        for dirpath, dirs, files in _walk(path):
-            n += len(files)
-    return n
-
-
-def _walk(path: Path):
-    for dirpath, dirs, files in __import__("os").walk(path):
+def walk_files(path: Path):
+    import os
+    for dirpath, dirs, files in os.walk(path):
         dirs[:] = [d for d in dirs if d not in SKIP_DIR_NAMES]
         yield dirpath, dirs, files
-
-
-def add(records: list[dict], path_str: str, person: str, title: str, date: str, collection: str) -> None:
-    purpose = PERSON_PURPOSE.get(person, "未分类")
-    records.append({
-        "path": path_str,
-        "source_person": person,
-        "purpose": purpose,
-        "title": title,
-        "date": date,
-        "collection": collection,
-    })
-
-
-def add_file(records: list[dict], path: Path, person: str, collection: str) -> None:
-    text = read_text_head(path)
-    title, date = extract_title_and_date(path, text)
-    add(records, rel_posix(path), person, title, date, collection)
-
-
-def add_dir(records: list[dict], path: Path, person: str, collection: str, title: str) -> None:
-    add(records, rel_posix(path) + "/", person, title, "", collection)
 
 
 def read_upstream_url(repo: Path) -> str:
@@ -165,89 +246,169 @@ def read_upstream_url(repo: Path) -> str:
     return m.group(1).rstrip("。") if m else ""
 
 
-def assign_member_repo_person(repo: Path, url: str) -> str:
-    """会员仓按 UPSTREAM / 仓库名归人。当前这批都是哥飞相关整理。"""
-    blob = f"{repo.name} {url}".lower()
-    if "liuxiaopai" in blob or "bourneliu" in blob or "刘小排" in blob:
-        return "刘小排"
-    if "ximen" in blob or "西门" in blob:
-        return "西门"
-    # gefei / 哥飞 / OpenGeFei / 其余会员整理的哥飞资料
-    if "gefei" in blob or "哥飞" in repo.name or "opengefei" in blob:
-        return "哥飞"
-    # 默认：放在 gefei/github-member-repos 下、且名称或上游指向哥飞方法论的，归哥飞
-    return "哥飞"
+# ---------- 扫描 ----------
+
+def rec(person: dict, src: dict, path_str: str, title: str, date: str, collection: str) -> dict:
+    purposes = person.get("purposes") or [person["primary_purpose"]]
+    vis = src.get("visibility") or "member"
+    if vis not in VISIBILITIES:
+        vis = "member"
+    st = src.get("source_type") or ""
+    return {
+        "path": path_str,
+        "source_person": person["name"],
+        "person_slug": person["slug"],
+        "source_type": st,
+        "visibility": vis,
+        "primary_purpose": person["primary_purpose"],
+        "purposes": ";".join(purposes),
+        "title": title,
+        "date": date,
+        "collection": collection,
+    }
 
 
-def scan(records: list[dict]) -> None:
-    # 哥飞公众号
-    d = ROOT / "gefei/wechat-articles"
-    for p in sorted(d.glob("*.md")):
-        add_file(records, p, "哥飞", "gefei/wechat-articles")
+def add_file(records: list, person: dict, src: dict, path: Path, collection: str) -> None:
+    text = read_text_head(path)
+    title, date = extract_title_and_date(path, text)
+    records.append(rec(person, src, rel_posix(path), title, date, collection))
 
-    # 会员群
-    d = ROOT / "gefei/group-chat"
-    for p in sorted(d.glob("*.md")):
-        add_file(records, p, "哥飞", "gefei/group-chat")
-    shots = d / "screenshots"
-    if shots.is_dir():
-        n = len(list(shots.glob("*")))
-        add_dir(records, shots, "哥飞", "gefei/group-chat", f"会员群截图（{n} 张，转录附件）")
 
-    # 西门笔记
-    d = ROOT / "gefei/ximen-notes"
-    for p in sorted(d.glob("*.md")):
-        add_file(records, p, "西门", "gefei/ximen-notes")
+def add_dir(records: list, person: dict, src: dict, path: Path, title: str, collection: str) -> None:
+    records.append(rec(person, src, rel_posix(path) + "/", title, "", collection))
 
-    # GitHub 种子仓 → 哥飞
-    d = ROOT / "gefei/github-seed"
-    for p in sorted(d.glob("*.md")) + sorted(d.glob("*.py")):
-        add_file(records, p, "哥飞", "gefei/github-seed")
-    pub = d / "公众号"
+
+def scan_files(records: list, person: dict, src: dict, base: Path) -> None:
+    if not base.exists():
+        print(f"警告: 路径不存在 {src['path']}", file=sys.stderr)
+        return
+    collection = src["path"].rstrip("/")
+    pattern = src.get("glob") or "*.md"
+    if base.is_file():
+        add_file(records, person, src, base, collection)
+        return
+    for p in sorted(base.glob(pattern)):
+        if p.is_file():
+            add_file(records, person, src, p, collection)
+    for unit in src.get("dir_units") or []:
+        rel = unit.get("rel") or unit.get("path")
+        if not rel:
+            continue
+        d = base / rel
+        if d.is_dir():
+            n = len([x for x in d.iterdir() if x.is_file()])
+            title = unit.get("title") or d.name
+            add_dir(records, person, src, d, f"{title}（{n} 个文件）", collection)
+
+
+def scan_github_seed(records: list, person: dict, src: dict, base: Path) -> None:
+    collection = src["path"].rstrip("/")
+    if not base.is_dir():
+        print(f"警告: 路径不存在 {src['path']}", file=sys.stderr)
+        return
+    for p in sorted(base.glob("*.md")) + sorted(base.glob("*.py")):
+        add_file(records, person, src, p, collection)
+    pub = base / "公众号"
     if pub.is_dir():
         for p in sorted(pub.iterdir()):
             if p.is_file() and p.suffix.lower() in {".md", ".txt"}:
-                add_file(records, p, "哥飞", "gefei/github-seed")
+                add_file(records, person, src, p, collection)
         imgs = [p for p in pub.iterdir() if p.suffix.lower() in {".jpg", ".jpeg", ".png"}]
         if imgs:
-            add(records, rel_posix(pub) + "/（封面图）", "哥飞", f"公众号目录封面图（{len(imgs)} 张）", "", "gefei/github-seed")
-    gf = d / "哥飞"
+            records.append(rec(
+                person, src, rel_posix(pub) + "/（封面图）",
+                f"公众号目录封面图（{len(imgs)} 张）", "", collection,
+            ))
+    gf = base / "哥飞"
     if gf.is_dir():
         for p in sorted(gf.iterdir()):
             if p.is_file() and p.suffix.lower() in {".md", ".txt"}:
-                add_file(records, p, "哥飞", "gefei/github-seed")
+                add_file(records, person, src, p, collection)
         cover = gf / "封面"
         if cover.is_dir():
-            n = len(list(cover.glob("*")))
-            add_dir(records, cover, "哥飞", "gefei/github-seed", f"哥飞文章封面图（{n} 张）")
+            n = len([x for x in cover.iterdir() if x.is_file()])
+            add_dir(records, person, src, cover, f"哥飞文章封面图（{n} 张）", collection)
 
-    # 会员 GitHub 仓：按仓归人，不逐文件打标签
-    base = ROOT / "gefei/github-member-repos"
+
+def scan_repos(records: list, person: dict, src: dict, base: Path) -> None:
+    collection = src["path"].rstrip("/")
+    if not base.is_dir():
+        print(f"警告: 路径不存在 {src['path']}", file=sys.stderr)
+        return
     for repo in sorted(base.iterdir()):
-        if not repo.is_dir():
+        if not repo.is_dir() or repo.name in SKIP_DIR_NAMES:
             continue
         url = read_upstream_url(repo)
-        person = assign_member_repo_person(repo, url)
-        n = sum(len(files) for _, _, files in _walk(repo))
+        n = sum(len(files) for _, _, files in walk_files(repo))
         title = f"{repo.name}（{n} 个文件）"
         if url:
             title = f"{title} {url}"
-        add_dir(records, repo, person, "gefei/github-member-repos", title)
+        add_dir(records, person, src, repo, title, collection)
 
-    # 刘小排 X 归档
-    d = ROOT / "liuxiaopai/x-archive"
+
+def scan_x_archive(records: list, person: dict, src: dict, base: Path) -> None:
+    collection = src["path"].rstrip("/")
+    if not base.is_dir():
+        print(f"警告: 路径不存在 {src['path']}", file=sys.stderr)
+        return
     for name in ("index.md", "all.md"):
-        p = d / name
+        p = base / name
         if p.is_file():
-            add_file(records, p, "刘小排", "liuxiaopai/x-archive")
-    arts = d / "articles"
+            add_file(records, person, src, p, collection)
+    arts = base / "articles"
     if arts.is_dir():
         for p in sorted(arts.glob("*.md")):
-            add_file(records, p, "刘小排", "liuxiaopai/x-archive")
-    raw = d / "raw"
+            add_file(records, person, src, p, collection)
+    raw = base / "raw"
     if raw.is_dir():
-        n = len(list(raw.glob("*")))
-        add_dir(records, raw, "刘小排", "liuxiaopai/x-archive", f"X 归档原始 JSON（{n} 个文件）")
+        n = len([x for x in raw.iterdir() if x.is_file()])
+        add_dir(records, person, src, raw, f"X 归档原始 JSON（{n} 个文件）", collection)
+
+
+SCANNERS = {
+    "files": scan_files,
+    "github-seed": scan_github_seed,
+    "repos": scan_repos,
+    "x-archive": scan_x_archive,
+    "notes": scan_files,
+}
+
+
+def scan_all(config: dict) -> list[dict]:
+    records: list[dict] = []
+    for person in config.get("people") or []:
+        for src in person.get("sources") or []:
+            st = src.get("source_type")
+            if st not in SOURCE_TYPES:
+                print(f"警告: 未知 source_type {st!r}（{person.get('slug')} {src.get('path')}），仍写入", file=sys.stderr)
+            vis = src.get("visibility") or "member"
+            if vis not in VISIBILITIES:
+                print(f"警告: 可见性 {vis!r} 非法，改标 member", file=sys.stderr)
+                src = {**src, "visibility": "member"}
+            scanner = src.get("scanner") or "files"
+            fn = SCANNERS.get(scanner)
+            if not fn:
+                print(f"警告: 未知 scanner {scanner!r}，改用 files", file=sys.stderr)
+                fn = scan_files
+            fn(records, person, src, ROOT / src["path"])
+    return records
+
+
+# ---------- 写出 ----------
+
+CSV_FIELDS = [
+    "path", "source_person", "source_type", "visibility",
+    "primary_purpose", "purposes", "title", "date", "collection",
+]
+
+
+def write_csv(records: list[dict]) -> None:
+    INDEX_DIR.mkdir(parents=True, exist_ok=True)
+    with CSV_PATH.open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=CSV_FIELDS, extrasaction="ignore")
+        w.writeheader()
+        for rec_ in sorted(records, key=lambda r: r["path"]):
+            w.writerow(rec_)
 
 
 def md_escape(s: str) -> str:
@@ -262,133 +423,183 @@ def link_from_people(path_str: str) -> str:
 
 
 def sort_recs(rows: list[dict]) -> list[dict]:
-    # 有日期的倒序在前，无日期的放最后
     return sorted(rows, key=lambda r: (r["date"] != "", r["date"], r["path"]), reverse=True)
 
 
-def write_csv(records: list[dict]) -> None:
-    INDEX_DIR.mkdir(parents=True, exist_ok=True)
-    fields = ["path", "source_person", "purpose", "title", "date", "collection"]
-    with CSV_PATH.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fields)
-        w.writeheader()
-        for rec in sorted(records, key=lambda r: r["path"]):
-            w.writerow(rec)
+def source_type_label(st: str) -> str:
+    return {
+        "wechat": "wechat（公众号）",
+        "group-chat": "group-chat（会员群）",
+        "x": "x（公开帖/长文）",
+        "github": "github",
+        "notes": "notes（笔记）",
+    }.get(st, st)
 
 
-def write_people_pages(records: list[dict]) -> None:
-    if PEOPLE_DIR.exists():
-        for old in PEOPLE_DIR.glob("*.md"):
-            old.unlink()
-    else:
-        PEOPLE_DIR.mkdir(parents=True, exist_ok=True)
+def coverage_of(rows: list[dict]) -> str:
+    dates = [r["date"] for r in rows if r["date"]]
+    return max(dates) if dates else ""
 
-    by_person: dict[str, list[dict]] = defaultdict(list)
-    for rec in records:
-        by_person[rec["source_person"]].append(rec)
 
-    # 只写有条目的人；「其他」没有就不写
-    order = ["哥飞", "西门", "刘小排", "其他"]
-    for person in order:
-        rows = by_person.get(person, [])
-        if person == "其他" and not rows:
-            continue
-        slug = PERSON_SLUG[person]
-        purpose = PERSON_PURPOSE.get(person, "未分类")
-        parts = [
-            f"# {person}",
+def render_material_list(person: dict, rows: list[dict]) -> str:
+    n_pub = sum(1 for r in rows if r["visibility"] == "public")
+    n_mem = sum(1 for r in rows if r["visibility"] == "member")
+    cov = coverage_of(rows)
+    purposes = person.get("purposes") or [person["primary_purpose"]]
+    lines = [
+        f"共 {len(rows)} 条；public {n_pub}，member {n_mem}。",
+        f"主用途：{person['primary_purpose']}。全部用途：{'、'.join(purposes)}。",
+    ]
+    if cov:
+        lines.append(f"材料日期覆盖至：{cov}。")
+    lines += ["", "由 `scripts/classify.py` 根据 `people.yaml` 生成。原文件未移动。", ""]
+
+    by_col: dict[tuple[str, str], list[dict]] = defaultdict(list)
+    for r in rows:
+        by_col[(r["collection"], r["source_type"])].append(r)
+    for collection, st in sorted(by_col):
+        items = by_col[(collection, st)]
+        vis = items[0]["visibility"] if items else ""
+        lines += [
+            f"## `{collection}`",
             "",
-            PERSON_BLURB[person],
+            f"来源类型：{source_type_label(st)}。可见性：{vis}。{len(items)} 条。",
             "",
-            f"- 人：{person}",
-            f"- 用途：{purpose}",
-            f"- 条目：{len(rows)}",
-            "",
-            "由 `scripts/classify.py` 生成。原文件未移动。",
-            "",
+            "| 日期 | 标题 | 路径 |",
+            "|---|---|---|",
         ]
-        # 按收藏夹分组
-        by_col: dict[str, list[dict]] = defaultdict(list)
-        for r in rows:
-            by_col[r["collection"]].append(r)
-        for col in sorted(by_col):
-            items = by_col[col]
-            parts += [f"## `{col}`", "", f"{len(items)} 条。", ""]
-            parts += [
-                "| 日期 | 标题 | 路径 |",
-                "|---|---|---|",
-            ]
-            for r in sort_recs(items):
-                title = md_escape(r["title"])
-                href = link_from_people(r["path"])
-                date = r["date"] or "—"
-                parts.append(f"| {date} | [{title}]({href}) | `{md_escape(r['path'])}` |")
-            parts.append("")
-        (PEOPLE_DIR / f"{slug}.md").write_text("\n".join(parts), encoding="utf-8")
+        for r in sort_recs(items):
+            title = md_escape(r["title"])
+            href = link_from_people(r["path"])
+            date = r["date"] or "—"
+            lines.append(f"| {date} | [{title}]({href}) | `{md_escape(r['path'])}` |")
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
 
 
-def write_index(records: list[dict], generated_at: str) -> None:
-    by_person: dict[str, list[dict]] = defaultdict(list)
-    by_purpose: dict[str, int] = defaultdict(int)
-    by_person_purpose: dict[tuple[str, str], int] = defaultdict(int)
-    unclassified = []
-    for rec in records:
-        by_person[rec["source_person"]].append(rec)
-        by_purpose[rec["purpose"]] += 1
-        by_person_purpose[(rec["source_person"], rec["purpose"])] += 1
-        if rec["purpose"] == "未分类" or rec["source_person"] == "其他":
-            unclassified.append(rec)
+def update_person_card(person: dict, rows: list[dict]) -> None:
+    slug = person["slug"]
+    card = PEOPLE_DIR / f"{slug}.md"
+    if not card.is_file():
+        print(f"警告: 缺少人物卡 {card.relative_to(ROOT)}，跳过（请从 templates/person-card.md 复制）", file=sys.stderr)
+        return
+    text = card.read_text(encoding="utf-8")
+    block = BEGIN_MARK + "\n" + render_material_list(person, rows) + END_MARK
+    if BEGIN_MARK in text and END_MARK in text:
+        text = re.sub(
+            re.escape(BEGIN_MARK) + r".*?" + re.escape(END_MARK),
+            block,
+            text,
+            count=1,
+            flags=re.S,
+        )
+    else:
+        text = text.rstrip() + "\n\n## 材料清单\n\n" + block + "\n"
+
+    cov = coverage_of(rows)
+    if cov:
+        text2, n = re.subn(
+            r"^coverage_until:.*$",
+            f'coverage_until: "{cov}"',
+            text,
+            count=1,
+            flags=re.M,
+        )
+        if n:
+            text = text2
+    # 按材料汇总更新人物级可见性
+    vis_set = {r["visibility"] for r in rows}
+    if vis_set == {"public"}:
+        pvis = "public"
+    elif vis_set == {"member"}:
+        pvis = "member"
+    elif vis_set:
+        pvis = "mixed"
+    else:
+        pvis = "待补"
+    text2, n = re.subn(r"^visibility:.*$", f"visibility: {pvis}", text, count=1, flags=re.M)
+    if n:
+        text = text2
+    card.write_text(text, encoding="utf-8")
+
+
+def write_index(config: dict, records: list[dict], generated_at: str) -> None:
+    people = config.get("people") or []
+    by_slug: dict[str, list[dict]] = defaultdict(list)
+    for r in records:
+        by_slug[r["person_slug"]].append(r)
+    known = list(config.get("known_purposes") or [])
+    # 按主用途分组；若某人有多个用途，在每个用途下都出现，并注明是否主用途
+    by_purpose: dict[str, list[dict]] = defaultdict(list)
+    seen_purposes = []
+    for person in people:
+        purposes = person.get("purposes") or [person["primary_purpose"]]
+        for pu in purposes:
+            by_purpose[pu].append(person)
+            if pu not in seen_purposes:
+                seen_purposes.append(pu)
+    order = [p for p in known if p in by_purpose] + [p for p in seen_purposes if p not in known]
 
     lines = [
-        "# 人物与用途索引",
+        "# 蒸馏原料索引",
         "",
-        "分类口径：**哪些人的材料，拿来做什么用。**",
+        "三层结构：**用途 → 人 → 来源类型**。",
         "",
-        "- 哥飞、西门 → **出海**",
-        "- 刘小排 → **产品**",
+        "- **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。已用：出海、产品。可扩展（例如 IP、AI 工具、具身智能）。",
+        "- **人**：每人一张人物卡，见 `people/<slug>.md`。",
+        "- **来源类型**：`wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）。",
         "",
-        "不是按 SEO、外链、需求挖掘等主题分类。",
+        "原文件不移动、不改名、不改内容。本文件与 `index/classification.csv`、人物卡里的材料清单由 [`scripts/classify.py`](scripts/classify.py) 根据 [`people.yaml`](people.yaml) 生成，可重跑。",
         "",
-        "- **原文件不移动、不改名、不改内容**。本文件与 `people/`、`index/classification.csv` 都是新增索引。",
-        "- 由 [`scripts/classify.py`](scripts/classify.py) 生成，可重跑。",
-        "- 会员 GitHub 仓按 `UPSTREAM.md` / 仓库名归到对应的人，只记到仓，不逐文件列出。`github-seed` 归哥飞。",
-        f"- 生成时间：{generated_at}（北京时间）。",
+        f"生成时间：{generated_at}（北京时间）。合计条目：{len(records)}。",
         "",
-        "## 一览",
-        "",
-        "| 人 | 用途 | 条目 | 清单 |",
-        "|---|---|---:|---|",
     ]
-    for person in ("哥飞", "西门", "刘小排", "其他"):
-        rows = by_person.get(person, [])
-        if person == "其他" and not rows:
-            continue
-        purpose = PERSON_PURPOSE.get(person, "未分类")
-        slug = PERSON_SLUG[person]
-        lines.append(f"| {person} | {purpose} | {len(rows)} | [{slug}.md](people/{slug}.md) |")
 
+    for pu in order:
+        persons = by_purpose[pu]
+        # 去重但保持配置顺序
+        uniq = []
+        seen = set()
+        for p in persons:
+            if p["slug"] in seen:
+                continue
+            seen.add(p["slug"])
+            uniq.append(p)
+        n_items = sum(len(by_slug.get(p["slug"], [])) for p in uniq)
+        lines += [
+            f"## 用途：{pu}",
+            "",
+            f"这类知识用来蒸馏「{pu}」相关 skill。{len(uniq)} 人，{n_items} 条。",
+            "",
+            "| 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |",
+            "|---|---|---|---:|---:|---:|---|",
+        ]
+        for p in uniq:
+            rows = by_slug.get(p["slug"], [])
+            n_pub = sum(1 for r in rows if r["visibility"] == "public")
+            n_mem = sum(1 for r in rows if r["visibility"] == "member")
+            all_pu = "、".join(p.get("purposes") or [p["primary_purpose"]])
+            mark = p["name"]
+            if p["primary_purpose"] != pu:
+                mark = f"{p['name']}（兼）"
+            lines.append(
+                f"| {mark} | {p['primary_purpose']} | {all_pu} | {len(rows)} | {n_pub} | {n_mem} | [{p['slug']}.md](people/{p['slug']}.md) |"
+            )
+        lines.append("")
+
+    # 可见性合计
+    n_pub = sum(1 for r in records if r["visibility"] == "public")
+    n_mem = sum(1 for r in records if r["visibility"] == "member")
     lines += [
+        "## 可见性",
         "",
-        f"合计条目：{len(records)}。",
+        f"合计 public {n_pub}，member {n_mem}。",
         "",
-        "## 用途对照",
+        "- `public`：公开公众号文章、公开 X 帖、公开的开源仓库。",
+        "- `member`：会员群材料、会员 GitHub 仓；拿不准的也标 member（例如非公开笔记）。",
+        "- **从会员材料蒸馏出的 skill 不得公开发布。** 本仓含会员内容，禁止改成公开仓库。",
         "",
-        "| 用途 | 对应的人 | 条目 |",
-        "|---|---|---:|",
-        f"| 出海 | 哥飞、西门 | {by_purpose.get('出海', 0)} |",
-        f"| 产品 | 刘小排 | {by_purpose.get('产品', 0)} |",
-        f"| 未分类 | — | {by_purpose.get('未分类', 0)} |",
-        "",
-        "细目来源见 [SOURCES.md](SOURCES.md)。",
-        "",
-        "## 覆盖范围",
-        "",
-        "- `gefei/wechat-articles/` → 哥飞 / 出海（逐篇）",
-        "- `gefei/group-chat/` → 哥飞 / 出海（转录逐篇，截图按目录）",
-        "- `gefei/github-seed/` → 哥飞 / 出海（文本逐篇，封面图按目录）",
-        "- `gefei/github-member-repos/` → 按仓归人（这批均为哥飞相关整理，出海）",
-        "- `gefei/ximen-notes/` → 西门 / 出海（逐篇）",
-        "- `liuxiaopai/x-archive/` → 刘小排 / 产品（长文/长帖逐篇，索引与 raw JSON 按条/目录）",
+        "细目来源见 [SOURCES.md](SOURCES.md)。新增一个人的步骤见 [README.md](README.md)。",
         "",
         "## 重跑",
         "",
@@ -397,74 +608,58 @@ def write_index(records: list[dict], generated_at: str) -> None:
         "```",
         "",
     ]
-    if unclassified:
-        lines += ["## 未分类 / 其他", "", "下列条目需要人工再看：", ""]
-        for r in unclassified:
-            lines.append(f"- `{r['path']}` 人={r['source_person']} 用途={r['purpose']} {r['title']}")
-        lines.append("")
-
     INDEX_MD.write_text("\n".join(lines), encoding="utf-8")
 
 
 def print_report(records: list[dict]) -> None:
-    by_person = defaultdict(int)
-    by_purpose = defaultdict(int)
-    by_col = defaultdict(int)
-    unc = []
+    by = defaultdict(lambda: {"n": 0, "public": 0, "member": 0, "types": defaultdict(int), "primary": "", "purposes": ""})
     for r in records:
-        by_person[r["source_person"]] += 1
-        by_purpose[r["purpose"]] += 1
-        by_col[(r["source_person"], r["collection"])] += 1
-        if r["purpose"] == "未分类" or r["source_person"] == "其他":
-            unc.append(r)
+        b = by[r["source_person"]]
+        b["n"] += 1
+        b[r["visibility"]] += 1
+        b["types"][r["source_type"]] += 1
+        b["primary"] = r["primary_purpose"]
+        b["purposes"] = r["purposes"]
     print("=== 按人 ===")
-    for person in ("哥飞", "西门", "刘小排", "其他"):
-        if person == "其他" and by_person.get(person, 0) == 0:
-            continue
-        print(f"  {person}（{PERSON_PURPOSE.get(person, '未分类')}）: {by_person.get(person, 0)}")
-        cols = [(col, n) for (p, col), n in by_col.items() if p == person]
-        for col, n in sorted(cols):
-            print(f"      {col}: {n}")
-    print("=== 用途 ===")
-    for k in ("出海", "产品", "未分类"):
-        print(f"  {k}: {by_purpose.get(k, 0)}")
+    for name, b in by.items():
+        types = ", ".join(f"{k}:{v}" for k, v in sorted(b["types"].items()))
+        print(f"  {name}  主用途={b['primary']} 用途={b['purposes']}  条目={b['n']}  public={b['public']} member={b['member']}  ({types})")
+    print("=== 可见性 ===")
+    print(f"  public: {sum(1 for r in records if r['visibility']=='public')}")
+    print(f"  member: {sum(1 for r in records if r['visibility']=='member')}")
     print(f"  合计: {len(records)}")
-    if unc:
-        print("=== 未分类/其他 ===")
-        for r in unc:
-            print(f"  {r['path']} {r['source_person']} {r['purpose']} {r['title']}")
-    else:
-        print("未分类: 0")
 
 
 def main() -> int:
-    if not (ROOT / "gefei").is_dir() or not (ROOT / "liuxiaopai").is_dir():
-        print(f"仓库结构不对，ROOT={ROOT}", file=sys.stderr)
+    if not CONFIG_PATH.is_file():
+        print(f"缺少 {CONFIG_PATH}", file=sys.stderr)
+        return 2
+    config = load_yaml(CONFIG_PATH)
+    if not config or not config.get("people"):
+        print("people.yaml 里没有 people", file=sys.stderr)
         return 2
 
-    # 清掉旧的按主题索引，避免错误口径留在仓里
-    stale_topics = ROOT / "TOPICS.md"
-    stale_dir = ROOT / "topics"
-    if stale_topics.exists():
-        stale_topics.unlink()
-        print("removed stale TOPICS.md")
-    if stale_dir.is_dir():
-        for p in stale_dir.glob("*.md"):
-            p.unlink()
-        try:
-            stale_dir.rmdir()
-            print("removed stale topics/")
-        except OSError:
-            pass
-
-    records: list[dict] = []
-    scan(records)
-    generated_at = dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
+    records = scan_all(config)
+    generated_at = now_beijing()
     write_csv(records)
-    write_people_pages(records)
-    write_index(records, generated_at)
+    write_index(config, records, generated_at)
+
+    by_slug: dict[str, list[dict]] = defaultdict(list)
+    for r in records:
+        by_slug[r["person_slug"]].append(r)
+    for person in config["people"]:
+        update_person_card(person, by_slug.get(person["slug"], []))
+
+    # 校验 yaml 解析是否把 sources 吃全
+    expected_people = {p["name"] for p in config["people"]}
+    seen = {r["source_person"] for r in records}
+    missing = expected_people - seen
+    if missing:
+        print(f"警告: 配置了但没有扫到材料的人: {missing}", file=sys.stderr)
+
     print_report(records)
-    print(f"wrote {INDEX_MD.relative_to(ROOT)}, {PEOPLE_DIR.relative_to(ROOT)}/, {CSV_PATH.relative_to(ROOT)}")
+    print(f"wrote {INDEX_MD.relative_to(ROOT)}, {CSV_PATH.relative_to(ROOT)}, people/* 材料清单")
+    print(f"beijing time: {generated_at}")
     return 0
 
 
