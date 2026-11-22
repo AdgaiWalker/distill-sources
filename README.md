@@ -33,9 +33,29 @@
 | `gefei/github-member-repos/` | 各会员整理的哥飞相关仓库工作区（已排除每个仓的 `.git`） | 哥飞 | github | member |
 | `gefei/ximen-notes/` | 西门笔记（历史路径，不移动） | 西门 | notes | member |
 | `liuxiaopai/x-archive/` | 刘小排 X 归档（帖子、长文、原始 JSON） | 刘小排 | x | public |
-| `poteto/x-archive/` | 土豆姐（@poteto）X 归档：Grok Bot 相关帖、长文、原始 JSON；无关帖见 other.md | 土豆姐（lauren） | x | public |
+| `poteto/x-archive/` | 土豆姐（@poteto）X 归档：Grok Bot 相关帖、长文、原始 JSON；无关帖见 other.md。原料全收并打类型标签 | 土豆姐（lauren） | x | public |
 | `bbkirstry/x-archive/` | 小晚不在（@bbkirstry）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 小晚不在 | x | public |
 | `gengdaj/x-archive/` | 逸尘（@gengdaJ）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 逸尘 | x | public |
+
+## X 材料收录与蒸馏规则
+
+原料全收，只打类型标签，不按类型删帖（哆啦 2026-11-22 定，取代此前「只收原创和长文」）。
+
+打标签（在仓库根目录）：
+
+```bash
+python3 scripts/tag_x.py
+```
+
+脚本读取各人 `x-archive/raw` 的原始 JSON，用 `referenced_tweets` / `in_reply_to_user_id` / 作者 id 判断类型。每条帖只打一个 `post_type`：`original` / `article` / `long` / `self-thread` / `reply` / `quote` / `retweet`（优先级：retweet > article > long > quote > self-thread > reply > original）。写出 [index/x-posts.csv](index/x-posts.csv)，并更新各人 `x-archive/index.md` 里的类型统计。不改原始 JSON、不删除原文。土豆姐的 `other.md`（与 Grok Bot 无关的已取帖）保留。
+
+定时更新收录新帖后也应再跑本脚本。
+
+蒸馏时：
+
+- **主料**：原创（`original`、`self-thread`）和长文（`article`、`long`）
+- **辅料**：有方法或观点的回复（`reply`）和引用（`quote`）；由 agy 按「有没有可执行方法」筛选
+- **不读**：纯寒暄，以及转帖（`retweet`）
 
 ## 可见性规则
 
@@ -54,11 +74,16 @@
 
 ## 重跑索引
 
+X 归档更新后先打标签，再重跑分类：
+
 ```bash
+python3 scripts/tag_x.py
 python3 scripts/classify.py
 ```
 
-脚本读 `people.yaml`，覆盖生成 `INDEX.md`、`index/classification.csv`，并只更新人物卡中 `<!-- BEGIN MATERIAL LIST -->` 与 `<!-- END MATERIAL LIST -->` 之间的清单，手写部分不动。时间使用北京时间。
+`tag_x.py` 写出 `index/x-posts.csv`，并只更新各人 `x-archive/index.md` 中 `<!-- BEGIN X TYPE TAGS -->` 与 `<!-- END X TYPE TAGS -->` 之间的类型统计，不删原文。
+
+`classify.py` 读 `people.yaml`，覆盖生成 `INDEX.md`、`index/classification.csv`，并只更新人物卡中 `<!-- BEGIN MATERIAL LIST -->` 与 `<!-- END MATERIAL LIST -->` 之间的清单，手写部分不动。时间使用北京时间。
 
 ## 不收录
 

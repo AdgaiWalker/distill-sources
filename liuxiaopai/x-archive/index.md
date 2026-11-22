@@ -65,6 +65,32 @@
 | 2026-10 | 39 |
 | 2026-11 | 22 |
 
+<!-- BEGIN X TYPE TAGS -->
+
+## 类型标签
+
+原料全收，只打类型标签，不按类型删除（哆啦 2026-11-22 定）。
+由 `scripts/tag_x.py` 生成；每条一个 `post_type`，优先级：retweet > article > long > quote > self-thread > reply > original。
+完整表见仓库根目录 [index/x-posts.csv](../../index/x-posts.csv)。
+
+蒸馏时：主料是原创（original、self-thread）和长文（article、long）；
+辅料是有方法或观点的回复（reply）和引用（quote），由 agy 按「有没有可执行方法」筛；
+纯寒暄和转帖（retweet）不读。
+
+- 合计：462
+- `original`（独立原创）：297
+- `article`（X Article）：3
+- `long`（长帖）：33
+- `self-thread`（自回复线程）：21
+- `reply`（回复别人）：53
+- `quote`（引用帖）：54
+- `retweet`（转帖）：1
+- 主料（original + article + long + self-thread）：354
+- 辅料候选（reply + quote）：107
+- 蒸馏时默认不读（retweet）：1
+
+<!-- END X TYPE TAGS -->
+
 ## 文件
 
 - 原始 JSON：`raw/user.json`、`raw/timeline_page_001.json` … `raw/timeline_page_020.json`、`raw/all_posts.json`

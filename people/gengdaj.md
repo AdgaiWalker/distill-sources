@@ -10,7 +10,7 @@ existing_skills: 待补
 sources:
   - x
 coverage_until: "2026-11-22"
-update_method: 待补（本次时间线与按月搜索均未翻完，可用同样的 x 只读接口续抓）
+update_method: 待补（本次时间线与按月搜索均未翻完，可用同样的 x 只读接口续抓；收录新帖后跑 `python3 scripts/tag_x.py`）
 visibility: public
 ---
 
@@ -24,6 +24,7 @@ visibility: public
 
 尚未单独做成一套「逸尘 skill」。简介中的 yichen-skill 是否已有可引用成品，待补。
 
+X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.csv`）。蒸馏时主料是原创和长文，辅料是有方法或观点的回复和引用（agy 按「有没有可执行方法」筛），纯寒暄和转帖不读。
 ## 已有相关 skill
 
 待补。
@@ -137,5 +138,6 @@ visibility: public
 
 1. 把新的原始文件放进该人在 `people.yaml` 里登记的目录（不要改已有原文，不要改名）。
 2. 若是新的来源类型或可见性，先改仓库根目录的 `people.yaml`。
-3. 在仓库根目录运行 `python3 scripts/classify.py`。
-4. 可见性拿不准时标 `member`。从会员材料蒸馏出的 skill 不得公开发布。
+3. 若更新了 X 归档，在仓库根目录先运行 `python3 scripts/tag_x.py` 重新打类型标签。
+4. 再运行 `python3 scripts/classify.py`。
+5. 可见性拿不准时标 `member`。从会员材料蒸馏出的 skill 不得公开发布。

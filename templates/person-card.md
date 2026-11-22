@@ -36,5 +36,6 @@ visibility: 待补
 
 1. 把新的原始文件放进该人在 `people.yaml` 里登记的目录（不要改已有原文，不要改名）。
 2. 若是新的来源类型或可见性，先改仓库根目录的 `people.yaml`。
-3. 在仓库根目录运行 `python3 scripts/classify.py`。
-4. 可见性拿不准时标 `member`。从会员材料蒸馏出的 skill 不得公开发布。
+3. 若更新了 X 归档，在仓库根目录先运行 `python3 scripts/tag_x.py` 重新打类型标签。
+4. 再运行 `python3 scripts/classify.py`。
+5. 可见性拿不准时标 `member`。从会员材料蒸馏出的 skill 不得公开发布。

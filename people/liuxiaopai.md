@@ -11,7 +11,7 @@ existing_skills:
 sources:
   - x
 coverage_until: "2026-11-22"
-update_method: 待补
+update_method: 待补（收录新帖后跑 `python3 scripts/tag_x.py`）
 visibility: public
 ---
 
@@ -25,6 +25,7 @@ visibility: public
 
 尚未单独做成一套「刘小排 skill」。
 
+X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.csv`）。蒸馏时主料是原创和长文，辅料是有方法或观点的回复和引用（agy 按「有没有可执行方法」筛），纯寒暄和转帖不读。
 ## 已有相关 skill
 
 - 补充页（非独立 skill）：本机 `/workspace/gefei/gefei-skill-pack/gefei/references/practitioner/liuxiaopai.md`
@@ -103,5 +104,5 @@ visibility: public
 
 1. 把新的 X 归档放进 `liuxiaopai/x-archive/`（文章进 `articles/`，原始 JSON 进 `raw/`）。不要改已有原文，不要改名。
 2. 若改来源类型或可见性，先改 `people.yaml`。
-3. 在仓库根目录运行 `python3 scripts/classify.py`。
+3. 更新 X 归档后，在仓库根目录先运行 `python3 scripts/tag_x.py` 重新打类型标签，再运行 `python3 scripts/classify.py`。
 4. 本批材料来自公开 X 帖，标 `public`。若以后收入会员内容，必须标 `member`，且由此蒸出的 skill 不得公开发布。

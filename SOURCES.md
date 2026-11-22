@@ -1,6 +1,6 @@
 # 来源与规模
 
-收录日期：2026-11-22。下列大小为复制后本仓内 `du -sh` 结果（不含上游 `.git`）。
+收录日期：2026-11-22。下列大小为复制后本仓内 `du -sh` 结果（不含上游 `.git`）。同日按哆啦规则：X 原料全收，只打类型标签（见 `scripts/tag_x.py` 与 [index/x-posts.csv](index/x-posts.csv)）；蒸馏时主料是原创和长文，辅料是有方法/观点的回复和引用，纯寒暄和转帖不读。
 
 ## 总览
 
@@ -39,29 +39,33 @@
 
 ### 刘小排 X 归档 `liuxiaopai/x-archive/`
 
-- `index.md`、`all.md`
+- `index.md`（含类型标签）、`all.md`
 - `articles/`：46 个文件（X Article 与长帖/长线程）
 - `raw/`：22 个文件（原始 JSON 等）
+- 原料全收，类型见 `index.md` 与仓库根目录 `index/x-posts.csv`
 
 ### 土豆姐 X 归档 `poteto/x-archive/`
 
-- `index.md`、`all.md`（Grok Bot 相关）、`other.md`（本次取到但明显无关）
+- `index.md`（含类型标签）、`all.md`（Grok Bot 相关）、`other.md`（本次取到但明显无关，保留）
 - `articles/`：42 个文件（X Article、长帖与长线程）
 - `raw/`：43 个文件（账号资料、合并帖、各次搜索/时间线原始 JSON）
+- 原料全收，类型见 `index.md` 与仓库根目录 `index/x-posts.csv`
 
 ### 小晚不在 X 归档 `bbkirstry/x-archive/`
 
-- `index.md`、`all.md`
+- `index.md`（含类型标签）、`all.md`
 - `articles/`：60 个文件（X Article、长帖与长线程）
 - `raw/`：33 个文件（账号资料、合并帖、时间线与各次搜索的原始 JSON）
 - 资料页公开帖数 2789，本次去重后取回 551 条（16 篇 X Article 均有全文）。未翻完，详见该目录 `index.md`。
+- 原料全收，类型见 `index.md` 与仓库根目录 `index/x-posts.csv`
 
 ### 逸尘 X 归档 `gengdaj/x-archive/`
 
-- `index.md`、`all.md`
+- `index.md`（含类型标签）、`all.md`
 - `articles/`：81 个文件（X Article、长帖与长线程）
 - `raw/`：34 个文件（账号资料、合并帖、时间线与各次搜索的原始 JSON）
 - 资料页公开帖数 4412，本次去重后取回 590 条（3 篇 X Article 均有全文）。未翻完，详见该目录 `index.md`。
+- 原料全收，类型见 `index.md` 与仓库根目录 `index/x-posts.csv`
 
 ### 会员 GitHub 工作区 `gefei/github-member-repos/`
 

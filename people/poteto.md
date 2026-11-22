@@ -10,7 +10,7 @@ existing_skills: 待补
 sources:
   - x
 coverage_until: "2026-11-22"
-update_method: 待补
+update_method: 待补（收录新帖后跑 `python3 scripts/tag_x.py`）
 visibility: public
 ---
 
@@ -22,6 +22,7 @@ visibility: public
 
 可核实的部分：账号简介写明在 [@SpaceXSI](https://x.com/SpaceXSI) 做 Grok Bot，并写过 React Compiler 核心组，以及此前在 Cursor、Meta、Netflix。本仓收有她公开 X 上与 Grok Bot 相关的帖子、长文、长帖与原始 JSON。
 
+X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.csv`）；与 Grok Bot 无关的已取帖仍在 `other.md`，不删。蒸馏时主料是原创和长文，辅料是有方法或观点的回复和引用（agy 按「有没有可执行方法」筛），纯寒暄和转帖不读。
 ## 已有相关 skill
 
 待补。
@@ -96,5 +97,6 @@ Grok Bot 使用方法。
 
 1. 把新的原始文件放进该人在 `people.yaml` 里登记的目录（不要改已有原文，不要改名）。
 2. 若是新的来源类型或可见性，先改仓库根目录的 `people.yaml`。
-3. 在仓库根目录运行 `python3 scripts/classify.py`。
-4. 可见性拿不准时标 `member`。从会员材料蒸馏出的 skill 不得公开发布。
+3. 若更新了 X 归档，在仓库根目录先运行 `python3 scripts/tag_x.py` 重新打类型标签。
+4. 再运行 `python3 scripts/classify.py`。
+5. 可见性拿不准时标 `member`。从会员材料蒸馏出的 skill 不得公开发布。

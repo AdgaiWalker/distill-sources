@@ -8,7 +8,7 @@
 
 原文件不移动、不改名、不改内容。本文件与 `index/classification.csv`、人物卡里的材料清单由 [`scripts/classify.py`](scripts/classify.py) 根据 [`people.yaml`](people.yaml) 生成，可重跑。
 
-生成时间：2026-11-22 18:14（北京时间）。合计条目：1437。
+生成时间：2026-11-22 18:26（北京时间）。合计条目：1437。
 
 ## 用途：出海
 
