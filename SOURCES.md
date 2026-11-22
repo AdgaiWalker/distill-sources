@@ -6,7 +6,7 @@
 
 | 仓内路径 | 本机原路径 | 上游 URL | 文件数 | 大小 |
 |---|---|---|---:|---|
-| `gefei/wechat-articles/` | `/workspace/gefei/articles/` | 无单独上游仓库；正文来自哥飞公众号 | 867 | 8.1M |
+| `gefei/wechat-articles/` | `/workspace/gefei/articles/` | 无单独上游仓库；正文来自哥飞公众号 | 883 | 8.3M |
 | `gefei/group-chat/` | `/workspace/gefei/group-chat/` | 无；会员群本地整理 | 14 | 1.7M |
 | `gefei/github-seed/` | `/workspace/gefei/github_seed/` | https://github.com/mundane799699/gefei_mp_export.git （收录时 commit `105cd6bed2c65c277502b5aed7c32156ca8887eb`） | 608 | 20M |
 | `gefei/ximen-notes/` | `/workspace/gefei/ximen-notes/` | 无；哆啦整理的西门笔记 | 1 | 8.0K |
@@ -22,7 +22,7 @@
 
 ### 哥飞公众号 `gefei/wechat-articles/`
 
-867 篇 markdown 正文。无上游 git 仓库。
+883 篇 markdown 正文。无上游 git 仓库。2026-11-22 补入 16 篇（11-08 之后 12 篇，以及此前缺的 11-02、11-03、11-04、11-07）。官方微信正文页触发环境异常，搜狗跳转被反爬，这 16 篇正文从 ReaderMX 收录，文首「来源」已注明；11-14 的 ReaderMX 条目是失败页，未收录。
 
 ### 会员群 `gefei/group-chat/`
 

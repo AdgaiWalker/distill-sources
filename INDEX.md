@@ -8,15 +8,15 @@
 
 原文件不移动、不改名、不改内容。本文件与 `index/classification.csv`、人物卡里的材料清单由 [`scripts/classify.py`](scripts/classify.py) 根据 [`people.yaml`](people.yaml) 生成，可重跑。
 
-生成时间：2026-11-22 18:26（北京时间）。合计条目：1437。
+生成时间：2026-11-23 04:01（北京时间）。合计条目：1453。
 
 ## 用途：出海
 
-这类知识用来蒸馏「出海」相关 skill。2 人，1196 条。
+这类知识用来蒸馏「出海」相关 skill。2 人，1212 条。
 
 | 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |
 |---|---|---|---:|---:|---:|---|
-| 哥飞 | 出海 | 出海 | 1195 | 1176 | 19 | [gefei.md](people/gefei.md) |
+| 哥飞 | 出海 | 出海 | 1211 | 1192 | 19 | [gefei.md](people/gefei.md) |
 | 西门 | 出海 | 出海 | 1 | 0 | 1 | [ximen.md](people/ximen.md) |
 
 ## 用途：产品
@@ -46,7 +46,7 @@
 
 ## 可见性
 
-合计 public 1417，member 20。
+合计 public 1433，member 20。
 
 - `public`：公开公众号文章、公开 X 帖、公开的开源仓库。
 - `member`：会员群材料、会员 GitHub 仓；拿不准的也标 member（例如非公开笔记）。

@@ -27,7 +27,7 @@
 
 | 目录 | 内容 | 人 | 来源类型 | 可见性 |
 |---|---|---|---|---|
-| `gefei/wechat-articles/` | 哥飞公众号正文 markdown（867 篇） | 哥飞 | wechat | public |
+| `gefei/wechat-articles/` | 哥飞公众号正文 markdown（883 篇） | 哥飞 | wechat | public |
 | `gefei/group-chat/` | 会员群记录与截图 | 哥飞 | group-chat | member |
 | `gefei/github-seed/` | GitHub 会员资料种子仓工作区（已排除 `.git`）；上游 [mundane799699/gefei_mp_export](https://github.com/mundane799699/gefei_mp_export) | 哥飞 | github | public |
 | `gefei/github-member-repos/` | 各会员整理的哥飞相关仓库工作区（已排除每个仓的 `.git`） | 哥飞 | github | member |
@@ -61,7 +61,7 @@ python3 scripts/tag_x.py
 
 ## 原料统计
 
-由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-22 20:48 北京时间）。只列统计数字，不含会员内容原文。更新原料后请依次跑 `tag_x.py`、`classify.py`、`stats.py`。
+由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 04:01 北京时间）。只列统计数字，不含会员内容原文。更新原料后请依次跑 `tag_x.py`、`classify.py`、`stats.py`。
 
 ### X 帖子类型
 
@@ -77,19 +77,19 @@ python3 scripts/tag_x.py
 
 ### 按人 × 来源类型
 
-单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1437 条（public 1417，member 20）。
+单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1453 条（public 1433，member 20）。
 X 列是归档文件条目（`index.md` / `all.md` / `articles/` / `raw/`），不是帖子数；帖子见上表。
 会员 GitHub 仓按仓计 1 条；会员群只记条目数量（记录与截图目录），不写入原文。
 
 | 人 | 公众号文章 | 会员群 | GitHub 资料 | X | 笔记 | 合计 | public | member |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 哥飞 | 867 | 4 | 324 | 0 | 0 | 1195 | 1176 | 19 |
+| 哥飞 | 883 | 4 | 324 | 0 | 0 | 1211 | 1192 | 19 |
 | 西门 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 |
 | 刘小排 | 0 | 0 | 0 | 49 | 0 | 49 | 49 | 0 |
 | 土豆姐（lauren） | 0 | 0 | 0 | 45 | 0 | 45 | 45 | 0 |
 | 小晚不在 | 0 | 0 | 0 | 63 | 0 | 63 | 63 | 0 |
 | 逸尘 | 0 | 0 | 0 | 84 | 0 | 84 | 84 | 0 |
-| 合计 | 867 | 4 | 324 | 241 | 1 | 1437 | 1417 | 20 |
+| 合计 | 883 | 4 | 324 | 241 | 1 | 1453 | 1433 | 20 |
 
 <!-- END STATS -->
 
