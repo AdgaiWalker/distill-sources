@@ -1,0 +1,790 @@
+{
+  "data": [
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-17T06:14:25.000Z",
+      "edit_history_tweet_ids": [
+        "2100468398774006223"
+      ],
+      "id": "2100468398774006223",
+      "in_reply_to_user_id": "2095830745533329408",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1026,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100458117360500989",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@crnobog2026 在哪儿爆的",
+      "url": "https://x.com/bourneliu66/status/2100468398774006223"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-17T05:14:20.000Z",
+      "edit_history_tweet_ids": [
+        "2100453275929907246"
+      ],
+      "id": "2100453275929907246",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 11901,
+        "like_count": 5,
+        "quote_count": 1,
+        "reply_count": 13,
+        "retweet_count": 0
+      },
+      "text": "Union Alpha 肯定不是中国模型。",
+      "url": "https://x.com/bourneliu66/status/2100453275929907246"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-13T02:59:14.000Z",
+      "edit_history_tweet_ids": [
+        "2098969726236102721"
+      ],
+      "id": "2098969726236102721",
+      "in_reply_to_user_id": "1650822571032739841",
+      "public_metrics": {
+        "bookmark_count": 21,
+        "impression_count": 9366,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2098712981018485088",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nuannuan_share 谢谢 不过 raphael ai 地址是 https://t.co/TIhlmaDBNd\n 你发的是一个山寨版的地址",
+      "url": "https://x.com/bourneliu66/status/2098969726236102721"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2097105733922021376"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-09-07T23:32:26.000Z",
+      "edit_history_tweet_ids": [
+        "2097105743300460851"
+      ],
+      "id": "2097105743300460851",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 13622,
+        "like_count": 15,
+        "quote_count": 3,
+        "reply_count": 201,
+        "retweet_count": 0
+      },
+      "text": "这都什么年代了 \n豆包连个时区都还算不明白。\n\n很多人说，在豆包上做 GEO 好做。我在想，是不是因为：智商低比较好骗？\n\n（Tibo 说 6m PST codex 会重置，我让豆包计算北京时间，豆包斩钉截铁说是凌晨 1 点😂） https://t.co/lFwgMvRQy2",
+      "url": "https://x.com/bourneliu66/status/2097105743300460851"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-07T17:14:52.000Z",
+      "edit_history_tweet_ids": [
+        "2097010725642530999"
+      ],
+      "id": "2097010725642530999",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 12032,
+        "like_count": 56,
+        "quote_count": 0,
+        "reply_count": 83,
+        "retweet_count": 3
+      },
+      "text": "GPT-6 Astra唯一正确用法：把你电脑给它！\n\n在GPT-6 Astra面前，我就像是一个从来不会用电脑、只会胡乱随机点击的孩子！我简直不配用我的电脑！",
+      "url": "https://x.com/bourneliu66/status/2097010725642530999"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-07T15:32:08.000Z",
+      "edit_history_tweet_ids": [
+        "2096984874800591119"
+      ],
+      "id": "2096984874800591119",
+      "public_metrics": {
+        "bookmark_count": 264,
+        "impression_count": 97090,
+        "like_count": 510,
+        "quote_count": 13,
+        "reply_count": 167,
+        "retweet_count": 38
+      },
+      "text": "GPT-6 Astra 又杀死了好多创业公司。\n\n知识库的、自动操作沙箱电脑的、深度研究的、生成 PPT 的、分析 Excel 的、读论文写报告的、跨工具执行任务的……\n\n需求还在，但用户可能不再需要为此专门再开一个网站、再装一个软件、再买一份订阅\n\n想问问和我一样还在做 AI 产品的人：你们接下来有何打算？",
+      "url": "https://x.com/bourneliu66/status/2096984874800591119"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-04T01:26:41.000Z",
+      "edit_history_tweet_ids": [
+        "2095684943041241178"
+      ],
+      "id": "2095684943041241178",
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 23802,
+        "like_count": 46,
+        "quote_count": 3,
+        "reply_count": 40,
+        "retweet_count": 0
+      },
+      "text": "我猜测 GPT 6 Astra的编程能力不会有大提升\n\n大家好 我是刘小排。\n\n早上刚醒就被GPT-6 Astra刷屏了。\n\n根据小道消息，GPT-6 很是今年内将会发布的尺寸最大的一个模型。我相当的期待。\n\n我目前还没有用上。 不过我有一些猜测，先写到这里，等我们用上的时候，可以再回来看看猜的对不对。\n\n❶",
+      "url": "https://x.com/bourneliu66/status/2095684943041241178"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2095445771328045056"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-09-03T09:37:33.000Z",
+      "edit_history_tweet_ids": [
+        "2095446089667350929"
+      ],
+      "id": "2095446089667350929",
+      "public_metrics": {
+        "bookmark_count": 37,
+        "impression_count": 65305,
+        "like_count": 109,
+        "quote_count": 21,
+        "reply_count": 49,
+        "retweet_count": 6
+      },
+      "text": "？ https://t.co/XjHXpkMhSE",
+      "url": "https://x.com/bourneliu66/status/2095446089667350929"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-02T03:04:50.000Z",
+      "edit_history_tweet_ids": [
+        "2094984871659921664"
+      ],
+      "id": "2094984871659921664",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 22189,
+        "like_count": 70,
+        "quote_count": 1,
+        "reply_count": 45,
+        "retweet_count": 1
+      },
+      "text": "Fable 5.1 真是跨时代级的大进步！\n至少提升了 100%！ \n（我说的是它消耗 rate limit 的速度。）",
+      "url": "https://x.com/bourneliu66/status/2094984871659921664"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-01T16:46:49.000Z",
+      "edit_history_tweet_ids": [
+        "2094829341473751381"
+      ],
+      "id": "2094829341473751381",
+      "public_metrics": {
+        "bookmark_count": 880,
+        "impression_count": 186051,
+        "like_count": 574,
+        "quote_count": 12,
+        "reply_count": 168,
+        "retweet_count": 58
+      },
+      "text": "我宣布： Grok Bot 吊打一切OpenClaw、Hermes类伪数字员工！\n\nOpenClaw/Hermes能干的事，Grok Bot都能干；OpenClaw/Hermes不能干的事，它也能干！\n\n我自己的一些具体的场景，我梳理出来了一些，希望可以给你启发。\n\n详见这个链接 https://t.co/CzxyFqffLk\n\n评论区也有很多案例。也欢迎你补充。谢谢。",
+      "url": "https://x.com/bourneliu66/status/2094829341473751381"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-09-01T09:11:42.000Z",
+      "edit_history_tweet_ids": [
+        "2094714807694090415"
+      ],
+      "id": "2094714807694090415",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 10584,
+        "like_count": 14,
+        "quote_count": 1,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "text": "GrokBot = Jarvis",
+      "url": "https://x.com/bourneliu66/status/2094714807694090415"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2091012466985598976"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-08-22T03:59:58.000Z",
+      "edit_history_tweet_ids": [
+        "2091012479249789121"
+      ],
+      "id": "2091012479249789121",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7535,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1
+      },
+      "text": "耳边响起了《狮子王》的背景音乐 https://t.co/VGtkWFgERQ",
+      "url": "https://x.com/bourneliu66/status/2091012479249789121"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2089064047836794880"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-08-16T18:57:39.000Z",
+      "edit_history_tweet_ids": [
+        "2089064061078298842"
+      ],
+      "id": "2089064061078298842",
+      "public_metrics": {
+        "bookmark_count": 62,
+        "impression_count": 23903,
+        "like_count": 64,
+        "quote_count": 2,
+        "reply_count": 68,
+        "retweet_count": 4
+      },
+      "text": "发明了一个新玩法：\n\n每次 Claude Code 写完代码，自动找5 名“同事”开会审核\n\n包括：\n- GPT-5.6-Sol  Max\n- ChatGPT Pro \n- Claude Opus 5\n- GLM 5.3\n- Grok 4.6 xhigh\n\n一个篱笆 3个桩 \n一个AI  5个帮 https://t.co/I5kIZoZW1w",
+      "url": "https://x.com/bourneliu66/status/2089064061078298842"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2088904693405904896"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-08-16T08:24:25.000Z",
+      "edit_history_tweet_ids": [
+        "2088904701295341629"
+      ],
+      "id": "2088904701295341629",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 8665,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 18,
+        "retweet_count": 0
+      },
+      "text": "我正在看 Sam Altman 的采访视频，\n突然，\n一条评论跳了出来 😂 @thsottiaux https://t.co/k5a0Y3RaVZ",
+      "url": "https://x.com/bourneliu66/status/2088904701295341629"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2088290313957982208"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-08-14T15:44:56.000Z",
+      "edit_history_tweet_ids": [
+        "2088290784743464970"
+      ],
+      "id": "2088290784743464970",
+      "public_metrics": {
+        "bookmark_count": 401,
+        "impression_count": 167084,
+        "like_count": 634,
+        "quote_count": 17,
+        "reply_count": 157,
+        "retweet_count": 58
+      },
+      "text": "一件非常恐怖的事，悄然发生了： Qwen3.8-27B 在大部分能力上都超过或逼近了Claude Opus 4.6 Max！\n\n也就是说，从今天开始，你在自己的电脑上、单机单卡能够部署的小模型，已经拥有了不逊于Claude Opus 4.6(半年前的世界之巅）的智能！ \n\n无论是写代码、还是驱动OpenClaw ！ https://t.co/JioCrOQ2sg",
+      "url": "https://x.com/bourneliu66/status/2088290784743464970"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-08-14T10:14:39.000Z",
+      "edit_history_tweet_ids": [
+        "2088207666086883552"
+      ],
+      "id": "2088207666086883552",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 12801,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 32,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2088059987855810983",
+          "type": "quoted"
+        }
+      ],
+      "text": "哎哟，有意思！支持。 https://t.co/BJloDsYy0E",
+      "url": "https://x.com/bourneliu66/status/2088207666086883552"
+    },
+    {
+      "article": {
+        "plain_text": "每次我回答「AI 什么都会，我们为什么还要学习？」时，都会想起一段往事。\n\n以前我在微软工作时，旁听过一场远程面试。\n候选人几乎答对了所有问题，答案听上去也很完整。面试结束，同事却决定不录用。\n我问为什么。他说：\"答案都对，但他一直在 struggle。\"\n那种 struggle 不是不会，是每问一个稍深的问题，他都要停顿很久；答案本身正确，却和上一题接不上。面试官一改条件、一追问、一让他把结论套到新场景里，他就得从头组织。\n\n我们当时有个没有证据的猜测：他可能一边开着 Google，一边回答。\n让他挂掉面试的，不是他有没有查、有没有查到正确答案，是面试官无法确认：这些答案，究竟是从他的知识体系里长出来的，还是刚刚捡回来的。\n\n对于「AI 什么都会，我们为什么还要学习？」这个问题，\n前几天看 Patrick Collison 的采访，\n他给了我见过的最好的答案：知识是L1 Cache。\n\n一点点计算机基础知识：CPU取数据是分层的。\n上网最慢，硬盘次之，内存更快，\n而 L1 缓存就贴在处理器旁边，小得可怜，快得离谱。数据在里面，立刻可用；不在，就得往外找，越远越慢。\n\n人脑一样。你真正理解并记住的东西，在 L1 里。需要时不用“调取”，它本来就在，还能在几秒甚至几毫秒内和别的知识反复组合、比较、推翻、重来，我们可以称之为“直觉”或“品味”。\n\nAI 出现之后，很多人以为：既然什么都能查，那还需要自己学吗？是不是学得慢，就可以不学了？\n\n我私下认为，「自己立即出答案」和「通过问AI出答案」，有两个重要区别\n第一个：「查一次要多久」？\n第二个：「延迟高到一定程度，某些思考根本不会发生。」\n\n例如，同样面对Vibe Coding，\n\n不懂的人：用着3万的电脑、买着$200/月的Coding Plan、耗费1年时间、天天晒自己每天消耗多少Token，但是，0个用户。这种老登，真的，无处不在。\n\n真懂的人：潜意识里关注 —— 值得做吗、有没有商业价值、我的用户在哪儿、安全性有没有问题、性能方面我要如何改进、这个产品我该用TanStack还是NextJS、如果用户翻十倍我架构怎么改……\n\n这些问题不是他去查的，在他的头脑的L1 Cache里，是知识自己冒出来的。\n而外部知识——不管是 Google 还是 AI——只有你先想到要问，它才会出现。\n\n你不知道该问什么的时候，全世界的答案对你都等于零。\n\nAI是一块无限大的硬盘，接在你的CPU上。\n硬盘再大，也不会替你扩容 L1。\n\n这就是为什么AI时代，我们仍然需要学习。",
+        "preview_text": "每次我回答「AI 什么都会，我们为什么还要学习？」时，都会想起一段往事。\n\n以前我在微软工作时，旁听过一场远程面试。\n候选人几乎答对了所有问题，答案听上去也很完整。面试结束，同事却决定不录用。",
+        "title": "AI什么都会，我们为什么还要学习？"
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-08-14T10:10:11.000Z",
+      "edit_history_tweet_ids": [
+        "2088206544987181113"
+      ],
+      "id": "2088206544987181113",
+      "public_metrics": {
+        "bookmark_count": 147,
+        "impression_count": 26572,
+        "like_count": 120,
+        "quote_count": 6,
+        "reply_count": 23,
+        "retweet_count": 18
+      },
+      "text": "https://t.co/X8BY8m66tq",
+      "url": "https://x.com/bourneliu66/status/2088206544987181113"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-08-14T10:07:57.000Z",
+      "edit_history_tweet_ids": [
+        "2088205980383547859"
+      ],
+      "id": "2088205980383547859",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 19554,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 40,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2078936824005988417",
+          "type": "quoted"
+        }
+      ],
+      "text": "来复习一下 我在一个月前的预测。当时，很多人不信。现在看看？\n\n恭喜 Qwen 3.8、GLM 5.3 ！ https://t.co/JiLo0aZ9uW",
+      "url": "https://x.com/bourneliu66/status/2088205980383547859"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-08-14T09:24:15.000Z",
+      "edit_history_tweet_ids": [
+        "2088194985485340990"
+      ],
+      "id": "2088194985485340990",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 23397,
+        "like_count": 45,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2088175504277070324",
+          "type": "quoted"
+        }
+      ],
+      "text": "再加一条\n\nGLM 5.3 &gt;&gt; DeepSeek V4 Pro 0813 https://t.co/FSKD52UacH",
+      "url": "https://x.com/bourneliu66/status/2088194985485340990"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-08-14T08:06:51.000Z",
+      "edit_history_tweet_ids": [
+        "2088175504277070324"
+      ],
+      "id": "2088175504277070324",
+      "public_metrics": {
+        "bookmark_count": 63,
+        "impression_count": 112580,
+        "like_count": 194,
+        "quote_count": 6,
+        "reply_count": 77,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2088136361748598928",
+          "type": "quoted"
+        }
+      ],
+      "text": "说一个很多人没注意到的事实： \n\nGemini Flash 3.7 &gt; DeepSeek V4 Pro 0813  \n\n包括并不限于：速度、代码能力、审美、多模态能力 https://t.co/c1sqf90XBt",
+      "url": "https://x.com/bourneliu66/status/2088175504277070324"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-08-14T05:31:18.000Z",
+      "edit_history_tweet_ids": [
+        "2088136361748598928"
+      ],
+      "id": "2088136361748598928",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 139286,
+        "like_count": 93,
+        "quote_count": 1,
+        "reply_count": 45,
+        "retweet_count": 3
+      },
+      "text": "Gemini 3.7 Flash 出乎意外的好用耶。\n\nGemini 这次有望从“美国豆包”的阴影里走出来（一点点）了",
+      "url": "https://x.com/bourneliu66/status/2088136361748598928"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-08-13T17:54:40.000Z",
+      "edit_history_tweet_ids": [
+        "2087961046179041492"
+      ],
+      "id": "2087961046179041492",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 16687,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 47,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2087955421818757156",
+          "type": "quoted"
+        }
+      ],
+      "text": "这个不能称之为证据啊，你可以点进去看一看。这个文件夹是为了方便 Claude Code 能够使用DHS 内置的 skill。这是有意为之的，挺好的设计。 https://t.co/5QY9aEBSaM",
+      "url": "https://x.com/bourneliu66/status/2087961046179041492"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-08-13T16:56:29.000Z",
+      "edit_history_tweet_ids": [
+        "2087946401825378347"
+      ],
+      "id": "2087946401825378347",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 31983,
+        "like_count": 55,
+        "quote_count": 1,
+        "reply_count": 79,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2086189381078139350",
+          "type": "quoted"
+        }
+      ],
+      "text": "我原本预测Codex会在8月14日重置，因为8月13日大家的重置卡过期。\n我预测失败了。因为，我完全没想到，  @thsottiaux  老师比我以为的还要更腹黑：他竟然选择在8月13日当天重置，这比在8月14日重置更省钱。 👍 https://t.co/Dt8WmxTcHq",
+      "url": "https://x.com/bourneliu66/status/2087946401825378347"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2087940405144981508"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-08-13T16:36:09.000Z",
+      "edit_history_tweet_ids": [
+        "2087941286913511542"
+      ],
+      "id": "2087941286913511542",
+      "public_metrics": {
+        "bookmark_count": 28,
+        "impression_count": 54626,
+        "like_count": 44,
+        "quote_count": 8,
+        "reply_count": 124,
+        "retweet_count": 1
+      },
+      "text": "DeepSeek Harness 在开发时候明显使用了Claude Code (看截图，你肯定懂），并且在新版本抹去了痕迹。\n\nhttps://t.co/6QwedVBjVE\n\n真诚发问：\n\n1. 既然DeepSeek Harness这么好，为什么你们要用Claude Code呢? \n\n2.用Claude Code，大方承认不好吗，为何要欲盖弥彰地抹去痕迹呢？ https://t.co/P8JmTWxETe",
+      "url": "https://x.com/bourneliu66/status/2087941286913511542"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-08-13T13:51:13.000Z",
+      "edit_history_tweet_ids": [
+        "2087899781389811883"
+      ],
+      "id": "2087899781389811883",
+      "public_metrics": {
+        "bookmark_count": 121,
+        "impression_count": 314215,
+        "like_count": 720,
+        "quote_count": 10,
+        "reply_count": 287,
+        "retweet_count": 26
+      },
+      "text": "DeepSeek真牛，\n连续让人失望三次，Anthropic花了三个月才做到，DeepSeek一天之内就做到了\n\n1. DeepSeek v4 Pro 0831大翻车，实测写代码跟Flash差不多，甚至不如\n2. 大涨价\n3. 自嗨且难用的DeepSeek Harness",
+      "url": "https://x.com/bourneliu66/status/2087899781389811883"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2097105733922021376",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpqjdbbYAAJ5QN.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2232,
+        "media_key": "3_2095445771328045056",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSE064aQAAnPqj.jpg",
+        "width": 1008
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2091012466985598976",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTEwpOXAAAIwFw.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2089064047836794880",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3YruRaEAAR1x9.jpg",
+        "width": 2608
+      },
+      {
+        "height": 1469,
+        "media_key": "3_2088904693405904896",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1HwEwa8AA5dQn.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2088290313957982208",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsY-e9awAAqmjN.jpg",
+        "width": 1686
+      },
+      {
+        "height": 1726,
+        "media_key": "3_2087940405144981508",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnavHDaEAQ5Bzp.jpg",
+        "width": 2354
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "2095830745533329408",
+        "created_at": "2026-09-17T05:33:34.000Z",
+        "edit_history_tweet_ids": [
+          "2100458117360500989"
+        ],
+        "id": "2100458117360500989",
+        "in_reply_to_user_id": "2815325906",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1096,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100453275929907246",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 已经自爆了， Cloudflare的。"
+      },
+      {
+        "author_id": "1650822571032739841",
+        "created_at": "2026-09-12T09:59:01.000Z",
+        "edit_history_tweet_ids": [
+          "2098712981018485088"
+        ],
+        "id": "2098712981018485088",
+        "public_metrics": {
+          "bookmark_count": 14146,
+          "impression_count": 1110499,
+          "like_count": 10680,
+          "quote_count": 35,
+          "reply_count": 167,
+          "retweet_count": 1629
+        },
+        "text": "30 个感觉「非法」却合法的 AI 网站\n\n1. https://t.co/HkLghunEV6 — 免费无限 AI 生图，质量直逼 Midjourney\n\n2. https://t.co/PQJnfofrnJ — 实时 AI 生图，边画边出图\n\n3. https://t.co/13TfPavLJn — AI 无限放大图片，细节自动补全\n\n4. https://t.co/Zar7Cp2kxv — AI 一键去背景/补光/擦除\n\n5."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2088059975054798848"
+          ]
+        },
+        "author_id": "2046153169109999616",
+        "created_at": "2026-08-14T00:27:50.000Z",
+        "edit_history_tweet_ids": [
+          "2088059987855810983"
+        ],
+        "id": "2088059987855810983",
+        "public_metrics": {
+          "bookmark_count": 1574,
+          "impression_count": 866151,
+          "like_count": 1533,
+          "quote_count": 75,
+          "reply_count": 140,
+          "retweet_count": 226
+        },
+        "text": "昨晚DeepSeek Harness 发布了\n我们把官方 DeepSeek Harness 打包成了一个开箱即用的桌面应用\n\n不需要安装 Node.js，也不用再通过命令行启动\n\n目前支持：\nmacOS Apple Silicon\nWindows x64\n本地运行\n自动管理 Harness 服务\n保留官方插件能力和 Web UI\n\nGitHub：https://t.co/V9YeE4ou9Y https://t.co/djIT8U0Tkh"
+      },
+      {
+        "author_id": "2815325906",
+        "created_at": "2026-07-19T20:15:38.000Z",
+        "edit_history_tweet_ids": [
+          "2078936524914356599",
+          "2078936824005988417"
+        ],
+        "id": "2078936824005988417",
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 91652,
+          "like_count": 328,
+          "quote_count": 12,
+          "reply_count": 107,
+          "retweet_count": 16
+        },
+        "text": "预测：\n 一个月内，中国模型将大爆发，全面超过Opus 4.8 ！ 包括并不限于以下厂商的很快会发布的模型\n\n- Kimi K3 ，已发布\n- Qwen 3.8， 一周内发布\n- Minimax 下一代， 一月内发布\n- Deepseek v4 Pro Max ，一周内发布\n- GLM 5.3/5.5，一个月内发布\n\n很快，就算Claude Code封号，我们也不怕了！"
+      },
+      {
+        "author_id": "2815325906",
+        "created_at": "2026-08-14T08:06:51.000Z",
+        "edit_history_tweet_ids": [
+          "2088175504277070324"
+        ],
+        "id": "2088175504277070324",
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 112580,
+          "like_count": 194,
+          "quote_count": 6,
+          "reply_count": 77,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088136361748598928",
+            "type": "quoted"
+          }
+        ],
+        "text": "说一个很多人没注意到的事实： \n\nGemini Flash 3.7 &gt; DeepSeek V4 Pro 0813  \n\n包括并不限于：速度、代码能力、审美、多模态能力 https://t.co/c1sqf90XBt"
+      },
+      {
+        "author_id": "2815325906",
+        "created_at": "2026-08-14T05:31:18.000Z",
+        "edit_history_tweet_ids": [
+          "2088136361748598928"
+        ],
+        "id": "2088136361748598928",
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 139286,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 3
+        },
+        "text": "Gemini 3.7 Flash 出乎意外的好用耶。\n\nGemini 这次有望从“美国豆包”的阴影里走出来（一点点）了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2087955368215543808"
+          ]
+        },
+        "author_id": "1895349493173719040",
+        "created_at": "2026-08-13T17:32:19.000Z",
+        "edit_history_tweet_ids": [
+          "2087955421818757156"
+        ],
+        "id": "2087955421818757156",
+        "in_reply_to_user_id": "2815325906",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20557,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087941286913511542",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 来，我给你个更明显的证据，可以去发新帖开喷了 https://t.co/qg1webMDu8"
+      },
+      {
+        "author_id": "2815325906",
+        "created_at": "2026-08-08T20:34:42.000Z",
+        "edit_history_tweet_ids": [
+          "2086189381078139350"
+        ],
+        "id": "2086189381078139350",
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 78886,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 83,
+          "retweet_count": 3
+        },
+        "text": "一个非常合理的猜测：codex下次重置时间是8月14日。\n\n原因：7月codex赠送大家的banked resets，如果你还没使用，将会在是8月13日过期，也就是说，大家一定会在8月13日使用。\n\n@thsottiaux 如果在8月14日选择对所有人重置codex，实际付出的成本最低、又能延续了“codex会将重置狂欢延续下去”的童话。"
+      }
+    ],
+    "users": [
+      {
+        "id": "2815325906",
+        "name": "刘小排",
+        "username": "bourneliu66"
+      },
+      {
+        "id": "2095830745533329408",
+        "name": "倪十三",
+        "username": "crnobog2026"
+      },
+      {
+        "id": "1650822571032739841",
+        "name": "暖暖爱AI",
+        "username": "nuannuan_share"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2100468398774006223",
+    "next_token": "7140dibdnow9c7btwoxjdjnb1m8qebfb5q7ptd9xymb77",
+    "oldest_id": "2087899781389811883",
+    "previous_token": "77qpymm88g5h9vqkmfpr87d16swrfvkg94qbajtti9gkz",
+    "result_count": 25
+  }
+}

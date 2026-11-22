@@ -1,0 +1,1290 @@
+{
+  "data": [
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2123332950208950564",
+      "created_at": "2026-11-19T08:29:59.000Z",
+      "edit_history_tweet_ids": [
+        "2123332950208950564"
+      ],
+      "id": "2123332950208950564",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "小八卦：为何Gemini两周连发4个模型，另外两家磨磨蹭蹭？\n\n因为，前几个月 Anthropic 天天吹 Fable 太强、求监管，结果真把美国政府求来了，还把 OpenAI 拖下水。从此这两家发新模型，都得先送审一个月。\n\n当时只有 Gemini 3 的Google也去问美国政府：那我呢？ 政府：你不用。\n\n被嫌笨的Google，直接免检，想发几个发几个。"
+      },
+      "public_metrics": {
+        "bookmark_count": 128,
+        "impression_count": 110534,
+        "like_count": 1414,
+        "quote_count": 12,
+        "reply_count": 63,
+        "retweet_count": 28
+      },
+      "text": "小八卦：为何Gemini两周连发4个模型，另外两家磨磨蹭蹭？\n\n因为，前几个月 Anthropic 天天吹 Fable 太强、求监管，结果真把美国政府求来了，还把 OpenAI 拖下水。从此这两家发新模型，都得先送审一个月。\n\n当时只有 Gemini 3 的Google也去问美国政府：那我呢？ 政府：你不用。",
+      "url": "https://x.com/bourneliu66/status/2123332950208950564"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2123317542114713911",
+      "created_at": "2026-11-19T07:28:46.000Z",
+      "edit_history_tweet_ids": [
+        "2123317542114713911"
+      ],
+      "id": "2123317542114713911",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 29,
+        "impression_count": 26743,
+        "like_count": 127,
+        "quote_count": 5,
+        "reply_count": 57,
+        "retweet_count": 2
+      },
+      "text": "Gemini 4 Neon真是顶呱呱，吊打Claude Opus 5.5！ \n再也不怕Anthropic封号了！",
+      "url": "https://x.com/bourneliu66/status/2123317542114713911"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2123277804188135424"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2123277962854441156",
+      "created_at": "2026-11-19T04:51:29.000Z",
+      "edit_history_tweet_ids": [
+        "2123277962854441156"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/wC97RU63AR",
+            "end": 83,
+            "expanded_url": "https://x.com/bourneliu66/status/2123277962854441156/photo/1",
+            "media_key": "3_2123277804188135424",
+            "start": 60,
+            "url": "https://t.co/wC97RU63AR"
+          }
+        ]
+      },
+      "id": "2123277962854441156",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 23,
+        "impression_count": 37307,
+        "like_count": 156,
+        "quote_count": 5,
+        "reply_count": 44,
+        "retweet_count": 11
+      },
+      "text": "Gemini 4 Neon的智商的确高啊。这个笑话，其他AI都看不懂，就Gemini 4 Neon看懂了。群里看到的。 https://t.co/wC97RU63AR",
+      "url": "https://x.com/bourneliu66/status/2123277962854441156"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2122759316923117699",
+      "created_at": "2026-11-17T18:30:34.000Z",
+      "edit_history_tweet_ids": [
+        "2122759316923117699"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/HarriesSteele/…",
+            "end": 154,
+            "expanded_url": "https://twitter.com/HarriesSteele/status/2122580034292797808",
+            "start": 131,
+            "url": "https://t.co/iPwNaBn9cP"
+          }
+        ]
+      },
+      "id": "2122759316923117699",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 10482,
+        "like_count": 25,
+        "quote_count": 3,
+        "reply_count": 13,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122580034292797808",
+          "type": "quoted"
+        }
+      ],
+      "text": "谢谢你推荐我的网站。\n\n作为当事人本人，刘小排本排，\n\n我觉得，回答你这个问题太难了。\n\n就像回答“开公司赚不赚钱？”一样难。\n\n有人开公司破产了，有人开公司上市了。关键不是开不开的问题，而是谁开的问题，怎么开的问题。你会怎么回答“开公司赚不赚钱”这个问题呢？ https://t.co/iPwNaBn9cP",
+      "url": "https://x.com/bourneliu66/status/2122759316923117699"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2122734256430743612",
+      "created_at": "2026-11-17T16:50:59.000Z",
+      "edit_history_tweet_ids": [
+        "2122734256430743612"
+      ],
+      "id": "2122734256430743612",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 16273,
+        "like_count": 29,
+        "quote_count": 3,
+        "reply_count": 47,
+        "retweet_count": 0
+      },
+      "text": "我实在是想不出来，Fable 5.2 还有什么做不到的。",
+      "url": "https://x.com/bourneliu66/status/2122734256430743612"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2122732764411887912",
+      "created_at": "2026-11-17T16:45:04.000Z",
+      "edit_history_tweet_ids": [
+        "2122732764411887912"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/JensenHuang/st…",
+            "end": 31,
+            "expanded_url": "https://twitter.com/JensenHuang/status/2122726005219737649",
+            "start": 8,
+            "url": "https://t.co/fqoVyZjhmG"
+          }
+        ]
+      },
+      "id": "2122732764411887912",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3873,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122726005219737649",
+          "type": "quoted"
+        }
+      ],
+      "text": "老黄 回来吧。 https://t.co/fqoVyZjhmG",
+      "url": "https://x.com/bourneliu66/status/2122732764411887912"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2122732197522342136",
+      "created_at": "2026-11-17T16:42:49.000Z",
+      "edit_history_tweet_ids": [
+        "2122732197522342136"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Hensen1016/sta…",
+            "end": 27,
+            "expanded_url": "https://twitter.com/Hensen1016/status/2122577978932789628",
+            "start": 4,
+            "url": "https://t.co/gGZCLVezJQ"
+          }
+        ]
+      },
+      "id": "2122732197522342136",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4401,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122577978932789628",
+          "type": "quoted"
+        }
+      ],
+      "text": "是啊。 https://t.co/gGZCLVezJQ",
+      "url": "https://x.com/bourneliu66/status/2122732197522342136"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122705668767711232"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2122702250225303673",
+      "created_at": "2026-11-17T14:57:36.000Z",
+      "edit_history_tweet_ids": [
+        "2122705719405453356"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/OY7Tt3do50",
+            "end": 52,
+            "expanded_url": "https://x.com/bourneliu66/status/2122705719405453356/photo/1",
+            "media_key": "3_2122705668767711232",
+            "start": 29,
+            "url": "https://t.co/OY7Tt3do50"
+          }
+        ]
+      },
+      "id": "2122705719405453356",
+      "in_reply_to_user_id": "2815325906",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1080,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122702250225303673",
+          "type": "replied_to"
+        }
+      ],
+      "text": "微信群。Dodo Payments 中国区负责人在线答疑 https://t.co/OY7Tt3do50",
+      "url": "https://x.com/bourneliu66/status/2122705719405453356"
+    },
+    {
+      "author_id": "2815325906",
+      "card_uri": "https://t.co/upfzddqPWP",
+      "conversation_id": "2122702250225303673",
+      "created_at": "2026-11-17T14:44:56.000Z",
+      "edit_history_tweet_ids": [
+        "2122702532942368810"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Monetization Engine for AI-native and SaaS businesses, launch and scale globally with payments, billing, and compliance",
+            "display_url": "app.dodopayments.com/partners/W5PU4…",
+            "end": 33,
+            "expanded_url": "https://app.dodopayments.com/partners/W5PU4ZrGTK/signup",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2122702552026456064/FdOuWCMW?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122702552026456064/FdOuWCMW?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 10,
+            "status": 200,
+            "title": "Dodo Payments",
+            "unwound_url": "https://app.dodopayments.com/partners/W5PU4ZrGTK/signup",
+            "url": "https://t.co/upfzddqPWP"
+          }
+        ]
+      },
+      "id": "2122702532942368810",
+      "in_reply_to_user_id": "2815325906",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 1265,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122702250225303673",
+          "type": "replied_to"
+        }
+      ],
+      "text": "专属优惠注册链接👇\nhttps://t.co/upfzddqPWP\n\n从这个入口注册，费率 3.8% + $0.40/笔，国际手续费和订阅手续费均为 0。",
+      "url": "https://x.com/bourneliu66/status/2122702532942368810"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122701705615982593"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2122702250225303673",
+      "created_at": "2026-11-17T14:43:49.000Z",
+      "edit_history_tweet_ids": [
+        "2122702250225303673"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/39O2hTkTcv",
+            "end": 193,
+            "expanded_url": "https://x.com/bourneliu66/status/2122702250225303673/photo/1",
+            "media_key": "3_2122701705615982593",
+            "start": 170,
+            "url": "https://t.co/39O2hTkTcv"
+          }
+        ]
+      },
+      "id": "2122702250225303673",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 46,
+        "impression_count": 5439,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "帮你们把 Dodo Payments 的收款费率打下来了。\n\n官网默认收跨国订阅：\n6% + $0.40/笔\n\n我这边的费率：\n3.8% + $0.40/笔\n国际手续费、订阅手续费全免。\n\n如果你平均每单收用户$20：\n那么平均每 1000 单，少交 $440 手续费。\n\n注意：要走专属邀请入口，自己去官网注册还是默认价。链接放评论区👇 https://t.co/39O2hTkTcv",
+      "url": "https://x.com/bourneliu66/status/2122702250225303673"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2122684947572097346",
+      "created_at": "2026-11-17T13:35:03.000Z",
+      "edit_history_tweet_ids": [
+        "2122684947572097346"
+      ],
+      "id": "2122684947572097346",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 17389,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 0
+      },
+      "text": "为什么一夜之间所有创业公司都在卖Sandbox服务了？",
+      "url": "https://x.com/bourneliu66/status/2122684947572097346"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122309275754409984",
+        "entities": {
+          "urls": [
+            {
+              "text": "https://app.dodopayments.com/partners/W5PU4ZrGTK/signup"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122309527001534464",
+          "3_2122309685235843072",
+          "3_2122309744987889665",
+          "3_2122309996797136896"
+        ],
+        "plain_text": "哈喽，大家好，我是刘小排。\n之前我在公众号里推荐过 Waffo，不少做出海产品的同学现在还在用。\n今天再给大家推荐一家海外收款平台：Dodo Payments。\n先说清楚，免得大家误会：Waffo 我自己还在用，一直挺稳的。\n我手头的产品，目前主力接的就是 Waffo 和 Dodo Payments 这两家。\n做出海产品有个基本常识：支付网关接得越多越好，能进一步降低风险。\n收过海外钱的同学都懂，哪天某个国家的发卡行抽风、通道临时维护，或者风控规则突然变严，你要是只绑死了一家，整个网站当场就收不了钱了，前面投出去的流量全打水漂。\n平时多备一家现成的网关，真碰上突发情况，切一下配置几分钟就能恢复收款，晚上睡觉踏实得多。\n说回这次为什么推 Dodo Payments。\nDodo Payments 的 CEO 叫 Rishabh，非常重视中国市场。他知道关注我公众号的粉丝、还有我的学生，基本都是真刀真枪做产品的独立开发者，一直想跟我们合作。\n我先去他们官网看了一眼公开价格。实话实说，Dodo Payments 默认的费率是偏高的：基础就要 4% + $0.40，刷国际卡加 1.5%，做订阅还要再加 0.5%，收一笔跨国订阅奔着 6% + $0.40 去了。\n要是按这个默认价格，我是肯定不会推荐的。我直接跟他说：\n“你太贵了。你看 Waffo 是什么价格。而且国内很多人用 Stripe，你也不能比 Stripe 贵吧。”\n经过多轮磋商，我把价格打下来了！\nDodo Payments 的 CEO 和高管团队专门给了我一个特殊邀请码。\n凡是通过这个专属邀请码注册进入的：\n● 手续费只有 3.8% + $0.40\n● 没有国际手续费（0%）\n● 也没有订阅手续费（0%）\n注意，只有用我这个优惠码注册才能省下这笔钱，自己直接去官网注册还是偏高的默认费率。\n我们拿 AI 产品最常见的一笔 20 美元月度订阅 来对比一下，差距非常明显。\n很多人以为 Stripe 最便宜，但国内开发者开 Stripe，绝大多数用的是香港公司。\n香港 Stripe 的本地底价本来就是 3.4% + HK$2.35（约 $0.30）。因为你的公司主体在香港，欧美客户刷的全是非香港卡，基本上全是国际卡（+0.5%），如果美元结算进港币账户还要收 2% 的换汇费。\n这还没完。做 SaaS 订阅要收订阅管理费（Stripe Billing，+0.7%），跨国合规算税要收 Stripe Tax（+0.5%），而且做 AI 产品最怕黑卡盗刷烧光你的 API 额度，一般还得单独开 Stripe Radar 风控雷达（约 $0.05～$0.07/笔）。\n把这些标准费用全加上，收一笔 20 美元的跨国订阅，香港 Stripe 单笔就要扣掉 1.79 美元 左右（实际损耗接近 9%），每年还得固定花大几千块钱维护香港公司年审和审计报税。\n要是用海外常见的老牌 MoR（比如 Lemon Squeezy），5% 底价叠上国际卡、订阅费、$0.50 固定费和 1% 提现费，收一笔 20 美元直接被扣走 2.08 美元，超过 10% 没了。\n市面上还有些 MoR 支付网关，对外标称 3.9% 的费率，而且提现的时候还要收 1%，算下来就是 4.9%。\n而通过这次专属邀请码开的 Dodo Payments，连基础费率都压到了 3.8%！收一笔 20 美元的跨国订阅，总共只扣 1.16 美元（3.8% + $0.40，0 国际手续费，0 订阅手续费），比不用优惠码省了 27.5% 的手续费，比香港 Stripe 省了三分之一还多。\n \n提现这块，它默认 50 美元起提，单笔低于 1000 美元有 5 美元固定打款费。我的建议很简单：攒到 1000 美元再提，那提现就完全没有手续费了。\n而且 Dodo Payments 和 Waffo 一样属于 MoR（名义销售方）模式。不用注册香港或美国公司，拿国内身份证或护照就能个人开户，全球各地的消费税、VAT 合规和防欺诈风控全由他们替你搞定。\n除了费率优势，做 AI SaaS 用 Dodo Payments 还有两点特别实用。\n第一点，它原生支持微信支付，如果你的用户有国人，他们也可以直接付款给你。\n很多独立开发者做海外产品，平时在公众号、即刻、小红书或者中文推特发动态，经常会有国内用户想买。以前海外网关不支持微信，国内用户没有外币信用卡就付不了款；你想收人民币，又得单独去办国内公司、备案、申请微信支付商户号，非常折腾。\nDodo Payments 把微信支付、支付宝香港，连同韩国 Kakao Pay、巴西 Pix、印度 UPI、Apple Pay 以及 USDC 稳定币等 40 多种支付方式全集成在同一个结账页里了。老外刷卡，国人扫微信支付，后台统一给你结算美金。\n \n第二点，AI 计费系统不用自己写。\n做 AI 产品最烦的按 Token 或调用次数计费、先充积分再自动扣减、自动发 License 密钥、优惠码管理，Dodo Payments 全都内置好了。官方还做了原生 MCP，丢给 Claude Code 或 Cursor 几分钟就能接完。\n如下图所示：\n \n最后再强调两个关键细节：\n1. Dodo Payments 默认的公开费率是偏高的（跨国订阅要 6% + $0.40），千万别自己直接去官网首页注册。 一定要扫下面的专属二维码或走邀请链接进入，账户才会锁死在 3.8% + $0.40（无国际手续费、无订阅手续费） 的优惠费率。\n2. 注册账号没有任何月租或年费。哪怕你的新产品还在写代码、下个月才上线，也建议今天花两分钟先把号注册上，把这个优惠费率锁进自己账户里。\n晴天先把备用收款通道铺好，剩下的精力，安心写代码赚美金。\n \n电脑端阅读不方便扫码的同学，可以直接复制下面这个专属邀请链接打开注册：\nhttps://app.dodopayments.com/partners/W5PU4ZrGTK/signup",
+        "preview_text": "哈喽，大家好，我是刘小排。\n之前我在公众号里推荐过 Waffo，不少做出海产品的同学现在还在用。\n今天再给大家推荐一家海外收款平台：Dodo Payments。\n先说清楚，免得大家误会：Waffo 我自己还在用，一直挺稳的。",
+        "title": "我帮大家把 Dodo Payments 的费率打下来了"
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2122310222111023116",
+      "created_at": "2026-11-16T12:46:02.000Z",
+      "edit_history_tweet_ids": [
+        "2122310222111023116"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/article/2122302405081804800",
+            "start": 0,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122302405081804800",
+            "url": "https://t.co/O2sbAbmHQW"
+          }
+        ]
+      },
+      "id": "2122310222111023116",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 212,
+        "impression_count": 22462,
+        "like_count": 104,
+        "quote_count": 7,
+        "reply_count": 17,
+        "retweet_count": 6
+      },
+      "text": "https://t.co/O2sbAbmHQW",
+      "url": "https://x.com/bourneliu66/status/2122310222111023116"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2122301873051103254",
+      "created_at": "2026-11-16T12:12:51.000Z",
+      "edit_history_tweet_ids": [
+        "2122301873051103254"
+      ],
+      "id": "2122301873051103254",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "用AI写文章的“AI味儿”有两种，\n\n一种“AI味儿”是“人比AI好得好”。比如几个月前的AI经常说‘不是...而是’、‘烧心’、‘一刀’、'门禁'、‘扎心’……\n\n另一种“AI味儿”实际是“AI写得比人好”。比如规范的标点符号、段落分割、引经据典、精致排版。\n\n我理解人们不接受第一种\n我不理解，为什么人们不接受第二种"
+      },
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 10913,
+        "like_count": 27,
+        "quote_count": 3,
+        "reply_count": 16,
+        "retweet_count": 0
+      },
+      "text": "用AI写文章的“AI味儿”有两种，\n\n一种“AI味儿”是“人比AI好得好”。比如几个月前的AI经常说‘不是...而是’、‘烧心’、‘一刀’、'门禁'、‘扎心’……\n\n另一种“AI味儿”实际是“AI写得比人好”。比如规范的标点符号、段落分割、引经据典、精致排版。\n\n我理解人们不接受第一种\n我不理解，为什么人们不接受第二种",
+      "url": "https://x.com/bourneliu66/status/2122301873051103254"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2120844221242634661",
+      "created_at": "2026-11-12T11:40:40.000Z",
+      "edit_history_tweet_ids": [
+        "2120844221242634661"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/liarpzu/status…",
+            "end": 68,
+            "expanded_url": "https://twitter.com/liarpzu/status/2120842020919149003",
+            "start": 45,
+            "url": "https://t.co/eAKrUo45Am"
+          }
+        ]
+      },
+      "id": "2120844221242634661",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 81,
+        "impression_count": 13005,
+        "like_count": 53,
+        "quote_count": 2,
+        "reply_count": 10,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120842020919149003",
+          "type": "quoted"
+        }
+      ],
+      "text": "Raphael AI推出了开源GPT-Image-2.6 案例仓库。持续更新。欢迎关注。 https://t.co/eAKrUo45Am",
+      "url": "https://x.com/bourneliu66/status/2120844221242634661"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2120252312157606087",
+      "created_at": "2026-11-10T20:28:38.000Z",
+      "edit_history_tweet_ids": [
+        "2120252312157606087"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/mernit/status/…",
+            "end": 70,
+            "expanded_url": "https://twitter.com/mernit/status/2120005757697421645",
+            "start": 47,
+            "url": "https://t.co/FENj3f6fAI"
+          }
+        ]
+      },
+      "id": "2120252312157606087",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 8237,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120005757697421645",
+          "type": "quoted"
+        }
+      ],
+      "text": "你也太自大了吧。\n我所有的选择都是你说的前者，原因无他，就是便宜。\n谁用 AWS 谁冤大头。 https://t.co/FENj3f6fAI",
+      "url": "https://x.com/bourneliu66/status/2120252312157606087"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2120108684638552064"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2120108800112038393",
+      "created_at": "2026-11-10T10:58:22.000Z",
+      "edit_history_tweet_ids": [
+        "2120108800112038393"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Kx0enpKxSE",
+            "end": 40,
+            "expanded_url": "https://x.com/bourneliu66/status/2120108800112038393/photo/1",
+            "media_key": "3_2120108684638552064",
+            "start": 17,
+            "url": "https://t.co/Kx0enpKxSE"
+          }
+        ]
+      },
+      "id": "2120108800112038393",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 46,
+        "impression_count": 24392,
+        "like_count": 218,
+        "quote_count": 5,
+        "reply_count": 29,
+        "retweet_count": 16
+      },
+      "text": "AI时代的某些专业大学生就业现状 https://t.co/Kx0enpKxSE",
+      "url": "https://x.com/bourneliu66/status/2120108800112038393"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2119693502309412864"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2119693663307800855",
+      "created_at": "2026-11-09T07:28:45.000Z",
+      "edit_history_tweet_ids": [
+        "2119693663307800855"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/GoLUpEqEXh",
+            "end": 80,
+            "expanded_url": "https://x.com/bourneliu66/status/2119693663307800855/photo/1",
+            "media_key": "3_2119693502309412864",
+            "start": 57,
+            "url": "https://t.co/GoLUpEqEXh"
+          }
+        ]
+      },
+      "id": "2119693663307800855",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 10883,
+        "like_count": 34,
+        "quote_count": 0,
+        "reply_count": 23,
+        "retweet_count": 0
+      },
+      "text": "还是WorkBuddy懂国情啊！ \n\n让WorkBuddy出一份文档，这还是我第一次遇到AI出现这种思考过程…… https://t.co/GoLUpEqEXh",
+      "url": "https://x.com/bourneliu66/status/2119693663307800855"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2119666038984110309",
+      "created_at": "2026-11-09T05:38:59.000Z",
+      "edit_history_tweet_ids": [
+        "2119666038984110309"
+      ],
+      "id": "2119666038984110309",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "互联网大公司员工很难用好AI\n\n哈喽，大家好，我是刘小排。\n\n上周我发了篇文章提到，在这个时代，如果想要有所作为的话，一定要问自己：「有什么事情是自己坚定相信是正确的，而大多数人并不同意？」如果你能回答这个问题，且真的是你正确，那很可能这里就有创业机会。\n\n文章末尾我说，两年前我很幸运地找到了一个秘密，让我能够回答这个问题，因此果断离职创业。两年过去了，现在过得还不错。\n\n有人留言问，我当时是找到了一个什么秘密？\n\n我在这里来回答，当时我找的秘密是：大厂员工无法用好 AI。\n\n在两年前是一个大秘密，今天可能已经不算是秘密了，越来越多的人已经发现了。\n\n我简单解释一下原理，所谓的「用好AI」 有两层含义。\n\n第一层是「提效」。99%以上号称自己会用 AI 的人都在这一层。原本你需要每天上 8 小时班，现在只需要上 1 小时了，这就叫提效。我有个好朋友还号称自己每周只需要有效工作一小时就行，老板不在乎他工作了多久，因为他这一个小时干的活和别人干一周也没啥区别。如果你是打工人，做到这一层就很好，你肯定不会被裁。\n\n第二层是「赋能」。AI可以让你去做原本你没有能力做的事情。只有 1% 的人能够用好这一层。用到这一层的人，才算是没有辜负这个时代。\n\n我举个例子。前几天和一个朋友吃饭，她以前是国内某头部英语学习产品的合伙人，做软件App的。最近，她在AI的帮助下开始做硬件，一共就只有她一个人，什么事情都是自己操刀，连PCB板都是自己画的，用了两三周的时间自己边画边学。确定自己做的 PCB 板没有问题后，去深圳找工厂投入生产。AI 让一个对硬件一窍不通的人能够设计出可以量产的 硬件，这就是「赋能」 。\n\n互联网大厂员工用不到这一层，不是因为他们不行，而只是因为他们没有机会。互联网大厂公司的分业非常精细化，每个人都是螺丝钉。 你想想看，你的公司怎么会允许你去做一个你原本不会的事情，并且由公司承担责任呢？\n\n假如你是在互联网大厂做软件产品经理的，对硬件一窍不通，你的公司愿意花真金白银支持你，让你亲自负责公司主力产品的PCB 板的设计和生产吗？不太现实吧？开明一点的组织，也许会让你折腾一点 MVP 或者不太重要的产品，也仅限于此了。\n\n这样的机会掌握在谁的手里呢？创业者和小公司。\n\n创业者，不管有没有 AI，他们一直都在做领域外的、自己不会的事儿。\n\n小公司，没有那么多精细化的分工，每个人都是全栈。\n\n没有人比别人聪明。塑造人的，只有环境。"
+      },
+      "public_metrics": {
+        "bookmark_count": 39,
+        "impression_count": 11141,
+        "like_count": 90,
+        "quote_count": 5,
+        "reply_count": 25,
+        "retweet_count": 5
+      },
+      "text": "互联网大公司员工很难用好AI\n\n哈喽，大家好，我是刘小排。\n\n上周我发了篇文章提到，在这个时代，如果想要有所作为的话，一定要问自己：「有什么事情是自己坚定相信是正确的，而大多数人并不同意？」如果你能回答这个问题，且真的是你正确，那很可能这里就有创业机会。",
+      "url": "https://x.com/bourneliu66/status/2119666038984110309"
+    },
+    {
+      "article": {
+        "cover_media": "3_2119011452178898944",
+        "media_entities": [
+          "3_2119011277410570240",
+          "3_2119011243935911936",
+          "3_2119011320268038144"
+        ],
+        "plain_text": "哈喽，大家好，我是刘小排。\n今年年初有一种hype：让AI自己开公司、自己运营、自己赚钱，号称“零人公司”。其中有一个创业项目说自己平台上跑着几千个公司。类似的创业项目，割了不少投资人。\n有时候我忍不住想，这种项目是不是个智商测试题。投资这类项目的投资人，我特别想问问你们有没有想过：既然他的AI那么牛、可以自己赚钱，那他为啥还需要从你兜里要钱呢？\n前几天42章经的曲凯老师问我是否相信零人公司。\n我不相信、不看好。\n因为创业需要从0到1。至少当前这一代AI，从原理上就不擅长从0到1。\nAI想不出创业方向。\n科学史上有个流行的说法：如果爱因斯坦没出生，狭义相对论照样会在1905年前后出现；广义相对论，却可能晚几十年。\n狭义相对论这边。1905年6月5日，庞加莱在巴黎科学院宣读的论文，数学上已经和狭义相对论非常接近。25天后，期刊才收到爱因斯坦的论文。爱因斯坦晚年也承认，狭义相对论在1905年已经“成熟到可以被发现了”。\n门就在那儿，只差临门一脚。没有爱因斯坦，也会有爱泼斯坦。\n广义相对论不一样。1907年，爱因斯坦有了他说的“一生中最快乐的想法”：从楼顶掉下来的人，感觉不到自己的重量。顺着这个念头，他又走了8年。当时也有人在修补引力理论，但没人想到，引力可以是时空本身的弯曲。\n那AI能不能当一回爱因斯坦？今年2月，DeepMind的CEO哈萨比斯提出“爱因斯坦测试”：只用1911年以前的知识训练AI，看它能不能自己推出广义相对论。能，才算AGI。\n3月，有个独立研究者做了个简化版：用1900年以前的书和报纸，从零训练了一个33亿参数的小模型。\n \n大部分题它都答不上来。最亮眼的时候，它能说出“引力和加速度在局部等价”，前提是研究者先把爱因斯坦的电梯思想实验喂给它。作者也承认，这比爱因斯坦当年容易多了：整理信息、提出正确的问题，本是发现的关键一环，这些都是人替模型做好的。\n模型太小，单凭它下不了结论。但今年7月，以色列理工学院和MIT的物理学家发了篇论文，题目就叫《AI能追随爱因斯坦的脚步吗？》，结论差不多：AI越来越会预测，缺的是提出正确问题、发明新原理的能力。\n \n我简单说一下原理，可能不是完全精确： 这一代大模型是用梯度下降训练出来的，最擅长顺着已有知识的“坡”往下走。1905年，狭义相对论周围的坡很陡，洛伦兹、庞加莱都已走到门口。1907年以前的广义相对论周围，几乎是一片平地，没有坡告诉你往哪走。\n所以，AI非常擅长“临门一脚”，也会越来越擅长“临门好几脚”。但广义相对论不是临门几脚的事，而是没人觉得那里有扇门。只有神经病一样的爱因斯坦相信那里有个值得研究的门，后来发现真有门。爱因斯坦老师领先了全世界50年。\n说回创业。\n先清理一下战场。你看到别人做AI自媒体赚钱，让AI洗稿，做了一个既相同又有点不同的号，可能也赚到了钱。这算从0到1吗？不算。你和你的AI都看到了坡，这是临门一脚。\n中国创业者很擅长这种借鉴式微创新。对比一下特斯拉之前和之后的中国电动车产业就知道了。\n电动车一百多年前就有，但在大多数人眼里，一直是又慢又跑不远的代步车。2009年Model S原型车亮相，2012年交付，很多人才第一次相信，电动车能比油车更好开、更好卖。之后两三年，蔚来、小鹏、理想相继成立。\n \n特斯拉的电动车，才是我定义的从0到1。\n找门，是人的事。\n彼得·蒂尔在《从0到1》里写过，他面试时爱问一个问题：有什么重要的事，你认为是对的，但很少有人同意你？\n这个问题，AI替你答不了。它学的，恰恰是大多数人已经同意的东西。\nAI时代，看见门的人反而更值钱。以前看见一扇门，还得自己一脚一脚踢过去，可能踢到一半钱就花光了。\n现在，后面那几十脚，AI都能帮你踢。\n世界只有AI员工，没有AI老板。\n老板需要从0到1，员工不需要。\n所以，别问AI”我该做什么创业”。它给你的，大概率是别人已经在做的。你可以试试看，随便你用什么高级模型，都一样。\n先问问自己：有什么事，是我认为是对的、但几乎没人同意的？\n如果这个问题你回答不了，没什么，一切如常。\n如果这个问题你竟然能够回答了，后面还证明你真是对的，那么恭喜你，你很可能找到了一扇从0到1之门。\n我很幸运，我在两年多以前找到了，支撑我创业走到了现在。",
+        "preview_text": "哈喽，大家好，我是刘小排。\n今年年初有一种hype：让AI自己开公司、自己运营、自己赚钱，号称“零人公司”。其中有一个创业项目说自己平台上跑着几千个公司。类似的创业项目，割了不少投资人。",
+        "title": "AI只会临门一脚，不会从0到1"
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2119011541978898646",
+      "created_at": "2026-11-07T10:18:15.000Z",
+      "edit_history_tweet_ids": [
+        "2119011541978898646"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2119…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/article/2119011168916541440",
+            "start": 0,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2119011168916541440",
+            "url": "https://t.co/NooYcnwCoP"
+          }
+        ]
+      },
+      "id": "2119011541978898646",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 42,
+        "impression_count": 8862,
+        "like_count": 45,
+        "quote_count": 4,
+        "reply_count": 13,
+        "retweet_count": 5
+      },
+      "text": "https://t.co/NooYcnwCoP",
+      "url": "https://x.com/bourneliu66/status/2119011541978898646"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2117210570319429991",
+      "created_at": "2026-11-02T11:01:50.000Z",
+      "edit_history_tweet_ids": [
+        "2117210570319429991"
+      ],
+      "id": "2117210570319429991",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "Token哪里贵了？哪里贵了！\n这么多年都是这个价格好不好！一百万token才几块钱，你点个外卖配送费都比它贵！\n不要睁着眼睛乱说，国产token很难的，人家熬了多少个通宵训出来的，它真的不是那种半夜偷偷换小模型、上下文一长就失忆的token。\n我跟它跟了这么多年，它从只会写Hello World到现在能自己部署上线，我是最知道的一个人！他们就差把GPU搬到我家了，它就差点姓李了好不好！\n真的乱说！\n有的时候找找自己的原因好吧，一句话的需求你写了三千字prompt，一个bug让它改了八十遍，上下文塞了半个硬盘进去，token不烧谁烧？这么多年了工资涨没涨？有没有认真工作？"
+      },
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 9976,
+        "like_count": 42,
+        "quote_count": 1,
+        "reply_count": 15,
+        "retweet_count": 1
+      },
+      "text": "Token哪里贵了？哪里贵了！\n这么多年都是这个价格好不好！一百万token才几块钱，你点个外卖配送费都比它贵！\n不要睁着眼睛乱说，国产token很难的，人家熬了多少个通宵训出来的，它真的不是那种半夜偷偷换小模型、上下文一长就失忆的token。\n我跟它跟了这么多年，它从只会写Hello",
+      "url": "https://x.com/bourneliu66/status/2117210570319429991"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2117087624901066847",
+      "created_at": "2026-11-02T02:53:18.000Z",
+      "edit_history_tweet_ids": [
+        "2117087624901066847"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/bourneliu66/st…",
+            "end": 148,
+            "expanded_url": "https://twitter.com/bourneliu66/status/2116878086365213176",
+            "start": 125,
+            "url": "https://t.co/iBfCZF3dh9"
+          }
+        ]
+      },
+      "id": "2117087624901066847",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 10991,
+        "like_count": 29,
+        "quote_count": 4,
+        "reply_count": 20,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116878086365213176",
+          "type": "quoted"
+        }
+      ],
+      "text": "破案了，原来真的有 GPT-6.2 Astra 的存在，后台默默路由，很多人都用上了。\n可惜不能让我主动选择。有点像薛定谔的大模型，大概每十次请求有两到三次是新的 6.2 Astra。 每次发出请求，在他回答之前，我完全都不知道是新模型还是老模型。 https://t.co/iBfCZF3dh9",
+      "url": "https://x.com/bourneliu66/status/2117087624901066847"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2116878086365213176",
+      "created_at": "2026-11-01T13:00:40.000Z",
+      "edit_history_tweet_ids": [
+        "2116878086365213176"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 96,
+            "id": "1953337039510003712",
+            "start": 85,
+            "username": "thsottiaux"
+          }
+        ]
+      },
+      "id": "2116878086365213176",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 38492,
+        "like_count": 43,
+        "quote_count": 2,
+        "reply_count": 20,
+        "retweet_count": 1
+      },
+      "text": "我好像灰度到 OpenAI 新模型了！\n我今天的 Astra 比以前更牛逼了？？有一种给我路由到了 Opus 5.5 的感觉。 错觉吗？？\n看 OpenAI 没发公告啊 @thsottiaux",
+      "url": "https://x.com/bourneliu66/status/2116878086365213176"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2115671180086825390",
+      "created_at": "2026-10-29T05:04:51.000Z",
+      "edit_history_tweet_ids": [
+        "2115671180086825390"
+      ],
+      "id": "2115671180086825390",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 21721,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 38,
+        "retweet_count": 0
+      },
+      "text": "Google新发布的模型Gemini 4 Carbon  ，看跑分很厉害。请问在哪里可以用？我是最大号的Ultra套餐啊，也用不了",
+      "url": "https://x.com/bourneliu66/status/2115671180086825390"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115308111213015040"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2115308843282624933",
+      "created_at": "2026-10-28T05:05:03.000Z",
+      "edit_history_tweet_ids": [
+        "2115308843282624933"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/YzmbZOdsIZ",
+            "end": 210,
+            "expanded_url": "https://x.com/bourneliu66/status/2115308843282624933/photo/1",
+            "media_key": "3_2115308111213015040",
+            "start": 187,
+            "url": "https://t.co/YzmbZOdsIZ"
+          }
+        ]
+      },
+      "id": "2115308843282624933",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 29,
+        "impression_count": 42532,
+        "like_count": 96,
+        "quote_count": 5,
+        "reply_count": 47,
+        "retweet_count": 7
+      },
+      "text": "AA更新了算法。\n在新的测评算法下，\n\n1. GPT-6-Astra 与 Opus 5.5的差距并不大\n\n2. 国产模型整体下滑。 国产模型和海外顶级模型的差距，大了许多。 \n\n3.Kimi K3.1 Pro仍然是遥遥领先其他国产模型、仍然是全世界开源模型的第一。 DeepSeek v4.1 Flash 、Qwen 3.8 Max、GLM 5.3 是国产模型的第二梯队。 https://t.co/YzmbZOdsIZ",
+      "url": "https://x.com/bourneliu66/status/2115308843282624933"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115015154815713280",
+          "3_2115015178706415616",
+          "3_2115015192266571777",
+          "3_2115015204488826880"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2115015709390733572",
+      "created_at": "2026-10-27T09:40:14.000Z",
+      "edit_history_tweet_ids": [
+        "2115015709390733572"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/HyowNoIgrI",
+            "end": 156,
+            "expanded_url": "https://x.com/bourneliu66/status/2115015709390733572/photo/1",
+            "media_key": "3_2115015154815713280",
+            "start": 133,
+            "url": "https://t.co/HyowNoIgrI"
+          },
+          {
+            "display_url": "pic.x.com/HyowNoIgrI",
+            "end": 156,
+            "expanded_url": "https://x.com/bourneliu66/status/2115015709390733572/photo/2",
+            "media_key": "3_2115015178706415616",
+            "start": 133,
+            "url": "https://t.co/HyowNoIgrI"
+          },
+          {
+            "display_url": "pic.x.com/HyowNoIgrI",
+            "end": 156,
+            "expanded_url": "https://x.com/bourneliu66/status/2115015709390733572/photo/3",
+            "media_key": "3_2115015192266571777",
+            "start": 133,
+            "url": "https://t.co/HyowNoIgrI"
+          },
+          {
+            "display_url": "pic.x.com/HyowNoIgrI",
+            "end": 156,
+            "expanded_url": "https://x.com/bourneliu66/status/2115015709390733572/photo/4",
+            "media_key": "3_2115015204488826880",
+            "start": 133,
+            "url": "https://t.co/HyowNoIgrI"
+          }
+        ]
+      },
+      "id": "2115015709390733572",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "别让AI总结视频了，让它带你看\n\n哈喽，大家好，我是刘小排。\n\n最近有朋友发现，我好像看过很多海外大佬的访谈视频，并且对其中细节都记忆犹新，不像是看的AI总结，但是不明白我哪儿有那么多时间看。\n\n我的确不喜欢看AI总结。\n\n我的方法是： 让AI带我看，不是帮我看。\n\n我给这套方法取了个名字：私人视频导游。\n\n让AI帮我减少寻找的时间，增加我真正感兴趣的观看时间。\n\n具体来说\n\n第1步： 告诉AI视频范围和我的兴趣，设定定时任务\n\n比如，对于我来说，大概是\n\n「\n我是一个小团队的 AI 创业者，喜欢看海外AI创业者的访谈视频，尤其是设计高认知、实操、AI native创业经验方面的。 我所知道的栏目有：YC Lightcone、Startup School和YC其他栏目； The a16z Show；Lenny's Podcast；How I AI；Lenny's Newsletter；Sourcery；Latent Space；Dwarkesh Podcast；No Priors；Sequoia Training Data；The Pragmatic Engineer Podcast。上面这些你都要每天查看。当然，你可以推荐更多栏目，和我对齐范围。\n」\n\n和AI讨论清楚范围以后，我们可以在ChatGPT里设置定时任务，让它每天上午10点全部看一遍，然后只推送我感兴趣的给我、每次推送要说明「为什么值得我关注」。\n\n第2步：每天看AI的汇报，决定哪些真的值得我亲自看\n\n例如，今天我打算亲自看这两个。\n\nAI每天会给出了推荐理由，但并不是每一个它的推荐，我都要亲自看。\n\nAI会给出「最值得关注的部分」，还给出精确的时分秒，如下图所示。\n\n如果我感兴趣，点一下就过去了\n【图1】【图2】\n\n第3步：用ChatGPT的浏览器插件，搜索模糊观点。\n\n例如，我看AI总结，提到「Stripe是在已经做了一年多以后，才正式发布的」。\n\n我必须要亲自看这一段。 （这就是为什么，我朋友感觉，我记得很多细节了。  重点段落我看得很仔细。）\n那么，我应该在Chrome的ChatGPT插件里，直接问它。\n\nChatGPT会给出一个链接，让我点击一下，直接从我关心的地方开始播放。【图3】\n\n第4步：用ChatGPT的浏览器插件，询问其他段落推荐。\n\n从下面的截图【图4】可以看到，ChatGPT完全知道我最近在思考什么、在关注什么、状态如何。从而做出最精准的推荐。\n\n就这些了！\n\n去试试吧！希望可以帮助到你！"
+      },
+      "public_metrics": {
+        "bookmark_count": 123,
+        "impression_count": 10542,
+        "like_count": 108,
+        "quote_count": 5,
+        "reply_count": 21,
+        "retweet_count": 16
+      },
+      "text": "别让AI总结视频了，让它带你看\n\n哈喽，大家好，我是刘小排。\n\n最近有朋友发现，我好像看过很多海外大佬的访谈视频，并且对其中细节都记忆犹新，不像是看的AI总结，但是不明白我哪儿有那么多时间看。\n\n我的确不喜欢看AI总结。\n\n我的方法是： 让AI带我看，不是帮我看。 https://t.co/HyowNoIgrI",
+      "url": "https://x.com/bourneliu66/status/2115015709390733572"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2123277804188135424",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXdl6c4a8AAeJ30.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1140,
+        "media_key": "3_2122705668767711232",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXVdjyWbgAASfEB.jpg",
+        "width": 720
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2122701705615982593",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXVZ9GdbQAEBE3O.jpg",
+        "width": 2350
+      },
+      {
+        "height": 940,
+        "media_key": "3_2122309275754409984",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXP1CrTbsAAWQQ2.jpg",
+        "width": 2350
+      },
+      {
+        "height": 483,
+        "media_key": "3_2122309527001534464",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXP1RTRakAAdvnt.jpg",
+        "width": 610
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2122309685235843072",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXP1agvagAACGAI.jpg",
+        "width": 768
+      },
+      {
+        "height": 576,
+        "media_key": "3_2122309744987889665",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXP1d_VaYAEJEw4.jpg",
+        "width": 1024
+      },
+      {
+        "height": 568,
+        "media_key": "3_2122309996797136896",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXP1spZakAAVABp.jpg",
+        "width": 1024
+      },
+      {
+        "height": 663,
+        "media_key": "3_2120108684638552064",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWwjnakaAAANT1P.jpg",
+        "width": 397
+      },
+      {
+        "height": 506,
+        "media_key": "3_2119693502309412864",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWqqAn3bMAAzC9O.jpg",
+        "width": 958
+      },
+      {
+        "height": 769,
+        "media_key": "3_2119011452178898944",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWg9sFIboAAZIXx.jpg",
+        "width": 1923
+      },
+      {
+        "height": 450,
+        "media_key": "3_2119011277410570240",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWg9h6EakAA9cqN.png",
+        "width": 900
+      },
+      {
+        "height": 475,
+        "media_key": "3_2119011243935911936",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWg9f9Xb0AA8hPz.png",
+        "width": 840
+      },
+      {
+        "height": 541,
+        "media_key": "3_2119011320268038144",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWg9kZuboAAQFkT.jpg",
+        "width": 960
+      },
+      {
+        "height": 1642,
+        "media_key": "3_2115308111213015040",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVsVhQ9asAAzMkP.jpg",
+        "width": 2924
+      },
+      {
+        "height": 1372,
+        "media_key": "3_2115015154815713280",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoLE9VbwAAMLME.jpg",
+        "width": 1864
+      },
+      {
+        "height": 1446,
+        "media_key": "3_2115015178706415616",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoLGWVa8AA4anf.jpg",
+        "width": 1980
+      },
+      {
+        "height": 2094,
+        "media_key": "3_2115015192266571777",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoLHI2agAE-AvV.jpg",
+        "width": 3080
+      },
+      {
+        "height": 2054,
+        "media_key": "3_2115015204488826880",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVoLH2YbUAANdZ3.jpg",
+        "width": 3108
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122579772375216130"
+          ]
+        },
+        "author_id": "126255549",
+        "conversation_id": "2122580034292797808",
+        "created_at": "2026-11-17T06:38:10.000Z",
+        "edit_history_tweet_ids": [
+          "2122580034292797808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgo7cREU5b",
+              "end": 67,
+              "expanded_url": "https://x.com/HarriesSteele/status/2122580034292797808/photo/1",
+              "media_key": "3_2122579772375216130",
+              "start": 44,
+              "url": "https://t.co/bgo7cREU5b"
+            }
+          ]
+        },
+        "id": "2122580034292797808",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 16763,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "text": "不懂就问：\n刘小排做了一个站点，月流量186万，\n我想问现在下场做生图站点还有机会吗？ https://t.co/bgo7cREU5b"
+      },
+      {
+        "author_id": "2070631956824698880",
+        "conversation_id": "2122726005219737649",
+        "created_at": "2026-11-17T16:18:12.000Z",
+        "edit_history_tweet_ids": [
+          "2122726005219737649"
+        ],
+        "id": "2122726005219737649",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA.\n\nI did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. \n\nSince my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\n\nThank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To my family: I love you, and I will spend the rest of my life being worthy of yours.\n\nJensen"
+        },
+        "public_metrics": {
+          "bookmark_count": 82728,
+          "impression_count": 59591450,
+          "like_count": 1175487,
+          "quote_count": 24529,
+          "reply_count": 61416,
+          "retweet_count": 121809
+        },
+        "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an"
+      },
+      {
+        "author_id": "1206995640472887297",
+        "conversation_id": "2122577978932789628",
+        "created_at": "2026-11-17T06:30:00.000Z",
+        "edit_history_tweet_ids": [
+          "2122577978932789628"
+        ],
+        "id": "2122577978932789628",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 150392,
+          "like_count": 6095,
+          "quote_count": 64,
+          "reply_count": 609,
+          "retweet_count": 664
+        },
+        "text": "🇨🇳🇯🇵\n\nいつか中国人と日本人が、\n何の心配もなく、お互いの国を自由に旅行できる日が来てほしい。\n美味しいものを食べて、\n美しい景色を見て、\n現地の人たちと笑顔で交流する。\n\nそんな当たり前の幸せが、\nずっと続いてほしいです。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122701705615982593"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "2122702250225303673",
+        "created_at": "2026-11-17T14:43:49.000Z",
+        "edit_history_tweet_ids": [
+          "2122702250225303673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39O2hTkTcv",
+              "end": 193,
+              "expanded_url": "https://x.com/bourneliu66/status/2122702250225303673/photo/1",
+              "media_key": "3_2122701705615982593",
+              "start": 170,
+              "url": "https://t.co/39O2hTkTcv"
+            }
+          ]
+        },
+        "id": "2122702250225303673",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 5439,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "帮你们把 Dodo Payments 的收款费率打下来了。\n\n官网默认收跨国订阅：\n6% + $0.40/笔\n\n我这边的费率：\n3.8% + $0.40/笔\n国际手续费、订阅手续费全免。\n\n如果你平均每单收用户$20：\n那么平均每 1000 单，少交 $440 手续费。\n\n注意：要走专属邀请入口，自己去官网注册还是默认价。链接放评论区👇 https://t.co/39O2hTkTcv"
+      },
+      {
+        "author_id": "1186888173781053440",
+        "card_uri": "https://t.co/NqznIOspNB",
+        "conversation_id": "2120842020919149003",
+        "created_at": "2026-11-12T11:31:55.000Z",
+        "edit_history_tweet_ids": [
+          "2120842020919149003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "300+ source-attributed GPT Image 2.6 prompts with examples across seven creative categories, in 11 languages. - RaphaelAI-OpenLab/awesome-gpt-image-2.6",
+              "display_url": "github.com/RaphaelAI-Open…",
+              "end": 144,
+              "expanded_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2120842025792839680/6kfQ84B8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120842025792839680/6kfQ84B8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 121,
+              "status": 200,
+              "title": "GitHub - RaphaelAI-OpenLab/awesome-gpt-image-2.6: 300+ source-attributed GPT Image 2.6 prompts with examples across seven creative categories, in 11 languages.",
+              "unwound_url": "https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6",
+              "url": "https://t.co/NqznIOspNB"
+            }
+          ]
+        },
+        "id": "2120842020919149003",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 16135,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "text": "整理了一个 GPT Image 2.6 案例的开源仓库：\n\n已有158 个案例，141 段原提示词，按 8 类用途整理。\n图片、GIF、SVG、局部编辑都有， 持续更新中～\n\n想找灵感、试提示词的，可以直接去翻。觉得有用欢迎 Star⭐️\n\nhttps://t.co/NqznIOspNB"
+      },
+      {
+        "author_id": "874802212316250112",
+        "card_uri": "https://t.co/zt0IRwKAvy",
+        "conversation_id": "2120005757697421645",
+        "created_at": "2026-11-10T04:08:55.000Z",
+        "edit_history_tweet_ids": [
+          "2120005757697421645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Deploy apps, agents, and databases on hardware-isolated VMs. Pay only for the seconds they run. Sign up free.",
+              "display_url": "Fly.io",
+              "end": 159,
+              "expanded_url": "https://Fly.io",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2123702759757393920/j2GO0qMQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2123702759757393920/j2GO0qMQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 136,
+              "status": 200,
+              "title": "Fly.io | Deploy apps and agents on hardware-isolated VMs",
+              "unwound_url": "https://Fly.io",
+              "url": "https://t.co/zt0IRwKAvy"
+            },
+            {
+              "display_url": "x.com/Eito_Miyamura/…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/Eito_Miyamura/status/2119938175606935930",
+              "start": 281,
+              "url": "https://t.co/BbM5EU0aY7"
+            }
+          ]
+        },
+        "id": "2120005757697421645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "Fly.io",
+                "end": 159,
+                "expanded_url": "http://Fly.io",
+                "start": 136,
+                "url": "https://t.co/n8K8RyLJ1L"
+              }
+            ]
+          },
+          "text": "Why use Hetzner when you can use EC2\n\nWhy use Cloudflare when you can use CloudFront\n\nWhy use PlanetScale when you can use RDS\n\nWhy use https://t.co/n8K8RyLJ1L when you can use ECS\n\nWhy use Heroku when you can use Elastic Beanstalk\n\nWhy use Clerk when you can use Cognito\n\nWhy use Sentry when you can use CloudWatch\n\nWhy use Redis when you can use ElastiCache"
+        },
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 48888,
+          "like_count": 280,
+          "quote_count": 9,
+          "reply_count": 49,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2119938175606935930",
+            "type": "quoted"
+          }
+        ],
+        "text": "Why use Hetzner when you can use EC2\n\nWhy use Cloudflare when you can use CloudFront\n\nWhy use PlanetScale when you can use RDS\n\nWhy use https://t.co/zt0IRwKAvy when you can use ECS\n\nWhy use Heroku when you can use Elastic Beanstalk\n\nWhy use Clerk when you can use Cognito\n\nWhy use https://t.co/BbM5EU0aY7"
+      },
+      {
+        "author_id": "2815325906",
+        "conversation_id": "2116878086365213176",
+        "created_at": "2026-11-01T13:00:40.000Z",
+        "edit_history_tweet_ids": [
+          "2116878086365213176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 96,
+              "id": "1953337039510003712",
+              "start": 85,
+              "username": "thsottiaux"
+            }
+          ]
+        },
+        "id": "2116878086365213176",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 38492,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "text": "我好像灰度到 OpenAI 新模型了！\n我今天的 Astra 比以前更牛逼了？？有一种给我路由到了 Opus 5.5 的感觉。 错觉吗？？\n看 OpenAI 没发公告啊 @thsottiaux"
+      }
+    ],
+    "users": [
+      {
+        "id": "2815325906",
+        "name": "刘小排",
+        "username": "bourneliu66"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2123332950208950564",
+    "next_token": "7140dibdnow9c7btwp0g7831q7bqxe94xzsrtzvyyu0c2",
+    "oldest_id": "2115015709390733572",
+    "result_count": 25
+  }
+}

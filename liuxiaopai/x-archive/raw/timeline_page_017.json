@@ -1,0 +1,958 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1969081139597099009"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-19T16:48:51.000Z",
+      "edit_history_tweet_ids": [
+        "1969081260900274660"
+      ],
+      "id": "1969081260900274660",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 6898,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "大半夜还在改屁屁踢 https://t.co/jwElKufkpu",
+      "url": "https://x.com/bourneliu66/status/1969081260900274660"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-19T16:47:16.000Z",
+      "edit_history_tweet_ids": [
+        "1969080865826263110"
+      ],
+      "id": "1969080865826263110",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 7908,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1968685376421429712",
+          "type": "quoted"
+        }
+      ],
+      "text": "后生可畏啊 https://t.co/izZRwHixNc",
+      "url": "https://x.com/bourneliu66/status/1969080865826263110"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1968698474058387456"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-18T15:27:48.000Z",
+      "edit_history_tweet_ids": [
+        "1968698476906041390"
+      ],
+      "id": "1968698476906041390",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 12944,
+        "like_count": 30,
+        "quote_count": 1,
+        "reply_count": 16,
+        "retweet_count": 2
+      },
+      "text": "完蛋了，完蛋了！\n\n查看了我的电脑，我也中招了！这个孙军也太厉害了吧，才22岁，真恐怖！\n\n你中招了吗？ https://t.co/zdMGIQtPdn",
+      "url": "https://x.com/bourneliu66/status/1968698476906041390"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1968376035466166274"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-17T18:06:35.000Z",
+      "edit_history_tweet_ids": [
+        "1968376049118720441"
+      ],
+      "id": "1968376049118720441",
+      "public_metrics": {
+        "bookmark_count": 85,
+        "impression_count": 37692,
+        "like_count": 88,
+        "quote_count": 4,
+        "reply_count": 10,
+        "retweet_count": 6
+      },
+      "text": "《 偶像大佬教我的产品课： 独立开发者的小生意，能够扩大十倍吗？》\n\n昨天晚上有幸跟一位国内的顶级的、我仰慕已久的产品/投资大佬单独吃了一顿饭。学到了宝贵的一课。\n\n请大家关注内容，不用去猜测身份，不便透露，谢谢理解。\n\n详情https://t.co/loGv33VgTC https://t.co/9hVqmFNePB",
+      "url": "https://x.com/bourneliu66/status/1968376049118720441"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1968276276394999808"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-17T11:32:48.000Z",
+      "edit_history_tweet_ids": [
+        "1968276949186531532"
+      ],
+      "id": "1968276949186531532",
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 11071,
+        "like_count": 30,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1963866743962521744",
+          "type": "quoted"
+        }
+      ],
+      "text": "K2 Turbo 今天大更新 + 新羊毛。\n\n1. 上下文从128K提升至256K! 实战价值凸显出来了\n2. 价格下降50% \n3. 写代码能力略微增强\n\n心得：每天北京下午4点左右是Claude Code高峰期，慢得要死。这时可切换为用K2 Turbo来驱动Claude Code顶一下。 K2除了没有多模态，其他都还好，比sonnet没太大差距。 https://t.co/ANfR8ilmLy https://t.co/RK2Z096zEt",
+      "url": "https://x.com/bourneliu66/status/1968276949186531532"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1968198166236561408"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-17T06:20:53.000Z",
+      "edit_history_tweet_ids": [
+        "1968198456037822778"
+      ],
+      "id": "1968198456037822778",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 7727,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964372655848775848",
+          "type": "quoted"
+        }
+      ],
+      "text": "上周，我催你们填Claude for Chrome的Waitlist，你们填了吗？  \n我的另一个号，是在9月7日才填的，今天也收到试用权限了～～ 还没填的抓紧去填！ https://t.co/y7k4z6S6MV https://t.co/JPxKb6vWEe",
+      "url": "https://x.com/bourneliu66/status/1968198456037822778"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1967862514773004289",
+          "3_1967862542967115780",
+          "3_1967862570200731650",
+          "3_1967862593214963712"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-16T08:06:59.000Z",
+      "edit_history_tweet_ids": [
+        "1967862765705646205"
+      ],
+      "id": "1967862765705646205",
+      "public_metrics": {
+        "bookmark_count": 376,
+        "impression_count": 60761,
+        "like_count": 378,
+        "quote_count": 3,
+        "reply_count": 15,
+        "retweet_count": 71
+      },
+      "text": "Codex迎来史诗级升级！能一口气卷自己7小时、自带云端虚拟机，连开发环境都不用配置了！Cursor存在的理由又弱了一分\n\nCodex的云端虚拟机太好用了，可安装环境、运行代码然后截图。 以后Vibe Coding不需要配置本地环境、也不需要电脑了，只要有一个浏览器就行……\n\n详细版：https://t.co/PU91UvF4bw https://t.co/qdctnKUcdo",
+      "url": "https://x.com/bourneliu66/status/1967862765705646205"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-13T16:09:24.000Z",
+      "edit_history_tweet_ids": [
+        "1966897008784097511"
+      ],
+      "id": "1966897008784097511",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 6458,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1966890150354710754",
+          "type": "quoted"
+        }
+      ],
+      "text": "非常有趣的比赛！杰尼加油。 https://t.co/O1ENkD5N0e",
+      "url": "https://x.com/bourneliu66/status/1966897008784097511"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-13T09:21:06.000Z",
+      "edit_history_tweet_ids": [
+        "1966794160217678193",
+        "1966794255520702646"
+      ],
+      "id": "1966794255520702646",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 6660,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1966790762412011723",
+          "type": "quoted"
+        }
+      ],
+      "text": "这是昨天跟大家提到的，最近爆火的一款AI产品：大学教授 教学生用AI写论文！\n强推荐看完视频！ https://t.co/9yW3mVbp2f",
+      "url": "https://x.com/bourneliu66/status/1966794255520702646"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1966774191841214464",
+          "3_1966774450470481921"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-13T08:02:50.000Z",
+      "edit_history_tweet_ids": [
+        "1966774561179054308"
+      ],
+      "id": "1966774561179054308",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 5217,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "今天 Vibe Friends的黑客马拉松，现场的选手太抽象了！！哈哈哈哈！！\n\n还有两小时就路演评选了！晚上见！ 想来的朋友抓紧报名https://t.co/qCx7pABjwX https://t.co/SqbSLFfbDE",
+      "url": "https://x.com/bourneliu66/status/1966774561179054308"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-13T07:17:56.000Z",
+      "edit_history_tweet_ids": [
+        "1966763261753213405"
+      ],
+      "id": "1966763261753213405",
+      "public_metrics": {
+        "bookmark_count": 24,
+        "impression_count": 14979,
+        "like_count": 120,
+        "quote_count": 3,
+        "reply_count": 18,
+        "retweet_count": 12
+      },
+      "text": "我们终此一生，就是要摆脱他人的期待，找到真正的自己",
+      "url": "https://x.com/bourneliu66/status/1966763261753213405"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-13T04:04:10.000Z",
+      "edit_history_tweet_ids": [
+        "1966714495293923702"
+      ],
+      "id": "1966714495293923702",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 9304,
+        "like_count": 50,
+        "quote_count": 6,
+        "reply_count": 11,
+        "retweet_count": 2
+      },
+      "text": "AI编程的终极心法，来自孟子。\n\n「仁者如射。射者正己而后发，发而不中，不怨胜己者，反求诸己而已矣。」\n\n就像射箭。先端正自己的身心，然后才放箭；放出去如果射不中，不会埋怨比自己强的人，而是反过来检讨自己的不足，仅此而已。\n\n你与AI协作遇到问题时，是先抱怨AI，还是先找自己的原因呢？",
+      "url": "https://x.com/bourneliu66/status/1966714495293923702"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1966432511330037760"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-12T09:23:40.000Z",
+      "edit_history_tweet_ids": [
+        "1966432514802946122"
+      ],
+      "id": "1966432514802946122",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 5955,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 2
+      },
+      "text": "SCAI孵化的第一个小爆品来了！好开心！抖音搜索“AI写论文”，全是它！估计今天会到1万点赞。精准用户疯狂进群中！\n​https://t.co/KDUl4OIdTX\n欢迎大家试用和提出反馈意见 https://t.co/UxlmM4qfrd",
+      "url": "https://x.com/bourneliu66/status/1966432514802946122"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1966161741152415744"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-11T15:28:03.000Z",
+      "edit_history_tweet_ids": [
+        "1966161823998292088"
+      ],
+      "id": "1966161823998292088",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 4427,
+        "like_count": 14,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "text": "从iPhone身上看到了二十年前的我、十年前的我、现在的我、十年后的我，而二十年后的我。 https://t.co/kB1il76d6w",
+      "url": "https://x.com/bourneliu66/status/1966161823998292088"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-11T04:44:29.000Z",
+      "edit_history_tweet_ids": [
+        "1965999869161779371"
+      ],
+      "id": "1965999869161779371",
+      "in_reply_to_user_id": "1843926395224784896",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 911,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965953412874506710",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Jason_qeb 谢谢",
+      "url": "https://x.com/bourneliu66/status/1965999869161779371"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-11T01:39:20.000Z",
+      "edit_history_tweet_ids": [
+        "1965953273468428490"
+      ],
+      "id": "1965953273468428490",
+      "in_reply_to_user_id": "1535967974313852929",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1014,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965947740195840157",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@renfeng416 谢谢",
+      "url": "https://x.com/bourneliu66/status/1965953273468428490"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-10T18:26:22.000Z",
+      "edit_history_tweet_ids": [
+        "1965844312652132415"
+      ],
+      "id": "1965844312652132415",
+      "in_reply_to_user_id": "1925344268291305472",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1041,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965833258207424730",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@becool_me 谢谢！",
+      "url": "https://x.com/bourneliu66/status/1965844312652132415"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1965831354337341444"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-10T17:34:55.000Z",
+      "edit_history_tweet_ids": [
+        "1965831367046082923"
+      ],
+      "id": "1965831367046082923",
+      "public_metrics": {
+        "bookmark_count": 260,
+        "impression_count": 38307,
+        "like_count": 278,
+        "quote_count": 0,
+        "reply_count": 22,
+        "retweet_count": 55
+      },
+      "text": "我的声音克隆产品AnyVoice换新皮肤、新交互了，模型也升级了。只需要10秒的录音就能克隆出以假乱真的声音！你们觉得新的皮肤好看吗？https://t.co/2XsrFn4s6x https://t.co/qnOL7TSyyR",
+      "url": "https://x.com/bourneliu66/status/1965831367046082923"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-10T14:28:59.000Z",
+      "edit_history_tweet_ids": [
+        "1965784572282728817"
+      ],
+      "id": "1965784572282728817",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 6233,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965748253908955339",
+          "type": "quoted"
+        }
+      ],
+      "text": "另一个刚刚起步的同学～ https://t.co/lS4QPtpNdu",
+      "url": "https://x.com/bourneliu66/status/1965784572282728817"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-10T10:23:34.000Z",
+      "edit_history_tweet_ids": [
+        "1965722813987541434"
+      ],
+      "id": "1965722813987541434",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6028,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 1
+      },
+      "text": "有粉丝给我留言：高手从不抱怨环境，因为环境就是被他们搞坏的。😂😂\n\n说的应该不是我吧?",
+      "url": "https://x.com/bourneliu66/status/1965722813987541434"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-10T09:39:22.000Z",
+      "edit_history_tweet_ids": [
+        "1965711690529735093"
+      ],
+      "id": "1965711690529735093",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 7617,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965573564024918148",
+          "type": "quoted"
+        }
+      ],
+      "text": "非常牛逼。 我特别希望其他大厂产品经理，能够看到鱼总的故事，然后问问自己——你过得开心吗？内心有起波澜吗？ https://t.co/3XttRyzs1W",
+      "url": "https://x.com/bourneliu66/status/1965711690529735093"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-10T09:11:34.000Z",
+      "edit_history_tweet_ids": [
+        "1965704694439047264"
+      ],
+      "id": "1965704694439047264",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1398,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "@underwoodxie96 纯ai写。看图",
+      "url": "https://x.com/bourneliu66/status/1965704694439047264"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1965685665322172416",
+          "3_1965685702747983872",
+          "3_1965685947137499136"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2025-09-10T07:57:26.000Z",
+      "edit_history_tweet_ids": [
+        "1965686038040650021"
+      ],
+      "id": "1965686038040650021",
+      "public_metrics": {
+        "bookmark_count": 231,
+        "impression_count": 47260,
+        "like_count": 194,
+        "quote_count": 5,
+        "reply_count": 17,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "1963866743962521744",
+          "type": "quoted"
+        }
+      ],
+      "text": "你们知道吗，下面这条推，阅读量5万，涨粉500，它是Claude Code帮我自动发的………… NND，比我亲自发的阅读量还高，尴尬\n\n案发现场见截图；\n\n1分钟就能学会的简易教程见链接 https://t.co/DfCfzhfZVG\n\n欢迎交流 https://t.co/n3qMNBcEFp https://t.co/RK2Z096zEt",
+      "url": "https://x.com/bourneliu66/status/1965686038040650021"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2025-09-10T06:42:48.000Z",
+      "edit_history_tweet_ids": [
+        "1965667252675428683"
+      ],
+      "id": "1965667252675428683",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 376,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@huang39184 Long-running tasks are perfect for: dependency updates with testing, database migrations, comprehensive code refactoring, and generating test suites. The key is setting up proper checkpoints so you can monitor progress. What's your go-to automation?",
+      "url": "https://x.com/bourneliu66/status/1965667252675428683"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "7_1969081139597099009",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1969081139597099009/pu/img/K1AcZJUXCrTMqugn.jpg",
+        "type": "video",
+        "width": 960
+      },
+      {
+        "height": 826,
+        "media_key": "3_1968698474058387456",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1I41OAakAA0UPi.jpg",
+        "width": 950
+      },
+      {
+        "height": 1279,
+        "media_key": "3_1968376035466166274",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ETk0paQAIYtaU.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1968276276394999808",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1C42FJaQAARt1v.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1624,
+        "media_key": "3_1968198166236561408",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1BxzeIbAAACGOg.jpg",
+        "width": 2750
+      },
+      {
+        "height": 1190,
+        "media_key": "3_1967862514773004289",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09Ah-_aEAEWuSF.jpg",
+        "width": 1194
+      },
+      {
+        "height": 602,
+        "media_key": "3_1967862542967115780",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09AjoBaEAQD9GI.jpg",
+        "width": 1328
+      },
+      {
+        "height": 750,
+        "media_key": "3_1967862570200731650",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09AlNeaEAImJBq.jpg",
+        "width": 1338
+      },
+      {
+        "height": 618,
+        "media_key": "3_1967862593214963712",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09AmjNbYAAvkZr.jpg",
+        "width": 1336
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1966774191841214464",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0titQIaAAAtdpZ.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1160,
+        "media_key": "3_1966774450470481921",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ti8TmbcAEWB61.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966432511330037760",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0or81CbMAAbnBS.jpg",
+        "width": 942
+      },
+      {
+        "height": 712,
+        "media_key": "3_1966161741152415744",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0k1r7hacAAmPBB.png",
+        "width": 690
+      },
+      {
+        "height": 1442,
+        "media_key": "3_1965831354337341444",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gJM4uaMAQY21w.jpg",
+        "width": 2048
+      },
+      {
+        "height": 568,
+        "media_key": "3_1965685665322172416",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0eEsq2bAAAG5WS.jpg",
+        "width": 1344
+      },
+      {
+        "height": 892,
+        "media_key": "3_1965685702747983872",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0eEu2RbkAA_avS.jpg",
+        "width": 1330
+      },
+      {
+        "height": 872,
+        "media_key": "3_1965685947137499136",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0eE9EsboAAaaIY.jpg",
+        "width": 1342
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1968682890994323456",
+            "3_1968682925622444034",
+            "3_1968685227875909632",
+            "3_1968685227926241280"
+          ]
+        },
+        "author_id": "1850075259120369664",
+        "created_at": "2025-09-18T14:35:44.000Z",
+        "edit_history_tweet_ids": [
+          "1968685376421429712"
+        ],
+        "id": "1968685376421429712",
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 86516,
+          "like_count": 211,
+          "quote_count": 14,
+          "reply_count": 53,
+          "retweet_count": 23
+        },
+        "text": "终于实现了我想要的生活：稳定主业+副业闭环，时间自由、关系自由。\n\n几年前，我还在律所实习，看不到未来。\n\n2019年，我考上了浙大法硕。本以为毕业后我会做一名高大上的律师，却没想到，毕业季6月底，我主动放弃了律所主任团队的到手offer。 https://t.co/t7wkkHF7S8"
+      },
+      {
+        "author_id": "2815325906",
+        "created_at": "2025-09-05T07:28:13.000Z",
+        "edit_history_tweet_ids": [
+          "1963866743962521744"
+        ],
+        "id": "1963866743962521744",
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 116492,
+          "like_count": 188,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 15
+        },
+        "text": "Kimi K2新版体验：这次真的不是\"人工智障\"了 😂\n\n刚和Kimi K2的新版本battle了一下午，必须来汇报下战果：\n\n✅ 代码review比我同事还细致\n✅ 写技术文档比我这个老油条还专业  \n✅ 最离谱的是连我故意埋的坑都能识别出来"
+      },
+      {
+        "author_id": "2815325906",
+        "created_at": "2025-09-06T16:58:32.000Z",
+        "edit_history_tweet_ids": [
+          "1964372655848775848"
+        ],
+        "id": "1964372655848775848",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16504,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964184228746129858",
+            "type": "quoted"
+          }
+        ],
+        "text": "刚一个硅谷的朋友告诉了我一个小道消息：Claude for Chrome 即将放量！很快各位就会收到使用邀请了，优先开给200美金、使用量较大的Claude Max Plan用户。记得去填Waitlist。 https://t.co/9JSykSgduQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1966890113067347978",
+            "3_1966890113528668160",
+            "3_1966890113495166985",
+            "3_1966890113096708096"
+          ]
+        },
+        "author_id": "1639460977510092803",
+        "created_at": "2025-09-13T15:42:09.000Z",
+        "edit_history_tweet_ids": [
+          "1966890150354710754"
+        ],
+        "id": "1966890150354710754",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12222,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966761737962877110",
+            "type": "quoted"
+          }
+        ],
+        "text": "黑客松比赛圆满结束了，没有获奖，但收获了远远比获奖更重要的东西。\n\n见到了很多有创意的项目，见到了@bourneliu66 ，他选中了全场最有趣的项目，打造差异化产品，另辟蹊径。构建和销售同样重要，Vibe Coding For Vibe Fun。感谢嘉宾们的分享和陪伴！ https://t.co/tCAIqsYb2d https://t.co/sjhSUDISB3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1966789744186060800",
+            "3_1966787893415792640"
+          ]
+        },
+        "author_id": "1896466957114781696",
+        "created_at": "2025-09-13T09:07:13.000Z",
+        "edit_history_tweet_ids": [
+          "1966790762412011723"
+        ],
+        "id": "1966790762412011723",
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 9000,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "text": "这个教授有点叛逆，教学生用AI写论文，还做了个写论文的AI工具 https://t.co/XhJ5xd1gHf"
+      },
+      {
+        "author_id": "1843926395224784896",
+        "created_at": "2025-09-11T01:39:53.000Z",
+        "edit_history_tweet_ids": [
+          "1965953412874506710"
+        ],
+        "id": "1965953412874506710",
+        "in_reply_to_user_id": "2815325906",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1069,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965831367046082923",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 布局混乱，按钮位置不合理，左边输入完内容，鼠标要移动很远去点击生成。展现的元素没有对重点做主次之分，看着很乱，播放按钮和头像这个布局也太奇怪了。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1965947694544990208"
+          ]
+        },
+        "author_id": "1535967974313852929",
+        "created_at": "2025-09-11T01:17:21.000Z",
+        "edit_history_tweet_ids": [
+          "1965947740195840157"
+        ],
+        "id": "1965947740195840157",
+        "in_reply_to_user_id": "2815325906",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1170,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965831367046082923",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 导航和内容重叠了 https://t.co/ZuiAK9Kewp"
+      },
+      {
+        "author_id": "1925344268291305472",
+        "created_at": "2025-09-10T17:42:26.000Z",
+        "edit_history_tweet_ids": [
+          "1965833258207424730"
+        ],
+        "id": "1965833258207424730",
+        "in_reply_to_user_id": "2815325906",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1153,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965831367046082923",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 滚动时 header 透明没有背景色。"
+      },
+      {
+        "author_id": "1874442058653646848",
+        "created_at": "2025-09-10T12:04:40.000Z",
+        "edit_history_tweet_ids": [
+          "1965748253908955339"
+        ],
+        "id": "1965748253908955339",
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 133394,
+          "like_count": 432,
+          "quote_count": 10,
+          "reply_count": 68,
+          "retweet_count": 37
+        },
+        "text": "终于实现了一边做产品，一边做交易的自由生活\n\n不是去卷技术，卷加班时长，而是按自己的节奏，把想做的事认真做成。\n\n3年前，通过半年时间，用圈子里的人脉和资源，从月薪13K两次跳槽涨到了年薪50W"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1965573554608766977",
+            "3_1965573554671681537",
+            "3_1965573554633932800"
+          ]
+        },
+        "author_id": "756319701861601281",
+        "created_at": "2025-09-10T00:30:30.000Z",
+        "edit_history_tweet_ids": [
+          "1965573564024918148"
+        ],
+        "id": "1965573564024918148",
+        "public_metrics": {
+          "bookmark_count": 850,
+          "impression_count": 337737,
+          "like_count": 869,
+          "quote_count": 23,
+          "reply_count": 109,
+          "retweet_count": 91
+        },
+        "text": "我终于实现了那个曾经以为很遥远的生活：\n一边带娃，一边做喜欢的事，赚着被动收入，\n没错过AI时代的红利，也没错过孩子的成长。\n\n三年前，我辞掉了月薪 15K 的产品经理工作。\n\n三年后，我做了 20 个 APP、12 个网站，用户量突破 500 万，单款产品营收超 120000美金。\n\n📈 离职后仅 5 https://t.co/1H7m6ea8a7"
+      }
+    ],
+    "users": [
+      {
+        "id": "2815325906",
+        "name": "刘小排",
+        "username": "bourneliu66"
+      },
+      {
+        "id": "1843926395224784896",
+        "name": "Steven Qi",
+        "username": "Jason_qeb"
+      },
+      {
+        "id": "1535967974313852929",
+        "name": "RexRen",
+        "username": "renfeng416"
+      },
+      {
+        "id": "1925344268291305472",
+        "name": "BECOOL",
+        "username": "becool_me"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1969081260900274660",
+    "next_token": "7140dibdnow9c7btw4e26bxwzobkohv2nn130lu5nbu43",
+    "oldest_id": "1965667252675428683",
+    "previous_token": "77qpymm88g5h9vqklv3dmzxdog0ppswp6yrblvqahujao",
+    "result_count": 24
+  }
+}

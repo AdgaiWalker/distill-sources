@@ -1,0 +1,717 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2080705791481540608",
+          "3_2080705802839691264"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-07-24T17:24:56.000Z",
+      "edit_history_tweet_ids": [
+        "2080705806564254202"
+      ],
+      "id": "2080705806564254202",
+      "public_metrics": {
+        "bookmark_count": 369,
+        "impression_count": 164148,
+        "like_count": 422,
+        "quote_count": 9,
+        "reply_count": 287,
+        "retweet_count": 35
+      },
+      "text": "为了用Claude Code，我把AI员工送出国了！\n\n新加坡买的的Mac Mini、放在新加坡办公室、新加坡的网络、新加坡手机号、新加坡公司注册的 Claude Code，再也没有任何特征可以被识别，我不信还能被封我的号！\n\n这套方案非常完美，不改变我的使用感习惯：新加坡也用简体中文、新加坡时区等同于北京时区。 https://t.co/NARisTAIT4",
+      "url": "https://x.com/bourneliu66/status/2080705806564254202"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-24T16:39:03.000Z",
+      "edit_history_tweet_ids": [
+        "2080694120415428684",
+        "2080694257770451165"
+      ],
+      "id": "2080694257770451165",
+      "public_metrics": {
+        "bookmark_count": 28,
+        "impression_count": 31694,
+        "like_count": 137,
+        "quote_count": 1,
+        "reply_count": 73,
+        "retweet_count": 5
+      },
+      "text": "最近我喜欢Kimi K3超过Fable 5和GPT-5.6 Sol\n\n原因\n1.  对比GPT-5.6 Sol，Kimi K3有1M的上下文窗口\n2. 对比Fable 5，K3不会因为“网络安全等问题”而悄悄降级为更弱的Opus 4.8\n3. Kimi K3的UX编程能力和审美，世界第一\n4. 在非UX领域，Kimi K3也强于GPT-5.5和Opus 4.8\n\n一句话：K3是稳定发挥之王",
+      "url": "https://x.com/bourneliu66/status/2080694257770451165"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-24T08:25:23.000Z",
+      "edit_history_tweet_ids": [
+        "2080570022314008754"
+      ],
+      "id": "2080570022314008754",
+      "in_reply_to_user_id": "249355006",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 535,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2080568610398056608",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Leepriest1990 多账号",
+      "url": "https://x.com/bourneliu66/status/2080570022314008754"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-24T08:17:15.000Z",
+      "edit_history_tweet_ids": [
+        "2080567977204973829"
+      ],
+      "id": "2080567977204973829",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8258,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 19,
+        "retweet_count": 0
+      },
+      "text": "马上周末了，好期待！\n一旦到了周末，Codex、Kimi的速度都快如狗！\n\n我甚至在考虑：平时玩，周末写代码。",
+      "url": "https://x.com/bourneliu66/status/2080567977204973829"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-23T05:28:16.000Z",
+      "edit_history_tweet_ids": [
+        "2080163026624467442",
+        "2080163064964665504"
+      ],
+      "id": "2080163064964665504",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 19170,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 82,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2078150582054133991",
+          "type": "quoted"
+        }
+      ],
+      "text": "原本这只是我编的一个段子，没想到美国政府真的在认真的评估Kimi K3是否蒸馏了Fable 5 ？？ \n\n有点脑子好不好，如何靠蒸馏获得一个比原版更强的模型呢？ https://t.co/2LTfsrZgQf",
+      "url": "https://x.com/bourneliu66/status/2080163064964665504"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-22T06:13:25.000Z",
+      "edit_history_tweet_ids": [
+        "2079812039753773513"
+      ],
+      "id": "2079812039753773513",
+      "in_reply_to_user_id": "1953337039510003712",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 6164,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 16,
+        "retweet_count": 0
+      },
+      "text": "@thsottiaux Even with frequent resets, my ChatGPT Pro account still isn’t enough. \n\nTopping up credits doesn’t seem cost-effective, so I’m considering an additional subscription. \n\nIs there a quick way to switch accounts in the ChatGPT or Codex desktop app?",
+      "url": "https://x.com/bourneliu66/status/2079812039753773513"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2079786466809724928"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-07-22T04:32:10.000Z",
+      "edit_history_tweet_ids": [
+        "2079786556873945160"
+      ],
+      "id": "2079786556873945160",
+      "in_reply_to_user_id": "1720665183188922368",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 7560,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "text": "@grok 这到底是谁呀？为啥突然我的X时间轴全是她各种角度的照片，连衣服都没换 https://t.co/CwrUWUgIW9",
+      "url": "https://x.com/bourneliu66/status/2079786556873945160"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-21T12:28:56.000Z",
+      "edit_history_tweet_ids": [
+        "2079544151385817333"
+      ],
+      "id": "2079544151385817333",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 25124,
+        "like_count": 53,
+        "quote_count": 2,
+        "reply_count": 26,
+        "retweet_count": 0
+      },
+      "text": "GPT-5.6’s forecast for the next Codex reset:​\n\nJuly 23–25:​ 45% — Most likely window for a full reset\n\nJuly 26–28:​ 25% — Possible fallback window\n\nJuly 29 onward:​ 20%\n\nJuly 21–22:​ 10%\n\n@thsottiaux What do you think?",
+      "url": "https://x.com/bourneliu66/status/2079544151385817333"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2079538745507028992"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-07-21T12:07:37.000Z",
+      "edit_history_tweet_ids": [
+        "2079538788033069561"
+      ],
+      "id": "2079538788033069561",
+      "public_metrics": {
+        "bookmark_count": 37,
+        "impression_count": 26035,
+        "like_count": 72,
+        "quote_count": 5,
+        "reply_count": 85,
+        "retweet_count": 4
+      },
+      "text": "WorkBuddy很好！（发自内心推荐，非商单） https://t.co/RyC33Sm7Ho",
+      "url": "https://x.com/bourneliu66/status/2079538788033069561"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-21T10:06:42.000Z",
+      "edit_history_tweet_ids": [
+        "2079508357648687119"
+      ],
+      "id": "2079508357648687119",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 14797,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 74,
+        "retweet_count": 0
+      },
+      "text": "中国排名第一的大学有两所，排名前三的大学有五所，排名前十的大学有二十所。\n\n我发现，这像极了AI圈。截止今日(7月21日）：世界排名第一的大模型有两个，排名前三的大模型有十个，排名前十的大模型有几十个。",
+      "url": "https://x.com/bourneliu66/status/2079508357648687119"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2079486414060957696"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-07-21T08:40:33.000Z",
+      "edit_history_tweet_ids": [
+        "2079486678709023010"
+      ],
+      "id": "2079486678709023010",
+      "public_metrics": {
+        "bookmark_count": 133,
+        "impression_count": 72435,
+        "like_count": 255,
+        "quote_count": 2,
+        "reply_count": 45,
+        "retweet_count": 17
+      },
+      "text": "我发现，GPT-5.6-Terra(Max)被严重低估了！\n它的写代码能力和GPT-5.6-Sol(Max) 不相上下、同样超过Fable 5（只是Terra的agentic能力略差一些），速度和价格却有明显优势！\n\n在这件事上，AA的测评是准确的，和我的实测一致！ https://t.co/Kny4LPftNw",
+      "url": "https://x.com/bourneliu66/status/2079486678709023010"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-21T04:00:26.000Z",
+      "edit_history_tweet_ids": [
+        "2079416183842103748"
+      ],
+      "id": "2079416183842103748",
+      "in_reply_to_user_id": "2815325906",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 2913,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2079416003285655947",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/zMsGPDBeIE",
+      "url": "https://x.com/bourneliu66/status/2079416183842103748"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2079415157575536640"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-07-21T03:59:43.000Z",
+      "edit_history_tweet_ids": [
+        "2079416003285655947"
+      ],
+      "id": "2079416003285655947",
+      "public_metrics": {
+        "bookmark_count": 98,
+        "impression_count": 29219,
+        "like_count": 72,
+        "quote_count": 3,
+        "reply_count": 43,
+        "retweet_count": 5
+      },
+      "text": "如何像Peter Steiberger一样，一个人同时管理数十个AI程序员？\n\n他的Codex，每时每刻都是几十个任务并行：\n- 修 Bug\n- 重构模块\n- 补测试\n- 优化 UI\n- 清理代码\n\n有朋友问，同时做这么多功能，AI不会打架吗？\n答案是——不会。\n\n秘诀是一个Git的老功能：Worktree\n\n详情⬇️ https://t.co/IEOBehu61P",
+      "url": "https://x.com/bourneliu66/status/2079416003285655947"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-20T17:30:30.000Z",
+      "edit_history_tweet_ids": [
+        "2079257656880218245"
+      ],
+      "id": "2079257656880218245",
+      "public_metrics": {
+        "bookmark_count": 35,
+        "impression_count": 58515,
+        "like_count": 115,
+        "quote_count": 2,
+        "reply_count": 60,
+        "retweet_count": 2
+      },
+      "text": "GPT-5.6 Sol，什么medium、high、xhigh都是假的，\n只有选择 GPT-5.6 Sol Ultra，才能发挥出来它真正的实力！\n虽然慢，但是可以在复杂项目中吊打其他一些模型！",
+      "url": "https://x.com/bourneliu66/status/2079257656880218245"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-19T20:15:38.000Z",
+      "edit_history_tweet_ids": [
+        "2078936524914356599",
+        "2078936824005988417"
+      ],
+      "id": "2078936824005988417",
+      "public_metrics": {
+        "bookmark_count": 49,
+        "impression_count": 91652,
+        "like_count": 328,
+        "quote_count": 12,
+        "reply_count": 107,
+        "retweet_count": 16
+      },
+      "text": "预测：\n 一个月内，中国模型将大爆发，全面超过Opus 4.8 ！ 包括并不限于以下厂商的很快会发布的模型\n\n- Kimi K3 ，已发布\n- Qwen 3.8， 一周内发布\n- Minimax 下一代， 一月内发布\n- Deepseek v4 Pro Max ，一周内发布\n- GLM 5.3/5.5，一个月内发布\n\n很快，就算Claude Code封号，我们也不怕了！",
+      "url": "https://x.com/bourneliu66/status/2078936824005988417"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-17T16:11:23.000Z",
+      "edit_history_tweet_ids": [
+        "2078150498411287005",
+        "2078150582054133991"
+      ],
+      "id": "2078150582054133991",
+      "public_metrics": {
+        "bookmark_count": 842,
+        "impression_count": 845463,
+        "like_count": 4722,
+        "quote_count": 137,
+        "reply_count": 338,
+        "retweet_count": 321
+      },
+      "text": "🚨 BREAKING：\nAnthropic CEO Dario Amodei 向美国国会提交报告：\n“经过调查，我们发现 Kimi K3 可能蒸馏了一个 Anthropic 尚未开发完成的模型。”\n\n国会议员追问：“你们的模型还没做出来，它怎么蒸馏的？”\n\nAmodei：“这正是我们召开听证会的原因。”\n\nAI 安全领域迎来新课题：Future Model Leakage",
+      "url": "https://x.com/bourneliu66/status/2078150582054133991"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-17T08:26:00.000Z",
+      "edit_history_tweet_ids": [
+        "2078033462528000258"
+      ],
+      "id": "2078033462528000258",
+      "in_reply_to_user_id": "598437976",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12065,
+        "like_count": 35,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2078028126240792760",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lolieatapple AI打游戏不需要界面",
+      "url": "https://x.com/bourneliu66/status/2078033462528000258"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-17T08:25:53.000Z",
+      "edit_history_tweet_ids": [
+        "2078033432782000605"
+      ],
+      "id": "2078033432782000605",
+      "in_reply_to_user_id": "4817647818",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 9472,
+        "like_count": 30,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2078027438005846164",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TunaCookie_ by GPT-Image-2 API",
+      "url": "https://x.com/bourneliu66/status/2078033432782000605"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-17T07:56:34.000Z",
+      "edit_history_tweet_ids": [
+        "2078026058411184531"
+      ],
+      "id": "2078026058411184531",
+      "in_reply_to_user_id": "44017949",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2076272836423950517",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sudoferraz @creem_io @sudoferraz @creem_io We’ve been unable to accept Real-Time Payments across 4 stores for 48 hours. Support bot said a human would respond in 7h, but no follow-up. This is impacting live operations. Could you or someone from the team please look into it? Happy to share details via",
+      "url": "https://x.com/bourneliu66/status/2078026058411184531"
+    },
+    {
+      "author_id": "2815325906",
+      "created_at": "2026-07-17T07:33:31.000Z",
+      "edit_history_tweet_ids": [
+        "2078020254186504356"
+      ],
+      "id": "2078020254186504356",
+      "in_reply_to_user_id": "2815325906",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2894,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2078019445847658738",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sudoferraz",
+      "url": "https://x.com/bourneliu66/status/2078020254186504356"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2078018689241333760"
+        ]
+      },
+      "author_id": "2815325906",
+      "created_at": "2026-07-17T07:30:18.000Z",
+      "edit_history_tweet_ids": [
+        "2078019445847658738"
+      ],
+      "id": "2078019445847658738",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 10545,
+        "like_count": 7,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "Urgent: Multiple stores on @creem_io are unable to process payments. \n\nSupport bot promised a human response within 7 hours; \n\n48 hours later, still no reply. This is causing real revenue loss. \n\nPlease escalate immediately.  @AnnikaLjash https://t.co/vRdJ4AWOIx",
+      "url": "https://x.com/bourneliu66/status/2078019445847658738"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2681,
+        "media_key": "3_2080705791481540608",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAm5K9a8AAkkHC.jpg",
+        "width": 1282
+      },
+      {
+        "height": 234,
+        "media_key": "3_2080705802839691264",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAm51RakAASmfl.jpg",
+        "width": 607
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2079786466809724928",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzixbrbwAAz7pX.jpg",
+        "width": 825
+      },
+      {
+        "height": 1844,
+        "media_key": "3_2079538745507028992",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwBeJ6boAAGe6b.jpg",
+        "width": 2104
+      },
+      {
+        "height": 1294,
+        "media_key": "3_2079486414060957696",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvR4EFasAAyNeU.jpg",
+        "width": 2350
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2079415157575536640",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuREY_aUAAemn8.jpg",
+        "width": 1234
+      },
+      {
+        "height": 488,
+        "media_key": "3_2078018689241333760",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaa_PDaQAAKrev.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "249355006",
+        "created_at": "2026-07-24T08:19:46.000Z",
+        "edit_history_tweet_ids": [
+          "2080568610398056608"
+        ],
+        "id": "2080568610398056608",
+        "in_reply_to_user_id": "2815325906",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 524,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080567977204973829",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 哎呀，怎么解决没额度？我一天就干没了，现在只能等待"
+      },
+      {
+        "author_id": "2815325906",
+        "created_at": "2026-07-17T16:11:23.000Z",
+        "edit_history_tweet_ids": [
+          "2078150498411287005",
+          "2078150582054133991"
+        ],
+        "id": "2078150582054133991",
+        "public_metrics": {
+          "bookmark_count": 842,
+          "impression_count": 845463,
+          "like_count": 4722,
+          "quote_count": 137,
+          "reply_count": 338,
+          "retweet_count": 321
+        },
+        "text": "🚨 BREAKING：\nAnthropic CEO Dario Amodei 向美国国会提交报告：\n“经过调查，我们发现 Kimi K3 可能蒸馏了一个 Anthropic 尚未开发完成的模型。”\n\n国会议员追问：“你们的模型还没做出来，它怎么蒸馏的？”\n\nAmodei：“这正是我们召开听证会的原因。”\n\nAI 安全领域迎来新课题：Future Model Leakage"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2079415157575536640"
+          ]
+        },
+        "author_id": "2815325906",
+        "created_at": "2026-07-21T03:59:43.000Z",
+        "edit_history_tweet_ids": [
+          "2079416003285655947"
+        ],
+        "id": "2079416003285655947",
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 29219,
+          "like_count": 72,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "text": "如何像Peter Steiberger一样，一个人同时管理数十个AI程序员？\n\n他的Codex，每时每刻都是几十个任务并行：\n- 修 Bug\n- 重构模块\n- 补测试\n- 优化 UI\n- 清理代码\n\n有朋友问，同时做这么多功能，AI不会打架吗？\n答案是——不会。\n\n秘诀是一个Git的老功能：Worktree\n\n详情⬇️ https://t.co/IEOBehu61P"
+      },
+      {
+        "author_id": "598437976",
+        "created_at": "2026-07-17T08:04:47.000Z",
+        "edit_history_tweet_ids": [
+          "2078028126240792760"
+        ],
+        "id": "2078028126240792760",
+        "in_reply_to_user_id": "2815325906",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12733,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078012191169810475",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 8*3600 / 10000 = 2.88 秒跑一局？？🤡🤡"
+      },
+      {
+        "author_id": "4817647818",
+        "created_at": "2026-07-17T08:02:03.000Z",
+        "edit_history_tweet_ids": [
+          "2078027438005846164"
+        ],
+        "id": "2078027438005846164",
+        "in_reply_to_user_id": "2815325906",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9841,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078012191169810475",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 was the art assets also generated by kimi ?"
+      },
+      {
+        "author_id": "44017949",
+        "created_at": "2026-07-12T11:49:54.000Z",
+        "edit_history_tweet_ids": [
+          "2076272836423950517"
+        ],
+        "id": "2076272836423950517",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "The fact that @creem_io gets peak visitors during the weekend is a blessing and a curse"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2078018689241333760"
+          ]
+        },
+        "author_id": "2815325906",
+        "created_at": "2026-07-17T07:30:18.000Z",
+        "edit_history_tweet_ids": [
+          "2078019445847658738"
+        ],
+        "id": "2078019445847658738",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10545,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "text": "Urgent: Multiple stores on @creem_io are unable to process payments. \n\nSupport bot promised a human response within 7 hours; \n\n48 hours later, still no reply. This is causing real revenue loss. \n\nPlease escalate immediately.  @AnnikaLjash https://t.co/vRdJ4AWOIx"
+      }
+    ],
+    "users": [
+      {
+        "id": "2815325906",
+        "name": "刘小排",
+        "username": "bourneliu66"
+      },
+      {
+        "id": "249355006",
+        "name": "aix阿乐",
+        "username": "Leepriest1990"
+      },
+      {
+        "id": "1953337039510003712",
+        "name": "Tibo",
+        "username": "thsottiaux"
+      },
+      {
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "username": "grok"
+      },
+      {
+        "id": "598437976",
+        "name": "lolieatapple",
+        "username": "lolieatapple"
+      },
+      {
+        "id": "4817647818",
+        "name": "Tuan Dev",
+        "username": "TunaCookie_"
+      },
+      {
+        "id": "44017949",
+        "name": "sudoferraz",
+        "username": "sudoferraz"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2080705806564254202",
+    "next_token": "7140dibdnow9c7btwoxiyg3omc8095fcc3kvzi7z9qxx4",
+    "oldest_id": "2078019445847658738",
+    "previous_token": "77qpymm88g5h9vqkmfmutk89l6to9jqiwn1ugpzw9ga42",
+    "result_count": 21
+  }
+}

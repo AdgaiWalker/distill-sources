@@ -1,0 +1,24 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Cloudflare worker 收发邮件 部署记录 | Web.Cafe</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>Cloudflare worker 收发邮件 部署记录 | Web.Cafe</h1><div class="meta">离线存档 · 2026-09-04T10:34:25.216Z · <a href="https://my.feishu.cn/docx/X2frdSj65oHlD6xt2cScsz1dn6c">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/e6txmjzw...<a class="source-link" href="https://new.web.cafe/topic/e6txmjzwnu">https://new.web.cafe/topic/e6txmjzw...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-05-22 19:54:27 (UTC+8)</blockquote>
+<p id="b5">每天可以发邮件 200 封</p>
+<h1 id="b6">第一步： 部署worker</h1>
+<div class="list ordered" id="b7">1.<br>点击 deploy to cloudflare，会跳到 dash.cloudflare 域名</div>
+<div class="list ordered" id="b8">2.<br>修改 DOMAINS 参数为 你的域名，其他保持默认即可，点击 Deploy</div>
+<h1 id="b9">第二步：部署cloudflare access</h1>
+<p id="b10">作用：给第一步部署的 worker 配置可以登录的邮箱账号</p>
+<div class="list ordered" id="b11">1.<br>dash 页面的 zero trust，开通 0 元套餐，team domain 可以随意定，后面也可以修改。</div>
+<div class="list ordered" id="b12">2.<br>添加 application Access controls -&gt; applications -&gt; create new application-&gt; 选择 self-hosted，workers，域名是第一步部署worker 后得到的子域名 https://worker_name.user_name.workers.dev/</div>
+<div class="list ordered" id="b13">3.<br>添加 policies Access controls -&gt; Policies-&gt; Add a policy-&gt; 名字随便 include 选择 emails，邮箱填为你要登录的邮箱</div>
+<h1 id="b14">第三步： 开启邮件发送</h1>
+<p id="b15">dash -&gt; Email Service-&gt;Email Sending-&gt; Onboard domain 选择用来发邮件的域名</p>
+<blockquote id="b16">配置完后 Status 从 Syning 变成 Enabled 才可以发邮件，需要等一段时间</blockquote>
+<h1 id="b17">第四步： 开启邮件接收</h1>
+<p id="b18">dash -&gt; Email Service-&gt;Email Routing-&gt; Onboard domain 选择用来收邮件的域名 点击刚刚创建的条目-&gt; Routing Rules -&gt; Create address-&gt; support@domain, send to a worker，从下来列表中选择第一步部署的 worker。</p>
+<p id="b19">catch-all 可选可不选，如果启用的话，也是发到 worker。</p>
+<blockquote id="b20">配置完后 Status 从 Syning 变成 Enabled 才可以发邮件，需要等一段时间</blockquote>
+<h1 id="b21">第五步： 设置 worker 的变量： POLICY_AUD 和 TEAM_DOMAIN，EMAIL_ADDRESSES</h1>
+<p id="b22">dash-&gt; compute-&gt;workes &amp; pages-&gt; 选择第一步创建的 worker。</p>
+<p id="b23">Setting -&gt; workers.dev -&gt;右边的三个点-&gt; 启用 cloudflare access-&gt; 会出现一个弹窗，写着POLICY_AUD和 TEAM_DOMAIN ，将其复制下来，然后修改对应的 Variables and Secrets。</p>
+<h1 id="b24">参考资料</h1>
+<div class="list bullet" id="b25">•<br>参考视频</div>
+<div class="list bullet" id="b26">•<br>Cloudflare 开源一套代码，搞定多域名邮件统一收发</div></main></div></body></html>

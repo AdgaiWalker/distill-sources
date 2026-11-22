@@ -1,0 +1,49 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>全职出海第一天，一天上线了第一个游戏站 | Web.Cafe</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>全职出海第一天，一天上线了第一个游戏站 | Web.Cafe</h1><div class="meta">离线存档 · 2026-09-04T10:49:26.583Z · <a href="https://my.feishu.cn/docx/PVGedu1PeoYKiIxFdwLcBtyFnxb">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/f3f9ste4...<a class="source-link" href="https://new.web.cafe/topic/f3f9ste4vn">https://new.web.cafe/topic/f3f9ste4...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-08-02 20:56:10 (UTC+8)</blockquote>
+<h1 id="b5">全职出海第一天，我用一天时间上线了第一个游戏站</h1>
+<p id="b6">各位朋友好，我是上周刚加入社群的新人，一个后端程序员，之前一直在公司打工写后端。</p>
+<p id="b7">先说下我的情况：本来打算把出海作为副业慢慢摸索，结果就在昨天，我打工的公司倒闭了。想了想，干脆改成全职做。也是巧，昨天正好参加了线下活动，见到了很多大佬，感触很深——大家路径各不相同，但共同点就一个： 先做起来 。</p>
+<p id="b8">特别感谢线下聊了很久的 小龙大哥 ，给了我很多实打实的信息。他给我的建议是：刚起步可以先做游戏站——上手快、见效快，容易拿到正反馈，把信心和流程先建立起来。这个建议直接定了我今天的方向。</p>
+<p id="b9">我自认执行力还行，所以今天没有继续看教程囤认知，而是直接动手，用一天时间把第一个站从零怼到了上线。发出来给同样刚起步的朋友参考，也算给自己立个 flag。</p>
+<p id="b10">先声明： 这个站没做找词，纯粹是为了走通&quot;建站 → 部署 → 自动化发布&quot;的全流程管线 。我知道正确顺序是找词先行，下一个站就按方法论来。练手站的价值是把所有基建的坑先踩完，后面正式做站时不在技术上卡壳。</p>
+<p id="b11"><br></p>
+<h2 id="b12">一天之内换了 6 次方案（真实心路）</h2>
+<p id="b13">我最初的想法特别典型：做个蜘蛛侠小游戏站。然后一路被现实教育：</p>
+<div class="list ordered" id="b14">1.<br>想用 WordPress → 了解后发现单游戏站用纯静态 HTML 更轻、速度和 SEO 更友好</div>
+<div class="list ordered" id="b15">2.<br>嵌入分发平台的蜘蛛侠游戏 （GameMonetize）→ 能玩，但玩着玩着弹插屏广告，体验很差</div>
+<div class="list ordered" id="b16">3.<br>换 GitHub 开源的 8-bit 蜘蛛侠 → 无广告了，但太复古，只支持键盘</div>
+<div class="list ordered" id="b17">4.<br>让 AI 现写一个 3D 荡蛛丝游戏 → 一天写出来的东西终究粗糙，玩具和商品之间隔着几周打磨</div>
+<div class="list ordered" id="b18">5.<br>回头找平台上更精美的摆荡游戏 → 连踩两个平台的坑（下面细说）</div>
+<div class="list ordered" id="b19">6.<br>最终放弃蜘蛛侠主题 ，换了开源精品竞速游戏 HexGL——MIT 许可，代码和美术都可以商用</div>
+<p id="b20">最大的转折是放弃&quot;蜘蛛侠&quot;这个执念 。开源 + 精美 + 知名 IP 三个条件永远凑不齐，因为蜘蛛侠是漫威的，正经团队不会做开源蜘蛛侠游戏，GitHub 上只有粉丝练手作。而且 IP 素材拿来商用（尤其以后挂 AdSense）就是给自己埋雷。做游戏站的朋友选品时建议把&quot;素材许可干不干净&quot;放进检查清单。</p>
+<h2 id="b21">游戏站的内容从哪来？三条路我都走了一遍</h2>
+<p id="b22"><br><br>来源<br><br>	<br><br>优点<br><br>	<br><br>代价<br><br><br><br><br>分发平台（GameMonetize / GamePix / GameDistribution）<br><br>	<br><br>游戏海量、接入快<br><br>	<br><br>游戏内强制平台广告；注册 publisher 后广告分成才归你（45-70%）<br><br><br><br><br>自己开发<br><br>	<br><br>完全可控、无版权问题<br><br>	<br><br>工作量以周计，短期出不了商业观感<br><br><br><br><br>开源自托管<br><br>	<br><br>零广告、体验最好<br><br>	<br><br>精品稀缺，撑不起聚合站<br><br></p>
+<p id="b35">给嵌游戏的朋友几个实测踩坑点（这几个坑浪费了我几个小时）：</p>
+<div class="list bullet" id="b36">•<br>GamePix ：嵌入地址里 sid=1 是演示 ID，正式启动游戏会 AccessDenied，必须注册 publisher 拿自己的 SID</div>
+<div class="list bullet" id="b37">•<br>GameDistribution ：它的广告/授权系统在 localhost 本地调试时初始化会失败，游戏点了没反应—— 必须部署到真实域名才能测</div>
+<div class="list bullet" id="b38">•<br>GameMonetize ：免注册直接能嵌，本地也能跑，适合开发期用</div>
+<h2 id="b39">部署这块学到的（程序员视角，非技术的朋友可跳过）</h2>
+<p id="b40">最终架构简单到极致：纯静态 HTML + 开源游戏文件自托管，零框架零后端。托管选了 Cloudflare Pages ，对比过 Vercel：</p>
+<div class="list bullet" id="b41">•<br>Vercel 免费版 100GB/月流量封顶，且 条款禁止商用 （挂广告就算商用，要 $20/月）</div>
+<div class="list bullet" id="b42">•<br>Cloudflare Pages 免费版 不限流量 + 允许商用 ——静态出海站基本是无脑选它</div>
+<p id="b43">部署配了 GitHub Actions 自动化：改完代码 git push ，一分钟内全球 CDN 生效，带完整版本历史和一键回滚。走完这套的感受是：现代部署基建对个人开发者是真的友好，一个人就是一支队伍。</p>
+<p id="b44">（有个细节分享：Cloudflare Pages 项目的类型创建时就定死了，Direct Upload 型改不成 Git 集成型。想用&quot;连接 GitHub 仓库自动部署&quot;的朋友， 建项目时就直接选 Connect to Git ，别像我一样先手动传了再想改。）</p>
+<h2 id="b45">接下来的计划</h2>
+<div class="list bullet" id="b46">•<br>这个练手站保持现状，不投入了</div>
+<div class="list bullet" id="b47">•<br>方向上听小龙大哥的， 继续深耕游戏站 ，先拿正反馈</div>
+<div class="list bullet" id="b48">•<br>下一个站严格按方法论来：找词 → 按搜索需求选品 → 建站 → Search Console 验证</div>
+<div class="list bullet" id="b49">•<br>保持节奏，每一步都发出来接受监督</div>
+<p id="b50">最后说下感受：入群一周，哥飞是真的负责，群里问题回复得都很快，昨天线下活动也收获很大。另外用哥飞分享的 AI 工作流搭配着干活，效率至少翻倍——今天这个站从零到上线只用一天，AI 结对占很大功劳（方案调研、写代码、排查部署报错都是并行推进的）。</p>
+<p id="b51">刚全职，压力肯定有，但路径是清晰的。先做起来，做了才有反馈，有反馈才能迭代。共勉，也欢迎大家拍砖指正。</p>
+<p id="b52">完全可控、无版权问题</p>
+<p id="b53">自己开发</p>
+<p id="b54">工作量以周计，短期出不了商业观感</p>
+<p id="b55">游戏海量、接入快</p>
+<p id="b56">分发平台（GameMonetize / GamePix / GameDistribution）</p>
+<p id="b57">游戏内强制平台广告；注册 publisher 后广告分成才归你（45-70%）</p>
+<p id="b58">零广告、体验最好</p>
+<p id="b59">开源自托管</p>
+<p id="b60">精品稀缺，撑不起聚合站</p>
+<p id="b61">优点</p>
+<p id="b62">来源</p>
+<p id="b63">代价</p></main></div></body></html>

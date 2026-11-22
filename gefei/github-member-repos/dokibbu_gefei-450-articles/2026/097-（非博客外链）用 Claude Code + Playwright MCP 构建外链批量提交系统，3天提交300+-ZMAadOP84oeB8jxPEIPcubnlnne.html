@@ -1,0 +1,227 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>（非博客外链）用 Claude Code + Playwright MCP 构建外链批量提交系统，3天提交300+</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>（非博客外链）用 Claude Code + Playwright MCP 构建外链批量提交系统，3天提交300+</h1><div class="meta">离线存档 · 2026-09-04T10:32:08.163Z · <a href="https://my.feishu.cn/docx/ZMAadOP84oeB8jxPEIPcubnlnne">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/boy1nt0m...<a class="source-link" href="https://new.web.cafe/topic/boy1nt0mhk">https://new.web.cafe/topic/boy1nt0m...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-04-18 12:13:17 (UTC+8)</blockquote>
+<p id="b5">做独立站 SEO，外链是绕不开的苦活。基本上都是几百个起步，人手发真的要死了，而且我还同时做多个站，肯定得想个别的办法。</p>
+<p id="b6">我的选择是： 用 Claude Code 的 Playwright MCP 直接操控浏览器，一个站一个站地手动提交 。听起来笨，但这是我找到的能保证外链质量的方法。</p>
+<p id="b7">3 天下来，4 个站总计提交了 300+ 条独立域名外链，其中约 40% 是 Dofollow。这篇文章分享整个系统的架构和方法论。</p>
+<p id="b8"><br></p>
+<h2 id="b9">一、系统架构</h2>
+<h3 id="b10">1.1 核心组件</h3>
+<p id="b11"><br>代码块<br>JavaScript<br></p>
+<p id="b12">Claude Code 负责决策和执行：读取 DB 中的候选站列表，查阅 Skill 知识库中的平台经验，然后通过 Playwright MCP 直接操作浏览器完成注册、填表、提交。</p>
+<p id="b13">Playwright MCP 是 Anthropic 官方的 @playwright/mcp ，提供 browser_navigate / browser_snapshot / browser_click / browser_evaluate 等工具。Claude Code 通过这些工具直接控制 Chrome 浏览器。</p>
+<h3 id="b14">1.2 多站并发隔离</h3>
+<p id="b15">4 个站各有独立的：</p>
+<div class="list bullet" id="b16">•<br>Chrome Profile 目录 （cookie/session 完全隔离）</div>
+<div class="list bullet" id="b17">•<br>ISP 代理端口 （每站不同 IP）</div>
+<div class="list bullet" id="b18">•<br>Playwright MCP 实例 （独立浏览器进程）</div>
+<p id="b19">通过项目级 settings.json 配置，每个 Claude Code session 只启动自己那一个 MCP 实例：</p>
+<p id="b20"><br>代码块<br>JavaScript<br>tmux pane 1: cd backlink-site-a &amp;&amp; claude   # 启动 site-a 的 MCP<br>tmux pane 2: cd backlink-site-b &amp;&amp; claude   # 启动 site-b 的 MCP<br>tmux pane 3: cd backlink-site-c &amp;&amp; claude   # 启动 site-c 的 MCP<br>tmux pane 4: cd backlink-site-d &amp;&amp; claude   # 启动 site-d 的 MCP<br></p>
+<p id="b21">4 个 Claude Code 实例并行跑，互不干扰。</p>
+<h3 id="b22">1.3 知识库结构（Skill 文件）</h3>
+<p id="b23">知识库从最初的 2 个巨型文件（3159 行）重组为 10 个职责单一的文件（945 行），缩减 70%：</p>
+<p id="b24"><br><br>文件<br><br>	<br><br>职责<br><br>	<br><br>行数<br><br><br><br><br>SKILL.md<br><br>	<br><br>入口：流程 + SQL + 索引<br><br>	<br><br>~100<br><br><br><br><br>iron-rules.md<br><br>	<br><br>10 条铁律（违反即失败）<br><br>	<br><br>~70<br><br><br><br><br>wp-comments.md<br><br>	<br><br>WordPress 评论提交技巧<br><br>	<br><br>~110<br><br><br><br><br>anti-spam.md<br><br>	<br><br>6 种反垃圾系统绕过对策<br><br>	<br><br>~90<br><br><br><br><br>dofollow-2026.md<br><br>	<br><br>2026 实测 Dofollow 平台清单<br><br>	<br><br>~120<br><br><br><br><br>platforms.md<br><br>	<br><br>活跃平台操作速查<br><br>	<br><br>~160<br><br><br><br><br>dead-sites.md<br><br>	<br><br>失效站 + 失败模式归档<br><br>	<br><br>~95<br><br><br><br><br>reverse-eng.md<br><br>	<br><br>前端逆向 SOP + 案例<br><br>	<br><br>~100<br><br><br><br><br>strategies.md<br><br>	<br><br>包管理器 + 卫星站策略<br><br>	<br><br>~90<br><br><br><br><br>accounts.md<br><br>	<br><br>账号 + 邮箱 + 多实例架构<br><br>	<br><br>~70<br><br></p>
+<p id="b58">每次执行外链任务，Claude Code 先读 iron-rules.md （必读），再按需查阅其他文件。新经验追加到对应文件，不堆在一个地方。</p>
+<p id="b59"><br></p>
+<h2 id="b60">二、执行流程</h2>
+<h3 id="b61">2.1 候选筛选</h3>
+<p id="b62">从 DB 中拉候选站， 必须在 SQL 层硬过滤 ：</p>
+<p id="b63"><br>代码块<br>SQL<br>-- 核心过滤逻辑（简化版）<br>WHERE is_spam = 0                    -- 排除 PBN / 链接农场<br>  AND traffic &gt;= 100                 -- 排除零流量站（DR 是假指标，traffic 是真）<br>  AND domain NOT IN (已做过的)        -- 按域名去重，不是按模板 ID<br>ORDER BY traffic DESC                -- 优先按真实流量排序<br></p>
+<p id="b64">血泪教训 ：DR（Domain Rating）是假指标。我们曾经一晚上跑了一批 DR50+ 的候选站，结果全是 PBN 链接农场 -- DR 靠互相刷，实际流量为 0。后来加了 traffic &gt;= 100 硬过滤，一劳永逸。</p>
+<h3 id="b65">2.2 单站提交流程</h3>
+<div class="list ordered" id="b66">1.<br>读铁律（每次都读，防止犯已知错误）</div>
+<div class="list ordered" id="b67">2.<br>确认当前站点的品牌信息和锚文本</div>
+<div class="list ordered" id="b68">3.<br>查阅目标平台的操作经验</div>
+<div class="list ordered" id="b69">4.<br>Playwright 打开目标站 → 截图确认页面结构</div>
+<div class="list ordered" id="b70">5.<br>按经验操作：注册 / 填表 / 发评论 / 创建 Profile</div>
+<div class="list ordered" id="b71">6.<br>提交后实测链接的 rel 属性（nofollow 还是 dofollow）</div>
+<div class="list ordered" id="b72">7.<br>写回数据库</div>
+<div class="list ordered" id="b73">8.<br>Ping 搜索引擎通知新页面</div>
+<div class="list ordered" id="b74">9.<br>经验追加到知识库</div>
+<p id="b75">关键是 第 6 步实测 rel 。很多平台的 Dofollow 标记是过时的，2026 年大量平台集体加了 nofollow。每次提交后必须跑一段 JS 验证：</p>
+<p id="b76"><br>代码块<br>JavaScript<br>document.querySelectorAll('a[href*=&quot;你的域名&quot;]')<br>  .forEach(a =&gt; console.log(a.rel || 'EMPTY'))<br>// EMPTY = Dofollow，含 nofollow = 非 Dofollow<br></p>
+<h3 id="b77">2.3 人机协作模式</h3>
+<p id="b78">大多数操作 Claude Code 自己完成。但有些验证码必须人工：</p>
+<div class="list ordered" id="b79">1.<br>Claude Code 先填完表单的 所有 字段</div>
+<div class="list ordered" id="b80">2.<br>滚动到验证码区域使其可见</div>
+<div class="list ordered" id="b81">3.<br>告诉我&quot;所有字段填完，只剩验证码&quot;</div>
+<div class="list ordered" id="b82">4.<br>我手动过验证码</div>
+<div class="list ordered" id="b83">5.<br>Claude Code 立刻点提交</div>
+<p id="b84">血泪教训 ：之前 Claude Code 填了一半字段就让我过验证码，验证码过了但提交时发现漏了 2 个必填字段，浪费了验证码（很多验证码一次性的）。现在铁律规定： 必须先填完所有字段，只剩验证码才能叫我 。</p>
+<p id="b85"><br></p>
+<h2 id="b86">三、核心技术发现</h2>
+<h3 id="b87">3.1 六种反垃圾系统的绕过对策</h3>
+<p id="b88"><br><br><br>	<br><br><br>	<br><br><br><br><br><br><br>	<br><br><br>	<br><br><br><br><br><br><br>	<br><br><br>	<br><br><br><br><br><br><br>	<br><br><br>	<br><br><br><br><br><br>CleanTalk<br><br>	<br><br>不能<br><br>	<br><br>403 硬拦，看到直接跳过<br><br><br><br><br>hCaptcha Enterprise<br><br>	<br><br>不能<br><br>	<br><br>评论内容被服务端清洗<br><br><br><br><br>Jetpack Highlander<br><br>	<br><br>不能<br><br>	<br><br>评论在跨域 iframe 中，无法注入<br><br></p>
+<p id="b89">Akismet 的关键发现 ：Akismet 判断垃圾评论主要看 邮箱信誉 和 IP 信誉 ，而不是评论内容。用品牌域名邮箱（ team@yourdomain.com ）注册过 → 邮箱被标记 → 之后所有评论都被吞。解决方案：用一个干净的 Gmail 地址，名字用随机真实人名，链接只放在 author URL 字段（不放正文）。<a class="source-link" href="mailto:team@yourdomain.com">team@yourdomain.com</a></p>
+<p id="b90">Antispam Bee 的关键发现 ：这个德语圈流行的插件会监听 textarea 的 keydown 事件来确认&quot;真人在打字&quot;。如果用 JavaScript 直接设值（ element.value='...' ），不触发键盘事件 → 被判定为 bot → 403。解决方案：用 Playwright 的 pressSequentially 逐字符输入，触发完整的键盘事件链。</p>
+<h3 id="b91">3.2 前端不行就逆向后端 API</h3>
+<p id="b92">遇到前端操作失败（按钮点不动、表单不提交、Modal 不弹出）， 第一反应是逆向找后端 API 直接调用 。</p>
+<p id="b93">SOP：</p>
+<div class="list ordered" id="b94">1.<br>拉页面所有 inline script（ document.querySelectorAll('script') ）</div>
+<div class="list ordered" id="b95">2.<br>正则提取 axios.post / fetch 的 URL → 得到 API endpoint 清单</div>
+<div class="list ordered" id="b96">3.<br>批量试 base URL 前缀（ /api/ / /api/v1/ / /ajax/ ）</div>
+<div class="list ordered" id="b97">4.<br>带 session cookie 直接 fetch 调用</div>
+<p id="b98">真实案例 ：某 SaaS 目录站的投票按钮点击无反应（Vue mount 失败）。逆向 news.min.js 发现 POST /vote-post endpoint，直接 fetch 调用 5 次 → 15 秒完成原本需要 20 分钟的&quot;访问 5 个产品页面赚积分&quot;流程。</p>
+<p id="b99">另一个案例 ：某站注册页的 6 位 OTP 验证码输入框是 6 个独立的 Vue input，自动跳转逻辑在 jQuery onkeyup 里。Playwright 的 fill/type/pressSequentially 都无法正确触发跳转。拦截 XHR 请求发现 POST /signup API，直接带 emailCode 参数调用 → 注册成功。</p>
+<h3 id="b100">3.3 2026 年 Dofollow 存活地图</h3>
+<p id="b101">经过 100+ 个平台的实测，2026 年还能拿到 Dofollow 的有以下几类：</p>
+<p id="b102">第一类：开发者博客平台</p>
+<div class="list bullet" id="b103">•<br>velog.io（韩国最大开发者博客，GitHub/Google OAuth，Markdown 文章，即发即过）</div>
+<div class="list bullet" id="b104">•<br>dev.to（GitHub OAuth，文章内链接 Dofollow）</div>
+<div class="list bullet" id="b105">•<br>telegra.ph（API 创建，DR92，秒做）</div>
+<div class="list bullet" id="b106">•<br>rentry.co（curl API，秒做）</div>
+<p id="b107">第二类：SaaS 目录提交</p>
+<div class="list bullet" id="b108">•<br>提交产品 URL → 系统自动生成 listing 页 → &quot;Visit website&quot; 按钮默认 Dofollow</div>
+<div class="list bullet" id="b109">•<br>识别特征：有 &quot;Submit product/tool&quot; 入口，URL 是品牌短 slug</div>
+<div class="list bullet" id="b110">•<br>获取成本极低（只填 1 个 URL），Dofollow 率接近 100%</div>
+<p id="b111">第三类：论坛 Profile Website 字段</p>
+<div class="list bullet" id="b112">•<br>phpBB 论坛的 pf_phpbb_website 字段默认 Dofollow（100% 成功率）</div>
+<div class="list bullet" id="b113">•<br>Boardhost 免费论坛的 Link URL 字段（无需注册，秒发）</div>
+<div class="list bullet" id="b114">•<br>Discuz 论坛的 Site 字段（注意在 op=info 页面，不是 op=base ）</div>
+<p id="b115">已确认降级的平台 （曾经 Dofollow，2026 年加了 nofollow）：</p>
+<div class="list bullet" id="b116">•<br>paragraph.com、hackmd.io、justpaste.it、codepen.io 等 paste/note 类平台集体降级</div>
+<div class="list bullet" id="b117">•<br>规律：平台主动响应 Google 政策变化，给 UGC 内容加 rel=&quot;ugc nofollow&quot;</div>
+<h3 id="b118">3.4 竞品外链反查的正确姿势</h3>
+<p id="b119">核心发现：同一个站的不同文章，评论审核策略不同。</p>
+<p id="b120">错误做法：从 Ahrefs 拿到竞品在 example.com 有外链 → 去 example.com 随便找一篇文章发评论 → 被审核/被删。<a class="source-link" href="http://example.com/">example.com</a> <a class="source-link" href="http://example.com/">example.com</a></p>
+<p id="b121">正确做法：</p>
+<div class="list ordered" id="b122">1.<br>从 Ahrefs 拿到竞品的 精确 URL （具体到哪篇文章）</div>
+<div class="list ordered" id="b123">2.<br>去那篇文章检查竞品评论是否仍然存活</div>
+<div class="list ordered" id="b124">3.<br>存活 → 在 同一篇文章 下发评论（已证明这篇无审核）</div>
+<div class="list ordered" id="b125">4.<br>不存活 → 站长开始清理，整站跳过</div>
+<p id="b126">选文章的 heuristics ：</p>
+<div class="list bullet" id="b127">•<br>评论数 &gt; 50 且有明显 SEO 评论存活 = 站长不管这篇</div>
+<div class="list bullet" id="b128">•<br>老文章（&gt;1 年）评论区更安全 = 站长不再关注</div>
+<div class="list bullet" id="b129">•<br>最近有新评论的老文章 = 评论区仍活跃且无审核</div>
+<p id="b130"><br></p>
+<h2 id="b131">四、血泪教训（铁律）</h2>
+<p id="b132">跑了 300+ 条外链，踩了无数坑，最终沉淀出 10 条铁律：</p>
+<div class="list ordered" id="b133">1.<br>禁止设限 -- 需要写 800 字 guest post？写。需要注册 + 验证 + 填 20 字段？全填。唯一合法跳过：真付费墙 / 站已死 / CF 硬封</div>
+<div class="list ordered" id="b134">2.<br>前端不行先逆向 -- 按钮无反应、Modal 不弹 → 第一反应是找后端 API，不是标跳过</div>
+<div class="list ordered" id="b135">3.<br>候选筛选查 spam + traffic -- DR 是假指标，traffic 是真。SQL 层硬过滤</div>
+<div class="list ordered" id="b136">4.<br>去重按域名不按模板 ID -- 同一域名可能有多条模板</div>
+<div class="list ordered" id="b137">5.<br>查邮件必须开新标签页 -- 绝不 navigate 离开有表单的页面</div>
+<div class="list ordered" id="b138">6.<br>rel 属性每次实测 -- DB 标记不可信，提交后 JS 验证</div>
+<div class="list ordered" id="b139">7.<br>先读知识库再查 DB -- API snippet、隐藏字段名、rel 纠正都在知识库里</div>
+<div class="list ordered" id="b140">8.<br>切站必须确认产品 -- 曾经 18 个外链锚文本全写错（A 站的内容写成了 B 站）</div>
+<div class="list ordered" id="b141">9.<br>catch-all 邮箱失败立刻切 Gmail plus-addressing -- 很多站静默拒绝自定义域名邮箱</div>
+<div class="list ordered" id="b142">10.<br>验证码协作：必须先填完所有字段 -- 只剩验证码才叫人</div>
+<p id="b143"><br></p>
+<h2 id="b144">五、效率数据</h2>
+<p id="b145"><br><br>指标<br><br>	<br><br>数据<br><br><br><br><br>3 天总提交<br><br>	<br><br>300+ 条独立域名外链（4 站合计）<br><br><br><br><br>Dofollow 占比<br><br>	<br><br>~40%<br><br><br><br><br>phpBB Profile Dofollow 成功率<br><br>	<br><br>100%<br><br><br><br><br>反垃圾绕过率<br><br>	<br><br>Akismet 100% / Antispam Bee 90% / CleanTalk 0%<br><br><br><br><br>单条外链平均耗时<br><br>	<br><br>WP 评论 30 秒 / Profile 注册 5 分钟 / 论坛发帖 10 分钟<br><br><br><br><br>知识库规模<br><br>	<br><br>10 文件，945 行（从 3159 行重组）<br><br></p>
+<p id="b146"><br></p>
+<h2 id="b147">六、关键认知</h2>
+<h3 id="b148">6.1 外链类型价值排序</h3>
+<p id="b149"><br>代码块<br>JavaScript<br>SaaS 目录提交 &gt; 开发者博客文章 &gt; 论坛 Profile &gt; WP 评论 &gt; 短链<br></p>
+<p id="b150">SaaS 目录是获取成本最低、Dofollow 率最高、存活最持久的外链类型。但 2026 年大量目录站转付费，免费窗口正在关闭。</p>
+<h3 id="b151">6.2 关于 Nofollow</h3>
+<p id="b152">很多人觉得 Nofollow 外链没用。实际上：</p>
+<div class="list bullet" id="b153">•<br>Google 2019 年把 nofollow 从&quot;指令&quot;改为&quot;提示&quot;，现在会选择性传递权重</div>
+<div class="list bullet" id="b154">•<br>90%+ Dofollow 比例反而可能被判定为刷 DR，自然分布更安全</div>
+<div class="list bullet" id="b155">•<br>高 DR 站的 Nofollow（如 GitHub DR96、Medium DR94）品牌信号价值极高</div>
+<p id="b156"><br></p>
+<h2 id="b157">七、Skill 知识库完整文件索引</h2>
+<p id="b158"><br><br><br>	<br><br><br><br><br><br><br>	<br><br><br><br><br><br><br>	<br><br><br><br><br><br><br>	<br><br><br><br><br><br>anti-spam.md<br><br>	<br><br>6 种反垃圾系统完整对策：Akismet（100% 绕过组合）、Antispam Bee（原生键盘输入）、WPantispam Protect（两种模式）、CleanTalk / hCaptcha / Jetpack（不可绕过）+ 10 种验证码处理方案<br><br><br><br><br>dofollow-2026.md<br><br>	<br><br>2026 实测 Dofollow 权威清单：3 大存活类别（开发者博客 / SaaS 目录 / Profile 字段）、已确认降级平台清单<br><br><br><br><br>platforms.md<br><br>	<br><br>活跃平台操作速查：按类型分类（Profile / 文章 / 论坛 / 目录站 / Guest Post / WP 评论 / 短链 / 日本 CGI），每个平台的注册方式、关键表单字段、验证码类型、已知坑点<br><br><br><br><br>dead-sites.md<br><br>	<br><br>失效站归档：付费墙趋势、死站列表、CF 硬封站、无 SEO 价值站<br><br><br><br><br>reverse-eng.md<br><br>	<br><br>前端逆向 SOP（5 步）+ 4 个真实案例 + velog/mockplus 逆向注册案例 + CF Challenge 吃 FormData 问题<br><br><br><br><br>strategies.md<br><br>	<br><br>包管理器外链策略（Parasite SEO，21 个包管理器经验）、卫星站部署、Dev.to 链接枢纽模式、索引加速<br><br><br><br><br>accounts.md<br><br>	<br><br>4 站账号映射 + 邮箱策略 + Google/GitHub OAuth 管理 + 多实例 Playwright MCP 并发架构<br><br></p>
+<p id="b159"><br></p>
+<p id="b160">目前的进度：</p>
+<p id="b161"></p>
+<section class="image" id="b162"><div><br></div></section>
+<p id="b163"></p>
+<p id="b164"></p>
+<section class="image" id="b165"><div><br></div></section>
+<p id="b166"></p>
+<p id="b167"></p>
+<section class="image" id="b168"><div><br></div></section>
+<p id="b169"></p>
+<p id="b170">差不多是一到两周的效果。</p>
+<p id="b171">不过对 Claude Code 的要求很高，我是有两个 max 账号轮着来的（这两个号还都不是我付成本，开心），所以能用的这么奔放。</p>
+<p id="b172">抛砖引玉，抛砖引玉。</p>
+<p id="b173">WordPress 评论提交技巧</p>
+<p id="b174">wp-comments.md</p>
+<p id="b175">~110</p>
+<p id="b176">2026 实测 Dofollow 平台清单</p>
+<p id="b177">dofollow-2026.md</p>
+<p id="b178">~120</p>
+<p id="b179">前端逆向 SOP + 案例</p>
+<p id="b180">reverse-eng.md</p>
+<p id="b181">~100</p>
+<p id="b182">包管理器 + 卫星站策略</p>
+<p id="b183">strategies.md</p>
+<p id="b184">~90</p>
+<p id="b185">账号 + 邮箱 + 多实例架构</p>
+<p id="b186">accounts.md</p>
+<p id="b187">~70</p>
+<p id="b188">10 条铁律（违反即失败）</p>
+<p id="b189">iron-rules.md</p>
+<p id="b190">~70</p>
+<p id="b191">活跃平台操作速查</p>
+<p id="b192">platforms.md</p>
+<p id="b193">~160</p>
+<p id="b194">失效站 + 失败模式归档</p>
+<p id="b195">dead-sites.md</p>
+<p id="b196">~95</p>
+<p id="b197">职责</p>
+<p id="b198">文件</p>
+<p id="b199">行数</p>
+<p id="b200">6 种反垃圾系统绕过对策</p>
+<p id="b201">anti-spam.md</p>
+<p id="b202">~90</p>
+<p id="b203">入口：流程 + SQL + 索引</p>
+<p id="b204">SKILL.md</p>
+<p id="b205">~100</p>
+<p id="b207">系统</p>
+<p id="b209">能否绕过</p>
+<p id="b211">方法</p>
+<p id="b213">Akismet</p>
+<p id="b215">能</p>
+<p id="b217">干净 Gmail + ISP 代理 + 正文不放 URL + 链接放 author URL 字段</p>
+<p id="b219">Antispam Bee</p>
+<p id="b221">能</p>
+<p id="b223">Playwright 原生键盘输入（pressSequentially），不用 JS 设值</p>
+<p id="b225">WPantispam Protect</p>
+<p id="b227">看配置</p>
+<p id="b229">严格模式：纯文本评论 + 链接放 URL 字段；宽松模式：直接过</p>
+<p id="b231">CleanTalk</p>
+<p id="b233">不能</p>
+<p id="b235">403 硬拦，看到直接跳过</p>
+<p id="b237">hCaptcha Enterprise</p>
+<p id="b239">不能</p>
+<p id="b241">评论内容被服务端清洗</p>
+<p id="b243">Jetpack Highlander</p>
+<p id="b245">不能</p>
+<p id="b247">评论在跨域 iframe 中，无法注入</p>
+<p id="b249">指标</p>
+<p id="b251">数据</p>
+<p id="b253">3 天总提交</p>
+<p id="b255">300+ 条独立域名外链（4 站合计）</p>
+<p id="b257">Dofollow 占比</p>
+<p id="b259">~40%</p>
+<p id="b261">phpBB Profile Dofollow 成功率</p>
+<p id="b263">100%</p>
+<p id="b265">反垃圾绕过率</p>
+<p id="b267">Akismet 100% / Antispam Bee 90% / CleanTalk 0%</p>
+<p id="b272">知识库规模</p>
+<p id="b273">10 文件，945 行（从 3159 行重组）</p>
+<p id="b274">单条外链平均耗时</p>
+<p id="b275">WP 评论 30 秒 / Profile 注册 5 分钟 / 论坛发帖 10 分钟</p>
+<p id="b277">文件</p>
+<p id="b279">内容概要</p>
+<p id="b281">SKILL.md</p>
+<p id="b283">入口文件：10 步核心流程、候选筛选 SQL、写回 DB 的 SQL、策略优先级、成功判定标准</p>
+<p id="b285">iron-rules.md</p>
+<p id="b287">10 条铁律 + 4 站锚文本白名单/黑名单。违反任何一条即失败</p>
+<p id="b289">wp-comments.md</p>
+<p id="b291">WordPress 评论提交手册：WP 评论表单结构、提交 SOP、反垃圾系统识别、各类表单冲突处理</p>
+<p id="b293">anti-spam.md</p>
+<p id="b295">6 种反垃圾系统完整对策：Akismet（100% 绕过组合）、Antispam Bee（原生键盘输入）、WPantispam Protect（两种模式）、CleanTalk / hCaptcha / Jetpack（不可绕过）+ 10 种验证码处理方案</p>
+<p id="b297">dofollow-2026.md</p>
+<p id="b299">2026 实测 Dofollow 权威清单：3 大存活类别（开发者博客 / SaaS 目录 / Profile 字段）、已确认降级平台清单</p>
+<p id="b301">platforms.md</p>
+<p id="b303">活跃平台操作速查：按类型分类（Profile / 文章 / 论坛 / 目录站 / Guest Post / WP 评论 / 短链 / 日本 CGI），每个平台的注册方式、关键表单字段、验证码类型、已知坑点</p>
+<p id="b305">dead-sites.md</p>
+<p id="b307">失效站归档：付费墙趋势、死站列表、CF 硬封站、无 SEO 价值站</p>
+<p id="b309">reverse-eng.md</p>
+<p id="b311">前端逆向 SOP（5 步）+ 4 个真实案例 + velog/mockplus 逆向注册案例 + CF Challenge 吃 FormData 问题</p>
+<p id="b313">strategies.md</p>
+<p id="b315">包管理器外链策略（Parasite SEO，21 个包管理器经验）、卫星站部署、Dev.to 链接枢纽模式、索引加速</p>
+<p id="b317">accounts.md</p>
+<p id="b319">4 站账号映射 + 邮箱策略 + Google/GitHub OAuth 管理 + 多实例 Playwright MCP 并发架构</p></main></div></body></html>

@@ -1,0 +1,1258 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2070046163127214080"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2070046629282173413",
+      "created_at": "2026-06-25T07:29:10.000Z",
+      "edit_history_tweet_ids": [
+        "2070046165543108857",
+        "2070046629282173413"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Bl1qeI0fW4",
+            "end": 117,
+            "expanded_url": "https://x.com/bourneliu66/status/2070046629282173413/photo/1",
+            "media_key": "3_2070046163127214080",
+            "start": 94,
+            "url": "https://t.co/Bl1qeI0fW4"
+          }
+        ]
+      },
+      "id": "2070046629282173413",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 19,
+        "impression_count": 23500,
+        "like_count": 44,
+        "quote_count": 1,
+        "reply_count": 46,
+        "retweet_count": 1
+      },
+      "text": "主力电脑上对 agent 开最大权限，虽然方便，但我们还是得谨慎，折中的方案是沙箱开最大权限。\n刚才我看到群里有人用 zcode + Minimax M3，AI 直接把 D 盘全部删除了 https://t.co/Bl1qeI0fW4",
+      "url": "https://x.com/bourneliu66/status/2070046629282173413"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2069508823078097103",
+      "created_at": "2026-06-23T19:52:07.000Z",
+      "edit_history_tweet_ids": [
+        "2069508823078097103"
+      ],
+      "id": "2069508823078097103",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 34950,
+        "like_count": 86,
+        "quote_count": 0,
+        "reply_count": 68,
+        "retweet_count": 1
+      },
+      "text": "以我对 OpenAI 的了解，他们绝对不会在 Fable 5 回归之前发布 GPT-5.6。\nOpenAI 习惯于后发制人，当对手出绝招（为就是 Fable 5 回归） 后的一小会儿，立即掏出一个更好的模型，打击对手士气。\n\n你们觉得有道理吗？",
+      "url": "https://x.com/bourneliu66/status/2069508823078097103"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2068578092155912538",
+      "created_at": "2026-06-21T06:13:44.000Z",
+      "edit_history_tweet_ids": [
+        "2068578092155912538"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/MengkePM/statu…",
+            "end": 33,
+            "expanded_url": "https://twitter.com/MengkePM/status/2067507383824253019",
+            "start": 10,
+            "url": "https://t.co/jYiX8bH8T0"
+          }
+        ]
+      },
+      "id": "2068578092155912538",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 44,
+        "impression_count": 19755,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 43,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2067507383824253019",
+          "type": "quoted"
+        }
+      ],
+      "text": "欢迎小红书运营女神 https://t.co/jYiX8bH8T0",
+      "url": "https://x.com/bourneliu66/status/2068578092155912538"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2068281810833100801"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2068281908782563747",
+      "created_at": "2026-06-20T10:36:48.000Z",
+      "edit_history_tweet_ids": [
+        "2068281908782563747"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/xU7a32thjd",
+            "end": 84,
+            "expanded_url": "https://x.com/bourneliu66/status/2068281908782563747/photo/1",
+            "media_key": "3_2068281810833100801",
+            "start": 61,
+            "url": "https://t.co/xU7a32thjd"
+          }
+        ]
+      },
+      "id": "2068281908782563747",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 24048,
+        "like_count": 37,
+        "quote_count": 5,
+        "reply_count": 62,
+        "retweet_count": 1
+      },
+      "text": "微信AI “小微” 开始灰度内测！！！ 打通了微信的全部生态全部功能，包括发消息、打电话、朋友圈、视频号、小程序等等…… https://t.co/xU7a32thjd",
+      "url": "https://x.com/bourneliu66/status/2068281908782563747"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2066791927295664128"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2066791989878956289",
+      "created_at": "2026-06-16T07:56:24.000Z",
+      "edit_history_tweet_ids": [
+        "2066791989878956289"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Cvf5zkEVmT",
+            "end": 49,
+            "expanded_url": "https://x.com/bourneliu66/status/2066791989878956289/photo/1",
+            "media_key": "3_2066791927295664128",
+            "start": 26,
+            "url": "https://t.co/Cvf5zkEVmT"
+          }
+        ]
+      },
+      "id": "2066791989878956289",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 5830,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "text": "现在不再是“砍一刀”，是“点火”了？\n你是要上天啊 https://t.co/Cvf5zkEVmT",
+      "url": "https://x.com/bourneliu66/status/2066791989878956289"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2066436537085276284",
+      "created_at": "2026-06-15T08:28:59.000Z",
+      "edit_history_tweet_ids": [
+        "2066437801990926651"
+      ],
+      "id": "2066437801990926651",
+      "in_reply_to_user_id": "2815325906",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 10112,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2066436537085276284",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Kimi K2.7 的高速版本需要去官网申请内测，我周五申请的，周日开通，3 天左右",
+      "url": "https://x.com/bourneliu66/status/2066437801990926651"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2066435016046080000"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2066436537085276284",
+      "created_at": "2026-06-15T08:23:57.000Z",
+      "edit_history_tweet_ids": [
+        "2066436537085276284"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ZrjT00TYmd",
+            "end": 215,
+            "expanded_url": "https://x.com/bourneliu66/status/2066436537085276284/video/1",
+            "media_key": "13_2066435016046080000",
+            "start": 192,
+            "url": "https://t.co/ZrjT00TYmd"
+          }
+        ]
+      },
+      "id": "2066436537085276284",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我要强烈推荐 Kimi K2.7 High Speed (高速版）！太神奇了！\n\nFable 5只活了3天就下架了，那个「墨流」Demo我见一次就再也忘不了。\n\n我让Opus 4.8(左)和 Kimi K2.7 High Speed(右)同时复刻它： \n\n两边都成功，质量上K2.7只略逊于Opus 4.8，可这个速度！ Opus花了32分钟，K2.7 只用了11分钟！\n\n看视频！"
+      },
+      "public_metrics": {
+        "bookmark_count": 641,
+        "impression_count": 167620,
+        "like_count": 822,
+        "quote_count": 4,
+        "reply_count": 114,
+        "retweet_count": 64
+      },
+      "text": "我要强烈推荐 Kimi K2.7 High Speed (高速版）！太神奇了！\n\nFable 5只活了3天就下架了，那个「墨流」Demo我见一次就再也忘不了。\n\n我让Opus 4.8(左)和 Kimi K2.7 High Speed(右)同时复刻它： \n\n两边都成功，质量上K2.7只略逊于Opus 4.8，可这个速度！ Opus花了32分钟，K2.7 只用了11分钟！\n\n看视频！ https://t.co/ZrjT00TYmd",
+      "url": "https://x.com/bourneliu66/status/2066436537085276284"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2066366616502407168"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2066366629362180283",
+      "created_at": "2026-06-15T03:46:10.000Z",
+      "edit_history_tweet_ids": [
+        "2066366629362180283"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/0ktjJxvBuv",
+            "end": 48,
+            "expanded_url": "https://x.com/bourneliu66/status/2066366629362180283/photo/1",
+            "media_key": "3_2066366616502407168",
+            "start": 25,
+            "url": "https://t.co/0ktjJxvBuv"
+          }
+        ]
+      },
+      "id": "2066366629362180283",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 82,
+        "impression_count": 9362,
+        "like_count": 109,
+        "quote_count": 2,
+        "reply_count": 20,
+        "retweet_count": 22
+      },
+      "text": "一图搞懂 Harness Engineering https://t.co/0ktjJxvBuv",
+      "url": "https://x.com/bourneliu66/status/2066366629362180283"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2066197517617025024",
+          "3_2066197529675612160"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2066197628862566511",
+      "created_at": "2026-06-14T16:34:37.000Z",
+      "edit_history_tweet_ids": [
+        "2066197628862566511"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ax2aDvyIEs",
+            "end": 67,
+            "expanded_url": "https://x.com/bourneliu66/status/2066197628862566511/photo/1",
+            "media_key": "3_2066197517617025024",
+            "start": 44,
+            "url": "https://t.co/ax2aDvyIEs"
+          },
+          {
+            "display_url": "pic.x.com/ax2aDvyIEs",
+            "end": 67,
+            "expanded_url": "https://x.com/bourneliu66/status/2066197628862566511/photo/2",
+            "media_key": "3_2066197529675612160",
+            "start": 44,
+            "url": "https://t.co/ax2aDvyIEs"
+          }
+        ]
+      },
+      "id": "2066197628862566511",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 54572,
+        "like_count": 43,
+        "quote_count": 1,
+        "reply_count": 51,
+        "retweet_count": 0
+      },
+      "text": "有人说自己的Fable 5回来了，就在刚才，是用iOS美区订阅的。你们说，是真的吗？？ https://t.co/ax2aDvyIEs",
+      "url": "https://x.com/bourneliu66/status/2066197628862566511"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2066078545315852289"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2066078579390345304",
+      "created_at": "2026-06-14T08:41:33.000Z",
+      "edit_history_tweet_ids": [
+        "2066078579390345304"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ufarqFzDiu",
+            "end": 37,
+            "expanded_url": "https://x.com/bourneliu66/status/2066078579390345304/photo/1",
+            "media_key": "3_2066078545315852289",
+            "start": 14,
+            "url": "https://t.co/ufarqFzDiu"
+          },
+          {
+            "display_url": "x.com/bourneliu66/st…",
+            "end": 61,
+            "expanded_url": "https://twitter.com/bourneliu66/status/2066022130572312861",
+            "start": 38,
+            "url": "https://t.co/vFuIvZyaRU"
+          }
+        ]
+      },
+      "id": "2066078579390345304",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 6018,
+        "like_count": 10,
+        "quote_count": 1,
+        "reply_count": 21,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2066022130572312861",
+          "type": "quoted"
+        }
+      ],
+      "text": "朋友用AI帮我P了个图 😂 https://t.co/ufarqFzDiu https://t.co/vFuIvZyaRU",
+      "url": "https://x.com/bourneliu66/status/2066078579390345304"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2066022128223428608"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2066022130572312861",
+      "created_at": "2026-06-14T04:57:15.000Z",
+      "edit_history_tweet_ids": [
+        "2066022130572312861"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/RslUtAygj8",
+            "end": 68,
+            "expanded_url": "https://x.com/bourneliu66/status/2066022130572312861/photo/1",
+            "media_key": "3_2066022128223428608",
+            "start": 45,
+            "url": "https://t.co/RslUtAygj8"
+          }
+        ]
+      },
+      "id": "2066022130572312861",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 33,
+        "impression_count": 44696,
+        "like_count": 136,
+        "quote_count": 6,
+        "reply_count": 105,
+        "retweet_count": 2
+      },
+      "text": "新的办公装备！Vibe Coding 绝配！！\n一边写代码一边骑自行车，日行 100KM https://t.co/RslUtAygj8",
+      "url": "https://x.com/bourneliu66/status/2066022130572312861"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2065394743291555840"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2065394756314857922",
+      "created_at": "2026-06-12T11:24:17.000Z",
+      "edit_history_tweet_ids": [
+        "2065394756314857922"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/rGm26GsLC9",
+            "end": 48,
+            "expanded_url": "https://x.com/bourneliu66/status/2065394756314857922/photo/1",
+            "media_key": "3_2065394743291555840",
+            "start": 25,
+            "url": "https://t.co/rGm26GsLC9"
+          }
+        ]
+      },
+      "id": "2065394756314857922",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4394,
+        "like_count": 18,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "猫咪 + Fable 5 = 无法自拔的幸福生活 https://t.co/rGm26GsLC9",
+      "url": "https://x.com/bourneliu66/status/2065394756314857922"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2065352862755078389",
+      "created_at": "2026-06-12T08:37:49.000Z",
+      "edit_history_tweet_ids": [
+        "2065352862755078389"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/bourneliu66/st…",
+            "end": 156,
+            "expanded_url": "https://twitter.com/bourneliu66/status/2065329731801927844",
+            "start": 133,
+            "url": "https://t.co/kPz4FECiYN"
+          }
+        ]
+      },
+      "id": "2065352862755078389",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 9371,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2065329731801927844",
+          "type": "quoted"
+        }
+      ],
+      "text": "对了，这里还有一个稍微有点恶心的经历。\n\nFable 5在调试Better Auth(Auth相关的内容很容易涉及网络安全）、的源代码时、以及调试Docker Swarm、traefik配置的时候，总是会切换到Opus 4.8，挺麻烦。\n\n这个分类器做得也太糟糕了 https://t.co/kPz4FECiYN",
+      "url": "https://x.com/bourneliu66/status/2065352862755078389"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2065329602063716352"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2065329731801927844",
+      "created_at": "2026-06-12T07:05:54.000Z",
+      "edit_history_tweet_ids": [
+        "2065329731801927844"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/co5li1hGKaZw…",
+            "end": 157,
+            "expanded_url": "https://mp.weixin.qq.com/s/co5li1hGKaZwCJtQP1_Guw",
+            "start": 134,
+            "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HNOvK2qjE5G1J_YWoV8WqJCTm2lyzd0e8s7w5nzl&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fco5li1hGKaZwCJtQP1_Guw",
+            "url": "https://t.co/jCmHmue0za"
+          },
+          {
+            "display_url": "pic.x.com/tite36WbYG",
+            "end": 181,
+            "expanded_url": "https://x.com/bourneliu66/status/2065329731801927844/photo/1",
+            "media_key": "3_2065329602063716352",
+            "start": 158,
+            "url": "https://t.co/tite36WbYG"
+          }
+        ]
+      },
+      "id": "2065329731801927844",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 79,
+        "impression_count": 50534,
+        "like_count": 120,
+        "quote_count": 1,
+        "reply_count": 20,
+        "retweet_count": 9
+      },
+      "text": "GPT-5.5和Opus 4.8都搞不定的Bug，被Fable 5一晚上解决。\n\n打死GPT-5.5也想不到，竟然流行的开源库BetterAuth，还会有并发的Bug。\n\nFable 5 给它的定性是：教科书级的并发事故，只有高并发的生产环境才会现形。\n\n详情见这里 https://t.co/jCmHmue0za https://t.co/tite36WbYG",
+      "url": "https://x.com/bourneliu66/status/2065329731801927844"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2065279487219310981",
+      "created_at": "2026-06-12T03:46:15.000Z",
+      "edit_history_tweet_ids": [
+        "2065279487219310981"
+      ],
+      "id": "2065279487219310981",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 57,
+        "impression_count": 89257,
+        "like_count": 205,
+        "quote_count": 7,
+        "reply_count": 57,
+        "retweet_count": 9
+      },
+      "text": "Fable 5强得有点过分，大量GPT-5.5做不到的事情，它都能瞬间完成。   \n\n唯一遗憾的是两点：\n1. Fable还挺贵的，两个 20x Max账号，都在2天内打到周限额。\n2.又无法早睡了，因为用Fable5实在是让我太上瘾了",
+      "url": "https://x.com/bourneliu66/status/2065279487219310981"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2064227063582842880"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2064228432930894287",
+      "created_at": "2026-06-09T06:09:44.000Z",
+      "edit_history_tweet_ids": [
+        "2064228432930894287"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "One-time purchase unlocks both MiMo-V2.5 flagship models, plus TTS model free across all tiers for a limited time. Unleash powerful productivity with Xiaomi MiMo",
+            "display_url": "platform.xiaomimimo.com/ultraspeed",
+            "end": 154,
+            "expanded_url": "https://platform.xiaomimimo.com/ultraspeed",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2069578096588816384/XjUq7GrM?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2069578096588816384/XjUq7GrM?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 131,
+            "status": 200,
+            "title": "Xiaomi MiMo Api Open Platform - Token Plan Global Launch",
+            "unwound_url": "https://platform.xiaomimimo.com/ultraspeed",
+            "url": "https://t.co/w1DBn0ZYZv"
+          },
+          {
+            "display_url": "pic.x.com/ZlXbncQKEj",
+            "end": 184,
+            "expanded_url": "https://x.com/bourneliu66/status/2064228432930894287/video/1",
+            "media_key": "13_2064227063582842880",
+            "start": 161,
+            "url": "https://t.co/ZlXbncQKEj"
+          }
+        ]
+      },
+      "id": "2064228432930894287",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 258,
+        "impression_count": 89410,
+        "like_count": 403,
+        "quote_count": 8,
+        "reply_count": 167,
+        "retweet_count": 25
+      },
+      "text": "MiMo-V2.5-Pro UltraSpeed的速度快得有点太过分了，代码写的太快就像龙卷风……\n\n和其他厂商不一样，小米这是Pro模型直接出来1000token/s，不是flash模型。 恐怕在世界范围内也是第一次吧。从来没见过这么快的速度。\n\n网页版在这里https://t.co/w1DBn0ZYZv\n\n有API https://t.co/ZlXbncQKEj",
+      "url": "https://x.com/bourneliu66/status/2064228432930894287"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2062433285486366720"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2062433480404042119",
+      "created_at": "2026-06-04T07:17:14.000Z",
+      "edit_history_tweet_ids": [
+        "2062433480404042119"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/x2N7hbkFEb",
+            "end": 141,
+            "expanded_url": "https://x.com/bourneliu66/status/2062433480404042119/photo/1",
+            "media_key": "3_2062433285486366720",
+            "start": 118,
+            "url": "https://t.co/x2N7hbkFEb"
+          }
+        ]
+      },
+      "id": "2062433480404042119",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 79,
+        "impression_count": 23505,
+        "like_count": 57,
+        "quote_count": 3,
+        "reply_count": 53,
+        "retweet_count": 4
+      },
+      "text": "扣子(coze)的新功能：可以用手机控制电脑上的Claude Code和Codex。  \n\n不得不说，这个功能挺实用，而且是免费的。\n\n好像字节也是第一个头部大厂做这个功能的吧？\n\nhttps://coze.zn  强烈推荐大家试试。 https://t.co/x2N7hbkFEb",
+      "url": "https://x.com/bourneliu66/status/2062433480404042119"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2062383456051683344",
+      "created_at": "2026-06-04T03:58:27.000Z",
+      "edit_history_tweet_ids": [
+        "2062383456051683344"
+      ],
+      "id": "2062383456051683344",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 12875,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 38,
+        "retweet_count": 0
+      },
+      "text": "账号被盗了，还好发现得及时，花了3天，刚申诉回来。。",
+      "url": "https://x.com/bourneliu66/status/2062383456051683344"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2059214576106004480"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2059214609224229215",
+      "created_at": "2026-05-26T10:06:35.000Z",
+      "edit_history_tweet_ids": [
+        "2059214609224229215"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/wQeYy76HB9",
+            "end": 41,
+            "expanded_url": "https://x.com/bourneliu66/status/2059214609224229215/photo/1",
+            "media_key": "3_2059214576106004480",
+            "start": 18,
+            "url": "https://t.co/wQeYy76HB9"
+          }
+        ]
+      },
+      "id": "2059214609224229215",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4730,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 1
+      },
+      "text": "都说用了AI会变成超人。诚不我欺也 https://t.co/wQeYy76HB9",
+      "url": "https://x.com/bourneliu66/status/2059214609224229215"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2054191141336347088",
+      "created_at": "2026-05-12T13:28:35.000Z",
+      "edit_history_tweet_ids": [
+        "2054192010719006824"
+      ],
+      "id": "2054192010719006824",
+      "in_reply_to_user_id": "2815325906",
+      "lang": "qam",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5739,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2054191141336347088",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AYiAInotes",
+      "url": "https://x.com/bourneliu66/status/2054192010719006824"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2054190923089944576"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2054191141336347088",
+      "created_at": "2026-05-12T13:25:07.000Z",
+      "edit_history_tweet_ids": [
+        "2054191141336347088"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 43,
+            "id": "1896466957114781696",
+            "start": 34,
+            "username": "dashu5ai"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/Pz6vryRZaD",
+            "end": 91,
+            "expanded_url": "https://x.com/bourneliu66/status/2054191141336347088/photo/1",
+            "media_key": "3_2054190923089944576",
+            "start": 68,
+            "url": "https://t.co/Pz6vryRZaD"
+          }
+        ]
+      },
+      "id": "2054191141336347088",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 24745,
+        "like_count": 32,
+        "quote_count": 2,
+        "reply_count": 41,
+        "retweet_count": 4
+      },
+      "text": "@AYiAInotes 有人认识这哥们吗？？？\n真不要脸，直接搬运 @dashu5ai  在视频号上的视频，除了换封面啥都没换，我呸！ https://t.co/Pz6vryRZaD",
+      "url": "https://x.com/bourneliu66/status/2054191141336347088"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2053159353335816192",
+          "3_2053160200836960256"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2053160329107116425",
+      "created_at": "2026-05-09T17:09:02.000Z",
+      "edit_history_tweet_ids": [
+        "2053160329107116425"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/rg53eyybZ6",
+            "end": 117,
+            "expanded_url": "https://x.com/bourneliu66/status/2053160329107116425/photo/1",
+            "media_key": "3_2053159353335816192",
+            "start": 94,
+            "url": "https://t.co/rg53eyybZ6"
+          },
+          {
+            "display_url": "pic.x.com/rg53eyybZ6",
+            "end": 117,
+            "expanded_url": "https://x.com/bourneliu66/status/2053160329107116425/photo/2",
+            "media_key": "3_2053160200836960256",
+            "start": 94,
+            "url": "https://t.co/rg53eyybZ6"
+          }
+        ]
+      },
+      "id": "2053160329107116425",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 426,
+        "impression_count": 96086,
+        "like_count": 294,
+        "quote_count": 2,
+        "reply_count": 44,
+        "retweet_count": 26
+      },
+      "text": "用Hermes来帮我们读微信，非常好玩！\n有很多以前不敢想的事情，现在变得方便。\n比如：\n1. 特别关注某个人，总结他在所有共同群里的动向（图1）\n2. 从微信聊天记录里挖掘需求（图2） https://t.co/rg53eyybZ6",
+      "url": "https://x.com/bourneliu66/status/2053160329107116425"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2053158891136163840"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2053159212675629512",
+      "created_at": "2026-05-09T17:04:36.000Z",
+      "edit_history_tweet_ids": [
+        "2053159212675629512"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/u5LyE5d4e2",
+            "end": 167,
+            "expanded_url": "https://x.com/bourneliu66/status/2053159212675629512/photo/1",
+            "media_key": "3_2053158891136163840",
+            "start": 144,
+            "url": "https://t.co/u5LyE5d4e2"
+          }
+        ]
+      },
+      "id": "2053159212675629512",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 156,
+        "impression_count": 23544,
+        "like_count": 120,
+        "quote_count": 2,
+        "reply_count": 13,
+        "retweet_count": 10
+      },
+      "text": "安装Hermes Agent，只需要一句话。\n\n在电脑上新建一个文件夹，然后在Codex里说这句，就行了\n\n“在当前文件夹安装Hermes Agent， 让它使用我系统中的codex的GPT-5.5 xhigh模型\n然后配置好，测试通过，并且让我扫码就可以直接绑定微信Clawdbot” https://t.co/u5LyE5d4e2",
+      "url": "https://x.com/bourneliu66/status/2053159212675629512"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2052530340162666499",
+      "created_at": "2026-05-08T07:53:25.000Z",
+      "edit_history_tweet_ids": [
+        "2052658114592473094"
+      ],
+      "id": "2052658114592473094",
+      "in_reply_to_user_id": "1560177521949171712",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 503,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052530340162666499",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aulaylab 你要脸吗？",
+      "url": "https://x.com/bourneliu66/status/2052658114592473094"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2052530340162666499].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052530340162666499",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2052530340162666499"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2070046163127214080",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpIBI3boAA5VSE.png",
+        "width": 1053
+      },
+      {
+        "height": 2774,
+        "media_key": "3_2068281810833100801",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQDWUYb0AESLQ8.jpg",
+        "width": 1280
+      },
+      {
+        "height": 958,
+        "media_key": "3_2066791927295664128",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK64TrsaYAAqgTQ.jpg",
+        "width": 1582
+      },
+      {
+        "height": 1080,
+        "media_key": "13_2066435016046080000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066435016046080000/img/jehPBGIGMWFEUYAl.jpg",
+        "type": "video",
+        "width": 1920
+      },
+      {
+        "height": 1942,
+        "media_key": "3_2066366616502407168",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK01fVhaEAA_uZC.jpg",
+        "width": 809
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2066197517617025024",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKybsfFbUAAhKDf.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2066197529675612160",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKybtMAawAAqeUl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1402,
+        "media_key": "3_2066078545315852289",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwvfYubcAEFAJW.jpg",
+        "width": 1122
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2066022128223428608",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKv8LeraoAAbwFD.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2065394743291555840",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnBk3raMAAWE_X.jpg",
+        "width": 1280
+      },
+      {
+        "height": 380,
+        "media_key": "3_2065329602063716352",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmGVJsbUAAFY-l.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "13_2064227063582842880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064227063582842880/img/8PonvrUV7QQ-H2Gw.jpg",
+        "type": "video",
+        "width": 1816
+      },
+      {
+        "height": 1738,
+        "media_key": "3_2062433285486366720",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ88JVpbUAAQJmW.jpg",
+        "width": 2866
+      },
+      {
+        "height": 1013,
+        "media_key": "3_2059214576106004480",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPMvy0a4AAWPKI.jpg",
+        "width": 690
+      },
+      {
+        "height": 2769,
+        "media_key": "3_2054190923089944576",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHzws-boAA5iWV.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1128,
+        "media_key": "3_2053159353335816192",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5JjcLaIAAXZfR.jpg",
+        "width": 1142
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2053160200836960256",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5KUxXbUAAmwP_.jpg",
+        "width": 2186
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2053158891136163840",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5JIiWbIAAzArx.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "cover_media": "3_2067506757975617536",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f34e.svg"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2067506835670843392"
+          ],
+          "plain_text": "上个月，我在 Apple × 浙江大学的移动应用孵化营担任营销篇导师，给 20 多个创业团队讲了一天半的课。\n \n学员都是有产品的人。有人的 APP 已经上线，有人还在打磨 MVP。几乎所有人都带着同一个问题来的：产品做好了，怎么让人知道？\n课上讲了很多，有几个我觉得最容易被忽略的点，和大家分享。\n一、应用商店不是商场。\n用户打开淘宝，是因为想买东西。用户打开 App Store，已经不是了。\n现在的路径是这样的：用户在小红书、抖音、B 站刷到一条内容，被打动，记住了 APP 的名字，再去 App Store 搜索下载。\n应用商店是仓库，内容平台才是货架。你要先在货架上出现，用户才会去仓库取货。\n这不是危言耸听。2026 年，国内市场的增长路径几乎只剩两条：App Store 编辑推荐，以及内容平台种草。前者不可控，而后者是我们可以自己做的事。\n二、营销的本质是翻译。\n技术团队有自己的语言：我实现了四象限任务管理，支持 iCloud 同步，基于艾森豪威尔矩阵。\n没有一句是错的，但用户get不到。\n用户只关心自己。他不在乎你的功能有多完整，他只在乎「这跟我有什么关系」。\n内容翻译是这样做的：\n功能层：支持 iCloud 同步。\n价值层：你的记录不会丢，手机、iPad 随时都在。\n功能层：基于艾森豪威尔矩阵。\n价值层：总被紧急的事推着走？这个工具帮你看清楚什么才是真正重要的。\n翻译是让一切可感。每一句话都要能让用户感受到「这说的是我」。\n有一个最基础的定位公式：我们帮助___（谁），在___（什么时候），解决___（什么问题）。\n比如：好事发生App不是一款笔记软件，而是「帮助容易 emo 的人，通过记录好事儿，用科学的方法让自己变快乐」。\n三、找到具体的人，不是想象一个人群。\n不是「效率工具用户」，而是：学校里的行政老师，要写论文、上课、还要处理各种杂事，需要把工作分成四象限来看清楚优先级。\n这个人是真实的，可以找到的，他甚至就在你的身边。\n理解用户有三个维度：\n场景化：他什么时候会用？把功能放进用户的一天里，你需要能具体描述他使用产品的那个时刻。\n情绪化：他想解决什么感受？用户花钱买的，说到底是买个痛快。\n身份化：用了它，他成为谁？使用好事发生的用户，是一个「热爱生活的人」；使用 Flomo 的用户，是一个「爱学习爱思考的人」。如果你的产品能强化用户的自我认知，让他愿意分享这个身份，你就有了自来水传播的基础。\n四、封面是生死线。\n笔记的曝光量低，几乎 100% 是内容本身的问题，内容问题的 90% 集中在封面。\n封面没有让用户想点进来，一切都白搭。\n用户在双列流里扫视的速度极快。封面的任务是：在不到一秒钟里，让用户产生「这跟我有关，我要点进去」的冲动。\n有一个练习：带着「货架思维」刷小红书。你点开了哪篇，为什么点开？返回之后再看一眼那个封面，拆解它对你做了什么。这个动作做多了，你会开始对封面有直觉。\n五、内容类型不重要，和产品调性匹配才重要。\n火爆的笔记大致分几类：高度结构化的信息整合（密密麻麻的干货型封面）、人格化的问题直击型（口播，字幕直接打出痛点）、有审美的美学型（视觉本身就是卖点）、留悬念等点击的钩子型。\n没有哪种天然更好。关键是和你的产品调性匹配，然后持续做，通过数据验证。\n爆款是概率，但内容是科学。你要做的不是押注一次，而是建立可以持续产出爆款要素的机制。一旦找到有效的要素，不要只用一次。把它们拆开重组，同一个场景 × 不同情绪切入，同一个痛点 × 不同人群描述，用乘法生产。\n六、搜索词不是标签，是埋在内容里的线索。\n据官方公开数据，小红书 70% 的月活用户有搜索行为，用户往往先搜需求词，再搜品牌词。如果你能在用户搜索的那一刻出现在结果页，获客成本极低。\n搜索词植入不是在笔记末尾堆井号，而是在封面、标题、正文里自然地反复提及用户会搜索的词。\n需要覆盖的词大概分几类：\n人群词：上班族、学生党、30岁打工人。\n场景词：加班、旅行、睡前、早起。\n产品词：你的 APP 名称及其别称。\n竞品词：用户搜竞品时也能找到你（前提是你的产品值得被推荐，否则是在给竞品导客）。\n类目词：效率工具、心理疗愈、任务管理。\n……\n不需要每篇都带全，但至少带上一部分。笔记越多，词覆盖越广，被搜到的概率就越高。\n七、投放是放大器，不是救命稻草。\n99% 的投放不行，都是内容不行。\n很多开发者遇到数据差，第一反应是调整投放策略。这个顺序是错的。投放只是放大器，好内容放大得更好，烂内容放大了更烂。\n小红书投 75 元，抖音投 50 元。用这点钱买的不是流量，是一个结论：这条素材值不值得继续投？\n如果 ROI 为正，继续给这条花钱，同时开始生产类似这条的素材，因为它里面有爆款要素。投放不行时，先改内容，再想投放。\n八、水上水下，要想清楚。\n水上笔记是通过蒲公英等官方平台与达人成交，平台抽佣约 10%，内容会被标注为广告。水下合作是直接私下成交，达人报价更低，内容展现形式更像真实分享。\n对 APP 推广来说，硬广效果往往不如软性真实分享。在小红书这样的真实分享社区里，越像广告的内容越不容易被信任。能水下就水下，但要做好内容本身。\n关于蓝 V 认证：对于 APP 业务，不建议主动认证。认证后发的内容会被识别为企业广告流，自然流受限，而 APP 的成交路径也不需要走私信引流这一套。除非平台销售主动找上门，否则认证得不偿失。\n九、找达人之前，先写 brief。\n达人不只是放大器，也是产品亮点的发现者。有些最好的产品卖点，不是你自己总结出来的，而是达人替你翻译出来的。\n找达人之前必须先写 brief：你的产品理念关键词、设计初衷、核心亮点，以及你希望他不要讲什么。brief 不是让达人照抄，是给他发挥的框架。\n不同阶段找不同量级的达人。早期优先找千粉以下的素人和 KOC，成本低，内容更真实。有了跑量的素材之后，再考虑中腰部达人放大。\n十、素人种草的逻辑。\n单靠创始人号和官号，管道太少。更高的杠杆来自：让更多的人，从各个身份出发，为你的产品发声。\n素人账号的逻辑简单直接：单个账号的权重不重要，数量足够多，平均健康度就出来了。\n找素人可以发「招募令」，吸引愿意置换合作的博主。置换合作是性价比最高的起量方式：送年费会员换一篇笔记，找真实用户发真实体验。第一批 UGC 就是从这里来的。利用这个方法，我们做出过数个成功案例。\n十一、定价要有逻辑，不是跟着感觉走。\n很多开发者定价的方式是：看看竞品，然后稍微低一点。\n这个逻辑有问题。定价是产品定位的一部分，它决定了你在用户心里是什么东西。\n卖给国内用户和卖给美国用户，可以不是一个价。同一个功能，面向不同市场、不同用户群体，定价策略完全可以不同。\n想清楚你在服务谁，再决定收多少钱，而不是先定价再找用户。\n十二、私域不是微信群，是真正属于你的用户资产。\n平台流量是借来的。今天是小红书，明天不知道是什么。真正属于你的，是能持续经营的用户资产。\n对 APP 来说，私域不一定是微信群，可以是：App Store 订阅用户的使用数据、愿意参与测试的核心用户群、愿意为你写真实评论的早期用户。\n售后也是这个问题的一部分。设计好了，退款率可以降很低；没设计，用户一不满意直接去 Apple 申请退款，你什么机会都没有。售后不是末端，是承接用户的最后一道口。\n十三、把账算清楚。\n内容好不好，投放值不值，不是凭感觉判断的，是算出来的。\n每一笔预算都应该有一个明确的问题需要回答：这个素材值得继续投吗？这条内容里有可以复用的爆款要素吗？ROI 能在两个月内回正吗？\n对 OPC 开发者，两个月回正是一个粗糙但实用的健康标准。如果投了钱，两个月看不到正的 ROI 信号，要么是素材问题，要么是产品没有解决真实需求。两种情况都需要认真对待。\n好的内容运营不是每次都从零开始的。它应该是一套有文档、可复用的机制：话术库、brief 模板、内容要素表、AB 测试记录。建起来之后，这套东西可以交接，可以外包，甚至可以交给 AI 来跑。\n十四、增长要前置，不是上线后的事。\n课上我问了所有团队一个问题：你们是什么时候开始考虑增长的？\n大多数人的回答是：上线之后。\n写第一行代码之前，就要找用户。不是找测试用户，是找到那个会为它付钱的真实的人。\n功能足够强用户自然会发现——这是开发者最容易陷入的幻觉。我自己也走过这段路。\n🍎\n以上，不止App，如果你做电商、线索转化类业务，思路可复用。\n就写到这里，希望对你有启发。",
+          "preview_text": "上个月，我在 Apple × 浙江大学的移动应用孵化营担任营销篇导师，给 20 多个创业团队讲了一天半的课。\n \n学员都是有产品的人。有人的 APP 已经上线，有人还在打磨",
+          "title": "成就伟大之前，先学会卖东西 "
+        },
+        "author_id": "1853449310295441408",
+        "conversation_id": "2067507383824253019",
+        "created_at": "2026-06-18T07:19:07.000Z",
+        "edit_history_tweet_ids": [
+          "2067507383824253019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2067…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2067506549107691520",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2067506549107691520",
+              "url": "https://t.co/ghUgtm1M1w"
+            }
+          ]
+        },
+        "id": "2067507383824253019",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 4724,
+          "impression_count": 1050441,
+          "like_count": 2322,
+          "quote_count": 111,
+          "reply_count": 106,
+          "retweet_count": 415
+        },
+        "text": "https://t.co/ghUgtm1M1w"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2066435016046080000"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "2066436537085276284",
+        "created_at": "2026-06-15T08:23:57.000Z",
+        "edit_history_tweet_ids": [
+          "2066436537085276284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrjT00TYmd",
+              "end": 215,
+              "expanded_url": "https://x.com/bourneliu66/status/2066436537085276284/video/1",
+              "media_key": "13_2066435016046080000",
+              "start": 192,
+              "url": "https://t.co/ZrjT00TYmd"
+            }
+          ]
+        },
+        "id": "2066436537085276284",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "我要强烈推荐 Kimi K2.7 High Speed (高速版）！太神奇了！\n\nFable 5只活了3天就下架了，那个「墨流」Demo我见一次就再也忘不了。\n\n我让Opus 4.8(左)和 Kimi K2.7 High Speed(右)同时复刻它： \n\n两边都成功，质量上K2.7只略逊于Opus 4.8，可这个速度！ Opus花了32分钟，K2.7 只用了11分钟！\n\n看视频！"
+        },
+        "public_metrics": {
+          "bookmark_count": 641,
+          "impression_count": 167620,
+          "like_count": 822,
+          "quote_count": 4,
+          "reply_count": 114,
+          "retweet_count": 64
+        },
+        "text": "我要强烈推荐 Kimi K2.7 High Speed (高速版）！太神奇了！\n\nFable 5只活了3天就下架了，那个「墨流」Demo我见一次就再也忘不了。\n\n我让Opus 4.8(左)和 Kimi K2.7 High Speed(右)同时复刻它： \n\n两边都成功，质量上K2.7只略逊于Opus 4.8，可这个速度！ Opus花了32分钟，K2.7 只用了11分钟！\n\n看视频！ https://t.co/ZrjT00TYmd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2066022128223428608"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "2066022130572312861",
+        "created_at": "2026-06-14T04:57:15.000Z",
+        "edit_history_tweet_ids": [
+          "2066022130572312861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RslUtAygj8",
+              "end": 68,
+              "expanded_url": "https://x.com/bourneliu66/status/2066022130572312861/photo/1",
+              "media_key": "3_2066022128223428608",
+              "start": 45,
+              "url": "https://t.co/RslUtAygj8"
+            }
+          ]
+        },
+        "id": "2066022130572312861",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 44696,
+          "like_count": 136,
+          "quote_count": 6,
+          "reply_count": 105,
+          "retweet_count": 2
+        },
+        "text": "新的办公装备！Vibe Coding 绝配！！\n一边写代码一边骑自行车，日行 100KM https://t.co/RslUtAygj8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2065329602063716352"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "2065329731801927844",
+        "created_at": "2026-06-12T07:05:54.000Z",
+        "edit_history_tweet_ids": [
+          "2065329731801927844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/co5li1hGKaZw…",
+              "end": 157,
+              "expanded_url": "https://mp.weixin.qq.com/s/co5li1hGKaZwCJtQP1_Guw",
+              "start": 134,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HNOvK2qjE5G1J_YWoV8WqJCTm2lyzd0e8s7w5nzl&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fco5li1hGKaZwCJtQP1_Guw",
+              "url": "https://t.co/jCmHmue0za"
+            },
+            {
+              "display_url": "pic.x.com/tite36WbYG",
+              "end": 181,
+              "expanded_url": "https://x.com/bourneliu66/status/2065329731801927844/photo/1",
+              "media_key": "3_2065329602063716352",
+              "start": 158,
+              "url": "https://t.co/tite36WbYG"
+            }
+          ]
+        },
+        "id": "2065329731801927844",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 50534,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 9
+        },
+        "text": "GPT-5.5和Opus 4.8都搞不定的Bug，被Fable 5一晚上解决。\n\n打死GPT-5.5也想不到，竟然流行的开源库BetterAuth，还会有并发的Bug。\n\nFable 5 给它的定性是：教科书级的并发事故，只有高并发的生产环境才会现形。\n\n详情见这里 https://t.co/jCmHmue0za https://t.co/tite36WbYG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2054190923089944576"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "2054191141336347088",
+        "created_at": "2026-05-12T13:25:07.000Z",
+        "edit_history_tweet_ids": [
+          "2054191141336347088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1896466957114781696",
+              "start": 34,
+              "username": "dashu5ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pz6vryRZaD",
+              "end": 91,
+              "expanded_url": "https://x.com/bourneliu66/status/2054191141336347088/photo/1",
+              "media_key": "3_2054190923089944576",
+              "start": 68,
+              "url": "https://t.co/Pz6vryRZaD"
+            }
+          ]
+        },
+        "id": "2054191141336347088",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 24745,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 4
+        },
+        "text": "@AYiAInotes 有人认识这哥们吗？？？\n真不要脸，直接搬运 @dashu5ai  在视频号上的视频，除了换封面啥都没换，我呸！ https://t.co/Pz6vryRZaD"
+      }
+    ],
+    "users": [
+      {
+        "id": "2815325906",
+        "name": "刘小排",
+        "username": "bourneliu66"
+      },
+      {
+        "id": "1560177521949171712",
+        "name": "脱缰牛马",
+        "username": "horseman_sop"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2070046629282173413",
+    "next_token": "7140dibdnow9c7btwoxi3s58suzc2wjotk064p126p2yc",
+    "oldest_id": "2052658114592473094",
+    "previous_token": "77qpymm88g5h9vqkmfmueek8b7wi7fhgai1ujr8u0nho3",
+    "result_count": 24
+  }
+}

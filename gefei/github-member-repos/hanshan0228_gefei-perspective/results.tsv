@@ -1,0 +1,3 @@
+timestamp	commit	skill	old_score	new_score	status	dimension	note	eval_mode
+2026-09-26T10:31	6a4c24d	gefei-perspective	-	64.3	baseline	-	初始基线评估(HL-3短板:dim3/dim4/dim5/dim9)	full_test
+2026-09-26T10:45	7bda5bb	gefei-perspective	64.3	94.8	keep	all	3-0 better(dim3/4/5/9跃迁,2026体系升级)	paired

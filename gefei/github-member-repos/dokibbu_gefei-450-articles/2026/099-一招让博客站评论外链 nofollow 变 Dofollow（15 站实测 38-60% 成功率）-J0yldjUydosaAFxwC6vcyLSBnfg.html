@@ -1,0 +1,104 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>一招让博客站评论外链 nofollow 变 Dofollow（15 站实测 38-60% 成功率）</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>一招让博客站评论外链 nofollow 变 Dofollow（15 站实测 38-60% 成功率）</h1><div class="meta">离线存档 · 2026-09-04T10:32:22.266Z · <a href="https://my.feishu.cn/docx/J0yldjUydosaAFxwC6vcyLSBnfg">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/uo59xyon...<a class="source-link" href="https://new.web.cafe/topic/uo59xyoni0">https://new.web.cafe/topic/uo59xyon...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-04-18 12:14:15 (UTC+8)</blockquote>
+<p id="b5">2026-04-15 验证成功。这是把 WordPress 评论里的 nofollow 变成 Dofollow 目前唯一已知的方法，社群里应该还没人分享过，今天把完整做法加上实测数据贡献出来。</p>
+<h2 id="b6">背景</h2>
+<p id="b7">这两天在做游戏站的外链，手动发 WordPress 评论时，在一个博客的评论区注意到一件怪事：明明是普通的 WP 评论区，但有一条老评论的链接竟然是 Dofollow。</p>
+<p id="b8">右键检查 HTML，发现那条链接的 href 里多了一个换行符 \n 。这就让我联想到 WordPress 加 nofollow 的函数可能用了正则，于是去翻了一下 WP 源码。</p>
+<h2 id="b9">原理</h2>
+<p id="b10">WordPress 核心文件 wp-includes/formatting.php 里的 wp_rel_nofollow() 函数，用这个正则匹配 &lt;a&gt; 标签并添加 rel=&quot;nofollow&quot; ：</p>
+<p id="b11"><br>代码块<br>PHP<br>$text = preg_replace_callback('|&lt;a (.+?)&gt;|i', 'wp_rel_nofollow_callback', $text);<br></p>
+<p id="b12">注意 .+? 这个写法，它默认不匹配换行符，而且这个正则 没有加 /s (DOTALL) flag 。</p>
+<p id="b13">所以只要我们在 href 属性值里塞一个换行符 \n （charCode 10），整个 &lt;a&gt; 标签就不会被正则匹配到，nofollow 不会被添加，链接默认是 Dofollow 。</p>
+<h2 id="b14">具体做法</h2>
+<p id="b15">在评论正文的 textarea 里（注意是 正文 ，不是 author URL 字段），写：</p>
+<p id="b16"><br>代码块<br>HTML<br>text before &lt;a href=&quot;https://target-site.com/<br>&quot;&gt;Anchor Text&lt;/a&gt; more text<br></p>
+<p id="b17">关键点： \n 必须是真实的换行符（charCode 10），不是字面量的 \n 两个字符。</p>
+<p id="b18">如果你手动在评论框里敲，直接按 Enter 把 \n 打进去就行。如果用 Playwright / Puppeteer 等工具，JS 字符串 '\n' 会自动转成 charCode 10，不用做什么特殊处理。</p>
+<p id="b19">验证是否真的打进去了：</p>
+<p id="b20"><br>代码块<br>JavaScript<br>const textarea = document.querySelector('textarea[name=&quot;comment&quot;]');<br>const idx = textarea.value.indexOf('site.com/') + 9;<br>console.log(textarea.value.charCodeAt(idx) === 10); // true = 成功<br></p>
+<blockquote id="b21">⚠️ author URL 字段 bypass 不到</blockquote>
+<blockquote id="b22">评论框上面那个 website / 网址 字段（author URL），无论怎么填，WP 都会单独给那个链接加 nofollow，和这个 bypass 没关系。 只有正文里用 &lt;a&gt; 标签的 bypass 才有效 ，别在 author URL 字段上浪费时间。</blockquote>
+<h2 id="b23">完整 SOP</h2>
+<div class="list ordered" id="b24">1.<br>导航 到目标文章页。</div>
+<div class="list ordered" id="b25">2.<br>检查表单字段和反垃圾系统 （下文&quot;失败模式&quot;章节会讲怎么识别）。</div>
+<div class="list ordered" id="b26">3.<br>如果有 CleanTalk 或 Jetpack Highlander 直接跳过这个站。</div>
+<div class="list ordered" id="b27">4.<br>如果有 随机名 honeypot textarea （比如 ak_hp_textarea 、 alt_s 、 wantispam_e_* 这类乱七八糟的 name），这些字段必须留空。</div>
+<div class="list ordered" id="b28">5.<br>⚠️ Playwright 坑 ：如果用 evaluate 直接设 textarea value，不会触发 React / Vue 的 onChange 事件，站长的 anti-spam 逻辑会识别到异常。正确做法是用 pressSequentially(delay) 把字符一个个敲进去，然后用原生 click() 提交。</div>
+<div class="list ordered" id="b29">6.<br>正文填 &lt;a href=&quot;url\n&quot;&gt;Anchor&lt;/a&gt; 。</div>
+<div class="list ordered" id="b30">7.<br>如果遇到 name=&quot;submit&quot; 冲突导致 JS 无法提交，用原生方法：</div>
+<p id="b31"><br>代码块<br>JavaScript<br>HTMLFormElement.prototype.submit.call(document.querySelector('form'))<br></p>
+<div class="list ordered" id="b32">8.<br>原因：很多 WP 评论表单的提交按钮是 &lt;input type=&quot;submit&quot; name=&quot;submit&quot;&gt; ，这个 name 会 shadow 掉 form 对象的 submit() 方法，导致 form.submit() 报错。用原型链上的 submit 绕过 shadow。</div>
+<div class="list ordered" id="b33">9.<br>检查返回 URL ：<br>◦<br>#comment-XXX = 秒过，立刻可见<br>◦<br>?unapproved=XXX = 进了审核队列</div>
+<div class="list bullet" id="b34">◦<br>#comment-XXX = 秒过，立刻可见</div>
+<div class="list bullet" id="b35">◦<br>?unapproved=XXX = 进了审核队列</div>
+<div class="list ordered" id="b36">10.<br>秒过的立刻 验证 rel 属性 ：</div>
+<p id="b37"><br>代码块<br>JavaScript<br>document.querySelector('a[href*=&quot;你的域名&quot;]').rel<br></p>
+<div class="list ordered" id="b38">11.<br>判断结果：<br>◦<br>空字符串 ✅ 纯 Dofollow （最好的情况）<br>◦<br>external noopener noreferrer ✅ 仍是 Dofollow （无 nofollow 无 ugc）<br>◦<br>ugc ❌ 失败 （见下面&quot;ugc 的坑&quot;）<br>◦<br>nofollow 或 nofollow ugc ❌ 失败</div>
+<div class="list bullet" id="b39">◦<br>空字符串 ✅ 纯 Dofollow （最好的情况）</div>
+<div class="list bullet" id="b40">◦<br>external noopener noreferrer ✅ 仍是 Dofollow （无 nofollow 无 ugc）</div>
+<div class="list bullet" id="b41">◦<br>ugc ❌ 失败 （见下面&quot;ugc 的坑&quot;）</div>
+<div class="list bullet" id="b42">◦<br>nofollow 或 nofollow ugc ❌ 失败</div>
+<blockquote id="b43">⚠️ ugc 的坑 —— 不要被假成功骗了</blockquote>
+<blockquote id="b44">WP 5.3+ 默认会给评论外链加 rel=&quot;ugc&quot; （Google 2019 引入的新属性）。ugc 和 nofollow 一样 不传递权重 。所以 bypass 掉 nofollow 但还剩 ugc = 没用 。</blockquote>
+<blockquote id="b45">验证时 rel 必须是空字符串，或者只有 noopener / noreferrer 这类与权重无关的属性，才算真正成功。</blockquote>
+<h2 id="b46">前提条件</h2>
+<div class="list ordered" id="b47">1.<br>WP 站 wp_kses 必须允许 &lt;a&gt; 标签 — 有些站配置了 strip 会直接把 a 标签删掉</div>
+<div class="list ordered" id="b48">2.<br>评论能发出来 （Akismet 通过 / 无审核 / 站长审核通过）</div>
+<div class="list ordered" id="b49">3.<br>没有额外的 sanitize 插件 在 wp_rel_nofollow() 之后再加 nofollow</div>
+<h2 id="b50">实测成功率</h2>
+<div class="list bullet" id="b51">•<br>A 站 13 个评论站：5 Dofollow 秒过 = 38%</div>
+<div class="list bullet" id="b52">•<br>B 站 10 个评论站：6 Dofollow 秒过 = 60%</div>
+<div class="list bullet" id="b53">•<br>0 个被 Akismet 静默吞掉</div>
+<div class="list bullet" id="b54">•<br>失败主要来自 wp_kses strip 和 CleanTalk 拦截</div>
+<h2 id="b55">意外发现：第三方插件也可能被 bypass</h2>
+<p id="b56">有些站用了 WP External Links 之类的插件给外链加 nofollow，但 这些插件也常常用类似的正则 。结果是插件的正则也被 \n bypass 掉，rel 最后变成 external noopener noreferrer （ 连 nofollow 都没有 ）。</p>
+<p id="b57">所以别看到站点有第三方 SEO / Anti-Spam 插件就直接跳过，值得测一下。</p>
+<h2 id="b58">五种失败模式（选站前必读）</h2>
+<p id="b59"><br><br>失败类型<br><br>	<br><br>识别方法<br><br>	<br><br>例子<br><br><br><br><br>wp_kses strip &lt;a&gt; 标签<br><br>	<br><br>翻看已有评论是否有超链接<br><br>	<br><br>brandmarketingblog / learnalanguage<br><br><br><br><br>额外 sanitize 插件<br><br>	<br><br>bypass 后正文链接仍是 nofollow ugc<br><br>	<br><br>euribor.com.es<br><br><br><br><br>hCaptcha Enterprise<br><br>	<br><br>评论内容被清洗<br><br>	<br><br>the-gadgeteer.com<br><br><br><br><br>Jetpack Highlander<br><br>	<br><br>评论在 cross-origin iframe 里<br><br>	<br><br>squatuniversity / neuroclastic<br><br><br><br><br>CleanTalk<br><br>	<br><br>403 硬拦<br><br>	<br><br>ladiesgamers / startofhappiness<br><br><a class="source-link" href="http://euribor.com/">euribor.com</a> <a class="source-link" href="http://the-gadgeteer.com/">the-gadgeteer.com</a></p>
+<h2 id="b60">三步快速判断一个站能不能 bypass</h2>
+<div class="list ordered" id="b61">1.<br>看已有评论是否有 &lt;a href&gt; 超链接 （而不是纯文本 URL）→ 有则 wp_kses 允许 a 标签</div>
+<div class="list ordered" id="b62">2.<br>看已有评论链接的 rel ：如果是 nofollow ugc 或 external nofollow → 标准 WP，可以 bypass</div>
+<div class="list ordered" id="b63">3.<br>避开 ：hCaptcha 站、Jetpack iframe 站、CleanTalk 站</div>
+<h2 id="b64">找目标站的方法</h2>
+<div class="list ordered" id="b65">1.<br>Google dork<br>◦<br>&quot;leave a comment&quot; site:.com 加各种筛选</div>
+<div class="list ordered" id="b66">2.<br>Ahrefs 反查竞品外链 — 过滤 Dofollow，看哪些是 WP 评论站，检查 HTML 有没有 \n</div>
+<div class="list ordered" id="b67">3.<br>测试评论是否秒过 — 提交后返回 URL 有 #comment-数字 且没有 ?unapproved= 就是秒过</div>
+<h2 id="b68">情报挖掘方法论（可推广）</h2>
+<p id="b69">这次的发现其实是一个方法论： 从大平台的出站 Dofollow 链接逆向分析手法 。</p>
+<p id="b70">具体步骤：</p>
+<div class="list ordered" id="b71">1.<br>Ahrefs 选高 DR 站 → 看 Outgoing links → 过滤 Dofollow</div>
+<div class="list ordered" id="b72">2.<br>找&quot; 不应该是 Dofollow &quot;的评论区链接（一般 UGC 评论都该是 nofollow）</div>
+<div class="list ordered" id="b73">3.<br>检查 HTML： document.querySelector('a[href*=&quot;target&quot;]').outerHTML</div>
+<div class="list ordered" id="b74">4.<br>寻找 href 中的异常字符（ \n / \r / \t 或其他 unicode）</div>
+<div class="list ordered" id="b75">5.<br>对照平台 sanitize 函数源码 → 找正则缺陷 → 自己也能复用</div>
+<p id="b76">同样的思路可以推广到 Drupal / Joomla / Ghost / Discourse 这些其他平台。只要平台的 sanitize 逻辑用了正则，并且正则对换行或特殊字符处理不严，就可能有类似的空子。</p>
+<h2 id="b77">总结</h2>
+<div class="list bullet" id="b78">•<br>原理 ：WP wp_rel_nofollow() 正则 |&lt;a (.+?)&gt;|i 没加 /s flag， .+? 不匹配换行符</div>
+<div class="list bullet" id="b79">•<br>做法 ：评论正文里 &lt;a href=&quot;url\n&quot;&gt;Anchor&lt;/a&gt; 塞一个 \n</div>
+<div class="list bullet" id="b80">•<br>成功率 ：38% - 60%（取决于选站精度）</div>
+<div class="list bullet" id="b81">•<br>前提 ： wp_kses 允许 &lt;a&gt; 标签 + 无额外 sanitize + 无 Jetpack iframe / CleanTalk</div>
+<div class="list bullet" id="b82">•<br>验证 ：rel 必须是空字符串或只有 noopener / noreferrer，有 nofollow 或 ugc 都算失败</div>
+<div class="list bullet" id="b83">•<br>意义 ：WP 评论外链从 nofollow 全部变成 Dofollow，价值质变</div>
+<p id="b84">这手法一旦被大规模滥用，WP 官方大概率会修这个正则（加 /s flag 就完事了）。所以有能力的朋友 现在就用 ，趁窗口期。</p>
+<p id="b85">欢迎群里朋友一起验证、补充。</p>
+<h1 id="b86">纯内部分享，不要外传，用的人越多被修正的可能性越大</h1>
+<p id="b88">失败类型</p>
+<p id="b90">识别方法</p>
+<p id="b92">例子</p>
+<p id="b94">wp_kses strip &lt;a&gt; 标签</p>
+<p id="b96">翻看已有评论是否有超链接</p>
+<p id="b98">brandmarketingblog / learnalanguage</p>
+<p id="b100">额外 sanitize 插件</p>
+<p id="b102">bypass 后正文链接仍是 nofollow ugc</p>
+<p id="b104">euribor.com.es<a class="source-link" href="http://euribor.com/">euribor.com</a></p>
+<p id="b106">hCaptcha Enterprise</p>
+<p id="b108">评论内容被清洗</p>
+<p id="b110">the-gadgeteer.com<a class="source-link" href="http://the-gadgeteer.com/">the-gadgeteer.com</a></p>
+<p id="b112">Jetpack Highlander</p>
+<p id="b114">评论在 cross-origin iframe 里</p>
+<p id="b116">squatuniversity / neuroclastic</p>
+<p id="b118">CleanTalk</p>
+<p id="b120">403 硬拦</p>
+<p id="b122">ladiesgamers / startofhappiness</p>
+<div class="list bullet" id="b123">◦<br>&quot;leave a reply&quot; &quot;your email&quot; &quot;你的行业关键词&quot;</div>
+<div class="list bullet" id="b124">◦<br>&quot;leave a comment&quot; site:.com 加各种筛选</div></main></div></body></html>

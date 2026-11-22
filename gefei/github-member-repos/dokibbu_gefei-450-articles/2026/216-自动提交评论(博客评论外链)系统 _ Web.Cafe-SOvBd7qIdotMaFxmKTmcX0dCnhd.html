@@ -1,0 +1,150 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>自动提交评论(博客评论外链)系统 | Web.Cafe</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>自动提交评论(博客评论外链)系统 | Web.Cafe</h1><div class="meta">离线存档 · 2026-09-04T10:50:43.044Z · <a href="https://my.feishu.cn/docx/SOvBd7qIdotMaFxmKTmcX0dCnhd">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/7s6folth...<a class="source-link" href="https://new.web.cafe/topic/7s6folthqe">https://new.web.cafe/topic/7s6folth...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-08-14 20:12:22 (UTC+8)</blockquote>
+<h1 id="b5">首先这是kimi自己总结的，质量不是很好，发出来只是提供一下思路上的交流。</h1>
+<blockquote id="b6">这份文档自包含,交给另一个 AI 即可复现整套机制。 它不是设计稿,是跑了 一个月、被几十次事故修过的生产系统的写实。 先读「0. 现实预期」再动手——这套系统的价值在管道,不在魔法。</blockquote>
+<h2 id="b7">0. 现实预期(必须先说清)</h2>
+<div class="list bullet" id="b8">•<br>WordPress 5.3+ 评论链接默认 rel=&quot;ugc nofollow&quot; 。 评论腿基本产不出 dofollow ,它的真实价值是:引流、链型多样性、品牌提及。要 dofollow 主粮请走目录提交/客座博客(不在本文范围)。</div>
+<div class="list bullet" id="b9">•<br>投出(WP 302 受理)≠ 上线。实测:投出的评论终核存活率 0~5%(大博主会事后清扫)。 KPI 只认终核在线的链,账面「投达」一律视为幻觉资产。</div>
+<div class="list bullet" id="b10">•<br>规模化(每天上百条)必然触发反垃圾(Akismet 全局学习、CleanTalk 封数据中心 IP 段)。系统按「低频、像人、可证伪」设计,不要按「冲量」设计。</div>
+<h2 id="b11">1. 架构总览</h2>
+<p id="b12"><br>代码块<br>JavaScript<br>            ┌─────────────────── SQLite (backlinks.db) ───────────────────┐<br>            │ quality_resources(目标池)  site_constraints(黑名单/TTL)   │<br>            │ submissions(账本)  verification_runs(核验证)  link_facts   │<br>            └─────────────────────────────────────────────────────────────┘<br>采集(harvest)→ 目标池 → 滚动驱动(rolling_submit)→ agent_submit(LLM 浏览器)→ 投出<br>                                                        │              │<br>                                            反检测三件套 ←┘              ↓<br>                                   (persona/网址轮换/结构打散)      verify_link(终核)<br>                                                                          ↓<br>                                                              link_facts + 记分牌<br></p>
+<p id="b13">五个进程级组件,各自独立可换:</p>
+<div class="list ordered" id="b14">1.<br>采集 (任何方式填满目标池即可,接口 = 往 quality_resources 写行);</div>
+<div class="list ordered" id="b15">2.<br>滚动驱动 :从池里选目标、轮换出口 IP、逐站调投放器,循环不止;</div>
+<div class="list ordered" id="b16">3.<br>投放器 agent_submit :LLM 在环的浏览器自动化,单站一次 run,终局落库;</div>
+<div class="list ordered" id="b17">4.<br>核验器 verify_link :过一天后回头查「链到底在不在、rel 是什么」;</div>
+<div class="list ordered" id="b18">5.<br>人机协同 (可选):投不了的站进人工队列,Chrome 插件辅助人完成。</div>
+<h2 id="b19">2. 数据模型(关键表)</h2>
+<p id="b20"><br>代码块<br>SQL<br>  dofollow INT, indexable INT, first_seen TEXT, last_seen TEXT,<br>  last_result TEXT, lost_at TEXT, miss_streak INT,<br>  UNIQUE(product_id, domain));<br></p>
+<p id="b21">写库纪律(血泪): 任何「长循环+逐条写库」的连接必须 autocommit 或循环内定期 commit ——一个长事务会把全库写入方锁死数小时(Python sqlite3.connect(..., isolation_level=None) ;Node 侧 BEGIN IMMEDIATE 短事务 + PRAGMA busy_timeout=30000 )。</p>
+<h2 id="b22">3. 选品(比投放更决定成败)</h2>
+<p id="b23">驱动从池里选目标时的过滤与优先级:</p>
+<div class="list ordered" id="b24">1.<br>狙击优先(实证评论区开放) :先把竞品反链里「评论真实在页」的站挖出来(抓竞品反链来源页,机械判定链接在评论容器里),这些站的「那条竞品评论所在的帖子 URL」就是首选靶——评论区开放是实证的;</div>
+<div class="list ordered" id="b25">2.<br>池子过滤:只投 cs=form (预审确认有原生评论表单,Disqus/Facebook iframe 要账号的不投)、 cmts&gt;0 (有已批准评论 = 博主会审)、近一两年的新帖;</div>
+<div class="list ordered" id="b26">3.<br>排除: site_constraints 未过期者、本产品 submissions 已有记录者(不重打);</div>
+<div class="list ordered" id="b27">4.<br>每波按域去重 (池子一域多行)。</div>
+<h2 id="b28">4. 投放器(agent_submit)— LLM 在环的浏览器自动化</h2>
+<p id="b29">形态:Node + playwright-core(系统 Chrome, headless)+ 一个 LLM 网关。每站一次 run: 打开页面 → LLM 观察(DOM 摘要+截图可选)→ 动作(fill/click/solve/giveup)→ 终局落库。</p>
+<h3 id="b30">4.1 预算与终局(防止死磕 = 防止烧钱)</h3>
+<div class="list bullet" id="b31">•<br>步数预算 ~24 步、单站时间预算 ~10 分钟,烧尽按 blocked 记;</div>
+<div class="list bullet" id="b32">•<br>终局六态: pending_review (接口确认受理)/ success (页面确认上线)/ blocked (卡点,带精确归因)/ skipped_fit (类目不匹配)/ skipped_paid (收费墙)/ emailed (站内联系表单提交成功且回执可见—— 严格定义,谎称发过邮件=最严重违规 );</div>
+<div class="list bullet" id="b33">•<br>失败 36% 的步数耗在逐字段 fill 上 → fill_many 一次填多字段 ,提交按钮单独 click;</div>
+<div class="list bullet" id="b34">•<br>连续 N 步页面无变化(URL/正文/字段数不动)判定卡死,立即终局;</div>
+<div class="list bullet" id="b35">•<br>过不去的站进 人工队列 (human_tasks),不阻塞主循环。</div>
+<h3 id="b36">4.2 表单识别(实战要点)</h3>
+<div class="list bullet" id="b37">•<br>评论表单可能在跨域 iframe(Jetpack): allFrames 注入 ,主框架先把 iframe 滚进视口触发懒渲染,各 frame 轮询等表单 ≤8s;</div>
+<div class="list bullet" id="b38">•<br>新版 wordpress.com 评论是 contenteditable 块编辑器,不是 textarea:detect 要有 contenteditable 回退,写值走 execCommand('insertText') (Gutenberg 才能感知);</div>
+<div class="list bullet" id="b39">•<br>字段定位用「label 回退链」:label[for] → 包裹 label → aria/placeholder → name → id,多语言词表(英/法/西/葡/德);</div>
+<div class="list bullet" id="b40">•<br>蜜罐字段靠可见性过滤(display/visibility/opacity/尺寸)排除;</div>
+<div class="list bullet" id="b41">•<br>定位到评论框后,把 name/email/url 的搜索范围收窄到同一个 &lt;form&gt; ——否则页首的 newsletter 订阅框会被误填。</div>
+<h3 id="b42">4.3 验证码</h3>
+<div class="list bullet" id="b43">•<br>reCAPTCHA/Turnstile 走 solver API(CapSolver 类); 幻影 sitekey (页面没真组件)直接跳过解码、裸提交试——很多站是服务端隐形防护;</div>
+<div class="list bullet" id="b44">•<br>solver 返回幻影 key 错误(ERROR_INVALID_TASK_DATA)要兜住进人工队列,不许打穿整站;</div>
+<div class="list bullet" id="b45">•<br>solver 出口 IP 与浏览器出口 IP 不一致时,严格站会判 token 无效——要么 Proxyless 裸试,要么给 solver 配同出口代理;</div>
+<div class="list bullet" id="b46">•<br>判了 captcha_unsolvable 的站记约束(14 天不重试),不重复烧。</div>
+<h2 id="b47">5. 反检测三件套(全都实证过)</h2>
+<div class="list ordered" id="b48">1.<br>Persona 池 (8 个真人感姓名+gmail 邮箱):同域 hash 固定抽同一个(同域同人,跨域轮换)。 邮箱域必须 ≠ 被推广域 ——用产品域邮箱发评论等于向 Akismet 自报家门;评论流程不回信,邮箱无需受控(需要收信的注册流程走受控邮箱);</div>
+<div class="list ordered" id="b49">2.<br>作者网址落点轮换 :主域 50% / 卫星内容站(Substack/Blogspot)25%+25%,同域稳定——几百条评论全指同一个新域是 spam 签名;</div>
+<div class="list ordered" id="b50">3.<br>内容结构打散 :LLM 写评论时 few-shot 样本随机抽 + 结构权重轮换(正常带产品/纯读后感不带产品/带问题/短评),禁止全网一个模板。</div>
+<p id="b51">另加: 每站轮换出口 IP (见《mihomo-rotate.md》:PUT 控制器换节点 + ipify 实证 + 死节点跳过+连续全死才中止); 禁止点击 mailto: (会唤起 OS 邮件客户端——prompt 禁令 + DOM 捕获层硬拦双保险);stealth UA/语言/时区自洽。</p>
+<h2 id="b52">6. 评论内容生成</h2>
+<div class="list bullet" id="b53">•<br>每篇文章 现写 :抓正文前 ~2500 字给 LLM,要求引用文章具体细节(审核博主就看这个);</div>
+<div class="list bullet" id="b54">•<br>正文绝不放链接 (博主秒删),链接只走 website 字段;名字字段用真人全名,绝不用关键词(Google spam policy 明文);</div>
+<div class="list bullet" id="b55">•<br>浏览器翻译态检测 :页面被 Chrome 翻成中文时禁止生成(会写中文评论贴英文站,一眼 spam),提示切回原文。</div>
+<h2 id="b56">7. 核验器(verify_link)— 账本的唯一真相源</h2>
+<p id="b57">投出后 ≥8~24h 回头核, 四路探针 : recorded_url(记录的页面) → sitemap(全站 URL 清单) → site_search(站内搜索) → path_guess(路径枚举) 。</p>
+<div class="list bullet" id="b58">•<br>三态严格: online / offline_confirmed (确实找过且没有)/ unknown_* (网络问题绝不写&quot;未上线&quot;);</div>
+<div class="list bullet" id="b59">•<br>WP 评论分页:首页没有要翻到最后一页 (新评论在末页);</div>
+<div class="list bullet" id="b60">•<br>rel 必须在评论的规范位置读 ——站内搜索页/侧栏「最新评论 widget」里的回显锚不带 rel,采信会把 ugc nofollow 错记成 dofollow:命中页上找「与目标锚同一容器」的评论 permalink,跳回去重读;锚选择优先级 = 评论作者链(class=url) &gt; 带 rel 的显式标记 &gt; 无 rel 回显;</div>
+<div class="list bullet" id="b61">•<br>结果写 verification_runs(append-only)+ 更新 link_facts; 记分牌只从 link_facts 出 。</div>
+<h2 id="b62">8. 滚动驱动与运维制度</h2>
+<div class="list bullet" id="b63">•<br>循环:每波评论 40 + 目录 25,两池空就睡 1 小时;死节点跳过,连续 8 个节点全死睡 10 分钟自愈,不硬闯;</div>
+<div class="list bullet" id="b64">•<br>每日两 cron:早上采集波(补池)+ 早上终核波(核昨天投出的);</div>
+<div class="list bullet" id="b65">•<br>成本全记 cost_events(provider/job/金额),$每计入链 是唯一效率指标;</div>
+<div class="list bullet" id="b66">•<br>headless 浏览器僵尸:包装超时/杀进程会留孤儿 Chrome,定期清扫(按启动参数区分自动化实例 vs 用户实例)。</div>
+<h2 id="b67">9. 复现清单(另一个 AI 需要准备的)</h2>
+<div class="list ordered" id="b68">1.<br>SQLite + 第 2 节的表;</div>
+<div class="list ordered" id="b69">2.<br>一个 LLM 网关(便宜模型做预审/采集,强模型写评论和开车);</div>
+<div class="list ordered" id="b70">3.<br>Node + playwright-core + 一个浏览器;投放器按第 4 节的预算/终局/表单/验证码规则写;</div>
+<div class="list ordered" id="b71">4.<br>出口代理池(mihomo 或等价物,API 可换节点即可);</div>
+<div class="list ordered" id="b72">5.<br>Persona 池 json([{name,email}]) + 产品 kit json({name,url,taglines,descriptions,tags});</div>
+<div class="list ordered" id="b73">6.<br>核验器按第 7 节的探针/分页/rel 规则写;</div>
+<div class="list ordered" id="b74">7.<br>两 cron + 写库 autocommit 纪律。</div>
+<p id="b75">可选增强:solver 账号(验证码)、Chrome 插件人机协同队列、SimilarWeb 类数据源(采集竞品反链做狙击手名单——没有也能跑,用 footprints 搜 &quot;niche + leave a comment&quot; 建池)。</p>
+<h2 id="b76">10. 已验证的失败模式(别重踩)</h2>
+<div class="list bullet" id="b77">•<br>投达当资产(pending_review 幻觉);</div>
+<div class="list bullet" id="b78">•<br>邮箱域=产品域(自报家门);</div>
+<div class="list bullet" id="b79">•<br>数据中心 IP 硬闯(CleanTalk 按段封);</div>
+<div class="list bullet" id="b80">•<br>同一模板全网发(Akismet 全局学习);</div>
+<div class="list bullet" id="b81">•<br>核验读 widget 回显的 rel(dofollow 错记);</div>
+<div class="list bullet" id="b82">•<br>长事务写库(全库锁死);</div>
+<div class="list bullet" id="b83">•<br>无限重试验证码(烧钱换 0)。</div>
+<p id="b84"><br></p>
+<h1 id="b85">附录 A:实现层技术细节(照抄即可复现)</h1>
+<h2 id="b86">A.1 LLM 在环协议(agent_submit 的主循环)</h2>
+<p id="b87">每一步: 观察 observe() → LLM 返回一个 JSON 动作 → 执行 → 再观察 。观察是这份 JSON:</p>
+<p id="b88"><br>代码块<br>JSON<br>{<br>  &quot;url&quot;: &quot;...&quot;, &quot;title&quot;: &quot;...&quot;,<br>  &quot;inputs&quot;:  [{&quot;i&quot;:&quot;i0&quot;,&quot;tag&quot;:&quot;input&quot;,&quot;type&quot;:&quot;email&quot;,&quot;name&quot;:&quot;mail&quot;,&quot;ph&quot;:&quot;Your email&quot;,<br>               &quot;label&quot;:&quot;Email address&quot;,&quot;required&quot;:true,&quot;value&quot;:&quot;&quot;,&quot;inForm&quot;:true},<br>              {&quot;i&quot;:&quot;s1&quot;,&quot;tag&quot;:&quot;select&quot;,&quot;options&quot;:[&quot;Choose…&quot;,&quot;USA&quot;,&quot;UK&quot;],&quot;required&quot;:true}],<br>  &quot;buttons&quot;: [{&quot;i&quot;:&quot;b0&quot;,&quot;text&quot;:&quot;Post Comment&quot;,&quot;inForm&quot;:true}],<br>  &quot;iframes&quot;: [&quot;https://www.google.com/recaptcha/api2/anchor?k=6Lfc...&quot;],<br>  &quot;text&quot;: &quot;页面正文前 1200 字符(压平空白)&quot;,<br>  &quot;todo&quot;: [&quot;未填必填: Email address&quot;, &quot;⚠ 页面有 reCAPTCHA:点提交前必须先执行 captcha_recaptcha 注入 token,否则服务端必拒&quot;]<br>}<br></p>
+<p id="b89">要点:</p>
+<div class="list bullet" id="b90">•<br>可见性过滤 el.offsetWidth||offsetHeight||getClientRects() ;inputs 限 30、buttons 限 20;</div>
+<div class="list bullet" id="b91">•<br>todo 清单是反 LLM 漏看的关键 :未填必填/未勾必选/未选必下拉 + 验证码显性警告(没有这条,LLM 会直接点提交,服务端必拒);</div>
+<div class="list bullet" id="b92">•<br>序号规则:输入 i0/i1、下拉 s0、按钮 b0; 执行端定位必须用与 observe 完全相同的选择器+可见性过滤 ,序号才对齐。</div>
+<p id="b93">LLM 每步只许返回一个动作:</p>
+<p id="b94"><br>代码块<br>JSON<br>{&quot;action&quot;:&quot;fill_many|fill|click|select|upload|scroll|wait|math|captcha_turnstile|captcha_recaptcha|cf_challenge|register|fork_account|email_otp|done|giveup&quot;,<br> &quot;target&quot;:&quot;观察里的序号(b0/i0/s0)或按钮文本&quot;,<br> &quot;value&quot;:&quot;槽位名(name/email/url/tagline/desc_short/tags…)或组合值&quot;,<br> &quot;reason&quot;:&quot;一句话&quot;}<br></p>
+<p id="b95">终局动作:</p>
+<p id="b96"><br>代码块<br>JSON<br></p>
+<p id="b97">值解析( resolveValue ):优先查产品 kit 槽位表 VALUES(name/email/url/submitter/tagline/desc_short/desc_mid/desc_long/tags/categories/logo/agent_email), slot:x 等价于 x ;非槽位值视为「LLM 基于 kit 事实的组合值」,过一道 FORBIDDEN 闸门(禁止编造价格/数据/未证实功能)。</p>
+<h2 id="b98">A.2 系统 prompt 骨架(规则块的实测条款)</h2>
+<p id="b99"><br>代码块<br>JavaScript<br>每一步输出 JSON:{action 协议见 A.1}<br>- 付费墙/必须付款 → done:skipped_paid<br>- 遇到登录墙:优先注册而不是放弃(register 动作自动填邮箱+每站永存密码);<br>  需邮箱验证 → email_otp 动作(从 agent 邮箱取该站验证码/验证链接);<br>  仅当无法注册(仅 OAuth / 注册有验证码 / 无入口)才 done:blocked &quot;仅 OAuth/注册有验证码&quot;<br>- fill_many 是默认动作:一次填全部可填字段,提交按钮单独 click(失败站 36% 步数耗在逐个 fill)<br>- 已填过的字段(inputs[].value 非空)不要重复填<br>- emailed 严格定义:仅站内联系表单提交成功且回执可见;公开邮箱地址不是通道,<br>  禁止点 mailto:(会唤起 OS 邮件客户端),那种情况 giveup:needs_outreach<br>- 类目不匹配(纯视频/纯游戏/纯医学/政治/体育/法律) → done:skipped_fit<br>- 连续 N 步页面无变化(URL/正文/字段数不动)判卡死,立即终局<br>- 步数预算 24、时间预算 10 分钟,烧尽按 blocked 记<br></p>
+<h2 id="b100">A.3 表单识别与写入(浏览器层)</h2>
+<div class="list bullet" id="b101">•<br>蜜罐:注入侧按 display/visibility/opacity/尺寸做可见性过滤;</div>
+<div class="list bullet" id="b102">•<br>写值: focus → native setter(HTMLInputElement.prototype.value.set) → dispatch InputEvent + change ——原生与 React 受控组件通吃;contenteditable 走 execCommand('insertText') ;</div>
+<div class="list bullet" id="b103">•<br>先定位评论框,再把其余字段的搜索范围收窄到同一个 &lt;form&gt; (防误填页首订阅框);iframe 内找不到才放宽到全 document;</div>
+<div class="list bullet" id="b104">•<br>label 回退链: label[for] → 包裹 label → aria-label → placeholder → name → id;多语言词表 name=author/name/nickname/nom/nombre/nome, email=email/e-mail/mail/courriel/correo, url=url/website/homepage/web。</div>
+<h2 id="b105">A.4 验证码处理细节</h2>
+<div class="list bullet" id="b106">•<br>sitekey 提取:先 document.querySelector('[data-sitekey]') (连 action 一起拿),再正则 (0x4AAAAAAA[A-Za-z0-9_-]{5,}) 从 HTML 捞(Turnstile);</div>
+<div class="list bullet" id="b107">•<br>api2/aframe 是空壳 iframe :reCAPTCHA 的 iframe 只有带 k= 参数的才是真挑战;幻影 key(sitekey 提取无效)直接裸提交,不死磕解码;</div>
+<div class="list bullet" id="b108">•<br>reCAPTCHA api2 widget 会在表单提交瞬间清掉 g-recaptcha-response—— token 注入后立刻提交 ,中间别插别的动作;</div>
+<div class="list bullet" id="b109">•<br>solver 任务幻影 key 错误(ERROR_INVALID_TASK_DATA)→ 进人工队列,不 EXC 打穿整站;</div>
+<div class="list bullet" id="b110">•<br>判 captcha_unsolvable → site_constraints 记 14 天。</div>
+<h2 id="b111">A.5 评论内容生成(api_compose)</h2>
+<p id="b112">kit 里带 comment_voice: {tone:[], few_shots:[{scene,text}]} 。生成规则:</p>
+<div class="list bullet" id="b113">•<br>few_shots 随机抽 2 条 (固定前 N 条 = 结构指纹);</div>
+<div class="list bullet" id="b114">•<br>结构权重轮换:normal(0.4)/no_product(0.2,全文不提产品)/no_question(0.2)/short(0.2);</div>
+<div class="list bullet" id="b115">•<br>硬约束:1-3 句、第一人称、≤60 词、引用文章具体细节、正文不放链接、禁通用好评/营销腔;</div>
+<div class="list bullet" id="b116">•<br>输入:页面正文截选 ~2500 字;浏览器翻译态(documentElement.class 含 translated-ltr/rtl)直接拒绝生成。</div>
+<h2 id="b117">A.6 核验探针细节</h2>
+<div class="list bullet" id="b118">•<br>sitemap 发现 :先读 /robots.txt 的 Sitemap: 行,再补 /sitemap.xml 、 /sitemap_index.xml 、 /sitemap-index.xml 、 /wp-sitemap.xml ,及 www 变体;BFS 展开 sitemap index,抓取上限 25 次、命中上限 5 个;</div>
+<div class="list bullet" id="b119">•<br>站内搜索候选 : /search?q= 、 /?s= 、 /?q= 、 /search/&lt;slug&gt; 、 /search?query= 、 /search?keyword= ;</div>
+<div class="list bullet" id="b120">•<br>锚提取 :页面上所有 a[href],hostname endswith 产品域 = direct; /go|out|visit|redirect|link|ref|away 或 ?url=/to=/target=/redirect= 的算 redirectish,跟随跳转解析;正文提到产品名且有 redirectish 时才跟随(省请求);</div>
+<div class="list bullet" id="b121">•<br>锚选择打分 (修过的):评论作者链(class 含 url)=0 优先 &gt; 带 rel 的 &gt; 无 rel 回显 &gt; 再按 nofollow 罚分和锚文本长度;</div>
+<div class="list bullet" id="b122">•<br>indexable :meta[name=robots] 与 X-Robots-Tag 头查 noindex; dofollow :锚 rel 不含 nofollow/ugc/sponsored 且页面不是整页 nofollow;</div>
+<div class="list bullet" id="b123">•<br>offline_confirmed 的门槛必须高于判活 :sitemap 可读(拿到全站清单)或 ≥10 个明确 HTTP 结论的页面,否则记 unknown_blocked 不判死。</div>
+<h2 id="b124">A.7 池子预审(prescreen)</h2>
+<p id="b125">每个候选 URL 抓一次,输出:</p>
+<div class="list bullet" id="b126">•<br>comment_system 三分:页面有评论 textarea = form ;只有 Disqus/Facebook/Verbum iframe = iframe (要账号,不投);皆无 = none ;</div>
+<div class="list bullet" id="b127">•<br>comment_count :评论块计数(class 含 comment 的容器),cmts&gt;0 = 博主会审的实证;</div>
+<div class="list bullet" id="b128">•<br>author_linked :评论区作者是否带外链(有 = 允许作者网址);</div>
+<div class="list bullet" id="b129">•<br>入池纪律: blog_comment 只收 cs=form;iframe/none 的不收(收也是白跑)。</div>
+<h2 id="b130">A.8 产品 kit 文件格式(投放器的全部事实来源)</h2>
+<p id="b131"><br>代码块<br>JSON<br>}<br></p>
+<p id="b132">描述四档(xs_50/s_150/m_300/l_510):按字段 maxlength 选「≤cap 的最长一条」;截断按词边界、不留半个单词和尾部标点。</p>
+<h2 id="b133">A.9 黑名单约束码与 TTL(撞过的卡点不再重试)</h2>
+<p id="b134"><br><br>reason_code<br><br>	<br><br>TTL<br><br>	<br><br>含义<br><br><br><br><br>captcha_unsolvable<br><br>	<br><br>14 天<br><br>	<br><br>验证码通道打不了<br><br><br><br><br>account_per_product<br><br>	<br><br>365 天<br><br>	<br><br>站方限一账号一产品(需产品专属邮箱注册)<br><br><br><br><br>mail_channel_dead<br><br>	<br><br>30 天<br><br>	<br><br>退过信,邮箱通道死<br><br><br><br><br>needs_outreach<br><br>	<br><br>30 天<br><br>	<br><br>只有公开邮箱/Telegram,进外联队列<br><br></p>
+<h2 id="b135">A.10 成功配方回放(site_recipes)</h2>
+<p id="b136">每个成功站(终局 success/pending_review)把完整动作日志喂给 LLM 提炼:</p>
+<p id="b137"><br>代码块<br>JavaScript<br>{&quot;steps&quot;:[{&quot;action&quot;:&quot;fill|click|select|upload|math|captcha_turnstile|scroll&quot;,<br>           &quot;target_hint&quot;:&quot;字段/按钮的语义文本(label/placeholder/name,别用序号)&quot;,&quot;value&quot;:&quot;槽位名&quot;}],<br> &quot;notes&quot;:&quot;该站要点一句话&quot;}<br></p>
+<p id="b139">reason_code</p>
+<p id="b141">TTL</p>
+<p id="b143">含义</p>
+<p id="b145">captcha_unsolvable</p>
+<p id="b147">14 天</p>
+<p id="b149">验证码通道打不了</p>
+<p id="b151">account_per_product</p>
+<p id="b153">365 天</p>
+<p id="b155">站方限一账号一产品(需产品专属邮箱注册)</p>
+<p id="b157">mail_channel_dead</p>
+<p id="b159">30 天</p>
+<p id="b161">退过信,邮箱通道死</p>
+<p id="b163">needs_outreach</p>
+<p id="b165">30 天</p>
+<p id="b167">只有公开邮箱/Telegram,进外联队列</p></main></div></body></html>

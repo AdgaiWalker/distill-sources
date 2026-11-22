@@ -1,0 +1,1454 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1994259906233552896"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1994260196747530726",
+      "created_at": "2025-11-28T04:20:57.000Z",
+      "edit_history_tweet_ids": [
+        "1994260196747530726"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "morisot.ai",
+            "end": 33,
+            "expanded_url": "https://morisot.ai",
+            "start": 10,
+            "status": 200,
+            "unwound_url": "https://morisot.ai",
+            "url": "https://t.co/Agi3LyKpqj"
+          },
+          {
+            "display_url": "pic.x.com/DWmDPAoEDV",
+            "end": 147,
+            "expanded_url": "https://x.com/bourneliu66/status/1994260196747530726/photo/1",
+            "media_key": "3_1994259906233552896",
+            "start": 124,
+            "url": "https://t.co/DWmDPAoEDV"
+          }
+        ]
+      },
+      "id": "1994260196747530726",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 10251,
+        "like_count": 30,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 4
+      },
+      "text": "3位大哥一起帮我分析https://t.co/Agi3LyKpqj 的性能问题\n\n左： GPT-5.1-Codex-MAX (Extra High)\n中： Claude Code - Opus 4.5\n右： Gemini 3 Pro (High) https://t.co/DWmDPAoEDV",
+      "url": "https://x.com/bourneliu66/status/1994260196747530726"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1993924522123382787",
+          "3_1993924771046936577"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1993924978442686813",
+      "created_at": "2025-11-27T06:08:54.000Z",
+      "edit_history_tweet_ids": [
+        "1993924978442686813"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Raphael AI is a free, unlimited AI image generator featuring top models including Nano Banana 2 / Pro, Qwen-Image, Seedream 5.0 for high-fidelity images.",
+            "display_url": "raphael.app",
+            "end": 95,
+            "expanded_url": "https://raphael.app",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2124222927126319104/YvjGS8Mc?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124222927126319104/YvjGS8Mc?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 72,
+            "status": 200,
+            "title": "Raphael AI - Free Unlimited AI Image Generator",
+            "unwound_url": "https://raphael.app",
+            "url": "https://t.co/TIhlmaDBNd"
+          },
+          {
+            "display_url": "pic.x.com/lyds0LdLmG",
+            "end": 124,
+            "expanded_url": "https://x.com/bourneliu66/status/1993924978442686813/photo/1",
+            "media_key": "3_1993924522123382787",
+            "start": 101,
+            "url": "https://t.co/lyds0LdLmG"
+          },
+          {
+            "display_url": "pic.x.com/lyds0LdLmG",
+            "end": 124,
+            "expanded_url": "https://x.com/bourneliu66/status/1993924978442686813/photo/2",
+            "media_key": "3_1993924771046936577",
+            "start": 101,
+            "url": "https://t.co/lyds0LdLmG"
+          }
+        ]
+      },
+      "id": "1993924978442686813",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 5995,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 3
+      },
+      "text": "有一个傻子，连首页文案都抄我的，一点创意都没有，最近宣布倒闭了，活不下去了。(图1）\n请认准正版Raphael ，永久免费、不限数量的AI生图 https://t.co/TIhlmaDBNd （图2） https://t.co/lyds0LdLmG",
+      "url": "https://x.com/bourneliu66/status/1993924978442686813"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1993373409829699925",
+      "created_at": "2025-11-25T17:37:10.000Z",
+      "edit_history_tweet_ids": [
+        "1993373409829699925"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "petmovie.ai",
+            "end": 61,
+            "expanded_url": "https://petmovie.ai",
+            "start": 38,
+            "unwound_url": "https://petmovie.ai",
+            "url": "https://t.co/lZvY1kbYS4"
+          },
+          {
+            "display_url": "x.com/larafu330/stat…",
+            "end": 128,
+            "expanded_url": "https://twitter.com/larafu330/status/1993372926973030462",
+            "start": 105,
+            "url": "https://t.co/eglcgQH9jW"
+          }
+        ]
+      },
+      "id": "1993373409829699925",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 138,
+        "impression_count": 30427,
+        "like_count": 123,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "1993372926973030462",
+          "type": "quoted"
+        }
+      ],
+      "text": "这是我一个学生的产品，可以上传你的宠物照片，生成宠物电影，挺有意思的，网址是https://t.co/lZvY1kbYS4。\n值得一提的是： 她从完全零编程基础、到能做出完整的产品，一共只花了不到两个月时间。 https://t.co/eglcgQH9jW",
+      "url": "https://x.com/bourneliu66/status/1993373409829699925"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1992987739047026688",
+          "3_1992987777538158592",
+          "3_1992987792515993600",
+          "3_1992987810182434817"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1992988026025410719",
+      "created_at": "2025-11-24T16:05:47.000Z",
+      "edit_history_tweet_ids": [
+        "1992988026025410719"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "morisot.ai",
+            "end": 271,
+            "expanded_url": "https://morisot.ai",
+            "start": 248,
+            "unwound_url": "https://morisot.ai",
+            "url": "https://t.co/Agi3LyKXfR"
+          },
+          {
+            "display_url": "pic.x.com/NYUyzuqvJP",
+            "end": 295,
+            "expanded_url": "https://x.com/bourneliu66/status/1992988026025410719/photo/1",
+            "media_key": "3_1992987739047026688",
+            "start": 272,
+            "url": "https://t.co/NYUyzuqvJP"
+          },
+          {
+            "display_url": "pic.x.com/NYUyzuqvJP",
+            "end": 295,
+            "expanded_url": "https://x.com/bourneliu66/status/1992988026025410719/photo/2",
+            "media_key": "3_1992987777538158592",
+            "start": 272,
+            "url": "https://t.co/NYUyzuqvJP"
+          },
+          {
+            "display_url": "pic.x.com/NYUyzuqvJP",
+            "end": 295,
+            "expanded_url": "https://x.com/bourneliu66/status/1992988026025410719/photo/3",
+            "media_key": "3_1992987792515993600",
+            "start": 272,
+            "url": "https://t.co/NYUyzuqvJP"
+          },
+          {
+            "display_url": "pic.x.com/NYUyzuqvJP",
+            "end": 295,
+            "expanded_url": "https://x.com/bourneliu66/status/1992988026025410719/photo/4",
+            "media_key": "3_1992987810182434817",
+            "start": 272,
+            "url": "https://t.co/NYUyzuqvJP"
+          }
+        ]
+      },
+      "id": "1992988026025410719",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 4386,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "Most AI art tools are built for people who can write perfect prompts.\n\nMorisot is for the rest of us.\n\nIf you kinda know what you want but can’t put it into words, Morisot lets you: say it vaguely → see many options → pick one → tweak it.\n\nTry it: https://t.co/Agi3LyKXfR https://t.co/NYUyzuqvJP",
+      "url": "https://x.com/bourneliu66/status/1992988026025410719"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1992872937423245312"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1992873049931371004",
+      "created_at": "2025-11-24T08:28:55.000Z",
+      "edit_history_tweet_ids": [
+        "1992873049931371004"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "morisot.ai",
+            "end": 38,
+            "expanded_url": "https://morisot.ai",
+            "start": 15,
+            "unwound_url": "https://morisot.ai",
+            "url": "https://t.co/Agi3LyKXfR"
+          },
+          {
+            "display_url": "pic.x.com/aKMNFOiqXu",
+            "end": 87,
+            "expanded_url": "https://x.com/bourneliu66/status/1992873049931371004/photo/1",
+            "media_key": "3_1992872937423245312",
+            "start": 64,
+            "url": "https://t.co/aKMNFOiqXu"
+          }
+        ]
+      },
+      "id": "1992873049931371004",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 11845,
+        "like_count": 25,
+        "quote_count": 1,
+        "reply_count": 23,
+        "retweet_count": 0
+      },
+      "text": "刚做了个新产品Morisot https://t.co/Agi3LyKXfR ，一瞬间又被人开始抢注各种相关域名 😂 这... https://t.co/aKMNFOiqXu",
+      "url": "https://x.com/bourneliu66/status/1992873049931371004"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1992279802590683137",
+          "3_1992280307152879616",
+          "3_1992280892082098176",
+          "3_1992281424083484672"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1992281675422904755",
+      "created_at": "2025-11-22T17:19:00.000Z",
+      "edit_history_tweet_ids": [
+        "1992281675422904755"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 170,
+            "start": 158,
+            "tag": "Antigravity"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/bs7XvPYBVQ",
+            "end": 194,
+            "expanded_url": "https://x.com/bourneliu66/status/1992281675422904755/photo/1",
+            "media_key": "3_1992279802590683137",
+            "start": 171,
+            "url": "https://t.co/bs7XvPYBVQ"
+          },
+          {
+            "display_url": "pic.x.com/bs7XvPYBVQ",
+            "end": 194,
+            "expanded_url": "https://x.com/bourneliu66/status/1992281675422904755/photo/2",
+            "media_key": "3_1992280307152879616",
+            "start": 171,
+            "url": "https://t.co/bs7XvPYBVQ"
+          },
+          {
+            "display_url": "pic.x.com/bs7XvPYBVQ",
+            "end": 194,
+            "expanded_url": "https://x.com/bourneliu66/status/1992281675422904755/photo/3",
+            "media_key": "3_1992280892082098176",
+            "start": 171,
+            "url": "https://t.co/bs7XvPYBVQ"
+          },
+          {
+            "display_url": "pic.x.com/bs7XvPYBVQ",
+            "end": 194,
+            "expanded_url": "https://x.com/bourneliu66/status/1992281675422904755/photo/4",
+            "media_key": "3_1992281424083484672",
+            "start": 171,
+            "url": "https://t.co/bs7XvPYBVQ"
+          }
+        ]
+      },
+      "id": "1992281675422904755",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 170,
+              "start": 158,
+              "tag": "Antigravity"
+            }
+          ]
+        },
+        "text": "除了免费以外，Google Antigravity 还有一个比 Cursor / Windsurf / Trae 都更爽的点——\n\n它能直接调用 Nano Banana Pro 画图。\n\n做网站配图、Logo、示意图，不用切工具、不用去找灵感，写两句话就能出一整套图。\n\n真正做到：写代码的地方，就是做设计的地方。\n#Antigravity"
+      },
+      "public_metrics": {
+        "bookmark_count": 142,
+        "impression_count": 27794,
+        "like_count": 153,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 15
+      },
+      "text": "除了免费以外，Google Antigravity 还有一个比 Cursor / Windsurf / Trae 都更爽的点——\n\n它能直接调用 Nano Banana Pro 画图。\n\n做网站配图、Logo、示意图，不用切工具、不用去找灵感，写两句话就能出一整套图。\n\n真正做到：写代码的地方，就是做设计的地方。\n#Antigravity https://t.co/bs7XvPYBVQ",
+      "url": "https://x.com/bourneliu66/status/1992281675422904755"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1992111675047375055",
+      "created_at": "2025-11-22T06:03:29.000Z",
+      "edit_history_tweet_ids": [
+        "1992111675047375055"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/bourneliu66/st…",
+            "end": 33,
+            "expanded_url": "https://twitter.com/bourneliu66/status/1991747444112298492",
+            "start": 10,
+            "url": "https://t.co/mcKnzWkRvv"
+          }
+        ]
+      },
+      "id": "1992111675047375055",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9381,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1991747444112298492",
+          "type": "quoted"
+        }
+      ],
+      "text": "这是假的，我被骗了 https://t.co/mcKnzWkRvv",
+      "url": "https://x.com/bourneliu66/status/1992111675047375055"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1991790181977038848"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1991790317918658705",
+      "created_at": "2025-11-21T08:46:32.000Z",
+      "edit_history_tweet_ids": [
+        "1991790317918658705"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "evolink.ai/models/google/…",
+            "end": 61,
+            "expanded_url": "https://evolink.ai/models/google/nano-banana-2",
+            "start": 38,
+            "status": 404,
+            "unwound_url": "https://evolink.ai/models/google/nano-banana-2",
+            "url": "https://t.co/bSfaCNIDnu"
+          },
+          {
+            "display_url": "pic.x.com/cEeueMPsL6",
+            "end": 85,
+            "expanded_url": "https://x.com/bourneliu66/status/1991790317918658705/photo/1",
+            "media_key": "3_1991790181977038848",
+            "start": 62,
+            "url": "https://t.co/cEeueMPsL6"
+          }
+        ]
+      },
+      "id": "1991790317918658705",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 7159,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "text": "Nano Banana 2强得不像话啊。\n\n想要便宜且稳定的API可以看这里https://t.co/bSfaCNIDnu https://t.co/cEeueMPsL6",
+      "url": "https://x.com/bourneliu66/status/1991790317918658705"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1991747054608232448"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1991747444112298492",
+      "created_at": "2025-11-21T05:56:10.000Z",
+      "edit_history_tweet_ids": [
+        "1991747444112298492"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/4iX8dpWsTQ",
+            "end": 142,
+            "expanded_url": "https://x.com/bourneliu66/status/1991747444112298492/photo/1",
+            "media_key": "3_1991747054608232448",
+            "start": 119,
+            "url": "https://t.co/4iX8dpWsTQ"
+          }
+        ]
+      },
+      "id": "1991747444112298492",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 140,
+        "impression_count": 366382,
+        "like_count": 395,
+        "quote_count": 69,
+        "reply_count": 61,
+        "retweet_count": 37
+      },
+      "text": "Claude Opus 4.5 来了！\n\n感谢Gemini 3 Pro，逼出来了GPT-5.1-Codex-Max\n感谢GPT-5.1-Codex-Max，逼出来了 Claude Opus 4.5\n感谢这个伟大的时代，创造产品越来越容易 https://t.co/4iX8dpWsTQ",
+      "url": "https://x.com/bourneliu66/status/1991747444112298492"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1991550965670183005",
+      "created_at": "2025-11-20T16:55:26.000Z",
+      "edit_history_tweet_ids": [
+        "1991550965670183005"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 224,
+            "start": 212,
+            "tag": "NanoBanana2"
+          },
+          {
+            "end": 231,
+            "start": 225,
+            "tag": "AIart"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "evolink.ai/models/google/…",
+            "end": 211,
+            "expanded_url": "https://evolink.ai/models/google/nano-banana-2",
+            "start": 188,
+            "status": 404,
+            "unwound_url": "https://evolink.ai/models/google/nano-banana-2",
+            "url": "https://t.co/bSfaCNIDnu"
+          },
+          {
+            "display_url": "x.com/evolinkai/stat…",
+            "end": 255,
+            "expanded_url": "https://twitter.com/evolinkai/status/1991550252386845156",
+            "start": 232,
+            "url": "https://t.co/cenN37Dw9a"
+          }
+        ]
+      },
+      "id": "1991550965670183005",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 224,
+              "start": 212,
+              "tag": "NanoBanana2"
+            },
+            {
+              "end": 231,
+              "start": 225,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "evolink.ai/models/google/…",
+              "end": 211,
+              "expanded_url": "https://evolink.ai/models/google/nano-banana-2",
+              "start": 188,
+              "url": "https://t.co/F7yPKLuQid"
+            }
+          ]
+        },
+        "text": "Nano Banana 2 API — as low as $0.029 per image. New users get free credits on signup. \nCreate jaw‑dropping visuals in seconds with the official API, no Photoshop. Build faster, save more. https://t.co/F7yPKLuQid\n#NanoBanana2 #AIart"
+      },
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 7280,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1991550252386845156",
+          "type": "quoted"
+        }
+      ],
+      "text": "Nano Banana 2 API — as low as $0.029 per image. New users get free credits on signup. \nCreate jaw‑dropping visuals in seconds with the official API, no Photoshop. Build faster, save more. https://t.co/bSfaCNIDnu\n#NanoBanana2 #AIart https://t.co/cenN37Dw9a",
+      "url": "https://x.com/bourneliu66/status/1991550965670183005"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1991389477814841344"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1991389552523768010",
+      "created_at": "2025-11-20T06:14:02.000Z",
+      "edit_history_tweet_ids": [
+        "1991389552523768010"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/yKMWHNn3xl",
+            "end": 44,
+            "expanded_url": "https://x.com/bourneliu66/status/1991389552523768010/photo/1",
+            "media_key": "3_1991389477814841344",
+            "start": 21,
+            "url": "https://t.co/yKMWHNn3xl"
+          }
+        ]
+      },
+      "id": "1991389552523768010",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2728,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "你的ChatGPT ，最长思考过几分钟？ https://t.co/yKMWHNn3xl",
+      "url": "https://x.com/bourneliu66/status/1991389552523768010"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1991373737971839047",
+      "created_at": "2025-11-20T05:11:11.000Z",
+      "edit_history_tweet_ids": [
+        "1991373627607162991",
+        "1991373699547820278",
+        "1991373737971839047"
+      ],
+      "id": "1991373737971839047",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 75,
+        "impression_count": 20564,
+        "like_count": 120,
+        "quote_count": 2,
+        "reply_count": 6,
+        "retweet_count": 12
+      },
+      "text": "As of Nov 19, 2025:\n\nUI → Gemini 3.0 Pro\nCode → GPT-5.1-Codex-Max\nPlan → GPT-5.1 Pro\n\nNothing else.\nFocus mode ON.",
+      "url": "https://x.com/bourneliu66/status/1991373737971839047"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1991174777042837504"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1991174923986030866",
+      "created_at": "2025-11-19T16:01:10.000Z",
+      "edit_history_tweet_ids": [
+        "1991174923986030866"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/J20polzOxvKo…",
+            "end": 85,
+            "expanded_url": "https://mp.weixin.qq.com/s/J20polzOxvKo7jYHKpfFrA",
+            "start": 62,
+            "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HPdCHmmjaTAOrGzvO2SXKdPulcKAD30nLj_q7fIq&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJ20polzOxvKo7jYHKpfFrA",
+            "url": "https://t.co/oDxctuZK1n"
+          },
+          {
+            "display_url": "pic.x.com/mKgJqaEtnY",
+            "end": 109,
+            "expanded_url": "https://x.com/bourneliu66/status/1991174923986030866/photo/1",
+            "media_key": "3_1991174777042837504",
+            "start": 86,
+            "url": "https://t.co/mKgJqaEtnY"
+          }
+        ]
+      },
+      "id": "1991174923986030866",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 10939,
+        "like_count": 20,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 3
+      },
+      "text": "Antigravity用着真爽，可惜就是限额太严重了。每5小时的窗口只能用1～2小时。好希望它早点出$200/月的套餐啊。\nhttps://t.co/oDxctuZK1n https://t.co/mKgJqaEtnY",
+      "url": "https://x.com/bourneliu66/status/1991174923986030866"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1991086296895533056"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1991086324858642681",
+      "created_at": "2025-11-19T10:09:07.000Z",
+      "edit_history_tweet_ids": [
+        "1991086324858642681"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/X1aHataDWf",
+            "end": 39,
+            "expanded_url": "https://x.com/bourneliu66/status/1991086324858642681/photo/1",
+            "media_key": "3_1991086296895533056",
+            "start": 16,
+            "url": "https://t.co/X1aHataDWf"
+          }
+        ]
+      },
+      "id": "1991086324858642681",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 59,
+        "impression_count": 66470,
+        "like_count": 416,
+        "quote_count": 3,
+        "reply_count": 40,
+        "retweet_count": 27
+      },
+      "text": "Gemini 3实在是太聪明了 https://t.co/X1aHataDWf",
+      "url": "https://x.com/bourneliu66/status/1991086324858642681"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_1990828320163049476"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1990828750402179417",
+      "created_at": "2025-11-18T17:05:36.000Z",
+      "edit_history_tweet_ids": [
+        "1990828750402179417"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/92V-R7qEfOzV…",
+            "end": 140,
+            "expanded_url": "https://mp.weixin.qq.com/s/92V-R7qEfOzV43i_LtOkMw",
+            "start": 117,
+            "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGGnHGmjceMIQNrvVqlH02Q8mc7WrnL85jCh56ev&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F92V-R7qEfOzV43i_LtOkMw",
+            "url": "https://t.co/leonxFtU5x"
+          },
+          {
+            "display_url": "pic.x.com/i2v4L4Yagt",
+            "end": 164,
+            "expanded_url": "https://x.com/bourneliu66/status/1990828750402179417/video/1",
+            "media_key": "13_1990828320163049476",
+            "start": 141,
+            "url": "https://t.co/i2v4L4Yagt"
+          }
+        ]
+      },
+      "id": "1990828750402179417",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/92V-R7qEfOzV…",
+              "end": 140,
+              "expanded_url": "https://mp.weixin.qq.com/s/92V-R7qEfOzV43i_LtOkMw",
+              "start": 117,
+              "url": "https://t.co/ItZi3N1eN5"
+            }
+          ]
+        },
+        "text": "Gemini 3 Pro 实在是太强了！\n\n你们看这个视频，我的Prompt只不过是让它复刻一个Mac OS而已，复刻的也太好了吧！\n\n这只是一个基于react的网页而已啊！\n\n天呐！！\n\n我的预期已经很高了，它仍然超过了我的预期！\nhttps://t.co/ItZi3N1eN5"
+      },
+      "public_metrics": {
+        "bookmark_count": 186,
+        "impression_count": 61713,
+        "like_count": 320,
+        "quote_count": 2,
+        "reply_count": 9,
+        "retweet_count": 21
+      },
+      "text": "Gemini 3 Pro 实在是太强了！\n\n你们看这个视频，我的Prompt只不过是让它复刻一个Mac OS而已，复刻的也太好了吧！\n\n这只是一个基于react的网页而已啊！\n\n天呐！！\n\n我的预期已经很高了，它仍然超过了我的预期！\nhttps://t.co/leonxFtU5x https://t.co/i2v4L4Yagt",
+      "url": "https://x.com/bourneliu66/status/1990828750402179417"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1990802463562342400"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1990802556965314938",
+      "created_at": "2025-11-18T15:21:31.000Z",
+      "edit_history_tweet_ids": [
+        "1990802556965314938"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "The fastest path from prompt to production with Gemini",
+            "display_url": "aistudio.google.com",
+            "end": 59,
+            "expanded_url": "https://aistudio.google.com/",
+            "start": 36,
+            "status": 200,
+            "title": "Google AI Studio",
+            "unwound_url": "https://aistudio.google.com/welcome",
+            "url": "https://t.co/2uNGXYMH93"
+          },
+          {
+            "display_url": "pic.x.com/xu3KnYIMPU",
+            "end": 90,
+            "expanded_url": "https://x.com/bourneliu66/status/1990802556965314938/photo/1",
+            "media_key": "3_1990802463562342400",
+            "start": 67,
+            "url": "https://t.co/xu3KnYIMPU"
+          }
+        ]
+      },
+      "id": "1990802556965314938",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 4623,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Google AI Studio已经可以使用Gemini 3 Pro!\nhttps://t.co/2uNGXYMH93 赶快玩玩去！ https://t.co/xu3KnYIMPU",
+      "url": "https://x.com/bourneliu66/status/1990802556965314938"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1990754458024943616"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1990754477717196902",
+      "created_at": "2025-11-18T12:10:28.000Z",
+      "edit_history_tweet_ids": [
+        "1990754477717196902"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/eOAwiYrivB",
+            "end": 83,
+            "expanded_url": "https://x.com/bourneliu66/status/1990754477717196902/photo/1",
+            "media_key": "3_1990754458024943616",
+            "start": 60,
+            "url": "https://t.co/eOAwiYrivB"
+          }
+        ]
+      },
+      "id": "1990754477717196902",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 6439,
+        "like_count": 22,
+        "quote_count": 2,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "text": "全球性大事故：Cloudflare挂了！ 我们会发现，一大批网站突然都访问不了了。\n不要惊慌，就当成放假，好好休息吧。 https://t.co/eOAwiYrivB",
+      "url": "https://x.com/bourneliu66/status/1990754477717196902"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1989910558116843719",
+      "created_at": "2025-11-16T04:17:02.000Z",
+      "edit_history_tweet_ids": [
+        "1989910558116843719"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/59a27eqGa8RC…",
+            "end": 158,
+            "expanded_url": "https://mp.weixin.qq.com/s/59a27eqGa8RCWFfU-CPTqA",
+            "start": 135,
+            "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEBQGWmj5oHt_unP1kR_3dK1_v5wP1zqaLaGOOad&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F59a27eqGa8RCWFfU-CPTqA",
+            "url": "https://t.co/fr0kV3PEET"
+          }
+        ]
+      },
+      "id": "1989910558116843719",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/59a27eqGa8RC…",
+              "end": 158,
+              "expanded_url": "https://mp.weixin.qq.com/s/59a27eqGa8RCWFfU-CPTqA",
+              "start": 135,
+              "url": "https://t.co/DdXHteOZo3"
+            }
+          ]
+        },
+        "text": "放弃Claude Code，就在今天！！！\n\nCodex新发布的GPT-5.1-Codex模型，带来了三大提升\n\n1. 写代码能力更强，远胜Claude Sonnet 4.5\n2. 速度变快了。（因为会每次动态决定思考时间长短）\n3. 说话更像人、更好理解了\n\n详情见 https://t.co/DdXHteOZo3"
+      },
+      "public_metrics": {
+        "bookmark_count": 111,
+        "impression_count": 53400,
+        "like_count": 161,
+        "quote_count": 4,
+        "reply_count": 16,
+        "retweet_count": 15
+      },
+      "text": "放弃Claude Code，就在今天！！！\n\nCodex新发布的GPT-5.1-Codex模型，带来了三大提升\n\n1. 写代码能力更强，远胜Claude Sonnet 4.5\n2. 速度变快了。（因为会每次动态决定思考时间长短）\n3. 说话更像人、更好理解了\n\n详情见 https://t.co/fr0kV3PEET",
+      "url": "https://x.com/bourneliu66/status/1989910558116843719"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1989634013913649154"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1989634031940767945",
+      "created_at": "2025-11-15T09:58:13.000Z",
+      "edit_history_tweet_ids": [
+        "1989634031940767945"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/yCaNGcjEQD",
+            "end": 31,
+            "expanded_url": "https://x.com/bourneliu66/status/1989634031940767945/photo/1",
+            "media_key": "3_1989634013913649154",
+            "start": 8,
+            "url": "https://t.co/yCaNGcjEQD"
+          }
+        ]
+      },
+      "id": "1989634031940767945",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4238,
+        "like_count": 12,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "text": "人间多美好啊～ https://t.co/yCaNGcjEQD",
+      "url": "https://x.com/bourneliu66/status/1989634031940767945"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1989194607016701955"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1989194617057849515",
+      "created_at": "2025-11-14T04:52:08.000Z",
+      "edit_history_tweet_ids": [
+        "1989194617057849515"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/pbPdtMew8V",
+            "end": 52,
+            "expanded_url": "https://x.com/bourneliu66/status/1989194617057849515/photo/1",
+            "media_key": "3_1989194607016701955",
+            "start": 29,
+            "url": "https://t.co/pbPdtMew8V"
+          }
+        ]
+      },
+      "id": "1989194617057849515",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 57,
+        "impression_count": 36884,
+        "like_count": 45,
+        "quote_count": 8,
+        "reply_count": 14,
+        "retweet_count": 2
+      },
+      "text": "大陆的朋友们，请不要再用大陆护照去注册香港Stripe了 https://t.co/pbPdtMew8V",
+      "url": "https://x.com/bourneliu66/status/1989194617057849515"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1988302380895793153"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1988302623100071998",
+      "created_at": "2025-11-11T17:47:40.000Z",
+      "edit_history_tweet_ids": [
+        "1988302520637391310",
+        "1988302623100071998"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/aU2HHCOh9ljp…",
+            "end": 92,
+            "expanded_url": "https://mp.weixin.qq.com/s/aU2HHCOh9ljpujRHdT8WcQ",
+            "start": 69,
+            "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HL12E2mjLKreg8xVYqx-ZwVrC_FE8AGB3U9nwGSy&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaU2HHCOh9ljpujRHdT8WcQ",
+            "url": "https://t.co/Bf4D7309OS"
+          },
+          {
+            "display_url": "pic.x.com/iPa0zRoWYM",
+            "end": 116,
+            "expanded_url": "https://x.com/bourneliu66/status/1988302623100071998/photo/1",
+            "media_key": "3_1988302380895793153",
+            "start": 93,
+            "url": "https://t.co/iPa0zRoWYM"
+          }
+        ]
+      },
+      "id": "1988302623100071998",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 3916,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "已知，在A和B两个城市之间有三条路径，你的任务是尽快从A走到B，每条路都是平坦的。如图所示。\n\n请问你选择哪条路？\n\n一些最近创业的反思：https://t.co/Bf4D7309OS https://t.co/iPa0zRoWYM",
+      "url": "https://x.com/bourneliu66/status/1988302623100071998"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1988082924995133440"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1988082927457251708",
+      "created_at": "2025-11-11T03:14:41.000Z",
+      "edit_history_tweet_ids": [
+        "1988082927457251708"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/e0IGojsBU2",
+            "end": 51,
+            "expanded_url": "https://x.com/bourneliu66/status/1988082927457251708/photo/1",
+            "media_key": "3_1988082924995133440",
+            "start": 28,
+            "url": "https://t.co/e0IGojsBU2"
+          }
+        ]
+      },
+      "id": "1988082927457251708",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 208,
+        "impression_count": 87610,
+        "like_count": 459,
+        "quote_count": 3,
+        "reply_count": 26,
+        "retweet_count": 43
+      },
+      "text": "Nano Banana 2太恐怖了！\n（小互给我的图） https://t.co/e0IGojsBU2",
+      "url": "https://x.com/bourneliu66/status/1988082927457251708"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_1994259906233552896",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60I0ZTa0AA2jm1.jpg",
+        "width": 3420
+      },
+      {
+        "height": 1968,
+        "media_key": "3_1993924522123382787",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vXyeIa0AM11ks.jpg",
+        "width": 2824
+      },
+      {
+        "height": 1648,
+        "media_key": "3_1993924771046936577",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vYA9ca0AEi5uO.jpg",
+        "width": 2630
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1992987739047026688",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iDyhObYAA8HZx.jpg",
+        "width": 3390
+      },
+      {
+        "height": 668,
+        "media_key": "3_1992987777538158592",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iD0wnbcAA7crV.jpg",
+        "width": 1280
+      },
+      {
+        "height": 665,
+        "media_key": "3_1992987792515993600",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iD1oabEAAiBO1.jpg",
+        "width": 1280
+      },
+      {
+        "height": 661,
+        "media_key": "3_1992987810182434817",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iD2qObkAEwG28.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1082,
+        "media_key": "3_1992872937423245312",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gbYL2aEAAm_kb.jpg",
+        "width": 2492
+      },
+      {
+        "height": 1992,
+        "media_key": "3_1992279802590683137",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6X_7MaaYAEZaPm.jpg",
+        "width": 3420
+      },
+      {
+        "height": 1532,
+        "media_key": "3_1992280307152879616",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YAYkDagAA_QFn.jpg",
+        "width": 3238
+      },
+      {
+        "height": 1592,
+        "media_key": "3_1992280892082098176",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YA6nFaEAAIwVY.jpg",
+        "width": 2826
+      },
+      {
+        "height": 1168,
+        "media_key": "3_1992281424083484672",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YBZk8bAAARGaM.jpg",
+        "width": 1490
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1991790181977038848",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RCnhfaIAAOC22.jpg",
+        "width": 2816
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1991747054608232448",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QbZLhasAAYGz0.jpg",
+        "width": 1024
+      },
+      {
+        "height": 404,
+        "media_key": "3_1991389477814841344",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LWLeKasAAkz8S.jpg",
+        "width": 1066
+      },
+      {
+        "height": 482,
+        "media_key": "3_1991174777042837504",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6IS6PdbIAAPU19.jpg",
+        "width": 1028
+      },
+      {
+        "height": 1162,
+        "media_key": "3_1991086296895533056",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6HCcBObMAAJdIK.jpg",
+        "width": 1034
+      },
+      {
+        "height": 1420,
+        "media_key": "13_1990828320163049476",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990828320163049476/img/MUkUis0jh5PlAsvD.jpg",
+        "type": "video",
+        "width": 2808
+      },
+      {
+        "height": 812,
+        "media_key": "3_1990802463562342400",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DASvqbIAA3hOB.jpg",
+        "width": 1710
+      },
+      {
+        "height": 1190,
+        "media_key": "3_1990754458024943616",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6CUodGaIAAZfav.jpg",
+        "width": 1674
+      },
+      {
+        "height": 588,
+        "media_key": "3_1989634013913649154",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yZmBhbkAIxaHk.jpg",
+        "width": 1804
+      },
+      {
+        "height": 1338,
+        "media_key": "3_1989194607016701955",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sJ9LRacAMJYhg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 409,
+        "media_key": "3_1988302380895793153",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5feex9bcAEPH1a.png",
+        "width": 846
+      },
+      {
+        "height": 810,
+        "media_key": "3_1988082924995133440",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cW4xBawAAEKJA.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1993371862253088768"
+          ]
+        },
+        "author_id": "1965353542098862080",
+        "conversation_id": "1993372926973030462",
+        "created_at": "2025-11-25T17:35:15.000Z",
+        "edit_history_tweet_ids": [
+          "1993372926973030462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 241,
+              "start": 232,
+              "tag": "PetMovie"
+            },
+            {
+              "end": 250,
+              "start": 242,
+              "tag": "AIvideo"
+            },
+            {
+              "end": 260,
+              "start": 251,
+              "tag": "Dogmovie"
+            },
+            {
+              "end": 272,
+              "start": 262,
+              "tag": "Christmas"
+            },
+            {
+              "end": 278,
+              "start": 273,
+              "tag": "Sora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "petmovie.ai",
+              "end": 193,
+              "expanded_url": "http://petmovie.ai",
+              "start": 170,
+              "unwound_url": "https://petmovie.ai/",
+              "url": "https://t.co/NmTGnVx22Q"
+            },
+            {
+              "display_url": "pic.x.com/57OY2qK3uO",
+              "end": 302,
+              "expanded_url": "https://x.com/larafu330/status/1993372926973030462/video/1",
+              "media_key": "13_1993371862253088768",
+              "start": 279,
+              "url": "https://t.co/57OY2qK3uO"
+            }
+          ]
+        },
+        "id": "1993372926973030462",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32867,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "text": "On Christmas Eve, a fire breaks out.Everyone escapes…except one brave little dog who runs back inside for the girl he loves. ❤️\nThis AI-generated mini-film was made with https://t.co/NmTGnVx22Q\n👉 Create your own Christmas pet movie.#PetMovie #AIvideo #Dogmovie  #Christmas #Sora https://t.co/57OY2qK3uO"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1991747054608232448"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "1991747444112298492",
+        "created_at": "2025-11-21T05:56:10.000Z",
+        "edit_history_tweet_ids": [
+          "1991747444112298492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4iX8dpWsTQ",
+              "end": 142,
+              "expanded_url": "https://x.com/bourneliu66/status/1991747444112298492/photo/1",
+              "media_key": "3_1991747054608232448",
+              "start": 119,
+              "url": "https://t.co/4iX8dpWsTQ"
+            }
+          ]
+        },
+        "id": "1991747444112298492",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 366382,
+          "like_count": 395,
+          "quote_count": 69,
+          "reply_count": 61,
+          "retweet_count": 37
+        },
+        "text": "Claude Opus 4.5 来了！\n\n感谢Gemini 3 Pro，逼出来了GPT-5.1-Codex-Max\n感谢GPT-5.1-Codex-Max，逼出来了 Claude Opus 4.5\n感谢这个伟大的时代，创造产品越来越容易 https://t.co/4iX8dpWsTQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1991539736113246208",
+            "3_1991546240019116032",
+            "3_1991546240010711040",
+            "3_1991546240023293959"
+          ]
+        },
+        "author_id": "1891079030562226176",
+        "conversation_id": "1991550252386845156",
+        "created_at": "2025-11-20T16:52:36.000Z",
+        "edit_history_tweet_ids": [
+          "1991550252386845156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 249,
+              "start": 237,
+              "tag": "NanoBanana2"
+            },
+            {
+              "end": 264,
+              "start": 250,
+              "tag": "NanoBananaPro"
+            },
+            {
+              "end": 271,
+              "start": 265,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Access GPT, Claude, Gemini, Seedance, Kling & more via one EvoLink API. Get production-ready, cost-efficient access across LLM, image, and video models.",
+              "display_url": "evolink.ai",
+              "end": 221,
+              "expanded_url": "http://evolink.ai",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/2118642229426495489/r9RbvaS1?format=jpg&name=orig",
+                  "width": 2396
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2118642229426495489/r9RbvaS1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 198,
+              "status": 200,
+              "title": "AI Model APIs for Production Apps, Agents & Workflows | EvoLink",
+              "unwound_url": "https://evolink.ai/",
+              "url": "https://t.co/RrhSQIl019"
+            },
+            {
+              "display_url": "pic.x.com/Umb27JPqhO",
+              "end": 295,
+              "expanded_url": "https://x.com/evolinkai/status/1991550252386845156/photo/1",
+              "media_key": "3_1991539736113246208",
+              "start": 272,
+              "url": "https://t.co/Umb27JPqhO"
+            },
+            {
+              "display_url": "pic.x.com/Umb27JPqhO",
+              "end": 295,
+              "expanded_url": "https://x.com/evolinkai/status/1991550252386845156/photo/2",
+              "media_key": "3_1991546240019116032",
+              "start": 272,
+              "url": "https://t.co/Umb27JPqhO"
+            },
+            {
+              "display_url": "pic.x.com/Umb27JPqhO",
+              "end": 295,
+              "expanded_url": "https://x.com/evolinkai/status/1991550252386845156/photo/3",
+              "media_key": "3_1991546240010711040",
+              "start": 272,
+              "url": "https://t.co/Umb27JPqhO"
+            },
+            {
+              "display_url": "pic.x.com/Umb27JPqhO",
+              "end": 295,
+              "expanded_url": "https://x.com/evolinkai/status/1991550252386845156/photo/4",
+              "media_key": "3_1991546240023293959",
+              "start": 272,
+              "url": "https://t.co/Umb27JPqhO"
+            }
+          ]
+        },
+        "id": "1991550252386845156",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9084,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "Nano Banana 2 is melting my brain. Not a mockup.\n\nThese 4 images were made in ~15s via EvoLink using the official Nano Banana 2 API – zero Photoshop.\n\nWant the same for your app or just in browser?\nhttps://t.co/RrhSQIl019 (API + web UI)\n#NanoBanana2 #NanoBananaPro #AIart https://t.co/Umb27JPqhO"
+      }
+    ],
+    "users": [
+      {
+        "id": "2815325906",
+        "name": "刘小排",
+        "username": "bourneliu66"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1994260196747530726",
+    "next_token": "7140dibdnow9c7btw4e30ti6m84yvv31souhlv9lwzj94",
+    "oldest_id": "1988082927457251708",
+    "previous_token": "77qpymm88g5h9vqklv3ew6466ri4o9tzg8f7rx3rcdxdi",
+    "result_count": 22
+  }
+}

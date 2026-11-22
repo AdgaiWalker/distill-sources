@@ -1,0 +1,1700 @@
+/* 主题：水墨纸 ink / 海岸青 ocean / 像素暖沙 pixel
+ * 挂在 html[data-theme] 上，盖过 ui.css 里的深色硬编码。
+ * 只改配色与背景，不改首页路径结构。 */
+
+html[data-theme] {
+  color-scheme: light;
+  --ok: #15803d;
+  --danger: #b91c1c;
+  --boss: #dc2626;
+}
+
+html[data-theme="ink"] {
+  --bg: #fafaf8;
+  --panel: #ffffff;
+  --panel2: #f4f1ea;
+  --ink: #1c1917;
+  --muted: #57534e;
+  --line: #e7e5e4;
+  --gold: #1e3a5f;
+  --gold-text: #1e3a5f;
+  --cyan: #0f766e;
+  --cyan-hot: #115e59;
+  --tag-bg: #e8eef5;
+  --tag-fg: #1e3a5f;
+  --focus: #1e3a5f;
+  --shadow: 0 10px 28px rgba(28, 25, 23, 0.08);
+  --glass: rgba(255, 255, 255, 0.86);
+  --glass-line: rgba(28, 25, 23, 0.1);
+  --glow: 0 0 0 1px rgba(30, 58, 95, 0.16), 0 12px 28px rgba(28, 25, 23, 0.06);
+  --btn-bg: #1e3a5f;
+  --btn-bg-hover: #16304f;
+  --btn-fg: #fafaf8;
+  --btn-shadow: 0 8px 20px rgba(30, 58, 95, 0.16);
+  --btn-shadow-hover: 0 12px 26px rgba(30, 58, 95, 0.22);
+  --hero-bg: transparent;
+  --theme-color: #fafaf8;
+}
+
+html[data-theme="ocean"] {
+  --bg: #e0f2fe;
+  --panel: rgba(255, 255, 255, 0.92);
+  --panel2: rgba(255, 255, 255, 0.74);
+  --ink: #0c4a6e;
+  --muted: #0369a1;
+  --line: #bae6fd;
+  --gold: #0891b2;
+  --gold-text: #0e7490;
+  --cyan: #0891b2;
+  --cyan-hot: #0e7490;
+  --ok: #0f766e;
+  --tag-bg: #cffafe;
+  --tag-fg: #155e75;
+  --focus: #0891b2;
+  --shadow: 0 10px 28px rgba(14, 116, 144, 0.12);
+  --glass: rgba(255, 255, 255, 0.78);
+  --glass-line: rgba(8, 145, 178, 0.22);
+  --glow: 0 0 0 1px rgba(8, 145, 178, 0.28), 0 12px 28px rgba(14, 116, 144, 0.12);
+  --btn-bg: #0891b2;
+  --btn-bg-hover: #0e7490;
+  --btn-fg: #f0fdfa;
+  --btn-shadow: 0 8px 20px rgba(8, 145, 178, 0.28);
+  --btn-shadow-hover: 0 12px 26px rgba(14, 116, 144, 0.34);
+  --hero-bg: transparent;
+  --theme-color: #e0f2fe;
+}
+
+html[data-theme="pixel"] {
+  --bg: #f5f0e6;
+  --panel: #fffdf8;
+  --panel2: #f3eadb;
+  --ink: #3f2e22;
+  --muted: #7c6a58;
+  --line: #e6d7c3;
+  --gold: #0284c7;
+  --gold-text: #0369a1;
+  --cyan: #db2777;
+  --cyan-hot: #be185d;
+  --tag-bg: #fce7f3;
+  --tag-fg: #9d174d;
+  --focus: #0284c7;
+  --shadow: 4px 4px 0 rgba(63, 46, 34, 0.08);
+  --glass: rgba(255, 253, 248, 0.92);
+  --glass-line: rgba(63, 46, 34, 0.14);
+  --glow: 3px 3px 0 rgba(244, 114, 182, 0.45);
+  --btn-bg: linear-gradient(180deg, #7dd3fc 0%, #38bdf8 100%);
+  --btn-bg-hover: linear-gradient(180deg, #bae6fd 0%, #7dd3fc 100%);
+  --btn-fg: #1c1917;
+  --btn-shadow: 3px 3px 0 #f9a8d4;
+  --btn-shadow-hover: 4px 4px 0 #f472b6;
+  --hero-bg: transparent;
+  --theme-color: #f5f0e6;
+}
+
+/* ---------- 页面底：去掉夜景灯塔 ---------- */
+html[data-theme] .page-bg,
+html[data-theme] body.is-home .page-bg {
+  filter: none;
+  background: var(--bg);
+}
+html[data-theme] .hero,
+html[data-theme] body.is-home .hero.hero-home {
+  background: var(--hero-bg);
+  background-image: none;
+}
+
+html[data-theme="ink"] .page-bg,
+html[data-theme="ink"] body.is-home .page-bg {
+  background-color: #fafaf8;
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 220'%3E%3Cpath fill='%231e3a5f' fill-opacity='.06' d='M0 148l72-30 58 20 92-64 78 50 74-56 88 42 78-30 92 38 168-22v124H0z'/%3E%3Cpath fill='%231e3a5f' fill-opacity='.045' d='M0 176l108-24 84 18 102-42 92 30 116-26 112 22 186-18v84H0z'/%3E%3Ccircle cx='618' cy='40' r='18' fill='%231e3a5f' fill-opacity='.05'/%3E%3C/svg%3E"),
+    linear-gradient(180deg, #fafaf8 0%, #f6f3ec 100%);
+  background-repeat: no-repeat, no-repeat;
+  background-position: right bottom, center;
+  background-size: min(920px, 92vw) auto, cover;
+}
+html[data-theme="ocean"] .page-bg,
+html[data-theme="ocean"] body.is-home .page-bg {
+  background:
+    radial-gradient(120% 70% at 50% 120%, rgba(8, 145, 178, 0.18), transparent 56%),
+    radial-gradient(70% 42% at 100% 0%, rgba(255, 255, 255, 0.75), transparent 52%),
+    linear-gradient(180deg, #f0f9ff 0%, #e0f2fe 48%, #cffafe 100%);
+}
+html[data-theme="pixel"] .page-bg,
+html[data-theme="pixel"] body.is-home .page-bg {
+  background-color: #f5f0e6;
+  background-image:
+    linear-gradient(#7dd3fc, #7dd3fc),
+    linear-gradient(#f9a8d4, #f9a8d4),
+    linear-gradient(#38bdf8, #38bdf8),
+    linear-gradient(#fbcfe8, #fbcfe8),
+    linear-gradient(rgba(63, 46, 34, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(63, 46, 34, 0.05) 1px, transparent 1px);
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, repeat, repeat;
+  background-position: 7% 18%, 12% 24%, 92% 14%, 86% 22%, 0 0, 0 0;
+  background-size: 10px 10px, 6px 6px, 8px 8px, 5px 5px, 16px 16px, 16px 16px;
+}
+
+/* ---------- 文字：浅色底上不再用白字 ---------- */
+html[data-theme] .hero-title,
+html[data-theme] .hero-home .hero-title,
+html[data-theme] body.is-home .hero.hero-home h1.hero-title,
+html[data-theme] .sec-head h2,
+html[data-theme] .sec-head h3,
+html[data-theme] body.is-home .home-band .sec-head h2,
+html[data-theme] body.is-home .home-rank-head h2,
+html[data-theme] .step b,
+html[data-theme] .faq summary,
+html[data-theme] #home-faq .faq summary,
+html[data-theme] .game-header h1,
+html[data-theme] .panel-head h2,
+html[data-theme] .sh-title,
+html[data-theme] .block-title,
+html[data-theme] .island-name,
+html[data-theme] .war-station-title,
+html[data-theme] .channel-cat-title,
+html[data-theme] .guide,
+html[data-theme] .md,
+html[data-theme] .md h2,
+html[data-theme] .md h3,
+html[data-theme] .md h4,
+html[data-theme] .md h5,
+html[data-theme] .me-lv b,
+html[data-theme] .stat b,
+html[data-theme] .ach-card h3,
+html[data-theme] .ship-card h3,
+html[data-theme] .gc-body b,
+html[data-theme] .kw-name,
+html[data-theme] .site-head h3,
+html[data-theme] .rank-title h3,
+html[data-theme] .home-path-side h2,
+html[data-theme] .hero-top3-head h2,
+html[data-theme] .home-next-title,
+html[data-theme] .home-next-title b,
+html[data-theme] .home-rank-name-text,
+html[data-theme] .empty-illo b,
+html[data-theme] .foot-cols h4,
+html[data-theme] .foot-brand b,
+html[data-theme] .strip-item,
+html[data-theme] .sub-tab,
+html[data-theme] .home-more > summary {
+  color: var(--ink);
+  text-shadow: none;
+}
+
+html[data-theme] .hero-sub,
+html[data-theme] .hero-home .hero-sub,
+html[data-theme] body.is-home .hero.hero-home .hero-sub,
+html[data-theme] .hero-kicker,
+html[data-theme] .hero-home .hero-kicker,
+html[data-theme] .sec-head p,
+html[data-theme] .step span:last-child,
+html[data-theme] .feat-card span:last-child,
+html[data-theme] .snap-item span,
+html[data-theme] .snap-note,
+html[data-theme] .snap-empty p,
+html[data-theme] .faq p,
+html[data-theme] #home-faq .faq p,
+html[data-theme] .foot-brand span,
+html[data-theme] .foot-note,
+html[data-theme] .foot-desc,
+html[data-theme] .foot-cols a,
+html[data-theme] #foot-tour,
+html[data-theme] .foot-replay-note,
+html[data-theme] .crumbs,
+html[data-theme] .crumbs a,
+html[data-theme] .sh-desc,
+html[data-theme] .block-sub,
+html[data-theme] .panel-sub,
+html[data-theme] .empty-state,
+html[data-theme] .empty,
+html[data-theme] .hint,
+html[data-theme] .empty-illo,
+html[data-theme] .empty-illo p,
+html[data-theme] .home-path-why,
+html[data-theme] body.is-home .home-rank-head p,
+html[data-theme] .nav-item-text small,
+html[data-theme] .peer-steal,
+html[data-theme] .peer-caveat,
+html[data-theme] .gc-body span,
+html[data-theme] .res-search-label,
+html[data-theme] .fld span,
+html[data-theme] .tool-privacy,
+html[data-theme] .doc-toc a,
+html[data-theme] .doc-meta,
+html[data-theme] .setting-row small,
+html[data-theme] .me-lv small,
+html[data-theme] .stat small,
+html[data-theme] .ach-desc,
+html[data-theme] .sitemap-lead {
+  color: var(--muted);
+}
+
+html[data-theme] .home-path-kicker,
+html[data-theme] .hero-top3-date,
+html[data-theme] .home-next-why,
+html[data-theme] body.is-home .home-rank-head time,
+html[data-theme] .qs-label,
+html[data-theme] .qs-published,
+html[data-theme] .feat-card b,
+html[data-theme] body.is-home .home-howto b {
+  color: var(--gold-text);
+}
+html[data-theme] .home-path-title,
+html[data-theme] .hero-top3-more,
+html[data-theme] .hero-top3-empty a {
+  color: var(--cyan);
+}
+html[data-theme] .hero-top3-more:hover,
+html[data-theme] .hero-steps a:hover {
+  color: var(--cyan-hot);
+}
+html[data-theme] body.is-home .home-band .sec-head h2 .ico,
+html[data-theme] body.is-home .home-rank-head h2 .ico {
+  color: var(--gold);
+}
+
+/* ---------- 顶栏 / 菜单 / 底栏 ---------- */
+html[data-theme] .site-nav,
+html[data-theme] body.nav-condensed .site-nav {
+  background: color-mix(in srgb, var(--panel) 88%, var(--bg));
+  border-bottom: 1px solid var(--line);
+  box-shadow: 0 1px 0 var(--line);
+}
+html[data-theme] .site-links a,
+html[data-theme] .site-links a.nav-top,
+html[data-theme] .nav-caret {
+  color: var(--ink);
+}
+/* 无下拉的顶栏项：悬停/选中仍是单颗胶囊 */
+html[data-theme] .site-links > a:hover,
+html[data-theme] .site-links > a.active,
+html[data-theme] .site-links > a.nav-top.active {
+  background: color-mix(in srgb, var(--gold) 12%, transparent);
+  color: var(--gold-text);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--gold) 40%, transparent);
+}
+/* 学习/实施/赚钱：整颗 .nav-drop 画胶囊，子链与箭头不再各自描边 */
+html[data-theme] .nav-drop:not(.nav-mine):not(.nav-theme):hover {
+  background: color-mix(in srgb, var(--gold) 10%, transparent);
+  color: var(--gold-text);
+}
+html[data-theme] .nav-drop:not(.nav-mine):not(.nav-theme).is-active,
+html[data-theme] .nav-drop:not(.nav-mine):not(.nav-theme).is-open {
+  background: color-mix(in srgb, var(--gold) 12%, transparent);
+  color: var(--gold-text);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--gold) 40%, transparent);
+}
+html[data-theme] .site-links .nav-drop:not(.nav-mine):not(.nav-theme) > a.nav-top,
+html[data-theme] .site-links .nav-drop:not(.nav-mine):not(.nav-theme) > a.nav-top:hover,
+html[data-theme] .site-links .nav-drop:not(.nav-mine):not(.nav-theme) > a.nav-top.active,
+html[data-theme] .nav-drop:not(.nav-mine):not(.nav-theme) > .nav-caret,
+html[data-theme] .nav-drop:not(.nav-mine):not(.nav-theme).is-open > .nav-caret,
+html[data-theme] .nav-drop:not(.nav-mine):not(.nav-theme).is-active > .nav-caret {
+  background: transparent;
+  box-shadow: none;
+  color: inherit;
+}
+html[data-theme] .nav-search,
+html[data-theme] .nav-start-today,
+html[data-theme] .nav-mine-btn,
+html[data-theme] kbd {
+  background: var(--panel);
+  color: var(--ink);
+  border-color: var(--line);
+}
+html[data-theme] .nav-search:hover,
+html[data-theme] .nav-start-today:hover,
+html[data-theme] .nav-mine.is-active > .nav-mine-btn,
+html[data-theme] .nav-mine.is-open > .nav-mine-btn {
+  color: var(--gold-text);
+  border-color: var(--gold);
+  background: color-mix(in srgb, var(--gold) 10%, var(--panel));
+}
+html[data-theme] .nav-menu {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+html[data-theme] .nav-menu a {
+  background: transparent;
+  color: var(--ink);
+}
+html[data-theme] .nav-menu a:hover,
+html[data-theme] .nav-menu a:focus-visible,
+html[data-theme] .nav-menu a.active {
+  background: color-mix(in srgb, var(--gold) 10%, var(--panel));
+  color: var(--gold-text);
+}
+html[data-theme] .nav-menu a.active .nav-item-text small,
+html[data-theme] .nav-menu a:hover .nav-item-text small {
+  color: var(--gold-text);
+}
+html[data-theme] .bottom-bar {
+  background: color-mix(in srgb, var(--panel) 94%, transparent);
+  border-top-color: var(--line);
+}
+html[data-theme] .bottom-bar a,
+html[data-theme] .bottom-bar button {
+  color: var(--muted);
+}
+html[data-theme] .bottom-bar a.active {
+  color: var(--gold-text);
+  background: color-mix(in srgb, var(--gold) 12%, transparent);
+}
+
+/* ---------- 按钮 ---------- */
+html[data-theme] .btn-primary,
+html[data-theme] .md a.btn-primary,
+html[data-theme] .qa-actions .btn-primary {
+  background: var(--btn-bg);
+  color: var(--btn-fg);
+  border: 1px solid transparent;
+  box-shadow: var(--btn-shadow);
+}
+html[data-theme] .btn-primary:hover,
+html[data-theme] .md a.btn-primary:hover {
+  background: var(--btn-bg-hover);
+  color: var(--btn-fg);
+  box-shadow: var(--btn-shadow-hover);
+}
+html[data-theme] .btn-ghost,
+html[data-theme] .btn:not(.btn-primary):not(.btn-ghost):not(.btn-danger):not(.btn-gold),
+html[data-theme] .md a.btn:not(.btn-primary) {
+  background: var(--panel);
+  color: var(--ink);
+  border: 1px solid var(--line);
+}
+html[data-theme] .btn-ghost:hover,
+html[data-theme] .btn:not(.btn-primary):not(.btn-ghost):not(.btn-danger):not(.btn-gold):hover {
+  color: var(--ink);
+  background: var(--panel2);
+}
+html[data-theme="pixel"] .btn-primary,
+html[data-theme="pixel"] .md a.btn-primary {
+  border: 2px solid #3f2e22;
+}
+
+/* ---------- 首页路径 / Top3 / 卡片 / 页脚 ---------- */
+html[data-theme] .home-band.band-a { background: color-mix(in srgb, var(--panel) 55%, transparent); }
+html[data-theme] .home-band.band-b { background: color-mix(in srgb, var(--panel2) 70%, transparent); }
+html[data-theme="ink"] .home-band.band-a,
+html[data-theme="ink"] .home-band.band-b { background: transparent; }
+
+html[data-theme] .home-path-node a { color: var(--ink); }
+html[data-theme] .home-path-node a:hover { color: var(--cyan-hot); }
+html[data-theme] .home-path-dot {
+  background: var(--panel);
+  border-color: var(--line);
+  color: var(--muted);
+}
+html[data-theme] .home-path-node.is-done .home-path-dot,
+html[data-theme] .home-path-node.is-current.is-done .home-path-dot {
+  background: var(--ok);
+  border-color: var(--ok);
+  color: #f0fdf4;
+}
+html[data-theme] .home-path-node.is-current .home-path-dot {
+  background: var(--panel);
+  border-color: var(--gold);
+  color: var(--gold);
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--gold) 20%, transparent);
+}
+html[data-theme] .home-path-node.is-current .home-path-label { color: var(--gold-text); }
+html[data-theme] .home-path-node.is-locked .home-path-dot {
+  background: var(--panel2);
+  border-color: var(--line);
+  color: transparent;
+}
+html[data-theme] .hero-top3,
+html[data-theme] .glass,
+html[data-theme] .site-nav {
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+html[data-theme="ink"] .home-path-node.is-current .home-path-label { color: #0f766e; }
+html[data-theme] .home-path-side,
+html[data-theme] .hero-top3,
+html[data-theme] .home-more,
+html[data-theme] #home-continue,
+html[data-theme] body.is-home .home-continue,
+html[data-theme] #home-next,
+html[data-theme] body.is-home .home-howto a,
+html[data-theme] body.is-home .home-rank-row,
+html[data-theme] #home-faq .faq details,
+html[data-theme] .faq details,
+html[data-theme] .sitemap-grid section,
+html[data-theme] .snap-item {
+  background: var(--panel);
+  color: var(--ink);
+  border-color: var(--line);
+  box-shadow: var(--shadow);
+}
+html[data-theme="ink"] .home-path-side,
+html[data-theme="ink"] .hero-top3,
+html[data-theme="ink"] .home-more,
+html[data-theme="ink"] #home-continue,
+html[data-theme="ink"] body.is-home .home-continue,
+html[data-theme="ink"] .faq details,
+html[data-theme="ink"] .theme-chip.is-active {
+  box-shadow: none;
+}
+html[data-theme] #home-continue p,
+html[data-theme] #home-continue b,
+html[data-theme] body.is-home .home-howto a,
+html[data-theme] body.is-home .home-howto a:hover,
+html[data-theme] body.is-home .home-rank-row,
+html[data-theme] body.is-home .home-rank-row:hover,
+html[data-theme] .hero-top3-row,
+html[data-theme] .hero-top3-empty,
+html[data-theme] body.is-home .home-howto span:not(.home-step-ico) {
+  color: var(--ink);
+}
+html[data-theme] body.is-home .home-howto span:not(.home-step-ico),
+html[data-theme] #home-continue p { color: var(--muted); }
+html[data-theme] #home-continue b { color: var(--ink); }
+html[data-theme] body.is-home .home-howto a:hover,
+html[data-theme] body.is-home .home-rank-row:hover,
+html[data-theme] .hero-top3-row:hover {
+  background: var(--panel2);
+  color: var(--ink);
+}
+html[data-theme] .hero-top3-row {
+  background: var(--panel2);
+}
+html[data-theme] .hero-top3-no,
+html[data-theme] body.is-home .home-rank-no {
+  background: var(--gold);
+  color: var(--btn-fg);
+}
+html[data-theme] body.is-home .home-rank-list li:nth-child(n + 4) .home-rank-no {
+  background: var(--panel2);
+  color: var(--ink);
+}
+html[data-theme] .hero-steps li:not(:last-child)::after,
+html[data-theme] .hero-steps a { color: var(--gold-text); }
+html[data-theme] .home-next-stage,
+html[data-theme] body.is-home .home-howto .home-step-ico {
+  background: var(--gold);
+  color: var(--btn-fg);
+  border-color: transparent;
+}
+html[data-theme] .site-footer {
+  background: color-mix(in srgb, var(--panel) 90%, var(--bg));
+  border-top-color: var(--line);
+  color: var(--ink);
+}
+html[data-theme] .foot-cols a:hover,
+html[data-theme] #foot-tour:hover { color: var(--cyan-hot); }
+
+html[data-theme] .section-head {
+  background: linear-gradient(180deg, color-mix(in srgb, var(--panel) 80%, transparent), transparent);
+  border-bottom-color: var(--line);
+}
+html[data-theme] .tabs {
+  background: color-mix(in srgb, var(--panel) 90%, transparent);
+  border-color: var(--line);
+}
+html[data-theme] .pill,
+html[data-theme] .pill[data-type],
+html[data-theme] [class^="rank-type-"] {
+  color: var(--ink);
+  border-color: var(--line);
+}
+html[data-theme] .chip,
+html[data-theme] .chip[data-rtype],
+html[data-theme] .war-station-btn,
+html[data-theme] .res-filter-btn {
+  background: var(--panel);
+  color: var(--ink);
+  border-color: var(--line);
+}
+html[data-theme] .chip:hover,
+html[data-theme] .war-station-btn:hover,
+html[data-theme] .res-filter-btn:hover,
+html[data-theme] .chip.active,
+html[data-theme] .war-station-btn.active,
+html[data-theme] .res-filter-btn.active {
+  color: var(--gold-text);
+  background: color-mix(in srgb, var(--gold) 12%, var(--panel));
+  border-color: color-mix(in srgb, var(--gold) 45%, var(--line));
+}
+html[data-theme] .sub-tabs {
+  background: var(--panel2);
+  border-color: var(--line);
+}
+html[data-theme] .sub-tab:hover,
+html[data-theme] .sub-tab.active {
+  color: var(--gold-text);
+  background: var(--panel);
+}
+html[data-theme] .rank-title h3 { color: var(--ink); }
+html[data-theme] .rank-title p,
+html[data-theme] .rank-meta dd,
+html[data-theme] .rank-steps ol,
+html[data-theme] .plan-item small { color: var(--muted); }
+html[data-theme] .rank-why { color: var(--ink); }
+html[data-theme] .rank-meta .rank-risk { color: var(--danger); }
+html[data-theme] .rank-card {
+  background:
+    linear-gradient(105deg, rgba(var(--rank-accent), .12), rgba(var(--rank-accent), .04) 42%, transparent 68%),
+    var(--glass);
+}
+html[data-theme] .rank-panel {
+  background: color-mix(in srgb, rgb(var(--rank-accent)) 12%, var(--panel));
+  border-color: color-mix(in srgb, rgb(var(--rank-accent)) 28%, var(--line));
+}
+html[data-theme] .rank-step-badge {
+  color: rgb(var(--step-fg));
+  background: color-mix(in srgb, rgb(var(--step-bg)) 55%, #fff);
+  border-color: color-mix(in srgb, rgb(var(--step-bg)) 70%, var(--line));
+}
+html[data-theme] .rank-step-card {
+  color: var(--ink);
+  background: color-mix(in srgb, rgb(var(--step-bg)) 28%, var(--panel));
+  border-color: color-mix(in srgb, rgb(var(--step-bg)) 40%, var(--line));
+}
+html[data-theme] .rank-no.rank-badge.rank-no-4 {
+  background: color-mix(in srgb, rgb(var(--rank-accent)) 22%, var(--panel2));
+  color: var(--ink);
+}
+html[data-theme] .rank-fav { background: var(--panel); color: var(--muted); }
+html[data-theme] .rank-fav.on { background: color-mix(in srgb, var(--gold) 12%, var(--panel)); color: var(--gold-text); }
+html[data-theme] .rank-no-4 { background: var(--panel2); color: var(--ink); }
+html[data-theme] .rank-types .chip-resell {
+  background: var(--panel);
+  color: var(--cyan-hot);
+  border-color: var(--cyan);
+}
+html[data-theme] .rank-types .chip-resell.active {
+  background: var(--cyan);
+  color: #fff;
+  border-color: var(--cyan);
+}
+html[data-theme] .rank-resell {
+  background: var(--panel2);
+  color: var(--ink);
+  border-color: var(--line);
+}
+html[data-theme] .rank-resell-title,
+html[data-theme] .rank-resell dd { color: var(--ink); }
+html[data-theme] .rank-resell dt { color: var(--cyan-hot); }
+html[data-theme] .rank-resell-empty,
+html[data-theme] .rank-resell-note { color: var(--gold-text); }
+html[data-theme] .skip-link,
+html[data-theme] .cx-pg.on { color: var(--btn-fg); background: var(--gold); }
+html[data-theme] .tool-empty,
+html[data-theme] .tool-empty p,
+html[data-theme] .empty-hint { color: var(--ink); }
+html[data-theme] .tool-card .block-title small,
+html[data-theme] .tool-count,
+html[data-theme] .kit-prev dt,
+html[data-theme] .site-logs th { color: var(--cyan-hot); }
+html[data-theme] .card-ico,
+html[data-theme] .sh-ico,
+html[data-theme] .nav-ico,
+html[data-theme] .home-step-ico {
+  color: var(--ink);
+}
+html[data-theme] .tint-learn { color: #0369a1; background: rgba(14, 165, 233, 0.12); border-color: rgba(14, 165, 233, 0.4); }
+html[data-theme] .tint-do { color: #0f766e; background: rgba(13, 148, 136, 0.12); border-color: rgba(13, 148, 136, 0.4); }
+html[data-theme] .tint-earn { color: #b45309; background: rgba(245, 158, 11, 0.14); border-color: rgba(217, 119, 6, 0.4); }
+html[data-theme] .tint-neutral { color: #44403c; background: rgba(120, 113, 108, 0.12); border-color: rgba(120, 113, 108, 0.35); }
+
+html[data-theme] .qs-item,
+html[data-theme] .qs-title,
+html[data-theme] .qs-pub,
+html[data-theme] .qs-checked { color: var(--muted); }
+html[data-theme] .qs-kind-official { background: #dcfce7; color: #166534; border-color: #86efac; }
+html[data-theme] .qs-kind-media { background: #e0f2fe; color: #075985; border-color: #7dd3fc; }
+html[data-theme] .qs-kind-community { background: #ffedd5; color: #9a3412; border-color: #fdba74; }
+html[data-theme] .qs-unverified { background: var(--panel2); color: var(--muted); border-color: var(--line); }
+
+html[data-theme] .res-search,
+html[data-theme] .fld input,
+html[data-theme] .fld select,
+html[data-theme] .fld textarea,
+html[data-theme] .kw-ctrl select,
+html[data-theme] .search-box,
+html[data-theme] .search-input-row input,
+html[data-theme] .sr-hint button {
+  background: var(--panel);
+  color: var(--ink);
+  border-color: var(--line);
+}
+html[data-theme] .search-input-row input::placeholder,
+html[data-theme] .fld input::placeholder { color: var(--muted); }
+html[data-theme] .sr-item { color: var(--ink); }
+html[data-theme] .sr-item:hover,
+html[data-theme] .sr-item.sel { background: var(--panel2); color: var(--ink); }
+html[data-theme] .sr-text b { color: var(--ink); }
+html[data-theme] .sr-text small,
+html[data-theme] .sr-group h4,
+html[data-theme] .sr-hint,
+html[data-theme] .search-foot { color: var(--muted); }
+html[data-theme] .sr-item mark { background: color-mix(in srgb, var(--gold) 28%, transparent); color: var(--ink); }
+html[data-theme] .md code { background: var(--panel2); color: var(--gold-text); }
+html[data-theme] .md pre,
+html[data-theme] .kit-prev dd,
+html[data-theme] .kit-frame { background: var(--panel2); color: var(--ink); border-color: var(--line); }
+html[data-theme] .md th { background: var(--panel2); color: var(--ink); }
+html[data-theme] .md blockquote { color: var(--ink); }
+html[data-theme] .to-top {
+  background: var(--panel);
+  color: var(--gold-text);
+  border-color: var(--line);
+}
+html[data-theme] .to-top:hover { background: var(--panel2); }
+html[data-theme] .count { color: var(--btn-fg); background: var(--gold); }
+html[data-theme] .sitemap-grid h2 { color: var(--gold-text); }
+html[data-theme] .sitemap-grid a,
+html[data-theme] .sitemap-grid ul ul a { color: var(--cyan); }
+html[data-theme] .sitemap-grid a:hover { color: var(--cyan-hot); }
+html[data-theme] .sub-tab:hover,
+html[data-theme] .chip:hover,
+html[data-theme] .doc-toc a:hover { color: var(--ink); background: var(--panel2); }
+html[data-theme] .rank-switch-btn,
+html[data-theme] .rank-rules,
+html[data-theme] .rank-intro,
+html[data-theme] .rank-rule,
+html[data-theme] .rank-disclaimer {
+  color: var(--ink);
+  background: var(--panel);
+  border-color: var(--line);
+}
+html[data-theme] .rank-disclaimer { background: color-mix(in srgb, var(--gold) 8%, var(--panel)); }
+html[data-theme] .rank-disclaimer b,
+html[data-theme] .rank-rules summary,
+html[data-theme] .rank-switch-btn.active { color: var(--gold-text); }
+
+/* 像素：方一点的控件，仍保持可读。路径圆点在下面单独收成直角。 */
+html[data-theme="pixel"] .btn,
+html[data-theme="pixel"] .hero-top3,
+html[data-theme="pixel"] .home-path-side,
+html[data-theme="pixel"] .theme-switcher,
+html[data-theme="pixel"] .theme-chip,
+html[data-theme="pixel"] .nav-theme-btn,
+html[data-theme="pixel"] .nav-mine-btn,
+html[data-theme="pixel"] .hero-top3-no,
+html[data-theme="pixel"] .hero-top3-row {
+  border-radius: 4px;
+}
+
+/* ---------- 路径节点：水墨圆软 / 海岸圆青 / 像素方角 ---------- */
+html[data-theme="ink"] .ico .ia { opacity: .28; }
+html[data-theme="pixel"] .ico-pack-pixel .ia { opacity: .34; }
+html[data-theme="pixel"] .ico-pack-pixel { shape-rendering: crispEdges; }
+html[data-theme="pixel"] .ico-img {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+html[data-theme="ink"] .home-path-label .ico { color: #292524; opacity: 1; }
+html[data-theme="ocean"] .home-path-label .ico { color: #0e7490; opacity: 1; }
+html[data-theme="pixel"] .home-path-label .ico { color: #3f2e22; opacity: 1; }
+
+html[data-theme="ink"] .site-links a.nav-top .ico { color: #292524; }
+html[data-theme="ocean"] .site-links a.nav-top .ico { color: #0e7490; }
+html[data-theme="pixel"] .site-links a.nav-top .ico { color: #3f2e22; }
+html[data-theme="ink"] .site-links a.nav-top:hover .ico,
+html[data-theme="ink"] .site-links a.nav-top.active .ico { color: #0f766e; }
+html[data-theme="ocean"] .site-links a.nav-top:hover .ico,
+html[data-theme="ocean"] .site-links a.nav-top.active .ico { color: #155e75; }
+html[data-theme="pixel"] .site-links a.nav-top:hover .ico,
+html[data-theme="pixel"] .site-links a.nav-top.active .ico { color: #1c1917; }
+
+html[data-theme="ink"] .home-path-dot {
+  border-radius: 50%;
+  background: #f5f5f4;
+  border: 2px solid #a8a29e;
+  color: #292524;
+  box-shadow: 0 2px 8px rgba(28, 25, 23, .12);
+}
+html[data-theme="ink"] .home-path-node.is-current .home-path-dot {
+  background: #fafaf8;
+  border-color: #0f766e;
+  color: #115e59;
+  box-shadow: 0 0 0 4px rgba(15, 118, 110, .16), 0 2px 8px rgba(28, 25, 23, .1);
+}
+html[data-theme="ink"] .home-path-node.is-done .home-path-dot,
+html[data-theme="ink"] .home-path-node.is-current.is-done .home-path-dot {
+  background: #44403c;
+  border-color: #292524;
+  color: #fafaf8;
+  box-shadow: 0 2px 6px rgba(28, 25, 23, .16);
+}
+html[data-theme="ink"] .home-path-node.is-locked .home-path-dot {
+  background: #e7e5e4;
+  border-color: #d6d3d1;
+  box-shadow: none;
+}
+html[data-theme="ink"] .home-path-node:not(:last-child)::after {
+  width: 2px;
+  border-radius: 2px;
+  background: #d6d3d1;
+}
+html[data-theme="ink"] .home-path-node.is-done:not(:last-child)::after { background: #57534e; }
+
+html[data-theme="ocean"] .home-path-dot {
+  border-radius: 50%;
+  background: rgba(255, 255, 255, .9);
+  border: 2px solid #7dd3fc;
+  color: #0e7490;
+  box-shadow: 0 6px 16px rgba(14, 116, 144, .12);
+}
+html[data-theme="ocean"] .home-path-node.is-current .home-path-dot {
+  background: #ecfeff;
+  border-color: #0891b2;
+  color: #0e7490;
+  box-shadow: 0 0 0 4px rgba(8, 145, 178, .18);
+}
+html[data-theme="ocean"] .home-path-node.is-done .home-path-dot,
+html[data-theme="ocean"] .home-path-node.is-current.is-done .home-path-dot {
+  background: #0891b2;
+  border-color: #0e7490;
+  color: #f0fdfa;
+  box-shadow: 0 4px 12px rgba(8, 145, 178, .2);
+}
+html[data-theme="ocean"] .home-path-node.is-locked .home-path-dot {
+  background: rgba(255, 255, 255, .72);
+  border-color: #bae6fd;
+  box-shadow: none;
+}
+html[data-theme="ocean"] .home-path-node:not(:last-child)::after {
+  width: 2px;
+  border-radius: 99px;
+  background: #7dd3fc;
+}
+html[data-theme="ocean"] .home-path-node.is-done:not(:last-child)::after { background: #0891b2; }
+
+html[data-theme="pixel"] .home-path-dot {
+  border-radius: 0;
+  background: #f6e7c1;
+  border: 2px solid #3f2e22;
+  color: #3f2e22;
+  box-shadow: none;
+}
+html[data-theme="pixel"] .home-path-node.is-current .home-path-dot {
+  background: #fbbf24;
+  border: 2px solid #3f2e22;
+  color: #1c1917;
+  box-shadow: none;
+}
+html[data-theme="pixel"] .home-path-node.is-done .home-path-dot,
+html[data-theme="pixel"] .home-path-node.is-current.is-done .home-path-dot {
+  background: #f59e0b;
+  border: 2px solid #3f2e22;
+  color: #1c1917;
+  box-shadow: none;
+}
+html[data-theme="pixel"] .home-path-node.is-locked .home-path-dot {
+  background: #e7d7c1;
+  border: 2px solid #a89078;
+  color: transparent;
+  box-shadow: none;
+}
+html[data-theme="pixel"] .home-path-node:not(:last-child)::after {
+  width: 2px;
+  left: 13px;
+  border-radius: 0;
+  background-color: transparent;
+  background-image: repeating-linear-gradient(to bottom, #3f2e22 0 4px, transparent 4px 8px);
+}
+html[data-theme="pixel"] .home-path-node.is-done:not(:last-child)::after {
+  background-color: transparent;
+  background-image: repeating-linear-gradient(to bottom, #3f2e22 0 4px, transparent 4px 8px);
+}
+
+/* ---------- 主题切换：顶栏「换风格」按钮 + 弹出三项 ---------- */
+#theme-switcher {
+  display: flex;
+  position: relative;
+  flex: none;
+  align-items: center;
+}
+.nav-theme-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  width: auto;
+  height: auto;
+  min-height: 34px;
+  margin: 0;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.2;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.nav-theme-btn:hover,
+.nav-theme.is-open > .nav-theme-btn,
+.nav-theme.is-active > .nav-theme-btn {
+  color: var(--gold-text);
+  border-color: var(--gold);
+  background: color-mix(in srgb, var(--gold) 10%, var(--panel));
+}
+.theme-popover {
+  min-width: 200px;
+  right: 0;
+  left: auto;
+  padding: 8px;
+}
+.theme-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.2;
+  cursor: pointer;
+  white-space: nowrap;
+  width: 100%;
+  justify-content: flex-start;
+}
+.theme-chip:hover { color: var(--ink); background: color-mix(in srgb, var(--gold) 8%, transparent); }
+.theme-chip.is-active {
+  color: var(--gold-text);
+  background: color-mix(in srgb, var(--gold) 12%, var(--panel));
+  border-color: color-mix(in srgb, var(--gold) 40%, var(--line));
+  box-shadow: none;
+}
+.theme-swatch {
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  border: 1px solid rgba(28, 25, 23, 0.18);
+  flex: none;
+}
+.theme-swatch-ink { background: linear-gradient(135deg, #fafaf8 40%, #1e3a5f 41%); }
+.theme-swatch-ocean { background: linear-gradient(135deg, #e0f2fe 40%, #0891b2 41%); }
+.theme-swatch-pixel { background: linear-gradient(135deg, #f5f0e6 30%, #38bdf8 31% 62%, #f9a8d4 63%); }
+.theme-short { display: none; }
+@media (max-width: 640px) {
+  #theme-switcher { display: flex; }
+  .nav-theme-btn { padding: 6px 10px; font-size: 12px; }
+}
+
+/* ---------- 首页主视觉：主题插画铺在标题和路径后面 ---------- */
+html[data-theme] .home-hero-stage {
+  position: relative;
+  isolation: isolate;
+  background: var(--bg);
+}
+html[data-theme] .home-hero-stage::before,
+html[data-theme] .home-hero-stage::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+html[data-theme] .home-hero-stage::before {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right center;
+}
+html[data-theme="ink"] .home-hero-stage::before {
+  background-image: url("../assets/bg/ink.webp");
+}
+html[data-theme="ocean"] .home-hero-stage::before {
+  background-image: url("../assets/bg/ocean.webp");
+}
+html[data-theme="pixel"] .home-hero-stage::before {
+  background-image: url("../assets/bg/pixel.webp");
+  image-rendering: -moz-crisp-edges;
+  image-rendering: pixelated;
+}
+html[data-theme] .home-hero-stage::after {
+  background-image:
+    linear-gradient(90deg,
+      var(--bg) 0%,
+      color-mix(in srgb, var(--bg) 98%, transparent) 44%,
+      color-mix(in srgb, var(--bg) 52%, transparent) 60%,
+      color-mix(in srgb, var(--bg) 14%, transparent) 74%,
+      transparent 88%),
+    linear-gradient(180deg,
+      transparent 0%,
+      transparent 58%,
+      color-mix(in srgb, var(--bg) 45%, transparent) 80%,
+      var(--bg) 100%);
+  background-repeat: no-repeat;
+  background-size: cover, cover;
+  background-position: center, center;
+}
+html[data-theme] .home-hero-stage > .home-path-band {
+  background: transparent;
+}
+html[data-theme] .home-hero-stage .home-path-side,
+html[data-theme] .home-hero-stage .hero-top3,
+html[data-theme] .home-hero-stage .home-path-mid,
+html[data-theme] .home-hero-stage .home-continue,
+html[data-theme] .home-hero-stage #home-continue {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+html[data-theme] .home-hero-stage .hero-top3-row {
+  background: rgba(255, 255, 255, 0.78);
+}
+html[data-theme] .home-hero-stage .hero-top3-row:hover {
+  background: rgba(255, 255, 255, 0.94);
+}
+@media (max-width: 640px) {
+  html[data-theme] body.is-home .home-hero-stage .hero.hero-home .hero-inner {
+    padding-top: 12px;
+    padding-bottom: 4px;
+  }
+  html[data-theme] body.is-home .home-hero-stage .hero-sub {
+    max-width: 15.5em;
+  }
+  html[data-theme] .home-hero-stage::before {
+    bottom: auto;
+    height: 248px;
+    background-size: auto 148%;
+    background-position: calc(100% + 42px) 62%;
+    -webkit-mask-image: linear-gradient(180deg, #000 0%, #000 46%, transparent 100%);
+    mask-image: linear-gradient(180deg, #000 0%, #000 46%, transparent 100%);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 100% 100%;
+    mask-size: 100% 100%;
+  }
+  html[data-theme] .home-hero-stage::after {
+    background-image:
+      linear-gradient(180deg, transparent 0%, transparent 132px, var(--bg) 248px),
+      linear-gradient(90deg,
+        var(--bg) 0%,
+        var(--bg) 66%,
+        color-mix(in srgb, var(--bg) 40%, transparent) 84%,
+        transparent 100%),
+      linear-gradient(90deg,
+        var(--bg) 0%,
+        color-mix(in srgb, var(--bg) 94%, transparent) 40%,
+        transparent 68%);
+    background-size: 100% 100%, 100% 156px, 100% 248px;
+    background-position: top center, top center, top center;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+  }
+}
+
+/* ---------- 内页：作战日程 / 路线 / 赚钱榜 / 我的 / 弹层 / 导览 ---------- */
+html[data-theme] .war-quest,
+html[data-theme] .kit-checks li,
+html[data-theme] .kit-tpl,
+html[data-theme] .kw-item,
+html[data-theme] .idea-col,
+html[data-theme] .idea-chip,
+html[data-theme] .page-hint,
+html[data-theme] .backup-reminder,
+html[data-theme] .tour-card,
+html[data-theme] .qa-panel,
+html[data-theme] .qa-bot,
+html[data-theme] .qa-input,
+html[data-theme] .ai-out,
+html[data-theme] .ai-switch,
+html[data-theme] .ai-switch select,
+html[data-theme] .toast,
+html[data-theme] .input {
+  background: var(--panel);
+  color: var(--ink);
+  border-color: var(--line);
+}
+html[data-theme] .war-quest { background: var(--panel2); }
+html[data-theme] .idea-chip { background: var(--panel2); }
+html[data-theme] .page-hint,
+html[data-theme] .backup-reminder { background: var(--panel2); }
+html[data-theme] .page-hint p,
+html[data-theme] .page-hint b,
+html[data-theme] .backup-reminder p,
+html[data-theme] .tour-card,
+html[data-theme] .tour-card p,
+html[data-theme] .tour-never,
+html[data-theme] .qa-head h2,
+html[data-theme] .qa-sub,
+html[data-theme] .qa-empty,
+html[data-theme] .qa-close,
+html[data-theme] .start-lead,
+html[data-theme] .start-card small,
+html[data-theme] .start-steps,
+html[data-theme] .start-days li,
+html[data-theme] #start-progress,
+html[data-theme] .idea-col h3,
+html[data-theme] .idea-panel .hint,
+html[data-theme] .idea-status,
+html[data-theme] .idea-msg,
+html[data-theme] .kw-name,
+html[data-theme] .ai-mode b,
+html[data-theme] .ai-mode small,
+html[data-theme] .ai-agent p,
+html[data-theme] .home-path-side h2 {
+  color: var(--ink);
+}
+html[data-theme] .page-hint p,
+html[data-theme] .tour-card p,
+html[data-theme] .qa-sub,
+html[data-theme] .start-card small,
+html[data-theme] .start-steps,
+html[data-theme] .start-days li,
+html[data-theme] #start-progress,
+html[data-theme] .start-full,
+html[data-theme] .ai-mode small,
+html[data-theme] .ai-agent p { color: var(--muted); }
+html[data-theme] .tour-card h2,
+html[data-theme] .start-lead,
+html[data-theme] .start-card b,
+html[data-theme] .qa-head h2 { color: var(--gold-text); }
+html[data-theme] .qa-close {
+  background: var(--panel2);
+  color: var(--ink);
+  border-color: var(--line);
+}
+html[data-theme] .qa-close:hover { background: var(--panel); color: var(--ink); }
+html[data-theme] .qa-actions .btn { background: var(--panel2); color: var(--ink); border-color: var(--line); }
+html[data-theme] .heatmap rect,
+html[data-theme] .hm-legend i { fill: var(--panel2); background: var(--panel2); stroke: var(--line); }
+html[data-theme] .tabs,
+html[data-theme] .cx-tabs,
+html[data-theme] .sub-tabs { background: var(--panel); color: var(--ink); }
+html[data-theme] .nav-theme-btn,
+html[data-theme] .theme-popover {
+  background: var(--panel);
+  color: var(--ink);
+  border-color: var(--line);
+}
+
+/* ===== Phase UI-art（2026-10-30）：配图 · hero 大图 · 页面横幅 · 区块分隔 =====
+   配图按主题换（js/theme.js QuestTheme.art + img[data-art]）；配色走下面 --art-* 变量 */
+html[data-theme="ink"] {
+  --art-warm: rgba(214, 158, 46, .16); --art-cool: rgba(15, 118, 110, .10);
+  --art-accent: #d69e2e; --art-pill-bg: color-mix(in srgb, #1e3a5f 10%, #fff); --art-pill-fg: #1e3a5f; --art-pill-line: color-mix(in srgb, #1e3a5f 30%, transparent);
+  --art-k-rank: linear-gradient(90deg, #b7791f, #d69e2e); --art-k-agent: #0f766e;
+  --art-shadow: 0 24px 60px -24px rgba(15, 30, 60, .45); --art-card-hover: 0 18px 36px -22px rgba(15, 30, 60, .45);
+  --art-divider-ink: rgba(28, 25, 23, .28);
+}
+html[data-theme="ocean"] {
+  --art-warm: rgba(253, 224, 71, .22); --art-cool: rgba(6, 182, 212, .18);
+  --art-accent: #0891b2; --art-pill-bg: rgba(255, 255, 255, .85); --art-pill-fg: #0e7490; --art-pill-line: #67e8f9;
+  --art-k-rank: linear-gradient(90deg, #0891b2, #22d3ee); --art-k-agent: linear-gradient(90deg, #0284c7, #38bdf8);
+  --art-shadow: 0 24px 60px -24px rgba(8, 80, 120, .45); --art-card-hover: 0 18px 36px -20px rgba(8, 100, 140, .45);
+  --art-divider-ink: rgba(8, 145, 178, .35);
+}
+html[data-theme="pixel"] {
+  --art-warm: rgba(244, 114, 182, .18); --art-cool: rgba(167, 139, 250, .18);
+  --art-accent: #db2777; --art-pill-bg: #fffdf8; --art-pill-fg: #9d174d; --art-pill-line: #3f2e22;
+  --art-k-rank: #db2777; --art-k-agent: #7c3aed;
+  --art-shadow: 6px 6px 0 #3f2e22; --art-card-hover: 4px 4px 0 #3f2e22;
+  --art-divider-ink: #3f2e22;
+}
+html[data-theme] body .hero.hero-home .hero-inner.hero-has-art {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+  gap: clamp(20px, 4vw, 48px);
+  align-items: center;
+  padding-top: 28px; padding-bottom: 20px;
+}
+html[data-theme] .hero-steps {
+  display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 14px; padding: 0; list-style: none;
+}
+html[data-theme] .hero-steps span {
+  display: inline-flex; align-items: center; padding: 3px 10px; border-radius: 999px;
+  font-size: 12px; font-weight: 700; letter-spacing: .04em;
+  color: var(--art-pill-fg, var(--ink));
+  background: var(--art-pill-bg, var(--panel));
+  border: 1px solid var(--art-pill-line, var(--line));
+}
+html[data-theme] .hero-steps { align-items: center; }
+html[data-theme] .hero-steps i { font-style: normal; opacity: .4; font-size: 12px; }
+html[data-theme] .hero-has-art .hero-title { font-size: clamp(30px, 4.2vw, 48px); text-shadow: none; }
+html[data-theme] .hero-art {
+  margin: 0; position: relative; border-radius: 22px; overflow: hidden;
+  aspect-ratio: 16 / 9;
+  box-shadow: var(--art-shadow), 0 0 0 1px color-mix(in srgb, var(--line, #ddd) 70%, transparent);
+  transform: rotate(-.6deg);
+  transition: transform .6s cubic-bezier(.2, .8, .2, 1), box-shadow .6s;
+}
+html[data-theme] .hero-art:hover { transform: rotate(0) translateY(-3px); }
+html[data-theme] .hero-art img { display: block; width: 100%; height: 100%; object-fit: cover; }
+html[data-theme] .hero-art::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none; border-radius: inherit;
+  background: linear-gradient(180deg, transparent 60%, rgba(10, 20, 40, .18));
+}
+/* 有了 hero 大图，背景山水退后一点，避免抢戏 */
+html[data-theme] .home-hero-stage::before { opacity: .55; }
+html[data-theme] .home-hero-stage {
+  background:
+    radial-gradient(1200px 420px at 85% -10%, var(--art-warm), transparent 70%),
+    radial-gradient(900px 380px at 0% 0%, var(--art-cool), transparent 70%),
+    var(--bg);
+}
+/* 今天这一关：右上角配图 */
+html[data-theme] .home-path-side { position: relative; overflow: hidden; }
+html[data-theme] .home-path-illo {
+  position: absolute; right: -10px; top: -8px; width: 132px; height: 132px; object-fit: cover;
+  border-radius: 50%; opacity: .95; pointer-events: none;
+  -webkit-mask-image: radial-gradient(circle, #000 52%, transparent 71%);
+  mask-image: radial-gradient(circle, #000 52%, transparent 71%);
+}
+html[data-theme] .home-path-side > :not(img):not(.btn) { position: relative; max-width: calc(100% - 96px); }
+html[data-theme] .home-path-side > .home-path-why { max-width: none; }
+/* 区块分隔：水墨笔触线 + 金点 */
+html[data-theme] .home-band { position: relative; }
+html[data-theme] .home-today-band::before,
+html[data-theme] #home-split::before {
+  content: ""; display: block; height: 2px; max-width: 520px; margin: 0 auto 28px;
+  background: linear-gradient(90deg, transparent, var(--art-divider-ink) 30%, var(--art-accent) 50%, var(--art-divider-ink) 70%, transparent);
+  border-radius: 2px;
+}
+/* 赚钱页 / Agent 页横幅 */
+html[data-theme] .page-banner {
+  position: relative; margin: 6px 0 8px; border-radius: 18px; overflow: hidden;
+  height: 160px;
+  background: var(--panel2, #f4f1ea);
+  box-shadow: var(--art-shadow), 0 0 0 1px color-mix(in srgb, var(--line, #ddd) 70%, transparent);
+}
+html[data-theme] .page-banner img {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 70% 45%;
+  transition: transform 1.2s cubic-bezier(.2, .8, .2, 1);
+}
+html[data-theme] .page-banner:hover img { transform: scale(1.03); }
+html[data-theme] .page-banner::before {
+  content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--panel, #fff) 92%, transparent) 0%, color-mix(in srgb, var(--panel, #fff) 70%, transparent) 34%, transparent 62%);
+}
+html[data-theme] .page-banner figcaption {
+  position: relative; z-index: 2; height: 100%; display: flex; flex-direction: column; justify-content: center;
+  gap: 4px; padding: 14px 24px; max-width: 30em;
+}
+html[data-theme] .page-banner-k {
+  align-self: flex-start; font-size: 12px; font-weight: 700; letter-spacing: .06em; padding: 2px 10px; border-radius: 999px;
+  color: #fff; background: var(--art-k-agent, var(--cyan));
+}
+/* 每日赚钱榜横幅：仍在日期行右侧，但改为约 360×144（~2.5:1）限宽高条，
+   避免旧 92px 超宽细条把宝箱裁成一条缝；比全宽 140px 更省高度，守住 P18 ≤3.0 屏。 */
+html[data-theme] .page-banner-rank {
+  height: 144px;
+  width: 360px;
+  max-width: min(380px, 42vw);
+  flex: 0 0 auto;
+  margin: 0;
+}
+html[data-theme] .rank-bar.has-banner { align-items: flex-end; }
+html[data-theme] .rank-bar.has-banner > .page-banner { flex: 0 0 auto; margin: 0; }
+html[data-theme] .rank-bar.has-banner > .rank-types { flex: 1 1 100%; }
+html[data-theme] .page-banner-rank img { object-position: 76% 48%; }
+html[data-theme] .page-banner-rank figcaption { padding: 12px 16px; gap: 3px; max-width: 16em; }
+html[data-theme] .page-banner-rank figcaption small { display: block; font-size: 12px; }
+html[data-theme] .page-banner-rank figcaption b { font-size: clamp(16px, 1.8vw, 22px); }
+html[data-theme] .page-banner-rank .page-banner-k { background: var(--art-k-rank); }
+html[data-theme="ink"] .page-banner-rank img { object-position: 78% 40%; }
+html[data-theme="ocean"] .page-banner-rank img { object-position: 78% 52%; }
+html[data-theme="pixel"] .page-banner-rank img { object-position: 82% 58%; }
+/* 横幅变高后略收日期旁提示行间距，给像素主题硬边框留出 P18 余量 */
+html[data-theme] #rank-count { margin-top: 4px; margin-bottom: 6px; }
+html[data-theme] .page-banner figcaption b { font-size: clamp(18px, 2.2vw, 26px); line-height: 1.25; color: var(--ink); }
+html[data-theme] .page-banner figcaption small { color: var(--muted); font-size: 13px; }
+/* 卡片：更明显的悬浮与前三名光晕 */
+html[data-theme] .rank-grid > * { transition: transform .35s cubic-bezier(.2, .8, .2, 1), box-shadow .35s; }
+html[data-theme] .rank-grid > *:hover { transform: translateY(-3px); box-shadow: var(--art-card-hover); }
+html[data-theme="pixel"] .hero-art,
+html[data-theme="pixel"] .page-banner { border-radius: 4px; border: 3px solid #3f2e22; }
+html[data-theme="pixel"] .hero-art { transform: none; }
+html[data-theme="pixel"] .hero-art:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 #3f2e22; }
+html[data-theme="pixel"] .hero-art::after { display: none; }
+html[data-theme="pixel"] .hero-art img, html[data-theme="pixel"] .page-banner img, html[data-theme="pixel"] .home-path-illo { image-rendering: pixelated; }
+html[data-theme="pixel"] .hero-steps span, html[data-theme="pixel"] .page-banner-k { border-radius: 2px; box-shadow: 2px 2px 0 #3f2e22; }
+html[data-theme="pixel"] .home-path-illo { border-radius: 4px; -webkit-mask-image: none; mask-image: none; border: 2px solid #3f2e22; right: 10px; top: 10px; width: 96px; height: 96px; }
+html[data-theme="pixel"] .home-today-band::before, html[data-theme="pixel"] #home-split::before {
+  height: 4px; border-radius: 0;
+  background: repeating-linear-gradient(90deg, var(--art-accent) 0 8px, transparent 8px 12px, #3f2e22 12px 20px, transparent 20px 24px);
+}
+html[data-theme="ocean"] .home-today-band::before, html[data-theme="ocean"] #home-split::before { height: 3px; }
+html[data-theme="ocean"] .page-banner::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, .92) 0%, rgba(240, 249, 255, .7) 34%, transparent 62%);
+}
+@media (max-width: 860px) {
+  html[data-theme] body .hero.hero-home .hero-inner.hero-has-art { grid-template-columns: 1fr; gap: 18px; }
+  html[data-theme] .hero-art { transform: none; border-radius: 16px; }
+}
+@media (max-width: 640px) {
+  html[data-theme] .home-hero-stage::before { opacity: .35; }
+  html[data-theme] .page-banner { height: auto; aspect-ratio: 16 / 9; }
+  html[data-theme] .page-banner-rank {
+    height: auto; width: auto; max-width: none; aspect-ratio: 2 / 1; margin: 0 0 8px;
+  }
+  html[data-theme] .page-banner-rank figcaption { max-width: 30em; padding: 14px 16px; }
+  html[data-theme] .page-banner-rank figcaption small { display: block; }
+  html[data-theme] .rank-bar.has-banner > .page-banner { order: -1; flex: 1 1 100%; width: auto; max-width: none; }
+  html[data-theme] .page-banner::before {
+    background: linear-gradient(180deg, transparent 30%, color-mix(in srgb, var(--panel, #fff) 88%, transparent) 72%);
+  }
+  html[data-theme] .page-banner img { object-position: 75% 30%; }
+  html[data-theme] .page-banner figcaption { justify-content: flex-end; padding: 14px 16px; }
+  html[data-theme] .home-path-illo { width: 104px; height: 104px; }
+  html[data-theme] .home-path-side > :not(img):not(.btn) { max-width: calc(100% - 72px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  html[data-theme] .hero-art, html[data-theme] .page-banner img, html[data-theme] .rank-grid > * { transition: none; transform: none; }
+}
+/* 主题配图细调（构图位置 / 像素主题在窄屏保持硬边） */
+html[data-theme="pixel"] .page-banner-agent img { object-position: 70% 66%; }
+html[data-theme="ocean"] .page-banner-agent img { object-position: 70% 50%; }
+@media (max-width: 860px) {
+  html[data-theme="pixel"] .hero-art { border-radius: 4px; }
+}
+
+/* ===== Phase UI-art · 页面背景（2026-10-30）=====
+   非首页按 body[data-bg] 场景换底图（js/app.js pageBgScene）：learn 学习 / build 实施 / earn 赚钱榜 / agent Agent·工具 / library 资源·手册 / log 周报·统计·更新日志·网站地图 / me 我的·账号·站点·AI。
+   水墨 assets/bg/page/<scene>.webp，其它主题 assets/bg/page/<theme>/<scene>.webp；图已与底色混合降对比，再叠一层半透明遮罩。 */
+html[data-theme] body:not(.is-home)[data-bg] .page-bg::before,
+html[data-theme] body:not(.is-home)[data-bg] .page-bg::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none;
+}
+html[data-theme] body:not(.is-home)[data-bg] .page-bg::before {
+  background-image: var(--page-art, none);
+  background-repeat: no-repeat; background-size: cover; background-position: center bottom;
+}
+html[data-theme] body:not(.is-home)[data-bg] .page-bg::after {
+  background: linear-gradient(180deg,
+    color-mix(in srgb, var(--bg) 62%, transparent) 0%,
+    color-mix(in srgb, var(--bg) 34%, transparent) 45%,
+    color-mix(in srgb, var(--bg) 10%, transparent) 100%);
+}
+html[data-theme="pixel"] body:not(.is-home)[data-bg] .page-bg::before { image-rendering: pixelated; }
+/* 区块头带半透明，让页面背景透出一点 */
+html[data-theme] body:not(.is-home)[data-bg] .section-head {
+  background: color-mix(in srgb, var(--panel) 72%, transparent);
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+}
+@media (max-width: 640px) {
+  html[data-theme] body:not(.is-home)[data-bg] .page-bg::before { background-position: 30% bottom; }
+}
+html[data-theme="ink"] body[data-bg="learn"] { --page-art: url("../assets/bg/page/learn.webp"); }
+html[data-theme="ink"] body[data-bg="build"] { --page-art: url("../assets/bg/page/build.webp"); }
+html[data-theme="ink"] body[data-bg="earn"] { --page-art: url("../assets/bg/page/earn.webp"); }
+html[data-theme="ink"] body[data-bg="agent"] { --page-art: url("../assets/bg/page/agent.webp"); }
+html[data-theme="ink"] body[data-bg="library"] { --page-art: url("../assets/bg/page/library.webp"); }
+html[data-theme="ink"] body[data-bg="me"] { --page-art: url("../assets/bg/page/me.webp"); }
+html[data-theme="ocean"] body[data-bg="learn"] { --page-art: url("../assets/bg/page/ocean/learn.webp"); }
+html[data-theme="ocean"] body[data-bg="build"] { --page-art: url("../assets/bg/page/ocean/build.webp"); }
+html[data-theme="ocean"] body[data-bg="earn"] { --page-art: url("../assets/bg/page/ocean/earn.webp"); }
+html[data-theme="ocean"] body[data-bg="agent"] { --page-art: url("../assets/bg/page/ocean/agent.webp"); }
+html[data-theme="ocean"] body[data-bg="library"] { --page-art: url("../assets/bg/page/ocean/library.webp"); }
+html[data-theme="ocean"] body[data-bg="me"] { --page-art: url("../assets/bg/page/ocean/me.webp"); }
+html[data-theme="pixel"] body[data-bg="learn"] { --page-art: url("../assets/bg/page/pixel/learn.webp"); }
+html[data-theme="pixel"] body[data-bg="build"] { --page-art: url("../assets/bg/page/pixel/build.webp"); }
+html[data-theme="pixel"] body[data-bg="earn"] { --page-art: url("../assets/bg/page/pixel/earn.webp"); }
+html[data-theme="pixel"] body[data-bg="agent"] { --page-art: url("../assets/bg/page/pixel/agent.webp"); }
+html[data-theme="pixel"] body[data-bg="library"] { --page-art: url("../assets/bg/page/pixel/library.webp"); }
+html[data-theme="pixel"] body[data-bg="me"] { --page-art: url("../assets/bg/page/pixel/me.webp"); }
+html[data-theme="ink"] body[data-bg="log"] { --page-art: url("../assets/bg/page/log.webp"); }
+html[data-theme="ocean"] body[data-bg="log"] { --page-art: url("../assets/bg/page/ocean/log.webp"); }
+html[data-theme="pixel"] body[data-bg="log"] { --page-art: url("../assets/bg/page/pixel/log.webp"); }
+
+/* ===== Phase UI-art · 顶栏 / 页头带 / 页脚 主题化（2026-10-30）=====
+   页头带向上延伸到浮动顶栏背后，叠该页场景图（--page-art）+ 左实右透遮罩；底边主题装饰（水墨笔触 / 波浪 / 像素阶梯）；
+   页脚加主题小景（assets/bg/foot/<theme>.webp）+ 顶边装饰。均为绝对定位/背景，不增加布局高度。 */
+html[data-theme="ink"] {
+  --chrome-tint: linear-gradient(180deg, #f4efe4 0%, #faf8f2 100%);
+  --chrome-edge: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 14' preserveAspectRatio='none'%3E%3Cpath fill='%231e3a5f' fill-opacity='.6' d='M0 8C140 3 260 12 420 6S720 2 880 8 1080 4 1200 6V9C1060 12 900 7 740 10S440 13 300 9 90 12 0 10Z'/%3E%3Cpath fill='%23d69e2e' fill-opacity='.55' d='M520 9c60-3 140-3 200 0-60 2-140 2-200 0Z'/%3E%3C/svg%3E");
+  --chrome-edge-size: 100% 12px; --chrome-edge-repeat: no-repeat; --chrome-edge-h: 12px;
+  --foot-art: url("../assets/bg/foot/ink.webp");
+  --foot-tint: linear-gradient(180deg, #f6f2e8 0%, #efe9dc 100%);
+  --nav-skin: color-mix(in srgb, #fffdf8 86%, transparent);
+  --nav-line: 0 0 0 1px rgba(30, 58, 95, .12), inset 0 -2px 0 rgba(214, 158, 46, .45), 0 6px 18px -10px rgba(30, 58, 95, .35);
+}
+html[data-theme="ocean"] {
+  --chrome-tint: linear-gradient(120deg, #e0f7ff 0%, #ecfeff 45%, #fef9c3 100%);
+  --chrome-edge: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 12'%3E%3Cpath fill='%230891b2' fill-opacity='.30' d='M0 6Q12 0 24 6T48 6V12H0Z'/%3E%3Cpath fill='none' stroke='%23ffffff' stroke-opacity='.9' stroke-width='1.4' d='M0 7Q12 1 24 7T48 7'/%3E%3C/svg%3E");
+  --chrome-edge-size: 48px 12px; --chrome-edge-repeat: repeat-x; --chrome-edge-h: 12px;
+  --foot-art: url("../assets/bg/foot/ocean.webp");
+  --foot-tint: linear-gradient(180deg, #e0f2fe 0%, #ccfbf1 100%);
+  --nav-skin: linear-gradient(90deg, rgba(255, 255, 255, .9), rgba(224, 247, 255, .88));
+  --nav-line: 0 0 0 1px rgba(8, 145, 178, .25), inset 0 -2px 0 rgba(34, 211, 238, .55), 0 8px 22px -12px rgba(8, 100, 140, .45);
+}
+html[data-theme="pixel"] {
+  --chrome-tint: repeating-linear-gradient(0deg, rgba(63, 46, 34, .035) 0 2px, transparent 2px 8px), linear-gradient(180deg, #fde7f0 0%, #f5f0e6 100%);
+  --chrome-edge: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 8' shape-rendering='crispEdges'%3E%3Cpath fill='%233f2e22' d='M0 8V4h4V0h8v4h4v4z'/%3E%3Cpath fill='%23db2777' d='M4 4h2V2h4v2h2v1H4z' fill-opacity='.6'/%3E%3C/svg%3E");
+  --chrome-edge-size: 16px 8px; --chrome-edge-repeat: repeat-x; --chrome-edge-h: 8px;
+  --foot-art: url("../assets/bg/foot/pixel.webp");
+  --foot-tint: linear-gradient(180deg, #fbe4ee 0%, #f3eadb 100%);
+  --nav-skin: #fffdf8;
+  --nav-line: 0 0 0 3px #3f2e22, 4px 4px 0 3px #3f2e22;
+}
+/* 顶栏皮肤（保留吸顶浮层与下拉） */
+html[data-theme] .site-nav,
+html[data-theme] body.nav-condensed .site-nav {
+  background: var(--nav-skin);
+  box-shadow: var(--nav-line);
+  border-color: transparent;
+}
+html[data-theme="pixel"] .site-nav { border-radius: 4px; }
+html[data-theme="pixel"] .site-links > a.active,
+html[data-theme="pixel"] .site-links > a:hover { border-radius: 2px; }
+
+/* 页头带：延伸到顶栏背后 + 场景图 */
+html[data-theme] body:not(.is-home)[data-bg] .section-head {
+  position: relative;
+  margin-top: calc(-1 * (var(--nav-float, 8px) + var(--nav-h, 56px)));
+  padding-top: calc(var(--nav-float, 8px) + var(--nav-h, 56px));
+  background:
+    linear-gradient(90deg,
+      color-mix(in srgb, var(--panel) 94%, transparent) 0%,
+      color-mix(in srgb, var(--panel) 82%, transparent) 34%,
+      color-mix(in srgb, var(--panel) 34%, transparent) 70%,
+      color-mix(in srgb, var(--panel) 8%, transparent) 100%),
+    var(--page-art, none) center 78% / cover no-repeat,
+    var(--chrome-tint);
+  border-bottom: 0;
+  backdrop-filter: none; -webkit-backdrop-filter: none;
+}
+html[data-theme="pixel"] body:not(.is-home)[data-bg] .section-head { image-rendering: pixelated; }
+html[data-theme] body:not(.is-home)[data-bg] .section-head::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: var(--chrome-edge-h); pointer-events: none;
+  background: var(--chrome-edge) left bottom / var(--chrome-edge-size) var(--chrome-edge-repeat);
+}
+html[data-theme] body:not(.is-home)[data-bg] .section-head .sh-title { text-shadow: 0 1px 0 color-mix(in srgb, var(--panel) 80%, transparent); }
+
+/* 页脚：主题底色 + 小景 + 顶边装饰 */
+html[data-theme] .site-footer {
+  position: relative;
+  border-top: 0;
+  background:
+    linear-gradient(90deg,
+      color-mix(in srgb, var(--panel) 92%, transparent) 0%,
+      color-mix(in srgb, var(--panel) 80%, transparent) 46%,
+      color-mix(in srgb, var(--panel) 10%, transparent) 100%),
+    var(--foot-art) right bottom / auto 100% no-repeat,
+    var(--foot-tint);
+}
+html[data-theme] .site-footer::before {
+  content: ""; position: absolute; left: 0; right: 0; top: 0; height: var(--chrome-edge-h); pointer-events: none;
+  background: var(--chrome-edge) left top / var(--chrome-edge-size) var(--chrome-edge-repeat);
+  transform: scaleY(-1);
+}
+html[data-theme] .site-footer .foot-inner { position: relative; }
+html[data-theme] .site-footer .foot-cols h4 { position: relative; padding-bottom: 4px; }
+html[data-theme] .site-footer .foot-cols h4::after {
+  content: ""; position: absolute; left: 0; bottom: 0; width: 22px; height: 2px; border-radius: 2px; background: var(--art-accent, var(--gold));
+}
+html[data-theme="pixel"] .site-footer .foot-cols h4::after { height: 4px; border-radius: 0; box-shadow: 4px 0 0 #3f2e22; width: 16px; }
+html[data-theme="pixel"] .site-footer { image-rendering: pixelated; }
+/* 手机底栏同风格 */
+@media (max-width: 860px) {
+  html[data-theme] .bottom-bar { background: var(--nav-skin); box-shadow: 0 -1px 0 var(--line), 0 -6px 16px -10px rgba(0, 0, 0, .25); }
+  html[data-theme="pixel"] .bottom-bar { box-shadow: 0 -3px 0 #3f2e22; }
+  html[data-theme="ocean"] .bottom-bar { box-shadow: inset 0 2px 0 rgba(34, 211, 238, .55), 0 -6px 16px -10px rgba(8, 100, 140, .35); }
+  html[data-theme] .site-footer { background-size: auto, auto 60%, auto; }
+}
+
+/* ===== Phase UI-polish · 组件统一（2026-10-30）=====
+   一组 --ui-* token，三主题各一套；组件只引用 token。pixel 走硬边：2px 深棕边 + 硬投影 + 直角。 */
+html[data-theme="ink"] {
+  --ui-radius: 10px; --ui-radius-sm: 8px;
+  --ui-bw: 1px; --ui-border-c: color-mix(in srgb, #1e3a5f 18%, var(--line));
+  --ui-field-bg: #fffdf8; --ui-field-bg-focus: #ffffff;
+  --ui-accent: #1e3a5f; --ui-accent-2: #d69e2e; --ui-accent-soft: rgba(214, 158, 46, .14);
+  --ui-ring: 0 0 0 3px rgba(214, 158, 46, .38);
+  --ui-shadow-sm: 0 1px 2px rgba(30, 58, 95, .06), 0 2px 8px -4px rgba(30, 58, 95, .14);
+  --ui-shadow-hover: 0 6px 16px -8px rgba(30, 58, 95, .35);
+  --ui-hint-bg: linear-gradient(90deg, #fbf6ea 0%, #fffdf8 70%);
+  --ui-hint-bar: linear-gradient(180deg, #d69e2e, #b7791f);
+  --ui-bar-fill: linear-gradient(90deg, #1e3a5f, #3b5f8a 70%, #d69e2e);
+  --ui-th-bg: color-mix(in srgb, #1e3a5f 7%, #fffdf8);
+  --ui-scroll-thumb: rgba(30, 58, 95, .28); --ui-scroll-track: transparent;
+  --ui-select-arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath fill='none' stroke='%231e3a5f' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round' d='M1 1.5l5 5 5-5'/%3E%3C/svg%3E");
+  --ui-selection: rgba(214, 158, 46, .3);
+}
+html[data-theme="ocean"] {
+  --ui-radius: 14px; --ui-radius-sm: 10px;
+  --ui-bw: 1px; --ui-border-c: #a5e4f5;
+  --ui-field-bg: rgba(255, 255, 255, .92); --ui-field-bg-focus: #ffffff;
+  --ui-accent: #0e7490; --ui-accent-2: #22d3ee; --ui-accent-soft: rgba(34, 211, 238, .16);
+  --ui-ring: 0 0 0 3px rgba(34, 211, 238, .35);
+  --ui-shadow-sm: 0 2px 10px -4px rgba(8, 145, 178, .28);
+  --ui-shadow-hover: 0 8px 20px -10px rgba(8, 100, 140, .45);
+  --ui-hint-bg: linear-gradient(90deg, #e6fbff 0%, rgba(255, 255, 255, .95) 70%);
+  --ui-hint-bar: linear-gradient(180deg, #22d3ee, #0891b2);
+  --ui-bar-fill: linear-gradient(90deg, #0ea5e9, #22d3ee 60%, #a7f3d0);
+  --ui-th-bg: #e0f7fd;
+  --ui-scroll-thumb: rgba(8, 145, 178, .35); --ui-scroll-track: transparent;
+  --ui-select-arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath fill='none' stroke='%230891b2' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round' d='M1 1.5l5 5 5-5'/%3E%3C/svg%3E");
+  --ui-selection: rgba(34, 211, 238, .3);
+}
+html[data-theme="pixel"] {
+  --ui-radius: 3px; --ui-radius-sm: 2px;
+  --ui-bw: 2px; --ui-border-c: #3f2e22;
+  --ui-field-bg: #fffdf8; --ui-field-bg-focus: #ffffff;
+  --ui-accent: #db2777; --ui-accent-2: #0284c7; --ui-accent-soft: rgba(219, 39, 119, .12);
+  --ui-ring: 0 0 0 3px #f9a8d4;
+  --ui-shadow-sm: 3px 3px 0 #3f2e22;
+  --ui-shadow-hover: 4px 4px 0 #3f2e22;
+  --ui-hint-bg: repeating-linear-gradient(90deg, #fff7fb 0 8px, #fffdf8 8px 16px);
+  --ui-hint-bar: repeating-linear-gradient(180deg, #db2777 0 6px, #3f2e22 6px 8px);
+  --ui-bar-fill: repeating-linear-gradient(90deg, #db2777 0 10px, #f472b6 10px 12px);
+  --ui-th-bg: #f3eadb;
+  --ui-scroll-thumb: #3f2e22; --ui-scroll-track: #f3eadb;
+  --ui-select-arrow: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6' shape-rendering='crispEdges'%3E%3Cpath fill='%233f2e22' d='M0 0h10v2H8v2H6v2H4V4H2V2H0z'/%3E%3C/svg%3E");
+  --ui-selection: #fbcfe8;
+}
+
+/* 选中 / 滚动条 / 焦点 */
+html[data-theme] ::selection { background: var(--ui-selection); color: inherit; }
+html[data-theme] { scrollbar-color: var(--ui-scroll-thumb) var(--ui-scroll-track); }
+html[data-theme] ::-webkit-scrollbar { width: 10px; height: 10px; }
+html[data-theme] ::-webkit-scrollbar-track { background: var(--ui-scroll-track); }
+html[data-theme] ::-webkit-scrollbar-thumb { background: var(--ui-scroll-thumb); border-radius: 999px; border: 2px solid transparent; background-clip: padding-box; }
+html[data-theme="pixel"] ::-webkit-scrollbar-thumb { border-radius: 0; border: 0; }
+html[data-theme] .site-links::-webkit-scrollbar { display: none; }
+html[data-theme] a:focus-visible, html[data-theme] button:focus-visible, html[data-theme] summary:focus-visible, html[data-theme] [tabindex]:focus-visible {
+  outline: none; box-shadow: var(--ui-ring);
+}
+
+/* 输入框 / 下拉 / 多行 / 文件 */
+html[data-theme] #app input[type="text"], html[data-theme] #app input[type="search"], html[data-theme] #app input[type="url"],
+html[data-theme] #app input[type="number"], html[data-theme] #app input[type="email"], html[data-theme] #app input[type="date"],
+html[data-theme] #app input[type="password"], html[data-theme] #app input:not([type]), html[data-theme] #app textarea, html[data-theme] #app select,
+html[data-theme] .qa-input, html[data-theme] .modal-card input, html[data-theme] .modal-card select, html[data-theme] .modal-card textarea {
+  background-color: var(--ui-field-bg);
+  border: var(--ui-bw) solid var(--ui-border-c);
+  border-radius: var(--ui-radius-sm);
+  color: var(--ink);
+  transition: border-color var(--duration-hover, .2s), box-shadow var(--duration-hover, .2s), background-color var(--duration-hover, .2s);
+}
+html[data-theme] #app input::placeholder, html[data-theme] #app textarea::placeholder { color: color-mix(in srgb, var(--muted) 75%, transparent); }
+html[data-theme] #app input:hover:not(:focus):not(:disabled), html[data-theme] #app textarea:hover:not(:focus):not(:disabled), html[data-theme] #app select:hover:not(:focus):not(:disabled) {
+  border-color: color-mix(in srgb, var(--ui-accent) 45%, var(--ui-border-c));
+}
+html[data-theme] #app input:focus, html[data-theme] #app textarea:focus, html[data-theme] #app select:focus, html[data-theme] .qa-input:focus {
+  outline: none; background-color: var(--ui-field-bg-focus);
+  border-color: var(--ui-accent); box-shadow: var(--ui-ring);
+}
+html[data-theme] #app select:not([multiple]) {
+  -webkit-appearance: none; appearance: none;
+  background-image: var(--ui-select-arrow); background-repeat: no-repeat;
+  background-position: right 12px center; background-size: 11px auto;
+  padding-right: 32px;
+}
+html[data-theme] #app input[type="file"] { border: 0; background: transparent; padding-left: 0; box-shadow: none; }
+html[data-theme] #app input[type="file"]::file-selector-button {
+  font: inherit; font-size: .88rem; font-weight: 700; margin-right: 10px; padding: 6px 12px; cursor: pointer;
+  color: var(--ink); background: var(--panel); border: var(--ui-bw) solid var(--ui-border-c); border-radius: var(--ui-radius-sm);
+  box-shadow: var(--ui-shadow-sm);
+}
+html[data-theme] #app input[type="checkbox"], html[data-theme] #app input[type="radio"] { accent-color: var(--ui-accent); }
+html[data-theme="pixel"] #app input[type="checkbox"], html[data-theme="pixel"] #app input[type="radio"] { transform: scale(1.1); }
+html[data-theme="pixel"] #app input:focus, html[data-theme="pixel"] #app textarea:focus, html[data-theme="pixel"] #app select:focus { box-shadow: 3px 3px 0 #db2777; }
+
+/* 次级按钮 / 胶囊 / 徽章 */
+html[data-theme] .btn:not(.btn-primary):not(.btn-ghost):not(.btn-danger):not(.btn-gold),
+html[data-theme] .md a.btn:not(.btn-primary) {
+  border: var(--ui-bw) solid var(--ui-border-c);
+  box-shadow: var(--ui-shadow-sm);
+}
+html[data-theme] .btn:not(.btn-primary):not(.btn-ghost):not(.btn-danger):not(.btn-gold):hover {
+  border-color: color-mix(in srgb, var(--ui-accent) 55%, var(--ui-border-c));
+  box-shadow: var(--ui-shadow-hover);
+}
+html[data-theme="pixel"] .btn, html[data-theme="pixel"] .chip, html[data-theme="pixel"] .pill, html[data-theme="pixel"] .cx-tab-btn,
+html[data-theme="pixel"] .sub-tab, html[data-theme="pixel"] .page-hint-prog li, html[data-theme="pixel"] .rank-switch-btn { border-radius: 2px; }
+html[data-theme="pixel"] .btn:not(.btn-primary):not(.btn-ghost):not(.btn-danger):not(.btn-gold):active,
+html[data-theme="pixel"] .btn-primary:active { transform: translate(2px, 2px); box-shadow: 1px 1px 0 #3f2e22; }
+html[data-theme] .chip.active, html[data-theme] .cx-tab-btn.on {
+  background: var(--ui-accent); color: #fff; border-color: var(--ui-accent);
+}
+html[data-theme="ink"] .chip.active, html[data-theme="ink"] .cx-tab-btn.on { box-shadow: inset 0 -2px 0 var(--ui-accent-2); }
+html[data-theme="pixel"] .chip.active, html[data-theme="pixel"] .cx-tab-btn.on { border: 2px solid #3f2e22; box-shadow: 2px 2px 0 #3f2e22; }
+html[data-theme="pixel"] .chip:not(.active), html[data-theme="pixel"] .cx-tab-btn:not(.on) { border-width: 2px; border-color: #3f2e22; }
+
+/* 页内子导航（数据分析 / 每周复盘 …） */
+html[data-theme] .sub-tabs { border: var(--ui-bw) solid var(--ui-border-c); border-radius: var(--ui-radius); box-shadow: var(--ui-shadow-sm); }
+html[data-theme] .sub-tab.active {
+  background: var(--ui-accent-soft); color: var(--ui-accent);
+  box-shadow: inset 0 0 0 var(--ui-bw) color-mix(in srgb, var(--ui-accent) 55%, transparent);
+}
+html[data-theme="ink"] .sub-tab.active { box-shadow: inset 0 -2px 0 var(--ui-accent-2), inset 0 0 0 1px rgba(214, 158, 46, .45); color: #1e3a5f; }
+html[data-theme="pixel"] .sub-tab.active { background: #db2777; color: #fff; box-shadow: 2px 2px 0 #3f2e22; }
+
+/* 「这个页面是干什么的」提示条 */
+html[data-theme] .page-hint {
+  position: relative; overflow: hidden;
+  background: var(--ui-hint-bg);
+  border: var(--ui-bw) solid var(--ui-border-c);
+  border-radius: var(--ui-radius);
+  box-shadow: var(--ui-shadow-sm);
+  padding-left: 18px;
+}
+html[data-theme] .page-hint::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 5px; background: var(--ui-hint-bar); }
+html[data-theme="pixel"] .page-hint { border-style: dashed; }
+html[data-theme] .page-hint-step { color: var(--ui-accent); }
+html[data-theme] .page-hint-prog li { border-color: var(--ui-border-c); }
+
+/* 进度条 */
+html[data-theme] .bar { background: color-mix(in srgb, var(--ui-accent) 10%, var(--panel2)); }
+html[data-theme] .bar > i { background: var(--ui-bar-fill); }
+html[data-theme="pixel"] .bar { border-radius: 0; height: 12px; box-shadow: inset 0 0 0 2px #3f2e22; background: #f3eadb; }
+html[data-theme="pixel"] .bar > i { border-radius: 0; }
+html[data-theme] .bar.bar-xp { min-width: 0; }
+
+/* Markdown 表格 / 行内代码 */
+html[data-theme] .md table { border-radius: var(--ui-radius-sm); overflow: hidden; border: var(--ui-bw) solid var(--ui-border-c); border-collapse: separate; border-spacing: 0; }
+html[data-theme] .md th, html[data-theme] .md td { border: 0; border-bottom: 1px solid var(--line); border-right: 1px solid var(--line); }
+html[data-theme] .md th:last-child, html[data-theme] .md td:last-child { border-right: 0; }
+html[data-theme] .md tr:last-child td { border-bottom: 0; }
+html[data-theme] .md th { background: var(--ui-th-bg); color: var(--ui-accent); font-weight: 700; }
+html[data-theme] .md tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--ui-accent) 4%, transparent); }
+html[data-theme] .md :not(pre) > code { background: var(--ui-accent-soft); color: var(--ink); border-radius: 4px; padding: .08em .36em; }
+html[data-theme="pixel"] .md :not(pre) > code { border-radius: 0; }
+
+/* Toast / 弹窗 / 骨架 / 空状态 */
+html[data-theme] .toast {
+  border: var(--ui-bw) solid var(--ui-border-c); border-left: 5px solid var(--ui-accent);
+  border-radius: var(--ui-radius-sm); box-shadow: var(--ui-shadow-hover); background: var(--panel); color: var(--ink);
+}
+html[data-theme="pixel"] .toast { border-left-width: 6px; box-shadow: 4px 4px 0 #3f2e22; }
+html[data-theme] .modal-card { border: var(--ui-bw) solid var(--ui-border-c); border-radius: calc(var(--ui-radius) + 4px); box-shadow: 0 30px 60px -20px rgba(15, 30, 60, .45); }
+html[data-theme] .modal-card h2 { color: var(--ui-accent); }
+html[data-theme="pixel"] .modal-card { border-width: 3px; border-radius: 4px; box-shadow: 8px 8px 0 #3f2e22; }
+html[data-theme] .sk { background: linear-gradient(90deg, var(--panel2) 0%, color-mix(in srgb, var(--ui-accent) 14%, var(--panel2)) 50%, var(--panel2) 100%); background-size: 200% 100%; border-radius: var(--ui-radius-sm); }
+html[data-theme="pixel"] .sk { border-radius: 0; }
+html[data-theme] .empty-illo {
+  border: var(--ui-bw) dashed color-mix(in srgb, var(--ui-accent) 40%, var(--ui-border-c));
+  border-radius: var(--ui-radius); background: color-mix(in srgb, var(--ui-accent) 4%, var(--panel));
+}
+/* 新手导览卡 / 热力图格 */
+html[data-theme] .tour-card { border: var(--ui-bw) solid var(--ui-border-c); border-radius: calc(var(--ui-radius) + 2px); box-shadow: var(--ui-shadow-hover); }
+html[data-theme="pixel"] .tour-card { box-shadow: 6px 6px 0 #3f2e22; }
+html[data-theme="pixel"] .heatmap rect { rx: 0; ry: 0; }
+html[data-theme="pixel"] .hm-cell, html[data-theme="pixel"] .hm-legend i { border-radius: 0; }
+
+/* ===== Phase UI-navbar · 顶栏主题背景（2026-10-31）=====
+   纹理图 assets/bg/nav/<theme>.webp（无字，<10KB），叠半透明遮罩保证菜单文字/图标/红点清晰。
+   只改 background/box-shadow，不加 backdrop-filter 到 .site-nav 本身（避免改变下拉菜单的定位上下文）。 */
+html[data-theme="ink"] {
+  --nav-art: url("../assets/bg/nav/ink.webp");
+  --nav-veil: linear-gradient(90deg, rgba(255, 253, 248, .12) 0%, rgba(255, 253, 248, .42) 36%, rgba(255, 253, 248, .42) 72%, rgba(255, 253, 248, .1) 100%);
+  --nav-veil-condensed: linear-gradient(90deg, rgba(255, 253, 248, .22) 0%, rgba(255, 253, 248, .52) 38%, rgba(255, 253, 248, .52) 72%, rgba(255, 253, 248, .2) 100%);
+  --nav-art-pos: left 88%; --nav-art-size: cover;
+  --nav-orn: linear-gradient(90deg, transparent 4%, rgba(214, 158, 46, .0) 6%, rgba(214, 158, 46, .85) 30%, rgba(214, 158, 46, .85) 70%, rgba(214, 158, 46, 0) 94%) left bottom 5px / 100% 1px no-repeat,
+             url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 40'%3E%3Cg fill='none' stroke='%231e3a5f' stroke-opacity='.3' stroke-width='1.4' stroke-linecap='round'%3E%3Cpath d='M8 30c0-8 10-12 16-6 2-10 18-12 22-2 6-6 16-2 14 6'/%3E%3Cpath d='M22 24c2-3 6-3 7 0M44 22c3-4 8-3 9 1'/%3E%3Cpath d='M64 32c0-6 8-9 12-4 2-7 13-8 16-1 4-4 12-1 10 5'/%3E%3C/g%3E%3C/svg%3E") right 18% center / auto 70% no-repeat;
+  --nav-pill: color-mix(in srgb, #fffdf8 82%, transparent);
+  --nav-shadow-condensed: 0 0 0 1px rgba(30, 58, 95, .14), inset 0 -2px 0 rgba(214, 158, 46, .55), 0 10px 26px -12px rgba(30, 58, 95, .45);
+  --bar-art-pos: left bottom;
+}
+html[data-theme="ocean"] {
+  --nav-art: url("../assets/bg/nav/ocean.webp");
+  --nav-veil: linear-gradient(90deg, rgba(255, 255, 255, .5) 0%, rgba(255, 255, 255, .58) 40%, rgba(240, 253, 255, .42) 100%);
+  --nav-veil-condensed: linear-gradient(90deg, rgba(255, 255, 255, .68) 0%, rgba(255, 255, 255, .74) 40%, rgba(240, 253, 255, .6) 100%);
+  --nav-art-pos: center 60%; --nav-art-size: cover;
+  --nav-orn: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 8'%3E%3Cpath fill='none' stroke='%230891b2' stroke-opacity='.45' stroke-width='1.2' d='M0 5Q10 1 20 5T40 5'/%3E%3Cpath fill='none' stroke='%23ffffff' stroke-opacity='.9' stroke-width='1' d='M0 7Q10 3 20 7T40 7'/%3E%3C/svg%3E") left bottom 1px / 40px 8px repeat-x;
+  --nav-pill: color-mix(in srgb, #ffffff 80%, transparent);
+  --nav-shadow-condensed: 0 0 0 1px rgba(8, 145, 178, .3), inset 0 -2px 0 rgba(34, 211, 238, .6), 0 12px 28px -12px rgba(8, 100, 140, .55);
+  --bar-art-pos: center top;
+}
+html[data-theme="pixel"] {
+  --nav-art: url("../assets/bg/nav/pixel.webp");
+  --nav-veil: linear-gradient(180deg, rgba(255, 253, 248, .38) 0 50%, rgba(255, 253, 248, .5) 50% 100%);
+  --nav-veil-condensed: linear-gradient(180deg, rgba(255, 253, 248, .55) 0 50%, rgba(255, 253, 248, .66) 50% 100%);
+  --nav-art-pos: center center; --nav-art-size: auto 100%;
+  --nav-orn: repeating-linear-gradient(90deg, #3f2e22 0 4px, transparent 4px 8px) left bottom 3px / 100% 2px no-repeat,
+             repeating-linear-gradient(90deg, #db2777 0 8px, #f9a8d4 8px 16px, #0284c7 16px 24px, #fde68a 24px 32px) left bottom / 100% 3px no-repeat;
+  --nav-pill: #fffdf8;
+  --nav-shadow-condensed: 0 0 0 3px #3f2e22, 6px 6px 0 3px #3f2e22;
+  --bar-art-pos: center top;
+}
+html[data-theme] .site-nav {
+  background:
+    var(--nav-orn),
+    var(--nav-veil),
+    var(--nav-art) var(--nav-art-pos) / var(--nav-art-size) repeat-x,
+    var(--panel);
+  transition: box-shadow var(--duration-layout, .3s) var(--ease, ease), transform var(--duration-layout, .3s) var(--ease, ease);
+}
+html[data-theme] body.nav-condensed .site-nav {
+  background:
+    var(--nav-orn),
+    var(--nav-veil-condensed),
+    var(--nav-art) var(--nav-art-pos) / var(--nav-art-size) repeat-x,
+    var(--panel);
+  box-shadow: var(--nav-shadow-condensed);
+}
+html[data-theme="pixel"] .site-nav { image-rendering: pixelated; }
+html[data-theme="pixel"] .site-nav .brand img, html[data-theme="pixel"] .site-nav .nav-mine-btn img { image-rendering: auto; }
+/* 菜单项落在纹理上：悬停/选中胶囊加实底，保证可读 */
+html[data-theme] .site-links > a:hover,
+html[data-theme] .site-links > a.active,
+html[data-theme] .site-links > a.nav-top.active,
+html[data-theme] .nav-drop:not(.nav-mine):not(.nav-theme):hover,
+html[data-theme] .nav-drop.is-active:not(.nav-mine):not(.nav-theme), html[data-theme] .nav-drop.is-open:not(.nav-mine):not(.nav-theme),
+html[data-theme] .nav-drop.is-active:not(.nav-mine):not(.nav-theme) {
+  background-color: var(--nav-pill);
+  background-image: linear-gradient(color-mix(in srgb, var(--gold) 14%, transparent), color-mix(in srgb, var(--gold) 14%, transparent));
+}
+html[data-theme="pixel"] .site-links > a.active,
+html[data-theme="pixel"] .nav-drop.is-active:not(.nav-mine):not(.nav-theme) { box-shadow: 0 0 0 2px #3f2e22, 2px 2px 0 2px #3f2e22; }
+html[data-theme] .site-nav .brand span { text-shadow: 0 1px 0 rgba(255, 255, 255, .7); }
+html[data-theme] .site-nav .nav-dot { box-shadow: 0 0 0 2px var(--panel); }
+/* 手机底栏：同一纹理，横向铺 */
+@media (max-width: 860px) {
+  html[data-theme] .bottom-bar {
+    background:
+      var(--nav-veil-condensed),
+      var(--nav-art) var(--bar-art-pos) / var(--nav-art-size) repeat-x,
+      var(--panel);
+  }
+  html[data-theme="pixel"] .bottom-bar { image-rendering: pixelated; }
+}
+
+
+/* ===== Phase UI-home-mid · 首页主线中间栏（2026-10-31）===== */
+html[data-theme] .home-path-mid {
+  border: var(--ui-bw, 1px) solid var(--ui-border-c, var(--line));
+  border-radius: var(--ui-radius, 16px);
+  box-shadow: var(--ui-shadow-sm, none);
+}
+html[data-theme] .home-mid-act a,
+html[data-theme] .home-mid-link {
+  border: var(--ui-bw, 1px) solid var(--ui-border-c, var(--line));
+  border-radius: var(--ui-radius-sm, 10px);
+  background: var(--ui-field-bg, var(--panel2));
+}
+html[data-theme] .home-mid-act.is-now a {
+  background: var(--ui-accent-soft, color-mix(in srgb, var(--gold) 10%, var(--panel)));
+  border-color: color-mix(in srgb, var(--ui-accent, var(--gold)) 45%, var(--ui-border-c, var(--line)));
+}
+html[data-theme] .home-mid-act-k,
+html[data-theme] .home-mid-frac,
+html[data-theme] .home-mid-tip-k { color: var(--ui-accent, var(--gold-text)); }
+html[data-theme] .home-mid-tip {
+  background: var(--ui-accent-soft, color-mix(in srgb, var(--gold) 8%, var(--panel2)));
+  border-color: color-mix(in srgb, var(--ui-accent, var(--gold)) 40%, var(--ui-border-c, var(--line)));
+  border-radius: var(--ui-radius-sm, 10px);
+}
+html[data-theme="pixel"] .home-path-mid,
+html[data-theme="pixel"] .home-mid-act a,
+html[data-theme="pixel"] .home-mid-link,
+html[data-theme="pixel"] .home-mid-tip,
+html[data-theme="pixel"] .home-mid-illo { border-radius: 2px; }
+html[data-theme="pixel"] .home-mid-illo {
+  border: 2px solid #3f2e22; -webkit-mask-image: none; mask-image: none;
+  image-rendering: pixelated; right: 10px; top: 10px;
+}
+html[data-theme="pixel"] .home-mid-act.is-now a { box-shadow: 2px 2px 0 #3f2e22; }
+html[data-theme="ink"] .home-mid-cur { color: #57534e; }
+html[data-theme="ocean"] .home-mid-link:hover,
+html[data-theme="ocean"] .home-mid-act a:hover {
+  border-color: #0891b2;
+}

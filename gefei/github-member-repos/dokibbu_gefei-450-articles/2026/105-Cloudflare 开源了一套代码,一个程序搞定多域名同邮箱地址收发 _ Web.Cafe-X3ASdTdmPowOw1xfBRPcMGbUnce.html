@@ -1,0 +1,26 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Cloudflare 开源了一套代码,一个程序搞定多域名同邮箱地址收发 | Web.Cafe</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>Cloudflare 开源了一套代码,一个程序搞定多域名同邮箱地址收发 | Web.Cafe</h1><div class="meta">离线存档 · 2026-09-04T10:33:14.613Z · <a href="https://my.feishu.cn/docx/X3ASdTdmPowOw1xfBRPcMGbUnce">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/78j51kfm...<a class="source-link" href="https://new.web.cafe/topic/78j51kfmel">https://new.web.cafe/topic/78j51kfm...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-05-01 10:56:08 (UTC+8)</blockquote>
+<p id="b5">&quot;这谁啊?&quot;</p>
+<p id="b6">哪怕你在签名里写清楚&quot;我是 A 产品的客服&quot;,信任度也已经掉一截了。客户期待的就是 support@a.com 回信,干净、对称、专业,不需要任何解释。<a class="source-link" href="mailto:support@a.com">support@a.com</a></p>
+<p id="b7">如果你手上运营多个产品,每个都有独立域名邮箱( support@a.com 、 support@b.com 、 support@c.com ……),这个问题就被乘以 N。每加一个产品就要再配一套发信、再切一次 from 地址,工作流稍微一乱,从错误地址回信、或者干脆从 Gmail 回信的情况就会发生,客户那头的信任就在这种小细节里慢慢漏掉。<a class="source-link" href="mailto:support@a.com">support@a.com</a> <a class="source-link" href="mailto:support@b.com">support@b.com</a> <a class="source-link" href="mailto:support@c.com">support@c.com</a></p>
+<p id="b8">这个问题,Cloudflare 现在用 一套开源代码、一次部署 直接解决了。</p>
+<h2 id="b9">项目叫 agentic-inbox</h2>
+<p id="b10">一个程序、一个 Cloudflare 账号,同时管理任意多个域名邮箱的收发 ,客户发到哪个地址,你就从哪个地址原路回过去。</p>
+<p id="b11">核心特性:</p>
+<div class="list bullet" id="b12">•<br>完整邮件客户端,通过 Email Routing 收发,带富文本编辑器、回复转发线程、搜索、附件</div>
+<div class="list bullet" id="b13">•<br>每个邮箱独立隔离,跑在自己的 Durable Object 里,有独立 SQLite 数据库,附件存 R2</div>
+<div class="list bullet" id="b14">•<br>侧边栏内置 AI agent,9 个邮件工具帮你读、搜、起草、回复</div>
+<div class="list bullet" id="b15">•<br>新邮件 AI 自动起草回复,发送前必须你点确认</div>
+<p id="b16">5 个产品开 5 个 mailbox,各自独立配置、独立数据,但 统一在一个界面里收发 ,from 地址永远跟客户来信完全对得上。</p>
+<h2 id="b17">为什么现在才能做到?Cloudflare 终于能发邮件了</h2>
+<p id="b18">之前 Cloudflare Email Routing 只能收不能发,所以多域名回信一直是个坑。这次升级成 Cloudflare Email Service ,Agents Week 期间公测开放,添加域名时 SPF、DKIM、DMARC 这些发信认证全自动配好,邮件正常进收件箱不进垃圾箱。</p>
+<p id="b19">费用方面说清楚:发信功能需要 Workers 的 5 美元/月套餐 (群友们基本都已经订了),这个套餐下 每天 1000 封邮件免费 ,一个月 3 万封,绝大多数产品用不完。Email Routing 收信仍然完全免费。</p>
+<p id="b20">如果你已经在用 Workers Paid, 这套多域名邮箱方案的边际成本基本是零 。</p>
+<h2 id="b21">加分项:内置 MCP,接 Claude Code 直接管邮件</h2>
+<p id="b22">agentic-inbox 内置 MCP server,Claude Code、Cursor 这些外部 agent 可以直接连进收件箱,起草邮件等你确认再发。</p>
+<p id="b23">理想工作流:客户来信 → AI 自动起草 → Claude Code 里结合产品文档改措辞 → 点发送,从对应域名邮箱原路回出去。整条链路不出 Cloudflare,数据全在你自己账号里。</p>
+<h2 id="b24">部署</h2>
+<p id="b25">README 已经写得很清楚了,跟着走就行。两个小坑提醒一下:</p>
+<div class="list ordered" id="b26">1.<br>如果你之前没开过 Cloudflare Access,先去开通 (免费的 0 元套餐就够用,选最便宜那档),否则部署后会卡在 Access 配置那一步。</div>
+<div class="list ordered" id="b27">2.<br>多域名配置在环境变量里用逗号分割就行 ,比如 a.com,b.com,c.com ,不用每个域名单独部署一份。</div>
+<p id="b28">对运营多产品的开发者来说,这是个体验质变—— 一次部署,所有域名邮箱的收发和 AI 处理全闭环 ,客户那头看到的永远是干净一致、专业的发件人。</p></main></div></body></html>

@@ -1,0 +1,79 @@
+{
+  "updated": "2026-11-07T09:17:45+08:00",
+  "start_date": "2026-10-28",
+  "count": 9,
+  "packs": [
+    {
+      "date": "2026-11-07",
+      "title": "周末执行包｜闲鱼公众号排版首条上架（不换新项目）",
+      "updated": "2026-11-07T09:17:45+08:00",
+      "path": "data/daily-packs/2026-11-07/",
+      "manifest": "data/daily-packs/2026-11-07/manifest.json",
+      "file_count": 7
+    },
+    {
+      "date": "2026-11-04",
+      "title": "每日执行包｜闲鱼公众号排版配图 + Render 计算器续作",
+      "updated": "2026-11-04T09:45:00+08:00",
+      "path": "data/daily-packs/2026-11-04/",
+      "manifest": "data/daily-packs/2026-11-04/manifest.json",
+      "file_count": 6
+    },
+    {
+      "date": "2026-11-03",
+      "title": "每日执行包｜闲鱼Excel看板定制讲解 + Cloudflare计算器续作 + 选词备忘",
+      "updated": "2026-11-03T09:31:07+08:00",
+      "path": "data/daily-packs/2026-11-03/",
+      "manifest": "data/daily-packs/2026-11-03/manifest.json",
+      "file_count": 7
+    },
+    {
+      "date": "2026-11-02",
+      "title": "每日执行包｜闲鱼Notion工作区搭建培训 + Netlify计算器续作 + 选词备忘",
+      "updated": "2026-11-02T09:26:52+08:00",
+      "path": "data/daily-packs/2026-11-02/",
+      "manifest": "data/daily-packs/2026-11-02/manifest.json",
+      "file_count": 7
+    },
+    {
+      "date": "2026-11-01",
+      "title": "每日执行包｜闲鱼Excel数据看板定制 + Cloudflare Pages计算器续作 + Trends选词",
+      "updated": "2026-11-01T09:25:05+08:00",
+      "path": "data/daily-packs/2026-11-01/",
+      "manifest": "data/daily-packs/2026-11-01/manifest.json",
+      "file_count": 7
+    },
+    {
+      "date": "2026-10-31",
+      "title": "每日执行包｜闲鱼 AI 单页落地页固定套餐 + 搭建费月维护报价",
+      "updated": "2026-10-31T19:24:00+08:00",
+      "path": "data/daily-packs/2026-10-31/",
+      "manifest": "data/daily-packs/2026-10-31/manifest.json",
+      "file_count": 7
+    },
+    {
+      "date": "2026-10-30",
+      "title": "每日执行包｜闲鱼电商客服Agent方案 + 卖Agent路线决策卡",
+      "updated": "2026-10-30T09:25:00+08:00",
+      "path": "data/daily-packs/2026-10-30/",
+      "manifest": "data/daily-packs/2026-10-30/manifest.json",
+      "file_count": 5
+    },
+    {
+      "date": "2026-10-29",
+      "title": "每日执行包｜Vercel 工具站续作 + Trends 选词 + 闲鱼封面定制",
+      "updated": "2026-10-29T09:26:51+08:00",
+      "path": "data/daily-packs/2026-10-29/",
+      "manifest": "data/daily-packs/2026-10-29/manifest.json",
+      "file_count": 10
+    },
+    {
+      "date": "2026-10-28",
+      "title": "每日执行包｜Cloudflare Pages 工具站续作 + 闲鱼 Notion/飞书模板",
+      "updated": "2026-10-28T10:38:00+08:00",
+      "path": "data/daily-packs/2026-10-28/",
+      "manifest": "data/daily-packs/2026-10-28/manifest.json",
+      "file_count": 8
+    }
+  ]
+}

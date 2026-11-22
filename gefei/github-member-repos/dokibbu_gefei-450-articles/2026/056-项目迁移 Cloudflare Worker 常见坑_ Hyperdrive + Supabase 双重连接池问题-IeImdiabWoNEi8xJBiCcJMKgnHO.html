@@ -1,0 +1,35 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>项目迁移 Cloudflare Worker 常见坑: Hyperdrive + Supabase 双重连接池问题</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>项目迁移 Cloudflare Worker 常见坑: Hyperdrive + Supabase 双重连接池问题</h1><div class="meta">离线存档 · 2026-09-04T10:25:39.961Z · <a href="https://my.feishu.cn/docx/IeImdiabWoNEi8xJBiCcJMKgnHO">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/b7i9y9uw...<a class="source-link" href="https://new.web.cafe/topic/b7i9y9uwos">https://new.web.cafe/topic/b7i9y9uw...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-02-14 19:58:24 (UTC+8)</blockquote>
+<blockquote id="b5">遇到了一个用 AI 也不太好排查的问题。因为涉及的背景知识比较繁琐，整理成文章分享给大家避坑。</blockquote>
+<p id="b6">一个使用了 Supabase 项目，迁移到 Cloudflare Worker 后通过 Hyperdrive 连接数据库。部署上线，测试通过，一切正常。</p>
+<p id="b7">过了几个小时，数据库连接超时，页面挂了。</p>
+<p id="b8">去 Supabase 数据库后台看，连接数正常，远没到上限。代码没改过。重新部署一次，又好了。过一段时间，又挂了。</p>
+<p id="b9">最离谱的是，本地开发环境怎么测都没问题。这个 bug 的隐蔽性在于：它不是立刻失败，而是随时间推移慢慢出现，而且只在线上环境触发。排查方向很容易跑偏 — 以为是数据库的问题、代码的问题、或者 Cloudflare 的问题，但都不是。</p>
+<h2 id="b10">先解释几个概念</h2>
+<p id="b11">Cloudflare Worker 是 Cloudflare 提供的 Serverless 计算平台。Serverless 指的是不需要自己管理服务器，代码部署上去后按请求计费，平台自动处理扩缩容。</p>
+<p id="b12">Hyperdrive 是 Cloudflare 提供的数据库连接加速服务，本质上是一个部署在 Cloudflare 网络上的连接池。</p>
+<p id="b13">连接池是什么？PostgreSQL 每个连接都有开销。连接池在中间维护一组已建立的数据库连接，请求进来时分配一个现有连接，用完归还，避免反复建立新连接：</p>
+<p id="b14"><br>代码块<br>JavaScript<br>┌────────┐      ┌──────────┐      ┌────────────┐<br>│ 请求 A  │─────▶│          │─────▶│            │ 数据库实例本身<br>│ 请求 B  │─────▶│  连接池   │─────▶│ PostgreSQL │ 只需维护10个连接<br>│ 请求 C  │─────▶│          │─────▶│            │<br>└────────┘      └──────────┘      └────────────┘<br>       1000 个请求        复用10个连接      <br></p>
+<h2 id="b15">问题出在哪</h2>
+<p id="b16">Supabase 内置了一个连接池 — PgBouncer，监听在端口 6543。</p>
+<p id="b17">PgBouncer 是一个开源的 PostgreSQL 连接池中间件，Supabase 默认集成了它。面板上给出的连接地址，默认就是 PgBouncer 的地址。</p>
+<p id="b18">迁移之前用这个地址连数据库，没有任何问题：</p>
+<p id="b19"><br>代码块<br>JavaScript<br></p>
+<p id="b20">迁移时配置 Hyperdrive，自然也用了同一个地址。于是连接链路变成了：</p>
+<p id="b21"><br>代码块<br>JavaScript<br>迁移后（出问题）：<br><br>┌──────────┐     ┌─────────────┐     ┌──────────────┐     ┌────────────┐<br>│ CF Worker│────▶│  Hyperdrive │────▶│  PgBouncer   │────▶│ PostgreSQL │<br>└──────────┘     └─────────────┘     └──────────────┘     └────────────┘<br>                    连接池 A             连接池 B<br></p>
+<p id="b22">两个连接池叠在一起，问题出在它们对连接生命周期的管理策略互相冲突。</p>
+<p id="b23">Hyperdrive 作为连接池，会维持一批到下游的长连接。请求间隙，这些连接处于空闲状态，等待被复用 — 这是连接池的核心工作方式。</p>
+<p id="b24">但 Hyperdrive 连接的下游不是数据库，而是 PgBouncer。PgBouncer 有自己的空闲超时策略（ client_idle_timeout ），超时后会主动关闭空闲的客户端连接。对 PgBouncer 来说，Hyperdrive 持有的那些空闲连接就是&quot;不活跃的客户端&quot;，到时间就关掉。</p>
+<p id="b25">问题在于：PgBouncer 关闭连接后，Hyperdrive 不一定能立刻感知到。TCP 协议下，一端关闭连接，另一端如果没有在收发数据，可能察觉不到连接已经断了（TCP 半开连接问题）。Hyperdrive 仍然认为这些连接是可用的，当新请求进来时，把查询发到一条已经被 PgBouncer 关闭的连接上 — 对面没人接，超时。</p>
+<p id="b26"><br>代码块<br>JavaScript<br></p>
+<p id="b27">这就解释了三个现象：</p>
+<div class="list bullet" id="b28">•<br>刚部署时正常 — 连接都是新建的，不存在超时关闭的问题</div>
+<div class="list bullet" id="b29">•<br>过一段时间出问题 — 空闲连接被 PgBouncer 关闭，Hyperdrive 复用了死连接</div>
+<div class="list bullet" id="b30">•<br>本地测试没问题 — 本地直连数据库，只有一个连接池（或没有），不存在两个池子的超时冲突</div>
+<h2 id="b31">修复</h2>
+<p id="b32">只保留一个连接池。Hyperdrive 已经在做池化，让它直连数据库，跳过 PgBouncer。</p>
+<p id="b33">Supabase 提供了两个连接端口（端口可以理解为同一个地址上的不同入口）：</p>
+<p id="b34"><br>代码块<br>JavaScript<br>端口 6543 ──▶ PgBouncer（连接池）──▶ 数据库<br>端口 5432 ──▶ 直连数据库<br></p>
+<p id="b35">在 Hyperdrive 配置中，把连接地址从 PgBouncer 的地址（端口 6543）换成数据库直连地址（端口 5432）：</p>
+<p id="b36"><br>代码块<br>JavaScript<br>修复前：Worker ──▶ Hyperdrive ──▶ PgBouncer:6543 ──▶ PostgreSQL<br>修复后：Worker ──▶ Hyperdrive ─────────────────────▶ PostgreSQL:5432<br></p>
+<p id="b37">不需要改代码，不需要重新部署 Worker，改完 Hyperdrive 配置立即生效。</p></main></div></body></html>

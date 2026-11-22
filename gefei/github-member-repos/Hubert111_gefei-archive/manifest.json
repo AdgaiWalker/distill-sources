@@ -1,0 +1,37 @@
+{
+  "name": "哥飞公众号 · 全量文章归档",
+  "short_name": "哥飞归档",
+  "description": "哥飞公众号全量文章归档，图文并茂，支持离线阅读",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F2EA",
+  "theme_color": "#1F5C4D",
+  "lang": "zh-CN",
+  "categories": [
+    "education",
+    "books",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,1750 @@
+{
+  "data": [
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1965515495320551578",
+      "created_at": "2025-09-10T06:42:48.000Z",
+      "edit_history_tweet_ids": [
+        "1965667252641865741"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "33135576",
+            "start": 0,
+            "username": "jkudish"
+          },
+          {
+            "end": 20,
+            "id": "716933677",
+            "start": 9,
+            "username": "adamwathan"
+          },
+          {
+            "end": 28,
+            "id": "15281463",
+            "start": 21,
+            "username": "CasJam"
+          }
+        ]
+      },
+      "id": "1965667252641865741",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 93,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@jkudish @adamwathan @CasJam Agent OS + Claude Code is a powerful combination! The structured approach from Agent OS really complements Claude's capabilities. Have you tried using custom agents for specific frameworks? The productivity boost is incredible when properly configured.",
+      "url": "https://x.com/bourneliu66/status/1965667252641865741"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1965257306125549881",
+      "created_at": "2025-09-10T06:42:47.000Z",
+      "edit_history_tweet_ids": [
+        "1965667251371061460"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "6690032",
+            "start": 0,
+            "username": "vista8"
+          },
+          {
+            "end": 18,
+            "id": "1081165398",
+            "start": 8,
+            "username": "MrHagosDE"
+          }
+        ]
+      },
+      "id": "1965667251371061460",
+      "in_reply_to_user_id": "6690032",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1221,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965257306125549881",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vista8 @MrHagosDE The MCP ecosystem is really expanding Claude Code's capabilities! Context 7 for documentation and Exa for web search are game-changers. The agent specialization is brilliant - having dedicated prompts for different tech stacks saves so much setup time.",
+      "url": "https://x.com/bourneliu66/status/1965667251371061460"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1965666611622543507",
+      "created_at": "2025-09-10T06:42:47.000Z",
+      "edit_history_tweet_ids": [
+        "1965667250112721398"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1717422066494771200",
+            "start": 0,
+            "username": "prahaladatreyaa"
+          }
+        ]
+      },
+      "id": "1965667250112721398",
+      "in_reply_to_user_id": "1717422066494771200",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 476,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965666611622543507",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@prahaladatreyaa Absolutely agree! Claude Code's ability to understand context and maintain state across complex operations is a game-changer. The file system integration and multi-step task execution make it incredibly powerful for real development work.",
+      "url": "https://x.com/bourneliu66/status/1965667250112721398"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1965142427460919653",
+      "created_at": "2025-09-10T06:42:47.000Z",
+      "edit_history_tweet_ids": [
+        "1965667248816758844"
+      ],
+      "id": "1965667248816758844",
+      "in_reply_to_user_id": "1883961278869204993",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 142,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965666911276216345",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@HeglerPavel @SpaniardPM Claude Code + TanStack Start is a solid combo! The type safety from TanStack paired with Claude's code generation abilities really speeds up development. Have you noticed improvements in your API route generation with this setup?",
+      "url": "https://x.com/bourneliu66/status/1965667248816758844"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1965666814689763827",
+      "created_at": "2025-09-10T06:42:47.000Z",
+      "edit_history_tweet_ids": [
+        "1965667248812495137"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1466032067268198405",
+            "start": 0,
+            "username": "bachi7q"
+          }
+        ]
+      },
+      "id": "1965667248812495137",
+      "in_reply_to_user_id": "1466032067268198405",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 832,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965666814689763827",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bachi7q Response time can vary based on model complexity and context size. Try using smaller, focused prompts for faster responses. Also, Claude Code's caching mechanism helps with repeated operations. Have you compared the accuracy trade-off between the two?",
+      "url": "https://x.com/bourneliu66/status/1965667248812495137"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1965644165343236207",
+      "created_at": "2025-09-10T06:42:46.000Z",
+      "edit_history_tweet_ids": [
+        "1965667247206138260"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1246741533618917377",
+            "start": 0,
+            "username": "zaidmukaddam"
+          },
+          {
+            "end": 25,
+            "id": "1248119942194421760",
+            "start": 14,
+            "username": "moinulmoin"
+          }
+        ]
+      },
+      "id": "1965667247206138260",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Actually, Claude Code works great through the terminal! While no web UI yet, the CLI experience is quite powerful - you get direct file system access, can run commands, and the workflow feels more integrated with your dev environment. Have you tried it with VS Code or other editors?"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 126,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@zaidmukaddam @moinulmoin Actually, Claude Code works great through the terminal! While no web UI yet, the CLI experience is quite powerful - you get direct file system access, can run commands, and the workflow feels more integrated with your dev environment. Have you tried it with VS Code or other",
+      "url": "https://x.com/bourneliu66/status/1965667247206138260"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1965666913247461384",
+      "created_at": "2025-09-10T06:42:46.000Z",
+      "edit_history_tweet_ids": [
+        "1965667247147401545"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1502119029716127747",
+            "start": 0,
+            "username": "huangzh65903362"
+          }
+        ]
+      },
+      "id": "1965667247147401545",
+      "in_reply_to_user_id": "1502119029716127747",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 662,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965666913247461384",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@huangzh65903362 Great question! I often let Claude Code handle: data analysis pipelines, automated testing suites, and documentation generation. The background execution is perfect for web scraping tasks or batch processing jobs. What's your favorite long-running task to delegate?",
+      "url": "https://x.com/bourneliu66/status/1965667247147401545"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1965238701208023111",
+      "created_at": "2025-09-09T02:19:53.000Z",
+      "edit_history_tweet_ids": [
+        "1965238701208023111"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/jingran96/stat…",
+            "end": 47,
+            "expanded_url": "https://twitter.com/jingran96/status/1965107405857177653",
+            "start": 24,
+            "url": "https://t.co/oEL12opOZk"
+          }
+        ]
+      },
+      "id": "1965238701208023111",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 6376,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1965107405857177653",
+          "type": "quoted"
+        }
+      ],
+      "text": "这位同学太励志了，他是字面意思上的“零基础”… https://t.co/oEL12opOZk",
+      "url": "https://x.com/bourneliu66/status/1965238701208023111"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1964721050346020864",
+          "3_1964721063348391936",
+          "3_1964721056373223424",
+          "3_1964721062152957952"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1964721066821189789",
+      "created_at": "2025-09-07T16:02:59.000Z",
+      "edit_history_tweet_ids": [
+        "1964721066821189789"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/gBLv7DFCe6",
+            "end": 47,
+            "expanded_url": "https://x.com/bourneliu66/status/1964721066821189789/photo/1",
+            "media_key": "3_1964721050346020864",
+            "start": 24,
+            "url": "https://t.co/gBLv7DFCe6"
+          },
+          {
+            "display_url": "pic.x.com/gBLv7DFCe6",
+            "end": 47,
+            "expanded_url": "https://x.com/bourneliu66/status/1964721066821189789/photo/2",
+            "media_key": "3_1964721063348391936",
+            "start": 24,
+            "url": "https://t.co/gBLv7DFCe6"
+          },
+          {
+            "display_url": "pic.x.com/gBLv7DFCe6",
+            "end": 47,
+            "expanded_url": "https://x.com/bourneliu66/status/1964721066821189789/photo/3",
+            "media_key": "3_1964721056373223424",
+            "start": 24,
+            "url": "https://t.co/gBLv7DFCe6"
+          },
+          {
+            "display_url": "pic.x.com/gBLv7DFCe6",
+            "end": 47,
+            "expanded_url": "https://x.com/bourneliu66/status/1964721066821189789/photo/4",
+            "media_key": "3_1964721062152957952",
+            "start": 24,
+            "url": "https://t.co/gBLv7DFCe6"
+          }
+        ]
+      },
+      "id": "1964721066821189789",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6243,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "几时归去，作个闲人。对一辆车，一头牛，一溪云。 https://t.co/gBLv7DFCe6",
+      "url": "https://x.com/bourneliu66/status/1964721066821189789"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1964684479374757985",
+      "created_at": "2025-09-07T15:39:32.000Z",
+      "edit_history_tweet_ids": [
+        "1964715163267043475"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1907459958746316800",
+            "start": 0,
+            "username": "ciaotigre"
+          }
+        ]
+      },
+      "id": "1964715163267043475",
+      "in_reply_to_user_id": "1907459958746316800",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 590,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964684479374757985",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ciaotigre 谢谢！",
+      "url": "https://x.com/bourneliu66/status/1964715163267043475"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1964713427198468117",
+      "created_at": "2025-09-07T15:32:38.000Z",
+      "edit_history_tweet_ids": [
+        "1964713427198468117"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/hezhiyan7/stat…",
+            "end": 61,
+            "expanded_url": "https://twitter.com/hezhiyan7/status/1964684239020118506",
+            "start": 38,
+            "url": "https://t.co/apRhMzZPhj"
+          }
+        ]
+      },
+      "id": "1964713427198468117",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 8114,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964684239020118506",
+          "type": "quoted"
+        }
+      ],
+      "text": "这是一位出海AI产品新人，也是我的学员。人和产品都非常优秀。欢迎大家关注。 https://t.co/apRhMzZPhj",
+      "url": "https://x.com/bourneliu66/status/1964713427198468117"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1964372655848775848",
+      "created_at": "2025-09-06T18:12:07.000Z",
+      "edit_history_tweet_ids": [
+        "1964391176901185577"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "183099687",
+            "start": 0,
+            "username": "xiaob123"
+          }
+        ]
+      },
+      "id": "1964391176901185577",
+      "in_reply_to_user_id": "183099687",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 500,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964389782878114302",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaob123 我是用英国公司开的账户，不好意思",
+      "url": "https://x.com/bourneliu66/status/1964391176901185577"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1964184228746129858",
+      "created_at": "2025-09-06T16:59:43.000Z",
+      "edit_history_tweet_ids": [
+        "1964372953979900255"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "167305719",
+            "start": 0,
+            "username": "abgne_tw"
+          }
+        ]
+      },
+      "id": "1964372953979900255",
+      "in_reply_to_user_id": "2815325906",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1193,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964370829732655219",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@abgne_tw 补充：问了一个离anthropic比较近的朋友，的确，正在加速放量",
+      "url": "https://x.com/bourneliu66/status/1964372953979900255"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1964372655848775848",
+      "created_at": "2025-09-06T16:58:32.000Z",
+      "edit_history_tweet_ids": [
+        "1964372655848775848"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/bourneliu66/st…",
+            "end": 127,
+            "expanded_url": "https://twitter.com/bourneliu66/status/1964184228746129858",
+            "start": 104,
+            "url": "https://t.co/9JSykSgduQ"
+          }
+        ]
+      },
+      "id": "1964372655848775848",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 16504,
+        "like_count": 27,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964184228746129858",
+          "type": "quoted"
+        }
+      ],
+      "text": "刚一个硅谷的朋友告诉了我一个小道消息：Claude for Chrome 即将放量！很快各位就会收到使用邀请了，优先开给200美金、使用量较大的Claude Max Plan用户。记得去填Waitlist。 https://t.co/9JSykSgduQ",
+      "url": "https://x.com/bourneliu66/status/1964372655848775848"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1964184228746129858",
+      "created_at": "2025-09-06T16:51:16.000Z",
+      "edit_history_tweet_ids": [
+        "1964370829732655219"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "167305719",
+            "start": 0,
+            "username": "abgne_tw"
+          }
+        ]
+      },
+      "id": "1964370829732655219",
+      "in_reply_to_user_id": "167305719",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1191,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964354388157399110",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@abgne_tw 原来如此！看来这几天放量了",
+      "url": "https://x.com/bourneliu66/status/1964370829732655219"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1964184228746129858",
+      "created_at": "2025-09-06T14:27:36.000Z",
+      "edit_history_tweet_ids": [
+        "1964334673699459220"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "167305719",
+            "start": 0,
+            "username": "abgne_tw"
+          }
+        ]
+      },
+      "id": "1964334673699459220",
+      "in_reply_to_user_id": "167305719",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3160,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964233540050309140",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@abgne_tw 你是怎么感觉出来的？你在别的地方看到过其他人用上吗",
+      "url": "https://x.com/bourneliu66/status/1964334673699459220"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1964184228746129858",
+      "created_at": "2025-09-06T14:27:05.000Z",
+      "edit_history_tweet_ids": [
+        "1964334542421934101"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "145768838",
+            "start": 0,
+            "username": "sooogooo"
+          }
+        ]
+      },
+      "id": "1964334542421934101",
+      "in_reply_to_user_id": "145768838",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3196,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964211598223933862",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sooogooo 不需要。任何浏览器都可以。这是浏览器插件。",
+      "url": "https://x.com/bourneliu66/status/1964334542421934101"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_1964183689115619328"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1964184228746129858",
+      "created_at": "2025-09-06T04:29:47.000Z",
+      "edit_history_tweet_ids": [
+        "1964184228746129858"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/yURoK3mAAgYw…",
+            "end": 151,
+            "expanded_url": "https://mp.weixin.qq.com/s/yURoK3mAAgYwoTYyf32s4A",
+            "start": 128,
+            "url": "https://t.co/7DnuJvgkSX"
+          },
+          {
+            "display_url": "pic.x.com/U4S5gGVMyQ",
+            "end": 175,
+            "expanded_url": "https://x.com/bourneliu66/status/1964184228746129858/video/1",
+            "media_key": "13_1964183689115619328",
+            "start": 152,
+            "url": "https://t.co/U4S5gGVMyQ"
+          }
+        ]
+      },
+      "id": "1964184228746129858",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 652,
+        "impression_count": 123163,
+        "like_count": 540,
+        "quote_count": 5,
+        "reply_count": 60,
+        "retweet_count": 114
+      },
+      "text": "用Claude for Chrome 来自动回复微信，神一样的体验！以后做微商的、做私域的朋友们有福了。AI浏览器的创业比赛，即将结束。\n\n由于全球只有1000个用户有权限，我敢打赌，你肯定没见过！\n\n下面的视频一镜到底，原速，未做任何剪辑\n\n更多测评见 https://t.co/7DnuJvgkSX https://t.co/U4S5gGVMyQ",
+      "url": "https://x.com/bourneliu66/status/1964184228746129858"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1963866743962521744",
+      "created_at": "2025-09-05T07:28:13.000Z",
+      "edit_history_tweet_ids": [
+        "1963866743962521744"
+      ],
+      "id": "1963866743962521744",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 268,
+              "start": 261,
+              "tag": "KimiK2"
+            },
+            {
+              "end": 274,
+              "start": 269,
+              "tag": "AI评测"
+            },
+            {
+              "end": 279,
+              "start": 275,
+              "tag": "科技圈"
+            },
+            {
+              "end": 285,
+              "start": 280,
+              "tag": "国产AI"
+            }
+          ]
+        },
+        "text": "Kimi K2新版体验：这次真的不是\"人工智障\"了 😂\n\n刚和Kimi K2的新版本battle了一下午，必须来汇报下战果：\n\n✅ 代码review比我同事还细致\n✅ 写技术文档比我这个老油条还专业  \n✅ 最离谱的是连我故意埋的坑都能识别出来\n\n有个瞬间我都怀疑对面是不是坐着个真人程序员在帮我对话...这上下文理解和逻辑推理，说是当前中文AI天花板不过分吧？\n\n今晚准备来个全面体检，从代码能力到创意写作，看看这个新Kimi到底进化到什么程度。想第一时间看评测的朋友记得关注我，咱们一起见证下国产AI的逆袭时刻 🚀\n\n#KimiK2 #AI评测 #科技圈 #国产AI"
+      },
+      "public_metrics": {
+        "bookmark_count": 126,
+        "impression_count": 116492,
+        "like_count": 188,
+        "quote_count": 2,
+        "reply_count": 26,
+        "retweet_count": 15
+      },
+      "text": "Kimi K2新版体验：这次真的不是\"人工智障\"了 😂\n\n刚和Kimi K2的新版本battle了一下午，必须来汇报下战果：\n\n✅ 代码review比我同事还细致\n✅ 写技术文档比我这个老油条还专业  \n✅ 最离谱的是连我故意埋的坑都能识别出来",
+      "url": "https://x.com/bourneliu66/status/1963866743962521744"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1963124793353654272"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1963125131087155345",
+      "created_at": "2025-09-03T06:21:19.000Z",
+      "edit_history_tweet_ids": [
+        "1963125131087155345"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/4yxxNt1jRIJ7…",
+            "end": 81,
+            "expanded_url": "https://mp.weixin.qq.com/s/4yxxNt1jRIJ7nV1dcvgidQ",
+            "start": 58,
+            "url": "https://t.co/u5TB20xBNk"
+          },
+          {
+            "display_url": "pic.x.com/B1MdfhLJbd",
+            "end": 105,
+            "expanded_url": "https://x.com/bourneliu66/status/1963125131087155345/photo/1",
+            "media_key": "3_1963124793353654272",
+            "start": 82,
+            "url": "https://t.co/B1MdfhLJbd"
+          }
+        ]
+      },
+      "id": "1963125131087155345",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 341,
+        "impression_count": 33095,
+        "like_count": 228,
+        "quote_count": 2,
+        "reply_count": 8,
+        "retweet_count": 33
+      },
+      "text": "用Claude Code 自动发Reddit ，根据帖子内容、其他人的讨论，自动发评论。 效果相当好。\n\n方法详解：https://t.co/u5TB20xBNk https://t.co/B1MdfhLJbd",
+      "url": "https://x.com/bourneliu66/status/1963125131087155345"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "1963107605922107405",
+      "created_at": "2025-09-03T05:11:40.000Z",
+      "edit_history_tweet_ids": [
+        "1963107605922107405"
+      ],
+      "id": "1963107605922107405",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "一秒鉴定你工作单位是不是正经单位———\n今天上午，你们单位组织集体看电视了吗？"
+      },
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 15926,
+        "like_count": 34,
+        "quote_count": 1,
+        "reply_count": 19,
+        "retweet_count": 1
+      },
+      "text": "一秒鉴定你工作单位是不是正经单位———\n今天上午，你们单位组织集体看电视了吗？",
+      "url": "https://x.com/bourneliu66/status/1963107605922107405"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1962844261512105984"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1962844285243719928",
+      "created_at": "2025-09-02T11:45:20.000Z",
+      "edit_history_tweet_ids": [
+        "1962844285243719928"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ofBfj0Vs8Q",
+            "end": 23,
+            "expanded_url": "https://x.com/bourneliu66/status/1962844285243719928/photo/1",
+            "media_key": "3_1962844261512105984",
+            "start": 0,
+            "url": "https://t.co/ofBfj0Vs8Q"
+          }
+        ]
+      },
+      "id": "1962844285243719928",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 5682,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "https://t.co/ofBfj0Vs8Q",
+      "url": "https://x.com/bourneliu66/status/1962844285243719928"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1962772829436551169"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1962773584084115724",
+      "created_at": "2025-09-02T07:04:23.000Z",
+      "edit_history_tweet_ids": [
+        "1962773584084115724"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/gHTxh4d6ALfM…",
+            "end": 188,
+            "expanded_url": "https://mp.weixin.qq.com/s/gHTxh4d6ALfMMwfEMZtZ5g",
+            "start": 165,
+            "url": "https://t.co/cyAWYX3ceY"
+          },
+          {
+            "display_url": "pic.x.com/nsrVT7XEl4",
+            "end": 212,
+            "expanded_url": "https://x.com/bourneliu66/status/1962773584084115724/photo/1",
+            "media_key": "3_1962772829436551169",
+            "start": 189,
+            "url": "https://t.co/nsrVT7XEl4"
+          }
+        ]
+      },
+      "id": "1962773584084115724",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 301,
+        "impression_count": 51626,
+        "like_count": 280,
+        "quote_count": 3,
+        "reply_count": 26,
+        "retweet_count": 30
+      },
+      "text": "并排开两个窗口，让Claude Code和Codex CLI互相讨论、互相审核，有奇效。\n\n省流版:\n- 除了写界面，其他大部分情况Codex CLI比Claude Code更强，尤其是做算法等复杂编程任务。\n- Codex CLI的用户体验做得比较普通，有条件的话，建议还是以Claude Code为主，Codex为辅。\n\n详情https://t.co/cyAWYX3ceY https://t.co/nsrVT7XEl4",
+      "url": "https://x.com/bourneliu66/status/1962773584084115724"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1962341386562523136"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1962341397866090932",
+      "created_at": "2025-09-01T02:27:02.000Z",
+      "edit_history_tweet_ids": [
+        "1962341397866090932"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "xiaoyuzhoufm.com/episode/68b404…",
+            "end": 30,
+            "expanded_url": "https://www.xiaoyuzhoufm.com/episode/68b404c15faf36865944ac4a?s=eyJ1IjoiNjg2ZTE4MzBkMWQzNTA3MjY5MjY0ZWQ0In0%3D",
+            "start": 7,
+            "status": 200,
+            "unwound_url": "https://www.xiaoyuzhoufm.com/episode/68b404c15faf36865944ac4a?s=eyJ1IjoiNjg2ZTE4MzBkMWQzNTA3MjY5MjY0ZWQ0In0%3D",
+            "url": "https://t.co/h0DrtC3uIV"
+          },
+          {
+            "display_url": "pic.x.com/WzzCmCivMS",
+            "end": 54,
+            "expanded_url": "https://x.com/bourneliu66/status/1962341397866090932/photo/1",
+            "media_key": "3_1962341386562523136",
+            "start": 31,
+            "url": "https://t.co/WzzCmCivMS"
+          }
+        ]
+      },
+      "id": "1962341397866090932",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 47,
+        "impression_count": 18469,
+        "like_count": 94,
+        "quote_count": 5,
+        "reply_count": 8,
+        "retweet_count": 4
+      },
+      "text": "录了一期播客\nhttps://t.co/h0DrtC3uIV https://t.co/WzzCmCivMS",
+      "url": "https://x.com/bourneliu66/status/1962341397866090932"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1961738221186076673",
+          "3_1961739012852633600",
+          "3_1961739337680457728"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "1961740040809394670",
+      "created_at": "2025-08-30T10:37:27.000Z",
+      "edit_history_tweet_ids": [
+        "1961740040809394670"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 36,
+            "id": "84107004",
+            "start": 29,
+            "username": "Claude"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s?__biz=MzI1MT…",
+            "end": 188,
+            "expanded_url": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247498734&idx=1&sn=ec922029a3275bb70ddfdc2405efa9b2&chksm=e9f375f3de84fce578b7ee2aa0b129070d4a159dc7473cf4d686e40b6af0977f1f3d9950de9b&token=1283526581&lang=zh_CN#rd",
+            "start": 165,
+            "url": "https://t.co/I4Ql93wrci"
+          },
+          {
+            "display_url": "pic.x.com/Oz7Bj0JyxH",
+            "end": 212,
+            "expanded_url": "https://x.com/bourneliu66/status/1961740040809394670/photo/1",
+            "media_key": "3_1961738221186076673",
+            "start": 189,
+            "url": "https://t.co/Oz7Bj0JyxH"
+          },
+          {
+            "display_url": "pic.x.com/Oz7Bj0JyxH",
+            "end": 212,
+            "expanded_url": "https://x.com/bourneliu66/status/1961740040809394670/photo/2",
+            "media_key": "3_1961739012852633600",
+            "start": 189,
+            "url": "https://t.co/Oz7Bj0JyxH"
+          },
+          {
+            "display_url": "pic.x.com/Oz7Bj0JyxH",
+            "end": 212,
+            "expanded_url": "https://x.com/bourneliu66/status/1961740040809394670/photo/3",
+            "media_key": "3_1961739337680457728",
+            "start": 189,
+            "url": "https://t.co/Oz7Bj0JyxH"
+          }
+        ]
+      },
+      "id": "1961740040809394670",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "84107004",
+              "start": 29,
+              "username": "claude"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s?__biz=MzI1MT…",
+              "end": 188,
+              "expanded_url": "https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247498734&idx=1&sn=ec922029a3275bb70ddfdc2405efa9b2&chksm=e9f375f3de84fce578b7ee2aa0b129070d4a159dc7473cf4d686e40b6af0977f1f3d9950de9b&token=1283526581&lang=zh_CN#rd",
+              "start": 165,
+              "url": "https://t.co/cse2XFzMq3"
+            }
+          ]
+        },
+        "text": "你可能还不知道：在Github的 Issue中 只要提到 @claude ，即可给Claude Code布置任务，让它干活。\n\n也就是说，我们用Claude Code，可以只靠手机。不再需要打开电脑、也不需要服务器、也不需要翻墙。\n\n配置方法：在Claude Code中输入 /install-github-app \n\n查看查看 https://t.co/cse2XFzMq3"
+      },
+      "public_metrics": {
+        "bookmark_count": 37,
+        "impression_count": 5877,
+        "like_count": 36,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3
+      },
+      "text": "你可能还不知道：在Github的 Issue中 只要提到 @claude ，即可给Claude Code布置任务，让它干活。\n\n也就是说，我们用Claude Code，可以只靠手机。不再需要打开电脑、也不需要服务器、也不需要翻墙。\n\n配置方法：在Claude Code中输入 /install-github-app \n\n查看查看 https://t.co/I4Ql93wrci https://t.co/Oz7Bj0JyxH",
+      "url": "https://x.com/bourneliu66/status/1961740040809394670"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1965666611622543507].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1965666611622543507",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1965666611622543507"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1964721050346020864",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QXYsCbYAAy2JT.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1964721063348391936",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QXZceb0AAqonK.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1964721056373223424",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QXZCfbMAAuPk5.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_1964721062152957952",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QXZYBa8AARG4X.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1080,
+        "media_key": "13_1964183689115619328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964183689115619328/img/Or5x405vImB0_CYb.jpg",
+        "type": "video",
+        "width": 1874
+      },
+      {
+        "height": 1270,
+        "media_key": "3_1963124793353654272",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5rmTWbUAAj5Lq.jpg",
+        "width": 1592
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1962844261512105984",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1sdMzX0AATtEm.jpg",
+        "width": 1024
+      },
+      {
+        "height": 958,
+        "media_key": "3_1962772829436551169",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz0rfTlaoAEJp5g.jpg",
+        "width": 2508
+      },
+      {
+        "height": 1813,
+        "media_key": "3_1962341386562523136",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzujGBobUAAFRq1.jpg",
+        "width": 1081
+      },
+      {
+        "height": 1178,
+        "media_key": "3_1961738221186076673",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzl-hLgaUAESEMN.jpg",
+        "width": 1910
+      },
+      {
+        "height": 1246,
+        "media_key": "3_1961739012852633600",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzl_PQsbUAAzSsp.jpg",
+        "width": 1782
+      },
+      {
+        "height": 1364,
+        "media_key": "3_1961739337680457728",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzl_iKxakAAL2-C.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1965255871967232000"
+          ]
+        },
+        "author_id": "6690032",
+        "conversation_id": "1965257306125549881",
+        "created_at": "2025-09-09T03:33:49.000Z",
+        "edit_history_tweet_ids": [
+          "1965257306125549881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kuhXsoEgAG",
+              "end": 195,
+              "expanded_url": "https://x.com/vista8/status/1965257306125549881/photo/1",
+              "media_key": "3_1965255871967232000",
+              "start": 172,
+              "url": "https://t.co/kuhXsoEgAG"
+            }
+          ]
+        },
+        "id": "1965257306125549881",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "如果你用Claude Code编程，这个网站很值得收藏！\n\n有点像Claude Code插件商店，挑选需要的：\n\n① MCP（比如Context 7、Exa搜索）\n② Agent（如前端开发、Ruby开发提示词和规则）\n③ Hook（比如Telegram、Slack通知、Vercel自动部署）\n\n可以单个复制安装，也可以点击添加到Stack\n\nStack可理解为购物车，选好以后。\n\n自动生成一个统一的指令。\n\n一键安装到你的Claude Code，快速提升AI的专业水平。\n\n也方便团队共享插件协作。\n\n网址见评论区"
+        },
+        "public_metrics": {
+          "bookmark_count": 867,
+          "impression_count": 72974,
+          "like_count": 627,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 123
+        },
+        "text": "如果你用Claude Code编程，这个网站很值得收藏！\n\n有点像Claude Code插件商店，挑选需要的：\n\n① MCP（比如Context 7、Exa搜索）\n② Agent（如前端开发、Ruby开发提示词和规则）\n③ Hook（比如Telegram、Slack通知、Vercel自动部署）\n\n可以单个复制安装，也可以点击添加到Stack https://t.co/kuhXsoEgAG"
+      },
+      {
+        "author_id": "1883961278869204993",
+        "conversation_id": "1965142427460919653",
+        "created_at": "2025-09-10T06:41:26.000Z",
+        "edit_history_tweet_ids": [
+          "1965666911276216345"
+        ],
+        "id": "1965666911276216345",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@SpaniardPM Did you try claude code and Tanstack Start?"
+      },
+      {
+        "author_id": "1466032067268198405",
+        "conversation_id": "1965666814689763827",
+        "created_at": "2025-09-10T06:41:03.000Z",
+        "edit_history_tweet_ids": [
+          "1965666778576719902",
+          "1965666814689763827"
+        ],
+        "id": "1965666814689763827",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1375,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "Codex CLIの応答若干遅い気もする。Claude Codeもこんな感じだっけか🤔"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1965666882872377345",
+            "3_1965666903755816961"
+          ]
+        },
+        "author_id": "1502119029716127747",
+        "conversation_id": "1965666913247461384",
+        "created_at": "2025-09-10T06:41:27.000Z",
+        "edit_history_tweet_ids": [
+          "1965666913247461384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VDddGTRdQ",
+              "end": 87,
+              "expanded_url": "https://x.com/huangzh65903362/status/1965666913247461384/photo/1",
+              "media_key": "3_1965666882872377345",
+              "start": 64,
+              "url": "https://t.co/3VDddGTRdQ"
+            },
+            {
+              "display_url": "pic.x.com/3VDddGTRdQ",
+              "end": 87,
+              "expanded_url": "https://x.com/huangzh65903362/status/1965666913247461384/photo/2",
+              "media_key": "3_1965666903755816961",
+              "start": 64,
+              "url": "https://t.co/3VDddGTRdQ"
+            }
+          ]
+        },
+        "id": "1965666913247461384",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1065,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "出去玩，睡觉，办其他事情的时候你们都会让 Claude Code 运行哪些长时间任务呢？\n\n让家里的“电脑员工”时刻运行工作🤔 https://t.co/3VDddGTRdQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1965106384816717824",
+            "3_1965106430148837380",
+            "3_1965107238068236288",
+            "3_1965107261875126276"
+          ]
+        },
+        "author_id": "1929608531717812224",
+        "conversation_id": "1965107405857177653",
+        "created_at": "2025-09-08T17:38:10.000Z",
+        "edit_history_tweet_ids": [
+          "1965107405857177653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2815325906",
+              "start": 20,
+              "username": "bourneliu66"
+            },
+            {
+              "end": 45,
+              "id": "362252075",
+              "start": 37,
+              "username": "gefei55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rYolbduat",
+              "end": 69,
+              "expanded_url": "https://x.com/jingran96/status/1965107405857177653/photo/1",
+              "media_key": "3_1965106384816717824",
+              "start": 46,
+              "url": "https://t.co/8rYolbduat"
+            },
+            {
+              "display_url": "pic.x.com/8rYolbduat",
+              "end": 69,
+              "expanded_url": "https://x.com/jingran96/status/1965107405857177653/photo/2",
+              "media_key": "3_1965106430148837380",
+              "start": 46,
+              "url": "https://t.co/8rYolbduat"
+            },
+            {
+              "display_url": "pic.x.com/8rYolbduat",
+              "end": 69,
+              "expanded_url": "https://x.com/jingran96/status/1965107405857177653/photo/3",
+              "media_key": "3_1965107238068236288",
+              "start": 46,
+              "url": "https://t.co/8rYolbduat"
+            },
+            {
+              "display_url": "pic.x.com/8rYolbduat",
+              "end": 69,
+              "expanded_url": "https://x.com/jingran96/status/1965107405857177653/photo/4",
+              "media_key": "3_1965107261875126276",
+              "start": 46,
+              "url": "https://t.co/8rYolbduat"
+            }
+          ]
+        },
+        "id": "1965107405857177653",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8737,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "分享一些我走过来的痕迹，再次感谢小排老师@bourneliu66和哥飞老师@gefei55 https://t.co/8rYolbduat"
+      },
+      {
+        "author_id": "1907459958746316800",
+        "conversation_id": "1964684479374757985",
+        "created_at": "2025-09-07T13:37:36.000Z",
+        "edit_history_tweet_ids": [
+          "1964684479374757985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bourneliu66/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/bourneliu66/status/1962341397866090932",
+              "start": 65,
+              "url": "https://t.co/aZ4mrlq4EN"
+            }
+          ]
+        },
+        "id": "1964684479374757985",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1297,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962341397866090932",
+            "type": "quoted"
+          }
+        ],
+        "text": "一直在追十字路口的播客节目，没想到刚好听到了小排老师这期分享，干货满满，受益匪浅！\n\n(意外还发现了居然和小排老师是校友hhh) https://t.co/aZ4mrlq4EN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1964683549426286592",
+            "3_1964683584083808256",
+            "3_1964683619764678656",
+            "3_1964683749096071168"
+          ]
+        },
+        "author_id": "1554325830708314112",
+        "conversation_id": "1964684239020118506",
+        "created_at": "2025-09-07T13:36:39.000Z",
+        "edit_history_tweet_ids": [
+          "1964684239020118506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/moajmQM944",
+              "end": 157,
+              "expanded_url": "https://x.com/hezhiyan7/status/1964684239020118506/photo/1",
+              "media_key": "3_1964683549426286592",
+              "start": 134,
+              "url": "https://t.co/moajmQM944"
+            },
+            {
+              "display_url": "pic.x.com/moajmQM944",
+              "end": 157,
+              "expanded_url": "https://x.com/hezhiyan7/status/1964684239020118506/photo/2",
+              "media_key": "3_1964683584083808256",
+              "start": 134,
+              "url": "https://t.co/moajmQM944"
+            },
+            {
+              "display_url": "pic.x.com/moajmQM944",
+              "end": 157,
+              "expanded_url": "https://x.com/hezhiyan7/status/1964684239020118506/photo/3",
+              "media_key": "3_1964683619764678656",
+              "start": 134,
+              "url": "https://t.co/moajmQM944"
+            },
+            {
+              "display_url": "pic.x.com/moajmQM944",
+              "end": 157,
+              "expanded_url": "https://x.com/hezhiyan7/status/1964684239020118506/photo/4",
+              "media_key": "3_1964683749096071168",
+              "start": 134,
+              "url": "https://t.co/moajmQM944"
+            }
+          ]
+        },
+        "id": "1964684239020118506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 396,
+                "id": "2815325906",
+                "start": 384,
+                "username": "bourneliu66"
+              },
+              {
+                "end": 425,
+                "id": "362252075",
+                "start": 417,
+                "username": "gefei55"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "makememe.net",
+                "end": 492,
+                "expanded_url": "http://makememe.net",
+                "start": 469,
+                "url": "https://t.co/6ngUGeRmpt"
+              }
+            ]
+          },
+          "text": "终于实现了2个人都不上班的生活啦！\n不是去躺平，而是和老婆在家按自己的节奏，把想做的事认真做成。\n\n毕业后，在爱奇艺做了5年安卓开发，节奏稳定，朝九晚六。作为队长参加过2次公司黑客马拉松，两次进入公司决赛，一次获得了黑马奖。业余还组了王者荣耀战队，拿过全国百强战队。\n不差，但总觉得像在原地跑步。\n\n但是自己内心还是想回老家发展，也有着一个做独立产品的梦，感觉现在AI浪潮下，是有一波机会。于是，今年3月我申请了大礼包，希望在自己30 岁前，折腾出一些名堂。\n\n老婆是去年开始就自由职业，做小红书店铺，拿到了还不错的结果。我们正式变成「两人工作室」，在家办公、彼此打气。另外还有一只调皮的柴犬和我们一起奋斗，她叫“八条”。\n\n刚开始，我做了2个月的小程序，累计有1万多的用户，但是广告费只有300多，做了很多，但是回报很少，我开始把视角抬到海外。\n\n5 月加入刘小排 @bourneliu66  产品的学习实战之旅。\n6月进入了哥飞 @gefei55 老师的社群\n7月哥飞社群新词站比赛拿到第 15 名\n8月深海黑客马拉松两个作品进决赛，https://t.co/6ngUGeRmpt 拿到铜奖。\n\n目前累计上线了20个网站，出了10单的积分购买和一个订阅，以及微薄的adsens 收入。\n\n自己还是会有些迷茫，但是我知道这是一条正确的道路，去做吧，即使失败也不后悔，人生难得有这样的拼搏的机会。\n\n接下来我会继续做小而美的 AI 网站，公开记录我的每一步，如果你也在路上，欢迎交流与互相打气。"
+        },
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 239610,
+          "like_count": 732,
+          "quote_count": 13,
+          "reply_count": 116,
+          "retweet_count": 45
+        },
+        "text": "终于实现了2个人都不上班的生活啦！\n不是去躺平，而是和老婆在家按自己的节奏，把想做的事认真做成。\n\n毕业后，在爱奇艺做了5年安卓开发，节奏稳定，朝九晚六。作为队长参加过2次公司黑客马拉松，两次进入公司决赛，一次获得了黑马奖。业余还组了王者荣耀战队，拿过全国百强战队。 https://t.co/moajmQM944"
+      },
+      {
+        "author_id": "183099687",
+        "conversation_id": "1964372655848775848",
+        "created_at": "2025-09-06T18:06:35.000Z",
+        "edit_history_tweet_ids": [
+          "1964389782878114302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2815325906",
+              "start": 0,
+              "username": "bourneliu66"
+            }
+          ]
+        },
+        "id": "1964389782878114302",
+        "in_reply_to_user_id": "2815325906",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964372655848775848",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 Claude 屏蔽中国账户包括你这样开发者用户吗？"
+      },
+      {
+        "author_id": "2815325906",
+        "conversation_id": "1964184228746129858",
+        "created_at": "2025-09-06T16:51:16.000Z",
+        "edit_history_tweet_ids": [
+          "1964370829732655219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "167305719",
+              "start": 0,
+              "username": "abgne_tw"
+            }
+          ]
+        },
+        "id": "1964370829732655219",
+        "in_reply_to_user_id": "167305719",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1191,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964354388157399110",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@abgne_tw 原来如此！看来这几天放量了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1964183689115619328"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "1964184228746129858",
+        "created_at": "2025-09-06T04:29:47.000Z",
+        "edit_history_tweet_ids": [
+          "1964184228746129858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/yURoK3mAAgYw…",
+              "end": 151,
+              "expanded_url": "https://mp.weixin.qq.com/s/yURoK3mAAgYwoTYyf32s4A",
+              "start": 128,
+              "url": "https://t.co/7DnuJvgkSX"
+            },
+            {
+              "display_url": "pic.x.com/U4S5gGVMyQ",
+              "end": 175,
+              "expanded_url": "https://x.com/bourneliu66/status/1964184228746129858/video/1",
+              "media_key": "13_1964183689115619328",
+              "start": 152,
+              "url": "https://t.co/U4S5gGVMyQ"
+            }
+          ]
+        },
+        "id": "1964184228746129858",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 652,
+          "impression_count": 123163,
+          "like_count": 540,
+          "quote_count": 5,
+          "reply_count": 60,
+          "retweet_count": 114
+        },
+        "text": "用Claude for Chrome 来自动回复微信，神一样的体验！以后做微商的、做私域的朋友们有福了。AI浏览器的创业比赛，即将结束。\n\n由于全球只有1000个用户有权限，我敢打赌，你肯定没见过！\n\n下面的视频一镜到底，原速，未做任何剪辑\n\n更多测评见 https://t.co/7DnuJvgkSX https://t.co/U4S5gGVMyQ"
+      },
+      {
+        "author_id": "167305719",
+        "conversation_id": "1964184228746129858",
+        "created_at": "2025-09-06T15:45:56.000Z",
+        "edit_history_tweet_ids": [
+          "1964354388157399110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2815325906",
+              "start": 0,
+              "username": "bourneliu66"
+            }
+          ]
+        },
+        "id": "1964354388157399110",
+        "in_reply_to_user_id": "2815325906",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964334673699459220",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 因為我也有收到信(Your Claude Chrome extension is here), 我安裝後也授權成功, 也能使用。\n\n你是超高用量的用戶我覺得合理, 但我並不是卻也被選中, 所以才覺得應該不止1000個名額。"
+      },
+      {
+        "author_id": "167305719",
+        "conversation_id": "1964184228746129858",
+        "created_at": "2025-09-06T07:45:44.000Z",
+        "edit_history_tweet_ids": [
+          "1964233540050309140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2815325906",
+              "start": 0,
+              "username": "bourneliu66"
+            }
+          ]
+        },
+        "id": "1964233540050309140",
+        "in_reply_to_user_id": "2815325906",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3651,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964184228746129858",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 我怎麼覺得應該不止1000個名額"
+      },
+      {
+        "author_id": "145768838",
+        "conversation_id": "1964184228746129858",
+        "created_at": "2025-09-06T06:18:32.000Z",
+        "edit_history_tweet_ids": [
+          "1964211598223933862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2815325906",
+              "start": 0,
+              "username": "bourneliu66"
+            }
+          ]
+        },
+        "id": "1964211598223933862",
+        "in_reply_to_user_id": "2815325906",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4273,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964184228746129858",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 这就是用mac加claude客户端的理由吗？很成立！"
+      }
+    ],
+    "users": [
+      {
+        "id": "2815325906",
+        "name": "刘小排",
+        "username": "bourneliu66"
+      },
+      {
+        "id": "6690032",
+        "name": "向阳乔木",
+        "username": "vista8"
+      },
+      {
+        "id": "1717422066494771200",
+        "name": "Prahalad Atreyaa",
+        "username": "prahaladatreyaa"
+      },
+      {
+        "id": "1883961278869204993",
+        "name": "Pavel Hegler 🫆",
+        "username": "pavelhegler"
+      },
+      {
+        "id": "1466032067268198405",
+        "name": "ばーちー",
+        "username": "bachi7q"
+      },
+      {
+        "id": "1502119029716127747",
+        "name": "是魔王哒！",
+        "username": "huangzh65903362"
+      },
+      {
+        "id": "1907459958746316800",
+        "name": "Kevin",
+        "username": "ciaotigre"
+      },
+      {
+        "id": "183099687",
+        "name": "Xiaobaok",
+        "username": "xiaob123"
+      },
+      {
+        "id": "167305719",
+        "name": "Ace Lee",
+        "username": "abgne_tw"
+      },
+      {
+        "id": "145768838",
+        "name": "Michael Lee",
+        "username": "sooogooo"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1965667252641865741",
+    "next_token": "7140dibdnow9c7btw4e263fb3p41h2a4s4z98u5vw7m0g",
+    "oldest_id": "1961740040809394670",
+    "previous_token": "77qpymm88g5h9vqklv3dmrg9qogkj1jznxsze0pdm93jl",
+    "result_count": 25
+  }
+}

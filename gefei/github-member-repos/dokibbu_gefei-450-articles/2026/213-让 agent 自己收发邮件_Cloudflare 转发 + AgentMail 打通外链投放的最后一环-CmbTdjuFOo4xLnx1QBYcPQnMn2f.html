@@ -1,0 +1,101 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>让 agent 自己收发邮件:Cloudflare 转发 + AgentMail 打通外链投放的最后一环</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>让 agent 自己收发邮件:Cloudflare 转发 + AgentMail 打通外链投放的最后一环</h1><div class="meta">离线存档 · 2026-09-04T10:50:19.330Z · <a href="https://my.feishu.cn/docx/CmbTdjuFOo4xLnx1QBYcPQnMn2f">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/hiscrgya...<a class="source-link" href="https://new.web.cafe/topic/hiscrgyalm">https://new.web.cafe/topic/hiscrgya...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-08-02 21:03:38 (UTC+8)</blockquote>
+<p id="b5">做外链投放自动化,你很快会撞上一堵墙: 目录站要你注册账号,注册要验证邮箱。</p>
+<p id="b6">agent 填完表点提交,站方回一句&quot;验证链接已发到你邮箱&quot;。然后呢?没有然后了 —— 脚本看不到邮箱,流程断在这。</p>
+<p id="b7">我最后是用 Cloudflare Email Routing + AgentMail 把这一环补上的,现在 agent 能自己注册、自己收验证信、自己点链接激活、自己认领站方后续的通知。这篇讲怎么搭,以及中间踩的几个坑。</p>
+<p id="b8"><br></p>
+<h2 id="b9">一、为什么不能随便找个邮箱了事</h2>
+<p id="b10">最直觉的做法是给 agent 一个 Gmail 或 QQ 邮箱,用 IMAP 读。我一开始就是这么干的,跑起来之后发现三个问题:</p>
+<p id="b11">问题一:分不清哪封信是哪个产品的。</p>
+<p id="b12">如果你手上不止一个站,所有目录站的回信都堆进同一个邮箱。发件人是 noreply@somedirectory.com ,主题是 &quot;Your submission has been received&quot; —— 这封信到底是哪个产品的提交回执?靠猜。<a class="source-link" href="mailto:noreply@somedirectory.com">noreply@somedirectory.com</a></p>
+<p id="b13">问题二:邮箱地址泄露给几十个目录站。</p>
+<p id="b14">你的主邮箱会被写进几十个目录的数据库。这些站本身就是做 SEO 的,名单转手是常事。</p>
+<p id="b15">问题三:业务号被风控。</p>
+<p id="b16">我在另一个项目上吃过亏 —— 用常用账号跑自动化,直接被锁号。</p>
+<p id="b17"><br></p>
+<h2 id="b18">二、架构:一个域名邮箱 + 一个 agent 信箱</h2>
+<p id="b19">最终的形态很简单:</p>
+<p id="b20"><br>代码块<br>JavaScript<br>目录站发信 → contact@产品域名              (产品专属地址,写在提交资料里)<br>                    ↓<br>            Cloudflare Email Routing    (免费转发,原始 To 头保留)<br>                    ↓<br>            agent 信箱 (AgentMail)      (有 API,脚本直接读)<br>                    ↓<br>            mail_sweeper 常驻进程        (LLM 判意图 → 安全闸 → 写回状态)<br></p>
+<p id="b21">关键在于 每个产品一个专属地址 :</p>
+<div class="list bullet" id="b22">•<br>产品 A → contact@产品A域名</div>
+<div class="list bullet" id="b23">•<br>产品 B → contact@产品B域名</div>
+<p id="b24">这些地址全部转发到同一个 agent 信箱。脚本读信的时候,看 To 头 就知道这封信属于哪个产品 —— 不用猜、不用按发件域反查投放记录。</p>
+<h3 id="b25">Cloudflare 这边怎么配</h3>
+<p id="b26">Email Routing 在 Cloudflare 面板里是免费的,前提是域名托管在 CF:</p>
+<div class="list ordered" id="b27">1.<br>域名 → Email → Email Routing → 启用</div>
+<div class="list ordered" id="b28">2.<br>它会自动加三条 MX 记录( route1/2/3.mx.cloudflare.net )</div>
+<div class="list ordered" id="b29">3.<br>加一条转发规则: contact@你的域名 → 你的 agent 信箱</div>
+<div class="list ordered" id="b30">4.<br>目标地址要点邮件里的链接确认一次</div>
+<p id="b31">配完 dig +short MX 你的域名 应该能看到那三条 CF 的 MX。</p>
+<p id="b32">免费额度对这个场景绰绰有余 —— 目录站的回信一天也就几封。</p>
+<h3 id="b33">agent 信箱选 AgentMail 的原因</h3>
+<p id="b34">它是给 agent 用的邮箱服务,有 REST API,读信一行代码:</p>
+<p id="b35"><br>代码块<br>Python<br>from agentmail import AgentMail<br>client = AgentMail(api_key=KEY)<br>msgs = client.inboxes.messages.list(inbox, limit=25)<br></p>
+<p id="b36">不用折腾 IMAP、不用处理 OAuth 过期、不用担心&quot;这个登录看起来不安全&quot;。</p>
+<p id="b37">我实际上是 双信箱并行 的:AgentMail 一个,另一个走 QQ 邮箱的 CLI 工具。两个信箱的消息合到一起处理,加了各自的前缀( am: / qq: )做 message_id 去重。多一条通道多一层保险 —— 某一家抽风的时候另一家还在。</p>
+<p id="b38"><br></p>
+<h2 id="b39">三、收到信之后:让 LLM 判意图,规则只做安全</h2>
+<p id="b40">目录站的回信五花八门:验证链接、收录通过、拒绝通知、要你挂徽章、要你补资料、退信、还有一堆营销周刊。</p>
+<p id="b41">我试过用关键词规则分类,很快就放弃了 —— 各家措辞差太远。现在是 LLM 判意图,规则只做安全闸 :</p>
+<p id="b42"><br>代码块<br>JSON<br>{&quot;kind&quot;: &quot;verification_link|approved|rejected|badge_request|info_change|bounce|noise&quot;,<br> &quot;site_domain&quot;: &quot;这封信对应的目录站域名&quot;,<br> &quot;action&quot;: &quot;open_link|record_only|ignore&quot;,<br> &quot;verify_url&quot;: &quot;正文里的验证链接原文&quot;,<br> &quot;summary&quot;: &quot;一句话结论&quot;}<br></p>
+<p id="b43">判出来之后按 kind 分流:验证链接就去点、通过就把投放状态改 success 等终核、拒绝就改 failed、要徽章就标记出来等人工决定。</p>
+<h3 id="b44">这里有个必须讲的安全问题</h3>
+<p id="b45">邮件正文是攻击者可控的。 任何人都能给你的 contact@ 地址发信,信里放一个链接说&quot;请点击验证&quot;。如果 agent 见链接就点,那就是个开放的 SSRF。</p>
+<p id="b46">所以点链接之前有四道闸, 全过才点 :</p>
+<div class="list ordered" id="b47">1.<br>只处理库里打过交道的站 —— 发件站必须在我们的投放记录或账号表里。素不相识的站发来的信一律不点。</div>
+<div class="list ordered" id="b48">2.<br>链接的注册域必须等于发件站,且路径含验证关键词 ( verify / confirm / activate / 激活 …)。</div>
+<div class="list ordered" id="b49">3.<br>链接必须字面出现在原始正文里。 这条是防 LLM 的 —— verify_url 是 LLM 从攻击者可控的正文里&quot;推导&quot;出来的,不能直接采信。LLM 合成出来的地址一律不认。</div>
+<div class="list ordered" id="b50">4.<br>逐跳校验重定向。 只查最终 URL 是不够的 —— 站方/verify → 攻击者/collect?token=x → 站方/done 这种链路,最终 URL 看着人畜无害,但 中间那一跳已经把请求发出去了 ,token 已经泄了。所以每一跳都要单独校验 host,出域立即中止。</div>
+<p id="b51">另外:只发 GET、限 200KB、限 5 跳、TLS 证书必须有效。</p>
+<h3 id="b52">同域判断别自己写</h3>
+<p id="b53">我在这里栽过一次。原来判&quot;链接是不是同域&quot;用的是&quot;取域名最后两段比较&quot;,于是:</p>
+<p id="b54"><br>代码块<br>JavaScript<br>evil.co.uk  vs  somedirectory.co.uk   →  两段都是 &quot;co.uk&quot;  →  判定同域  ✅通过<br></p>
+<p id="b55">任意 .co.uk 域名都能通过同域校验。 后来还发现库里躺着 co.uk 这种伪站点记录。<a class="source-link" href="http://co.uk/">co.uk</a> <a class="source-link" href="http://co.uk/">co.uk</a></p>
+<p id="b56">正确做法是用 公共后缀列表(Public Suffix List) ,这是 Mozilla 维护的权威清单,明确列出哪些后缀是&quot;公共&quot;的( co.uk 、 com.cn 、 github.io 都在里面)。别手写启发式规则,这类判断的边界情况多到超乎想象。<a class="source-link" href="http://co.uk/">co.uk</a> <a class="source-link" href="http://com.cn/">com.cn</a></p>
+<p id="b57"><br></p>
+<h2 id="b58">四、幂等:这一步不做,后果比你想的严重</h2>
+<p id="b59">每封信处理完要记下 message_id,下次跳过。听起来是小事,但漏掉会很难看:</p>
+<div class="list bullet" id="b60">•<br>验证链接被重复点击(有的站会因此失效)</div>
+<div class="list bullet" id="b61">•<br>投放状态被反复改写</div>
+<div class="list bullet" id="b62">•<br>站方看到你反复触发同一个动作</div>
+<p id="b63">我这边的实现是把已处理的 message_id 存成 JSON 文件。这里有两个细节:</p>
+<p id="b64">别做有损截断。 我原来写的是 sorted(已处理)[-3000:] —— 想着控制文件大小。但 message_id 不是按时间排序的,按字典序排完截尾, 会丢掉任意一批已处理记录 ,那些信下轮就被重新处理了。</p>
+<p id="b65">要原子写。 直接 open(path, &quot;w&quot;) 写到一半崩溃,得到的是个空文件,等于全量重跑。正确做法是写临时文件 + os.replace() (同盘 rename 是原子的)。</p>
+<p id="b66"><br></p>
+<h2 id="b67">五、注册这一环:每个站独立账号</h2>
+<p id="b68">有了能收信的邮箱,注册就通了。agent 遇到&quot;必须登录才能提交&quot;的站,流程是:</p>
+<div class="list ordered" id="b69">1.<br>用产品专属邮箱注册</div>
+<div class="list ordered" id="b70">2.<br>站方发验证信 → 转发到 agent 信箱 → mail_sweeper 认出来 → 点链接激活</div>
+<div class="list ordered" id="b71">3.<br>账号信息存进凭据文件(域名 → 用户名/邮箱/密码/注册日期)</div>
+<div class="list ordered" id="b72">4.<br>下次投同一个站直接登录</div>
+<p id="b73">凭据文件我这边已经攒了 34 个站点账号 。</p>
+<h3 id="b74">两个容易忽略的点</h3>
+<p id="b75">凭据文件要加锁。 我这个文件里躺着 34 个站点账号 + 几个 API 密钥。有一次差点出事:读取函数写的是 try: json.load(...) except: return {} —— 看着无害,但如果文件读到一半失败(JSON 少个逗号、或者撞上别的进程正在写),它就静默返回空字典, 紧接着一存,34 段全没了 。而注册账号是补不回来的。</p>
+<p id="b76">改成:只有&quot;文件不存在&quot;才算空,其余读失败一律抛出来。另外读-改-写整段要加文件锁,不然两个进程并发写会丢段( os.replace 保证文件不会写一半,但拦不住&quot;我读到 34 段 → 别人写进第 35 段 → 我把 34 段写回去&quot;)。</p>
+<p id="b77">账号创建这件事本身要人来拍板。 这是我后来加的纪律 —— 代表你在第三方站建账号,不该由脚本自己决定。现在的做法是识别到需要注册就停下来,等人确认。</p>
+<p id="b78"><br></p>
+<h2 id="b79">六、实际效果</h2>
+<p id="b80">跑到现在的数字,不粉饰:</p>
+<p id="b81"><br><br><br>	<br><br><br><br><br><br><br>	<br><br><br><br><br><br>自注册的站点账号<br><br>	<br><br>34 个<br><br><br><br><br>邮箱验证已完成<br><br>	<br><br>5 个站<br><br><br><br><br>走邮件通道的投放<br><br>	<br><br>18 个<br><br></p>
+<p id="b82">这套东西解决的是**&quot;流程断在邮箱&quot;**这个具体问题。它不会让你的外链数字暴涨 —— 目录站外链的转化率本来就低。但在它之前,凡是需要注册的站(我这边有 46 个)一个都投不进去;有了它,这条路至少是通的。</p>
+<h3 id="b83">一个还没解决的坑</h3>
+<p id="b84">我建这套东西之前,已经有 34 个账号是用旧的通用邮箱注册的。新的&quot;每产品一个地址&quot;约定只对 之后 的注册生效。已经注册的那批要迁移,得逐个站改邮箱 —— 这活还没干。</p>
+<p id="b85">如果你要搭,一开始就按产品分地址。 后补迁移比一开始就分要麻烦得多。</p>
+<p id="b86"><br></p>
+<h2 id="b87">附:配置清单</h2>
+<p id="b88">想照着搭的话,需要这些:</p>
+<div class="list ordered" id="b89">1.<br>域名托管在 Cloudflare(Email Routing 的前提)</div>
+<div class="list ordered" id="b90">2.<br>一个 agent 邮箱服务(AgentMail 或同类,要有 API)</div>
+<div class="list ordered" id="b91">3.<br>一个能调 LLM 的通道(判邮件意图用,每封信一次调用,很便宜)</div>
+<div class="list ordered" id="b92">4.<br>Public Suffix List 的数据(判同域用,Mozilla 官方维护,可以生成成代码里的静态表)</div>
+<p id="b93">整套跑在一个常驻脚本里,15 分钟一轮。</p>
+<p id="b95"></p>
+<p id="b97"></p>
+<p id="b99">处理过的邮件</p>
+<p id="b101">46 封</p>
+<p id="b103">自注册的站点账号</p>
+<p id="b105">34 个</p>
+<p id="b107">邮箱验证已完成</p>
+<p id="b109">5 个站</p>
+<p id="b111">走邮件通道的投放</p>
+<p id="b113">18 个</p></main></div></body></html>

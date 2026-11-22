@@ -1,0 +1,43 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>独立开发省钱指南：Supabase 一个数据库给多个产品使用 | Web.Cafe</title><style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;line-height:1.75;color:#1f2329;background:#f5f6f7}.layout{max-width:900px;margin:auto;padding:32px 24px}.article{background:#fff;padding:52px 64px;border-radius:12px;box-shadow:0 2px 12px #0001}h1{font-size:34px;line-height:1.3}h2{font-size:26px;margin-top:2.2em;border-bottom:1px solid #e5e6eb;padding-bottom:.35em}h3{font-size:21px}p,.list,blockquote{margin:1em 0}.list{padding-left:1.4em}blockquote{border-left:4px solid #3370ff;background:#f2f6ff;padding:12px 18px;margin-left:0}img{display:block;max-width:100%;height:auto;margin:22px auto;border-radius:6px}.meta{color:#8f959e;font-size:14px}.source-link{color:#3370ff;word-break:break-all}@media(max-width:850px){.layout{padding:0}.article{padding:28px 20px;border-radius:0}}</style></head><body><div class="layout"><main class="article"><h1>独立开发省钱指南：Supabase 一个数据库给多个产品使用 | Web.Cafe</h1><div class="meta">离线存档 · 2026-09-04T10:59:47.344Z · <a href="https://my.feishu.cn/docx/CLTsdnO8nonrQOxtszrcEE9Qn1f">原文</a></div><blockquote id="b2">🔗 原文链接： https://new.web.cafe/topic/83xkte5v...<a class="source-link" href="https://new.web.cafe/topic/83xkte5vnj">https://new.web.cafe/topic/83xkte5v...</a></blockquote>
+<blockquote id="b3">⏰ 剪存时间：2026-02-05 22:56:44 (UTC+8)</blockquote>
+<p id="b5">大家好，我是程普，我整理了 NEXTY.DEV 模板的通用文档和非公开资源，以专栏形式发布到哥飞社群网站，希望能帮助到大家。</p>
+<blockquote id="b6">NEXTY.DEV 向哥飞社群提供骨折价，想购买的朋友加我微信（bigye_chengpu）获取专属优惠码再下单。<a class="source-link" href="https://nexty.dev/?ref=gefei">NEXTY.DEV</a></blockquote>
+<p id="b7">对独立开发者来说，选择数据库是一个难题，虽然可选方案不少，但是要么太贵，要么太麻烦，要么又贵又麻烦。</p>
+<p id="b8">比如：</p>
+<div class="list bullet" id="b9">•<br>使用 Supabase，免费账号只能创建2个 Project，开通付费后每新增一个要多加10美元，如果你有很多个产品，这个成本很快就会累积成一笔不小的数目。</div>
+<div class="list bullet" id="b10">•<br>使用 Neon，虽然号称免费账号可以创建100个 Project，但是人家是靠流量赚钱，限制产品数量是没有意义的，实际用起来就知道流量费超贵。</div>
+<div class="list bullet" id="b11">•<br>自己买服务器，搭建 PostgreSQL 数据库，自己维护，总会担心性能和安全问题。</div>
+<p id="b12">今天教大家的方法是：使用 Supabase 的 Schema 机制，实现一个数据库给多个产品使用。</p>
+<p id="b13">这套方案适合的场景：你有多个产品流量不高，即使合并到一个数据库，流量也不会超过 Supabase 的免费额度（Supabase 免费账号有 5G 出站流量，对于小产品来说根本用不完）。</p>
+<h2 id="b14">什么是 Schema？</h2>
+<p id="b15">Schema 机制本质上是 PostgreSQL 的原生功能，不是 Supabase 独有的。</p>
+<p id="b16">你可以把 Postgres 的 Schema 想象成文件夹。同一个数据库实例（Database）下可以创建多个 Schema，每个 Schema 里的表（Table）互不干扰。</p>
+<p id="b17">在 Supabase 里，创建数据库后，默认使用 Public Schema，所有的表都创建在 Public Schema 下。</p>
+<h2 id="b18">迁移步骤</h2>
+<blockquote id="b19"></blockquote>
+<p id="b20">以 Next.js + Drizzle ORM 为例，从 Neon 迁移到 Supabase 的步骤如下：</p>
+<h3 id="b21">1. 改造 Drizzle ORM 配置</h3>
+<p id="b22">修改 drizzle.config.ts ，添加 schemaFilter ，这样 Drizzle Kit 在生成迁移文件时，只会关注这个专属 Schema，不会误删 public Schema 的表。</p>
+<p id="b23"><br>代码块<br>TypeScript<br>// drizzle.config.ts<br>export default defineConfig({<br>  // ... 其他配置<br>  schemaFilter: ['new-project-schema'], // &lt;--- 关键：只管理这个 schema，名称自定义<br>});<br></p>
+<h3 id="b24">2. 修改 Schema 定义</h3>
+<p id="b25">修改 lib/db/schema.ts ，将所有的 pgTable 替换为基于自定义 schema 的表定义。</p>
+<p id="b26">技巧 ：定义一个 schema 对象，然后用它来创建表。</p>
+<p id="b27"><br>代码块<br>TypeScript<br>// lib/db/schema.ts<br>import { pgSchema } from 'drizzle-orm/pg-core';<br><br>// 1. 定义 Schema<br>export const newProjectSchema = pgSchema('new-project-schema'); // &lt;--- 名称自定义，和 drizzle.config.ts 文件里的一致<br><br>// 2. 将原来的 pgTable 替换为 newProjectSchema.table<br>// 旧代码: export const user = pgTable('user', { ... })<br>// 新代码:<br>export const user = newProjectSchema.table('user', {<br>  id: uuid('id').primaryKey().defaultRandom(),<br>  // ...<br>});<br><br>// 3. 枚举也需要迁移<br>// 旧代码: export const roleEnum = pgEnum('role', ['admin', 'user'])<br>// 新代码:<br>export const roleEnum = newProjectSchema.enum('role', ['admin', 'user']);<br></p>
+<h3 id="b28">3. 重置迁移文件</h3>
+<p id="b29">对于我们这种全量迁移的场景，不要试图基于旧迁移文件生成新迁移文件，那样非常容易迁移失败。最简单方法是重置迁移历史，让 Drizzle 帮我们自动创建新 Schema 和所有表。</p>
+<div class="list ordered" id="b30">1.<br>删除旧迁移文件 ：直接删除项目中的 lib/db/migrations/ 文件夹下的所有内容。</div>
+<div class="list ordered" id="b31">2.<br>生成新迁移 ：运行生成命令。</div>
+<p id="b32"><br>代码块<br>Bash<br>pnpm db:generate<br>或 <br>pnpm drizzle-kit generate<br></p>
+<div class="list ordered" id="b33">3.<br>应用迁移 ：将新的结构推送到 Supabase。</div>
+<p id="b34"><br>代码块<br>Bash<br>pnpm db:migrate<br>或<br>pnpm drizzle-kit migrate<br></p>
+<p id="b35">这样，Drizzle 就会自动在 Supabase 中创建好 new-project-schema Schema 和所有的表结构，完全不需要手动去 SQL Editor 里敲命令。</p>
+<h3 id="b36">4.用脚本迁移数据</h3>
+<p id="b37">把新旧数据库的连接串配置到 .env 文件中，然后让 AI 根据 lib/db/schema.ts 内容生成一个数据迁移脚本。</p>
+<p id="b38"><br>代码块<br>TypeScript<br>    }<br>  }<br><br>  await sourceClient.end();<br>  await destClient.end();<br>  console.log('迁移完成！');<br>}<br><br>main();<br></p>
+<h3 id="b39">5. 更新生产环境配置</h3>
+<p id="b40">更新生产环境的 .env 文件，将 DATABASE_URL 更新为新数据库的连接串。</p>
+<p id="b41"><br>代码块<br>Plain Text<br>DATABASE_URL=new-project-database-url<br></p>
+<p id="b42">然后重启项目，迁移完成。</p>
+<h2 id="b43">总结</h2>
+<p id="b44">用这套方案，你就可以在同一个 Supabase 数据库里，安安稳稳地跑 10 个甚至 20 个低流量的副业项目，每个项目都有自己干净的数据空间，既省钱又安全。</p>
+<p id="b45">NEXTY.DEV 模板的用户可以使用内置的 SKILL 辅助完成迁移，非模板用户也可以把这篇文档发给 AI，大部分工作就不需要手动操作了。</p></main></div></body></html>

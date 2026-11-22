@@ -1,0 +1,1159 @@
+{
+  "data": [
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2087825941854855285",
+      "created_at": "2026-08-13T08:57:49.000Z",
+      "edit_history_tweet_ids": [
+        "2087825906962415770",
+        "2087825941854855285"
+      ],
+      "id": "2087825941854855285",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 64392,
+        "like_count": 171,
+        "quote_count": 5,
+        "reply_count": 97,
+        "retweet_count": 4
+      },
+      "text": "在今天凌晨偷偷发布的DeepSeek V4 Pro 0813 由于口碑太差，即将下架，回炉重造。\n\n那些玩滑动变阻器梗的朋友，请回去发明新的梗。",
+      "url": "https://x.com/bourneliu66/status/2087825941854855285"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2087803354332422415",
+      "created_at": "2026-08-13T07:28:03.000Z",
+      "edit_history_tweet_ids": [
+        "2087803354332422415"
+      ],
+      "id": "2087803354332422415",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "昨天，我打算一个产品的集群部署。\n\n大概任务是：从现有的单机部署变成集群部署、不能丢线上用户的数据、保证以后上线新版本的时候可以“不停机升级”等等。\n\n我自己并不掌握太多集群部署的经验和技能，只有理论知识。\n\n我先用Codex (GPT-5.6-Sol Max) ，说清楚要求后，它从昨天下午18:00工作到今天14:00，整整20个小时，没搞定。因为中途它一直觉得自己弄好了，然后尝试打包、部署，然后出错，读日志后发现问题，继续修，然后再去部署，又出错…… 周而复始。 \n\n14:00，我叫Codex别弄了，写个交接文档。  \n然后我用Fable 5读取交接文档，  1小时后，完全做好了。\n\n仔细研究了一下为什么：发现是Fable 5的1M上下文立功了。这件任务的链条太长，GPT-5.6-Sol老是压缩，无法把整个链条串起来。"
+      },
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 13829,
+        "like_count": 53,
+        "quote_count": 1,
+        "reply_count": 68,
+        "retweet_count": 2
+      },
+      "text": "昨天，我打算一个产品的集群部署。\n\n大概任务是：从现有的单机部署变成集群部署、不能丢线上用户的数据、保证以后上线新版本的时候可以“不停机升级”等等。\n\n我自己并不掌握太多集群部署的经验和技能，只有理论知识。\n\n我先用Codex (GPT-5.6-Sol Max)",
+      "url": "https://x.com/bourneliu66/status/2087803354332422415"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2087775346162888704"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2087776614142898627",
+      "created_at": "2026-08-13T05:41:48.000Z",
+      "edit_history_tweet_ids": [
+        "2087776614142898627"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/XTRw2LLVYv",
+            "end": 174,
+            "expanded_url": "https://x.com/bourneliu66/status/2087776614142898627/photo/1",
+            "media_key": "3_2087775346162888704",
+            "start": 151,
+            "url": "https://t.co/XTRw2LLVYv"
+          }
+        ]
+      },
+      "id": "2087776614142898627",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 17771,
+        "like_count": 45,
+        "quote_count": 1,
+        "reply_count": 58,
+        "retweet_count": 0
+      },
+      "text": "我对阿里这家公司没有偏见，我持有阿里的股票，阿里的Qwen-3.8-Max很厉害是有目共睹的。\n\n但是阿里这个Qoder团队嘛？\n\n官方公众号用这种文风来介绍产品？？\n\n我想问：你们是来比谁产品做得好的，还是来比谁八股文写得好的？\n\n你不关心用户，用户也不关心你。\n\n没人用Qoder，一点都不意外。 https://t.co/XTRw2LLVYv",
+      "url": "https://x.com/bourneliu66/status/2087776614142898627"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2087232563706479088",
+      "created_at": "2026-08-11T17:39:56.000Z",
+      "edit_history_tweet_ids": [
+        "2087232453492817983",
+        "2087232514767356240",
+        "2087232563706479088"
+      ],
+      "id": "2087232563706479088",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 35,
+        "impression_count": 84348,
+        "like_count": 869,
+        "quote_count": 1,
+        "reply_count": 88,
+        "retweet_count": 17
+      },
+      "text": "微软Bing搜索的产品经理是个天才，\n“Bing”这个名字，起得真是，特别贴切，又经久不衰。\n\n“你为什么不用Google？”\n“因为我有Bing”",
+      "url": "https://x.com/bourneliu66/status/2087232563706479088"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2087076685816672290",
+      "created_at": "2026-08-11T10:38:51.000Z",
+      "edit_history_tweet_ids": [
+        "2087126594095898763"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1558317849508122629",
+            "start": 0,
+            "username": "CuiMao"
+          },
+          {
+            "end": 19,
+            "id": "1953337039510003712",
+            "start": 8,
+            "username": "thsottiaux"
+          }
+        ]
+      },
+      "id": "2087126594095898763",
+      "in_reply_to_user_id": "1558317849508122629",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3251,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2087076685816672290",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CuiMao @thsottiaux tibo竟然用claude来生成视频",
+      "url": "https://x.com/bourneliu66/status/2087126594095898763"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2087118404721537024"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2087118459763351762",
+      "created_at": "2026-08-11T10:06:32.000Z",
+      "edit_history_tweet_ids": [
+        "2087118459763351762"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/bXWf9yglsf",
+            "end": 42,
+            "expanded_url": "https://x.com/bourneliu66/status/2087118459763351762/photo/1",
+            "media_key": "3_2087118404721537024",
+            "start": 19,
+            "url": "https://t.co/bXWf9yglsf"
+          }
+        ]
+      },
+      "id": "2087118459763351762",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 63624,
+        "like_count": 298,
+        "quote_count": 3,
+        "reply_count": 35,
+        "retweet_count": 9
+      },
+      "text": "DeepSeek：世界上最耿直的模型 https://t.co/bXWf9yglsf",
+      "url": "https://x.com/bourneliu66/status/2087118459763351762"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2086833147879236037",
+      "created_at": "2026-08-10T15:12:48.000Z",
+      "edit_history_tweet_ids": [
+        "2086833147879236037"
+      ],
+      "id": "2086833147879236037",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 74,
+        "impression_count": 18133,
+        "like_count": 124,
+        "quote_count": 1,
+        "reply_count": 99,
+        "retweet_count": 4
+      },
+      "text": "最近学会了一个 2026 年最先进的创业方法论，分享给大家：\n\n1.  找一个火的产品：Brand XXX\n2. 前面改成Open：OpenXXX\n3. 找个牛逼的AI，照着抄一遍\n\n恭喜，你现在拥有了\"开源精神\"、\"社区共建\"和一个别人的产品。\n\n融资 BP 我都帮你想好了：我们不是抄袭，我们是\"民主化\"。",
+      "url": "https://x.com/bourneliu66/status/2086833147879236037"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2086795981652369408"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2086796257264287774",
+      "created_at": "2026-08-10T12:46:13.000Z",
+      "edit_history_tweet_ids": [
+        "2086796257264287774"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/eZ24K2Cdhs",
+            "end": 65,
+            "expanded_url": "https://x.com/bourneliu66/status/2086796257264287774/video/1",
+            "media_key": "13_2086795981652369408",
+            "start": 42,
+            "url": "https://t.co/eZ24K2Cdhs"
+          }
+        ]
+      },
+      "id": "2086796257264287774",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 120,
+        "impression_count": 61727,
+        "like_count": 183,
+        "quote_count": 3,
+        "reply_count": 110,
+        "retweet_count": 10
+      },
+      "text": "Flux 3 ，比 Seedance 2.5 和 Minimax H3 加起来还牛 https://t.co/eZ24K2Cdhs",
+      "url": "https://x.com/bourneliu66/status/2086796257264287774"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2086489847691383209",
+      "created_at": "2026-08-09T16:28:39.000Z",
+      "edit_history_tweet_ids": [
+        "2086489847691383209"
+      ],
+      "id": "2086489847691383209",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 34,
+        "impression_count": 27238,
+        "like_count": 106,
+        "quote_count": 3,
+        "reply_count": 102,
+        "retweet_count": 3
+      },
+      "text": "现在热门创业的产品方向，一窝蜂都是在赶时髦做Agent产品，比如“某领域的Manus”、“某领域的Claude Code”、“某领域的WorkBuddy”、“某领域的OpenClaw”，好像所有的产品都必须是Agent，不提Agent就做不出来产品似的。\n\n你们都去做Agent了，把非Agent的产品机会留给我了，挺好。",
+      "url": "https://x.com/bourneliu66/status/2086489847691383209"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2086435375086714986",
+      "created_at": "2026-08-09T12:52:12.000Z",
+      "edit_history_tweet_ids": [
+        "2086435375086714986"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/liyizhouAI/sta…",
+            "end": 32,
+            "expanded_url": "https://twitter.com/liyizhouAI/status/2086433253494517929",
+            "start": 9,
+            "url": "https://t.co/aU9iYbTKWg"
+          }
+        ]
+      },
+      "id": "2086435375086714986",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 29,
+        "impression_count": 24288,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 87,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2086433253494517929",
+          "type": "quoted"
+        }
+      ],
+      "text": "李老师所言甚是！ https://t.co/aU9iYbTKWg",
+      "url": "https://x.com/bourneliu66/status/2086435375086714986"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2086189381078139350",
+      "created_at": "2026-08-08T20:34:42.000Z",
+      "edit_history_tweet_ids": [
+        "2086189381078139350"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 111,
+            "id": "1953337039510003712",
+            "start": 100,
+            "username": "thsottiaux"
+          }
+        ]
+      },
+      "id": "2086189381078139350",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 78886,
+        "like_count": 93,
+        "quote_count": 2,
+        "reply_count": 83,
+        "retweet_count": 3
+      },
+      "text": "一个非常合理的猜测：codex下次重置时间是8月14日。\n\n原因：7月codex赠送大家的banked resets，如果你还没使用，将会在是8月13日过期，也就是说，大家一定会在8月13日使用。\n\n@thsottiaux 如果在8月14日选择对所有人重置codex，实际付出的成本最低、又能延续了“codex会将重置狂欢延续下去”的童话。",
+      "url": "https://x.com/bourneliu66/status/2086189381078139350"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2085673142568301037",
+      "created_at": "2026-08-07T10:23:21.000Z",
+      "edit_history_tweet_ids": [
+        "2085673142568301037"
+      ],
+      "id": "2085673142568301037",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 13120,
+        "like_count": 114,
+        "quote_count": 1,
+        "reply_count": 79,
+        "retweet_count": 5
+      },
+      "text": "没人毁掉你。你只是每天刷着不用动脑的东西，刷了三年,然后发现自己连一篇长文都读不完了。",
+      "url": "https://x.com/bourneliu66/status/2085673142568301037"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2085650105005449226",
+      "created_at": "2026-08-07T08:52:16.000Z",
+      "edit_history_tweet_ids": [
+        "2085650218998173887"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mp.weixin.qq.com/s/QRCFTiUtqpwE…",
+            "end": 26,
+            "expanded_url": "https://mp.weixin.qq.com/s/QRCFTiUtqpwE4bsAGB_4og",
+            "start": 3,
+            "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HMGcdWqjHih4s8B6eKuc7GGvRYcrzl_16UFA-cW6&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQRCFTiUtqpwE4bsAGB_4og",
+            "url": "https://t.co/JW8737EKoA"
+          }
+        ]
+      },
+      "id": "2085650218998173887",
+      "in_reply_to_user_id": "2815325906",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 16497,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2085650105005449226",
+          "type": "replied_to"
+        }
+      ],
+      "text": "详情：https://t.co/JW8737EKoA",
+      "url": "https://x.com/bourneliu66/status/2085650218998173887"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2085649484487483392",
+          "3_2085649498186080256"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2085650105005449226",
+      "created_at": "2026-08-07T08:51:49.000Z",
+      "edit_history_tweet_ids": [
+        "2085650105005449226"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/nqCpqLpw1D",
+            "end": 189,
+            "expanded_url": "https://x.com/bourneliu66/status/2085650105005449226/photo/1",
+            "media_key": "3_2085649484487483392",
+            "start": 166,
+            "url": "https://t.co/nqCpqLpw1D"
+          },
+          {
+            "display_url": "pic.x.com/nqCpqLpw1D",
+            "end": 189,
+            "expanded_url": "https://x.com/bourneliu66/status/2085650105005449226/photo/2",
+            "media_key": "3_2085649498186080256",
+            "start": 166,
+            "url": "https://t.co/nqCpqLpw1D"
+          }
+        ]
+      },
+      "id": "2085650105005449226",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 295,
+        "impression_count": 141423,
+        "like_count": 310,
+        "quote_count": 12,
+        "reply_count": 148,
+        "retweet_count": 20
+      },
+      "text": "我找到了 ChatGPT Pro 降智的真解法：\n\n - 网页版会看你的 IP。机房、共享出口这类脏网络，Pro 会被换成 5.5 Mini（如图）\n\n-  手机 App 不降智。 降智只在「请求发出那一刻」判定。  \n\n- 所以——在电脑上把代码、需求一股脑发过去，它回什么都别看。 手机打开同一个对话，发五个字：重新思考一遍。 https://t.co/nqCpqLpw1D",
+      "url": "https://x.com/bourneliu66/status/2085650105005449226"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2085632851874394317",
+      "created_at": "2026-08-07T07:52:05.000Z",
+      "edit_history_tweet_ids": [
+        "2085635072154316899"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "904986719782486016",
+            "start": 0,
+            "username": "xiongjianjun"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scys.com/tokenrank/",
+            "end": 37,
+            "expanded_url": "https://scys.com/tokenrank/",
+            "start": 14,
+            "status": 200,
+            "unwound_url": "https://scys.com/tokenrank/",
+            "url": "https://t.co/w0OBcFwSZO"
+          }
+        ]
+      },
+      "id": "2085635072154316899",
+      "in_reply_to_user_id": "904986719782486016",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 718,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2085633924232012179",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiongjianjun https://t.co/w0OBcFwSZO",
+      "url": "https://x.com/bourneliu66/status/2085635072154316899"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2085632851874394317",
+      "created_at": "2026-08-07T07:51:59.000Z",
+      "edit_history_tweet_ids": [
+        "2085635047252803994"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scys.com/tokenrank/",
+            "end": 23,
+            "expanded_url": "https://scys.com/tokenrank/",
+            "start": 0,
+            "status": 200,
+            "unwound_url": "https://scys.com/tokenrank/",
+            "url": "https://t.co/w0OBcFwSZO"
+          }
+        ]
+      },
+      "id": "2085635047252803994",
+      "in_reply_to_user_id": "2815325906",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 2833,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2085632851874394317",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/w0OBcFwSZO",
+      "url": "https://x.com/bourneliu66/status/2085635047252803994"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2085632698497044480"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2085632851874394317",
+      "created_at": "2026-08-07T07:43:15.000Z",
+      "edit_history_tweet_ids": [
+        "2085632851874394317"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/vVGemhlMhw",
+            "end": 43,
+            "expanded_url": "https://x.com/bourneliu66/status/2085632851874394317/photo/1",
+            "media_key": "3_2085632698497044480",
+            "start": 20,
+            "url": "https://t.co/vVGemhlMhw"
+          }
+        ]
+      },
+      "id": "2085632851874394317",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 15237,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 54,
+        "retweet_count": 0
+      },
+      "text": "昨天同时宠幸了4个来自不同种族的员工。 https://t.co/vVGemhlMhw",
+      "url": "https://x.com/bourneliu66/status/2085632851874394317"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2085596342584566070",
+      "created_at": "2026-08-07T06:48:09.000Z",
+      "edit_history_tweet_ids": [
+        "2085618984263840184"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1423328796061552640",
+            "start": 0,
+            "username": "dlzhou2"
+          }
+        ]
+      },
+      "id": "2085618984263840184",
+      "in_reply_to_user_id": "1423328796061552640",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 608,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2085610187021537750",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dlzhou2 谢谢",
+      "url": "https://x.com/bourneliu66/status/2085618984263840184"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2085596342584566070",
+      "created_at": "2026-08-07T05:18:11.000Z",
+      "edit_history_tweet_ids": [
+        "2085596342584566070"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/bourneliu66/st…",
+            "end": 88,
+            "expanded_url": "https://twitter.com/bourneliu66/status/2085025344055279996",
+            "start": 65,
+            "url": "https://t.co/4CgLZxPBoy"
+          }
+        ]
+      },
+      "id": "2085596342584566070",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 15432,
+        "like_count": 18,
+        "quote_count": 1,
+        "reply_count": 134,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2085025344055279996",
+          "type": "quoted"
+        }
+      ],
+      "text": "家人们，可能有反转：  虽然绝大多数人说新版更好看，但是，我上线测试的这段时间，发现每天的收入情况跌了很多！！\n\n这是什么原因？ https://t.co/4CgLZxPBoy",
+      "url": "https://x.com/bourneliu66/status/2085596342584566070"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2085300320620761460",
+      "created_at": "2026-08-06T09:41:54.000Z",
+      "edit_history_tweet_ids": [
+        "2085300320620761460"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/bourneliu66/st…",
+            "end": 70,
+            "expanded_url": "https://twitter.com/bourneliu66/status/2085025344055279996",
+            "start": 47,
+            "url": "https://t.co/4CgLZxPBoy"
+          }
+        ]
+      },
+      "id": "2085300320620761460",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 7295,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 76,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2085025344055279996",
+          "type": "quoted"
+        }
+      ],
+      "text": "明确表示喜欢新版（左）：10人\n明确表示喜欢旧版（右）：5人\n\n谢谢大家！我正式发布新版了！ https://t.co/4CgLZxPBoy",
+      "url": "https://x.com/bourneliu66/status/2085300320620761460"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2085025294377943040",
+          "3_2085025294357041152"
+        ]
+      },
+      "author_id": "2815325906",
+      "conversation_id": "2085025344055279996",
+      "created_at": "2026-08-05T15:29:14.000Z",
+      "edit_history_tweet_ids": [
+        "2085025344055279996"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Raphael AI is a free, unlimited AI image generator featuring top models including Nano Banana 2 / Pro, Qwen-Image, Seedream 5.0 for high-fidelity images.",
+            "display_url": "raphael.app",
+            "end": 66,
+            "expanded_url": "https://raphael.app",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2124222927126319104/YvjGS8Mc?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124222927126319104/YvjGS8Mc?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 43,
+            "status": 200,
+            "title": "Raphael AI - Free Unlimited AI Image Generator",
+            "unwound_url": "https://raphael.app",
+            "url": "https://t.co/TIhlmaDBNd"
+          },
+          {
+            "display_url": "pic.x.com/i39EyulyhF",
+            "end": 90,
+            "expanded_url": "https://x.com/bourneliu66/status/2085025344055279996/photo/1",
+            "media_key": "3_2085025294377943040",
+            "start": 67,
+            "url": "https://t.co/i39EyulyhF"
+          },
+          {
+            "display_url": "pic.x.com/i39EyulyhF",
+            "end": 90,
+            "expanded_url": "https://x.com/bourneliu66/status/2085025344055279996/photo/2",
+            "media_key": "3_2085025294357041152",
+            "start": 67,
+            "url": "https://t.co/i39EyulyhF"
+          }
+        ]
+      },
+      "id": "2085025344055279996",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 38647,
+        "like_count": 33,
+        "quote_count": 2,
+        "reply_count": 114,
+        "retweet_count": 3
+      },
+      "text": "测试Raphael AI的新版UI。你感觉怎么样？\n\n图1：新版\n图2：旧版\n\n地址：https://t.co/TIhlmaDBNd https://t.co/i39EyulyhF",
+      "url": "https://x.com/bourneliu66/status/2085025344055279996"
+    },
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2084847367992545421",
+      "created_at": "2026-08-05T03:42:01.000Z",
+      "edit_history_tweet_ids": [
+        "2084847367992545421"
+      ],
+      "id": "2084847367992545421",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 35,
+        "impression_count": 61485,
+        "like_count": 70,
+        "quote_count": 6,
+        "reply_count": 123,
+        "retweet_count": 1
+      },
+      "text": "为什么今天大家都在抢注 Cloudflare 的钱包？我不信有人用得上！\n\n我甚至怀疑你根本不知道它是干啥的。",
+      "url": "https://x.com/bourneliu66/status/2084847367992545421"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_2087775346162888704",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlEnabbcAA5npr.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1097,
+        "media_key": "3_2087118404721537024",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbvIY2bcAA8LWE.jpg",
+        "width": 690
+      },
+      {
+        "height": 704,
+        "media_key": "13_2086795981652369408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086795981652369408/img/Q6ED-puxYN74Mxi-.jpg",
+        "type": "video",
+        "width": 1280
+      },
+      {
+        "height": 934,
+        "media_key": "3_2085649484487483392",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG3J-jaYAAHw8z.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2085649498186080256",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG3KxlaYAAD0aY.jpg",
+        "width": 1206
+      },
+      {
+        "height": 616,
+        "media_key": "3_2085632698497044480",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGn453bEAAYEoU.jpg",
+        "width": 1618
+      },
+      {
+        "height": 1926,
+        "media_key": "3_2085025294377943040",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9_dVMaAAAC37q.jpg",
+        "width": 3578
+      },
+      {
+        "height": 1954,
+        "media_key": "3_2085025294357041152",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9_dVHbEAAY650.jpg",
+        "width": 3284
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2087076678212395008"
+          ]
+        },
+        "author_id": "1558317849508122629",
+        "conversation_id": "2087076685816672290",
+        "created_at": "2026-08-11T07:20:32.000Z",
+        "edit_history_tweet_ids": [
+          "2087076685816672290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1953337039510003712",
+              "start": 21,
+              "username": "thsottiaux"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9uf3Qloha",
+              "end": 56,
+              "expanded_url": "https://x.com/CuiMao/status/2087076685816672290/photo/1",
+              "media_key": "3_2087076678212395008",
+              "start": 33,
+              "url": "https://t.co/C9uf3Qloha"
+            }
+          ]
+        },
+        "id": "2087076685816672290",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 63343,
+          "like_count": 173,
+          "quote_count": 1,
+          "reply_count": 114,
+          "retweet_count": 1
+        },
+        "text": "快看！我在中国的抖音刷到你了！Tibo  @thsottiaux https://t.co/C9uf3Qloha"
+      },
+      {
+        "author_id": "14422437",
+        "conversation_id": "2086189381078139350",
+        "created_at": "2026-08-09T12:43:46.000Z",
+        "edit_history_tweet_ids": [
+          "2086433253494517929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2815325906",
+              "start": 0,
+              "username": "bourneliu66"
+            },
+            {
+              "end": 24,
+              "id": "1953337039510003712",
+              "start": 13,
+              "username": "thsottiaux"
+            }
+          ]
+        },
+        "id": "2086433253494517929",
+        "in_reply_to_user_id": "2815325906",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 27925,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086189381078139350",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 @thsottiaux 这个推断框架本身就是平台运营的底层账：补贴最划算的时刻，是用户行为已经自发集中的时刻。平台发的从来不是福利，是在买行为峰值。我在平台方做过，每个宠粉动作背后都是一张成本测算表。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2085649484487483392",
+            "3_2085649498186080256"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "2085650105005449226",
+        "created_at": "2026-08-07T08:51:49.000Z",
+        "edit_history_tweet_ids": [
+          "2085650105005449226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqCpqLpw1D",
+              "end": 189,
+              "expanded_url": "https://x.com/bourneliu66/status/2085650105005449226/photo/1",
+              "media_key": "3_2085649484487483392",
+              "start": 166,
+              "url": "https://t.co/nqCpqLpw1D"
+            },
+            {
+              "display_url": "pic.x.com/nqCpqLpw1D",
+              "end": 189,
+              "expanded_url": "https://x.com/bourneliu66/status/2085650105005449226/photo/2",
+              "media_key": "3_2085649498186080256",
+              "start": 166,
+              "url": "https://t.co/nqCpqLpw1D"
+            }
+          ]
+        },
+        "id": "2085650105005449226",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 141423,
+          "like_count": 310,
+          "quote_count": 12,
+          "reply_count": 148,
+          "retweet_count": 20
+        },
+        "text": "我找到了 ChatGPT Pro 降智的真解法：\n\n - 网页版会看你的 IP。机房、共享出口这类脏网络，Pro 会被换成 5.5 Mini（如图）\n\n-  手机 App 不降智。 降智只在「请求发出那一刻」判定。  \n\n- 所以——在电脑上把代码、需求一股脑发过去，它回什么都别看。 手机打开同一个对话，发五个字：重新思考一遍。 https://t.co/nqCpqLpw1D"
+      },
+      {
+        "author_id": "904986719782486016",
+        "conversation_id": "2085632851874394317",
+        "created_at": "2026-08-07T07:47:31.000Z",
+        "edit_history_tweet_ids": [
+          "2085633924232012179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2815325906",
+              "start": 0,
+              "username": "bourneliu66"
+            }
+          ]
+        },
+        "id": "2085633924232012179",
+        "in_reply_to_user_id": "2815325906",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 717,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085632851874394317",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 这个怎么看"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2085632698497044480"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "2085632851874394317",
+        "created_at": "2026-08-07T07:43:15.000Z",
+        "edit_history_tweet_ids": [
+          "2085632851874394317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVGemhlMhw",
+              "end": 43,
+              "expanded_url": "https://x.com/bourneliu66/status/2085632851874394317/photo/1",
+              "media_key": "3_2085632698497044480",
+              "start": 20,
+              "url": "https://t.co/vVGemhlMhw"
+            }
+          ]
+        },
+        "id": "2085632851874394317",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15237,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "text": "昨天同时宠幸了4个来自不同种族的员工。 https://t.co/vVGemhlMhw"
+      },
+      {
+        "author_id": "1423328796061552640",
+        "conversation_id": "2085596342584566070",
+        "created_at": "2026-08-07T06:13:12.000Z",
+        "edit_history_tweet_ids": [
+          "2085610187021537750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2815325906",
+              "start": 0,
+              "username": "bourneliu66"
+            }
+          ]
+        },
+        "id": "2085610187021537750",
+        "in_reply_to_user_id": "2815325906",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085596342584566070",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bourneliu66 我还是坚持图二，背景头图做的再好看，跟我来这个网站的目的没关系，我来就是要在最显眼的位置找到输入框"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2085025294377943040",
+            "3_2085025294357041152"
+          ]
+        },
+        "author_id": "2815325906",
+        "conversation_id": "2085025344055279996",
+        "created_at": "2026-08-05T15:29:14.000Z",
+        "edit_history_tweet_ids": [
+          "2085025344055279996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Raphael AI is a free, unlimited AI image generator featuring top models including Nano Banana 2 / Pro, Qwen-Image, Seedream 5.0 for high-fidelity images.",
+              "display_url": "raphael.app",
+              "end": 66,
+              "expanded_url": "https://raphael.app",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2124222927126319104/YvjGS8Mc?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2124222927126319104/YvjGS8Mc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "Raphael AI - Free Unlimited AI Image Generator",
+              "unwound_url": "https://raphael.app",
+              "url": "https://t.co/TIhlmaDBNd"
+            },
+            {
+              "display_url": "pic.x.com/i39EyulyhF",
+              "end": 90,
+              "expanded_url": "https://x.com/bourneliu66/status/2085025344055279996/photo/1",
+              "media_key": "3_2085025294377943040",
+              "start": 67,
+              "url": "https://t.co/i39EyulyhF"
+            },
+            {
+              "display_url": "pic.x.com/i39EyulyhF",
+              "end": 90,
+              "expanded_url": "https://x.com/bourneliu66/status/2085025344055279996/photo/2",
+              "media_key": "3_2085025294357041152",
+              "start": 67,
+              "url": "https://t.co/i39EyulyhF"
+            }
+          ]
+        },
+        "id": "2085025344055279996",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 38647,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 114,
+          "retweet_count": 3
+        },
+        "text": "测试Raphael AI的新版UI。你感觉怎么样？\n\n图1：新版\n图2：旧版\n\n地址：https://t.co/TIhlmaDBNd https://t.co/i39EyulyhF"
+      }
+    ],
+    "users": [
+      {
+        "id": "2815325906",
+        "name": "刘小排",
+        "username": "bourneliu66"
+      },
+      {
+        "id": "1558317849508122629",
+        "name": "CuiMao",
+        "username": "CuiMao"
+      },
+      {
+        "id": "904986719782486016",
+        "name": "Xavi Xun",
+        "username": "xiongjianjun"
+      },
+      {
+        "id": "1423328796061552640",
+        "name": "Bylant",
+        "username": "dlzhou2"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2087825941854855285",
+    "next_token": "7140dibdnow9c7btwoxjdd94e0teq2njbhhszmkdvuddd",
+    "oldest_id": "2084847367992545421",
+    "previous_token": "77qpymm88g5h9vqkmfmutz5nhz66fq1qipu5dtolmwk6t",
+    "result_count": 22
+  }
+}
