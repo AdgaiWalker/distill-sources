@@ -57,6 +57,42 @@ python3 scripts/tag_x.py
 - **辅料**：有方法或观点的回复（`reply`）和引用（`quote`）；由 agy 按「有没有可执行方法」筛选
 - **不读**：纯寒暄，以及转帖（`retweet`）
 
+<!-- BEGIN STATS -->
+
+## 原料统计
+
+由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-22 20:48 北京时间）。只列统计数字，不含会员内容原文。更新原料后请依次跑 `tag_x.py`、`classify.py`、`stats.py`。
+
+### X 帖子类型
+
+单位：帖。每条一个 `post_type`（优先级见「X 材料收录与蒸馏规则」）。合计 2311 条。
+
+| 人 | 原创 | 文章 | 长帖 | 自己的连续帖 | 回复 | 引用 | 转帖 | 合计 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 刘小排 | 297 | 3 | 33 | 21 | 53 | 54 | 1 | 462 |
+| 土豆姐（lauren） | 35 | 1 | 39 | 14 | 282 | 61 | 276 | 708 |
+| 小晚不在 | 91 | 16 | 43 | 14 | 278 | 95 | 14 | 551 |
+| 逸尘 | 41 | 3 | 76 | 19 | 372 | 62 | 17 | 590 |
+| 合计 | 464 | 23 | 191 | 68 | 985 | 272 | 308 | 2311 |
+
+### 按人 × 来源类型
+
+单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1437 条（public 1417，member 20）。
+X 列是归档文件条目（`index.md` / `all.md` / `articles/` / `raw/`），不是帖子数；帖子见上表。
+会员 GitHub 仓按仓计 1 条；会员群只记条目数量（记录与截图目录），不写入原文。
+
+| 人 | 公众号文章 | 会员群 | GitHub 资料 | X | 笔记 | 合计 | public | member |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 哥飞 | 867 | 4 | 324 | 0 | 0 | 1195 | 1176 | 19 |
+| 西门 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 |
+| 刘小排 | 0 | 0 | 0 | 49 | 0 | 49 | 49 | 0 |
+| 土豆姐（lauren） | 0 | 0 | 0 | 45 | 0 | 45 | 45 | 0 |
+| 小晚不在 | 0 | 0 | 0 | 63 | 0 | 63 | 63 | 0 |
+| 逸尘 | 0 | 0 | 0 | 84 | 0 | 84 | 84 | 0 |
+| 合计 | 867 | 4 | 324 | 241 | 1 | 1437 | 1417 | 20 |
+
+<!-- END STATS -->
+
 ## 可见性规则
 
 - `public`：公开公众号文章、公开 X 帖、公开的开源仓库。
@@ -74,16 +110,19 @@ python3 scripts/tag_x.py
 
 ## 重跑索引
 
-X 归档更新后先打标签，再重跑分类：
+X 归档更新后先打标签，再重跑分类与原料统计：
 
 ```bash
 python3 scripts/tag_x.py
 python3 scripts/classify.py
+python3 scripts/stats.py
 ```
 
 `tag_x.py` 写出 `index/x-posts.csv`，并只更新各人 `x-archive/index.md` 中 `<!-- BEGIN X TYPE TAGS -->` 与 `<!-- END X TYPE TAGS -->` 之间的类型统计，不删原文。
 
 `classify.py` 读 `people.yaml`，覆盖生成 `INDEX.md`、`index/classification.csv`，并只更新人物卡中 `<!-- BEGIN MATERIAL LIST -->` 与 `<!-- END MATERIAL LIST -->` 之间的清单，手写部分不动。时间使用北京时间。
+
+`stats.py` 根据上述两份 csv 生成 README「原料统计」两张合计表，只替换 `<!-- BEGIN STATS -->` 与 `<!-- END STATS -->` 之间的内容，不写入会员内容原文。
 
 ## 不收录
 
