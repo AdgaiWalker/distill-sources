@@ -24,7 +24,7 @@ visibility: mixed
 
 ## 擅长
 
-可核实的部分：公众号长期写出海建站、找需求、做网站、获取流量。这些公开文章已被蒸馏成本机能力卡，并有一份公开的非官方蒸馏仓库。会员群记录和会员整理的 GitHub 仓也在本仓，但属于会员材料。
+可核实的部分：公众号长期写出海建站、找需求、做网站、获取流量。这些公开文章已被蒸馏成本机能力卡，并有一份公开的非官方蒸馏仓库。会员整理的 GitHub 仓上游已公开，标 `public`。会员群记录经仓主决定随本仓一并公开，来源仍标 `member`。
 
 ## 已有相关 skill
 
@@ -38,7 +38,7 @@ visibility: mixed
 ## 材料清单
 
 <!-- BEGIN MATERIAL LIST -->
-共 1211 条；public 1192，member 19。
+共 1211 条；public 1207，member 4。
 主用途：出海。全部用途：出海。
 材料日期覆盖至：2026-11-22。
 
@@ -46,7 +46,7 @@ visibility: mixed
 
 ## `gefei/github-member-repos`
 
-来源类型：github。可见性：member。15 条。
+来源类型：github。可见性：public。15 条。
 
 | 日期 | 标题 | 路径 |
 |---|---|---|
@@ -1289,4 +1289,4 @@ visibility: mixed
 1. 把新的原始文件放进已有目录：`gefei/wechat-articles/`（公众号）、`gefei/group-chat/`（会员群）、`gefei/github-seed/` 或 `gefei/github-member-repos/`（GitHub）。不要改已有原文，不要改名，不要移动旧路径。
 2. 若是新的来源类型或可见性，先改仓库根目录的 `people.yaml`。
 3. 在仓库根目录运行 `python3 scripts/classify.py`。
-4. 会员群和会员 GitHub 仓标 `member`。从会员材料蒸馏出的 skill 不得公开发布。
+4. 会员群来源仍标 `member`（表示来源，不表示禁止公开）。上游已公开的 GitHub 整理资料标 `public`。

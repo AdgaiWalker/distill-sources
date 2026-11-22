@@ -120,4 +120,4 @@ X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.cs
 2. 若是新的来源类型或可见性，先改仓库根目录的 `people.yaml`。
 3. 若更新了 X 归档，在仓库根目录先运行 `python3 scripts/tag_x.py` 重新打类型标签。
 4. 再运行 `python3 scripts/classify.py`。
-5. 可见性拿不准时标 `member`。从会员材料蒸馏出的 skill 不得公开发布。
+5. 可见性拿不准时可先标 `member`（表示来源，不表示禁止公开）。

@@ -1,10 +1,10 @@
 # distill-sources
 
-这是一份**私有蒸馏原料仓**。只放原始材料，用来把「人」的知识蒸馏成 skill。
+这是一份**公开蒸馏原料仓**。只放原始材料，用来把「人」的知识蒸馏成 skill。
 
 加工好的能力卡和蒸馏产出不在本仓。哥飞的能力包仍在本机 `/workspace/gefei/gefei-skill-pack`。
 
-仓库中含有会员内容（会员群记录、会员整理的 GitHub 资料等）。**禁止改成公开仓库，禁止再分发会员内容。从会员材料蒸馏出的 skill 不得公开发布。**
+本仓现已公开。收录范围包括公开文章、已公开的 GitHub 资料，以及经仓主决定一并公开的会员群转录/截图和西门笔记。会员群截图中可能含有头像或昵称。
 
 收录日期：2026-11-22。材料从共享电脑对应目录复制而来（`rsync -a --exclude '.git'`），原目录未移动。
 
@@ -30,7 +30,7 @@
 | `gefei/wechat-articles/` | 哥飞公众号正文 markdown（883 篇） | 哥飞 | wechat | public |
 | `gefei/group-chat/` | 会员群记录与截图 | 哥飞 | group-chat | member |
 | `gefei/github-seed/` | GitHub 会员资料种子仓工作区（已排除 `.git`）；上游 [mundane799699/gefei_mp_export](https://github.com/mundane799699/gefei_mp_export) | 哥飞 | github | public |
-| `gefei/github-member-repos/` | 各会员整理的哥飞相关仓库工作区（已排除每个仓的 `.git`） | 哥飞 | github | member |
+| `gefei/github-member-repos/` | 各会员整理的哥飞相关仓库工作区（已排除每个仓的 `.git`；上游已公开） | 哥飞 | github | public |
 | `gefei/ximen-notes/` | 西门笔记（历史路径，不移动） | 西门 | notes | member |
 | `liuxiaopai/x-archive/` | 刘小排 X 归档（帖子、长文、原始 JSON） | 刘小排 | x | public |
 | `poteto/x-archive/` | 土豆姐（@poteto）X 归档：Grok Bot 相关帖、长文、原始 JSON；无关帖见 other.md。原料全收并打类型标签 | 土豆姐（lauren） | x | public |
@@ -61,7 +61,7 @@ python3 scripts/tag_x.py
 
 ## 原料统计
 
-由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 04:01 北京时间）。只列统计数字，不含会员内容原文。更新原料后请依次跑 `tag_x.py`、`classify.py`、`stats.py`。
+由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 04:18 北京时间）。只列统计数字，不含会员内容原文。更新原料后请依次跑 `tag_x.py`、`classify.py`、`stats.py`。
 
 ### X 帖子类型
 
@@ -77,27 +77,26 @@ python3 scripts/tag_x.py
 
 ### 按人 × 来源类型
 
-单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1453 条（public 1433，member 20）。
+单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1453 条（public 1448，member 5）。
 X 列是归档文件条目（`index.md` / `all.md` / `articles/` / `raw/`），不是帖子数；帖子见上表。
 会员 GitHub 仓按仓计 1 条；会员群只记条目数量（记录与截图目录），不写入原文。
 
 | 人 | 公众号文章 | 会员群 | GitHub 资料 | X | 笔记 | 合计 | public | member |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 哥飞 | 883 | 4 | 324 | 0 | 0 | 1211 | 1192 | 19 |
+| 哥飞 | 883 | 4 | 324 | 0 | 0 | 1211 | 1207 | 4 |
 | 西门 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 |
 | 刘小排 | 0 | 0 | 0 | 49 | 0 | 49 | 49 | 0 |
 | 土豆姐（lauren） | 0 | 0 | 0 | 45 | 0 | 45 | 45 | 0 |
 | 小晚不在 | 0 | 0 | 0 | 63 | 0 | 63 | 63 | 0 |
 | 逸尘 | 0 | 0 | 0 | 84 | 0 | 84 | 84 | 0 |
-| 合计 | 883 | 4 | 324 | 241 | 1 | 1453 | 1433 | 20 |
+| 合计 | 883 | 4 | 324 | 241 | 1 | 1453 | 1448 | 5 |
 
 <!-- END STATS -->
 
 ## 可见性规则
 
-- `public`：公开公众号文章、公开 X 帖、公开的开源仓库。
-- `member`：会员群材料、会员 GitHub 仓。拿不准时标 `member`（例如非公开笔记）。
-- **从会员材料蒸馏出的 skill 不得公开发布。**
+- `public`：公开公众号文章、公开 X 帖、公开的开源仓库，以及上游已公开的 GitHub 整理资料。
+- `member`：来源为会员群转录/截图，或仓主整理的非公开出处笔记。本仓现已公开；这些条目经仓主决定一并收入，标签只说明来源，不表示禁止公开。
 
 ## 新增一个人
 
@@ -106,7 +105,7 @@ X 列是归档文件条目（`index.md` / `all.md` / `articles/` / `raw/`），�
 3. 复制 [`templates/person-card.md`](templates/person-card.md) 为 `people/<slug>.md`，填写 frontmatter 和擅长、已有 skill 等。只写可核实的事实，吃不准写「待补」。
 4. 在 [`people.yaml`](people.yaml) 增加一条：`slug`、`name`、用途，以及各材料路径、`source_type`、`visibility`、`scanner`。
 5. 在仓库根目录运行 `python3 scripts/classify.py`，检查 `INDEX.md`、人物卡里的材料清单和 `index/classification.csv`。
-6. 可见性拿不准标 `member`。从会员材料蒸出的 skill 不得公开发布。
+6. 可见性拿不准可先标 `member`（表示来源，不表示禁止公开）。
 
 ## 重跑索引
 

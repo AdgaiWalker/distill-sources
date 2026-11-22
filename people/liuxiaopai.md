@@ -105,4 +105,4 @@ X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.cs
 1. 把新的 X 归档放进 `liuxiaopai/x-archive/`（文章进 `articles/`，原始 JSON 进 `raw/`）。不要改已有原文，不要改名。
 2. 若改来源类型或可见性，先改 `people.yaml`。
 3. 更新 X 归档后，在仓库根目录先运行 `python3 scripts/tag_x.py` 重新打类型标签，再运行 `python3 scripts/classify.py`。
-4. 本批材料来自公开 X 帖，标 `public`。若以后收入会员内容，必须标 `member`，且由此蒸出的 skill 不得公开发布。
+4. 本批材料来自公开 X 帖，标 `public`。若以后收入会员群等来源材料，可标 `member`（表示来源，不表示禁止公开）。

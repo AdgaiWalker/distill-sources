@@ -10,7 +10,7 @@
 # 可扩展举例：IP、AI 工具、具身智能。每人一个主用途，可以有多个用途。
 #
 # 来源类型只使用：wechat / group-chat / x / github / notes
-# 可见性：public 或 member。拿不准标 member。
+# 可见性：public 或 member。member 只表示来源（会员群或仓主决定一并公开的笔记等），不表示禁止公开。拿不准可先标 member。
 
 known_purposes:
   - 出海
@@ -44,7 +44,8 @@ people:
         scanner: github-seed
       - path: gefei/github-member-repos
         source_type: github
-        visibility: member
+        # 上游均为已公开 GitHub 仓；目录名保留历史称呼
+        visibility: public
         scanner: repos
   - slug: ximen
     name: 西门
