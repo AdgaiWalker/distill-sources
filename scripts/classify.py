@@ -352,7 +352,7 @@ def write_index(records: list[dict], generated_at: str) -> None:
         "- **原文件不移动、不改名、不改内容**。本文件与 `people/`、`index/classification.csv` 都是新增索引。",
         "- 由 [`scripts/classify.py`](scripts/classify.py) 生成，可重跑。",
         "- 会员 GitHub 仓按 `UPSTREAM.md` / 仓库名归到对应的人，只记到仓，不逐文件列出。`github-seed` 归哥飞。",
-        f"- 生成时间：{generated_at}（America/New_York）。",
+        f"- 生成时间：{generated_at}（北京时间）。",
         "",
         "## 一览",
         "",
@@ -459,7 +459,7 @@ def main() -> int:
 
     records: list[dict] = []
     scan(records)
-    generated_at = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
+    generated_at = dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
     write_csv(records)
     write_people_pages(records)
     write_index(records, generated_at)
