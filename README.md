@@ -21,6 +21,8 @@
 
 更细的本机原路径、上游 URL、文件数与大小见 [SOURCES.md](SOURCES.md)。
 
+人物与用途索引见 [INDEX.md](INDEX.md)（由 `scripts/classify.py` 生成；原文件不移动）。哥飞、西门用于出海，刘小排用于产品。按人清单在 `people/`，机器可读表在 `index/classification.csv`。
+
 ## 不收录
 
 - `gefei-skill-pack` 及其备份、`gefei-agent-oss`（加工后的能力卡 / 蒸馏结果）
