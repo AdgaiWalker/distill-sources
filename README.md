@@ -40,7 +40,7 @@
 | `poteto/x-archive/` | 土豆姐（@poteto）X 归档：Grok Bot 相关帖、长文、原始 JSON；无关帖见 other.md。原料全收并打类型标签 | 土豆姐（lauren） | x | public |
 | `bbkirstry/x-archive/` | 小晚不在（@bbkirstry）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 小晚不在 | x | public |
 | `bbkirstry/feishu-kb/` | 小晚不在飞书知识库导出（Word/Excel 原文、Markdown 转换与插图）。2026-11-23 经哆啦批准公开 | 小晚不在 | feishu | public |
-| `bbkirstry/cognitive-model/` | 小晚认知模型（AGE-13）原料：X 档案补全、封存测试集、训练集索引、训练集标注。2026-11-23 经哆啦批准公开 | 小晚不在 | notes | public |
+| `bbkirstry/cognitive-model/` | 小晚认知模型（AGE-13）原料：X 档案补全、封存测试集、训练集索引、训练集标注、认知卡。2026-11-23 经哆啦批准公开 | 小晚不在 | notes | public |
 | `gengdaj/x-archive/` | 逸尘（@gengdaJ）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 逸尘 | x | public |
 
 ## X 材料收录与蒸馏规则

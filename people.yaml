@@ -105,6 +105,8 @@ people:
             title: 封存测试集（标注时勿读）
           - rel: 标注
             title: 训练集标注（annotations.jsonl 与说明、规律）
+          - rel: 认知卡
+            title: 认知卡（判断规则、反例、预测说明）
   - slug: gengdaj
     name: 逸尘
     primary_purpose: 自媒体
