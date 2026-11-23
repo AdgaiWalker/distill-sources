@@ -93,20 +93,6 @@ people:
         visibility: public
         scanner: files
         glob: "md/*.md"
-      - path: bbkirstry/cognitive-model
-        source_type: notes
-        visibility: public
-        scanner: files
-        glob: "*.md"
-        dir_units:
-          - rel: X档案补全
-            title: X档案补全（posts_enriched 与 fetch_raw）
-          - rel: 封存测试集
-            title: 封存测试集（标注时勿读）
-          - rel: 标注
-            title: 训练集标注（annotations.jsonl 与说明、规律）
-          - rel: 认知卡
-            title: 认知卡（判断规则、反例、预测说明）
   - slug: gengdaj
     name: 逸尘
     primary_purpose: 自媒体

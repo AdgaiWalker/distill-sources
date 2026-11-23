@@ -213,10 +213,6 @@ def scan_notes(person: dict, src: dict) -> list[dict]:
     base = ROOT / src["path"]
     if not base.exists():
         return []
-    # 认知模型目录里的标注、认知卡是蒸馏结论，不是原始数据，跳过。
-    # 封存测试集由 scan_holdout 单独登记。
-    if (base / "封存测试集").is_dir() or base.name == "cognitive-model":
-        return []
     vis = license_from_visibility(src.get("visibility"))
     pattern = src.get("glob") or "*.md"
     rows = []
@@ -370,88 +366,6 @@ def scan_github_repos(person: dict, src: dict) -> list[dict]:
     return rows
 
 
-def scan_holdout_copies() -> list[dict]:
-    """登记封存目录里的文件为 holdout=true。只读 SEALED.md 与文件字节哈希，不解析正文。"""
-    items = parse_sealed_files()
-    rows = []
-    for it in items:
-        path = ROOT / HOLDOUT_DIR_REL / it["rel"]
-        digest = sha256_file(path) if path.is_file() else it["sha256"]
-        if path.is_file() and digest != it["sha256"]:
-            print(
-                f"警告: 封存文件哈希与 SEALED.md 不一致: {it['rel']}",
-                file=sys.stderr,
-            )
-        name = Path(it["rel"]).name
-        if it["rel"].startswith("feishu/"):
-            date = date_from_mdy_prefix(name, 2026)
-            kind = "said"
-            platform = "feishu"
-            item_id = f"bbkirstry:holdout:feishu:{Path(name).stem}"
-        elif it["rel"].endswith("posts_enriched.json"):
-            date = ""
-            kind = "other"
-            platform = "x"
-            item_id = "bbkirstry:holdout:x:posts_enriched"
-        else:
-            date = ""
-            kind = "unknown"
-            platform = "other"
-            item_id = f"bbkirstry:holdout:{it['rel']}"
-        rel = f"{HOLDOUT_DIR_REL}/{it['rel']}"
-        rows.append(
-            make_record(
-                id=item_id,
-                person="bbkirstry",
-                platform=platform,
-                kind=kind,
-                date=date,
-                source_url="",
-                path=rel,
-                sha256=digest,
-                license_status="公开",
-                context_tags=["holdout", "sealed-copy"],
-                fetched_at="",
-                holdout=True,
-            )
-        )
-    return rows
-
-
-def mark_holdout_on_originals(rows: list[dict]) -> None:
-    """把与封存集对应的原始条目标 holdout=true。依据 SEALED.md 的窗口和文件名，不读封存正文。"""
-    start, end = sealed_window()
-    sealed = parse_sealed_files()
-    feishu_stems = set()
-    for it in sealed:
-        if it["rel"].startswith("feishu/"):
-            feishu_stems.add(Path(it["rel"]).stem)
-
-    for rec in rows:
-        if rec.get("holdout"):
-            continue
-        if rec.get("person") != "bbkirstry":
-            continue
-        if rec.get("platform") == "x" and rec.get("date") and start <= rec["date"] <= end:
-            rec["holdout"] = True
-            tags = list(rec.get("context_tags") or [])
-            if "holdout" not in tags:
-                tags.append("holdout")
-            rec["context_tags"] = tags
-        elif rec.get("platform") == "feishu" and Path(rec.get("path") or "").stem in feishu_stems:
-            rec["holdout"] = True
-            tags = list(rec.get("context_tags") or [])
-            if "holdout" not in tags:
-                tags.append("holdout")
-            rec["context_tags"] = tags
-
-
-SCANNERS = {
-    "x-archive": None,  # 由 scan_x 按帖处理
-    "files": None,
-}
-
-
 def scan_source(person: dict, src: dict) -> list[dict]:
     st = src.get("source_type") or ""
     scanner = src.get("scanner") or "files"
@@ -512,8 +426,6 @@ def main() -> int:
         for src in person.get("sources") or []:
             rows.extend(scan_source(person, src))
     rows.extend(scan_x(config))
-    rows.extend(scan_holdout_copies())
-    mark_holdout_on_originals(rows)
 
     # 去重（同一 id 不应出现两次）
     by_id: dict[str, dict] = {}

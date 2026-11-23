@@ -39,28 +39,15 @@ X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.cs
 ## 材料清单
 
 <!-- BEGIN MATERIAL LIST -->
-共 195 条；public 195，member 0。
+共 146 条；public 146，member 0。
 主用途：自媒体。全部用途：自媒体。
 材料日期覆盖至：2026-11-22。
 
 由 `scripts/classify.py` 根据 `people.yaml` 生成。原文件未移动。
 
-## `bbkirstry/cognitive-model`
-
-来源类型：notes（笔记）。可见性：public。6 条。
-
-| 日期 | 标题 | 路径 |
-|---|---|---|
-| — | [训练集索引（小晚认知模型 · AGE-13）](../bbkirstry/cognitive-model/训练集索引.md) | `bbkirstry/cognitive-model/训练集索引.md` |
-| — | [训练集标注（annotations.jsonl、标注说明、初步规律）](../bbkirstry/cognitive-model/标注/) | `bbkirstry/cognitive-model/标注/` |
-| — | [认知卡（判断规则、反例、预测说明）](../bbkirstry/cognitive-model/认知卡/) | `bbkirstry/cognitive-model/认知卡/` |
-| — | [封存测试集（标注时勿读）（1 个文件）](../bbkirstry/cognitive-model/封存测试集/) | `bbkirstry/cognitive-model/封存测试集/` |
-| — | [X档案补全（posts_enriched 与 fetch_raw）（4 个文件）](../bbkirstry/cognitive-model/X档案补全/) | `bbkirstry/cognitive-model/X档案补全/` |
-| — | [小晚认知模型（AGE-13）原料](../bbkirstry/cognitive-model/README.md) | `bbkirstry/cognitive-model/README.md` |
-
 ## `bbkirstry/feishu-kb`
 
-来源类型：feishu（飞书知识库）。可见性：public。127 条。
+来源类型：feishu（飞书知识库）。可见性：public。118 条。
 
 | 日期 | 标题 | 路径 |
 |---|---|---|
@@ -144,10 +131,6 @@ X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.cs
 | — | [2.3 找到你的不可替代性](../bbkirstry/feishu-kb/md/2.3 找到你的不可替代性.md) | `bbkirstry/feishu-kb/md/2.3 找到你的不可替代性.md` |
 | — | [2.2 如何获得别人的持续关注？](../bbkirstry/feishu-kb/md/2.2 如何获得别人的持续关注？.md) | `bbkirstry/feishu-kb/md/2.2 如何获得别人的持续关注？.md` |
 | — | [2.1 个人IP到底是什么？](../bbkirstry/feishu-kb/md/2.1 个人IP到底是什么？.md) | `bbkirstry/feishu-kb/md/2.1 个人IP到底是什么？.md` |
-| — | [11-20 为什么别人的 ChatGPT 越聊越聪明，你的却总是听不懂人话？](../bbkirstry/feishu-kb/md/11-20 为什么别人的 ChatGPT 越聊越聪明，你的却总是听不懂人话？.md) | `bbkirstry/feishu-kb/md/11-20 为什么别人的 ChatGPT 越聊越聪明，你的却总是听不懂人话？.md` |
-| — | [11-18 ChatGPT保姆级写作教程｜很多人根本没搞懂 AI 写作这件事](../bbkirstry/feishu-kb/md/11-18 ChatGPT保姆级写作教程｜很多人根本没搞懂 AI 写作这件事.md) | `bbkirstry/feishu-kb/md/11-18 ChatGPT保姆级写作教程｜很多人根本没搞懂 AI 写作这件事.md` |
-| — | [11-17 我开始觉得，AI 时代的一人公司，真的要来了](../bbkirstry/feishu-kb/md/11-17 我开始觉得，AI 时代的一人公司，真的要来了.md) | `bbkirstry/feishu-kb/md/11-17 我开始觉得，AI 时代的一人公司，真的要来了.md` |
-| — | [11-16 写给所有正在 AI 时代寻找自己的人](../bbkirstry/feishu-kb/md/11-16 写给所有正在 AI 时代寻找自己的人.md) | `bbkirstry/feishu-kb/md/11-16 写给所有正在 AI 时代寻找自己的人.md` |
 | — | [10｜商业化：内容怎么真正变成钱？](../bbkirstry/feishu-kb/md/10｜商业化：内容怎么真正变成钱？.md) | `bbkirstry/feishu-kb/md/10｜商业化：内容怎么真正变成钱？.md` |
 | — | [10｜AI 能替你做什么，不能替你做什么？](../bbkirstry/feishu-kb/md/10｜AI 能替你做什么，不能替你做什么？.md) | `bbkirstry/feishu-kb/md/10｜AI 能替你做什么，不能替你做什么？.md` |
 | — | [10.9 内容怎么为产品筛选客户？](../bbkirstry/feishu-kb/md/10.9 内容怎么为产品筛选客户？.md) | `bbkirstry/feishu-kb/md/10.9 内容怎么为产品筛选客户？.md` |
@@ -161,7 +144,6 @@ X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.cs
 | — | [10.11 工具｜个人商业化路径设计表](../bbkirstry/feishu-kb/md/10.11 工具｜个人商业化路径设计表.md) | `bbkirstry/feishu-kb/md/10.11 工具｜个人商业化路径设计表.md` |
 | — | [10.10 从用户问题反向长出产品](../bbkirstry/feishu-kb/md/10.10 从用户问题反向长出产品.md) | `bbkirstry/feishu-kb/md/10.10 从用户问题反向长出产品.md` |
 | — | [10.1 内容本身为什么不能直接等于变现？](../bbkirstry/feishu-kb/md/10.1 内容本身为什么不能直接等于变现？.md) | `bbkirstry/feishu-kb/md/10.1 内容本身为什么不能直接等于变现？.md` |
-| — | [10-10 商业价值创造与增长的底层逻辑](../bbkirstry/feishu-kb/md/10-10 商业价值创造与增长的底层逻辑.md) | `bbkirstry/feishu-kb/md/10-10 商业价值创造与增长的底层逻辑.md` |
 | — | [1.5 工具｜自媒体目标诊断表](../bbkirstry/feishu-kb/md/1.5 工具｜自媒体目标诊断表.md) | `bbkirstry/feishu-kb/md/1.5 工具｜自媒体目标诊断表.md` |
 | — | [1.4 为什么很多“内容问题”根本不是内容问题？](../bbkirstry/feishu-kb/md/1.4 为什么很多“内容问题”根本不是内容问题？.md) | `bbkirstry/feishu-kb/md/1.4 为什么很多“内容问题”根本不是内容问题？.md` |
 | — | [1.3 不同目标，对应完全不同的内容策略](../bbkirstry/feishu-kb/md/1.3 不同目标，对应完全不同的内容策略.md) | `bbkirstry/feishu-kb/md/1.3 不同目标，对应完全不同的内容策略.md` |
@@ -169,10 +151,6 @@ X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.cs
 | — | [1.1 做自媒体之前，先回答：你到底想换来什么？](../bbkirstry/feishu-kb/md/1.1 做自媒体之前，先回答：你到底想换来什么？.md) | `bbkirstry/feishu-kb/md/1.1 做自媒体之前，先回答：你到底想换来什么？.md` |
 | — | [09｜增长与复盘：不要迷信爆款](../bbkirstry/feishu-kb/md/09｜增长与复盘：不要迷信爆款.md) | `bbkirstry/feishu-kb/md/09｜增长与复盘：不要迷信爆款.md` |
 | — | [09｜什么时候可以开始考虑变现？](../bbkirstry/feishu-kb/md/09｜什么时候可以开始考虑变现？.md) | `bbkirstry/feishu-kb/md/09｜什么时候可以开始考虑变现？.md` |
-| — | [09-27 和前辈的内容、AI 与个人 IP交流](../bbkirstry/feishu-kb/md/09-27 和前辈的内容、AI 与个人 IP交流.md) | `bbkirstry/feishu-kb/md/09-27 和前辈的内容、AI 与个人 IP交流.md` |
-| — | [09-25 生财有术 杨涛线下答疑分享会｜知识库版](../bbkirstry/feishu-kb/md/09-25 生财有术 杨涛线下答疑分享会｜知识库版.md) | `bbkirstry/feishu-kb/md/09-25 生财有术 杨涛线下答疑分享会｜知识库版.md` |
-| — | [09-25 生财有术 杨涛线下答疑分享会｜小晚分享版](../bbkirstry/feishu-kb/md/09-25 生财有术 杨涛线下答疑分享会｜小晚分享版.md) | `bbkirstry/feishu-kb/md/09-25 生财有术 杨涛线下答疑分享会｜小晚分享版.md` |
-| — | [09-23 重新理解「组局」和线下社交](../bbkirstry/feishu-kb/md/09-23 重新理解「组局」和线下社交.md) | `bbkirstry/feishu-kb/md/09-23 重新理解「组局」和线下社交.md` |
 | — | [08｜发完 10 条以后，怎样把内容变成系列？](../bbkirstry/feishu-kb/md/08｜发完 10 条以后，怎样把内容变成系列？.md) | `bbkirstry/feishu-kb/md/08｜发完 10 条以后，怎样把内容变成系列？.md` |
 | — | [08｜传播：发出去以后，内容才刚开始](../bbkirstry/feishu-kb/md/08｜传播：发出去以后，内容才刚开始.md) | `bbkirstry/feishu-kb/md/08｜传播：发出去以后，内容才刚开始.md` |
 | — | [07｜选题：到底什么值得发？](../bbkirstry/feishu-kb/md/07｜选题：到底什么值得发？.md) | `bbkirstry/feishu-kb/md/07｜选题：到底什么值得发？.md` |
@@ -194,46 +172,11 @@ X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.cs
 
 ## `bbkirstry/x-archive`
 
-来源类型：x（公开帖/长文）。可见性：public。63 条。
+来源类型：x（公开帖/长文）。可见性：public。28 条。
 
 | 日期 | 标题 | 路径 |
 |---|---|---|
 | 2026-11-22 | [@bbkirstry X 归档索引](../bbkirstry/x-archive/index.md) | `bbkirstry/x-archive/index.md` |
-| 2026-11-22 | [能被迁移的影响力才是硬通货](../bbkirstry/x-archive/articles/2026-11-22_能被迁移的影响力才是硬通货.md) | `bbkirstry/x-archive/articles/2026-11-22_能被迁移的影响力才是硬通货.md` |
-| 2026-11-21 | [感觉到了一个没有情绪波澜的阶段🤔](../bbkirstry/x-archive/articles/2026-11-21_感觉到了一个没有情绪波澜的阶段.md) | `bbkirstry/x-archive/articles/2026-11-21_感觉到了一个没有情绪波澜的阶段.md` |
-| 2026-11-19 | [ChatGPT 保姆级写作教程｜从源头解决人机感和 AI 味 ✏️](../bbkirstry/x-archive/articles/2026-11-19_ChatGPT-保姆级写作教程从源头解决人机感和-AI-味.md) | `bbkirstry/x-archive/articles/2026-11-19_ChatGPT-保姆级写作教程从源头解决人机感和-AI-味.md` |
-| 2026-11-18 | [“我不信没人和你表白”](../bbkirstry/x-archive/articles/2026-11-18_我不信没人和你表白.md) | `bbkirstry/x-archive/articles/2026-11-18_我不信没人和你表白.md` |
-| 2026-11-17 | [我让chat 自己做的](../bbkirstry/x-archive/articles/2026-11-17_我让chat-自己做的.md) | `bbkirstry/x-archive/articles/2026-11-17_我让chat-自己做的.md` |
-| 2026-11-17 | [口播数字人方案 ✅](../bbkirstry/x-archive/articles/2026-11-17_口播数字人方案.md) | `bbkirstry/x-archive/articles/2026-11-17_口播数字人方案.md` |
-| 2026-11-12 | [小红书起号保姆级教程②｜如何拆解优秀博主，培养内容感知和判断力](../bbkirstry/x-archive/articles/2026-11-12_小红书起号保姆级教程②如何拆解优秀博主培养内容感知和判断力.md) | `bbkirstry/x-archive/articles/2026-11-12_小红书起号保姆级教程②如何拆解优秀博主培养内容感知和判断力.md` |
-| 2026-11-08 | [小红书起号保姆级教程｜从0开始找对标，坚持出摊、商业化](../bbkirstry/x-archive/articles/2026-11-08_小红书起号保姆级教程从0开始找对标坚持出摊商业化.md) | `bbkirstry/x-archive/articles/2026-11-08_小红书起号保姆级教程从0开始找对标坚持出摊商业化.md` |
-| 2026-11-06 | [品牌营销｜做内容的本质，其实是做销售](../bbkirstry/x-archive/articles/2026-11-06_品牌营销做内容的本质其实是做销售.md) | `bbkirstry/x-archive/articles/2026-11-06_品牌营销做内容的本质其实是做销售.md` |
-| 2026-11-05 | [所有事情，都在你以为的那个开始之前就开始了](../bbkirstry/x-archive/articles/2026-11-05_所有事情都在你以为的那个开始之前就开始了.md) | `bbkirstry/x-archive/articles/2026-11-05_所有事情都在你以为的那个开始之前就开始了.md` |
-| 2026-11-02 | [黄仁勋说他更宁愿回到他20岁那个年代，这个视频让我想起最近我看到很多次的一个词叫做 「AI嘉豪」](../bbkirstry/x-archive/articles/2026-11-02_黄仁勋说他更宁愿回到他20岁那个年代这个视频让我想起最近我看到很多次的一个词叫做.md) | `bbkirstry/x-archive/articles/2026-11-02_黄仁勋说他更宁愿回到他20岁那个年代这个视频让我想起最近我看到很多次的一个词叫做.md` |
-| 2026-11-02 | [我发现好多老板平时在微信在群里闷声不吭，来给我预约咨询打钱都嘎嘎爽快。。](../bbkirstry/x-archive/articles/2026-11-02_我发现好多老板平时在微信在群里闷声不吭来给我预约咨询打钱都嘎嘎爽快.md) | `bbkirstry/x-archive/articles/2026-11-02_我发现好多老板平时在微信在群里闷声不吭来给我预约咨询打钱都嘎嘎爽快.md` |
-| 2026-11-02 | [如果你要做个人IP](../bbkirstry/x-archive/articles/2026-11-02_如果你要做个人IP.md) | `bbkirstry/x-archive/articles/2026-11-02_如果你要做个人IP.md` |
-| 2026-11-02 | [听说大家都知道李佳琦要卖token了](../bbkirstry/x-archive/articles/2026-11-02_听说大家都知道李佳琦要卖token了.md) | `bbkirstry/x-archive/articles/2026-11-02_听说大家都知道李佳琦要卖token了.md` |
-| 2026-11-02 | [任何时刻，一定要挑好合作方](../bbkirstry/x-archive/articles/2026-11-02_任何时刻一定要挑好合作方.md) | `bbkirstry/x-archive/articles/2026-11-02_任何时刻一定要挑好合作方.md` |
-| 2026-10-31 | [总结一下昨晚几个印象比较深的结论](../bbkirstry/x-archive/articles/2026-10-31_总结一下昨晚几个印象比较深的结论.md) | `bbkirstry/x-archive/articles/2026-10-31_总结一下昨晚几个印象比较深的结论.md` |
-| 2026-10-30 | [致敬晓辉博士第一天☝🏼记录一下](../bbkirstry/x-archive/articles/2026-10-30_致敬晓辉博士第一天记录一下.md) | `bbkirstry/x-archive/articles/2026-10-30_致敬晓辉博士第一天记录一下.md` |
-| 2026-10-28 | [划重点：](../bbkirstry/x-archive/articles/2026-10-28_划重点.md) | `bbkirstry/x-archive/articles/2026-10-28_划重点.md` |
-| 2026-10-28 | [不要因为暂时看不清前面的路，就低估自己能够抵达的地方](../bbkirstry/x-archive/articles/2026-10-28_不要因为暂时看不清前面的路就低估自己能够抵达的地方.md) | `bbkirstry/x-archive/articles/2026-10-28_不要因为暂时看不清前面的路就低估自己能够抵达的地方.md` |
-| 2026-10-27 | [看完只能感慨一声牛逼🐮。。](../bbkirstry/x-archive/articles/2026-10-27_看完只能感慨一声牛逼.md) | `bbkirstry/x-archive/articles/2026-10-27_看完只能感慨一声牛逼.md` |
-| 2026-10-27 | [国内终于有大厂推出个人 Agent产品了？](../bbkirstry/x-archive/articles/2026-10-27_国内终于有大厂推出个人-Agent产品了.md) | `bbkirstry/x-archive/articles/2026-10-27_国内终于有大厂推出个人-Agent产品了.md` |
-| 2026-10-27 | [哇😯我的群也有群聊总结了！！！](../bbkirstry/x-archive/articles/2026-10-27_哇我的群也有群聊总结了.md) | `bbkirstry/x-archive/articles/2026-10-27_哇我的群也有群聊总结了.md` |
-| 2026-10-27 | [卧槽！昨天一天涨了700多粉🤣](../bbkirstry/x-archive/articles/2026-10-27_卧槽昨天一天涨了700多粉.md) | `bbkirstry/x-archive/articles/2026-10-27_卧槽昨天一天涨了700多粉.md` |
-| 2026-10-26 | [卧槽！！我5000粉了！！👻](../bbkirstry/x-archive/articles/2026-10-26_卧槽我5000粉了.md) | `bbkirstry/x-archive/articles/2026-10-26_卧槽我5000粉了.md` |
-| 2026-10-25 | [越擅长商业推演的人，越难启动自媒体之路](../bbkirstry/x-archive/articles/2026-10-25_越擅长商业推演的人越难启动自媒体之路.md) | `bbkirstry/x-archive/articles/2026-10-25_越擅长商业推演的人越难启动自媒体之路.md` |
-| 2026-10-25 | [卧槽，Mac全家桶好幸福！](../bbkirstry/x-archive/articles/2026-10-25_卧槽Mac全家桶好幸福.md) | `bbkirstry/x-archive/articles/2026-10-25_卧槽Mac全家桶好幸福.md` |
-| 2026-10-23 | [读完想起，2022年我还在香氛行业，曾经为一个香型写过这样的名字和灵感诠释：](../bbkirstry/x-archive/articles/2026-10-23_读完想起2022年我还在香氛行业曾经为一个香型写过这样的名字和灵感诠释_2.md) | `bbkirstry/x-archive/articles/2026-10-23_读完想起2022年我还在香氛行业曾经为一个香型写过这样的名字和灵感诠释_2.md` |
-| 2026-10-23 | [读完想起，2022年我还在香氛行业，曾经为一个香型写过这样的名字和灵感诠释：](../bbkirstry/x-archive/articles/2026-10-23_读完想起2022年我还在香氛行业曾经为一个香型写过这样的名字和灵感诠释.md) | `bbkirstry/x-archive/articles/2026-10-23_读完想起2022年我还在香氛行业曾经为一个香型写过这样的名字和灵感诠释.md` |
-| 2026-10-21 | [去年我开始策划一个AI分身，叫赛博小晚](../bbkirstry/x-archive/articles/2026-10-21_去年我开始策划一个AI分身叫赛博小晚.md) | `bbkirstry/x-archive/articles/2026-10-21_去年我开始策划一个AI分身叫赛博小晚.md` |
-| 2026-10-20 | [👻 让GrokBot帮我整理了一下](../bbkirstry/x-archive/articles/2026-10-20_让GrokBot帮我整理了一下.md) | `bbkirstry/x-archive/articles/2026-10-20_让GrokBot帮我整理了一下.md` |
-| 2026-10-18 | [昨天在线下看腹肌哥分享的时候，脑子里突然就冒出了图片里这句话。这个心态很奇妙！](../bbkirstry/x-archive/articles/2026-10-18_昨天在线下看腹肌哥分享的时候脑子里突然就冒出了图片里这句话这个心态很奇妙.md) | `bbkirstry/x-archive/articles/2026-10-18_昨天在线下看腹肌哥分享的时候脑子里突然就冒出了图片里这句话这个心态很奇妙.md` |
-| 2026-10-17 | [这个方法很有意思，但我认为仅靠提示词和深度对话，可能还远远不够🙂‍↔️](../bbkirstry/x-archive/articles/2026-10-17_这个方法很有意思但我认为仅靠提示词和深度对话可能还远远不够.md) | `bbkirstry/x-archive/articles/2026-10-17_这个方法很有意思但我认为仅靠提示词和深度对话可能还远远不够.md` |
-| 2026-10-08 | [内容创作博主/OPC｜招人全流程拆解&避坑指南](../bbkirstry/x-archive/articles/2026-10-08_内容创作博主OPC招人全流程拆解避坑指南.md) | `bbkirstry/x-archive/articles/2026-10-08_内容创作博主OPC招人全流程拆解避坑指南.md` |
-| 2026-10-04 | [深度拆解小红书/抖音/推特平台玩法：三种流量游戏，以及创作者的三层认知困境](../bbkirstry/x-archive/articles/2026-10-04_深度拆解小红书抖音推特平台玩法三种流量游戏以及创作者的三层认知困境.md) | `bbkirstry/x-archive/articles/2026-10-04_深度拆解小红书抖音推特平台玩法三种流量游戏以及创作者的三层认知困境.md` |
-| 2026-09-29 | [30+从职场到创业，转型是一个巨大的挑战](../bbkirstry/x-archive/articles/2026-09-29_30从职场到创业转型是一个巨大的挑战.md) | `bbkirstry/x-archive/articles/2026-09-29_30从职场到创业转型是一个巨大的挑战.md` |
 | 2026-09-01 | [每天你只需要做好这10件事：](../bbkirstry/x-archive/articles/2026-09-01_每天你只需要做好这10件事.md) | `bbkirstry/x-archive/articles/2026-09-01_每天你只需要做好这10件事.md` |
 | 2026-08-31 | [所有东西，到最后都是「人与人的关系」](../bbkirstry/x-archive/articles/2026-08-31_所有东西到最后都是人与人的关系.md) | `bbkirstry/x-archive/articles/2026-08-31_所有东西到最后都是人与人的关系.md` |
 | 2026-08-31 | [只要有人向我问起内容营销领域有什么好书，我必定会安利叶明桂老师的《出圈》](../bbkirstry/x-archive/articles/2026-08-31_只要有人向我问起内容营销领域有什么好书我必定会安利叶明桂老师的出圈.md) | `bbkirstry/x-archive/articles/2026-08-31_只要有人向我问起内容营销领域有什么好书我必定会安利叶明桂老师的出圈.md` |

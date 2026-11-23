@@ -35,7 +35,7 @@
 - 清单：[`manifest.jsonl`](manifest.jsonl)（`python3 tools/build_manifest.py`，可增量）
 - 覆盖率：[COVERAGE.md](COVERAGE.md)（`python3 tools/coverage.py`）
 - 检索：`python3 tools/query.py`（默认排除封存验证区；`--json` 供 Agent 调用）
-- 公共验证区：[HOLDOUT.md](HOLDOUT.md)；成绩回填 [results.md](results.md)
+- 公共验证区：[HOLDOUT.md](HOLDOUT.md)（原文在私有仓，本仓只留哈希与成绩）
 
 成功抓取后请依次跑 `record_fetch.py`、`tag_x.py`、`classify.py`、`stats.py`、`tools/build_manifest.py`、`tools/coverage.py`。
 
@@ -52,7 +52,6 @@
 | `poteto/x-archive/` | 土豆姐（@poteto）X 归档：Grok Bot 相关帖、长文、原始 JSON；无关帖见 other.md。原料全收并打类型标签 | 土豆姐（lauren） | x | public |
 | `bbkirstry/x-archive/` | 小晚不在（@bbkirstry）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 小晚不在 | x | public |
 | `bbkirstry/feishu-kb/` | 小晚不在飞书知识库导出（Word/Excel 原文、Markdown 转换与插图）。2026-11-23 经哆啦批准公开 | 小晚不在 | feishu | public |
-| `bbkirstry/cognitive-model/` | 小晚认知模型（AGE-13）原料：X 档案补全、封存测试集、训练集索引、训练集标注、认知卡。2026-11-23 经哆啦批准公开 | 小晚不在 | notes | public |
 | `gengdaj/x-archive/` | 逸尘（@gengdaJ）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 逸尘 | x | public |
 
 ## X 材料收录与蒸馏规则
@@ -79,23 +78,23 @@ python3 scripts/tag_x.py
 
 ## 原料统计
 
-由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 15:18 北京时间）。只列统计数字，不含会员内容原文。成功抓取后请依次跑 `record_fetch.py`、`tag_x.py`、`classify.py`、`stats.py`。
+由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 17:29 北京时间）。只列统计数字，不含会员内容原文。成功抓取后请依次跑 `record_fetch.py`、`tag_x.py`、`classify.py`、`stats.py`。
 
 ### X 帖子类型
 
-单位：帖。每条一个 `post_type`（优先级见「X 材料收录与蒸馏规则」）。合计 2311 条。
+单位：帖。每条一个 `post_type`（优先级见「X 材料收录与蒸馏规则」）。合计 1942 条。
 
 | 人 | 原创 | 文章 | 长帖 | 自己的连续帖 | 回复 | 引用 | 转帖 | 合计 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 刘小排 | 297 | 3 | 33 | 21 | 53 | 54 | 1 | 462 |
 | 土豆姐（lauren） | 35 | 1 | 39 | 14 | 282 | 61 | 276 | 708 |
-| 小晚不在 | 91 | 16 | 43 | 14 | 278 | 95 | 14 | 551 |
+| 小晚不在 | 31 | 7 | 17 | 6 | 100 | 20 | 1 | 182 |
 | 逸尘 | 41 | 3 | 76 | 19 | 372 | 62 | 17 | 590 |
-| 合计 | 464 | 23 | 191 | 68 | 985 | 272 | 308 | 2311 |
+| 合计 | 404 | 14 | 165 | 60 | 807 | 197 | 295 | 1942 |
 
 ### 按人 × 来源类型
 
-单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1585 条（public 1580，member 5）。
+单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1536 条（public 1531，member 5）。
 X 列是归档文件条目（`index.md` / `all.md` / `articles/` / `raw/`），不是帖子数；帖子见上表。
 会员 GitHub 仓按仓计 1 条；会员群只记条目数量（记录与截图目录），不写入原文。
 
@@ -105,9 +104,9 @@ X 列是归档文件条目（`index.md` / `all.md` / `articles/` / `raw/`），�
 | 西门 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 |
 | 刘小排 | 0 | 0 | 0 | 49 | 0 | 0 | 49 | 49 | 0 |
 | 土豆姐（lauren） | 0 | 0 | 0 | 45 | 0 | 0 | 45 | 45 | 0 |
-| 小晚不在 | 0 | 0 | 0 | 63 | 5 | 127 | 195 | 195 | 0 |
+| 小晚不在 | 0 | 0 | 0 | 28 | 0 | 118 | 146 | 146 | 0 |
 | 逸尘 | 0 | 0 | 0 | 84 | 0 | 0 | 84 | 84 | 0 |
-| 合计 | 883 | 4 | 324 | 241 | 6 | 127 | 1585 | 1580 | 5 |
+| 合计 | 883 | 4 | 324 | 206 | 1 | 118 | 1536 | 1531 | 5 |
 
 <!-- END STATS -->
 

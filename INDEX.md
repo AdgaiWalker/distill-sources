@@ -8,7 +8,7 @@
 
 原文件不移动、不改名、不改内容。本文件与 `index/classification.csv`、人物卡里的材料清单由 [`scripts/classify.py`](scripts/classify.py) 根据 [`people.yaml`](people.yaml) 生成，可重跑。
 
-生成时间：2026-11-23 15:18（北京时间）。合计条目：1585。
+生成时间：2026-11-23 17:29（北京时间）。合计条目：1536。
 
 ## 用途：出海
 
@@ -37,16 +37,16 @@
 
 ## 用途：自媒体
 
-这类知识用来蒸馏「自媒体」相关 skill。2 人，279 条。
+这类知识用来蒸馏「自媒体」相关 skill。2 人，230 条。
 
 | 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |
 |---|---|---|---:|---:|---:|---|
-| 小晚不在 | 自媒体 | 自媒体 | 195 | 195 | 0 | [bbkirstry.md](people/bbkirstry.md) |
+| 小晚不在 | 自媒体 | 自媒体 | 146 | 146 | 0 | [bbkirstry.md](people/bbkirstry.md) |
 | 逸尘 | 自媒体 | 自媒体 | 84 | 84 | 0 | [gengdaj.md](people/gengdaj.md) |
 
 ## 可见性
 
-合计 public 1580，member 5。
+合计 public 1531，member 5。
 
 - `public`：公开公众号文章、公开 X 帖、公开的开源仓库，以及上游已公开的 GitHub 整理资料。
 - `member`：来源为会员群转录/截图，或仓主整理的非公开出处笔记。本仓现已公开；这些条目经仓主决定一并收入，标签只说明来源，不表示禁止公开。
