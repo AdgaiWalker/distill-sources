@@ -1,10 +1,10 @@
-# distill-sources 人物与来源配置（脚本 scripts/classify.py 读取）
+# distill-sources 人物与来源配置（tools/build_manifest.py、query.py、coverage.py 读取）
 #
 # 新增一个人只需：
 #   1. 在本文件 people 下加一条
 #   2. 建材料目录（新人用顶层 <slug>/；已有路径不要移动）
 #   3. 复制 templates/person-card.md 为 people/<slug>.md 并填写
-#   4. 运行 python3 scripts/classify.py
+#   4. 在 README 人物表和 INDEX.md 各加一行，运行 python3 tools/refresh.py
 #
 # 用途 = 这种知识能帮着蒸馏出哪类 skill。已用：出海、产品、AI 工具、自媒体。
 # 可扩展举例：IP、AI 工具、具身智能。每人一个主用途，可以有多个用途。

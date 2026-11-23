@@ -17,18 +17,17 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from corpusutil import (
-    HOLDOUT_DIR_REL,
     KINDS,
     LICENSE_STATUSES,
     MANIFEST_PATH,
     PEOPLE_YAML,
     ROOT,
-    SEALED_MD,
     X_POSTS_CSV,
     X_POST_TYPE_KIND,
     date_from_mdy_prefix,
@@ -40,10 +39,8 @@ from corpusutil import (
     load_yaml,
     make_record,
     now_beijing,
-    parse_sealed_files,
     read_text_head,
     rel_posix,
-    sealed_window,
     sha256_file,
     sha256_json,
     tree_hash,
@@ -88,7 +85,7 @@ def load_all_posts(archive_dir: Path) -> tuple[dict, str]:
 
 def scan_x(config: dict) -> list[dict]:
     if not X_POSTS_CSV.is_file():
-        print(f"警告: 找不到 {X_POSTS_CSV}，跳过 X 帖。请先跑 python3 scripts/tag_x.py", file=sys.stderr)
+        print(f"警告: 找不到 {X_POSTS_CSV}，跳过 X 帖。请先跑 python3 tools/tag_x.py", file=sys.stderr)
         return []
     archives = x_archives_from_people(config)
     # name or slug -> slug
@@ -411,6 +408,124 @@ def merge_incremental(old_rows: list[dict], new_rows: list[dict], full: bool) ->
     return merged
 
 
+
+# ---------- 标题、说话人、收录时间 ----------
+
+# 标题里明确写出另一位讲者（「龙猫讲…」「小羊在深圳分享…」「嘉宾…」）时判为 quoted。
+# 只看标题，有依据才判；有他人信号但说不准的判 uncertain，不硬判。
+_SELF_NAMES = ("哥飞", "我")
+_QUOTED_PATTERNS = [
+    re.compile(r"(?:^|[，,：:、\s])([A-Za-z\u4e00-\u9fa5]{1,8}?)(?:在[\u4e00-\u9fa5]{1,6})?讲(?![解透清话座课])"),
+    re.compile(r"([A-Za-z\u4e00-\u9fa5]{1,8}?)在(?!线)[\u4e00-\u9fa5]{1,6}分享"),
+]
+_QUOTED_WORDS = ("嘉宾", "访谈", "投稿", "转载", "已获得授权", "优秀群友怎么说", "冠军复盘")
+_UNCERTAIN_WORDS = ("群友", "他是怎么", "他靠", "他做", "他说", "她", "朋友的网站", "朋友做了", "社群朋友", "复盘", "经验分享", "采访", "有感", "第一名", "预告", "议程")
+
+
+def _speaker_from_title(title: str, weak_signals: bool = True) -> str:
+    for pat in _QUOTED_PATTERNS:
+        for m in pat.finditer(title):
+            name = m.group(1)
+            if name and not any(s in name for s in _SELF_NAMES) and name not in ("大白话", "一次给你", "再"):
+                return "quoted"
+    if weak_signals and any(w in title for w in ("预告", "议程")):
+        return "uncertain"
+    for w in _QUOTED_WORDS:
+        # 「哥飞：……嘉宾分享」是哥飞本人当嘉宾，不算转述
+        if w in title and not (w == "嘉宾" and title.startswith("哥飞")):
+            return "quoted"
+    if weak_signals and any(w in title for w in _UNCERTAIN_WORDS):
+        return "uncertain"
+    return "self"
+
+
+def _title_of(rec: dict, posts_by_path: dict) -> str:
+    path = rec.get("path") or ""
+    if rec.get("platform") == "x" and path.endswith(".json"):
+        posts = posts_by_path.get(path)
+        if posts is None:
+            posts = {}
+            full = ROOT / path
+            if full.is_file():
+                data = json.loads(full.read_text(encoding="utf-8"))
+                for p in data.get("data") or []:
+                    if isinstance(p, dict) and p.get("id"):
+                        art = p.get("article") or {}
+                        note = p.get("note_tweet") or {}
+                        txt = (art.get("title") if isinstance(art, dict) else "") or (note.get("text") if isinstance(note, dict) else "") or p.get("text") or ""
+                        posts[str(p["id"])] = txt
+            posts_by_path[path] = posts
+        txt = posts.get(rec["id"].rsplit(":", 1)[-1], "")
+        first = next((ln.strip() for ln in txt.splitlines() if ln.strip()), "")
+        return first[:60]
+    name = Path(path.rstrip("/")).name
+    stem = re.sub(r"\.(md|txt|csv|py|json)$", "", name)
+    return re.sub(r"^20\d{6}_", "", stem)
+
+
+def _origin_of(rec: dict) -> str:
+    rid, path, plat = rec.get("id") or "", rec.get("path") or "", rec.get("platform")
+    if "github-member-repos/" in path or ":github-repo:" in rid or "github-seed/" in path:
+        return "compiled"
+    if plat == "group-chat":
+        return "mixed"
+    if plat == "notes":
+        return "compiled"
+    if plat == "x":
+        return "other" if "post_type:retweet" in (rec.get("context_tags") or []) else "self"
+    if plat == "wechat":
+        return _speaker_from_title(rec.get("title") or "")
+    if plat == "feishu":
+        # 小晚知识库的篇名常用「复盘」「群友」指她自己的教程对象，只认明确的他人讲者
+        return _speaker_from_title(rec.get("title") or "", weak_signals=False)
+    return "uncertain"
+
+
+def _git_first_added() -> dict[str, str]:
+    import subprocess
+
+    try:
+        out = subprocess.run(
+            ["git", "-c", "core.quotepath=off", "log", "--diff-filter=A", "--reverse", "--name-only", "--format=@%cI"],
+            cwd=ROOT, capture_output=True, text=True, check=True,
+        ).stdout
+    except (OSError, subprocess.CalledProcessError):
+        return {}
+    import datetime as _dt
+
+    first: dict[str, str] = {}
+    cur = ""
+    for ln in out.splitlines():
+        if ln.startswith("@"):
+            t = _dt.datetime.fromisoformat(ln[1:])
+            cur = t.astimezone(_dt.timezone(_dt.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M")
+        elif ln and ln not in first:
+            first[ln] = cur
+    return first
+
+
+def enrich(rows: list[dict]) -> None:
+    posts_by_path: dict = {}
+    added = _git_first_added()
+    dir_added: dict[str, str] = {}
+    for f, t in added.items():
+        parts = f.split("/")
+        for i in range(1, len(parts)):
+            d = "/".join(parts[:i]) + "/"
+            if d not in dir_added or t < dir_added[d]:
+                dir_added[d] = t
+    now = now_beijing()
+    for rec in rows:
+        rec["title"] = rec.get("title") or _title_of(rec, posts_by_path)
+        rec["origin"] = _origin_of(rec)
+        # 文内「原文链接」后面有时是说明文字而不是网址，这类值不算出处
+        if rec.get("source_url") and not str(rec["source_url"]).startswith(("http://", "https://")):
+            rec["source_url"] = ""
+        if not rec.get("fetched_at"):
+            p = rec.get("path") or ""
+            rec["fetched_at"] = added.get(p) or dir_added.get(p) or now
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="生成或增量更新 manifest.jsonl")
     parser.add_argument("--full", action="store_true", help="忽略已有清单，全量重建")
@@ -437,6 +552,7 @@ def main() -> int:
 
     old = [] if args.full else load_manifest()
     rows = merge_incremental(old, rows, full=args.full)
+    enrich(rows)
 
     errors = validate_manifest(rows)
     if errors:

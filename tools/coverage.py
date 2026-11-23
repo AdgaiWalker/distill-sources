@@ -251,6 +251,30 @@ def render(config: dict, rows: list[dict], today: dt.date) -> tuple[str, list[st
     return "\n".join(lines).rstrip() + "\n", alarms
 
 
+def x_type_table() -> str:
+    """X 帖类型统计（原 README「原料统计」，按人统计只保留在本文件）。"""
+    import csv
+    from collections import Counter
+
+    path = ROOT / "index" / "x-posts.csv"
+    if not path.is_file():
+        return ""
+    cols = ["original", "article", "long", "self-thread", "reply", "quote", "retweet"]
+    names = ["原创", "文章", "长帖", "自己的连续帖", "回复", "引用", "转帖"]
+    by: dict[str, Counter] = {}
+    with path.open(encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            by.setdefault(r["人"], Counter())[r["post_type"]] += 1
+    lines = ["", "## X 帖类型", "", "单位：帖。由 `tools/tag_x.py` 写出的 `index/x-posts.csv` 统计。", "",
+             "| 人 | " + " | ".join(names) + " | 合计 |", "|---|" + "---:|" * (len(cols) + 1)]
+    tot = Counter()
+    for who, c in by.items():
+        lines.append(f"| {who} | " + " | ".join(str(c[k]) for k in cols) + f" | {sum(c.values())} |")
+        tot.update(c)
+    lines.append("| 合计 | " + " | ".join(str(tot[k]) for k in cols) + f" | {sum(tot.values())} |")
+    return "\n".join(lines) + "\n"
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="统计原料覆盖率并在超阈值时报警")
     parser.add_argument("--manifest", default=str(MANIFEST_PATH))
@@ -268,7 +292,7 @@ def main() -> int:
     today = dt.datetime.now(BEIJING).date()
     text, alarms = render(config, rows, today)
     out = Path(args.output)
-    out.write_text(text, encoding="utf-8")
+    out.write_text(text.rstrip("\n") + "\n" + x_type_table(), encoding="utf-8")
     print(f"wrote {out if out.is_absolute() and ROOT in out.parents else out}")
     if alarms:
         print(f"报警 {len(alarms)} 条：")

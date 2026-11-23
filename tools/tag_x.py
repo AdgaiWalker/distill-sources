@@ -3,7 +3,7 @@
 
 用法（在仓库根目录）：
 
-    python3 scripts/tag_x.py
+    python3 tools/tag_x.py
 
 读取各人 x-archive/raw 的原始 JSON（优先 raw/all_posts.json），
 按 referenced_tweets / in_reply_to_user_id / 作者 id 判断类型，
@@ -47,28 +47,24 @@ ARCHIVES = [
         "name": "土豆姐（lauren）",
         "username": "poteto",
         "repo_dir": "poteto/x-archive",
-        "local_dir": Path("/workspace/x-archive/poteto"),
     },
     {
         "slug": "bbkirstry",
         "name": "小晚不在",
         "username": "bbkirstry",
         "repo_dir": "bbkirstry/x-archive",
-        "local_dir": Path("/workspace/x-archive/bbkirstry"),
     },
     {
         "slug": "gengdaj",
         "name": "逸尘",
         "username": "gengdaJ",
         "repo_dir": "gengdaj/x-archive",
-        "local_dir": Path("/workspace/x-archive/gengdaJ"),
     },
     {
         "slug": "liuxiaopai",
         "name": "刘小排",
         "username": "bourneliu66",
         "repo_dir": "liuxiaopai/x-archive",
-        "local_dir": Path("/workspace/x-archive/bourneliu66"),
     },
 ]
 
@@ -275,7 +271,7 @@ def render_index_section(slug: str, username: str, counts: Counter, total: int) 
         "## 类型标签",
         "",
         "原料全收，只打类型标签，不按类型删除（哆啦 2026-11-22 定）。",
-        "由 `scripts/tag_x.py` 生成；每条一个 `post_type`，优先级：retweet > article > long > quote > self-thread > reply > original。",
+        "由 `tools/tag_x.py` 生成；每条一个 `post_type`，优先级：retweet > article > long > quote > self-thread > reply > original。",
         "完整表见仓库根目录 [index/x-posts.csv](../../index/x-posts.csv)。",
         "",
         "蒸馏时：主料是原创（original、self-thread）和长文（article、long）；",
@@ -347,10 +343,6 @@ def tag_archive(root: Path, cfg: dict) -> list[dict]:
     index_path = archive / "index.md"
     if index_path.is_file() or True:
         upsert_index_section(index_path, section)
-    local = cfg.get("local_dir")
-    if local and (local / "index.md").is_file():
-        # 本机原目录同步类型统计，不改 raw
-        upsert_index_section(local / "index.md", section)
     print(f"{cfg['slug']}: {len(rows)}  " + "  ".join(f"{t}={counts[t]}" for t in TYPE_ORDER))
     return rows
 

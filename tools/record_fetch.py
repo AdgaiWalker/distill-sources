@@ -3,13 +3,12 @@
 
 用法（在仓库根目录）：
 
-    python3 scripts/record_fetch.py
-    python3 scripts/record_fetch.py --source "本次抓取说明"
-    python3 scripts/record_fetch.py --time "2026-11-23 04:01" --source "历史记录说明"
+    python3 tools/record_fetch.py
+    python3 tools/record_fetch.py --source "本次抓取说明"
+    python3 tools/record_fetch.py --time "2026-11-23 04:01" --source "历史记录说明"
 
 写出 [index/last-fetch.txt](../index/last-fetch.txt)。不要把当前时间手写进 README；
-随后请跑 `tag_x.py`、`classify.py`、`stats.py`，由 `stats.py` 把本文件中的时间
-写到 README 标题下的「最近抓取时间」。
+通常不用单独跑：`python3 tools/refresh.py --fetched` 会先跑本脚本，再把时间写进 README 状态行。
 
 四天一次的定时更新在成功抓取（公众号、X 或 GitHub 资料有新内容入库）后
 应先跑本脚本，再生成统计。无新内容时不要刷新时间。
@@ -36,7 +35,7 @@ def write_last_fetch(time_str: str, source: str) -> None:
     if not TIME_RE.match(time_str):
         raise SystemExit(f"时间格式应为 YYYY-MM-DD HH:MM，收到：{time_str}")
     LAST_FETCH.parent.mkdir(parents=True, exist_ok=True)
-    source_line = source.strip() or "scripts/record_fetch.py 在成功抓取后写入"
+    source_line = source.strip() or "tools/record_fetch.py 在成功抓取后写入"
     text = (
         f"{time_str}\n"
         f"timezone: Asia/Shanghai\n"
@@ -53,7 +52,7 @@ def main() -> int:
     )
     parser.add_argument(
         "--source",
-        default="scripts/record_fetch.py 在成功抓取后写入",
+        default="tools/record_fetch.py 在成功抓取后写入",
         help="时间数据来源说明，写入 last-fetch.txt",
     )
     args = parser.parse_args()

@@ -12,19 +12,26 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-if str(ROOT / "scripts") not in sys.path:
-    sys.path.insert(0, str(ROOT / "scripts"))
 
 BEIJING = dt.timezone(dt.timedelta(hours=8))
 MANIFEST_PATH = ROOT / "manifest.jsonl"
 SCHEMA_PATH = ROOT / "schema" / "manifest.schema.json"
 PEOPLE_YAML = ROOT / "people.yaml"
 X_POSTS_CSV = ROOT / "index" / "x-posts.csv"
-SEALED_MD = ROOT / "bbkirstry" / "cognitive-model" / "封存测试集" / "SEALED.md"
-HOLDOUT_DIR_REL = "bbkirstry/cognitive-model/封存测试集"
 
 PLATFORMS = ("wechat", "x", "feishu", "group-chat", "github", "notes", "other")
 KINDS = ("said", "did", "corrected", "rejected", "other", "unknown")
+# 谁在说：self=本人原文；quoted=本人转述他人；mixed=多人对话；compiled=他人汇编或副本；
+# other=他人内容（如纯转帖）；uncertain=现有依据判断不了。
+ORIGINS = ("self", "quoted", "mixed", "compiled", "other", "uncertain")
+ORIGIN_LABELS = {
+    "self": "本人原文",
+    "quoted": "转述他人",
+    "mixed": "多人对话",
+    "compiled": "他人汇编",
+    "other": "他人内容",
+    "uncertain": "说话人待定",
+}
 LICENSE_STATUSES = ("公开", "会员内容经哆啦批准公开", "未知")
 
 # kind 只能从已有标签推断，不准根据正文猜测。
@@ -47,6 +54,8 @@ MANIFEST_FIELDS = [
     "person",
     "platform",
     "kind",
+    "origin",
+    "title",
     "date",
     "source_url",
     "path",
@@ -63,9 +72,123 @@ def now_beijing() -> str:
 
 
 def load_yaml(path: Path) -> dict:
-    from classify import load_yaml as _load
+    try:
+        import yaml  # type: ignore
+        return yaml.safe_load(path.read_text(encoding="utf-8"))
+    except ImportError:
+        return load_simple_yaml(path.read_text(encoding="utf-8"))
 
-    return _load(path)
+
+def load_simple_yaml(text: str):
+    """解析本仓 people.yaml 用到的子集：注释、映射、列表、标量。"""
+    lines: list[tuple[int, str]] = []
+    for raw in text.splitlines():
+        if not raw.strip() or raw.lstrip().startswith("#"):
+            continue
+        indent = len(raw) - len(raw.lstrip(" "))
+        lines.append((indent, raw.strip()))
+
+    def parse_scalar(s: str):
+        if s in ("null", "~", ""):
+            return None
+        if s in ("true", "True"):
+            return True
+        if s in ("false", "False"):
+            return False
+        if (s.startswith('"') and s.endswith('"')) or (s.startswith("'") and s.endswith("'")):
+            return s[1:-1]
+        if re.fullmatch(r"-?\d+", s):
+            return int(s)
+        return s
+
+    def parse_flow(s: str):
+        s = s.strip()
+        if s.startswith("[") and s.endswith("]"):
+            inner = s[1:-1].strip()
+            if not inner:
+                return []
+            return [parse_scalar(p.strip()) for p in inner.split(",")]
+        return parse_scalar(s)
+
+    def parse_block(idx: int, indent: int):
+        # peek
+        if idx >= len(lines):
+            return None, idx
+        i, content = lines[idx]
+        if i < indent:
+            return None, idx
+        if content.startswith("- "):
+            return parse_list(idx, indent)
+        return parse_map(idx, indent)
+
+    def parse_map(idx: int, indent: int):
+        result = {}
+        while idx < len(lines):
+            i, content = lines[idx]
+            if i < indent:
+                break
+            if i > indent:
+                raise ValueError(f"YAML 缩进异常: {content}")
+            if content.startswith("- "):
+                break
+            if ":" not in content:
+                raise ValueError(f"YAML 行缺少冒号: {content}")
+            key, _, rest = content.partition(":")
+            key = key.strip()
+            rest = rest.strip()
+            idx += 1
+            if rest:
+                result[key] = parse_flow(rest)
+            else:
+                if idx < len(lines) and lines[idx][0] > indent:
+                    child, idx = parse_block(idx, lines[idx][0])
+                    result[key] = child
+                else:
+                    result[key] = None
+        return result, idx
+
+    def parse_list(idx: int, indent: int):
+        result = []
+        while idx < len(lines):
+            i, content = lines[idx]
+            if i < indent:
+                break
+            if i > indent:
+                raise ValueError(f"YAML 列表缩进异常: {content}")
+            if not content.startswith("- "):
+                break
+            item = content[2:].strip()
+            idx += 1
+            if not item:
+                if idx < len(lines) and lines[idx][0] > indent:
+                    child, idx = parse_block(idx, lines[idx][0])
+                    result.append(child)
+                else:
+                    result.append(None)
+            elif item.endswith(":") and (idx >= len(lines) or lines[idx][0] > indent or (idx < len(lines) and lines[idx][1].startswith("- "))):
+                # "- key:" with nested body, or just empty
+                key = item[:-1].strip()
+                if idx < len(lines) and lines[idx][0] > indent:
+                    child, idx = parse_block(idx, lines[idx][0])
+                    result.append({key: child})
+                else:
+                    result.append({key: None})
+            elif ":" in item and not item.startswith("[") and not item.startswith("'") and not item.startswith('"'):
+                key, _, rest = item.partition(":")
+                obj = {key.strip(): parse_flow(rest.strip())}
+                # following indented keys belong to this list dict
+                if idx < len(lines) and lines[idx][0] > indent and not lines[idx][1].startswith("- "):
+                    more, idx = parse_map(idx, lines[idx][0])
+                    obj.update(more)
+                result.append(obj)
+            else:
+                result.append(parse_flow(item))
+        return result, idx
+
+    doc, idx = parse_map(0, lines[0][0] if lines else 0)
+    if idx != len(lines):
+        raise ValueError(f"YAML 未解析完，停在: {lines[idx]}")
+    return doc
 
 
 def norm_date(s: str | None) -> str:
@@ -201,6 +324,8 @@ def empty_record() -> dict:
         "person": "",
         "platform": "",
         "kind": "unknown",
+        "origin": "uncertain",
+        "title": "",
         "date": "",
         "source_url": "",
         "path": "",
@@ -246,31 +371,6 @@ def write_manifest(rows: list[dict], path: Path = MANIFEST_PATH) -> None:
         for rec in rows:
             out = {k: rec.get(k, empty_record()[k]) for k in MANIFEST_FIELDS}
             f.write(json.dumps(out, ensure_ascii=False, separators=(",", ":")) + "\n")
-
-
-def parse_sealed_files() -> list[dict]:
-    """只读 SEALED.md 的路径与哈希，不打开封存正文。"""
-    if not SEALED_MD.is_file():
-        return []
-    text = SEALED_MD.read_text(encoding="utf-8")
-    items = []
-    for m in re.finditer(
-        r"\|\s*`([^`]+)`\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*`([a-f0-9]{64})`\s*\|",
-        text,
-    ):
-        rel, size, chars, digest = m.group(1), int(m.group(2)), int(m.group(3)), m.group(4)
-        items.append({"rel": rel, "bytes": size, "chars": chars, "sha256": digest})
-    return items
-
-
-def sealed_window() -> tuple[str, str]:
-    if not SEALED_MD.is_file():
-        return "", ""
-    text = SEALED_MD.read_text(encoding="utf-8")
-    m = re.search(r"起止：\s*(\d{4}-\d{2}-\d{2})\s*至\s*(\d{4}-\d{2}-\d{2})", text)
-    if m:
-        return m.group(1), m.group(2)
-    return "2026-09-23", "2026-11-23"
 
 
 def validate_manifest(rows: list[dict], schema_path: Path = SCHEMA_PATH) -> list[str]:
