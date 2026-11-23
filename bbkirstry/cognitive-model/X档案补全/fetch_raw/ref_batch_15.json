@@ -1,0 +1,339 @@
+{
+  "data": [
+    {
+      "author_id": "1666307873939374080",
+      "conversation_id": "2123982946562683299",
+      "created_at": "2026-11-21T03:36:46.000Z",
+      "edit_history_post_ids": [
+        "2123983933058773326"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 24,
+            "id": "1596695231717871616",
+            "start": 11,
+            "username": "dontbesilent"
+          }
+        ]
+      },
+      "id": "2123983933058773326",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 503,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123982946562683299",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @dontbesilent 羡慕 don 哥！",
+      "url": "https://x.com/qizong007/status/2123983933058773326"
+    },
+    {
+      "author_id": "1988839296309293056",
+      "conversation_id": "2123982946562683299",
+      "created_at": "2026-11-21T04:30:29.000Z",
+      "edit_history_post_ids": [
+        "2123997451912950073"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 24,
+            "id": "1596695231717871616",
+            "start": 11,
+            "username": "dontbesilent"
+          }
+        ]
+      },
+      "id": "2123997451912950073",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 596,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123982946562683299",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @dontbesilent 你把他都带的年轻了的感觉",
+      "url": "https://x.com/Eejoylove/status/2123997451912950073"
+    },
+    {
+      "author_id": "1767869147688697856",
+      "conversation_id": "2123982946562683299",
+      "created_at": "2026-11-21T05:11:51.000Z",
+      "edit_history_post_ids": [
+        "2124007864796881366"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 24,
+            "id": "1596695231717871616",
+            "start": 11,
+            "username": "dontbesilent"
+          }
+        ]
+      },
+      "id": "2124007864796881366",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 174,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124007461443269000",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @dontbesilent 没关系的😃  只是顺便say 个hi",
+      "url": "https://x.com/TaoTang1264919/status/2124007864796881366"
+    },
+    {
+      "author_id": "1620478536795693063",
+      "conversation_id": "2123982946562683299",
+      "created_at": "2026-11-21T05:37:18.000Z",
+      "edit_history_post_ids": [
+        "2124014267980784092"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 24,
+            "id": "1596695231717871616",
+            "start": 11,
+            "username": "dontbesilent"
+          }
+        ]
+      },
+      "id": "2124014267980784092",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 487,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123982946562683299",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @dontbesilent 晚姐来了吗卧槽",
+      "url": "https://x.com/0xLinehigher/status/2124014267980784092"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2123982936907427840",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXnnOk9bsAAp0VY.jpg",
+        "width": 1024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2123982936903127041",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXnnOk8aEAEAQUT.jpg",
+        "width": 3072
+      }
+    ],
+    "posts": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123982936907427840",
+            "3_2123982936903127041"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2123982946562683299",
+        "created_at": "2026-11-21T03:32:50.000Z",
+        "edit_history_post_ids": [
+          "2123982946562683299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1596695231717871616",
+              "start": 14,
+              "username": "dontbesilent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Nqy6winL9",
+              "end": 174,
+              "expanded_url": "https://x.com/bbkirstry/status/2123982946562683299/photo/1",
+              "media_key": "3_2123982936907427840",
+              "start": 151,
+              "url": "https://t.co/2Nqy6winL9"
+            },
+            {
+              "display_url": "pic.x.com/2Nqy6winL9",
+              "end": 174,
+              "expanded_url": "https://x.com/bbkirstry/status/2123982946562683299/photo/2",
+              "media_key": "3_2123982936903127041",
+              "start": 151,
+              "url": "https://t.co/2Nqy6winL9"
+            }
+          ]
+        },
+        "id": "2123982946562683299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 27,
+                "id": "1596695231717871616",
+                "start": 14,
+                "username": "dontbesilent"
+              }
+            ]
+          },
+          "text": "有幸见到了偶像🍻圆梦了！！\n@dontbesilent \n\n去年非常迷茫的时候刷到了don的视频，刷新了我对AI+商业+自媒体新的理解高度；今年准备All in AI自媒体的时候，又见到了本人\n\n「好的商业模式会让你成为一个好人」\n所以，还是要去做把知识研究透、讲清楚的内容创作者，而不是被商业化反噬\n\n还见到了一群非常有趣的朋友！太真诚了\n让我们一起大力传播Don学！👻👻👻"
+        },
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 12293,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 24,
+          "repost_count": 1
+        },
+        "text": "有幸见到了偶像🍻圆梦了！！\n@dontbesilent \n\n去年非常迷茫的时候刷到了don的视频，刷新了我对AI+商业+自媒体新的理解高度；今年准备All in AI自媒体的时候，又见到了本人\n\n「好的商业模式会让你成为一个好人」\n所以，还是要去做把知识研究透、讲清楚的内容创作者，而不是被商业化反噬 https://t.co/2Nqy6winL9"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "conversation_id": "2123982946562683299",
+        "created_at": "2026-11-21T05:10:15.000Z",
+        "edit_history_post_ids": [
+          "2124007461443269000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767869147688697856",
+              "start": 0,
+              "username": "TaoTang1264919"
+            },
+            {
+              "end": 29,
+              "id": "1596695231717871616",
+              "start": 16,
+              "username": "dontbesilent"
+            }
+          ]
+        },
+        "id": "2124007461443269000",
+        "in_reply_to_user_id": "1767869147688697856",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "repost_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124006120910180779",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@TaoTang1264919 @dontbesilent omg！你好！\n\n我打的马赛克没存上🥲你介意吗哥……需要我重新编辑一下吗"
+      }
+    ],
+    "users": [
+      {
+        "id": "1666307873939374080",
+        "name": "王帅真",
+        "protected": false,
+        "username": "qizong007"
+      },
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "protected": false,
+        "username": "bbkirstry"
+      },
+      {
+        "id": "1988839296309293056",
+        "name": "文子🔆",
+        "protected": false,
+        "username": "Eejoylove"
+      },
+      {
+        "id": "1767869147688697856",
+        "name": "TeoAICoffee",
+        "protected": false,
+        "username": "TaoTang1264919"
+      },
+      {
+        "id": "1620478536795693063",
+        "name": "Line",
+        "protected": false,
+        "username": "0xLinehigher"
+      }
+    ]
+  },
+  "meta": {
+    "result_count": 4
+  }
+}

@@ -8,7 +8,7 @@
 
 加工好的能力卡和蒸馏产出不在本仓。哥飞的能力包仍在本机 `/workspace/gefei/gefei-skill-pack`。
 
-本仓现已公开。收录范围包括公开文章、已公开的 GitHub 资料，以及经仓主决定一并公开的会员群转录/截图和西门笔记。会员群截图中可能含有头像或昵称。
+本仓现已公开。收录范围包括公开文章、已公开的 GitHub 资料，经仓主决定一并公开的会员群转录/截图和西门笔记，以及 2026-11-23 经哆啦批准公开的小晚不在飞书知识库与认知模型材料。会员群截图中可能含有头像或昵称。
 
 收录日期：2026-11-22。材料从共享电脑对应目录复制而来（`rsync -a --exclude '.git'`），原目录未移动。
 
@@ -16,7 +16,7 @@
 
 1. **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。目前是「出海」（哥飞、西门）、「产品」（刘小排）、「AI 工具」（土豆姐 / @poteto）和「自媒体」（小晚不在 / @bbkirstry、逸尘 / @gengdaJ）。以后可扩展，例如 IP、具身智能。
 2. **人**：每人一张人物卡 `people/<slug>.md`（擅长、已有 skill、计划蒸馏成的 skill、材料清单、如何补充新材料）。
-3. **来源类型**：统一用 `wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）。
+3. **来源类型**：统一用 `wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）/ `feishu`（飞书知识库）。
 
 索引见 [INDEX.md](INDEX.md)，按用途 → 人排列。机器可读表在 [index/classification.csv](index/classification.csv)。人物与来源配置在 [people.yaml](people.yaml)。重跑：`python3 scripts/classify.py`。原文件不移动、不改名、不改内容。
 
@@ -39,6 +39,8 @@
 | `liuxiaopai/x-archive/` | 刘小排 X 归档（帖子、长文、原始 JSON） | 刘小排 | x | public |
 | `poteto/x-archive/` | 土豆姐（@poteto）X 归档：Grok Bot 相关帖、长文、原始 JSON；无关帖见 other.md。原料全收并打类型标签 | 土豆姐（lauren） | x | public |
 | `bbkirstry/x-archive/` | 小晚不在（@bbkirstry）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 小晚不在 | x | public |
+| `bbkirstry/feishu-kb/` | 小晚不在飞书知识库导出（Word/Excel 原文、Markdown 转换与插图）。2026-11-23 经哆啦批准公开 | 小晚不在 | feishu | public |
+| `bbkirstry/cognitive-model/` | 小晚认知模型（AGE-13）原料：X 档案补全、封存测试集、训练集索引、标注快照。2026-11-23 经哆啦批准公开 | 小晚不在 | notes | public |
 | `gengdaj/x-archive/` | 逸尘（@gengdaJ）X 归档（帖子、长文、原始 JSON；本次未翻完全部公开帖） | 逸尘 | x | public |
 
 ## X 材料收录与蒸馏规则
@@ -65,7 +67,7 @@ python3 scripts/tag_x.py
 
 ## 原料统计
 
-由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 10:24 北京时间）。只列统计数字，不含会员内容原文。成功抓取后请依次跑 `record_fetch.py`、`tag_x.py`、`classify.py`、`stats.py`。
+由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 15:18 北京时间）。只列统计数字，不含会员内容原文。成功抓取后请依次跑 `record_fetch.py`、`tag_x.py`、`classify.py`、`stats.py`。
 
 ### X 帖子类型
 
@@ -81,19 +83,19 @@ python3 scripts/tag_x.py
 
 ### 按人 × 来源类型
 
-单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1453 条（public 1448，member 5）。
+单位：索引条目，与 [INDEX.md](INDEX.md) 合计一致。本表合计 1585 条（public 1580，member 5）。
 X 列是归档文件条目（`index.md` / `all.md` / `articles/` / `raw/`），不是帖子数；帖子见上表。
 会员 GitHub 仓按仓计 1 条；会员群只记条目数量（记录与截图目录），不写入原文。
 
-| 人 | 公众号文章 | 会员群 | GitHub 资料 | X | 笔记 | 合计 | public | member |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| 哥飞 | 883 | 4 | 324 | 0 | 0 | 1211 | 1207 | 4 |
-| 西门 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 |
-| 刘小排 | 0 | 0 | 0 | 49 | 0 | 49 | 49 | 0 |
-| 土豆姐（lauren） | 0 | 0 | 0 | 45 | 0 | 45 | 45 | 0 |
-| 小晚不在 | 0 | 0 | 0 | 63 | 0 | 63 | 63 | 0 |
-| 逸尘 | 0 | 0 | 0 | 84 | 0 | 84 | 84 | 0 |
-| 合计 | 883 | 4 | 324 | 241 | 1 | 1453 | 1448 | 5 |
+| 人 | 公众号文章 | 会员群 | GitHub 资料 | X | 笔记 | 飞书知识库 | 合计 | public | member |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 哥飞 | 883 | 4 | 324 | 0 | 0 | 0 | 1211 | 1207 | 4 |
+| 西门 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 刘小排 | 0 | 0 | 0 | 49 | 0 | 0 | 49 | 49 | 0 |
+| 土豆姐（lauren） | 0 | 0 | 0 | 45 | 0 | 0 | 45 | 45 | 0 |
+| 小晚不在 | 0 | 0 | 0 | 63 | 5 | 127 | 195 | 195 | 0 |
+| 逸尘 | 0 | 0 | 0 | 84 | 0 | 0 | 84 | 84 | 0 |
+| 合计 | 883 | 4 | 324 | 241 | 6 | 127 | 1585 | 1580 | 5 |
 
 <!-- END STATS -->
 

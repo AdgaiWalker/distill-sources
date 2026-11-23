@@ -40,13 +40,14 @@ TITLE_LINE = "# distill-sources（每四天抓取一次）"
 TIME_RE = re.compile(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}")
 
 # 与 classify.py 的来源类型一致
-SOURCE_TYPES = ("wechat", "group-chat", "github", "x", "notes")
+SOURCE_TYPES = ("wechat", "group-chat", "github", "x", "notes", "feishu")
 SOURCE_ZH = {
     "wechat": "公众号文章",
     "group-chat": "会员群",
     "github": "GitHub 资料",
     "x": "X",
     "notes": "笔记",
+    "feishu": "飞书知识库",
 }
 
 X_TYPES = ("original", "article", "long", "self-thread", "reply", "quote", "retweet")

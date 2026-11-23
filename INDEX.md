@@ -4,11 +4,11 @@
 
 - **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。已用：出海、产品、AI 工具。可扩展（例如 IP、具身智能）。
 - **人**：每人一张人物卡，见 `people/<slug>.md`。
-- **来源类型**：`wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）。
+- **来源类型**：`wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）/ `feishu`（飞书知识库）。
 
 原文件不移动、不改名、不改内容。本文件与 `index/classification.csv`、人物卡里的材料清单由 [`scripts/classify.py`](scripts/classify.py) 根据 [`people.yaml`](people.yaml) 生成，可重跑。
 
-生成时间：2026-11-23 04:18（北京时间）。合计条目：1453。
+生成时间：2026-11-23 15:18（北京时间）。合计条目：1585。
 
 ## 用途：出海
 
@@ -37,16 +37,16 @@
 
 ## 用途：自媒体
 
-这类知识用来蒸馏「自媒体」相关 skill。2 人，147 条。
+这类知识用来蒸馏「自媒体」相关 skill。2 人，279 条。
 
 | 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |
 |---|---|---|---:|---:|---:|---|
-| 小晚不在 | 自媒体 | 自媒体 | 63 | 63 | 0 | [bbkirstry.md](people/bbkirstry.md) |
+| 小晚不在 | 自媒体 | 自媒体 | 195 | 195 | 0 | [bbkirstry.md](people/bbkirstry.md) |
 | 逸尘 | 自媒体 | 自媒体 | 84 | 84 | 0 | [gengdaj.md](people/gengdaj.md) |
 
 ## 可见性
 
-合计 public 1448，member 5。
+合计 public 1580，member 5。
 
 - `public`：公开公众号文章、公开 X 帖、公开的开源仓库，以及上游已公开的 GitHub 整理资料。
 - `member`：来源为会员群转录/截图，或仓主整理的非公开出处笔记。本仓现已公开；这些条目经仓主决定一并收入，标签只说明来源，不表示禁止公开。

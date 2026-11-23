@@ -1,4 +1,136 @@
 path,source_person,source_type,visibility,primary_purpose,purposes,title,date,collection
+bbkirstry/cognitive-model/README.md,小晚不在,notes,public,自媒体,自媒体,小晚认知模型（AGE-13）原料,,bbkirstry/cognitive-model
+bbkirstry/cognitive-model/X档案补全/,小晚不在,notes,public,自媒体,自媒体,X档案补全（posts_enriched 与 fetch_raw）（4 个文件）,,bbkirstry/cognitive-model
+bbkirstry/cognitive-model/封存测试集/,小晚不在,notes,public,自媒体,自媒体,封存测试集（标注时勿读）（1 个文件）,,bbkirstry/cognitive-model
+bbkirstry/cognitive-model/标注/,小晚不在,notes,public,自媒体,自媒体,标注工作快照（2 个文件）,,bbkirstry/cognitive-model
+bbkirstry/cognitive-model/训练集索引.md,小晚不在,notes,public,自媒体,自媒体,训练集索引（小晚认知模型 · AGE-13）,,bbkirstry/cognitive-model
+bbkirstry/feishu-kb/md/01｜人生选择与自我理解.md,小晚不在,feishu,public,自媒体,自媒体,01｜人生选择与自我理解,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/01｜目标：你为什么要做自媒体？.md,小晚不在,feishu,public,自媒体,自媒体,01｜目标：你为什么要做自媒体？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/01｜还没想清楚定位，能不能开始？.md,小晚不在,feishu,public,自媒体,自媒体,01｜还没想清楚定位，能不能开始？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/02｜个人IP：为什么是你？.md,小晚不在,feishu,public,自媒体,自媒体,02｜个人IP：为什么是你？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/02｜先选平台，还是先做内容？.md,小晚不在,feishu,public,自媒体,自媒体,02｜先选平台，还是先做内容？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/02｜内容方向与商业判断.md,小晚不在,feishu,public,自媒体,自媒体,02｜内容方向与商业判断,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/03｜前 10 条到底应该发什么？.md,小晚不在,feishu,public,自媒体,自媒体,03｜前 10 条到底应该发什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/03｜用户：到底是哪些人需要你？.md,小晚不在,feishu,public,自媒体,自媒体,03｜用户：到底是哪些人需要你？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/04｜平台：你应该在哪里找到他们？.md,小晚不在,feishu,public,自媒体,自媒体,04｜平台：你应该在哪里找到他们？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/04｜怎么做出来一条内容？.md,小晚不在,feishu,public,自媒体,自媒体,04｜怎么做出来一条内容？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/05｜不敢露脸、没有镜头感，还能做自媒体吗？.md,小晚不在,feishu,public,自媒体,自媒体,05｜不敢露脸、没有镜头感，还能做自媒体吗？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/05｜内容价值：你到底在给别人什么？.md,小晚不在,feishu,public,自媒体,自媒体,05｜内容价值：你到底在给别人什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/06｜数据差，就是被限流了吗？.md,小晚不在,feishu,public,自媒体,自媒体,06｜数据差，就是被限流了吗？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/06｜表达：怎么把好东西变成好内容？.md,小晚不在,feishu,public,自媒体,自媒体,06｜表达：怎么把好东西变成好内容？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/07｜第一次复盘，到底应该看什么？.md,小晚不在,feishu,public,自媒体,自媒体,07｜第一次复盘，到底应该看什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/07｜选题：到底什么值得发？.md,小晚不在,feishu,public,自媒体,自媒体,07｜选题：到底什么值得发？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/08｜传播：发出去以后，内容才刚开始.md,小晚不在,feishu,public,自媒体,自媒体,08｜传播：发出去以后，内容才刚开始,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/08｜发完 10 条以后，怎样把内容变成系列？.md,小晚不在,feishu,public,自媒体,自媒体,08｜发完 10 条以后，怎样把内容变成系列？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/09-23 重新理解「组局」和线下社交.md,小晚不在,feishu,public,自媒体,自媒体,09-23 重新理解「组局」和线下社交,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/09-25 生财有术 杨涛线下答疑分享会｜小晚分享版.md,小晚不在,feishu,public,自媒体,自媒体,09-25 生财有术 杨涛线下答疑分享会｜小晚分享版,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/09-25 生财有术 杨涛线下答疑分享会｜知识库版.md,小晚不在,feishu,public,自媒体,自媒体,09-25 生财有术 杨涛线下答疑分享会｜知识库版,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/09-27 和前辈的内容、AI 与个人 IP交流.md,小晚不在,feishu,public,自媒体,自媒体,09-27 和前辈的内容、AI 与个人 IP交流,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/09｜什么时候可以开始考虑变现？.md,小晚不在,feishu,public,自媒体,自媒体,09｜什么时候可以开始考虑变现？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/09｜增长与复盘：不要迷信爆款.md,小晚不在,feishu,public,自媒体,自媒体,09｜增长与复盘：不要迷信爆款,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/1.1 做自媒体之前，先回答：你到底想换来什么？.md,小晚不在,feishu,public,自媒体,自媒体,1.1 做自媒体之前，先回答：你到底想换来什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/1.2「我想做个人IP」为什么不是一个有效目标？.md,小晚不在,feishu,public,自媒体,自媒体,1.2「我想做个人IP」为什么不是一个有效目标？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/1.3 不同目标，对应完全不同的内容策略.md,小晚不在,feishu,public,自媒体,自媒体,1.3 不同目标，对应完全不同的内容策略,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/1.4 为什么很多“内容问题”根本不是内容问题？.md,小晚不在,feishu,public,自媒体,自媒体,1.4 为什么很多“内容问题”根本不是内容问题？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/1.5 工具｜自媒体目标诊断表.md,小晚不在,feishu,public,自媒体,自媒体,1.5 工具｜自媒体目标诊断表,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10-10 商业价值创造与增长的底层逻辑.md,小晚不在,feishu,public,自媒体,自媒体,10-10 商业价值创造与增长的底层逻辑,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.1 内容本身为什么不能直接等于变现？.md,小晚不在,feishu,public,自媒体,自媒体,10.1 内容本身为什么不能直接等于变现？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.10 从用户问题反向长出产品.md,小晚不在,feishu,public,自媒体,自媒体,10.10 从用户问题反向长出产品,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.11 工具｜个人商业化路径设计表.md,小晚不在,feishu,public,自媒体,自媒体,10.11 工具｜个人商业化路径设计表,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.2 为什么有流量的人依然赚不到钱？.md,小晚不在,feishu,public,自媒体,自媒体,10.2 为什么有流量的人依然赚不到钱？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.3 先做内容还是先做产品？.md,小晚不在,feishu,public,自媒体,自媒体,10.3 先做内容还是先做产品？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.4 创作者有哪些商业化方式？.md,小晚不在,feishu,public,自媒体,自媒体,10.4 创作者有哪些商业化方式？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.5 不同创作者适合什么商业模式？.md,小晚不在,feishu,public,自媒体,自媒体,10.5 不同创作者适合什么商业模式？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.6 粉丝量为什么不等于商业价值？.md,小晚不在,feishu,public,自媒体,自媒体,10.6 粉丝量为什么不等于商业价值？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.7 品牌到底愿意为什么样的创作者付钱？.md,小晚不在,feishu,public,自媒体,自媒体,10.7 品牌到底愿意为什么样的创作者付钱？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.8 怎么设计自己的产品梯度？.md,小晚不在,feishu,public,自媒体,自媒体,10.8 怎么设计自己的产品梯度？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10.9 内容怎么为产品筛选客户？.md,小晚不在,feishu,public,自媒体,自媒体,10.9 内容怎么为产品筛选客户？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10｜AI 能替你做什么，不能替你做什么？.md,小晚不在,feishu,public,自媒体,自媒体,10｜AI 能替你做什么，不能替你做什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/10｜商业化：内容怎么真正变成钱？.md,小晚不在,feishu,public,自媒体,自媒体,10｜商业化：内容怎么真正变成钱？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/11-16 写给所有正在 AI 时代寻找自己的人.md,小晚不在,feishu,public,自媒体,自媒体,11-16 写给所有正在 AI 时代寻找自己的人,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/11-17 我开始觉得，AI 时代的一人公司，真的要来了.md,小晚不在,feishu,public,自媒体,自媒体,11-17 我开始觉得，AI 时代的一人公司，真的要来了,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/11-18 ChatGPT保姆级写作教程｜很多人根本没搞懂 AI 写作这件事.md,小晚不在,feishu,public,自媒体,自媒体,11-18 ChatGPT保姆级写作教程｜很多人根本没搞懂 AI 写作这件事,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/11-20 为什么别人的 ChatGPT 越聊越聪明，你的却总是听不懂人话？.md,小晚不在,feishu,public,自媒体,自媒体,11-20 为什么别人的 ChatGPT 越聊越聪明，你的却总是听不懂人话？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/2.1 个人IP到底是什么？.md,小晚不在,feishu,public,自媒体,自媒体,2.1 个人IP到底是什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/2.2 如何获得别人的持续关注？.md,小晚不在,feishu,public,自媒体,自媒体,2.2 如何获得别人的持续关注？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/2.3 找到你的不可替代性.md,小晚不在,feishu,public,自媒体,自媒体,2.3 找到你的不可替代性,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/2.4「我会的别人不会」为什么不一定值钱？.md,小晚不在,feishu,public,自媒体,自媒体,2.4「我会的别人不会」为什么不一定值钱？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/2.5 什么样的人暂时不适合做个人IP？.md,小晚不在,feishu,public,自媒体,自媒体,2.5 什么样的人暂时不适合做个人IP？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/2.6 工具｜个人IP资产盘点表.md,小晚不在,feishu,public,自媒体,自媒体,2.6 工具｜个人IP资产盘点表,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/3.1 不要再用年龄、性别定义你的用户.md,小晚不在,feishu,public,自媒体,自媒体,3.1 不要再用年龄、性别定义你的用户,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/3.2 谁需要看、谁愿意看、谁真的会看完？.md,小晚不在,feishu,public,自媒体,自媒体,3.2 谁需要看、谁愿意看、谁真的会看完？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/3.3 用户为什么会关注一个创作者？.md,小晚不在,feishu,public,自媒体,自媒体,3.3 用户为什么会关注一个创作者？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/3.4 怎么找到真正属于你的第一批用户？.md,小晚不在,feishu,public,自媒体,自媒体,3.4 怎么找到真正属于你的第一批用户？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/3.5 用户需求从哪里挖？.md,小晚不在,feishu,public,自媒体,自媒体,3.5 用户需求从哪里挖？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/3.6 工具｜核心用户问题地图.md,小晚不在,feishu,public,自媒体,自媒体,3.6 工具｜核心用户问题地图,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/4.1 平台不是发布渠道，而是不同的市场.md,小晚不在,feishu,public,自媒体,自媒体,4.1 平台不是发布渠道，而是不同的市场,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/4.2 平台选择的四个判断.md,小晚不在,feishu,public,自媒体,自媒体,4.2 平台选择的四个判断,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/4.3 小红书 _ X _ 公众号 _ 视频平台分别适合什么？.md,小晚不在,feishu,public,自媒体,自媒体,4.3 小红书 _ X _ 公众号 _ 视频平台分别适合什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/4.4 为什么同一条内容不能简单复制到所有平台？.md,小晚不在,feishu,public,自媒体,自媒体,4.4 为什么同一条内容不能简单复制到所有平台？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/4.5 为什么粉丝最多的平台，不一定最赚钱？.md,小晚不在,feishu,public,自媒体,自媒体,4.5 为什么粉丝最多的平台，不一定最赚钱？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/4.6 什么情况下应该换平台，而不是继续优化内容？.md,小晚不在,feishu,public,自媒体,自媒体,4.6 什么情况下应该换平台，而不是继续优化内容？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/4.7 工具｜平台 × 用户 × 内容 × 商业化匹配矩阵.md,小晚不在,feishu,public,自媒体,自媒体,4.7 工具｜平台 × 用户 × 内容 × 商业化匹配矩阵,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/4.8 流量不是平台给的福利，是用户交出来的注意力.md,小晚不在,feishu,public,自媒体,自媒体,4.8 流量不是平台给的福利，是用户交出来的注意力,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/5.1 内容不是「我想说什么」.md,小晚不在,feishu,public,自媒体,自媒体,5.1 内容不是「我想说什么」,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/5.2 内容的六种核心价值.md,小晚不在,feishu,public,自媒体,自媒体,5.2 内容的六种核心价值,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/5.3 为什么「有干货」依然没人看？.md,小晚不在,feishu,public,自媒体,自媒体,5.3 为什么「有干货」依然没人看？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/5.4 信息、知识、观点有什么区别？.md,小晚不在,feishu,public,自媒体,自媒体,5.4 信息、知识、观点有什么区别？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/5.5 什么才叫有辨识度的观点？.md,小晚不在,feishu,public,自媒体,自媒体,5.5 什么才叫有辨识度的观点？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/5.6 为什么很多专业人士做内容特别无聊？.md,小晚不在,feishu,public,自媒体,自媒体,5.6 为什么很多专业人士做内容特别无聊？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/5.7 从「输出知识」到「制造认知变化」.md,小晚不在,feishu,public,自媒体,自媒体,5.7 从「输出知识」到「制造认知变化」,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/5.8 工具｜单条内容价值诊断表.md,小晚不在,feishu,public,自媒体,自媒体,5.8 工具｜单条内容价值诊断表,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.1 表达的本质：降低用户获得价值的成本.md,小晚不在,feishu,public,自媒体,自媒体,6.1 表达的本质：降低用户获得价值的成本,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.2 一条内容的完整结构.md,小晚不在,feishu,public,自媒体,自媒体,6.2 一条内容的完整结构,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.3 标题解决什么问题？.md,小晚不在,feishu,public,自媒体,自媒体,6.3 标题解决什么问题？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.4 开头解决什么问题？.md,小晚不在,feishu,public,自媒体,自媒体,6.4 开头解决什么问题？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.5 结构解决什么问题？.md,小晚不在,feishu,public,自媒体,自媒体,6.5 结构解决什么问题？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.6 案例解决什么问题？.md,小晚不在,feishu,public,自媒体,自媒体,6.6 案例解决什么问题？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.7 人格表达解决什么问题？.md,小晚不在,feishu,public,自媒体,自媒体,6.7 人格表达解决什么问题？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.8 不同内容形态怎么表达？.md,小晚不在,feishu,public,自媒体,自媒体,6.8 不同内容形态怎么表达？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/6.9 模板库.md,小晚不在,feishu,public,自媒体,自媒体,6.9 模板库,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.1 好选题的四个条件.md,小晚不在,feishu,public,自媒体,自媒体,7.1 好选题的四个条件,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.2「我想讲」和「别人想看」怎么找到交集？.md,小晚不在,feishu,public,自媒体,自媒体,7.2「我想讲」和「别人想看」怎么找到交集？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.3 从真实问题里找选题.md,小晚不在,feishu,public,自媒体,自媒体,7.3 从真实问题里找选题,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.4 从评论和私信里找选题.md,小晚不在,feishu,public,自媒体,自媒体,7.4 从评论和私信里找选题,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.5 从热点里找选题.md,小晚不在,feishu,public,自媒体,自媒体,7.5 从热点里找选题,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.6 从自己的工作和生活里找选题.md,小晚不在,feishu,public,自媒体,自媒体,7.6 从自己的工作和生活里找选题,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.7 什么热点值得蹭，什么不值得？.md,小晚不在,feishu,public,自媒体,自媒体,7.7 什么热点值得蹭，什么不值得？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.8 一个选题怎么连续长出10条内容？.md,小晚不在,feishu,public,自媒体,自媒体,7.8 一个选题怎么连续长出10条内容？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/7.9 工具｜选题评分卡.md,小晚不在,feishu,public,自媒体,自媒体,7.9 工具｜选题评分卡,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/8.1 为什么好内容也需要冷启动？.md,小晚不在,feishu,public,自媒体,自媒体,8.1 为什么好内容也需要冷启动？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/8.2 内容发布后的关键阶段.md,小晚不在,feishu,public,自媒体,自媒体,8.2 内容发布后的关键阶段,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/8.3 评论区为什么也是内容的一部分？.md,小晚不在,feishu,public,自媒体,自媒体,8.3 评论区为什么也是内容的一部分？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/8.4 怎么提高内容的可传播性？.md,小晚不在,feishu,public,自媒体,自媒体,8.4 怎么提高内容的可传播性？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/8.5 如何把一条内容变成多平台资产？.md,小晚不在,feishu,public,自媒体,自媒体,8.5 如何把一条内容变成多平台资产？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/8.6 热点内容什么时候发已经太晚了？.md,小晚不在,feishu,public,自媒体,自媒体,8.6 热点内容什么时候发已经太晚了？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/8.7 发布以后应该做什么？.md,小晚不在,feishu,public,自媒体,自媒体,8.7 发布以后应该做什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/8.8 工具｜内容发布 Checklist.md,小晚不在,feishu,public,自媒体,自媒体,8.8 工具｜内容发布 Checklist,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/9.1 爆款不是答案，是一次实验数据.md,小晚不在,feishu,public,自媒体,自媒体,9.1 爆款不是答案，是一次实验数据,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/9.2 内容数据分别意味着什么？.md,小晚不在,feishu,public,自媒体,自媒体,9.2 内容数据分别意味着什么？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/9.3 数据不好，到底应该改哪里？.md,小晚不在,feishu,public,自媒体,自媒体,9.3 数据不好，到底应该改哪里？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/9.4 为什么有的人发100条内容依然没有进步？.md,小晚不在,feishu,public,自媒体,自媒体,9.4 为什么有的人发100条内容依然没有进步？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/9.5 怎么从评论区判断真实需求？.md,小晚不在,feishu,public,自媒体,自媒体,9.5 怎么从评论区判断真实需求？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/9.6 什么时候继续优化，什么时候直接换方向？.md,小晚不在,feishu,public,自媒体,自媒体,9.6 什么时候继续优化，什么时候直接换方向？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/9.7 怎么拆解一个爆款，而不是抄一个爆款？.md,小晚不在,feishu,public,自媒体,自媒体,9.7 怎么拆解一个爆款，而不是抄一个爆款？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/9.8 工具｜内容复盘卡.md,小晚不在,feishu,public,自媒体,自媒体,9.8 工具｜内容复盘卡,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/IP策划 skill 测试题目.md,小晚不在,feishu,public,自媒体,自媒体,IP策划 skill 测试题目,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/从这里开始｜新群友阅读路线.md,小晚不在,feishu,public,自媒体,自媒体,从这里开始｜新群友阅读路线,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/内部资料.md,小晚不在,feishu,public,自媒体,自媒体,内部资料,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/剪辑参考｜创意视频收集与画面拆解手册.md,小晚不在,feishu,public,自媒体,自媒体,剪辑参考｜创意视频收集与画面拆解手册,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/基于IP策划 Skill开发测试文档的洞察与剖析.md,小晚不在,feishu,public,自媒体,自媒体,基于IP策划 Skill开发测试文档的洞察与剖析,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/如何找到自己的自媒体赛道？.md,小晚不在,feishu,public,自媒体,自媒体,如何找到自己的自媒体赛道？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/如何理解并接纳自己的高敏感，减少内耗和焦虑？.md,小晚不在,feishu,public,自媒体,自媒体,如何理解并接纳自己的高敏感，减少内耗和焦虑？,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/小晚不在｜自媒体内容创作认知.md,小晚不在,feishu,public,自媒体,自媒体,小晚不在｜自媒体内容创作认知,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/小晚日常活动_经验积累.md,小晚不在,feishu,public,自媒体,自媒体,小晚日常活动_经验积累,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/怎么发现真实用户需求，做一个能赚钱的工具？｜小晚分享版.md,小晚不在,feishu,public,自媒体,自媒体,怎么发现真实用户需求，做一个能赚钱的工具？｜小晚分享版,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/怎么发现真实用户需求，做一个能赚钱的工具？｜知识库版.md,小晚不在,feishu,public,自媒体,自媒体,怎么发现真实用户需求，做一个能赚钱的工具？｜知识库版,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/思考逻辑训练：100问.md,小晚不在,feishu,public,自媒体,自媒体,思考逻辑训练：100问,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/我想到的这个选题，真的值得做吗？｜小晚分享版.md,小晚不在,feishu,public,自媒体,自媒体,我想到的这个选题，真的值得做吗？｜小晚分享版,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/我想到的这个选题，真的值得做吗？｜知识库版.md,小晚不在,feishu,public,自媒体,自媒体,我想到的这个选题，真的值得做吗？｜知识库版,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/我要不要辞职 All in AI _ 自媒体？ .md,小晚不在,feishu,public,自媒体,自媒体,我要不要辞职 All in AI _ 自媒体？ ,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/新人必读｜小晚答疑精编：定位、内容、增长与商业化.md,小晚不在,feishu,public,自媒体,自媒体,新人必读｜小晚答疑精编：定位、内容、增长与商业化,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/新手启动｜先完成前 10 条，再谈爆款.md,小晚不在,feishu,public,自媒体,自媒体,新手启动｜先完成前 10 条，再谈爆款,,bbkirstry/feishu-kb
+bbkirstry/feishu-kb/md/道理我都知道，但我就是做不到怎么办？.md,小晚不在,feishu,public,自媒体,自媒体,道理我都知道，但我就是做不到怎么办？,,bbkirstry/feishu-kb
 bbkirstry/x-archive/all.md,小晚不在,x,public,自媒体,自媒体,@bbkirstry 归档全文（按时间正序）,,bbkirstry/x-archive
 bbkirstry/x-archive/articles/2026-05-22_为什么你学了那么多-AI却依然没有真正建立能力.md,小晚不在,x,public,自媒体,自媒体,为什么你学了那么多 AI，却依然没有真正建立能力？,2026-05-22,bbkirstry/x-archive
 bbkirstry/x-archive/articles/2026-06-27_我花了一周的时间终于设计出了一个所有新手小白都可以复刻的方式而这也是我的人生经验.md,小晚不在,x,public,自媒体,自媒体,我花了一周的时间，终于设计出了一个所有「新手小白」都可以复刻的方式，而这也是我的人生经验和思维模式而言，目前能挖掘到的「不理解的ai的人，试图理解codex这个工具和当下ai发展速度」的最短路径,2026-06-27,bbkirstry/x-archive

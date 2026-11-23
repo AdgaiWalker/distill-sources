@@ -88,6 +88,23 @@ people:
         source_type: x
         visibility: public
         scanner: x-archive
+      - path: bbkirstry/feishu-kb
+        source_type: feishu
+        visibility: public
+        scanner: files
+        glob: "md/*.md"
+      - path: bbkirstry/cognitive-model
+        source_type: notes
+        visibility: public
+        scanner: files
+        glob: "*.md"
+        dir_units:
+          - rel: X档案补全
+            title: X档案补全（posts_enriched 与 fetch_raw）
+          - rel: 封存测试集
+            title: 封存测试集（标注时勿读）
+          - rel: 标注
+            title: 标注工作快照
   - slug: gengdaj
     name: 逸尘
     primary_purpose: 自媒体

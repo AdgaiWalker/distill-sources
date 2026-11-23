@@ -34,7 +34,7 @@ CSV_PATH = INDEX_DIR / "classification.csv"
 PEOPLE_DIR = ROOT / "people"
 
 BEIJING = dt.timezone(dt.timedelta(hours=8))
-SOURCE_TYPES = ("wechat", "group-chat", "x", "github", "notes")
+SOURCE_TYPES = ("wechat", "group-chat", "x", "github", "notes", "feishu")
 VISIBILITIES = ("public", "member")
 BEGIN_MARK = "<!-- BEGIN MATERIAL LIST -->"
 END_MARK = "<!-- END MATERIAL LIST -->"
@@ -433,6 +433,7 @@ def source_type_label(st: str) -> str:
         "x": "x（公开帖/长文）",
         "github": "github",
         "notes": "notes（笔记）",
+        "feishu": "feishu（飞书知识库）",
     }.get(st, st)
 
 
@@ -547,7 +548,7 @@ def write_index(config: dict, records: list[dict], generated_at: str) -> None:
         "",
         "- **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。已用：出海、产品、AI 工具。可扩展（例如 IP、具身智能）。",
         "- **人**：每人一张人物卡，见 `people/<slug>.md`。",
-        "- **来源类型**：`wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）。",
+        "- **来源类型**：`wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）/ `feishu`（飞书知识库）。",
         "",
         "原文件不移动、不改名、不改内容。本文件与 `index/classification.csv`、人物卡里的材料清单由 [`scripts/classify.py`](scripts/classify.py) 根据 [`people.yaml`](people.yaml) 生成，可重跑。",
         "",

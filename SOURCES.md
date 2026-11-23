@@ -2,7 +2,7 @@
 
 本仓现已公开。收录范围包括公开文章、已公开的 GitHub 资料，以及经仓主决定一并公开的会员群转录/截图和西门笔记。
 
-收录日期：2026-11-22。下列大小为复制后本仓内 `du -sh` 结果（不含上游 `.git`）。同日按哆啦规则：X 原料全收，只打类型标签（见 `scripts/tag_x.py` 与 [index/x-posts.csv](index/x-posts.csv)）；蒸馏时主料是原创和长文，辅料是有方法/观点的回复和引用，纯寒暄和转帖不读。
+收录日期：2026-11-22。2026-11-23 增补小晚不在飞书知识库与认知模型（经哆啦批准公开）。下列大小为复制后本仓内 `du -sh` 结果（不含上游 `.git`）。同日按哆啦规则：X 原料全收，只打类型标签（见 `scripts/tag_x.py` 与 [index/x-posts.csv](index/x-posts.csv)）；蒸馏时主料是原创和长文，辅料是有方法/观点的回复和引用，纯寒暄和转帖不读。
 
 ## 总览
 
@@ -15,6 +15,8 @@
 | `liuxiaopai/x-archive/` | `/workspace/x-archive/bourneliu66/` | 无代码仓库；内容来自刘小排 X 账号 [@bourneliu66](https://x.com/bourneliu66) | 70 | 1.9M |
 | `poteto/x-archive/` | `/workspace/x-archive/poteto/` | 无代码仓库；内容来自 [@poteto](https://x.com/poteto) 公开 X 帖（Grok Bot 相关为主） | 88 | 4.5M |
 | `bbkirstry/x-archive/` | `/workspace/x-archive/bbkirstry/` | 无代码仓库；内容来自 [@bbkirstry](https://x.com/bbkirstry) 公开 X 帖 | 95 | 4.9M |
+| `bbkirstry/feishu-kb/` | `/workspace/私有原料/小晚知识库/` | 飞书知识库 https://scn05304jwti.feishu.cn/wiki/ILFPwo7mBij3loks3AwcWCSYnCr ；2026-11-23 经哆啦批准公开 | 288 | 13M |
+| `bbkirstry/cognitive-model/` | `/workspace/私有原料/小晚认知模型/` | 无单独上游仓库；AGE-13 工作原料。2026-11-23 经哆啦批准公开 | 36 | 17M |
 | `gengdaj/x-archive/` | `/workspace/x-archive/gengdaJ/` | 无代码仓库；内容来自 [@gengdaJ](https://x.com/gengdaJ) 公开 X 帖 | 117 | 4.2M |
 | `gefei/github-member-repos/` | `/workspace/gefei/github-refs/` | 见下表各仓 | 4488（另加各目录 `UPSTREAM.md`） | 470M |
 
@@ -62,6 +64,25 @@
 - `raw/`：33 个文件（账号资料、合并帖、时间线与各次搜索的原始 JSON）
 - 资料页公开帖数 2789，本次去重后取回 551 条（16 篇 X Article 均有全文）。未翻完，详见该目录 `index.md`。
 - 原料全收，类型见 `index.md` 与仓库根目录 `index/x-posts.csv`
+
+### 小晚不在飞书知识库 `bbkirstry/feishu-kb/`
+
+2026-11-23 经哆啦批准公开。本机原目录为 `/workspace/私有原料/小晚知识库/`（复制入库，未移动原文）。
+
+- 126 个 Word（`.docx`）与 1 个 Excel（社群好用工具库）
+- 根目录另有 `README.md`、`目录.md`，以及由哆啦粘贴的 `11-16 写给所有正在 AI 时代寻找自己的人.md`
+- `md/`：127 篇 Markdown（126 篇由 Word 转换，加上上述 11-16 粘贴稿）和工具库 CSV（两个工作表）
+- `md/media/`：29 张插图，分属 5 篇
+- 导出方法见该目录 `README.md`。飞书导出的部分 Word 缺 `tblGrid`，转换时已补上，以免章节目录表丢失。
+
+### 小晚认知模型 `bbkirstry/cognitive-model/`
+
+2026-11-23 经哆啦批准公开。本机原目录为 `/workspace/私有原料/小晚认知模型/`（复制入库，未移动原文）。`标注/` 为推送时的工作快照。
+
+- `X档案补全/`：551 条公开 X 帖的补全（`posts_enriched.json`）、`进度.md`、接口回包 `fetch_raw/`
+- `封存测试集/`：2026-09-23 至 2026-11-23 的预留验证集（X 369 条 + 飞书 9 篇）。标注和写认知卡时不要打开。详见 `SEALED.md`
+- `训练集索引.md`：其余 302 条的来源、日期、类型、路径，不含原文
+- `scripts/build_age13_step1.py`：第一步切分脚本
 
 ### 逸尘 X 归档 `gengdaj/x-archive/`
 

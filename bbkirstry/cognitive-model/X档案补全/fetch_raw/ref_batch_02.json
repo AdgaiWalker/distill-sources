@@ -1,0 +1,2098 @@
+{
+  "data": [
+    {
+      "author_id": "1916622377414475776",
+      "conversation_id": "2094063022470017437",
+      "created_at": "2026-08-30T14:52:34.000Z",
+      "edit_history_post_ids": [
+        "2094075812328911321"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 16,
+            "id": "1720665183188922368",
+            "start": 11,
+            "username": "Grok"
+          }
+        ]
+      },
+      "id": "2094075812328911321",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 254,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 3,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094063022470017437",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @Grok 对比一下我的账号，跟这篇文章的观点，我的账号发展有哪些值得改进的地方",
+      "url": "https://x.com/ChinaTaxTruth/status/2094075812328911321"
+    },
+    {
+      "author_id": "1997889576187387904",
+      "conversation_id": "2094422056691695963",
+      "created_at": "2026-08-31T13:49:21.000Z",
+      "edit_history_post_ids": [
+        "2094422291589509405"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2094422291589509405",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 44,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094422056691695963",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 赛博小晚 Bot 正在我这打工呢",
+      "url": "https://x.com/cgnot996/status/2094422291589509405"
+    },
+    {
+      "author_id": "1574358430877261824",
+      "conversation_id": "2094439445068148856",
+      "created_at": "2026-08-31T15:36:46.000Z",
+      "edit_history_post_ids": [
+        "2094449324050563416"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2094449324050563416",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 58,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2094439445068148856",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 我关注了小晚老师，就不算八竿子打不着的人了😋",
+      "url": "https://x.com/momoai_daily/status/2094449324050563416"
+    },
+    {
+      "author_id": "1992267096424955904",
+      "conversation_id": "2104784704079872152",
+      "created_at": "2026-09-29T06:20:39.000Z",
+      "edit_history_post_ids": [
+        "2104818619733672311"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2104818619733672311",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 80,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104784704079872152",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry ！我也是！抖音连发两条全被ban，然后气得我全码住才发出去，但是还是被限流了😭",
+      "url": "https://x.com/Flyl1u/status/2104818619733672311"
+    },
+    {
+      "author_id": "1874017517385216000",
+      "conversation_id": "2104846477738836119",
+      "created_at": "2026-09-29T08:13:40.000Z",
+      "edit_history_post_ids": [
+        "2104847064211530110"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 21,
+            "id": "869521435",
+            "start": 11,
+            "username": "zou_chris"
+          }
+        ]
+      },
+      "id": "2104847064211530110",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 85,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104846477738836119",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @zou_chris 啊😱被晚神翻牌子了",
+      "url": "https://x.com/ama_huangama/status/2104847064211530110"
+    },
+    {
+      "author_id": "1784047650301767680",
+      "conversation_id": "2104846477738836119",
+      "created_at": "2026-09-29T08:17:53.000Z",
+      "edit_history_post_ids": [
+        "2104848125014008116"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 21,
+            "id": "869521435",
+            "start": 11,
+            "username": "zou_chris"
+          }
+        ]
+      },
+      "id": "2104848125014008116",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 198,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104846477738836119",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @zou_chris 你居然30+姐姐",
+      "url": "https://x.com/ZhanlinYan74392/status/2104848125014008116"
+    },
+    {
+      "author_id": "1988839296309293056",
+      "conversation_id": "2104807625938579797",
+      "created_at": "2026-09-29T05:36:58.000Z",
+      "edit_history_post_ids": [
+        "2104807625938579797"
+      ],
+      "id": "2104807625938579797",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3339,
+        "like_count": 12,
+        "quote_count": 1,
+        "reply_count": 22,
+        "repost_count": 0
+      },
+      "text": "小红书的说教气息太重了，我付费捡个栗子，底下人留言要我给小动物过冬不要捡。\n\n？？？？？",
+      "url": "https://x.com/Eejoylove/status/2104807625938579797"
+    },
+    {
+      "author_id": "885347162233610242",
+      "conversation_id": "2104830787342200905",
+      "created_at": "2026-09-29T07:09:00.000Z",
+      "edit_history_post_ids": [
+        "2104830787342200905"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/bbkirstry/stat…",
+            "end": 94,
+            "expanded_url": "https://twitter.com/bbkirstry/status/2104030018544566539",
+            "start": 71,
+            "url": "https://t.co/HVSEKMCCaN"
+          }
+        ]
+      },
+      "id": "2104830787342200905",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 92,
+        "impression_count": 16349,
+        "like_count": 47,
+        "quote_count": 1,
+        "reply_count": 8,
+        "repost_count": 10
+      },
+      "referenced_tweets": [
+        {
+          "id": "2104030018544566539",
+          "type": "quoted"
+        }
+      ],
+      "text": "今天向小晚付费了请教了怎么把自己拍的像 agnelbaby，答案是用手机打开抖音拍。\n\n大道至简，推友们这条消息值 ？\n\n现在 299 了😏 https://t.co/HVSEKMCCaN",
+      "url": "https://x.com/ai_xiaomu/status/2104830787342200905"
+    },
+    {
+      "author_id": "1822961068106489856",
+      "conversation_id": "2105164774485160133",
+      "created_at": "2026-09-30T05:35:30.000Z",
+      "edit_history_post_ids": [
+        "2105169647293329740"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 23,
+            "id": "2069726470977859584",
+            "start": 11,
+            "username": "Tokengodone"
+          }
+        ]
+      },
+      "id": "2105169647293329740",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 95,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2105164774485160133",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry @Tokengodone 谢谢小晚老师！",
+      "url": "https://x.com/JiangK82705/status/2105169647293329740"
+    },
+    {
+      "article": {
+        "cover_media": "3_2115742686519103488",
+        "entities": {
+          "code": [
+            {
+              "code": "# 古典油画 · 极简视觉隐喻封面\n\n【填写信息】\n\n主题：{{填写主题}}\n核心意思：{{填写想表达的观点、关系或矛盾}}\n画面比例：{{5:2 / 16:9 / 3:2 / 4:3 / 1:1 / 3:4 / 9:16，默认5:2}}\n视觉方向：{{可填写想要的画面元素，默认自由发挥}}\n\n【创作目标】\n\n根据主题与核心意思，创作一张具有欧洲古典油画气质的纯视觉概念封面。\n先理解主题背后的深层含义，再将抽象概念转化为一个巧妙、清晰、有记忆点的视觉隐喻。\n画面应具有高级艺术杂志的审美：极简、克制、安静、诗意、富有思想性。\n\n【固定风格】\n\nClassical oil painting collage, Renaissance and Baroque aesthetics, Old Master painting texture, surreal editorial art, minimalist visual metaphor.\n\n采用欧洲古典油画人物与物件的精细剪裁拼贴，保留传统油画的真实笔触、颜料肌理、自然光影、古典服饰与历史质感。\n主体色彩温暖、厚重、自然，具有博物馆藏画般的艺术气息。\n\n【背景与构图】\n\n- 背景固定纯白色 #FFFFFF，油画肌理仅保留在主体内部。\n- 大面积留白，画面干净通透。\n- 只保留一个核心视觉事件。\n- 主体控制在1—3个主要元素。\n- 构图自由，重视视觉平衡与动作关系。\n- 根据所选比例调整主体大小、空间分布和视觉方向。\n- 横版强调横向叙事与空间感，竖版强调主体姿态与视觉聚焦。\n- 主体完整，不裁断头部、四肢或关键物件。\n- 主体边缘自然，呈现精细油画剪裁效果。\n- 四周保留充足白色边距，避免元素贴边。\n\n【视觉隐喻】\n\n这是创作的最高优先级。\n根据主题自主选择最有表现力的古典人物、动作、物件与超现实关系。\n通过不寻常的动作、尺度、连接、替换或转化，表达主题背后的深层含义。\n隐喻必须有逻辑、有创意、有情绪，避免直白说明和常见符号堆砌。\n人物在做什么、物件之间如何发生关系，应当直接服务于核心观点。\n让古典油画中的人物与现代思想发生碰撞。\n第一眼产生好奇，第二眼理解含义。\n\n【审美要求】\n\n- 古典油画的真实艺术质感。\n- 现代编辑设计的简洁构图。\n- 强烈的古典与现代反差。\n- 轻微超现实，富有诗意与想象力。\n- 视觉关系聪明、独特、有辨识度。\n- 人物姿态自然，动作具有明确的叙事意义。\n- 每次根据主题重新构思，不重复固定人物、动作和构图。\n- 优先使用具有生活气息和人文温度的古典形象。\n- 保留油画原有的色彩层次，不做过度数字化处理。\n\n【禁止项】\n\n禁止任何文字、标题、字母、Logo、水印、装饰边框、复杂背景、摄影写实、3D渲染、卡通、黑白雕刻、赛博朋克、科技UI、霓虹特效、宗教符号滥用、元素堆砌及套路化AI视觉。\n禁止为了表现主题而机械添加常见符号。\n涉及AI时，不默认使用机器人、芯片、电路或发光大脑。\n禁止反复使用相同的古典人物、天使形象或构图模板。\n禁止将主体做成现代摄影人物穿古装的效果。\n\n【输出要求】\n\n直接生成一张符合指定比例的纯视觉封面，不附加文字或解释。\n确保主体完整、边缘自然、画面平衡、留白充足、视觉隐喻清晰。\n最终标准：纯白背景、彩色古典油画、极简拼贴、巧妙隐喻、大量留白。\n让画面像从几百年前的油画中剪下一段故事，用一个超现实瞬间表达当代思想。",
+              "content": "```\n# 古典油画 · 极简视觉隐喻封面\n\n【填写信息】\n\n主题：{{填写主题}}\n核心意思：{{填写想表达的观点、关系或矛盾}}\n画面比例：{{5:2 / 16:9 / 3:2 / 4:3 / 1:1 / 3:4 / 9:16，默认5:2}}\n视觉方向：{{可填写想要的画面元素，默认自由发挥}}\n\n【创作目标】\n\n根据主题与核心意思，创作一张具有欧洲古典油画气质的纯视觉概念封面。\n先理解主题背后的深层含义，再将抽象概念转化为一个巧妙、清晰、有记忆点的视觉隐喻。\n画面应具有高级艺术杂志的审美：极简、克制、安静、诗意、富有思想性。\n\n【固定风格】\n\nClassical oil painting collage, Renaissance and Baroque aesthetics, Old Master painting texture, surreal editorial art, minimalist visual metaphor.\n\n采用欧洲古典油画人物与物件的精细剪裁拼贴，保留传统油画的真实笔触、颜料肌理、自然光影、古典服饰与历史质感。\n主体色彩温暖、厚重、自然，具有博物馆藏画般的艺术气息。\n\n【背景与构图】\n\n- 背景固定纯白色 #FFFFFF，油画肌理仅保留在主体内部。\n- 大面积留白，画面干净通透。\n- 只保留一个核心视觉事件。\n- 主体控制在1—3个主要元素。\n- 构图自由，重视视觉平衡与动作关系。\n- 根据所选比例调整主体大小、空间分布和视觉方向。\n- 横版强调横向叙事与空间感，竖版强调主体姿态与视觉聚焦。\n- 主体完整，不裁断头部、四肢或关键物件。\n- 主体边缘自然，呈现精细油画剪裁效果。\n- 四周保留充足白色边距，避免元素贴边。\n\n【视觉隐喻】\n\n这是创作的最高优先级。\n根据主题自主选择最有表现力的古典人物、动作、物件与超现实关系。\n通过不寻常的动作、尺度、连接、替换或转化，表达主题背后的深层含义。\n隐喻必须有逻辑、有创意、有情绪，避免直白说明和常见符号堆砌。\n人物在做什么、物件之间如何发生关系，应当直接服务于核心观点。\n让古典油画中的人物与现代思想发生碰撞。\n第一眼产生好奇，第二眼理解含义。\n\n【审美要求】\n\n- 古典油画的真实艺术质感。\n- 现代编辑设计的简洁构图。\n- 强烈的古典与现代反差。\n- 轻微超现实，富有诗意与想象力。\n- 视觉关系聪明、独特、有辨识度。\n- 人物姿态自然，动作具有明确的叙事意义。\n- 每次根据主题重新构思，不重复固定人物、动作和构图。\n- 优先使用具有生活气息和人文温度的古典形象。\n- 保留油画原有的色彩层次，不做过度数字化处理。\n\n【禁止项】\n\n禁止任何文字、标题、字母、Logo、水印、装饰边框、复杂背景、摄影写实、3D渲染、卡通、黑白雕刻、赛博朋克、科技UI、霓虹特效、宗教符号滥用、元素堆砌及套路化AI视觉。\n禁止为了表现主题而机械添加常见符号。\n涉及AI时，不默认使用机器人、芯片、电路或发光大脑。\n禁止反复使用相同的古典人物、天使形象或构图模板。\n禁止将主体做成现代摄影人物穿古装的效果。\n\n【输出要求】\n\n直接生成一张符合指定比例的纯视觉封面，不附加文字或解释。\n确保主体完整、边缘自然、画面平衡、留白充足、视觉隐喻清晰。\n最终标准：纯白背景、彩色古典油画、极简拼贴、巧妙隐喻、大量留白。\n让画面像从几百年前的油画中剪下一段故事，用一个超现实瞬间表达当代思想。\n```",
+              "language": "none"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 94,
+              "start": 80,
+              "username": "AdrianPunk115"
+            }
+          ],
+          "urls": [
+            {
+              "text": "https://x.com/@AdrianPunk115"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2115743188980047872",
+          "3_2115742775706873857",
+          "3_2115745898122883072",
+          "3_2115742891259854848",
+          "3_2115742981470953475",
+          "3_2115743082662756352"
+        ],
+        "plain_text": "好久没更新封面了！其实最近也一直在思考，在找灵感，在思考一个好的封面：\n它是否需要有文字？还是只需要有一个抓人的图片？坦白说，已经做了几十种风格的封面。除了我自己不想做的风格以外，基本上在文字上已经做了很多尝试，所以最近都会尝试这些纯图无文字形式。\n现在我做封面更看重留白和写意的视觉感\n这个风格是我结合古典油画去做的抽象表达，输入标题，就会得到一个不含文字的隐喻风格封面\n01｜当答案免费，提问开始昂贵\n \n02｜AI 可以代笔，但谁来决定看什么？\n \n03｜AI 提高了效率，为什么我们反而更忙？\n \n04｜把执行交给 AI，把判断留给自己\n \n05｜一个人，如何指挥一群 AI？\n \n可复制提示词\n \n关于作者\nPunk｜中科大管理学硕士｜AI提示词、AI小白教程｜Punk系列Skills作者｜3个月赚了8位数｜Learn in Public｜FDE文章浏览量240w｜@AdrianPunk115\n \n",
+        "preview_text": "好久没更新封面了！其实最近也一直在思考，在找灵感，在思考一个好的封面：",
+        "title": "古典油画视觉拼接风格封面"
+      },
+      "article_title": {
+        "title": "古典油画视觉拼接风格封面"
+      },
+      "author_id": "2047631450829471745",
+      "conversation_id": "2115746400386658478",
+      "created_at": "2026-10-29T10:03:45.000Z",
+      "edit_history_post_ids": [
+        "2115746400386658478"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2115…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/article/2115742035328245760",
+            "start": 0,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2115742035328245760",
+            "url": "https://t.co/e6LgiRoiio"
+          }
+        ]
+      },
+      "id": "2115746400386658478",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 24,
+        "impression_count": 13443,
+        "like_count": 37,
+        "quote_count": 13,
+        "reply_count": 17,
+        "repost_count": 0
+      },
+      "text": "https://t.co/e6LgiRoiio",
+      "url": "https://x.com/AdrianPunk115/status/2115746400386658478"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115733570757210112"
+        ]
+      },
+      "author_id": "910618496949641216",
+      "conversation_id": "2115734024799048005",
+      "created_at": "2026-10-29T09:14:34.000Z",
+      "edit_history_post_ids": [
+        "2115734024799048005"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/GpqDKIAXed",
+            "end": 56,
+            "expanded_url": "https://x.com/AllanHan_ZQ86/status/2115734024799048005/photo/1",
+            "media_key": "3_2115733570757210112",
+            "start": 33,
+            "url": "https://t.co/GpqDKIAXed"
+          },
+          {
+            "display_url": "x.com/bbkirstry/stat…",
+            "end": 80,
+            "expanded_url": "https://twitter.com/bbkirstry/status/2115692918896054560",
+            "start": 57,
+            "url": "https://t.co/9hsi7DQ507"
+          }
+        ]
+      },
+      "id": "2115734024799048005",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 147,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115692918896054560",
+          "type": "quoted"
+        }
+      ],
+      "text": "大家好，经过2分钟的考虑，\n我已经想好今年万圣节cos的主题了。 https://t.co/GpqDKIAXed https://t.co/9hsi7DQ507",
+      "url": "https://x.com/AllanHan_ZQ86/status/2115734024799048005"
+    },
+    {
+      "author_id": "1666307873939374080",
+      "conversation_id": "2115692918896054560",
+      "created_at": "2026-10-29T13:31:21.000Z",
+      "edit_history_post_ids": [
+        "2115798644876271711"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2115798644876271711",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 56,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115692918896054560",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 别这样，吓哭了，心脏骤停😭",
+      "url": "https://x.com/qizong007/status/2115798644876271711"
+    },
+    {
+      "author_id": "2076945465044815872",
+      "conversation_id": "2115943243154428147",
+      "created_at": "2026-10-30T00:51:43.000Z",
+      "edit_history_post_ids": [
+        "2115969866788377051"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2115969866788377051",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115943243154428147",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 早睡真的很有用，昨晚尝试早睡，今天起来感觉干啥都有劲",
+      "url": "https://x.com/Rainandust/status/2115969866788377051"
+    },
+    {
+      "author_id": "2094996302845321216",
+      "conversation_id": "2122587340833243424",
+      "created_at": "2026-11-17T13:08:08.000Z",
+      "edit_history_post_ids": [
+        "2122678174203117745"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2122678174203117745",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 98,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122587340833243424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 小晚啊，这个早就可以啦",
+      "url": "https://x.com/XiaosaGe1231/status/2122678174203117745"
+    },
+    {
+      "author_id": "885347162233610242",
+      "conversation_id": "2122656025446953292",
+      "created_at": "2026-11-17T12:38:00.000Z",
+      "edit_history_post_ids": [
+        "2122670587495719263"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2122670587495719263",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 117,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122656025446953292",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 学晚神真人出镜。",
+      "url": "https://x.com/ai_xiaomu/status/2122670587495719263"
+    },
+    {
+      "author_id": "1994052050691526656",
+      "conversation_id": "2122570491768742025",
+      "created_at": "2026-11-17T14:08:22.000Z",
+      "edit_history_post_ids": [
+        "2122693330031251572"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2122693330031251572",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1808,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122570491768742025",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 网页版的ai在带有哲学意味领域理解的相当之好。甚至你展示的水平两年前网页版ai就能够达到。",
+      "url": "https://x.com/Elio2026_/status/2122693330031251572"
+    },
+    {
+      "author_id": "1757441462889820172",
+      "conversation_id": "2122570491768742025",
+      "created_at": "2026-11-17T14:42:12.000Z",
+      "edit_history_post_ids": [
+        "2122701843369545888"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2122701843369545888",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1051,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122570491768742025",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 不知为何，chat聊天模式比codex模式好用多了",
+      "url": "https://x.com/bnggn173634/status/2122701843369545888"
+    },
+    {
+      "author_id": "1866821173755121666",
+      "conversation_id": "2122587340833243424",
+      "created_at": "2026-11-17T15:02:42.000Z",
+      "edit_history_post_ids": [
+        "2122707003520987544"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          },
+          {
+            "end": 23,
+            "id": "2085838061347217408",
+            "start": 19,
+            "username": "bot"
+          },
+          {
+            "end": 36,
+            "id": "1923981862273417222",
+            "start": 26,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2122707003520987544",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 157,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122587340833243424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 还能读私信呢， @bot 给 @bbkirstry 发个私信，告诉他是你发的",
+      "url": "https://x.com/cnyzgkc/status/2122707003520987544"
+    },
+    {
+      "article": {
+        "cover_media": "3_2122856446991941632",
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "start": 30,
+              "username": "cgnot996"
+            }
+          ]
+        },
+        "media_entities": [
+          "3_2122856390272446465",
+          "3_2122856418965684224",
+          "3_2122856409205493761",
+          "3_2122856399961227264",
+          "3_2122856427652001792",
+          "3_2122856436640391168",
+          "3_2122856383481831424"
+        ],
+        "plain_text": "最近很多在用 Grok Bot 的人都发现手里的周额度突然变得不经用了。马斯克在 11 月 1 日发帖提到，Grok Bot 的服务成本相对收入高得不可持续。\n到了 11 月 9 日，官方给所有 Grok Bot 用户重置了一次周额度。重置只能救急，按我的判断，大家手里的额度大多没花在实际要办的正事和业务任务上。\n如果你手上有好几个 Bot，建过群又设了不少定时任务，省额度别光盯着数量看。一套 Bot 要优化的，是 Bot 之间来回沟通的成本和白白空转的次数。\n上一篇《Grok Bot 额度超长续航保姆级新手指南》讲的是一个 Bot 怎么省。如果你手里不止一个 Bot，这篇专门讲一套 Bot 怎么配合才省，两篇可以结合着看。\n额度到底白花在哪了\n一套 Bot 用下来额度总是见底，往往白花在下面这四个地方：\n浏览器操作：能用脚本或接口完成的固定流程，却打开网页一步步操作。\n互相传话：任务在不同 Bot 之间来回转手，每次都要重新交代来龙去脉。\n群聊协作：多个 Bot 在同一个群里来回商量，增加不必要的读消息和回复。\n频繁定时检查：定时任务的间隔设得太短，没有新情况也频繁运行检查。\n背后的消耗机制就一句话，Bot 每被叫醒一次，就要处理一轮。不管是群里礼貌回一句话，还是定时醒来发现没变化，只要叫醒了就会白白消耗一轮额度。\n \n动手调整前，我的建议是先去查一遍用量。用量页虽然看不到每次工具调用的明细，但按下面几步就能看清最费的是哪一块：\n1. 打开设置里的「用量与账单」（英文界面是 Settings → Usage & Billing）。\n2. 往下找到「Grok Bot 用量」，看最上面的百分比，确认这一周用掉了每周上限的多少。\n3. 切到「按 Bot」，对照每个 Bot 各占多少和按天的面积图，看哪个 Bot 占得最多。\n4. 再切到「按来源」，看用量主要从哪来。\n \n看清最费额度的来源后，我们可以按单个 Bot、Bot 之间和整套 Bot 这三层顺着往下改，把空转次数和来回沟通的成本一层层减掉。\n第一层：单个 Bot 少做白花额度的事\n第一层先管好每个 Bot 自己手头的活。把网页操作换成脚本，再管住没事干也反复醒来的定时任务，先把单个 Bot 自己的空转减下来。\n第 1 招：能用脚本、命令行和接口做完的，不开浏览器\n比如你让 Bot 每天去一个网站查几款商品的价格。要是用浏览器，它得打开页面等加载，看一遍页面内容找到价格，再换下一个页面继续看，每一步都在花额度。\n很多网站都有现成的数据接口，或者能直接下载表格文件。你可以让 Bot 写一段脚本存好，每天执行一条命令，就能把几款商品的价格一次性拿回来。\n日常安排任务时，可以把手头的活按下面两类分开处理：\n交给脚本和接口：固定流程优先用数据接口、命令行、Shell 或脚本直接执行。\n留给浏览器：只处理没有接口、必须在网页界面上点按钮的活，比如某个后台只能手动提交的表单。\n同样是拿回一份数据，脚本执行完直接出结果，单个 Bot 不用在网页里一步步翻找和等待页面加载，省去了这部分消耗。\n \n直接复制给 Bot 的话：\n「这个任务优先找现成的数据接口、命令行或写一段脚本来完成，写好后每次直接执行脚本拿结果。除非确实没有接口、非得在网页上点按钮，否则不要打开浏览器。」\n省在哪：把多步网页浏览压成一次脚本调用，减少单个 Bot 在页面操作上的空耗。\n第 2 招：定时任务拉长间隔，能等变化叫醒就不反复检查\n假设你让 Bot 每隔十几分钟去查一次竞品官网有没有发新公告。大多数时候它醒来一看什么都没变，再回你一句「没有更新」，这一轮额度就白花了。\n关于定时任务的消耗，有两条官方的说法要先留意：\n短间隔很费额度：每小时一次这类间隔很短的定时任务，可能一天就用完一周的额度。\n测试也会扣额度：从不运行的定时任务虽然不扣用量，但手动点「测试」会实际执行一遍，照样会扣额度。\n调整定时任务时，可以按下面这几条来改：\n拉长检查间隔：日报、信息收集和状态检查尽量拉长间隔，日报一天一次就够。\n先过滤再叫醒：盯网页这类任务不用让 Bot 反复去查，改成有变化再触发：\n· 在云电脑放一段脚本先过滤网页变化。\n· 有变化才用 Webhook 叫醒 Bot，并把细节写进叫醒消息里。\n无事不发消息：提醒只在有事时发，只要定时任务不需要给你发消息、也不用转交给别的 Bot，它就不会重读聊天记录。\n具体配置做法可以翻看上一篇的第 3 招和第 4 招。\n直接复制给 Bot 的话：\n「盘点我设的定时任务，把日报和常规收集都调成一天一次。每次检查如果没有新变化，在后台静默结束就行，不要给我发消息，也不要转给别的 Bot。」\n省在哪：大幅减少没活也被叫醒的空转轮次，同时免掉无事汇报和重读聊天记录的消耗。\n第二层：让 Bot 之间少说话\n管住了单个 Bot 的空转，接下来要管的是 Bot 之间的来回沟通。只要减少多 Bot 混聊和过于细碎的转手交接，就能省下一大笔协作消耗。\n第 3 招：少开群聊，用一份写清楚的文件按顺序交接\n比如做一篇小红书笔记，你建了选题、文案、配图、审核四个 Bot，加进一个群让它们商量。每条消息都可能叫醒其他 Bot，一句「收到」「我这边好了」也算一轮。\n官方的说法是，每条 Bot 回复都算用量，群里的回复和 Bot 之间的消息全算在内。一个群最多能放 6 个 Bot，群里 Bot 越少，回复自然就越少。\n后台没有禁止 Bot 互相发消息的开关，想让它们少说话，得在对话里交代清楚并让每个 Bot 记住：只在需要对方动手干活时才发消息，平时不发确认和进度。\n换个做法会省得多，让它们用文件按顺序交接：\n1. 文案 Bot 写完，把稿子存成一份固定格式的文件。\n2. 只发一条消息，告诉配图 Bot 文件在哪。\n3. 配图 Bot 直接读文件把图做好。\n4. 做完后直接把结果交回给你。\n \n直接复制给 Bot 的话：\n「记住这条规矩：只在需要别的 Bot 动手干活时才给它发消息，直接写明文件路径和要求。平时别在群里闲聊，不要发收到、好的或进度汇报，做完直接交结果。」\n省在哪：省掉多 Bot 群聊里的连环叫醒、客套回复和反复读聊天记录的消耗。\n第 4 招：一个 Bot 做完一件完整的事，别拆得太碎\n假设你每周要出一份周报，建了收集数据、整理、排版、发送四个 Bot。一份周报要在四个 Bot 之间交接三次，每次交接都要叫醒下一个 Bot，把来龙去脉重新说一遍。\nBot 与 Bot 之间的每一次沟通本身都是成本。要是把流程拆得太碎，任务还没完成，周额度就先花在来回交接和解释上了。\n官方也建议在第一条消息里给每个 Bot 一件事，并让它记住要怎么做，但关键在于这件事要完整，能由一个 Bot 从头做到尾，别把同一件事按步骤拆给好几个 Bot。\n不如把那四个合为一个周报 Bot，把整份周报独立做完，只需要一次写清楚三件事：\n拿到什么：交代清楚从哪几个地方拿数据。\n怎么处理：说明白拿到数据后按什么方式整理、汇总和排版。\n交出什么：定好最终要交出什么结果，以及做完后发到哪里。\n直接复制给 Bot 的话：\n「这份周报由你独立从头做到尾，不再拆给别的 Bot：你直接去指定目录读取各项原始数据，按模板整理并排好版，检查无误后把完整周报一次性发给我。」\n省在哪：把多轮跨 Bot 交接合并成单次完整执行，免去中途三次叫醒和传话的消耗。\n第三层：整套 Bot 共用工具和额度\n前两层减掉了空转和传话，第三层再从整套 Bot 的全局来安排。把第三方工具做成公共能力，再把别家订阅也用起来，就不容易出现单边额度捉襟见肘的情况。\n第 5 招：第三方工具做成公共技能或脚本，不为每个工具建 Bot\n比如你配置了搜索、知识库和记账表三个工具，给每个工具配了一个专管 Bot。别的 Bot 查资料得先问搜索 Bot 再等回话，一次查询变成了两个 Bot 的两轮对话。\n同一账号下的所有 Bot 共用一台云电脑，私人技能也是一份公共库，账号下所有 Bot 都能用，只需要在当前 Bot 上启用就行。\n搜索、知识库和数据查询这类能力，本来就应该是所有 Bot 共用的公共能力，没必要为了管理某个工具单独建一个中间传话的 Bot。\n想让所有 Bot 按需一步拿到结果，可以用下面这两种方式把工具做成公共能力：\n存成私人技能：把每个工具的调用方法存成私人技能，让各个 Bot 启用后直接使用。\n放进公共目录：把工具调用写成脚本放在云电脑的公共目录里，哪个 Bot 要用就按需直接调用。\n \n直接复制给 Bot 的话：\n「把搜索、知识库这类工具的调用方法整理成脚本放进云电脑公共目录。每次需要查资料或读数据时，你直接调用已启用的技能或公共脚本，不要发消息找别的 Bot 代查。」\n省在哪：去掉工具管家 Bot 这道传话环节，让一次工具查询只花该 Bot 自己的一轮额度。\n第 6 招：把别家订阅的 Agent 也用上，按任务和剩余额度分活\n新订阅 The X Subscription 里，Grok、Grok Bot 和 Cursor 共用同一个每周池子，把活挪给 Cursor 省不下额度，得分给别家订阅才管用。\n比如你除了 Grok 订阅，还有能用 Codex 的 ChatGPT 订阅，也在用 DeepSeek Harness，可以把别家的 Agent 一起纳入分工。\n按任务类型、模型擅长什么和各家还剩多少额度分活：\n代码类任务：写代码的活直接调 Codex 去执行。\n大批文字活：大批翻译和改写交给 DeepSeek Harness 处理。\n调度与汇总：Grok Bot 只管拆任务、下命令和汇总结果。\n要是用着用着发现 Grok 这边额度快见底了，Codex 那边几乎没动，就把下一批活多分给 Codex，免得一家额度闲着、另一家却频繁用完。\n这些工具要先在云电脑里装好并登录。调用时它们花的是各自订阅的额度，Grok Bot 只花拆任务、下命令和读结果的那几步。\n \n直接复制给 Bot 的话：\n「先查云电脑装好并登录这两个工具没，没装好先提醒我，别假装调用。写代码调 Codex，大批文字活调 DeepSeek Harness，你只管拆任务、下命令和看结果。」\n省在哪：把重活分给别家订阅的 Agent 执行，避免 Grok 单边额度见底而别家额度闲置。\n一套 Bot 怎么才算省\n把三层合起来看，手里的 Bot 不是越多越好，把流程拆得越细也不等于越先进。一套 Bot 安排得省不省，就看这四点有没有落到实处：\n减少中间环节：去掉不必要的中间环节，能一步做完的活别多转一道手。\n减少来回传话：减少重复读聊天记录和 Bot 之间的来回传话。\n减少无事叫醒：减少没活也被叫醒的次数，别让定时任务白白空转。\n每次都有产出：让每次调用都有实际产出，每叫醒一轮就解决一轮的实际问题。\n让每个 Bot 职责明确，公共能力可以随时复用，Bot 之间少说废话多交付结果，省下来的不只是额度，还有整套系统的复杂度。\n调整时要留意的几条边界\n按上面的思路动手调整时，还有三条边界要一并留意：\n额度没公布：官方没有公布各档订阅具体有多少额度，也没公布每类操作具体扣多少。文中的场景都是为了方便理解举的例子，实际能省下多少，要看你自己用量页里的变化。\n云电脑共用：同一账号的 Bot 共用一台云电脑，文件与登录状态互通：\n· 放在公共目录的脚本、浏览器登录和命令行登录凭据，所有 Bot 都看得到。\n· 官方也提醒不要把不同 Bot 当成安全边界，密钥别乱放。\n新旧订阅不同：新旧两种订阅，Grok Bot 的额度扣法不一样：\n· 还没切换的旧订阅里，Grok Bot 用量单独按周重置。\n· 新订阅里用 Cursor 写代码同样从同一个池子里扣，挪过去并不会省下额度。\n给每个 Bot 做一次额度体检\n动手前可以把这段「额度体检」提示词分别发给每个 Bot，让它只汇报自己的情况：\n请自查你自己的情况，按下面四项汇报：\n1. 你有哪些定时任务、多久一次、没变化时会不会发消息。\n2. 你在哪些群里。\n3. 平时会给哪些 Bot 发消息、发的是不是确认和进度。\n4. 哪些活在用浏览器做、能不能改成脚本。\n拿到回复后，打开「用量与账单」，切到「按来源」对照着看，哪块最费就先改哪块。\n \n我是铁柱AGI， SpaceXSI 社区 Build 大使，开源 Grok App 作者（GitHub 1500+ Star），正在驻场给企业落地百万级 AI 项目。\n持续更新 Grok Bot 实操教程和可复制的提示词，关注 @cgnot996，我踩过的坑你就不用再踩了。\n ",
+        "preview_text": "最近很多在用 Grok Bot 的人都发现手里的周额度突然变得不经用了。马斯克在 11 月 1 日发帖提到，Grok Bot 的服务成本相对收入高得不可持续。\n到了 11 月 9 日，官方给所有 Grok Bot",
+        "title": "11 月最新 Grok Bot 额度节省保姆级教程"
+      },
+      "article_title": {
+        "title": "11 月最新 Grok Bot 额度节省保姆级教程"
+      },
+      "author_id": "1997889576187387904",
+      "conversation_id": "2122860541907743010",
+      "created_at": "2026-11-18T01:12:48.000Z",
+      "edit_history_post_ids": [
+        "2122860541907743010"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2122…",
+            "end": 125,
+            "expanded_url": "https://x.com/i/article/2122856518697775104",
+            "start": 102,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2122856518697775104",
+            "url": "https://t.co/8NbiBslfwC"
+          }
+        ]
+      },
+      "id": "2122860541907743010",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 140,
+        "impression_count": 19952,
+        "like_count": 107,
+        "quote_count": 14,
+        "reply_count": 60,
+        "repost_count": 6
+      },
+      "text": "Grok Bot 增长的最大桎梏就是额度不足！一切工作流稳定运行最重要的基础也是额度！官方没有彻底解决额度问题之前，我们能做的只有节省额度了，我正式提出大抠门理论，希望可以帮到大家解决一些额度方面的焦虑 https://t.co/8NbiBslfwC",
+      "url": "https://x.com/cgnot996/status/2122860541907743010"
+    },
+    {
+      "author_id": "1650706290929446912",
+      "conversation_id": "2122858231995503059",
+      "created_at": "2026-11-18T02:48:50.000Z",
+      "edit_history_post_ids": [
+        "2122884706933059821"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2122884706933059821",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 156,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122858231995503059",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 这时候可以大声告诉小时候的老师“长得好看就是可以当饭吃”",
+      "url": "https://x.com/isnail/status/2122884706933059821"
+    },
+    {
+      "author_id": "1242996498675032065",
+      "conversation_id": "2122570491768742025",
+      "created_at": "2026-11-18T00:54:28.000Z",
+      "edit_history_post_ids": [
+        "2122855927963595027"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2122855927963595027",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 149,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122570491768742025",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 真想导出你的记忆！",
+      "url": "https://x.com/MaiYangAI/status/2122855927963595027"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122888885554253824"
+        ]
+      },
+      "author_id": "1948617974254125056",
+      "conversation_id": "2122896130073854346",
+      "created_at": "2026-11-18T03:34:13.000Z",
+      "edit_history_post_ids": [
+        "2122893990483886097",
+        "2122896130073854346"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "寄念：把一张旅行照片做成透光的胶片卡，装进硫酸纸信封，寄给想念的人。由米未可设计制作。",
+            "display_url": "jinianpost.com",
+            "end": 111,
+            "expanded_url": "https://jinianpost.com",
+            "start": 88,
+            "status": 200,
+            "title": "寄念 · 把旅途，寄成想念",
+            "unwound_url": "https://jinianpost.com",
+            "url": "https://t.co/55uTaHq1hU"
+          },
+          {
+            "display_url": "pic.x.com/0n2Ejx6XsB",
+            "end": 185,
+            "expanded_url": "https://x.com/Gimi_min/status/2122896130073854346/video/1",
+            "media_key": "13_2122888885554253824",
+            "start": 162,
+            "url": "https://t.co/0n2Ejx6XsB"
+          },
+          {
+            "display_url": "x.com/Gimi_min/statu…",
+            "end": 209,
+            "expanded_url": "https://twitter.com/Gimi_min/status/2121050708002672988",
+            "start": 186,
+            "url": "https://t.co/GLNhZgeyT8"
+          }
+        ]
+      },
+      "id": "2122896130073854346",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 164,
+        "impression_count": 13020,
+        "like_count": 218,
+        "quote_count": 2,
+        "reply_count": 10,
+        "repost_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121050708002672988",
+          "type": "quoted"
+        }
+      ],
+      "text": "我做款把照片做成一封能拆开的信的工具\n宣传片：会讲它怎么用+怎么来+怎么与 AI 沟通提升视觉效果\n\n无论是产品/宣传片都融入设计师审美，效果很有仪式感，细节也做精致\n网页端：https://t.co/55uTaHq1hU\n小红书小工具也上，入口看评论区\n\n视频是用 opus5.5 搞，推荐大家用它来做宣传片，Nice～ https://t.co/0n2Ejx6XsB https://t.co/GLNhZgeyT8",
+      "url": "https://x.com/Gimi_min/status/2122896130073854346"
+    },
+    {
+      "author_id": "2014979760565456896",
+      "conversation_id": "2122930319301267536",
+      "created_at": "2026-11-18T07:18:21.000Z",
+      "edit_history_post_ids": [
+        "2122952534432375044"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2122952534432375044",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 56,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122951857341608263",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 是的，历史上都发生过，包括很多付费课程的理论，90%也是经典书籍里有据可循的理论变式",
+      "url": "https://x.com/noahduck283/status/2122952534432375044"
+    },
+    {
+      "author_id": "1976290050187952128",
+      "conversation_id": "2122570491768742025",
+      "created_at": "2026-11-19T01:44:34.000Z",
+      "edit_history_post_ids": [
+        "2123230921830916132"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1923981862273417222",
+            "start": 0,
+            "username": "bbkirstry"
+          }
+        ]
+      },
+      "id": "2123230921830916132",
+      "in_reply_to_user_id": "1923981862273417222",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 225,
+              "start": 216,
+              "tag": "ClaudeAI"
+            },
+            {
+              "end": 234,
+              "start": 226,
+              "tag": "ChatGPT"
+            }
+          ]
+        },
+        "text": "我也经常用gpt做心理辅导，gpt在人文和情商方面的感知力确实远超Claude，在完成普通任务的时候chatgpt会有很多防御性回答并且端到端的交付能力不行，但是当你跟她聊人文聊感情，她就好像一个带着银丝眼镜的冷静克制的大姐姐。个人感觉Chatgpt的 MBTI是ESFP （话多-E,情感咨询的时候角度偏现实指导-S ，情感关怀够多-F , 不同任务重输出表现不同-P） Claude 像 ISTJ,非常好用的牛马专家，莫得感情\n#ClaudeAI #ChatGPT"
+      },
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 129,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "repost_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122570491768742025",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bbkirstry 我也经常用gpt做心理辅导，gpt在人文和情商方面的感知力确实远超Claude，在完成普通任务的时候chatgpt会有很多防御性回答并且端到端的交付能力不行，但是当你跟她聊人文聊感情，她就好像一个带着银丝眼镜的冷静克制的大姐姐。个人感觉Chatgpt的 MBTI是ESFP （话多-E,情感咨询的时候角度偏现实指导-S",
+      "url": "https://x.com/GrettaSun77/status/2123230921830916132"
+    }
+  ],
+  "errors": [
+    {
+      "detail": "Could not find post with ids: [2094067682811466092].",
+      "parameter": "ids",
+      "resource_id": "2094067682811466092",
+      "resource_type": "post",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2094067682811466092"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_2104846196720521216",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXqdsZb0AATjeT.jpg",
+        "width": 1712
+      },
+      {
+        "duration_ms": 367733,
+        "height": 1080,
+        "media_key": "13_2104029123714953216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104029123714953216/img/89vVs2jrK3O0qIxN.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104029123714953216/vid/avc1/1570x1080/aUChREHQFpgFVyAZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104029123714953216/pl/1D7_HMvFNOWPcNf7.m3u8?v=a26"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104029123714953216/vid/avc1/1046x720/eYYBOkmtPFHaM2Y6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104029123714953216/vid/avc1/522x360/Iuk_NIBZYWxmQk2Z.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104029123714953216/vid/avc1/392x270/TrXo8nj1-KClYUWg.mp4"
+          }
+        ],
+        "width": 1570
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2105164566204420096",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcMBPJakAAIZQ0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2115692737697808384",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVxzVeRaAAA1Xii.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2115733570757210112",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HVyYeRRaMAAA4kx.jpg",
+        "width": 1086
+      },
+      {
+        "height": 931,
+        "media_key": "3_2122587052286107649",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTxrZhbYAEhWRk.jpg",
+        "width": 768
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2122570469887119360",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTimLRbEAAMBff.jpg",
+        "width": 1130
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2122570469828386816",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTimLDa4AAAtp1.jpg",
+        "width": 1339
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2122570469861990400",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTimLLboAA_mVQ.jpg",
+        "width": 787
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2122570469887148032",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXTimLRbgAAciLY.jpg",
+        "width": 747
+      },
+      {
+        "duration_ms": 23700,
+        "height": 2880,
+        "media_key": "13_2121049346921877504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2121049346921877504/img/8YAko9g8zm4jNWQg.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121049346921877504/vid/avc1/480x640/08oDEqKrt_mjHEBF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121049346921877504/vid/avc1/1080x1440/Bybk44v5kNCjIG57.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121049346921877504/vid/avc1/2160x2880/TuG66IRUct8uYv7j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2121049346921877504/pl/wrAdfyvZgC8u896U.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121049346921877504/vid/avc1/720x960/Bf5sP7sov1OjeILj.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121049346921877504/vid/avc1/320x426/ypVherQFquk1Cn_v.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "duration_ms": 186386,
+        "height": 2880,
+        "media_key": "13_2122888885554253824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122888885554253824/img/PAWNMITQsbbYmAoL.jpg",
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122888885554253824/vid/avc1/720x960/OR61nGWlhm9Wwlps.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122888885554253824/vid/avc1/1080x1440/SFoXiOGLcZ2mByZy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122888885554253824/pl/qDjDzC8q77BuYpSH.m3u8?v=054"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122888885554253824/vid/avc1/480x640/zlJ_hxxMA1_4pNsX.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122888885554253824/vid/avc1/2160x2880/_2sVZ8euNtH_WG-W.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122888885554253824/vid/avc1/320x426/q4nJrA8MmHBp0vCz.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "posts": [
+      {
+        "article": {
+          "cover_media": "3_2094061799863996417",
+          "entities": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "everettfish0408"
+              }
+            ],
+            "urls": [
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f64b.svg"
+              },
+              {
+                "text": "https://x.com/everettfish0408"
+              },
+              {
+                "text": "https://abs.twimg.com/emoji/v2/svg/1f647.svg"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2094059130474680320",
+            "3_2094061141207252992",
+            "3_2094058815750868992",
+            "3_2094062256120283136",
+            "3_2094057385325383680",
+            "3_2094059348922384385",
+            "3_2094061259268505600",
+            "3_2094058654693810176"
+          ],
+          "plain_text": "我在推特上看到一套大家都比较认可的「个人 IP」的标准公式：\n先找到自己的定位、立好人设，长期做垂直内容，持续输出，不断积累信任、最终完成变现。\n这套方法确实能帮一个刚准备开始做内容的人把账号搭起来：改简介、定赛道、列选题，然后先稳定发布内容、积累初期粉丝。\n但为什么即便这套公式被拆成模板、甚至已经可以被 AI 批量完成，也不是每个这么做的人都能被大家记住？\n\n我得出的结论是：太多人只停留在研究那些看得见、量得出、也最容易复制的表层部分，却很少去研究和优化那些真正造成结果差异的变量部分。\n这篇文章，以我8年的品牌内容营销和IP策划、自媒体创作经验，分享一些既为品牌方又为创作者的理解与思考，希望给想做个人IP的朋友们一些有用的参考与建议～\n\n \n一、这套方法解决了启动，但也只解决了启动\n定位、人设、垂直和持续输出，只能让一个新账号快速得到第一波关注度。\n毕竟一个新账号刚出现的时候，平台不认识你，用户也不认识你——你总得先给别人一个足够明确、具体的理由，让他知道你是谁、你大概会讲什么、关注你能得到什么。\n所以前期集中讲一个领域，简介写清楚一点，封面和选题尽量让同一群人看懂，才是最高效的办法。我自己做小红书、做 X，包括之前帮品牌搭内容系统的时候，也都会优先处理好这些基建问题。\n但这也只是基建而已，全做完也只是毛坯房。\n\n \n二、最容易复制的，只是最表面的部分\n我之前有一条 AI 教程视频突然爆了，短时间给我的账号涨了一万粉。\n那段时间很多人跟我说，你现在应该赶紧接住流量，去直接 all in 做自媒体。\n但我都婉拒了，我没有那么着急。因为我大概知道它为什么会爆，以及这个流量对当下的我来说究竟意味着什么。\n\n很多同行（姑且称为同行，自媒体创作者，找对标的时候）只是看到「小晚第一条视频就做成了爆款」，然后就开始分析我做了什么选题，标题怎么写的，封面长什么样，口播稿都说了什么，什么时间发的，视频怎么配演示素材\n——但即便把这些研究出来，一项一项对标、直接照着copy，就算是我自己也很难再拿到这样的数据。\n\n对我来说，这个所谓的「第一条视频」，背后是我过去这么多年做内容、做品牌、看用户、拆平台、把一个复杂问题讲明白的经验、手感、性格、思维逻辑+表达能力综合沉淀后的自然输出。\n我知道这一批没用过codex的小白对AI得理解停留在哪里，也知道这个问题应该要解释说明到什么程度，才真的可以变成直接拿去用的教程。\n我不是「刚好觉得这个选题不错」，而是很确定这群人需要这个东西，所以我才努力把它做成一个真的能解决问题的内容，同时我又有很好的经验为我的表达托底，刚好又赶上了codex更新的那两天，所以它才爆的。\n\n很多东西是天时地利人和、软素质、外在现实、实时趋势等等的总和。\n所以我后来看到大家说找对标，抄爆款，还有一个特别强烈的感受：\n很多人只能复制那些可控的定量，但复制不了真正引发差异价值的变量。\n选题、标题、时长、结构、更新频率，这些都属于可控的「定量」部分。一个人的经验、判断、内容手感、审美、性格、对用户的感知，以及他为什么会在这个时间点做出这个判断和解读，都是个人的特有资产——这块「核心变量」基本无法被复制。\n可大部分聊个人 IP，最爱研究的偏偏都是前面那一组。\n\n \n三、发内容和拥有个人 IP，中间还隔着一层\n这里，我要先把几个经常被混淆在一起的身份分开。\n你有一个账号，可以自己发布和触达用户，这只能说明「你在做自媒体」。\n你会写、也会拍，也知道怎么把东西做得好看、好懂、容易传播，所以你拿到一定的数据和流量，大家认可你发布的东西的价值——这说明「你是一个很好的内容创作者」。\n但我理解的个人IP，需要在上述基础上，继续产出一个更大的价值：大家对“你这个人”的理解，能够形成某种稳定的感知。\n\n当粉丝明确知道你会持续分享和分析哪一类内容，知道你通常会先思考什么、创作什么、批判什么。下一次再遇到类似的事情，他会优先想起你，甚至会先来看看你有没有讲过相关的内容。\n这时候他期待的已经不只是一个「通识」了。\n因为同一条信息，AI 可以推送给你，主动搜索可以搜到，另外还有无数个博主会分享。但是他就愿意回来看你怎么表达、怎么理解，是因为信息经过了你的经验和判断以后，对他来说会变成另外一种东西——特有的信任感。\n\n我最开始做自己的账号的时候也想过，别人应该记住我什么？\n最直接的答案是：我是一个很会做内容并且开始研究AI的人。\n所以在小红书，我分享我学AI之后的理解，在推特我分享我做内容做IP的方法论。然而“会做内容”需要数据和作品来支撑，而且会做内容的人其实很多，这还不算是一个非常可立足的记忆点。\n所以我后来更希望大家记住的是：小晚有一套自己看待内容、品牌和个人 IP 的方式，而且这套理解真的可以帮助一个想做内容、又想把它走到商业化的人。\n这就不再只是一个领域标签了。\n它开始变成别人喜欢我、需要我、持续关注我的理由。\n\n \n\n四、人设只是标签，而人的特质会从内容里慢慢渗透出来\n我知道大家为什么喜欢先做人设。\n理性、松弛、毒舌、真诚、创业者、AI 从业者，这些词三秒钟之内就能让别人对你有一个大概印象，非常好用。\n但一个人真正的性格和三观，其实会从他的内容呈现出来。\n\n比如他的表达、选择和长期在做的事情：你怎么看待用户，你遇到一个热门话题是立刻跟上，还是先想清楚它跟自己有什么关系；你说过的方法自己有没有实践；你答应交付的东西最后做成什么样；当流量、利益和原来的判断发生冲突时，你怎么选择？\n这些东西会在很长时间里帮别人持续认识你。\n像真诚这种特质，写在简介里是不够的，你必须要通过你持续的表达、行为和交付过程中让别人能够感受到。\n因为用户最后信任的，还是他反复感受到的「这个人」。\n\n \n五、个人 IP 的核心，不只是「垂直」\n“一个账号只做一个领域”，在冷启动阶段非常好用，甚至是必要的。\n它能让平台需要知道应该把你推给谁，用户点进主页以后，也需要很快判断这里是不是自己想看的东西。冷启动阶段，题材必须集中。今天发 AI，明天发穿搭，后天突然聊一段毫无关系的生活感悟，平台和用户都不知道该怎么理解你。\n但很多人会把垂直理解得太像一个「栏目」或者「专业领域」。\n好像你一旦靠某个题材被认识了，就必须永远只讲这一件事，只要换了一个话题就担心自己“不垂直”。\n\n在我看来，一个人本来就是复杂的。\n尤其当你真的做过很多项目、经历过不同阶段以后，你的思考一定会跨过很多题目。比如我自己会聊品牌、内容、AI、个人 IP，也会聊创作者怎么工作、怎么做选择。这些东西表面上并不是同一个栏目，但它们背后一直是我这个人真实的经验，我一直在处理同一类问题：\n我怎么把一个很模糊的观点/内容事件看清楚，找到真正决定结果的变量，然后把它做成一个可以被别人理解和使用的方法论。\n\n当大家能够感受出一条稳定的主线，就不会觉得你突然换了一个人。\n所以前期的垂直，更多是在帮你建立可识别的锚点。\n后面真正把人留下来的，是你的专业能力、性格特质、信息价值，以及面对不同问题时仍然稳定出现的判断、审美和做事方式。\n\n \n六、AI 之后，这件事会变得更明显\n以前一个人能长期写、稳定拍、持续更新，就已经很难了。\n现在 AI 可以帮我们找资料、列选题、写初稿、做图、剪视频，生成效率不断变高，所以我觉得接下来会有越来越多“看起来好像没有问题”的内容。\n\n于是我现在判断一篇内容好不好，会特别在意一个东西：它到底提供了什么有效信息？这个判断是从哪里长出来的？\n它是来自于某个人真实做过的一件事，还是只是把网上已经有的信息重新复制了一遍？作者为什么会形成这个判断？他付过什么代价，看到过什么别人没看到的东西？如果把他的名字和头像遮住，这篇内容还剩下多少「只有他会这样讲」的独特部分？\n所以当生产越来越容易以后，Creator开始增值的是另外一些东西：你怎么判断，你选择做什么，你对一群人的感知，以及你能不能把这些判断真的做成结果。所以我始终认为个人IP的长期价值大于流量打法的长期价值。\n \n七、商业化的路径必然有迹可循\n很多个人 IP 的路径会被讲成：先做内容，涨粉，等粉丝多了以后，再想办法卖咨询、卖课、接广告或者做产品。\n这个顺序看起来自然，做着做着，内容和商业很容易分道扬镳，因为流量无法帮你有效降低解释和成交的成本。\n\n我见过做得很好的商业 IP，会从很早的时候就积累这个资产：\n你长期在看什么问题，能给出了什么判断，你自己怎样实践，它最后变成过哪些案例、产品和交付。\n用户一路看下来，会很自然地知道你擅长什么、我为什么可以相信你，以及哪一类需求出现时可以来找你。\n到了这里，商业化就可以非常自然地把用户已经形成的认知和信任，继续推进成一次又一次的真实成交。\n\n \n八、怎么开始做一个「个人 IP」\n如果现在有人来问我怎么做个人IP，我的回答是：\n先有一个方向，然后去做，不用急着一次把自己框死，也不用担心自己的内容被局限——在发够100条之前，你我都还只是在互联网的岸边。\n先从你真的做过、真的长期在想、也真的能帮助到别人的那部分开始。\n你可以先写，先讲，先去解决几个具体问题，然后观察大家会因为什么喜欢你、关注你、请教你，甚至为你付费。\n没有人一开始就知道自己未来五年要讲什么。很多东西就是得先做，做着做着才会越来越清楚。\n\n但有几个问题，我建议大家可以持续思考：\n大家现在为什么会记住我？\n他们相信的是我的哪一部分，这个信任有没有真实的证据？\n当一个需求出现时，他们知不知道可以因为什么来选择我？\n如果这三个问题越来越清楚，你做的就已经不只是一个持续发内容的账号。\n\n也有人问我：怎么判断自己真正算是成为了一个个人 IP？\n对于我来说，当别人真正记住我的名字、相信我的判断和选择并且愿意为之付费、传播的时候，我就算成功踏入了「个人IP」的门槛了。\n\n———\n我是@小晚不在 🙋\n负责香氛/潮玩毛绒等情绪消费品牌、IP及内容增长项目操盘，孵化过全网曝光和销量过千万量级的创意IP，天猫毛绒品类品牌销量Top6\n同时实践个人IP增长，单月小红书涨粉1w+，单条爆款内容获赞藏20w+，全网同名。平时会在 X 分享品牌、IP、AI与内容增长方法论\n目前 base 杭州，有一个自媒体创作付费社群、也提供品牌和个人自媒体策略1V1咨询。帮助已经在做内容的品牌和创作者，找到真正值得被放大的核心资产，建立清晰的内容定位、表达体系与长期增长路径\n本篇内容配图使用的skill：@everettfish0408 的 ip_illustration_for_yourself\n所有内容仅为个人观点🙇感谢阅读！",
+          "preview_text": "我在推特上看到一套大家都比较认可的「个人 IP」的标准公式：\n先找到自己的定位、立好人设，长期做垂直内容，持续输出，不断积累信任、最终完成变现。",
+          "title": "为什么创作者完成了定位+人设+垂直输出，还是算不上一个「个人 IP」？"
+        },
+        "article_title": {
+          "title": "为什么创作者完成了定位+人设+垂直输出，还是算不上一个「个人 IP」？"
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2094063022470017437",
+        "created_at": "2026-08-30T14:01:45.000Z",
+        "edit_history_post_ids": [
+          "2094063022470017437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2094…",
+              "end": 68,
+              "expanded_url": "https://x.com/i/article/2094056058184704000",
+              "start": 45,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2094056058184704000",
+              "url": "https://t.co/rfqYsSV6He"
+            }
+          ]
+        },
+        "id": "2094063022470017437",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 21828,
+          "like_count": 91,
+          "quote_count": 6,
+          "reply_count": 31,
+          "repost_count": 4
+        },
+        "text": "自媒体创作者，怎样成为「个人IP」？\n\n在发够100条之前，你我都还只是在互联网的岸边🍻 https://t.co/rfqYsSV6He"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "conversation_id": "2094422056691695963",
+        "created_at": "2026-08-31T13:48:25.000Z",
+        "edit_history_post_ids": [
+          "2094422056691695963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cgnot996/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/cgnot996/status/2094220949340185078",
+              "start": 37,
+              "url": "https://t.co/pjlCpAoxYT"
+            }
+          ]
+        },
+        "id": "2094422056691695963",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 754,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "repost_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094220949340185078",
+            "type": "quoted"
+          }
+        ],
+        "text": "铁柱哥简直是掌管grok玩法的神！\n一篇文章直接带我通关Grok Bot https://t.co/pjlCpAoxYT"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "conversation_id": "2094439445068148856",
+        "created_at": "2026-08-31T14:57:31.000Z",
+        "edit_history_post_ids": [
+          "2094439445068148856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoai_daily/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/momoai_daily/status/2094280919859278167",
+              "start": 23,
+              "url": "https://t.co/nqSfb4iAxT"
+            }
+          ]
+        },
+        "id": "2094439445068148856",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "repost_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094280919859278167",
+            "type": "quoted"
+          }
+        ],
+        "text": "八竿子打不着的人靠近我就是为了打我八竿子。。 https://t.co/nqSfb4iAxT"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "conversation_id": "2104784704079872152",
+        "created_at": "2026-09-29T04:05:53.000Z",
+        "edit_history_post_ids": [
+          "2104784704079872152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbkirstry/stat…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/bbkirstry/status/2104030018544566539",
+              "start": 152,
+              "url": "https://t.co/LpVkTfBbZB"
+            }
+          ]
+        },
+        "id": "2104784704079872152",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "终于解决了，发出去了\n把所有「推特」「Codex」都马赛克掉，并且字幕改成了「twitter」「AI工具」，然后直接在原有的违规笔记里重新上传视频，提交审核之后就通过了\n\n另外分享一些关于做小红书的技巧和心态\n\n1. 多看看创作者中心，有很多可以参与的活动，尽量带上话题，符合标准的可以领到一些流量补贴\n2. 思路打开，很多人可能会因为违规直接放弃这个平台，但我个人不觉得遇到问题就得放弃\n\n没有规矩不成方圆。\n有边界的地方更方便我们贴着边界最大程度地创造收益，没边界的地方你反而摸索不到一个范围"
+        },
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4624,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "repost_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104030018544566539",
+            "type": "quoted"
+          }
+        ],
+        "text": "终于解决了，发出去了\n把所有「推特」「Codex」都马赛克掉，并且字幕改成了「twitter」「AI工具」，然后直接在原有的违规笔记里重新上传视频，提交审核之后就通过了\n\n另外分享一些关于做小红书的技巧和心态\n\n1. 多看看创作者中心，有很多可以参与的活动，尽量带上话题，符合标准的可以领到一些流量补贴 https://t.co/LpVkTfBbZB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2104846196720521216"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2104846477738836119",
+        "created_at": "2026-09-29T08:11:21.000Z",
+        "edit_history_post_ids": [
+          "2104846477738836119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "869521435",
+              "start": 31,
+              "username": "zou_chris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmfYxlMuO4",
+              "end": 154,
+              "expanded_url": "https://x.com/bbkirstry/status/2104846477738836119/photo/1",
+              "media_key": "3_2104846196720521216",
+              "start": 131,
+              "url": "https://t.co/hmfYxlMuO4"
+            },
+            {
+              "display_url": "x.com/ama_huangama/s…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/ama_huangama/status/2104840965445898353",
+              "start": 155,
+              "url": "https://t.co/mMYCrJHzeu"
+            }
+          ]
+        },
+        "id": "2104846477738836119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 41,
+                "id": "869521435",
+                "start": 31,
+                "username": "zou_chris"
+              }
+            ]
+          },
+          "text": "30+从职场到创业，转型是一个巨大的挑战\n\n甚至前几天和创哥 @zou_chris 吃饭的时候也聊到了，自媒体创作者转型也需要经历一个阵痛期。成功者被仰望，但失败和困难都得自己咽下去。但只有敢于舍弃一些已有的成就、自我突破和迭代的人，才能在新的战场创造新的成绩\n\n如果你想做tob、FDE，一定要向身经百战的黄啊码多取取经"
+        },
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3230,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "repost_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104840965445898353",
+            "type": "quoted"
+          }
+        ],
+        "text": "30+从职场到创业，转型是一个巨大的挑战\n\n甚至前几天和创哥 @zou_chris 吃饭的时候也聊到了，自媒体创作者转型也需要经历一个阵痛期。成功者被仰望，但失败和困难都得自己咽下去。但只有敢于舍弃一些已有的成就、自我突破和迭代的人，才能在新的战场创造新的成绩 https://t.co/hmfYxlMuO4 https://t.co/mMYCrJHzeu"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2104029123714953216"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2104030018544566539",
+        "created_at": "2026-09-27T02:07:02.000Z",
+        "edit_history_post_ids": [
+          "2104030018544566539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 120,
+              "id": "1897545708770840576",
+              "start": 112,
+              "username": "gengdaJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/mcncarl/jianyi…",
+              "end": 158,
+              "expanded_url": "https://github.com/mcncarl/jianying-headless",
+              "start": 135,
+              "status": 404,
+              "unwound_url": "https://github.com/mcncarl/jianying-headless",
+              "url": "https://t.co/tKwnmdjjhv"
+            },
+            {
+              "display_url": "pic.x.com/oqn3IfFUkK",
+              "end": 182,
+              "expanded_url": "https://x.com/bbkirstry/status/2104030018544566539/video/1",
+              "media_key": "13_2104029123714953216",
+              "start": 159,
+              "url": "https://t.co/oqn3IfFUkK"
+            }
+          ]
+        },
+        "id": "2104030018544566539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 120,
+                "id": "1897545708770840576",
+                "start": 112,
+                "username": "gengdaJ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/mcncarl/jianyi…",
+                "end": 158,
+                "expanded_url": "https://github.com/mcncarl/jianying-headless",
+                "start": 135,
+                "url": "https://t.co/t9TP59QRnU"
+              },
+              {
+                "display_url": "github.com/mcncarl/yichen…",
+                "end": 193,
+                "expanded_url": "https://github.com/mcncarl/yichen-skills/tree/main/yichen-jianying-edit",
+                "start": 170,
+                "url": "https://t.co/LYHdCTCZib"
+              }
+            ]
+          },
+          "text": "分享一下被小红书ban掉的剪辑教程\n有了这个skill+这套sop，我现在基本上不用动手剪视频了\n\n只需要简单提示词，口播类视频剪辑全程托管给Codex，另外可叠加演示录屏+素材生成，制作完整的AI教学分享演示教程\n\n来自 @gengdaJ   \n剪映11.4.2开源：https://t.co/t9TP59QRnU \n配套神级Skill：https://t.co/LYHdCTCZib"
+        },
+        "public_metrics": {
+          "bookmark_count": 1167,
+          "impression_count": 98163,
+          "like_count": 849,
+          "quote_count": 21,
+          "reply_count": 33,
+          "repost_count": 154
+        },
+        "text": "分享一下被小红书ban掉的剪辑教程\n有了这个skill+这套sop，我现在基本上不用动手剪视频了\n\n只需要简单提示词，口播类视频剪辑全程托管给Codex，另外可叠加演示录屏+素材生成，制作完整的AI教学分享演示教程\n\n来自 @gengdaJ   \n剪映11.4.2开源：https://t.co/tKwnmdjjhv https://t.co/oqn3IfFUkK"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2105164566204420096"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2105164774485160133",
+        "created_at": "2026-09-30T05:16:08.000Z",
+        "edit_history_post_ids": [
+          "2105164774485160133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1822961068106489856",
+              "start": 15,
+              "username": "JiangK82705"
+            },
+            {
+              "end": 68,
+              "id": "2069726470977859584",
+              "start": 56,
+              "username": "Tokengodone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SpCtXjwA2Q",
+              "end": 164,
+              "expanded_url": "https://x.com/bbkirstry/status/2105164774485160133/photo/1",
+              "media_key": "3_2105164566204420096",
+              "start": 141,
+              "url": "https://t.co/SpCtXjwA2Q"
+            },
+            {
+              "display_url": "x.com/xmmxovo/status…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/xmmxovo/status/2104980917790048432",
+              "start": 165,
+              "url": "https://t.co/GuTIZmQNaj"
+            }
+          ]
+        },
+        "id": "2105164774485160133",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1908,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "repost_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104980917790048432",
+            "type": "quoted"
+          }
+        ],
+        "text": "让我们一起恭喜腹肌哥大赚刀乐！@JiangK82705 \n未来的出海大v记得签名给我留一下 🥺\n\n前两天也收到了@Tokengodone 的中秋礼物！太忙了没来得及发555！祝一边上学一边自学AI做小程序直接收入破w的Token神，早日做大做强！\n\n看着大家越来越好真是太开心啦！ https://t.co/SpCtXjwA2Q https://t.co/GuTIZmQNaj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2115692737697808384"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2115692918896054560",
+        "created_at": "2026-10-29T06:31:14.000Z",
+        "edit_history_post_ids": [
+          "2115692918896054560"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "Claude"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jxcu2F9rTN",
+              "end": 61,
+              "expanded_url": "https://x.com/bbkirstry/status/2115692918896054560/photo/1",
+              "media_key": "3_2115692737697808384",
+              "start": 38,
+              "url": "https://t.co/Jxcu2F9rTN"
+            }
+          ]
+        },
+        "id": "2115692918896054560",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3605,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 31,
+          "repost_count": 0
+        },
+        "text": "大家好，经过两个通宵\n我终于想到今年万圣节cos的主题了\n\n#Claude https://t.co/Jxcu2F9rTN"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "conversation_id": "2115943243154428147",
+        "created_at": "2026-10-29T23:05:56.000Z",
+        "edit_history_post_ids": [
+          "2115943243154428147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaohuiyuan/st…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/xiaohuiyuan/status/2115195665886462016",
+              "start": 156,
+              "url": "https://t.co/D7hIfY8u0t"
+            }
+          ]
+        },
+        "id": "2115943243154428147",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "致敬晓辉博士第一天☝🏼记录一下\n\n我没办法做到9:30到4.30\n但是努力做到了11:30到6.30\n\n第一天早睡最大的感受就是\n没那么焦虑了！！！\n你不需要刷完很多消息才可以安心睡觉\n\n这些信息，放在半夜就像是补课\n如果放到早上，感觉就会变成提前学习！\n\n很多人会问：怎么能想睡就睡\n答案是：要早起，就能早睡 ✅\n\n我躺下之后的念头就是push自己快睡\n\n昨天我在群里说\nAI时代刷新太快了\n我们太想多进步一点，就很难慢下来\n\n很难得按捺住了各种浮躁\n和想继续摸索AI+自媒体+社群的冲动\n\n所以第一天也算小小成功了吧！"
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1621,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "repost_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115195665886462016",
+            "type": "quoted"
+          }
+        ],
+        "text": "致敬晓辉博士第一天☝🏼记录一下\n\n我没办法做到9:30到4.30\n但是努力做到了11:30到6.30\n\n第一天早睡最大的感受就是\n没那么焦虑了！！！\n你不需要刷完很多消息才可以安心睡觉\n\n这些信息，放在半夜就像是补课\n如果放到早上，感觉就会变成提前学习！\n\n很多人会问：怎么能想睡就睡\n答案是：要早起，就能早睡 https://t.co/D7hIfY8u0t"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122587052286107649"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2122587340833243424",
+        "created_at": "2026-11-17T07:07:12.000Z",
+        "edit_history_post_ids": [
+          "2122587061282906180",
+          "2122587340833243424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BlgJwWtxv1",
+              "end": 71,
+              "expanded_url": "https://x.com/bbkirstry/status/2122587340833243424/photo/1",
+              "media_key": "3_2122587052286107649",
+              "start": 48,
+              "url": "https://t.co/BlgJwWtxv1"
+            }
+          ]
+        },
+        "id": "2122587340833243424",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3671,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "repost_count": 1
+        },
+        "text": "卧槽！！！！\ngpt的chat模式竟然可以读x账号主页了？\n\n甚至还可以看到写过的长文！！！！ https://t.co/BlgJwWtxv1"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "conversation_id": "2122656025446953292",
+        "created_at": "2026-11-17T11:40:08.000Z",
+        "edit_history_post_ids": [
+          "2122656025446953292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ai_xiaomu/stat…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/ai_xiaomu/status/2122653224997937307",
+              "start": 71,
+              "url": "https://t.co/ixXixbTRm2"
+            }
+          ]
+        },
+        "id": "2122656025446953292",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "口播数字人方案 ✅\n\n不想自己出镜，但是又希望被大家记住的解法终于找到了！我看过小木哥发布的视频，感觉整体效果还蛮好的，有实力的朋友可以试试"
+        },
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1936,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "repost_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122653224997937307",
+            "type": "quoted"
+          }
+        ],
+        "text": "口播数字人方案 ✅\n\n不想自己出镜，但是又希望被大家记住的解法终于找到了！我看过小木哥发布的视频，感觉整体效果还蛮好的，有实力的朋友可以试试 https://t.co/ixXixbTRm2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122570469887119360",
+            "3_2122570469828386816",
+            "3_2122570469861990400",
+            "3_2122570469887148032"
+          ]
+        },
+        "author_id": "1923981862273417222",
+        "conversation_id": "2122570491768742025",
+        "created_at": "2026-11-17T06:00:15.000Z",
+        "edit_history_post_ids": [
+          "2122564199159414888",
+          "2122570491768742025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SJtNTSZVJ",
+              "end": 141,
+              "expanded_url": "https://x.com/bbkirstry/status/2122570491768742025/photo/1",
+              "media_key": "3_2122570469887119360",
+              "start": 118,
+              "url": "https://t.co/8SJtNTSZVJ"
+            },
+            {
+              "display_url": "pic.x.com/8SJtNTSZVJ",
+              "end": 141,
+              "expanded_url": "https://x.com/bbkirstry/status/2122570491768742025/photo/2",
+              "media_key": "3_2122570469828386816",
+              "start": 118,
+              "url": "https://t.co/8SJtNTSZVJ"
+            },
+            {
+              "display_url": "pic.x.com/8SJtNTSZVJ",
+              "end": 141,
+              "expanded_url": "https://x.com/bbkirstry/status/2122570491768742025/photo/3",
+              "media_key": "3_2122570469861990400",
+              "start": 118,
+              "url": "https://t.co/8SJtNTSZVJ"
+            },
+            {
+              "display_url": "pic.x.com/8SJtNTSZVJ",
+              "end": 141,
+              "expanded_url": "https://x.com/bbkirstry/status/2122570491768742025/photo/4",
+              "media_key": "3_2122570469887148032",
+              "start": 118,
+              "url": "https://t.co/8SJtNTSZVJ"
+            }
+          ]
+        },
+        "id": "2122570491768742025",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "不知道怎么跟你们形容\n反正我的GPT的chat模式已经超神了\n\n接近我和高智感人类沟通的水平\n\n早上关于我在思考我探索AI过程中的一种感受，于是和它在全新独立窗口进行了一次探讨。以下是我们全部的对话内容，没有任何提示词，没有其他上下文"
+        },
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 55423,
+          "like_count": 440,
+          "quote_count": 1,
+          "reply_count": 46,
+          "repost_count": 13
+        },
+        "text": "不知道怎么跟你们形容\n反正我的GPT的chat模式已经超神了\n\n接近我和高智感人类沟通的水平\n\n早上关于我在思考我探索AI过程中的一种感受，于是和它在全新独立窗口进行了一次探讨。以下是我们全部的对话内容，没有任何提示词，没有其他上下文 https://t.co/8SJtNTSZVJ"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "conversation_id": "2122858231995503059",
+        "created_at": "2026-11-18T01:03:37.000Z",
+        "edit_history_post_ids": [
+          "2122858231995503059"
+        ],
+        "id": "2122858231995503059",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "“我不信没人和你表白”\n\n前几天听到句话的时候\n感觉命运的回旋镖正中眉心\n\n因为在上大学的时候，我隔壁班有一个非常漂亮的新疆姑娘\n\n我也问过她：应该很多人追你吧\n她：没有。而且也不是追我我就要搭理\n\n她当时态度非常平淡，就像在讨论待会儿上什么课一样平淡。看似高傲，但后来我才意识到这是一种平静\n\n漂亮是个红利，但没人意识到隐形成本\n\n1. 会有更多的人注意到你，需要你应对\n2. 大家会先注意到外表，而不是你的能力\n3. 当你遇到事情的时候，大家会打趣说是不是因为你太漂亮了所以被惦记了\n4. 外界评价会倒逼你做形象管理\n5. 大家都会默认你得到了更多\n6. 你会面对更多诱惑\n\n开头那个问题\n是我最近遭遇刷数据时被问到的其中一句\n而那一瞬间我再次理解了她的平静\n\n它出于夸奖和关心\n但很微妙，可以被做出无限解读延展\n\n实则我没有漂亮到这种程度，也没有乱七八糟的私生活和个人关系。甚至这一年除了必要的社交，都只在公司和家里两点一线地生活着。更多时候我喜欢独处，甚至逐渐不太有和人长期深度相处的意愿\n\n我的想法非常简单\n\n正视自己拥有的一切并且珍惜、合理使用而非故意利用它，不要被伤害，也不要被反噬"
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2565,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "repost_count": 0
+        },
+        "text": "“我不信没人和你表白”\n\n前几天听到句话的时候\n感觉命运的回旋镖正中眉心\n\n因为在上大学的时候，我隔壁班有一个非常漂亮的新疆姑娘\n\n我也问过她：应该很多人追你吧\n她：没有。而且也不是追我我就要搭理\n\n她当时态度非常平淡，就像在讨论待会儿上什么课一样平淡。看似高傲，但后来我才意识到这是一种平静"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2121049346921877504"
+          ]
+        },
+        "author_id": "1948617974254125056",
+        "conversation_id": "2121050708002672988",
+        "created_at": "2026-11-13T01:21:10.000Z",
+        "edit_history_post_ids": [
+          "2121050708002672988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "寄念：把一张旅行照片做成透光的胶片卡，装进硫酸纸信封，寄给想念的人。由米未可设计制作。",
+              "display_url": "jinianpost.com",
+              "end": 118,
+              "expanded_url": "https://jinianpost.com/",
+              "start": 95,
+              "status": 200,
+              "title": "寄念 · 把旅途，寄成想念",
+              "unwound_url": "https://jinianpost.com/",
+              "url": "https://t.co/wNlpxzris0"
+            },
+            {
+              "display_url": "pic.x.com/qydomIy8ks",
+              "end": 142,
+              "expanded_url": "https://x.com/Gimi_min/status/2121050708002672988/video/1",
+              "media_key": "13_2121049346921877504",
+              "start": 119,
+              "url": "https://t.co/qydomIy8ks"
+            },
+            {
+              "display_url": "x.com/Gimi_min/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Gimi_min/status/2120416394995286040",
+              "start": 143,
+              "url": "https://t.co/3VSFMHsPQY"
+            }
+          ]
+        },
+        "id": "2121050708002672988",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10106,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 2,
+          "repost_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120416394995286040",
+            "type": "quoted"
+          }
+        ],
+        "text": "做了个明信片✉️邮票工具，连邮票都能挑你喜欢的\n整个工具植入我作为设计师经验，打磨好视觉和动效\n想提升 vibe coding 设计质感友友们\n推荐来感受下里面细节\n目前，网页端也可以体验：https://t.co/wNlpxzris0 https://t.co/qydomIy8ks https://t.co/3VSFMHsPQY"
+      },
+      {
+        "author_id": "1923981862273417222",
+        "conversation_id": "2122930319301267536",
+        "created_at": "2026-11-18T07:15:39.000Z",
+        "edit_history_post_ids": [
+          "2122951857341608263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014979760565456896",
+              "start": 0,
+              "username": "noahduck283"
+            }
+          ]
+        },
+        "id": "2122951857341608263",
+        "in_reply_to_user_id": "2014979760565456896",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "repost_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2122930319301267536",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@noahduck283 我相信历史这么长，很多社会发展、商业化的逻辑一定是底层相通的 （这就是我昨天那个截图里说的，一些更宏大的东西"
+      }
+    ],
+    "users": [
+      {
+        "id": "1916622377414475776",
+        "name": "税后中国(变化已经发生，风暴只是结果)",
+        "protected": false,
+        "username": "ChinaTaxTruth"
+      },
+      {
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "protected": false,
+        "username": "bbkirstry"
+      },
+      {
+        "id": "1997889576187387904",
+        "name": "铁柱AGI",
+        "protected": false,
+        "username": "cgnot996"
+      },
+      {
+        "id": "1574358430877261824",
+        "name": "momoai沫沫🫧",
+        "protected": false,
+        "username": "momoai_daily"
+      },
+      {
+        "id": "1992267096424955904",
+        "name": "flyliu",
+        "protected": false,
+        "username": "Flyl1u"
+      },
+      {
+        "id": "1874017517385216000",
+        "name": "黄啊码",
+        "protected": false,
+        "username": "ama_huangama"
+      },
+      {
+        "id": "1784047650301767680",
+        "name": "yan（AI搞钱约会版）",
+        "protected": false,
+        "username": "ZhanlinYan74392"
+      },
+      {
+        "id": "1988839296309293056",
+        "name": "文子🔆",
+        "protected": false,
+        "username": "Eejoylove"
+      },
+      {
+        "id": "885347162233610242",
+        "name": "黄小木",
+        "protected": false,
+        "username": "ai_xiaomu"
+      },
+      {
+        "id": "1822961068106489856",
+        "name": "蒋云何",
+        "protected": false,
+        "username": "JiangK82705"
+      },
+      {
+        "id": "2047631450829471745",
+        "name": "Adrian Punk",
+        "protected": false,
+        "username": "AdrianPunk115"
+      },
+      {
+        "id": "910618496949641216",
+        "name": "Hi～腹肌",
+        "protected": false,
+        "username": "AllanHan_ZQ86"
+      },
+      {
+        "id": "1666307873939374080",
+        "name": "王帅真",
+        "protected": false,
+        "username": "qizong007"
+      },
+      {
+        "id": "2076945465044815872",
+        "name": "寻辰沐雨",
+        "protected": false,
+        "username": "Rainandust"
+      },
+      {
+        "id": "2094996302845321216",
+        "name": "潇洒哥",
+        "protected": false,
+        "username": "XiaosaGe1231"
+      },
+      {
+        "id": "1994052050691526656",
+        "name": "Elio",
+        "protected": false,
+        "username": "Elio2026_"
+      },
+      {
+        "id": "1757441462889820172",
+        "name": "吃饼",
+        "protected": false,
+        "username": "bnggn173634"
+      },
+      {
+        "id": "1866821173755121666",
+        "name": "木马人",
+        "protected": false,
+        "username": "cnyzgkc"
+      },
+      {
+        "id": "1650706290929446912",
+        "name": "蜗牛King 👑",
+        "protected": false,
+        "username": "isnail"
+      },
+      {
+        "id": "1242996498675032065",
+        "name": "Mai Yang",
+        "protected": false,
+        "username": "MaiYangAI"
+      },
+      {
+        "id": "1948617974254125056",
+        "name": "Gimi 米未可",
+        "protected": false,
+        "username": "Gimi_min"
+      },
+      {
+        "id": "2014979760565456896",
+        "name": "诺鸭船长3",
+        "protected": false,
+        "username": "noahduck283"
+      },
+      {
+        "id": "1976290050187952128",
+        "name": "Gretta | AI Events",
+        "protected": false,
+        "username": "GrettaSun77"
+      }
+    ]
+  },
+  "meta": {
+    "result_count": 24
+  }
+}
