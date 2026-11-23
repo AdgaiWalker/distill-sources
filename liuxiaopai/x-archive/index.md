@@ -70,7 +70,7 @@
 ## 类型标签
 
 原料全收，只打类型标签，不按类型删除（哆啦 2026-11-22 定）。
-由 `scripts/tag_x.py` 生成；每条一个 `post_type`，优先级：retweet > article > long > quote > self-thread > reply > original。
+由 `tools/tag_x.py` 生成；每条一个 `post_type`，优先级：retweet > article > long > quote > self-thread > reply > original。
 完整表见仓库根目录 [index/x-posts.csv](../../index/x-posts.csv)。
 
 蒸馏时：主料是原创（original、self-thread）和长文（article、long）；

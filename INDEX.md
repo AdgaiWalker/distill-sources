@@ -1,60 +1,77 @@
-# 蒸馏原料索引
+# 目录与来源
 
-三层结构：**用途 → 人 → 来源类型**。
+每个目录装的是什么、从哪来。按人统计见 [COVERAGE.md](COVERAGE.md)，逐条原料见 `manifest.jsonl`。原文不移动、不改名、不改内容；唯一例外是封存窗口内的原文会被挡在本仓外，见 [HOLDOUT.md](HOLDOUT.md)。
 
-- **用途**：这种知识能帮着蒸馏出哪类 skill。每人一个主用途，可以有多个用途。已用：出海、产品、AI 工具。可扩展（例如 IP、具身智能）。
-- **人**：每人一张人物卡，见 `people/<slug>.md`。
-- **来源类型**：`wechat`（公众号）/ `group-chat`（会员群）/ `x` / `github` / `notes`（笔记）/ `feishu`（飞书知识库）。
+## 出海
 
-原文件不移动、不改名、不改内容。本文件与 `index/classification.csv`、人物卡里的材料清单由 [`scripts/classify.py`](scripts/classify.py) 根据 [`people.yaml`](people.yaml) 生成，可重跑。
+### 哥飞 `gefei`
 
-生成时间：2026-11-23 17:29（北京时间）。合计条目：1536。
+| 目录 | 内容 | 来源 | 可见性 |
+|---|---|---|---|
+| `gefei/wechat-articles/` | 公众号正文 markdown，文件名是「日期_标题」 | 哥飞公众号（无单独上游仓库） | public |
+| `gefei/group-chat/` | 会员群记录与截图 | 会员群本地整理 | member |
+| `gefei/github-seed/` | 会员导出的公众号资料副本和导出脚本（检索时标为他人汇编，与原文同名会折叠） | [mundane799699/gefei_mp_export](https://github.com/mundane799699/gefei_mp_export)，收录时 commit `105cd6b` | public |
+| `gefei/github-member-repos/` | 各会员整理的哥飞相关仓库（他人汇编），每个子目录有 `UPSTREAM.md` | 见下表 | public |
 
-## 用途：出海
+会员整理仓（2026-11-22 收录时的 HEAD）：
 
-这类知识用来蒸馏「出海」相关 skill。2 人，1212 条。
+| 子目录 | 上游 | commit |
+|---|---|---|
+| `32103210_gefei-seo-guide` | https://github.com/32103210/gefei-seo-guide.git | `37d64004bf980ebaaccb8dde0527856b03404eb9` |
+| `32103210_gefei-seo-handbook` | https://github.com/32103210/gefei-seo-handbook.git | `fe354f87ed34d6865e8c38d8bb748aa5569b914d` |
+| `Hubert111_gefei-archive` | https://github.com/Hubert111/gefei-archive.git | `1f9386c24ace04b728b69fe2121dd8a578d2f769` |
+| `Jayin_gefei-seo-cookbook` | https://github.com/Jayin/gefei-seo-cookbook.git | `0d73d58141a30095b4ef72f3c4a4b71e05721cb3` |
+| `Maynor996_gefei-community-double11-renew-2026` | https://github.com/Maynor996/gefei-community-double11-renew-2026 | `0191a051544c77156af7d471d23ec48d230a34e1` |
+| `OpenGeFei` | https://github.com/qiayue/OpenGeFei | `4b9243a6737824957b937864c9446c0ce2c3be45` |
+| `dokibbu_gefei-450-articles` | https://github.com/dokibbu/gefei-450-articles.git | `2148dfb84c0c41193e9389747b5762daa1164cca` |
+| `gangbo_gefei-make-money` | https://github.com/gangbo/gefei-make-money | `4a9859f52cfb1162997e4d96dc68f002cac2e553` |
+| `hanshan0228_gefei-perspective` | https://github.com/hanshan0228/gefei-perspective.git | `bbd6f764a873a12d460c0be1d836b8d2eb7ae356` |
+| `hlwhut225_gefei-knowledge-base` | https://github.com/hlwhut225/gefei-knowledge-base.git | `406c7e36206a9907c51e2d71494a14a88b5b9517` |
+| `huodesheng_sitemap-monitor-ext` | https://github.com/huodesheng/sitemap-monitor-ext.git | `187ce04f00c1b1c2e5754de2fd5b9dc04185595b` |
+| `ifyour_gefei-seo-skill` | https://github.com/ifyour/gefei-seo-skill.git | `3fea58a54ab3cff7ec425e8114be4d2c385ce648` |
+| `tens1x_gefei-perspective-skill` | https://github.com/tens1x/gefei-perspective-skill.git | `b2a719ca9eadb3cdbac543ac4f38fe359279540b` |
+| `wentao-hu_gefei-learn` | https://github.com/wentao-hu/gefei-learn.git | `8eb3566f655a22298cf8f39f85eda53ce30fcbde` |
+| `yuanqingsong2024_gefei-quest` | https://github.com/yuanqingsong2024/gefei-quest.git | `bf4e128f829da4aa942ecd9db5f87b6025d63e79` |
 
-| 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |
-|---|---|---|---:|---:|---:|---|
-| 哥飞 | 出海 | 出海 | 1211 | 1207 | 4 | [gefei.md](people/gefei.md) |
-| 西门 | 出海 | 出海 | 1 | 0 | 1 | [ximen.md](people/ximen.md) |
+### 西门 `ximen`
 
-## 用途：产品
+| 目录 | 内容 | 来源 | 可见性 |
+|---|---|---|---|
+| `gefei/ximen-notes/` | 西门出海经验笔记（历史路径，不搬） | 哆啦整理（检索时标为他人汇编） | member |
 
-这类知识用来蒸馏「产品」相关 skill。1 人，49 条。
+## 产品
 
-| 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |
-|---|---|---|---:|---:|---:|---|
-| 刘小排 | 产品 | 产品 | 49 | 49 | 0 | [liuxiaopai.md](people/liuxiaopai.md) |
+### 刘小排 `liuxiaopai`
 
-## 用途：AI 工具
+| 目录 | 内容 | 来源 | 可见性 |
+|---|---|---|---|
+| `liuxiaopai/x-archive/` | X 归档：`index.md`、`all.md`、`articles/`（长文与长帖）、`raw/`（原始 JSON） | [@bourneliu66](https://x.com/bourneliu66) | public |
 
-这类知识用来蒸馏「AI 工具」相关 skill。1 人，45 条。
+## AI 工具
 
-| 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |
-|---|---|---|---:|---:|---:|---|
-| 土豆姐（lauren） | AI 工具 | AI 工具 | 45 | 45 | 0 | [poteto.md](people/poteto.md) |
+### 土豆姐 `poteto`
 
-## 用途：自媒体
+| 目录 | 内容 | 来源 | 可见性 |
+|---|---|---|---|
+| `poteto/x-archive/` | X 归档（Grok Bot 相关帖在 `all.md`，取到但无关的在 `other.md`） | [@poteto](https://x.com/poteto) | public |
 
-这类知识用来蒸馏「自媒体」相关 skill。2 人，230 条。
+## 自媒体
 
-| 人 | 主用途 | 全部用途 | 条目 | public | member | 人物卡 |
-|---|---|---|---:|---:|---:|---|
-| 小晚不在 | 自媒体 | 自媒体 | 146 | 146 | 0 | [bbkirstry.md](people/bbkirstry.md) |
-| 逸尘 | 自媒体 | 自媒体 | 84 | 84 | 0 | [gengdaj.md](people/gengdaj.md) |
+### 小晚不在 `bbkirstry`
 
-## 可见性
+| 目录 | 内容 | 来源 | 可见性 |
+|---|---|---|---|
+| `bbkirstry/x-archive/` | X 归档（未翻完全部公开帖）。2026-09-23 至 2026-11-23 的帖子是验证区，不在本仓 | [@bbkirstry](https://x.com/bbkirstry) | public |
+| `bbkirstry/feishu-kb/` | 飞书知识库导出：根目录是 Word/Excel 原件，`md/` 是 Markdown 转换稿和工具表 CSV，`md/media/` 是插图。验证区的 9 篇不在本仓 | 小晚不在飞书知识库，2026-11-23 经哆啦批准公开 | public |
 
-合计 public 1531，member 5。
+部分飞书 Word 缺 `tblGrid`，转换时补上了，以免章节目录表丢失。导出方法见 `bbkirstry/feishu-kb/README.md`。
 
-- `public`：公开公众号文章、公开 X 帖、公开的开源仓库，以及上游已公开的 GitHub 整理资料。
-- `member`：来源为会员群转录/截图，或仓主整理的非公开出处笔记。本仓现已公开；这些条目经仓主决定一并收入，标签只说明来源，不表示禁止公开。
+### 逸尘 `gengdaj`
 
-细目来源见 [SOURCES.md](SOURCES.md)。新增一个人的步骤见 [README.md](README.md)。
+| 目录 | 内容 | 来源 | 可见性 |
+|---|---|---|---|
+| `gengdaj/x-archive/` | X 归档（未翻完全部公开帖） | [@gengdaJ](https://x.com/gengdaJ) | public |
 
-## 重跑
+## X 归档的共同结构
 
-```bash
-python3 scripts/classify.py
-```
+`index.md`（账号、抓取范围、类型统计）、`all.md`（按时间正序的合并全文）、`articles/YYYY-MM-DD_slug.md`（长文、长帖、长线程）、`raw/`（接口原始 JSON）。每条帖的类型标签在 `index/x-posts.csv`。

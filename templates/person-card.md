@@ -26,16 +26,13 @@ visibility: 待补
 
 待补。
 
-## 材料清单
+## 材料
 
-<!-- BEGIN MATERIAL LIST -->
-运行 `python3 scripts/classify.py` 后自动生成。
-<!-- END MATERIAL LIST -->
+用 `python3 tools/query.py --person <slug> --brief --limit 0` 列出全部原料。
 
 ## 如何补充新材料
 
 1. 把新的原始文件放进该人在 `people.yaml` 里登记的目录（不要改已有原文，不要改名）。
 2. 若是新的来源类型或可见性，先改仓库根目录的 `people.yaml`。
-3. 若更新了 X 归档，在仓库根目录先运行 `python3 scripts/tag_x.py` 重新打类型标签。
-4. 再运行 `python3 scripts/classify.py`。
-5. 可见性拿不准时可先标 `member`（表示来源，不表示禁止公开）。
+3. 在仓库根目录运行 `python3 tools/refresh.py --fetched`（打 X 类型标签、重建清单和覆盖率）。
+4. 可见性拿不准时可先标 `member`（表示来源，不表示禁止公开）。

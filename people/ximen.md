@@ -32,27 +32,13 @@ visibility: member
 
 待补。
 
-## 材料清单
+## 材料
 
-<!-- BEGIN MATERIAL LIST -->
-共 1 条；public 0，member 1。
-主用途：出海。全部用途：出海。
-材料日期覆盖至：2026-10-27。
-
-由 `scripts/classify.py` 根据 `people.yaml` 生成。原文件未移动。
-
-## `gefei/ximen-notes`
-
-来源类型：notes（笔记）。可见性：member。1 条。
-
-| 日期 | 标题 | 路径 |
-|---|---|---|
-| 2026-10-27 | [西门出海经验整理（哆啦笔记 · 2026-10-27）](../gefei/ximen-notes/2026-10-27-出海经验整理.md) | `gefei/ximen-notes/2026-10-27-出海经验整理.md` |
-<!-- END MATERIAL LIST -->
+用 `python3 tools/query.py --person ximen --brief --limit 0` 列出全部原料。
 
 ## 如何补充新材料
 
 1. 把新的笔记放进 `gefei/ximen-notes/`（历史路径，不要新建目录来搬旧文件，不要改已有原文）。
 2. 若改来源类型或可见性，先改 `people.yaml`。
-3. 在仓库根目录运行 `python3 scripts/classify.py`。
+3. 在仓库根目录运行 `python3 tools/refresh.py --fetched`。
 4. 这篇笔记不是原作者的公开文章，来源仍标 `member`；经仓主决定已随本仓一并公开。标签只说明来源，不表示禁止公开。
