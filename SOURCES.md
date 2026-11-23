@@ -16,7 +16,7 @@
 | `poteto/x-archive/` | `/workspace/x-archive/poteto/` | 无代码仓库；内容来自 [@poteto](https://x.com/poteto) 公开 X 帖（Grok Bot 相关为主） | 88 | 4.5M |
 | `bbkirstry/x-archive/` | `/workspace/x-archive/bbkirstry/` | 无代码仓库；内容来自 [@bbkirstry](https://x.com/bbkirstry) 公开 X 帖 | 95 | 4.9M |
 | `bbkirstry/feishu-kb/` | `/workspace/私有原料/小晚知识库/` | 飞书知识库 https://scn05304jwti.feishu.cn/wiki/ILFPwo7mBij3loks3AwcWCSYnCr ；2026-11-23 经哆啦批准公开 | 288 | 13M |
-| `bbkirstry/cognitive-model/` | `/workspace/私有原料/小晚认知模型/` | 无单独上游仓库；AGE-13 工作原料。2026-11-23 经哆啦批准公开 | 36 | 17M |
+| `bbkirstry/cognitive-model/` | `/workspace/私有原料/小晚认知模型/` | 无单独上游仓库；AGE-13 工作原料。2026-11-23 经哆啦批准公开 | 37 | 15M |
 | `gengdaj/x-archive/` | `/workspace/x-archive/gengdaJ/` | 无代码仓库；内容来自 [@gengdaJ](https://x.com/gengdaJ) 公开 X 帖 | 117 | 4.2M |
 | `gefei/github-member-repos/` | `/workspace/gefei/github-refs/` | 见下表各仓 | 4488（另加各目录 `UPSTREAM.md`） | 470M |
 
@@ -77,7 +77,7 @@
 
 ### 小晚认知模型 `bbkirstry/cognitive-model/`
 
-2026-11-23 经哆啦批准公开。本机原目录为 `/workspace/私有原料/小晚认知模型/`（复制入库，未移动原文）。`标注/` 为推送时的工作快照。
+2026-11-23 经哆啦批准公开。本机原目录为 `/workspace/私有原料/小晚认知模型/`（复制入库，未移动原文）。`标注/` 为训练集标注（`annotations.jsonl`、`标注说明.md`、`初步规律.md`）。
 
 - `X档案补全/`：551 条公开 X 帖的补全（`posts_enriched.json`）、`进度.md`、接口回包 `fetch_raw/`
 - `封存测试集/`：2026-09-23 至 2026-11-23 的预留验证集（X 369 条 + 飞书 9 篇）。标注和写认知卡时不要打开。详见 `SEALED.md`

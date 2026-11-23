@@ -52,7 +52,7 @@ X 原料全收，只打类型标签（`scripts/tag_x.py`，见 `index/x-posts.cs
 | 日期 | 标题 | 路径 |
 |---|---|---|
 | — | [训练集索引（小晚认知模型 · AGE-13）](../bbkirstry/cognitive-model/训练集索引.md) | `bbkirstry/cognitive-model/训练集索引.md` |
-| — | [标注工作快照（2 个文件）](../bbkirstry/cognitive-model/标注/) | `bbkirstry/cognitive-model/标注/` |
+| — | [训练集标注（annotations.jsonl、标注说明、初步规律）](../bbkirstry/cognitive-model/标注/) | `bbkirstry/cognitive-model/标注/` |
 | — | [封存测试集（标注时勿读）（1 个文件）](../bbkirstry/cognitive-model/封存测试集/) | `bbkirstry/cognitive-model/封存测试集/` |
 | — | [X档案补全（posts_enriched 与 fetch_raw）（4 个文件）](../bbkirstry/cognitive-model/X档案补全/) | `bbkirstry/cognitive-model/X档案补全/` |
 | — | [小晚认知模型（AGE-13）原料](../bbkirstry/cognitive-model/README.md) | `bbkirstry/cognitive-model/README.md` |

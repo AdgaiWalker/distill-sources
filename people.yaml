@@ -104,7 +104,7 @@ people:
           - rel: 封存测试集
             title: 封存测试集（标注时勿读）
           - rel: 标注
-            title: 标注工作快照
+            title: 训练集标注（annotations.jsonl 与说明、规律）
   - slug: gengdaj
     name: 逸尘
     primary_purpose: 自媒体
