@@ -1,6 +1,6 @@
 # 原料覆盖率
 
-由 [`tools/coverage.py`](tools/coverage.py) 根据 [`manifest.jsonl`](manifest.jsonl) 生成（2026-11-23 17:36 北京时间）。
+由 [`tools/coverage.py`](tools/coverage.py) 根据 [`manifest.jsonl`](manifest.jsonl) 生成（2026-11-23 19:31 北京时间）。
 原文件未移动、未改内容。本报告只统计清单，不含会员内容原文。
 
 报警阈值：

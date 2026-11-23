@@ -34,3 +34,15 @@
 {"ts": "2026-11-23 17:36:10", "run": "5c486754", "event": "step_ok", "step": "coverage", "code": 1, "tail": [" - 逸尘（gengdaj）：2 段超过 30 天的断档"]}
 {"ts": "2026-11-23 17:36:10", "run": "5c486754", "event": "coverage_alarm", "count": 7}
 {"ts": "2026-11-23 17:36:10", "run": "5c486754", "event": "refresh_end", "ok": true, "failed": null}
+{"ts": "2026-11-23 19:31:56", "run": "233b89aa", "event": "refresh_start", "mode": "refresh"}
+{"ts": "2026-11-23 19:31:56", "run": "233b89aa", "event": "step_start", "step": "holdout_filter"}
+{"ts": "2026-11-23 19:31:56", "run": "233b89aa", "event": "step_ok", "step": "holdout_filter", "code": 0, "tail": ["{\"x_posts\": 0, \"all_md_blocks\": 0, \"index_rows\": 0, \"articles\": 0, \"feishu_files\": 0}"]}
+{"ts": "2026-11-23 19:31:56", "run": "233b89aa", "event": "step_start", "step": "tag_x"}
+{"ts": "2026-11-23 19:31:56", "run": "233b89aa", "event": "step_ok", "step": "tag_x", "code": 0, "tail": ["wrote /workspace/distill-sources/index/x-posts.csv (1942 rows)"]}
+{"ts": "2026-11-23 19:31:56", "run": "233b89aa", "event": "step_start", "step": "build_manifest"}
+{"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "step_ok", "step": "build_manifest", "code": 0, "tail": ["wrote manifest.jsonl  2026-11-23 19:31 北京时间"]}
+{"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "manifest_count", "entries": 3272}
+{"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "step_start", "step": "coverage"}
+{"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "step_ok", "step": "coverage", "code": 1, "tail": [" - 逸尘（gengdaj）：2 段超过 30 天的断档"]}
+{"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "coverage_alarm", "count": 7}
+{"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "refresh_end", "ok": true, "failed": null}

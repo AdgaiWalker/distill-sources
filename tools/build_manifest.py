@@ -463,6 +463,23 @@ def _title_of(rec: dict, posts_by_path: dict) -> str:
     return re.sub(r"^20\d{6}_", "", stem)
 
 
+# 公众号正文开头的他人署名信号（标题看不出、正文写明是别人写的）。只看正文前 1500 字。
+_GUEST_BODY = re.compile(
+    r"(本文作者|作者[:：]\s*(?!哥飞)\S|投稿|授权转载|以下内容来自"
+    r"|下面[\u4e00-\u9fa5A-Za-z]{1,6}会(详细)?(给大家|介绍)"
+    r"|大家好，?我是(?!哥飞)[\u4e00-\u9fa5A-Za-z]{1,6})"
+)
+
+
+def _guest_in_body(path: str) -> bool:
+    try:
+        text = (ROOT / path).read_text(encoding="utf-8", errors="replace")
+    except OSError:
+        return False
+    body = text.split("---", 1)[-1][:1500]
+    return bool(_GUEST_BODY.search(body))
+
+
 def _origin_of(rec: dict) -> str:
     rid, path, plat = rec.get("id") or "", rec.get("path") or "", rec.get("platform")
     if "github-member-repos/" in path or ":github-repo:" in rid or "github-seed/" in path:
@@ -474,7 +491,10 @@ def _origin_of(rec: dict) -> str:
     if plat == "x":
         return "other" if "post_type:retweet" in (rec.get("context_tags") or []) else "self"
     if plat == "wechat":
-        return _speaker_from_title(rec.get("title") or "")
+        who = _speaker_from_title(rec.get("title") or "")
+        if who == "self" and _guest_in_body(path):
+            return "quoted"
+        return who
     if plat == "feishu":
         # 小晚知识库的篇名常用「复盘」「群友」指她自己的教程对象，只认明确的他人讲者
         return _speaker_from_title(rec.get("title") or "", weak_signals=False)
