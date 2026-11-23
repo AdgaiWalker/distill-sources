@@ -1,4 +1,8 @@
-# distill-sources
+# distill-sources（每四天抓取一次）
+
+<!-- BEGIN FETCH META -->
+最近抓取时间：2026-11-23 04:01 北京时间
+<!-- END FETCH META -->
 
 这是一份**公开蒸馏原料仓**。只放原始材料，用来把「人」的知识蒸馏成 skill。
 
@@ -61,7 +65,7 @@ python3 scripts/tag_x.py
 
 ## 原料统计
 
-由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 04:18 北京时间）。只列统计数字，不含会员内容原文。更新原料后请依次跑 `tag_x.py`、`classify.py`、`stats.py`。
+由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（2026-11-23 10:24 北京时间）。只列统计数字，不含会员内容原文。成功抓取后请依次跑 `record_fetch.py`、`tag_x.py`、`classify.py`、`stats.py`。
 
 ### X 帖子类型
 
@@ -109,19 +113,24 @@ X 列是归档文件条目（`index.md` / `all.md` / `articles/` / `raw/`），�
 
 ## 重跑索引
 
-X 归档更新后先打标签，再重跑分类与原料统计：
+成功抓取新原料后，先记录抓取时间，再打标签、重跑分类与原料统计：
 
 ```bash
+python3 scripts/record_fetch.py
 python3 scripts/tag_x.py
 python3 scripts/classify.py
 python3 scripts/stats.py
 ```
 
+无新内容时不要跑 `record_fetch.py`，以免刷新「最近抓取时间」。
+
+`record_fetch.py` 把本次抓取的北京时间写入 [`index/last-fetch.txt`](index/last-fetch.txt)。四天一次的定时更新在成功入库后也应先跑此脚本。
+
 `tag_x.py` 写出 `index/x-posts.csv`，并只更新各人 `x-archive/index.md` 中 `<!-- BEGIN X TYPE TAGS -->` 与 `<!-- END X TYPE TAGS -->` 之间的类型统计，不删原文。
 
 `classify.py` 读 `people.yaml`，覆盖生成 `INDEX.md`、`index/classification.csv`，并只更新人物卡中 `<!-- BEGIN MATERIAL LIST -->` 与 `<!-- END MATERIAL LIST -->` 之间的清单，手写部分不动。时间使用北京时间。
 
-`stats.py` 根据上述两份 csv 生成 README「原料统计」两张合计表，只替换 `<!-- BEGIN STATS -->` 与 `<!-- END STATS -->` 之间的内容，不写入会员内容原文。
+`stats.py` 根据上述两份 csv 生成 README「原料统计」两张合计表，只替换原料统计标记之间的内容，不写入会员内容原文。同时读取 `index/last-fetch.txt`，把「最近抓取时间」写到主标题正下方，不会用脚本运行时刻冒充抓取时间。
 
 ## 不收录
 

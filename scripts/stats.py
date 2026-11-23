@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""生成 README「原料统计」一节。
+"""生成 README「原料统计」一节，并刷新标题下的「最近抓取时间」。
 
 用法（在仓库根目录）：
 
@@ -9,7 +9,11 @@
 替换 README.md 中 <!-- BEGIN STATS --> 与 <!-- END STATS --> 之间的内容。
 只写统计数字，不把会员内容原文写入 README。
 
-定时更新：先跑 tag_x.py、classify.py，再跑本脚本。
+「最近抓取时间」读自 index/last-fetch.txt（由 scripts/record_fetch.py 在成功抓取后写入），
+写入 README 主标题下 <!-- BEGIN FETCH META --> 与 <!-- END FETCH META --> 之间。
+不要用本脚本运行时刻冒充抓取时间。
+
+定时更新：成功抓取后先跑 record_fetch.py，再跑 tag_x.py、classify.py，最后跑本脚本。
 """
 from __future__ import annotations
 
@@ -25,10 +29,15 @@ README = ROOT / "README.md"
 PEOPLE_YAML = ROOT / "people.yaml"
 X_POSTS_CSV = ROOT / "index" / "x-posts.csv"
 CLASSIFICATION_CSV = ROOT / "index" / "classification.csv"
+LAST_FETCH = ROOT / "index" / "last-fetch.txt"
 
 BJ = dt.timezone(dt.timedelta(hours=8))
 BEGIN = "<!-- BEGIN STATS -->"
 END = "<!-- END STATS -->"
+FETCH_BEGIN = "<!-- BEGIN FETCH META -->"
+FETCH_END = "<!-- END FETCH META -->"
+TITLE_LINE = "# distill-sources（每四天抓取一次）"
+TIME_RE = re.compile(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}")
 
 # 与 classify.py 的来源类型一致
 SOURCE_TYPES = ("wechat", "group-chat", "github", "x", "notes")
@@ -57,6 +66,66 @@ INSERT_BEFORE = "## 可见性规则"
 
 def now_beijing() -> str:
     return dt.datetime.now(BJ).strftime("%Y-%m-%d %H:%M")
+
+
+def read_last_fetch() -> tuple[str | None, str | None]:
+    """返回 (北京时间 YYYY-MM-DD HH:MM, 数据来源说明)。文件不存在或无法解析则 (None, None)。"""
+    if not LAST_FETCH.is_file():
+        return None, None
+    time_str = None
+    source = None
+    for raw in LAST_FETCH.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.lower().startswith("source:"):
+            source = line.split(":", 1)[1].strip()
+            continue
+        if line.lower().startswith("timezone:"):
+            continue
+        if line.lower().startswith("time:"):
+            line = line.split(":", 1)[1].strip()
+        m = TIME_RE.search(line)
+        if m and time_str is None:
+            time_str = m.group(0)
+    return time_str, source
+
+
+def render_fetch_meta(time_str: str | None) -> str:
+    if time_str:
+        body = f"最近抓取时间：{time_str} 北京时间"
+    else:
+        body = "最近抓取时间：尚无记录（成功抓取后请先跑 `python3 scripts/record_fetch.py`）"
+    return f"{FETCH_BEGIN}\n{body}\n{FETCH_END}\n"
+
+
+def upsert_fetch_meta(text: str) -> str:
+    """把「最近抓取时间」写到主标题正下方；主标题统一为每四天抓取一次。
+
+    只处理文件开头、紧挨主标题的那一块，避免误伤后文说明里碰巧出现的标记文字。
+    """
+    time_str, _source = read_last_fetch()
+    block = render_fetch_meta(time_str)
+    lines = text.splitlines(keepends=True)
+    if lines and lines[0].startswith("# distill-sources"):
+        lines[0] = TITLE_LINE + "\n"
+        text = "".join(lines)
+    elif not text.startswith(TITLE_LINE):
+        text = TITLE_LINE + "\n\n" + text
+
+    # 若开头已有 FETCH META 块（主标题后、第一段正文前），只替换这一块
+    prefix = text[:800]
+    if FETCH_BEGIN in prefix and FETCH_END in prefix:
+        pre, rest = text.split(FETCH_BEGIN, 1)
+        # 标记必须紧挨标题（中间只允许空行）
+        if pre.strip() == TITLE_LINE:
+            _, post = rest.split(FETCH_END, 1)
+            post = post.lstrip("\n")
+            return TITLE_LINE + "\n\n" + block + "\n" + post
+
+    # 否则插入标题后；若标题下已有旧块残片，先去掉紧随其后的一块
+    rest = text[len(TITLE_LINE):].lstrip("\n") if text.startswith(TITLE_LINE) else text
+    return TITLE_LINE + "\n\n" + block + "\n" + rest
 
 
 def load_people_order() -> list[tuple[str, str]]:
@@ -201,7 +270,7 @@ def render(people: list[tuple[str, str]]) -> str:
         "",
         "## 原料统计",
         "",
-        f"由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（{ts} 北京时间）。只列统计数字，不含会员内容原文。更新原料后请依次跑 `tag_x.py`、`classify.py`、`stats.py`。",
+        f"由 [`scripts/stats.py`](scripts/stats.py) 根据 [`index/x-posts.csv`](index/x-posts.csv) 与 [`index/classification.csv`](index/classification.csv) 生成（{ts} 北京时间）。只列统计数字，不含会员内容原文。成功抓取后请依次跑 `record_fetch.py`、`tag_x.py`、`classify.py`、`stats.py`。",
         "",
         "### X 帖子类型",
         "",
@@ -235,6 +304,7 @@ def upsert_readme(section: str) -> None:
         new = pre.rstrip() + "\n\n" + section + INSERT_BEFORE + post
     else:
         new = text.rstrip() + "\n\n" + section
+    new = upsert_fetch_meta(new)
     README.write_text(new, encoding="utf-8")
 
 
