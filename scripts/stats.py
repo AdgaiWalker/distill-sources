@@ -317,7 +317,18 @@ def main() -> int:
     body = section.split(BEGIN, 1)[1].split(END, 1)[0].strip()
     print(body)
     print(f"updated {README.relative_to(ROOT)}", file=sys.stderr)
+    _run_corpus_tools()
     return 0
+
+
+def _run_corpus_tools() -> None:
+    """追加调用：重建 manifest 与覆盖率。失败只打印警告，不改变本脚本退出码。"""
+    import subprocess
+
+    for script in ("tools/build_manifest.py", "tools/coverage.py"):
+        r = subprocess.run([sys.executable, str(ROOT / script)], cwd=ROOT)
+        if r.returncode != 0:
+            print(f"警告: {script} 退出码 {r.returncode}（不影响 stats.py）", file=sys.stderr)
 
 
 if __name__ == "__main__":

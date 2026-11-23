@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/AdgaiWalker/distill-sources/schema/manifest.schema.json",
+  "title": "distill-sources manifest 条目",
+  "description": "manifest.jsonl 中一行的一条原始数据。仓库只收原始数据，不放蒸馏结论。",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "person",
+    "platform",
+    "kind",
+    "date",
+    "source_url",
+    "path",
+    "sha256",
+    "license_status",
+    "context_tags",
+    "fetched_at",
+    "holdout"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "稳定唯一编号，形如 {person}:{platform}:{key}。"
+    },
+    "person": {
+      "type": "string",
+      "minLength": 1,
+      "description": "人物 slug，与 people.yaml 一致，例如 bbkirstry、gefei。"
+    },
+    "platform": {
+      "type": "string",
+      "enum": ["wechat", "x", "feishu", "group-chat", "github", "notes", "other"]
+    },
+    "kind": {
+      "type": "string",
+      "enum": ["said", "did", "corrected", "rejected", "other", "unknown"],
+      "description": "said=说的话；did=做的产物；corrected=对他人的纠正；rejected=放弃或否定的内容；other=其他能判断的类型；unknown=现有标签无法判断，不准编造。"
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^$|^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "description": "条目自身日期，北京时间日历日。未知则为空字符串。"
+    },
+    "source_url": {
+      "type": "string",
+      "description": "原始出处链接。未知则为空字符串，不准编造。"
+    },
+    "path": {
+      "type": "string",
+      "minLength": 1,
+      "description": "仓库内相对路径。JSON 集合中的单条（如一条 X 帖）路径指向该 JSON，用 id 区分。"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$",
+      "description": "本条内容的 SHA-256。文件用文件字节；X 帖用该帖 JSON 的规范序列化；GitHub 会员仓用目录树哈希。"
+    },
+    "license_status": {
+      "type": "string",
+      "enum": ["公开", "会员内容经哆啦批准公开", "未知"]
+    },
+    "context_tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "平台、阶段等环境标签。没有依据则空数组，不准编造。"
+    },
+    "fetched_at": {
+      "type": "string",
+      "pattern": "^$|^[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}:[0-9]{2}$",
+      "description": "抓取时间，北京时间 YYYY-MM-DD HH:MM。未知则为空字符串。"
+    },
+    "holdout": {
+      "type": "boolean",
+      "description": "true 表示属于公共验证区，禁止用于蒸馏，query.py 默认不返回。"
+    }
+  }
+}

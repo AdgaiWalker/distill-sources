@@ -27,6 +27,18 @@
 - 会员 GitHub 仓只记到仓（见各目录 `UPSTREAM.md`），不逐文件打标签。`github-seed` 归哥飞。
 - 更细的本机原路径、上游 URL、文件数与大小见 [SOURCES.md](SOURCES.md)。
 
+## 机器可读清单与检索
+
+目录结构和已有文件保持不动。新增的数据格式、清单和检索工具见 [SCHEMA.md](SCHEMA.md)。
+
+- 字段与 JSON Schema：[SCHEMA.md](SCHEMA.md)、[schema/manifest.schema.json](schema/manifest.schema.json)
+- 清单：[`manifest.jsonl`](manifest.jsonl)（`python3 tools/build_manifest.py`，可增量）
+- 覆盖率：[COVERAGE.md](COVERAGE.md)（`python3 tools/coverage.py`）
+- 检索：`python3 tools/query.py`（默认排除封存验证区；`--json` 供 Agent 调用）
+- 公共验证区：[HOLDOUT.md](HOLDOUT.md)；成绩回填 [results.md](results.md)
+
+成功抓取后请依次跑 `record_fetch.py`、`tag_x.py`、`classify.py`、`stats.py`、`tools/build_manifest.py`、`tools/coverage.py`。
+
 当前材料：
 
 | 目录 | 内容 | 人 | 来源类型 | 可见性 |
