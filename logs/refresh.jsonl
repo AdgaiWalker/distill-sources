@@ -46,3 +46,18 @@
 {"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "step_ok", "step": "coverage", "code": 1, "tail": [" - 逸尘（gengdaj）：2 段超过 30 天的断档"]}
 {"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "coverage_alarm", "count": 7}
 {"ts": "2026-11-23 19:31:58", "run": "233b89aa", "event": "refresh_end", "ok": true, "failed": null}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "refresh_start", "mode": "fetched"}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "step_start", "step": "record_fetch"}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "step_ok", "step": "record_fetch", "code": 0, "tail": ["wrote index/last-fetch.txt: 2026-11-25 10:17 北京时间"]}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "step_start", "step": "holdout_filter"}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "step_ok", "step": "holdout_filter", "code": 0, "tail": ["{\"x_posts\": 418, \"all_md_blocks\": 396, \"index_rows\": 38, \"articles\": 38, \"feishu_files\": 0}"]}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "holdout_removed", "x_posts": 418, "all_md_blocks": 396, "index_rows": 38, "articles": 38, "feishu_files": 0}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "step_start", "step": "tag_x"}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "step_ok", "step": "tag_x", "code": 0, "tail": ["wrote /workspace/distill-sources/index/x-posts.csv (2034 rows)"]}
+{"ts": "2026-11-25 10:17:04", "run": "924a1165", "event": "step_start", "step": "build_manifest"}
+{"ts": "2026-11-25 10:17:08", "run": "924a1165", "event": "step_ok", "step": "build_manifest", "code": 0, "tail": ["wrote manifest.jsonl  2026-11-25 10:17 北京时间"]}
+{"ts": "2026-11-25 10:17:08", "run": "924a1165", "event": "manifest_count", "entries": 3365}
+{"ts": "2026-11-25 10:17:08", "run": "924a1165", "event": "step_start", "step": "coverage"}
+{"ts": "2026-11-25 10:17:09", "run": "924a1165", "event": "step_ok", "step": "coverage", "code": 1, "tail": [" - 逸尘（gengdaj）：2 段超过 30 天的断档"]}
+{"ts": "2026-11-25 10:17:09", "run": "924a1165", "event": "coverage_alarm", "count": 7}
+{"ts": "2026-11-25 10:17:09", "run": "924a1165", "event": "refresh_end", "ok": true, "failed": null}

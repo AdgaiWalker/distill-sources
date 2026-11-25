@@ -1,6 +1,6 @@
 # @poteto X 归档索引（Grok Bot 相关）
 
-抓取时间：2026-11-22 18:10 北京时间
+抓取时间：2026-11-25 10:16 北京时间
 
 ## 账号
 
@@ -25,13 +25,13 @@
 - `@bot` 不含 “grok” 的回复在 2026-10 月中旬以前可能还有未翻完的页（有 `next_token`），未继续穷尽。
 - 转帖正文一般为 RT 摘要，完整原文取决于 includes；未再逐条展开每一条被转帖。
 
-已取到的相关帖时间范围：2026-08-12 01:20 北京时间 → 2026-11-22 17:10 北京时间。
+已取到的相关帖时间范围：2026-08-12 01:20 北京时间 → 2026-11-25 03:54 北京时间。
 
 ## 计数
 
-- 本次取回且去重后的 @poteto 帖：708
-- 判定与 Grok Bot 相关：595
-- 明显无关、写入 `other.md`：113
+- 本次取回且去重后的 @poteto 帖：722
+- 判定与 Grok Bot 相关：600
+- 明显无关、写入 `other.md`：122
 - 其中：原创帖 46 · 引用 64 · 引用回复 7 · 回复 231 · 转帖 247
 - 带 `note_tweet` 或 X Article 全文的相关长帖/长文：38（X Article 1）
 - `articles/` 独立 markdown：42 篇（长文 + 长帖 + 长线程）
@@ -59,17 +59,17 @@
 辅料是有方法或观点的回复（reply）和引用（quote），由 agy 按「有没有可执行方法」筛；
 纯寒暄和转帖（retweet）不读。
 
-- 合计：708
-- `original`（独立原创）：35
+- 合计：722
+- `original`（独立原创）：38
 - `article`（X Article）：1
 - `long`（长帖）：39
 - `self-thread`（自回复线程）：14
-- `reply`（回复别人）：282
-- `quote`（引用帖）：61
-- `retweet`（转帖）：276
-- 主料（original + article + long + self-thread）：89
-- 辅料候选（reply + quote）：343
-- 蒸馏时默认不读（retweet）：276
+- `reply`（回复别人）：286
+- `quote`（引用帖）：62
+- `retweet`（转帖）：282
+- 主料（original + article + long + self-thread）：92
+- 辅料候选（reply + quote）：348
+- 蒸馏时默认不读（retweet）：282
 
 <!-- END X TYPE TAGS -->
 

@@ -2,21 +2,12 @@
 
 - 类型：X Article
 - 链接：https://x.com/bourneliu66/status/2122310222111023116
-- 时间：2026-11-16 07:46 America/New_York（原文 UTC 2026-11-16T12:46:02.000Z）
+- 时间：2026-11-16 20:46 北京时间（原文 UTC 2026-11-16T12:46:02.000Z）
 - 数据：赞 104 · 转帖 6 · 回复 17 · 引用 7 · 书签 212 · 曝光 22462
 - 是否有全文：是（article.plain_text）
 - 帖子 ID：2122310222111023116
-- 预览：哈喽，大家好，我是刘小排。
-- 配图：
-  - https://pbs.twimg.com/media/HXP1CrTbsAAWQQ2.jpg
-  - https://pbs.twimg.com/media/HXP1RTRakAAdvnt.jpg
-  - https://pbs.twimg.com/media/HXP1agvagAACGAI.jpg
-  - https://pbs.twimg.com/media/HXP1d_VaYAEJEw4.jpg
-  - https://pbs.twimg.com/media/HXP1spZakAAVABp.jpg
 
 ## 正文
-
-我帮大家把 Dodo Payments 的费率打下来了
 
 哈喽，大家好，我是刘小排。
 之前我在公众号里推荐过 Waffo，不少做出海产品的同学现在还在用。

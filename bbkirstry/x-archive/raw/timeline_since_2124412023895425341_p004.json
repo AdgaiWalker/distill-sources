@@ -1,0 +1,1071 @@
+{
+  "data": [],
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2124830506495926272",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXzqFnuaYAAuHAI.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2124830506491789312",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXzqFntbQAAXUKB.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2124830506475044865",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXzqFnpbwAED9uB.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2124830506500186112",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXzqFnvbYAAmKFi.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2124830506516877312",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXzqFnzaEAA2NjI.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2264,
+        "media_key": "3_2124776094415122432",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXy4ma7a8AA62wX.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2124776094410891264",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXy4ma6aYAAItbw.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1183,
+        "media_key": "3_2124775462530650112",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXy4Bo-bEAAD5Do.jpg",
+        "width": 1146
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2124775462538973184",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXy4BpAaEAAmWzp.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1359,
+        "media_key": "3_2124725455362379776",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXyKi1wa0AAr_4K.jpg",
+        "width": 1320
+      },
+      {
+        "height": 678,
+        "media_key": "3_2124725455353946113",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXyKi1uaIAEenkd.jpg",
+        "width": 1320
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2124716938563891200",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXyCzGNbMAA1Vtk.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1704078779579322368",
+        "conversation_id": "2124830522207846714",
+        "created_at": "2026-11-23T11:58:12.000Z",
+        "edit_history_tweet_ids": [
+          "2124834901933576437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124834901933576437",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124830522207846714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 我也想去看看充满活人感的群🤒"
+      },
+      {
+        "author_id": "2035278073046908928",
+        "conversation_id": "2124725538258661632",
+        "created_at": "2026-11-23T06:35:33.000Z",
+        "edit_history_tweet_ids": [
+          "2124753702728990855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124753702728990855",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124725538258661632",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 哈哈哈哈哈哈   看你一个帖子 这周攒的功德全笑没了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124818628096983041"
+          ]
+        },
+        "author_id": "1825735044218105859",
+        "conversation_id": "2124469502473896206",
+        "created_at": "2026-11-23T10:53:34.000Z",
+        "edit_history_tweet_ids": [
+          "2124818634191327394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9tl4N5kyX",
+              "end": 45,
+              "expanded_url": "https://x.com/qifenglelelelel/status/2124818634191327394/photo/1",
+              "media_key": "3_2124818628096983041",
+              "start": 22,
+              "url": "https://t.co/h9tl4N5kyX"
+            }
+          ]
+        },
+        "id": "2124818634191327394",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124469502473896206",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 咱俩的不是一个GPT https://t.co/h9tl4N5kyX"
+      },
+      {
+        "author_id": "1851569650095824896",
+        "conversation_id": "2124775479882506751",
+        "created_at": "2026-11-23T09:05:37.000Z",
+        "edit_history_tweet_ids": [
+          "2124791467705336163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            },
+            {
+              "end": 23,
+              "id": "2009648784024956928",
+              "start": 11,
+              "username": "StopDisTran"
+            }
+          ]
+        },
+        "id": "2124791467705336163",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124775479882506751",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry @StopDisTran 真是帅闷了"
+      },
+      {
+        "author_id": "1788425773201915904",
+        "conversation_id": "2124775479882506751",
+        "created_at": "2026-11-23T10:01:59.000Z",
+        "edit_history_tweet_ids": [
+          "2124805655198581131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            },
+            {
+              "end": 23,
+              "id": "2009648784024956928",
+              "start": 11,
+              "username": "StopDisTran"
+            }
+          ]
+        },
+        "id": "2124805655198581131",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124775479882506751",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry @StopDisTran 这不是上次分享那个帅哥博主吗，这就遇见了，太有缘分了"
+      },
+      {
+        "author_id": "2009648784024956928",
+        "conversation_id": "2124775479882506751",
+        "created_at": "2026-11-23T10:08:51.000Z",
+        "edit_history_tweet_ids": [
+          "2124807381641269322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124807381641269322",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124775479882506751",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 晚➕🥺"
+      },
+      {
+        "author_id": "885347162233610242",
+        "conversation_id": "2124766653900882257",
+        "created_at": "2026-11-23T07:33:15.000Z",
+        "edit_history_tweet_ids": [
+          "2124768223178686965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124768223178686965",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 540,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124766653900882257",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 晚➕给帅哥安排上"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124554067313930240",
+            "3_2124554067284561920",
+            "3_2124554067276132352"
+          ]
+        },
+        "author_id": "2009648784024956928",
+        "conversation_id": "2124554077065625780",
+        "created_at": "2026-11-22T17:22:18.000Z",
+        "edit_history_tweet_ids": [
+          "2124554077065625780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1596695231717871616",
+              "start": 77,
+              "username": "dontbesilent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jb1XN8u77W",
+              "end": 114,
+              "expanded_url": "https://x.com/StopDisTran/status/2124554077065625780/photo/1",
+              "media_key": "3_2124554067313930240",
+              "start": 91,
+              "url": "https://t.co/Jb1XN8u77W"
+            },
+            {
+              "display_url": "pic.x.com/Jb1XN8u77W",
+              "end": 114,
+              "expanded_url": "https://x.com/StopDisTran/status/2124554077065625780/photo/2",
+              "media_key": "3_2124554067284561920",
+              "start": 91,
+              "url": "https://t.co/Jb1XN8u77W"
+            },
+            {
+              "display_url": "pic.x.com/Jb1XN8u77W",
+              "end": 114,
+              "expanded_url": "https://x.com/StopDisTran/status/2124554077065625780/photo/3",
+              "media_key": "3_2124554067276132352",
+              "start": 91,
+              "url": "https://t.co/Jb1XN8u77W"
+            }
+          ]
+        },
+        "id": "2124554077065625780",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8117,
+          "like_count": 33,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "“人死之前总得见识过一些东西，去看一些鲜有人知道的风景。”\n\n“但是如果思考才是收益呢？如果一个真正的好问题，有没有答案已经不那么重要呢？”\n\n最好的老师@dontbesilent https://t.co/Jb1XN8u77W"
+      },
+      {
+        "author_id": "42866784",
+        "conversation_id": "2124744936272933020",
+        "created_at": "2026-11-23T06:00:43.000Z",
+        "edit_history_tweet_ids": [
+          "2124744936272933020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "874126509245476864",
+              "start": 10,
+              "username": "DarioAmodei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chen_xiao95600…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/chen_xiao95600/status/2124720043086979210",
+              "start": 23,
+              "url": "https://t.co/kvDhH47uNs"
+            }
+          ]
+        },
+        "id": "2124744936272933020",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124720043086979210",
+            "type": "quoted"
+          }
+        ],
+        "text": "因为要 fuck  @DarioAmodei https://t.co/kvDhH47uNs"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124522964603514880"
+          ]
+        },
+        "author_id": "1707214568639086592",
+        "conversation_id": "2124522979669561714",
+        "created_at": "2026-11-22T15:18:44.000Z",
+        "edit_history_tweet_ids": [
+          "2124522979669561714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 164,
+              "id": "1759530111534243840",
+              "start": 154,
+              "username": "0xlangeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpRFULLVH5",
+              "end": 188,
+              "expanded_url": "https://x.com/KinGao476942/status/2124522979669561714/photo/1",
+              "media_key": "3_2124522964603514880",
+              "start": 165,
+              "url": "https://t.co/MpRFULLVH5"
+            }
+          ]
+        },
+        "id": "2124522979669561714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 164,
+                "id": "1759530111534243840",
+                "start": 154,
+                "username": "0xlangeai"
+              }
+            ]
+          },
+          "text": "重磅预告！距离最近的两个线上行业，一个是国内电商，另一个就是跨境电商！\n\nWayToBot 社区，明天（周一）晚上 8 点，将在推特迎来第二次 Space 直播，本次邀请到了跨境电商卖家 Zach 老师（公众号：Zach 的进化笔记）与我们分享怎么用 Grok bot 赋能亚马逊跨界电商！\n\n王牌主持蓝哥 @0xlangeai 也将继续出摊，欢迎感兴趣跨境电商和 Grok bot 搞钱的朋友们准时来收听呀～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5647,
+          "like_count": 18,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "text": "重磅预告！距离最近的两个线上行业，一个是国内电商，另一个就是跨境电商！\n\nWayToBot 社区，明天（周一）晚上 8 点，将在推特迎来第二次 Space 直播，本次邀请到了跨境电商卖家 Zach 老师（公众号：Zach 的进化笔记）与我们分享怎么用 Grok bot 赋能亚马逊跨界电商！\n\n王牌主持蓝哥 @0xlangeai https://t.co/MpRFULLVH5"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124730809584320512"
+          ]
+        },
+        "author_id": "2102763746456403968",
+        "conversation_id": "2124732868589130171",
+        "created_at": "2026-11-23T05:12:46.000Z",
+        "edit_history_tweet_ids": [
+          "2124732868589130171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5nb8X7ApD",
+              "end": 151,
+              "expanded_url": "https://x.com/QCTCH/status/2124732868589130171/photo/1",
+              "media_key": "3_2124730809584320512",
+              "start": 128,
+              "url": "https://t.co/L5nb8X7ApD"
+            },
+            {
+              "display_url": "x.com/bbkirstry/stat…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/bbkirstry/status/2124661709914710038",
+              "start": 152,
+              "url": "https://t.co/aTRsU8Ogba"
+            }
+          ]
+        },
+        "id": "2124732868589130171",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "“在重大人生课题上，人必须有能力把成本视作收益。”\n\n小晚老师，就是这个理论的践行者。\n\n别人眼里社群交付的“重”，反过来看，在她这里是轻松加愉快的分享。\n\n做一件事情，如果把收益当做“目的”本身，假如收益不复存在了，你做这件事这件事的动力，也就消失了。\n\n把成本本身就看作收益，并且有这个意愿与能力去付出，其实，最后带来的收获反而更大。\n\n不止是商业机会的增加，还有表达能力的提高，思维逻辑链条的迭代，以及珍贵的友谊！\n\n更重要的是，思考、分析、转译、输出这一套sop，是她最喜欢做，也一直在做的事情。\n\n进入小晚姐的社群不到一个月，我真心地感觉她是一个非常愿意思考且愿意表达的人，每天群消息都位列第一，甚至远远超出其他人加起来的总和！\n\n我们在群里谈天说地，既有deep talk，也会分享各种各样好玩的事情，氛围轻松融洽，也能随时切换答疑模式😤\n\n而做互联网所谓的“活人感”，也正来源于敢说、会说，善于倾听、善于分享。\n\n她说：“AI时代，成为你自己。”\n\n或许有人会想，时代如此庞大，个人如此渺小。\n或许我们只是社会的一个齿轮，如何成为理想的自己？\n又或许千百年后回头看，我们也站在一个时代的“风口浪尖”……\n\n那我们，为什么不现在行动起来呢？\n\n我们生逢其时，我们正当其时。\n\n如果你也愿意思考、愿意分享，欢迎加入我们——\n\n我们一起与AI同行，与人同频。\n\n（附上我们小晚姐的经典表情包：对，开干！😎）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124661709914710038",
+            "type": "quoted"
+          }
+        ],
+        "text": "“在重大人生课题上，人必须有能力把成本视作收益。”\n\n小晚老师，就是这个理论的践行者。\n\n别人眼里社群交付的“重”，反过来看，在她这里是轻松加愉快的分享。\n\n做一件事情，如果把收益当做“目的”本身，假如收益不复存在了，你做这件事这件事的动力，也就消失了。 https://t.co/L5nb8X7ApD https://t.co/aTRsU8Ogba"
+      },
+      {
+        "author_id": "1784047650301767680",
+        "conversation_id": "2124725538258661632",
+        "created_at": "2026-11-23T05:07:25.000Z",
+        "edit_history_tweet_ids": [
+          "2124731522800619847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124731522800619847",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124725538258661632",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 干嘛冲我竖中指"
+      },
+      {
+        "author_id": "1784047650301767680",
+        "conversation_id": "2123982946562683299",
+        "created_at": "2026-11-23T01:00:14.000Z",
+        "edit_history_tweet_ids": [
+          "2124669317845569952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            },
+            {
+              "end": 24,
+              "id": "1596695231717871616",
+              "start": 11,
+              "username": "dontbesilent"
+            }
+          ]
+        },
+        "id": "2124669317845569952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123982946562683299",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry @dontbesilent 线下课吗！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124719987315310592"
+          ]
+        },
+        "author_id": "1689965575945228288",
+        "conversation_id": "2124399977065836836",
+        "created_at": "2026-11-23T04:21:48.000Z",
+        "edit_history_tweet_ids": [
+          "2124720043086979210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            },
+            {
+              "end": 23,
+              "id": "2035032829999075328",
+              "start": 11,
+              "username": "Jack_FluxAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPs4QRae0H",
+              "end": 60,
+              "expanded_url": "https://x.com/chen_xiao95600/status/2124720043086979210/photo/1",
+              "media_key": "3_2124719987315310592",
+              "start": 37,
+              "url": "https://t.co/YPs4QRae0H"
+            }
+          ]
+        },
+        "id": "2124720043086979210",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2879,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124716948659519836",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry @Jack_FluxAI 老师怎么一天到黑竖中指。 https://t.co/YPs4QRae0H"
+      },
+      {
+        "author_id": "2035032829999075328",
+        "conversation_id": "2124399977065836836",
+        "created_at": "2026-11-22T07:09:58.000Z",
+        "edit_history_tweet_ids": [
+          "2124399977065836836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caiyue5/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/caiyue5/status/2124163230423793960",
+              "start": 28,
+              "url": "https://t.co/o6g98XoWHH"
+            }
+          ]
+        },
+        "id": "2124399977065836836",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2296,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124163230423793960",
+            "type": "quoted"
+          }
+        ],
+        "text": "讲一下信息茧房的：很多AI圈的人没法理解猫眼美甲是什么 https://t.co/o6g98XoWHH"
+      },
+      {
+        "author_id": "928079116238077952",
+        "conversation_id": "2124674543117844655",
+        "created_at": "2026-11-23T01:21:00.000Z",
+        "edit_history_tweet_ids": [
+          "2124674543117844655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1923981862273417222",
+              "start": 32,
+              "username": "bbkirstry"
+            },
+            {
+              "end": 152,
+              "id": "2106671372705677312",
+              "start": 144,
+              "username": "Yooeec3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xiping_ai/stat…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/xiping_ai/status/2124315678710620390",
+              "start": 153,
+              "url": "https://t.co/Wyh73sIMxR"
+            }
+          ]
+        },
+        "id": "2124674543117844655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 42,
+                "id": "1923981862273417222",
+                "start": 32,
+                "username": "bbkirstry"
+              },
+              {
+                "end": 152,
+                "id": "2106671372705677312",
+                "start": 144,
+                "username": "Yooeec3"
+              },
+              {
+                "end": 229,
+                "id": "2011036150807609345",
+                "start": 217,
+                "username": "JessiCao_JC"
+              },
+              {
+                "end": 344,
+                "id": "2107100326927212544",
+                "start": 334,
+                "username": "sidianjin"
+              },
+              {
+                "end": 451,
+                "id": "1882807091523727360",
+                "start": 439,
+                "username": "Tanghulu188"
+              },
+              {
+                "end": 518,
+                "id": "1969758674559381505",
+                "start": 508,
+                "username": "369Serena"
+              },
+              {
+                "end": 620,
+                "id": "1596695231717871616",
+                "start": 607,
+                "username": "dontbesilent"
+              },
+              {
+                "end": 715,
+                "id": "3624906326",
+                "start": 705,
+                "username": "Mileson07"
+              },
+              {
+                "end": 819,
+                "id": "2106566414702436352",
+                "start": 807,
+                "username": "DongQingAsk"
+              },
+              {
+                "end": 903,
+                "id": "1789757492873789440",
+                "start": 887,
+                "username": "qihang_zeng6688"
+              }
+            ]
+          },
+          "text": "想做小红书赚钱或者起号的，关注这10位实战者：\n\n1、小晚不在 @bbkirstry ：做内容营销和 IP 策划，6 月底才开始做自媒体，一条视频就在小红书涨了 1 万多粉。11月初分享的小红书起号保姆级教程，从 0 找对标、坚持出摊到商业化，成为小红书入门必读教程。\n\n2、Yooee @Yooeec3 ：分享小红书起号和营销，写过一篇邪修起号教程，最近起的号，四天就成功起号，一周涨万粉，成功接到商单。\n\n3、Jessi Cao @JessiCao_JC ：把小红书从 0 到 1 写成了万字教程，接广怎么报价、怎么谈返点，获客从第一篇笔记到咨询，都拆过。有意思的是，她在小红书写过怎么做 X，后面有人找她做推广，很快谈成了一单 5 位数的合作。\n\n4、四点金桃 @sidianjin ：大厂做了 9 年运营，小红书起号 3 天涨了 1.5 万粉，就两条笔记，一条是装小龙虾，一条是 Codex 安装教程，而且还是下班 10 分钟拍的，一个月收入过万。\n\n5、夏木GROW @Tanghulu188 ：做 3C 数码，闲鱼和小红书都在做。10 月一周，在小红书就变现了 4000 多。\n\n6、Serena 木瓜 @369Serena ：9 月和朋友在上海办 AI 线下活动，主要获客就是从小红书来的，活动爆满，她将这些成果变更了经验，比如五个账号一起打搜索、低粉也能挂购物车，写成了矩阵获客教程。\n\n7、栋哥 @dontbesilent ：栋哥是天生吃互联网这碗粉的，一年里小红书涨了 11 万粉，两天时间能把小红书涨到万粉，并把大字报起号、投薯条、别急着开蓝 V 和开店，写成了标准教程。\n\n8、超级峰 @Mileson07 ：把小红书日常运营交给 AI，从选题、做图、发布到复盘，写成了全自动化保姆教程，自己拿表情包出处这个号跑过。他非常擅长打蓝孩子，他的新账号基本走搜索词，也能有几万曝光。\n\n9、冬青 @DongQingAsk ：做小红书虚拟资料，有一家店铺，今年 4 月才开始，就一个商品，暑假单月收入接近 3 万，今年一共提现了 11万 元。\n\n10、启航 @qihang_zeng6688 ：00 后，深耕小红书虚拟电商，去年开始做小红书电商，自营 8 家店，高峰时期月流水 6 万多，月订单 6000 多。\n\n从上面可以看出，小红书不一定要先涨到很大的粉，只要够垂直，做虚拟资料、接广、活动获客，都能赚钱。\n\n他们的教程和复盘帖，我放评论区了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 15530,
+          "like_count": 294,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124315678710620390",
+            "type": "quoted"
+          }
+        ],
+        "text": "想做小红书赚钱或者起号的，关注这10位实战者：\n\n1、小晚不在 @bbkirstry ：做内容营销和 IP 策划，6 月底才开始做自媒体，一条视频就在小红书涨了 1 万多粉。11月初分享的小红书起号保姆级教程，从 0 找对标、坚持出摊到商业化，成为小红书入门必读教程。\n\n2、Yooee @Yooeec3 https://t.co/Wyh73sIMxR"
+      },
+      {
+        "author_id": "1707214568639086592",
+        "conversation_id": "2124684691060253104",
+        "created_at": "2026-11-23T02:03:00.000Z",
+        "edit_history_tweet_ids": [
+          "2124685113254642005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124685113254642005",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124684691060253104",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 是的哈哈 无意之间 成为了中美 AI 发展和交流里一个小小的见证者"
+      },
+      {
+        "author_id": "967527760502681600",
+        "conversation_id": "2124674543117844655",
+        "created_at": "2026-11-23T02:28:23.000Z",
+        "edit_history_tweet_ids": [
+          "2124691503226487049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "928079116238077952",
+              "start": 0,
+              "username": "xiping_ai"
+            },
+            {
+              "end": 21,
+              "id": "1923981862273417222",
+              "start": 11,
+              "username": "bbkirstry"
+            },
+            {
+              "end": 30,
+              "id": "2106671372705677312",
+              "start": 22,
+              "username": "Yooeec3"
+            }
+          ]
+        },
+        "id": "2124691503226487049",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124674543117844655",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@xiping_ai @bbkirstry @Yooeec3 六月才起步 一条就上万粉……"
+      },
+      {
+        "author_id": "1707214568639086592",
+        "conversation_id": "2124678871320764864",
+        "created_at": "2026-11-23T01:38:12.000Z",
+        "edit_history_tweet_ids": [
+          "2124678871320764864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaiYangAI/stat…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/MaiYangAI/status/2124316520780268007",
+              "start": 165,
+              "url": "https://t.co/Mf7iDHZpml"
+            }
+          ]
+        },
+        "id": "2124678871320764864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 251,
+                "id": "1242996498675032065",
+                "start": 241,
+                "username": "MaiYangAI"
+              },
+              {
+                "end": 322,
+                "id": "21714538",
+                "start": 316,
+                "username": "benln"
+              },
+              {
+                "end": 564,
+                "id": "2085838061347217408",
+                "start": 560,
+                "username": "bot"
+              },
+              {
+                "end": 635,
+                "id": "1997889576187387904",
+                "start": 626,
+                "username": "cgnot996"
+              },
+              {
+                "end": 649,
+                "id": "1877440800",
+                "start": 642,
+                "username": "li9292"
+              },
+              {
+                "end": 749,
+                "id": "21714538",
+                "start": 743,
+                "username": "benln"
+              }
+            ]
+          },
+          "text": "不知道有没有很多朋友和我一样，我的 AI 编程启蒙，它就是从 Cursor 开始的。\n\nCursor 是我用过的第一个 AI 编程工具，它让我震撼感受到了大模型的智能涌现。不断和 TA 聊天，就能生成一个网页、一个游戏、甚至一个复杂的系统。\n\n接着文哥这篇 Cursor 文章，我也分享下我和 Cursor 的故事，在 2025 年的时候，我做了一期 Cursor 的保姆级视频教学，那期视频在 B 站突破了 60 万的播放量，创下了我的 B站视频 的最好数据之一。\n\n后来，文哥 @MaiYangAI成为了 Cursor 的第一个中国社区的认证大使，马进、我、Jason、雅芳 也很荣幸紧随其后，在通过 Cursor 社区负责人 @benln 的面试后，成为了前 5 位 Cursor 在中国的社区大使。\n\n我们用极其迅猛的速度和执行力，一起在国内策划和落地了 20 多场 Cursor 的社区线下活动，覆盖了北京、深圳、广州、杭州、武汉、厦门、西安等地，把一批又一批喜欢 Cursor 和 AI 编程的朋友，一次次在线下聚了起来。\n\n到了今年，SpaceX 正式收购了 Cursor，我们 Cursor 大使的 Title，也改名成为了 SpaceXSI 社区 Builder 大使。SpaceX 旗下的 Grok @bot 也横空出世，强势成为了全球领军的 Pensonal Agent 产品。\n\n中国的社区大使团队，也迎来了新的血液，像铁柱佬 @cgnot996 、李韭二佬 @li9292 也都超级强，既有线下组织分享，又有线上干货和内容输出的能力，给我也带来了很多新的思考。今年我们也和各地的朋友一起，落地了 10 多场的 Grok bot 线下活动。\n\n这一路上非常感谢 @benln 对我们的信任和对社区活动的诸多支持，人生的旅途充满新奇和未知，也迫不及待，期待明年会发生什么。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2807,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124316520780268007",
+            "type": "quoted"
+          }
+        ],
+        "text": "不知道有没有很多朋友和我一样，我的 AI 编程启蒙，它就是从 Cursor 开始的。\n\nCursor 是我用过的第一个 AI 编程工具，它让我震撼感受到了大模型的智能涌现。不断和 TA 聊天，就能生成一个网页、一个游戏、甚至一个复杂的系统。\n\n接着文哥这篇 Cursor 文章，我也分享下我和 Cursor 的故事，在 2025 https://t.co/Mf7iDHZpml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-18T06:00:26.000Z",
+        "description": "品牌内容营销 × AI增长 × IP策划\nWayToBot 社区联合发起人\n赛博小晚 Skill 作者：https://t.co/ntE6Nb5398\n\nAI 时代，成为你自己 🧸",
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059964490326880256/hPFkU6wC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11251,
+          "following_count": 422,
+          "like_count": 2309,
+          "listed_count": 59,
+          "media_count": 450,
+          "tweet_count": 2899
+        },
+        "username": "bbkirstry",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2124838703520735659",
+    "next_token": "7140dibdnow9c7btwp0gmbm2j3r9szh8blnpdk9l97qr8",
+    "oldest_id": "2124684691060253104",
+    "previous_token": "77qpymm88g5h9vqkmfps2r50nedy8bugnp97geaaqwri1",
+    "result_count": 24
+  }
+}

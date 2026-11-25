@@ -729,3 +729,67 @@ see you in vice city https://t.co/iCipbft75Y
 - 是否有全文：是（post.text）
 
 RT @rachelnabors: If you haven't already, take 15 min out of your lifespan to see how Lauren builds a codebase for agentic coding: https://…
+
+## 2026-11-22 23:28 北京时间 · 引用帖 · 赞 3151
+- 链接：https://x.com/poteto/status/2124525336994177412
+- 是否有全文：是（post.text）
+
+it’s a good day to do some gardening of your codebase! https://t.co/u0Sg9iOHRQ
+
+引用：https://x.com/i/status/2124222002076733869
+
+## 2026-11-24 03:10 北京时间 · 回复 · 赞 77
+- 链接：https://x.com/poteto/status/2124943708160458785
+- 是否有全文：是（post.text）
+
+@yxw1092526 will look into it
+
+## 2026-11-24 03:58 北京时间 · 转帖 · 赞 0
+- 链接：https://x.com/poteto/status/2124955788313866476
+- 是否有全文：是（post.text）
+
+RT @ReactMiamiConf: Welcome to the React Miami 2027 stage, @rickyfm 🌴
+
+Ricky Hanlon is a member of the React Core Team and is known for his…
+
+## 2026-11-24 04:42 北京时间 · 转帖 · 赞 0
+- 链接：https://x.com/poteto/status/2124966730351227248
+- 是否有全文：是（post.text）
+
+RT @ReactMiamiConf: Returning to Miami, please welcome @Madisonkanna !
+
+Madison is a software developer, educator, and former React Miami M…
+
+## 2026-11-24 05:08 北京时间 · 转帖 · 赞 0
+- 链接：https://x.com/poteto/status/2124973419443949967
+- 是否有全文：是（post.text）
+
+RT @ReactMiamiConf: Bienvenido a Miami, @evilrabbit_ !
+
+Evil Rabbit is the creative mastermind behind Vercel's iconic branding and its Head…
+
+## 2026-11-25 05:26 北京时间 · 帖子 · 赞 9289
+- 链接：https://x.com/poteto/status/2125340394938593344
+- 是否有全文：是（post.text）
+
+never thought i'd say this but i am now daily driving gemini neon in cursor
+
+it's a good model
+
+## 2026-11-25 05:28 北京时间 · 回复 · 赞 65
+- 链接：https://x.com/poteto/status/2125340734614380594
+- 是否有全文：是（post.text）
+
+@JinjingLiang yep
+
+## 2026-11-25 05:44 北京时间 · 回复 · 赞 379
+- 链接：https://x.com/poteto/status/2125344778892292255
+- 是否有全文：是（post.text）
+
+@davidgomes im using neon for both at the moment! with opus as a reviewer
+
+## 2026-11-25 06:50 北京时间 · 转帖 · 赞 0
+- 链接：https://x.com/poteto/status/2125361344514003138
+- 是否有全文：是（post.text）
+
+RT @ericzakariasson: we're looking for small-medium business owners who are currently hiring for any role and want to take part in a hands…

@@ -1,323 +1,274 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-25",
   "items": [
     {
       "rank": 1,
-      "name": "SiteGround Affiliate：写主机/WordPress 教程，官方知识库按自然月销售档写明单笔约50至100美元（1–5笔约50美元，6–10笔约75美元，11–20笔约100美元，21笔以上可谈定制；约60天 Cookie，可周结；以条款为准）",
+      "name": "Kinsta Affiliate：写 WordPress 托管或迁移教程，官方联盟页写明推荐合资格 Managed Hosting for WordPress 新客可拿一次性约50至500美元奖金，外加约10%按月终身分成（须审核；托管推荐有约2个月合格期，打款走 PayPal 或账户余额，以官方页、文档与条款为准）",
       "type": "联盟营销",
-      "summary": "SiteGround 官方联盟：申请通过后获得跟踪链接，推荐客户购买合资格主机套餐可获一次性佣金。官方知识库（约2025-08-07更新）按自然月合计销售档写明美元口径：1至5笔约50美元、6至10笔约75美元、11至20笔约100美元，21笔及以上可申请定制佣金（同期还公布了澳元、英镑、欧元档）。合资格产品为 Shared、Cloud 与 Reseller 主机套餐；域名和附加功能不计佣。官方称对计费周期没有限制，连1个月套餐也可计佣，但长于1个月的订单总价须至少约40美元/欧元/澳元或约30英镑。官方联盟页还写明跟踪 Cookie 约60天，默认可每周打款、无最低余额门槛，若客户改买其他合资格服务，可拿该服务首年约60%分成。取消可能导致负向调整。必须按规范披露联盟关系，具体禁止事项以申请时条款为准。",
-      "cost": "0；需有主机、建站或 WordPress 相关内容渠道，申请须通过审核",
+      "summary": "Kinsta 官方联盟页与文档（文档页注明最近更新于 2026-06-02）写明：每推荐一名合资格的 WordPress 托管新客，可同时获得一次性约50至500美元佣金，以及约10%的按月循环佣金。文档写明托管推荐有约2个月合格期，须订阅保持有效并结清款项后，一次性佣金才核准，循环佣金也从核准后开始累计。官方联盟页还写明跟踪 Cookie 约60天、末次点击归因，申请须人工审核，通常约3个工作日内回复。条款写明打款目前经 PayPal 或账户余额，并须披露联盟关系、遵守条款中的推广限制。必须披露联盟关系，不承诺成交或佣金。公开 X 只作线索，本条交叉核验依据是官方联盟页、文档与条款。",
+      "cost": "0（需自备可发布教程的站点或渠道；不包含你自己购买 Kinsta 托管的费用）",
       "difficulty": 2,
-      "threshold": "申请通过；只推荐经跟踪链接进入并购买 Shared/Cloud/Reseller 等合资格主机套餐的客户；能按规范披露联盟关系，遵守当地广告与推荐披露要求",
-      "time": "申请与内容准备通常数天；官方称可周结，但仍可能经历审核或因取消被调整，见效慢于即时点击分成",
-      "fit": "会写中英文主机、WordPress 建站或迁移教程、已有站长或小企业主受众的人；预估投入：每周4小时",
-      "why": "官方知识库与联盟页公开了分档一次性佣金、合资格产品、最低订单金额、60天 Cookie 和可周结等可核对条件。上榜理由：相对昨日基线 Squarespace「Website/Commerce 或 Acuity 订阅打款」路径，今天换 SiteGround「按自然月销售档一次性主机佣金」路径。",
+      "threshold": "能写清楚的 WordPress 托管、性能或迁移教程，并按条款披露联盟关系；接受人工审核、约2个月合格期，以及经 PayPal 或账户余额打款的地区限制",
+      "time": "申请与准备教程通常1–3天；出单、合格期和打款取决于流量与客户是否持续付费，不保证",
+      "fit": "已有或准备做英文 WordPress/托管评测内容的人；预估投入：每周4–8小时写内容和维护披露",
+      "why": "官方把一次性分档、10%循环佣金、合格期和打款方式写得很清楚，可核验。上榜理由：相对上一份基线 FastComet「按月销量计的一次性共享主机/VPS/独立服务器佣金」，今天换成 Kinsta「一次性约50–500美元加约10%按月终身分成」。公开 X 仅作线索。",
       "steps": [
-        "打开 siteground.com/affiliates，对照官方知识库核对分档佣金、合资格套餐、最低订单金额、60天 Cookie、周结和取消调整规则后提交申请",
-        "写一篇你真正用过的 SiteGround 或其他主机对比、WordPress 安装或迁移上手教程，按规范披露联盟关系",
-        "把后台跟踪链接放到自己的小站或内容页；不要夸大收入，也不要在未核条款前做违规投放或未授权的品牌词投放"
+        "打开官方联盟页与附属条款，确认约50–500美元一次性佣金、约10%按月分成、约2个月合格期和 PayPal/账户余额打款规则，再提交免费申请",
+        "申请通过后，用真实评测或迁移教程介绍合资格 WordPress 托管方案，放置跟踪链接并明确披露联盟关系，不要承诺佣金或成功率",
+        "只统计经合格期核准的合资格新客；一次性佣金核准后循环佣金才开始累计，打款以 PayPal 或账户余额及后台为准"
       ],
-      "risk": "风险等级：中。申请可能被拒；域名和附加项不计佣；客户取消可能导致已入账佣金被调回；分档佣金按自然月销量计算，达不到更高档时按较低档结算。不承诺收益。",
+      "risk": "风险等级：中。申请可能被拒；约2个月合格期内退订或未结清款项可能拿不到一次性佣金，循环佣金也会延迟或中断；打款依赖 PayPal 或账户余额是否对你所在地区可用。不承诺收益。",
       "risk_level": "中",
-      "reason": "条款可核对的主机联盟，适合把教程长期挂链。",
+      "reason": "官方佣金结构和合格期公开可核验，和上期一次性主机分档佣金错开，适合做 WordPress 托管内容的人。",
       "tags": [
         "联盟营销",
-        "SiteGround",
-        "主机",
+        "Kinsta",
         "WordPress",
-        "Affiliate"
+        "托管"
       ],
       "sources": [
         {
-          "title": "Affiliate Hosting Program by SiteGround",
-          "url": "https://www.siteground.com/affiliates",
-          "publisher": "SiteGround",
+          "title": "Kinsta® Hosting Affiliate Program",
+          "url": "https://kinsta.com/affiliates/",
+          "publisher": "Kinsta",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         },
         {
-          "title": "How much can I earn with your Affiliate Program? - SiteGround KB",
-          "url": "https://www.siteground.com/kb/affiliate_program_earnings",
-          "publisher": "SiteGround",
-          "published": "2025-08-07",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "title": "Service Information - Affiliate Program - Kinsta® Docs",
+          "url": "https://kinsta.com/docs/service-information/affiliate-program/",
+          "publisher": "Kinsta",
+          "published": "2026-06-02",
+          "kind": "official"
         },
         {
-          "title": "For which hosting products will I receive commissions? - SiteGround KB",
-          "url": "https://www.siteground.com/kb/products_commissions",
-          "publisher": "SiteGround",
-          "published": "2025-08-07",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "title": "Kinsta Inc. Affiliate Program Terms and Conditions",
+          "url": "https://kinsta.com/legal/affiliate-terms/",
+          "publisher": "Kinsta",
+          "published": "2024-12-12",
+          "kind": "official"
         }
       ],
-      "source_url": "https://www.siteground.com/affiliates"
+      "source_url": "https://kinsta.com/affiliates/"
     },
     {
       "rank": 2,
-      "name": "Polar：上架原创数字下载/订阅，官方费率文档写明新组织 Starter 档无月费、成交约抽5%+50美分（国际卡另计约1.5%；另计 Stripe 打款费；以费率页为准）",
+      "name": "Podia：上架课程、社群或数字下载，官方定价页写明可免费试用约14天且无须先绑卡；年付展示 Mover 约42美元/月（年付约504美元）另加约5%平台交易费，Shaker 年付展示约84美元/月、Earthquaker 约150美元/月，官方帮助中心写明后两档不再收 Podia 交易费（另计 Stripe 或 PayPal 处理费，月付标价以定价页为准）",
       "type": "数字产品/接单",
-      "summary": "Polar 是面向数字产品与软件的收款平台，可作 Merchant of Record，代收增值税等并自动交付下载、许可密钥或仓库权限。官方费率文档写明：2026-05-27 及以后新建的组织默认走 Starter 档，无月费，每笔成功交易约抽5%+50美分；可选 Pro 约20美元/月、成交约3.8%+40美分，Growth 约100美元/月、约3.6%+35美分，Scale 约400美元/月、约3.4%+30美分。非美国卡另加约1.5%。Polar 称不在打款上加价，但会转嫁 Stripe 打款费（官方列举约每月2美元、每笔约0.25%+25美分，以及跨境兑换费）。只卖自己有权销售的原创或已获授权内容，不出售平台账号，也不卖未授权或他人作品。",
-      "cost": "Starter 档0月费，按成交抽成；可选付费档降低费率，另计国际卡与打款费用",
-      "difficulty": 2,
-      "threshold": "能提供可交付的原创数字产品或软件许可；接受平台作为销售记录商与税务代收；遵守平台与当地销售规范",
-      "time": "上架一个产品通常数小时到两天；冷启动获客仍需自己的内容和渠道，见效节奏因产品而异",
-      "fit": "有模板、课程、小工具或软件许可要卖给海外用户、希望平台代处理跨境税务的人；预估投入：每周5小时",
-      "why": "官方费率页把 Starter 与付费档、国际卡加价和 Stripe 打款费写得很清楚，适合反复售卖数字产品。上榜理由：相对昨日基线 Stan Store「按月订阅、平台成交抽成0%」路径，今天换 Polar「无月费 Starter、平台作销售记录商按笔抽成」路径。",
+      "summary": "Podia 官方定价页写明可免费试用约14天，试用无须先填写信用卡，也无须先选定套餐。年付展示为：Mover 约42美元/月（年付约504美元）并收取约5%平台交易费；Shaker 约84美元/月（年付约1008美元）；Earthquaker 约150美元/月（年付约1800美元）。官方帮助中心（约2026-05-18）写明：Mover 档每笔成交另收约5%的 Podia 交易费，升级到 Shaker 或 Earthquaker 后不再收该费用，但仍会另计 Stripe 或 PayPal 的支付处理费。帮助中心还写明可在月付与年付之间切换，月付具体标价以定价页当时显示为准。必须上架自己拥有或已获授权的内容，不承诺销量。公开 X 只作线索，本条交叉核验依据是官方定价页与交易费说明。",
+      "cost": "可先免费试用约14天且无须绑卡；年付展示 Mover 约42美元/月另加约5%平台交易费，更高档约84或150美元/月且不再收 Podia 交易费（另计支付处理费，月付标价以定价页为准）",
+      "difficulty": 3,
+      "threshold": "已有或能持续产出可售的课程、社群或数字下载，并能连接 Stripe 或 PayPal 收款；接受试用结束后的月费或年费，以及 Mover 档约5%交易费",
+      "time": "搭建页面与上架通常2–7天；是否有人付费取决于内容和推广，不保证",
+      "fit": "希望把课程、社群或数字下载放在同一套工具里售卖的人；预估投入：先集中上线，此后每周4–8小时更新内容与服务买家",
+      "why": "官方把试用条件、年付标价和各档交易费写得很清楚，适合把已有内容做成可反复卖的数字产品。上榜理由：相对上一份基线 Memberful「自有站点会员，上线后约49美元/月另加约4.9%交易费」，今天换成 Podia「14天试用后按档收月费，Mover 另加约5%交易费、更高档不再收平台交易费」。公开 X 仅作线索。",
       "steps": [
-        "打开 polar.sh 费率文档，核对 Starter 与付费档、国际卡加价、退款不退通道费和打款费后注册组织",
-        "上架一个你真正拥有版权的数字下载、课程或软件许可，写清交付内容和售后范围，不要出售平台账号或他人作品",
-        "用 Checkout Link 或嵌入结账放到自己的小站或内容页；出单后再按文档决定是否升级付费档"
+        "打开官方定价页，确认约14天试用无须绑卡、年付展示的各档价格，以及 Mover 约5%交易费后再注册试用",
+        "在试用期内上架自己拥有或已获授权的课程、社群或数字下载，跑通结账和交付，不要承诺销量",
+        "试用结束前再决定档位和月付或年付；上线后按后台核对平台费、支付处理费和到账，不承诺订单数或收入"
       ],
-      "risk": "风险等级：中。国际卡与打款会另计费用；退款不退已收通道费，争议约15美元/笔；账户若争议率过高可能被限制。不承诺收益。",
+      "risk": "风险等级：中。试用结束后即使成交很少也要承担月费或年费；Mover 档约5%交易费之外还有支付处理费；中国大陆等地区能否开户和收款取决于 Stripe、PayPal 与平台规则。不承诺收益。",
       "risk_level": "中",
-      "reason": "费率公开的数字产品收款通道，适合把一次制作的内容反复售卖。",
+      "reason": "定价、试用和分档交易费公开可核验，和上期自有站点会员工具错开，适合已有可售内容的人。",
       "tags": [
         "数字产品",
-        "Polar",
-        "订阅",
-        "Merchant of Record",
-        "软件"
+        "Podia",
+        "课程",
+        "数字下载"
       ],
       "sources": [
         {
-          "title": "Fees",
-          "url": "https://polar.sh/docs/merchant-of-record/fees",
-          "publisher": "Polar",
+          "title": "Podia Pricing: Plans, Transaction Fees & Free Trial — Podia",
+          "url": "https://www.podia.com/pricing",
+          "publisher": "Podia",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         },
         {
-          "title": "Polar: Turn Your Software into a Business",
-          "url": "https://polar.sh/docs/introduction",
-          "publisher": "Polar",
-          "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "title": "Understanding Podia transaction fees | Podia Help Center",
+          "url": "https://help.podia.com/en/articles/11371138-understanding-podia-transaction-fees",
+          "publisher": "Podia",
+          "published": "2026-05-18",
+          "kind": "official"
         }
       ],
-      "source_url": "https://polar.sh/docs/merchant-of-record/fees"
+      "source_url": "https://www.podia.com/pricing"
     },
     {
       "rank": 3,
-      "name": "Azure Static Web Apps：按官方快速入门部署英文静态工具小站，官方定价页写明 Free 档托管约0美元（每订阅约含100GB流量，超额可能停止服务且无 SLA），验证流量后再接 AdSense 或联盟",
+      "name": "Render：按官方定价页用 Hobby 档部署英文工具或指南小站；官方写明 Hobby 档约0美元/月另计计算资源，含约5GB流量并可绑定自定义域名，计算资源提供约0美元/月的 Free 档（约512MB内存，以官方定价页为准）",
       "type": "出海小站",
-      "summary": "用 Microsoft 官方 Azure Static Web Apps 从 GitHub 或 Azure DevOps 发布英文静态工具或指南小站。官方定价页把 Free 档定位为爱好/个人项目：托管约0美元，每订阅约含100GB流量、每应用约2个自定义域名和免费 SSL；包含存储约0.50GB、单次部署上限约0.25GB（托管计划页亦写明应用大小约250MB、预发环境约3个）。该档无 SLA；官方写明若超出约100GB配额，站点将无法继续提供服务。验证有稳定访问后再申请 Google AdSense，或在相关评测里合规挂联盟链接。不把空站或采集页拿去过审。",
-      "cost": "Free 档托管约0；需有 Azure 与 GitHub 账号，域名另计；超出免费流量额度需升级或站点可能停服",
+      "summary": "Render 官方定价页写明：Hobby 档为约0美元/月另计计算资源，面向个人项目和原型，含最多约25个服务、约5GB流量、自定义域名、全球区域与 CDN、防火墙和 DDoS 防护等。同页计算资源表写明 Web Service 等可选用 Free 档，标价约0美元/月、约512MB内存。静态或小型动态站点都可能产生出站流量和构建用量，超出包含额度将按定价页计费。验证流量后再接 AdSense 或联盟。不承诺收录或收入。公开 X 只作线索，本条交叉核验依据是官方定价页。",
+      "cost": "Hobby 档约0美元/月另计计算资源，含约5GB流量；选用 Free 计算档时托管费约0美元。超出包含流量或改用付费计算资源后，费用以定价页为准；域名另计",
       "difficulty": 2,
-      "threshold": "能按官方快速入门把静态站点接到 GitHub 并完成部署；内容必须原创；不承诺搜索排名或广告收入",
-      "time": "按文档完成首次部署通常数小时到一天；收录与变现往往要数周到数月",
-      "fit": "会做静态页或简单前端、想先验证英文工具小站再接广告或联盟的人；预估投入：每周4–5小时",
-      "why": "官方定价页与托管计划页公开了 Free 档费用、流量配额、容量和「超额可能停服、无 SLA」等可核对限制。上榜理由：相对昨日基线 GitLab Pages「在 GitLab 基础设施上发布静态站」路径，今天换 Azure Static Web Apps Free 档路径。",
+      "threshold": "能按官方定价页和控制台把站点部署到 Hobby 档，并接受约5GB包含流量和 Free 计算档的资源限制",
+      "time": "按控制台部署通常半天到2天；要有稳定访问和广告或联盟收入，往往需要数周到数月内容和收录，不保证",
+      "fit": "愿意先用低月费把英文工具或指南小站发出去的人；预估投入：先集中上线，此后每周4–8小时更新内容和看流量",
+      "why": "官方把 Hobby 档约0美元/月、包含流量和 Free 计算档写得很清楚。上榜理由：相对上一份基线 Fly.io「试用额度后须绑卡维持每月约5美元用量」，今天换成 Render「Hobby 档约0美元/月另计计算资源，可选用约0美元/月的 Free 计算档」。公开 X 仅作线索。",
       "steps": [
-        "阅读 Microsoft Learn 快速入门与官方定价页，确认 Free 档流量、容量、自定义域名和超额停服规则后再创建资源",
-        "用 GitHub 仓库发布一页真正有用的英文工具或指南，绑好自定义域名与 HTTPS，补上 About 与 Privacy",
-        "有稳定访问后再申请 AdSense，或在相关对比里按规范披露联盟关系；不要上线空站或采集薄页"
+        "打开官方定价页，确认 Hobby 档约0美元/月另计计算资源、含约5GB流量和自定义域名，以及 Free 计算档约0美元/月后再注册",
+        "在控制台部署英文工具或指南小站，需要时再绑定自定义域名，先观察包含流量和计算档是否够用",
+        "先用原创内容验证能否稳定访问和收录，再申请 AdSense 或放置相关联盟链接；超出额度的费用以控制台和定价页为准，不承诺收入"
       ],
-      "risk": "风险等级：中。Free 档无 SLA，流量超出约100GB配额后站点可能停止服务；AdSense 与联盟都要过审，空站或低质内容容易被拒。不承诺收益。",
+      "risk": "风险等级：中。Free 计算档资源有限，超出约5GB包含流量或改用付费计算会开始计费；广告和联盟都须通过审核，前几个月收入可能是 0。不承诺收益。",
       "risk_level": "中",
-      "reason": "条款可核对的静态托管免费档，适合先上线再验证广告或联盟。",
+      "reason": "Hobby 档价格和包含额度写在官方定价页上，和上期须绑卡维持额度的平台错开，适合先把英文小站发出去。",
       "tags": [
         "出海小站",
-        "Azure",
-        "Static Web Apps",
-        "静态托管",
-        "AdSense"
+        "Render",
+        "托管",
+        "Hobby"
       ],
       "sources": [
         {
-          "title": "Quickstart: Building your first static site with the Azure Static Web Apps | Microsoft Learn",
-          "url": "https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started",
-          "publisher": "Microsoft Learn",
+          "title": "Render Pricing",
+          "url": "https://render.com/pricing",
+          "publisher": "Render",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
-        },
-        {
-          "title": "Pricing – Static Web Apps | Microsoft Azure",
-          "url": "https://azure.microsoft.com/en-us/pricing/details/app-service/static/",
-          "publisher": "Microsoft Azure",
-          "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
-        },
-        {
-          "title": "Azure Static Web Apps hosting plans | Microsoft Learn",
-          "url": "https://learn.microsoft.com/en-us/azure/static-web-apps/plans",
-          "publisher": "Microsoft Learn",
-          "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
-        },
-        {
-          "title": "Google AdSense - Earn Money from Your Website with Monetization",
-          "url": "https://adsense.google.com/start/",
-          "publisher": "Google AdSense",
-          "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         }
       ],
-      "source_url": "https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started"
+      "source_url": "https://render.com/pricing"
     },
     {
       "rank": 4,
-      "name": "快手创作者激励计划：走官方激励计划，作品播放页展示广告并按广告效果分成（门槛、邀约与结算以后台及官方公告为准）",
+      "name": "微信公众号流量主：发布原创图文或视频，官方微信广告文档写明关注用户满约100人且符合运营规范可申请开通；可选用程序化广告、返佣商品（按实际成交金额一定比例分成）或互选广告（按与广告主约定报价），分成与结算以后台为准",
       "type": "平台激励",
-      "summary": "快手官方帮助把「创作者激励计划」说明为原「快手广告共享计划」：确认参与后，广告会在个人作品播放页的某些位置展示，创作者按广告效果获得相应收益；官方称参与不会影响作品播放及上热门等权益。参与条件、开通方式和最新规则以 App 内创作者中心/快接单后台，以及官方账号「快手创作者激励计划」公示为准，不要照搬过时攻略里的粉丝数字。官方另有快接单收益提现说明（到账方式、设备限制和税务口径以后台及帮助页为准）。不承诺播放量或分成单价。",
-      "cost": "0；需有快手账号并完成平台要求的实名与资质核验",
-      "difficulty": 2,
-      "threshold": "账号与内容须符合平台规范；能否开通、何时可见入口以创作者中心当前提示为准；不做虚假互动、不买粉、不做违规导流",
-      "time": "准备稳定更新的作品通常数周；开通后收益仍取决于播放与广告效果，可能长期很低",
-      "fit": "已经或愿意在快手持续发布原创短视频、能接受平台审核和分成波动的人；预估投入：每周5–7小时",
-      "why": "官方帮助页明确了「播放页展示广告、按广告效果结算」这条可核对的变现路径，门槛以后台为准。上榜理由：相对昨日基线抖音创作者中心内容广告分成，今天换快手官方创作者激励计划路径。",
+      "summary": "微信广告官方文档写明：公众号流量主可通过程序化广告（接入广告组件展示广告并获得广告收入）、返佣商品（在图文中插入返佣商品，按实际成交订单金额的一定比例获得分成）或公众号互选广告（接受广告主邀约并按约定报价）变现。开通条件写明为关注用户达到约100人，且符合平台运营规范；达到该门槛后可申请开通返佣商品与程序化广告能力。申请路径为登录微信公众平台 → 流量主 → 申请开通 → 同意协议 → 选择广告位 → 提交，并提示开通后及时补充财务资料以免影响结算。分成比例、可开广告位和结算周期以当时后台及规则为准，不承诺收益。必须发布自己拥有或已获授权的原创内容。公开 X 只作线索，本条交叉核验依据是微信广告官方文档。",
+      "cost": "0（需自备可运营的微信公众号；不包含你可选的拍摄、设计或投流费用）",
+      "difficulty": 3,
+      "threshold": "能持续发布符合规范的原创内容，并使关注用户达到官方文档写明的约100人；接受申请审核、补充财务资料，以及分成比例以后台为准",
+      "time": "申请本身通常当天到数天；凑齐关注和稳定更新往往需要数周到数月，收益取决于阅读和广告展示，不保证",
+      "fit": "已经在写公众号、或准备用原创图文积累关注的人；预估投入：每周4–8小时更新内容并按规范运营",
+      "why": "官方文档把开通门槛、三种变现方式和申请路径写得很清楚。上榜理由：相对上一份基线西瓜中视频伙伴计划「横屏视频按播放与内容质量计收益」，今天换成微信公众号流量主「关注满约100人后可申请广告或返佣分成」。公开 X 仅作线索。",
       "steps": [
-        "打开快手官方帮助中「什么是创作者激励计划」，并在 App 创作者中心核对当前是否出现开通入口及参与条件",
-        "持续发布符合规范的原创作品，避免搬运、诱导点击或虚假宣传；不要购买粉丝或制造虚假互动",
-        "若已开通，按快接单/激励计划后台查看结算与提现规则，以页面提示为准，不把预估单价当成承诺"
+        "打开微信广告官方文档，确认关注约100人、符合运营规范，以及程序化广告、返佣商品和互选广告三种方式后再决定是否申请",
+        "在微信公众平台按「流量主 → 申请开通」提交，同意协议并选择广告位，开通后及时补充财务资料",
+        "只发布原创或已获授权内容，按后台查看广告或返佣数据与结算，不把门槛或宣传语理解成固定分成或保底收入"
       ],
-      "risk": "风险等级：中。入口可能长期不可见或申请被拒；广告展示与分成单价以后台为准，可能很低或不稳定；违规、非原创或账号类型不符会被拒绝或取消资格。不承诺收益。",
+      "risk": "风险等级：中。门槛、可开能力和结算规则可能随后台调整；内容违规可能被拒开通或取消结算；返佣和广告收入取决于阅读量、成交和广告主预算，可能长期很低。不承诺收益。",
       "risk_level": "中",
-      "reason": "官方可核对的短视频广告分成，适合已在快手稳定更新的人。",
+      "reason": "开通条件和变现方式写在微信广告官方文档里，和上期视频平台激励错开，适合已有或准备做公众号的人。",
       "tags": [
         "平台激励",
-        "快手",
-        "创作者激励",
-        "短视频",
+        "微信公众号",
+        "流量主",
         "广告分成"
       ],
       "sources": [
         {
-          "title": "什么是“创作者激励计划”？",
-          "url": "https://www.kuaishou.com/help/feedback/2784",
-          "publisher": "快手",
+          "title": "微信营销",
+          "url": "https://ad.weixin.qq.com/docs/45",
+          "publisher": "微信广告",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
-        },
-        {
-          "title": "快接单收益如何提现？",
-          "url": "https://www.kuaishou.com/help/feedback/2786",
-          "publisher": "快手",
-          "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         }
       ],
-      "source_url": "https://www.kuaishou.com/help/feedback/2784"
+      "source_url": "https://ad.weixin.qq.com/docs/45"
     },
     {
       "rank": 5,
-      "name": "Freelancer.com：发布简介竞标远程项目，官方费用页写明固定价项目服务费为约10%或5美元取高者（时薪项目约10%；投标前须保持约20美元可用余额；以费用页为准）",
+      "name": "Contra：免费注册后按项目开具合同与发票收款，官方定价页写明对创作者始终不抽成；免费档由付款方承担平台费，约1–499美元每笔15美元、满约500美元每笔29美元，升级 Pro（年付约199美元或月付约29美元）后该平台费为0（另计第三方支付处理与提现费用，以官方费用说明为准）",
       "type": "副业",
-      "summary": "在 Freelancer.com 完善档案、投标并承接远程项目。官方「Freelancer Fees and Charges」页写明：注册、建档和讨论需求免费；免费会员起初每月约有6次投标，但投标前须保持标准最低可用余额约20美元（高风险或高价值项目可能被要求更高，以下单界面或通知为准），该余额在投标被接受或撤回前须保持未占用。若固定价项目被授予并接受，平台收取约10%或5美元取高者的项目介绍费，超出原投标的后续付款同样计费；时薪项目按每笔付款约10%计。竞赛获奖亦为约10%或5美元取高者。Preferred Freelancer 的 Recruiter 项目官方写明约15%。页面另有针对特定新雇主推荐的限时/条件性减免，不属于默认口径，须另核活动页。需遵守平台与所在地劳动、税务和合同规范。",
-      "cost": "开户0门槛费；投标前须维持约20美元可用余额（可能被占用至投标结束）；成交按官方费用页抽成，提现与换汇另计",
+      "summary": "Contra 官方定价页写明：对所有创作者始终不抽成（commission-free）。免费档下由付款方承担平台费：官方费用说明（约2026-08-06）写明付款金额约1–499美元时每笔15美元，满约500美元时每笔29美元；独立工作者升级到 Pro 后该平台费为0。定价页展示 Pro 为年付约199美元或月付约29美元。费用说明还列出付款方的支付处理费（例如境内卡约2.9%+0.30美元，国际卡和兑汇另计）以及独立工作者提现时由支付机构收取的处理费与兑汇费；官方写明平台内打款以美元计，提到非美元账户会发生兑汇。必须只接自己能交付的合法远程服务，不承诺接单量。公开 X 只作线索，本条交叉核验依据是官方定价页与费用说明。",
+      "cost": "注册为0，平台不对创作者抽成；若自行升级 Pro，定价页展示年付约199美元或月付约29美元。付款方在免费档可能承担每笔约15或29美元平台费；你提现时另计支付机构处理费和兑汇费，以官方说明为准",
       "difficulty": 3,
-      "threshold": "能用英文写清技能、样例和交付边界；接受约20美元最低余额和按合同显示的服务费；身份核验与税务信息须按平台要求完成",
-      "time": "完善档案通常1–3天；冷启动获单可能要数周，取决于品类竞争、投标次数和评价积累",
-      "fit": "有可演示的设计、写作、开发、数据或运营技能，能用英文沟通并接受修改轮次的人；预估投入：每周6小时",
-      "why": "官方费用页公开了「10%或5美元取高者、时薪10%、投标前约20美元余额」等可核对规则。上榜理由：相对昨日基线一品威客网站内招标/雇佣抽成路径，今天换 Freelancer.com 远程项目按费用页计佣路径。",
+      "threshold": "能用英文写清楚提案、合同范围和交付，并完成平台要求的账户与收款设置；接受打款以美元计、提现可能有处理费和兑汇费，以及所在地区是否支持提现",
+      "time": "完善档案和收款设置通常1–3天；是否能接到合适的单取决于作品集和竞争，不保证",
+      "fit": "有可远程交付的设计、开发、写作或运营技能，希望平台不从创作者侧抽成的人；预估投入：每周5–10小时找项目、谈范围和交付",
+      "why": "官方把「对创作者不抽成」、免费档由付款方承担的分档平台费，以及 Pro 可免除该费用写得很清楚。上榜理由：相对上一份基线 Freelancer.com「成交后约10%或5美元取高者的项目费」，今天换成 Contra「对创作者不抽成，免费档由付款方按约15/29美元承担平台费」。公开 X 仅作线索。",
       "steps": [
-        "阅读 freelancer.com/feesandcharges，确认固定价与时薪费率、最低余额、竞赛费用和特殊项目口径后再注册并完善档案",
-        "只发布你能交付的技能，附上可核验样例、交付时间和修改次数；报价时把约10%或5美元取高者计入成本",
-        "全程走站内里程碑付款；不要引导站外交易，也不要承诺无法核实的结果或期限"
+        "打开官方定价页和费用说明，确认对创作者不抽成、免费档付款方每笔约15或29美元平台费、Pro 可免除该费用，以及提现和兑汇规则后再注册",
+        "完善作品集，只接自己能交付的项目，用平台合同和发票收款，不要承诺每周都能接到单",
+        "收款后按费用说明核对付款方平台费、支付处理费和自己的提现费用；如需免除付款方平台费再考虑是否升级 Pro，不承诺收入"
       ],
-      "risk": "风险等级：中。新账户可能很难接到单；约20美元余额会被占用，免费投标次数有限；服务费因项目类型而异，违反平台规则或争议可能限制账户。不承诺收益。",
+      "risk": "风险等级：中。对创作者不抽成并不等于没有成本：提现、兑汇和支付处理费仍可能发生；免费档下付款方要额外承担平台费，可能影响成交意愿；竞争和所在地区能否提现也会影响结果。不承诺收益。",
       "risk_level": "中",
-      "reason": "费率规则可核对的远程接单平台，适合把已有技能做成英文服务。",
+      "reason": "创作者不抽成和分档平台费都写在官方页上，和上期按成交额向自由职业者收费的平台错开，适合用英文远程接项目的人。",
       "tags": [
         "副业",
-        "Freelancer",
+        "Contra",
         "远程接单",
-        "自由职业",
-        "服务费"
+        "不抽成"
       ],
       "sources": [
         {
-          "title": "Freelancer Fees and Charges, Earn And Save More! | Freelancer",
-          "url": "https://www.freelancer.com/feesandcharges",
-          "publisher": "Freelancer",
+          "title": "Contra | Pricing",
+          "url": "https://contra.com/pricing",
+          "publisher": "Contra",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         },
         {
-          "title": "Hire Freelancers & Find Freelance Jobs Online | Freelancer",
-          "url": "https://www.freelancer.com/",
-          "publisher": "Freelancer",
-          "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "title": "Fees overview",
+          "url": "https://help.contra.com/en/articles/9322934-fees-overview",
+          "publisher": "Contra",
+          "published": "2026-08-06",
+          "kind": "official"
         }
       ],
-      "source_url": "https://www.freelancer.com/feesandcharges"
+      "source_url": "https://contra.com/pricing"
     },
     {
       "rank": 6,
-      "name": "LearnWorlds：开设网课或数字学院，官方定价页写明 Starter 年付展示约44美元/月、按次入学约5美元（月付约49美元/月；Pro Trainer 年付约79美元/月起免入学费；另计支付通道费）",
+      "name": "Paddle：用官方结账销售数字产品或订阅，官方定价页写明按次收取约5%+0.50美元、无月费，由 Paddle 作为 Merchant of Record 处理收款、税务合规和相关买家支持（以官方定价页为准）",
       "type": "数字产品/接单",
-      "summary": "用 LearnWorlds 搭建并出售自己的课程、辅导或会员内容。官方定价页写明：Starter 档年付展示约44美元/月、月付约49美元/月，另对每次课程入学收取约5美元，每月活跃学员约1,000人、1名管理员；下一档 Pro Trainer 年付展示约79美元/月、月付约99美元/月，官方称不再收取入学费，并开放订阅、会员和分期等卖法。更高的 Learning Center、Corporate 档面向品牌学院与多组织培训。官方 FAQ 称价格不含增值税，也没有额外隐藏平台费，但学员付款仍会走 Stripe、PayPal 等支付通道（页面举例当前约2.9%+0.30美元，以支付商为准）。可先开约30天试用再决定是否付费。只卖自己有权销售的原创课程，不出售平台账号。",
-      "cost": "Starter 档年付展示约44美元/月或月付约49美元/月，另计约5美元/次入学费与支付通道费；更高档免除入学费但月费更高",
+      "summary": "Paddle 官方定价页写明：按 Pay-as-you-go 销售，Paddle 作为 Merchant of Record，结账按每笔约5%+0.50美元计费，无月费、无迁移费，也不另收管理付款、额外支付方式和付款相关买家支持的费用。同页写明服务覆盖结账、订阅计费、多币种收款，以及销售税/VAT 等税务合规、欺诈防护和相关买家支持。高交易量或更复杂需求可走定制价格；定价页 FAQ 还写明售价低于约10美元的商品可联系洽谈，且无锁定期。必须只销售自己拥有或已获授权的数字产品或订阅，开户与结算地区以官方说明为准，不承诺销量。公开 X 只作线索，本条交叉核验依据是官方定价页。",
+      "cost": "无月费；官方定价页写明按结账每笔约5%+0.50美元（低单价或高交易量可能另有定制价格，以官方说明为准）",
       "difficulty": 3,
-      "threshold": "能产出可交付的原创课程或训练营；接受平台月费与 Starter 档入学费；收款需自备 Stripe 或 PayPal 等通道",
-      "time": "建好一门课并上架通常数天到数周；获客仍需自己的内容和渠道，见效节奏因选题而异",
-      "fit": "有可教会别人的技能或流程、愿意把经验做成可重复出售课程的人；预估投入：每周6小时",
-      "why": "官方定价页把各档月费、入学费、学员上限和支付通道另计写得很清楚。上榜理由：相对昨日基线 Fourthwall「开创作者店卖数字产品、按档收取平台费」路径，今天换 LearnWorlds「自建课程站、Starter 按次入学+月费」路径。",
+      "threshold": "已有可售的数字产品或订阅，并能按官方流程完成商户入驻与结账集成；接受按笔计费，以及开户、结算地区以官方审核为准",
+      "time": "申请、集成结账和上架通常数天到两周；是否有人购买取决于产品和推广，不保证",
+      "fit": "希望把数字产品或订阅卖到海外、并让平台代为处理税务与收款的人；预估投入：先集中完成入驻和结账，此后每周4–8小时更新产品与服务买家",
+      "why": "官方把无月费、按笔约5%+0.50美元以及 Merchant of Record 包含的税务和买家支持写得很清楚。上榜理由：相对上一份基线 Bandcamp「数字商品平台抽成约15%，累计满约5000美元后可降至约10%」，今天换成 Paddle「无月费、结账每笔约5%+0.50美元并由平台作为 Merchant of Record」。公开 X 仅作线索。",
       "steps": [
-        "打开 learnworlds.com/pricing，核对 Starter 与 Pro Trainer 的月费、入学费、学员上限、试用和支付通道费后注册试用",
-        "先做一门你真正能交付的小课或训练营，写清大纲、作业与售后范围，只卖自己的内容",
-        "用自有域名和收款通道上线，出单后再按入学量决定是否升级到免入学费的档位"
+        "打开官方定价页，确认按结账每笔约5%+0.50美元、无月费，以及 Merchant of Record 包含的税务和买家支持后再申请",
+        "按官方流程完成入驻，只上架自己拥有或已获授权的数字产品或订阅，并把结账集成到自己的站点或应用",
+        "上线后按后台核对每笔费用、结算和退款或拒付处理，不承诺订单数或收入"
       ],
-      "risk": "风险等级：中。即使没有成交也要承担月费；Starter 档每次入学另收费，量大时成本上升；支付通道费另计；课程同质化严重，不保证能卖出。不承诺收益。",
+      "risk": "风险等级：中。申请可能被拒或受地区限制；约5%+0.50美元之外，拒付等情形可能另有费用，以条款为准；低客单价时固定的0.50美元占比更高。不承诺收益。",
       "risk_level": "中",
-      "reason": "定价公开的网课平台，适合把一次制作的课程反复售卖。",
+      "reason": "费率和所含服务写在官方定价页上，和上期按销售额抽成的作品平台错开，适合把数字产品或订阅卖到海外的人。",
       "tags": [
         "数字产品",
-        "LearnWorlds",
-        "网课",
-        "会员",
-        "知识产品"
+        "Paddle",
+        "订阅",
+        "Merchant of Record"
       ],
       "sources": [
         {
-          "title": "LearnWorlds Pricing: Choose The Best Plan For Your eLearning Business",
-          "url": "https://learnworlds.com/pricing/",
-          "publisher": "LearnWorlds",
+          "title": "All-in-One Pricing, No Hidden Costs | Paddle",
+          "url": "https://www.paddle.com/pricing",
+          "publisher": "Paddle",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         }
       ],
-      "source_url": "https://learnworlds.com/pricing/"
+      "source_url": "https://www.paddle.com/pricing"
     },
     {
       "rank": 7,
-      "name": "闲鱼技能服务：跨境独立站选品调研与竞品对照表，按行业或按套餐接单（原创交付，不卖券码账号）",
+      "name": "闲鱼技能服务：独立站欢迎邮件、弃购挽回与售后跟进英文序列定制，按套或按场景接单（原创交付，不承诺打开率或转化，不卖券码账号）",
       "type": "闲鱼非实物",
-      "summary": "在闲鱼发布自有技能的信息服务：根据客户指定的类目或关键词，整理公开可核验的竞品对照、搜索热度观察、定价区间和差异点，交付成表格或简报。按「单类目调研/多款对照套餐/包月跟踪」收费，站内交易防纠纷。只做信息公开整理与结构交付，不代操店铺、不承诺出单或排名，不卖券码或账号，也不提供需特殊资质却未备案的服务。本轮公开 X 检索里出现转售网盘课程、拆会员卡和「官方成品号」等线索，已按红线剔除，不作为可做项目。",
-      "cost": "0；需实名与可演示的脱敏调研样例",
+      "summary": "面向已有或正在搭建独立站的卖家，按欢迎信、弃购挽回、发货通知和售后跟进等场景，交付可直接改的英文邮件序列或自动化文案。须按客户提供的品牌语气、产品和政策来原创改写，不套用未授权模板，也不构成营销效果或法律意见。全程走闲鱼站内交易，遵守卖家服务协议：不卖账号、券码、代领或任何非原创资料包。公开 X 上出现过「独立站邮件运营」「买家在求改文件/做图」等讨论，一律只作线索，不能当成已核实需求量或收入证明；本条可核验依据是闲鱼卖家服务协议，以及你自己按协议交付原创文案。不承诺打开率、回复率或出单。",
+      "cost": "0；需实名，并准备可演示的脱敏样例（不得含客户隐私或未授权品牌内容）",
       "difficulty": 2,
-      "threshold": "能按平台类目规范发布技能，样例须标注信息来源和观察日期；全程站内交易，不承诺出单、流量或排名",
-      "time": "准备样例与上架通常1–2天；获单节奏因类目竞争而异",
-      "fit": "做过独立站或跨境选品、能把公开信息做成可读对照表并接受修改轮次的人；预估投入：每周5小时",
-      "why": "选品调研是可按行业重复交付的技能，和文案、视觉分开报价更清晰。上榜理由：相对昨日基线「电商详情页文案与卖点撰写」，今天换「跨境独立站选品调研与竞品对照表」技能路径。",
+      "threshold": "能把欢迎、弃购、发货和售后场景写成清楚、得体的英文序列，并按客户品牌改写；全程站内交易；不承诺打开率或转化，不卖券码账号",
+      "time": "准备样例通常1–2天；接单和修改周期按套餐约定，是否能持续接到单不保证",
+      "fit": "英文写作尚可、了解独立站常见邮件节点，并愿意按客户资料定制的人；预估投入：每周4–8小时沟通需求和改稿",
+      "why": "这是可反复接的原创技能服务，和上期「FAQ、退换货与运费说明」错开到邮件自动化序列。公开 X 只作线索，且已过滤打包开源、卖激活码、贩卖资料等不合规说法。上榜理由：相对上一份基线「独立站 FAQ/退换货/运费说明英文撰写」，今天换成欢迎、弃购挽回与售后跟进英文序列。",
       "steps": [
-        "阅读闲鱼卖家服务协议，确认类目与禁发内容，避免承诺出单、排名或虚构数据，也不卖账号、会员卡或券码",
-        "准备 2–3 份脱敏样例（类目、对照维度、来源和日期），写清交付格式、修改次数与报价",
-        "全程站内沟通与交易；把高频结构沉淀为可另售的原创对照表模板（只卖自己的模板，不转售他人资料或未授权课程）"
+        "阅读闲鱼卖家服务协议，只用站内交易上架「英文邮件序列定制」类技能，明确不卖账号、券码或资料包",
+        "准备一套脱敏样例（欢迎信、弃购信、发货/售后跟进），接单后按客户品牌、产品和政策原创改写，并注明不构成效果或法律意见",
+        "按约定轮次修改并交付可导入的文案；不承诺打开率、转化或收入，也不把公开讨论里的需求当成已核实订单"
       ],
-      "risk": "风险等级：中。同类供给多，可能需要改价或等单；客户常把「调研」理解成「保证能卖」，须提前写清不承诺出单；站外交易与夸大效果易导致纠纷或处罚。不承诺收益。",
+      "risk": "风险等级：中。需求不稳定，议价和修改轮次可能拉长；若客户把文案用于虚假促销或未授权品牌，你也可能被牵连，须拒绝此类需求。不承诺收益。",
       "risk_level": "中",
-      "reason": "需求明确的选品调研技能，适合把信息整理做成可重复交付的套餐。",
+      "reason": "属于可直接进账的原创技能，主题与上期页面说明类文案错开，且能坚持站内交易和合规边界。",
       "tags": [
         "闲鱼",
         "技能服务",
-        "选品",
-        "独立站",
-        "竞品对照"
+        "邮件序列",
+        "英文文案"
       ],
       "sources": [
         {
@@ -325,165 +276,146 @@
           "url": "https://terms.alicdn.com/legal-agreement/terms/platform_service/20220929192826912/20220929192826912.html",
           "publisher": "terms.alicdn.com",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         }
       ],
       "source_url": "https://terms.alicdn.com/legal-agreement/terms/platform_service/20220929192826912/20220929192826912.html"
     },
     {
       "rank": 8,
-      "name": "出海新词：盯 Futurepedia AI 工具目录做英文「是什么/替代品」单页，再挂 AdSense 或相关联盟",
+      "name": "出海新词：盯 Peerlist Launchpad 公开的每周新品，做英文「是什么/替代品/怎么用」单页，再挂 AdSense 或相关联盟",
       "type": "出海新词",
-      "summary": "每天看 Futurepedia 官方 AI 工具目录（按生产力、视频、文本、图像、自动化、代码等分类收录），挑仍缺清晰英文解释的新工具，做一页「它是什么、能解决什么、怎么起步、和相近方案怎么选」的原创说明，发布在自己的小站上。说明里应补上你实际点开或试用后的观察、限制和来源链接，避免复制产品页或批量生成没有独特信息的程序性薄页。有稳定访问后再申请 Google AdSense，或在相关工具评测里合规挂 Amazon Associates 等联盟链接。本轮公开 X 检索里有人讨论程序性 SEO 被惩罚、独特数据以及 ChatGPT 引荐点击，只能当作「把说明页写清楚、方便被引用」的方法线索，其中的点击或收入数字均为作者自称，不能当成已核实流量或收入。",
-      "cost": "0（复用已有小站）或另计域名与托管；AdSense 与 Amazon Associates 注册为0门槛费",
-      "difficulty": 3,
-      "threshold": "能读懂产品页并写成准确英文；内容必须原创，不复制官方文案，不承诺排名或引荐量",
-      "time": "发现新词到发出一页通常1–2天；收录与变现往往要数周到数月",
-      "fit": "关注 AI 新品工具、能写清楚英文解释、已有或愿意做一个小站的人；预估投入：每周4–5小时",
-      "why": "Futurepedia 官方工具目录是可反复核对的公开新品源，变现路径仍是自己的说明页接广告或联盟。上榜理由：相对昨日基线「盯 Hugging Face Trending 做英文解释页」路径，今天换「盯 Futurepedia AI 工具目录做英文解释页」路径。",
+      "summary": "Peerlist 官方 Launchpad 页按周展示面向开发者和设计者的项目发布（本次抓取可见第48周，日期为11月23日至11月29日）。用法是从公开周榜或当周发布列表里挑仍缺少清楚英文说明的新品，做原创的「是什么、适合谁、和同类怎么比、怎么开始用」单页，有稳定访问后再申请 AdSense 或放置相关联盟链接。目录里的项目名和简介只是选词线索，必须回到该产品自己的官方页核对功能与价格，不能把列表摘要写成已核实评测，更不能承诺排名或收入。公开 X 只作线索，本条交叉核验依据是 Peerlist Launchpad 与官网。",
+      "cost": "查阅目录为0；做页和托管另计（可复用免费档小站）；广告或联盟须先通过平台审核",
+      "difficulty": 2,
+      "threshold": "能从 Peerlist Launchpad 公开周更列表里筛选主题，并写成原创英文说明页；接受「本周有新品≠有搜索量或收入」，上页前须核对产品官方说明",
+      "time": "选词和做一页通常1–3天；要有稳定访问和广告或联盟收入，往往需要数周到数月，不保证",
+      "fit": "愿意跟踪开发者或设计工具新品、并能用英文写清楚对比说明的人；预估投入：每周4–8小时选词、核实和更新页面",
+      "why": "Peerlist Launchpad 是可公开核验的每周新品源，适合做说明页而不是跟风喊单。上榜理由：相对上一份基线「盯 Google Trends 公开上升或地区比较搜索词」，今天换成盯 Peerlist Launchpad 的每周新品。公开 X 仅作线索。",
       "steps": [
-        "打开 futurepedia.io/ai-tools，按分类查看仍缺少清晰英文入门说明的工具，先确认官方页与功能边界",
-        "在自己的小站写一页原创「是什么/怎么用/替代品」，补充你实际试用或点开后的观察、限制与来源链接，避免堆薄页",
-        "有稳定访问后再申请 AdSense，或在相关对比里按规范披露 Amazon Associates 等联盟关系；不要把 X 上的引荐数字写成已核实收入"
+        "打开 Peerlist Launchpad 官方页，记录当周或近期发布项目的名称和简介，只当作选词线索",
+        "回到该产品官方站点核对功能、定价和地区限制后，再写原创的英文「是什么/替代品/怎么用」单页，不要复制列表摘要",
+        "页面先求能被检索和读完，有稳定访问后再申请 AdSense 或放置相关联盟并披露关系，不承诺流量或收入"
       ],
-      "risk": "风险等级：中。新品热度退去很快，页面可能没有长期搜索量；AdSense 与联盟都要过审，且可能因低质或政策拒绝；X 上的引荐或点击数都是作者自称。不承诺收益。",
+      "risk": "风险等级：中。当周新品可能很快改名、停运或并无搜索需求；广告和联盟都须审核；若只改写列表简介而未核对官方页，容易写出过时或不实内容。不承诺收益。",
       "risk_level": "中",
-      "reason": "公开可刷新的 AI 工具目录，适合做成英文解释页再接广告或联盟。",
+      "reason": "公开每周发布目录可核验，和上期趋势词路径错开，适合做开发者或设计工具说明型出海小页。",
       "tags": [
         "出海新词",
-        "Futurepedia",
-        "AI工具",
-        "AdSense",
-        "联盟营销"
+        "Peerlist",
+        "Launchpad",
+        "内容站"
       ],
       "sources": [
         {
-          "title": "AI Tools - Find AI Software Categorized by Futurepedia",
-          "url": "https://www.futurepedia.io/ai-tools",
-          "publisher": "Futurepedia",
+          "title": "Peerlist Launchpad",
+          "url": "https://peerlist.io/projects",
+          "publisher": "Peerlist",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         },
         {
-          "title": "Google AdSense - Earn Money from Your Website with Monetization",
-          "url": "https://adsense.google.com/start/",
-          "publisher": "Google AdSense",
+          "title": "Peerlist | The Professional Network for builders to show and tell!",
+          "url": "https://peerlist.io/",
+          "publisher": "Peerlist",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
-        },
-        {
-          "title": "Amazon.com Associates Central",
-          "url": "https://affiliate-program.amazon.com/",
-          "publisher": "Amazon Associates",
-          "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         }
       ],
-      "source_url": "https://www.futurepedia.io/ai-tools"
+      "source_url": "https://peerlist.io/projects"
     },
     {
       "rank": 9,
-      "name": "案例拆解：TrustMRR——作者自称先做「只读支付接口核验收入」的榜单，流量起来后卖广告位，再做成带约3%介绍费的收购市场；2026-09-01 文中称约9个月产品收入逾30万美元（只拆方法）",
+      "name": "案例拆解：Observer——2026-11-21 Indie Hackers 文中，作者自称其会议助手 Observer 约9个月后达到约100美元月经常性收入、约5名付费用户，并自称首位付费用户来自 AI 聊天机器人推荐而非 Google；文中称收入经 Paddle 在 TrustMRR 展示（只拆方法）",
       "type": "案例拆解",
-      "summary": "TrustMRR 作者 Marc Lou 于 2026-09-01 在个人站点回顾：2025-10 月末因公开讨论里常见伪造收入截图，用只读支付接口做了一个可核验收入与月经常性收入的榜单并很快发布。作者自称上线后先在页面加广告位（从约299美元/月逐步提高到约1,499美元/月），三天内广告位售罄、文中称当时收入约20,378美元；热度回落后把「可否挂牌出售」做成市场，并于 2026-01-15 加上约3%介绍费。文中列举截至撰稿时的成绩：产品收入约301,198美元、介绍费约3万美元、154位创始人被收购，并称最好的 2026-07 单月约44,000美元、利润率约90%。方法重点是先解决一个真实的信任问题，用已有注意力变现，再在用户主动提出的需求上加交易功能，而不是一上来就做复杂平台。收入数字为作者自称，本榜单未做独立审计，只拆方法，不把对方收入当可复制目标。",
-      "cost": "0（阅读公开文章）；若跟做需自备产品和获取用户的能力",
-      "difficulty": 3,
-      "threshold": "能把公开方法对照自身场景，而不是复制其品类、客单价或收入数字",
-      "time": "阅读与标注方法通常数小时；若试验新产品，验证周期以数月计",
-      "fit": "已经做过公开数据或小工具、想理解「先做信任基础设施，再在用户请求上扩展变现」的人；预估投入：先读原文，跟做则另计",
-      "why": "作者把「先做可核验的信任工具，用注意力卖广告，再按用户请求加上市场和介绍费，并在热度下降后继续改产品」的过程写得很清楚。上榜理由：相对昨日基线 EmailEngine「把开源做成持续兼容的维护承诺」案例，今天换 TrustMRR「先核验收入再扩展成收购市场」案例。",
+      "summary": "2026-11-21 Indie Hackers 文中，作者 Rohit Malhotra 自称从约2026-02起独自开发会议助手 Observer，定价为先免费试用再订阅，并自称当月达到约100美元月经常性收入、约5名付费用户。作者自称首位付费用户并不是来自 Google、Product Hunt 或社交媒体，而是有人向 AI 聊天机器人询问同类工具时被推荐到该产品；作者据此强调：把官网产品说明写清楚，即使域名权威度几乎为0，也有可能被大模型推荐。文中给出 TrustMRR 链接，称收入经 Paddle 核验；TrustMRR 公开页也写明经 Paddle API 核验，但页面数字会更新，不能与文章截点一一对应，更不能当成你可复制的收益。只拆方法：先把产品定位和说明写清楚，再观察能否被问答型工具推荐，并同步做外向触达。产品以「屏幕共享不可见、会议中不加入机器人」为卖点，使用前须自行确认是否符合雇主、客户或会议平台规则，本条不鼓励未告知的隐身辅助。公开 X 只作线索。不承诺你能获得同样的推荐或收入。",
+      "cost": "0（只学方法；若自己做产品，开发、合规说明与获客成本另计）",
+      "difficulty": 1,
+      "threshold": "愿意读完公开文章、官网和 TrustMRR 页面，只提取可复用步骤，不把作者自称收入或第三方展示数字当成可复制结果",
+      "time": "读完并整理方法通常1–2小时；若自己实践，从说明页到被推荐可能需要数月，且完全不保证",
+      "fit": "在做小工具或出海说明页、想理解「被 AI 推荐」与内容表达关系的人；预估投入：先花一次时间拆方法，再按自己产品迭代说明页",
+      "why": "这是带公开文章和 TrustMRR 展示链接的新近案例，适合只拆「把产品写清楚、让问答工具能推荐」的方法，而不是抄收入数字。上榜理由：相对上一份基线 Laravel Shift「把升级流程做成自动化工具并一人长期运营」，今天换成 Observer「作者自称首位付费用户来自 AI 聊天推荐」。公开 X 仅作线索，文中收入一律标作者自称。",
       "steps": [
-        "阅读作者 2026-09-01 原文并打开 TrustMRR 站点，标注：最初解决的是什么信任问题、第一笔收入从哪来、市场和介绍费是在什么信号之后才加上的",
-        "对照自身：你是否只在做功能，而没有一个别人愿意反复查看的信任或数据缺口；是否在没有需求信号时就先做交易闭环",
-        "若试验：先选一个你能持续提供、且可用公开或只读数据核验的窄问题，再决定广告、订阅还是介绍费；勿照搬对方收入数字与节奏"
+        "阅读 2026-11-21 Indie Hackers 原文和 Observer 官网，分清哪些是作者自称的时间线、获客经过和收入数字",
+        "只提取可复用方法：用官网把产品是什么、适用场景和限制写清楚，再补充外向触达；不要把 TrustMRR 或文章里的数字当成目标或证明",
+        "若自己做类似说明页或产品，同时核对比宣传语和实际使用场景是否合规，不承诺会被大模型推荐，也不承诺收入"
       ],
-      "risk": "风险等级：中。这是作者自述，收入数字未经本榜单独立审计；做核验或交易市场会涉及数据授权、支付合规和纠纷处理，方法不可当收益承诺。",
-      "risk_level": "中",
-      "reason": "公开案例里清晰的「先做可核验信任工具，再按用户请求扩展变现」组合。",
+      "risk": "风险等级：低（仅学习方法）。作者自称收入和 TrustMRR 展示数字都可能变化，不能当承诺；「会议中隐身辅助」可能不符合部分公司或平台规则，照做产品或使用前须自行判断。不承诺收益。",
+      "risk_level": "低",
+      "reason": "公开访谈和产品页可核对，方法与上期开发者工具案例错开，且收入数字全程按作者自称处理。",
       "tags": [
         "案例拆解",
-        "TrustMRR",
-        "一人公司",
-        "核验收入",
-        "市场"
+        "Observer",
+        "Indie Hackers",
+        "GEO"
       ],
       "sources": [
         {
-          "title": "I vibe-coded $330K in 9 months",
-          "url": "https://marclou.com/p/i-vibe-coded-330k-in-9-months",
-          "publisher": "Marc Lou",
-          "published": "2026-09-01",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "title": "Observer | Undetectable AI Companion for Meetings",
+          "url": "https://getobserver.app/",
+          "publisher": "Observer",
+          "published": "",
+          "kind": "official"
         },
         {
-          "title": "TrustMRR - Buy and Sell SaaS Startups",
-          "url": "https://trustmrr.com/",
+          "title": "My first paying customer found me through an AI chatbot, not Google. Now at $100 MRR - Indie Hackers",
+          "url": "https://www.indiehackers.com/post/my-first-paying-customer-found-me-through-an-ai-chatbot-not-google-now-at-100-mrr-5wHwolMpmIoVc7CLlZ3g",
+          "publisher": "Indie Hackers",
+          "published": "2026-11-21",
+          "kind": "community"
+        },
+        {
+          "title": "Observer revenue: $205 in the last 30 days | TrustMRR",
+          "url": "https://trustmrr.com/startup/observer",
           "publisher": "TrustMRR",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "community"
         }
       ],
-      "source_url": "https://marclou.com/p/i-vibe-coded-330k-in-9-months"
+      "source_url": "https://getobserver.app/"
     },
     {
       "rank": 10,
-      "name": "MailerLite Affiliate：写邮件营销/Newsletter 教程，官方称推荐付费订阅可拿约30%终身分成（约45天 Cookie，约30天冻结，须满约100美元且至少两笔不同推荐才结算；以官方页与条款为准）",
+      "name": "Kit Affiliate：写邮件通讯或创作者工具教程，官方佣金说明与 PartnerStack 项目页写明合资格推荐可拿客户付款约50%、持续约前12个月（适用于约2024-10-15及以后的推荐）；申请与结算走 PartnerStack，满约5美元且核准后约可从次月13日起提现（以官方说明与后台为准）",
       "type": "工具活动",
-      "summary": "MailerLite 官方联盟：申请通过后获得跟踪链接，推荐新客户升级到付费方案，可按官方口径拿约30%终身分成。官方联盟页与帮助指南（约2026-03-02更新）写明：Cookie 约45天；每笔成交先冻结约30天以防退款，再进入待结算余额；须待开放余额达到约100美元，且来自至少两笔不同推荐的销售，才符合自动结算条件；在账单信息完整并已选择收款方式的前提下，结算通常每周五自动处理。帮助页称审核通常最多约10个工作日。不得夸大收入，须按规范披露联盟关系，完整禁止事项以官方条款为准。",
-      "cost": "0；需有邮件营销、Newsletter 或自动化相关内容渠道，申请须通过审核",
+      "summary": "Kit（原 ConvertKit）官方佣金 FAQ（约2026-08-17）写明：联盟佣金结构为客户付款的约50%，覆盖约前12个月。PartnerStack 项目页同样写明，约2024-10-15及以后的推荐为最多约12个月的约50%分成（更早推荐为另一套约30%/24个月口径，以项目页为准）。申请、跟踪和打款走 PartnerStack。FAQ 写明可设置直接存款、PayPal 或 Stripe（视所在地区是否支持）；平台会在次月月初审核上月佣金，核准后约从当月13日起可提现，门槛约5美元。退款、自称推荐或未核准都可能导致佣金被拒绝。必须披露联盟关系，不承诺成交或佣金。公开 X 只作线索，本条交叉核验依据是官方佣金 FAQ 与 PartnerStack 项目页。",
+      "cost": "0（需自备可发布教程的站点或渠道；不包含你自己订阅 Kit 的费用）",
       "difficulty": 2,
-      "threshold": "申请通过；只推荐经跟踪链接进入并升级为付费用户的新客户；能按规范披露联盟关系；达到最低结算门槛前可能暂时无法提现",
-      "time": "申请与内容准备通常数天到两周；计佣还须经过约30天冻结，并凑够结算门槛，见效慢于一次性打款",
-      "fit": "会写邮件营销、Newsletter 或自动化对比教程、已有创作者或小企业受众的人；预估投入：每周4小时",
-      "why": "官方联盟页和帮助指南公开了30%终身分成、45天 Cookie、30天冻结和100美元/两笔推荐的结算门槛等可核对条件。上榜理由：相对昨日基线 WP Engine「按套餐一次性打款」路径，今天换 MailerLite「付费订阅约30%终身分成」路径。",
+      "threshold": "能写清楚的邮件通讯或创作者工具教程/评测，并按条款披露联盟关系；接受 PartnerStack 审核、约12个月分成窗口，以及所在地区是否支持打款方式",
+      "time": "申请与准备教程通常数天；出单、审核和提现取决于流量与客户是否持续付费，不保证",
+      "fit": "已有或准备做英文邮件营销、Newsletter 或创作者工具内容的人；预估投入：每周4–8小时写内容和维护披露",
+      "why": "官方把约50%前12个月、审核提现节奏和约5美元门槛写得很清楚。上榜理由：相对上一份基线 Zapier「合资格首购经观察期后的一次性推荐奖励」，今天换成 Kit「合资格付款约50%、持续约前12个月」。公开 X 仅作线索。",
       "steps": [
-        "打开 mailerlite.com/affiliate，阅读联盟页、帮助指南和官方条款中的分成、Cookie、冻结期、结算门槛和禁止事项后提交申请",
-        "写一篇你真正用过的邮件营销或 Newsletter 工具上手/对比教程，按规范披露联盟关系",
-        "把跟踪链接放到自己的评测页；不要夸大「终身被动收入」，也不要在未核条款前做误导性投放"
+        "打开官方佣金 FAQ 和 PartnerStack 项目页，确认约50%/12个月、约5美元门槛和次月约13日起可提现的规则后再提交申请",
+        "申请通过后，用真实教程或评测介绍合资格付费方案，放置跟踪链接并明确披露联盟关系，不要承诺佣金或成功率",
+        "只统计核准的合资格付款；提现以 PartnerStack 后台、约次月13日起可取以及所在地区支持的打款方式为准"
       ],
-      "risk": "风险等级：中。申请可能被拒；客户在冻结期内退款则该笔不计佣；未达到最低结算门槛前无法打款；客户停订后该笔终身分成即停止。不承诺收益。",
+      "risk": "风险等级：中。申请或单笔佣金可能被拒；客户退款会导致佣金取消；约12个月之后官方 FAQ 写明不再产生该笔分成；部分地区可能没有直存、PayPal 或 Stripe 选项。不承诺收益。",
       "risk_level": "中",
-      "reason": "条款可核对的邮件工具联盟，适合把教程长期挂链并拿续费分成。",
+      "reason": "分成窗口和提现规则公开可核验，和上期自动化工具的一次性推荐奖励错开，适合做邮件或 Newsletter 内容的人。",
       "tags": [
         "工具活动",
-        "MailerLite",
+        "Kit",
         "联盟营销",
-        "邮件营销",
-        "Newsletter"
+        "邮件通讯"
       ],
       "sources": [
         {
-          "title": "Earn 30% recurring commission for every sale",
-          "url": "https://www.mailerlite.com/affiliate",
-          "publisher": "MailerLite",
-          "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "title": "Kit affiliate commissions FAQ | Kit Help Center",
+          "url": "https://help.kit.com/en/articles/2502473-kit-affiliate-commissions-faq",
+          "publisher": "Kit",
+          "published": "2026-08-17",
+          "kind": "official"
         },
         {
-          "title": "Guide for MailerLite affiliates",
-          "url": "https://www.mailerlite.com/help/guide-to-affiliate-payouts-and-commissions",
-          "publisher": "MailerLite",
-          "published": "2026-03-02",
-          "kind": "official",
-          "checked": "2026-11-13"
-        },
-        {
-          "title": "Affiliate Program Terms",
-          "url": "https://www.mailerlite.com/legal/affiliate-program-terms",
-          "publisher": "MailerLite",
+          "title": "Partnerstack - Program Directory",
+          "url": "https://market.partnerstack.com/program/kit",
+          "publisher": "PartnerStack",
           "published": "",
-          "kind": "official",
-          "checked": "2026-11-13"
+          "kind": "official"
         }
       ],
-      "source_url": "https://www.mailerlite.com/affiliate"
+      "source_url": "https://help.kit.com/en/articles/2502473-kit-affiliate-commissions-faq"
     }
   ]
 }

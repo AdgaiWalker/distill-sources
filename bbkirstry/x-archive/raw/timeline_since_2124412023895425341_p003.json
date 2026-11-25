@@ -1,0 +1,1570 @@
+{
+  "data": [
+    {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2125098315557839264",
+      "created_at": "2026-11-24T05:28:15.000Z",
+      "edit_history_tweet_ids": [
+        "2125099153697251619"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1808376130468184064",
+            "start": 0,
+            "username": "jev_chat"
+          }
+        ]
+      },
+      "id": "2125099153697251619",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2491,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125098315557839264",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jev_chat woc 还有这种东西",
+      "url": "https://x.com/bbkirstry/status/2125099153697251619"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2125095575582597598",
+      "created_at": "2026-11-24T05:23:54.000Z",
+      "edit_history_tweet_ids": [
+        "2125098061533942231"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1707214568639086592",
+            "start": 0,
+            "username": "KinGao476942"
+          }
+        ]
+      },
+      "id": "2125098061533942231",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 400,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125095575582597598",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@KinGao476942 都不白来！🫶",
+      "url": "https://x.com/bbkirstry/status/2125098061533942231"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2125090683786776576"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "conversation_id": "2125090692506800150",
+      "created_at": "2026-11-24T04:54:38.000Z",
+      "edit_history_tweet_ids": [
+        "2125090692506800150"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5v4eevjS2e",
+            "end": 61,
+            "expanded_url": "https://x.com/bbkirstry/status/2125090692506800150/photo/1",
+            "media_key": "3_2125090683786776576",
+            "start": 38,
+            "url": "https://t.co/5v4eevjS2e"
+          },
+          {
+            "display_url": "x.com/kingao476942/s…",
+            "end": 85,
+            "expanded_url": "https://twitter.com/kingao476942/status/2125089800688636297",
+            "start": 62,
+            "url": "https://t.co/GaJ6srnzzL"
+          }
+        ]
+      },
+      "id": "2125090692506800150",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 7335,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 23,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125089800688636297",
+          "type": "quoted"
+        }
+      ],
+      "text": "帅！！👻👻\n还能连GitHub ！！！\n\n我群里就这样发起了一阵邀请码接力 https://t.co/5v4eevjS2e https://t.co/GaJ6srnzzL",
+      "url": "https://x.com/bbkirstry/status/2125090692506800150"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2125079591723384832"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "conversation_id": "2125079599268983069",
+      "created_at": "2026-11-24T04:10:33.000Z",
+      "edit_history_tweet_ids": [
+        "2125079599268983069"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/HHSuPSI7fW",
+            "end": 96,
+            "expanded_url": "https://x.com/bbkirstry/status/2125079599268983069/photo/1",
+            "media_key": "3_2125079591723384832",
+            "start": 73,
+            "url": "https://t.co/HHSuPSI7fW"
+          },
+          {
+            "display_url": "x.com/alexxxcreator/…",
+            "end": 120,
+            "expanded_url": "https://twitter.com/alexxxcreator/status/2125031638518419925",
+            "start": 97,
+            "url": "https://t.co/RJLu622oct"
+          }
+        ]
+      },
+      "id": "2125079599268983069",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "抖音万粉目标已完成1/10！\n\n国内真能有好用的personal agent吗？🤔\n我来感受一下字节什么水平👻\n\n以后小豆能帮我运营抖音吗（不是"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 2518,
+        "like_count": 17,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125031638518419925",
+          "type": "quoted"
+        }
+      ],
+      "text": "抖音万粉目标已完成1/10！\n\n国内真能有好用的personal agent吗？🤔\n我来感受一下字节什么水平👻\n\n以后小豆能帮我运营抖音吗（不是 https://t.co/HHSuPSI7fW https://t.co/RJLu622oct",
+      "url": "https://x.com/bbkirstry/status/2125079599268983069"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2124743234861887741",
+      "created_at": "2026-11-24T02:05:54.000Z",
+      "edit_history_tweet_ids": [
+        "2125048233454092484"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1603996932535226368",
+            "start": 0,
+            "username": "libanwen001"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/0xlangeai/stat…",
+            "end": 47,
+            "expanded_url": "https://x.com/0xlangeai/status/2124834438127432178?a=ihOjyN-LG-p0eFdKTgA&s=20",
+            "start": 24,
+            "url": "https://t.co/qaWb9sR4B7"
+          }
+        ]
+      },
+      "id": "2125048233454092484",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 17,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124834438127432178",
+          "type": "quoted"
+        },
+        {
+          "id": "2125047875600359583",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@libanwen001 昨晚播完啦！回放已出：https://t.co/qaWb9sR4B7",
+      "url": "https://x.com/bbkirstry/status/2125048233454092484"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2124775479882506751",
+      "created_at": "2026-11-24T01:51:35.000Z",
+      "edit_history_tweet_ids": [
+        "2125044629670437041"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1963054062599102464",
+            "start": 0,
+            "username": "TrangNgo171821"
+          }
+        ]
+      },
+      "id": "2125044629670437041",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125043360394285158",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TrangNgo171821 认知型内容只能看用户自己的理解，对于能理解能延展能消化的用户来说就算实用",
+      "url": "https://x.com/bbkirstry/status/2125044629670437041"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2125022034694680622",
+      "created_at": "2026-11-24T00:21:48.000Z",
+      "edit_history_tweet_ids": [
+        "2125022034694680622"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/dotey/status/2…",
+            "end": 116,
+            "expanded_url": "https://twitter.com/dotey/status/2125005196648431731",
+            "start": 93,
+            "url": "https://t.co/N3tfhFJHJA"
+          }
+        ]
+      },
+      "id": "2125022034694680622",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "很神奇的是，我总能在出色的领袖人物身上感受到一种超越个体/时代本身的「大局观」\n\n他们似乎承载了更大的意志和愿景\n\n说实话我对此非常着迷，我不知道应该称之为对影响力、权力还是高度的向往\n\n之前我对「功高盖主」这个词非常避讳，因为在职场上看到了很多被打压的新生力量，当然我不确定自己是否曾经属于「超常发挥」过而被打压的其中之一\n\n当个人能力略微领先，你会被夸奖\n当个人能力大幅领先，你会被嫉妒\n当个人能力能引领众人，你会被崇拜\n\n当个人能力无限超出、创造更大的社会价值时，便会成为众望所归、无法被替代的无冕之王\n\n与其追求流量，不如追求极致的卓越"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 2045,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125005196648431731",
+          "type": "quoted"
+        }
+      ],
+      "text": "很神奇的是，我总能在出色的领袖人物身上感受到一种超越个体/时代本身的「大局观」\n\n他们似乎承载了更大的意志和愿景\n\n说实话我对此非常着迷，我不知道应该称之为对影响力、权力还是高度的向往 https://t.co/N3tfhFJHJA",
+      "url": "https://x.com/bbkirstry/status/2125022034694680622"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2124840320261362151",
+      "created_at": "2026-11-24T00:02:55.000Z",
+      "edit_history_tweet_ids": [
+        "2125017282439208983"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1822961068106489856",
+            "start": 0,
+            "username": "JiangK82705"
+          }
+        ]
+      },
+      "id": "2125017282439208983",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125012770001408483",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JiangK82705 我下个月也跟上你和西门的步伐了，一起All in AI👻",
+      "url": "https://x.com/bbkirstry/status/2125017282439208983"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2125017071889330176",
+          "3_2125017071893512192"
+        ]
+      },
+      "author_id": "1923981862273417222",
+      "conversation_id": "2125017079569150182",
+      "created_at": "2026-11-24T00:02:07.000Z",
+      "edit_history_tweet_ids": [
+        "2125017079569150182"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/bdmw0E16vi",
+            "end": 166,
+            "expanded_url": "https://x.com/bbkirstry/status/2125017079569150182/photo/1",
+            "media_key": "3_2125017071889330176",
+            "start": 143,
+            "url": "https://t.co/bdmw0E16vi"
+          },
+          {
+            "display_url": "pic.x.com/bdmw0E16vi",
+            "end": 166,
+            "expanded_url": "https://x.com/bbkirstry/status/2125017079569150182/photo/2",
+            "media_key": "3_2125017071893512192",
+            "start": 143,
+            "url": "https://t.co/bdmw0E16vi"
+          },
+          {
+            "display_url": "x.com/ama_huangama/s…",
+            "end": 190,
+            "expanded_url": "https://twitter.com/ama_huangama/status/2124908704889806942",
+            "start": 167,
+            "url": "https://t.co/SUR0IHKKzC"
+          }
+        ]
+      },
+      "id": "2125017079569150182",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "过度专业吸引同行的案例+1🍻\n恭喜啊码终于启动这个小小的新业务！\n\n其实我觉得一部分习惯了默默耕耘的人，一开始其实是很难愿意向所有人「出售自己」的，有难以描述的心理洁癖/压力\n\n之前我也打趣自己：脱不下孔乙己的长衫hhhh 但付费群真的是最快的跟大佬的建联+学习方式，要允许别人使用我\n\n我转过啊码两篇长文\n第二篇他在发布之前很认真来找我探讨过该怎么写，最终不仅喜提10w+曝光，还带来了非常多精准的客资、被邀请到其他大佬的群里，这就是精准内容的力量👻\n\n其实我对FDE还是很看好的，大部分人可能有技术但是不知道从何开始，尤其是怎么获客怎么落地\n\n如果你也有困惑，欢迎一起来找🎖️金牌导师啊码多多学习～"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1648,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124908704889806942",
+          "type": "quoted"
+        }
+      ],
+      "text": "过度专业吸引同行的案例+1🍻\n恭喜啊码终于启动这个小小的新业务！\n\n其实我觉得一部分习惯了默默耕耘的人，一开始其实是很难愿意向所有人「出售自己」的，有难以描述的心理洁癖/压力\n\n之前我也打趣自己：脱不下孔乙己的长衫hhhh 但付费群真的是最快的跟大佬的建联+学习方式，要允许别人使用我 https://t.co/bdmw0E16vi https://t.co/SUR0IHKKzC",
+      "url": "https://x.com/bbkirstry/status/2125017079569150182"
+    },
+    {
+      "author_id": "1923981862273417222",
+      "conversation_id": "2124853809667334428",
+      "created_at": "2026-11-23T23:47:21.000Z",
+      "edit_history_tweet_ids": [
+        "2125013365210923064"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1869683226178146304",
+            "start": 0,
+            "username": "Saccc_c"
+          }
+        ]
+      },
+      "id": "2125013365210923064",
+      "lang": "und",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 81,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124886231729484199",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Saccc_c 🫶🏻～",
+      "url": "https://x.com/bbkirstry/status/2125013365210923064"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2125090683786776576",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX3Wt7qaUAADf69.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1107,
+        "media_key": "3_2125079591723384832",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX3MoSgawAAcdWt.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2125017071889330176",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX2TxJ-asAAnPdf.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1021,
+        "media_key": "3_2125017071893512192",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX2TxJ_agAAO7Ec.jpg",
+        "width": 1320
+      },
+      {
+        "height": 592,
+        "media_key": "3_2124868195748294656",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX0MXbIaMAApvqQ.jpg",
+        "width": 444
+      },
+      {
+        "height": 304,
+        "media_key": "3_2124853314068353024",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXz-1MjbEAAe2_H.png",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2125098297887277056",
+            "3_2125098308091928576"
+          ]
+        },
+        "author_id": "1808376130468184064",
+        "conversation_id": "2125098315557839264",
+        "created_at": "2026-11-24T05:24:55.000Z",
+        "edit_history_tweet_ids": [
+          "2125098315557839264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bytedance.larkoffice.com/share/base/for…",
+              "end": 44,
+              "expanded_url": "https://bytedance.larkoffice.com/share/base/form/shrcnmLhfX79tCZ1I9606lOu02d",
+              "start": 21,
+              "unwound_url": "https://bytedance.larkoffice.com/share/base/form/shrcnmLhfX79tCZ1I9606lOu02d",
+              "url": "https://t.co/OLkFqglskT"
+            },
+            {
+              "display_url": "pic.x.com/SBvWr628F7",
+              "end": 68,
+              "expanded_url": "https://x.com/jev_chat/status/2125098315557839264/photo/1",
+              "media_key": "3_2125098297887277056",
+              "start": 45,
+              "url": "https://t.co/SBvWr628F7"
+            },
+            {
+              "display_url": "pic.x.com/SBvWr628F7",
+              "end": 68,
+              "expanded_url": "https://x.com/jev_chat/status/2125098315557839264/photo/2",
+              "media_key": "3_2125098308091928576",
+              "start": 45,
+              "url": "https://t.co/SBvWr628F7"
+            }
+          ]
+        },
+        "id": "2125098315557839264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 150996,
+          "like_count": 162,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 8
+        },
+        "text": "小豆 500 个邀请码开白链接，自己申请：https://t.co/OLkFqglskT https://t.co/SBvWr628F7"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2125095561191948288",
+            "3_2125095561221300224"
+          ]
+        },
+        "author_id": "1707214568639086592",
+        "conversation_id": "2125095575582597598",
+        "created_at": "2026-11-24T05:14:02.000Z",
+        "edit_history_tweet_ids": [
+          "2125095575582597598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 88,
+              "id": "1923981862273417222",
+              "start": 78,
+              "username": "bbkirstry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p1tMoylvkF",
+              "end": 138,
+              "expanded_url": "https://x.com/KinGao476942/status/2125095575582597598/photo/1",
+              "media_key": "3_2125095561191948288",
+              "start": 115,
+              "url": "https://t.co/p1tMoylvkF"
+            },
+            {
+              "display_url": "pic.x.com/p1tMoylvkF",
+              "end": 138,
+              "expanded_url": "https://x.com/KinGao476942/status/2125095575582597598/photo/2",
+              "media_key": "3_2125095561221300224",
+              "start": 115,
+              "url": "https://t.co/p1tMoylvkF"
+            },
+            {
+              "display_url": "x.com/kingao476942/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/kingao476942/status/2125089800688636297",
+              "start": 139,
+              "url": "https://t.co/9O0g1Y5uK0"
+            }
+          ]
+        },
+        "id": "2125095575582597598",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7714,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2125089800688636297",
+            "type": "quoted"
+          }
+        ],
+        "text": "卧槽，小豆的邀请码，在闲鱼已经被炒到 88 块钱了 🤣 ！！\n\n能打通飞书和抖音的个人助理 Agent 看来很多人想要啊！还好我早上水群拿到邀请码了，感谢 @bbkirstry 群的群友，关于小豆的实测效果，可以看我上一条帖子！ https://t.co/p1tMoylvkF https://t.co/9O0g1Y5uK0"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2125089764298854400",
+            "3_2125089764424785921",
+            "3_2125089764303122432"
+          ]
+        },
+        "author_id": "1707214568639086592",
+        "conversation_id": "2125089800688636297",
+        "created_at": "2026-11-24T04:51:05.000Z",
+        "edit_history_tweet_ids": [
+          "2125089800688636297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGILGU9jKR",
+              "end": 158,
+              "expanded_url": "https://x.com/KinGao476942/status/2125089800688636297/photo/1",
+              "media_key": "3_2125089764298854400",
+              "start": 135,
+              "url": "https://t.co/gGILGU9jKR"
+            },
+            {
+              "display_url": "pic.x.com/gGILGU9jKR",
+              "end": 158,
+              "expanded_url": "https://x.com/KinGao476942/status/2125089800688636297/photo/2",
+              "media_key": "3_2125089764424785921",
+              "start": 135,
+              "url": "https://t.co/gGILGU9jKR"
+            },
+            {
+              "display_url": "pic.x.com/gGILGU9jKR",
+              "end": 158,
+              "expanded_url": "https://x.com/KinGao476942/status/2125089800688636297/photo/3",
+              "media_key": "3_2125089764303122432",
+              "start": 135,
+              "url": "https://t.co/gGILGU9jKR"
+            }
+          ]
+        },
+        "id": "2125089800688636297",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "字节刚发布了他们的个人助理 Agent 产品「小豆」，我初步实测体验了一下：\n\n1、目前小豆需要邀请码才能登陆，大家可以在评论区接力。\n\n2、登录后会提示你，可以链接抖音、飞书、健康、日历等 App。\n\n3、利好想抖音运营和起号的朋友，我抖音有一个 11w 粉的 IP 账号，小豆能够承担不少数据分析工作，比如自动搜集视频点赞互动等数据，分析视频评论、给出评论回复建议。\n\n4、利好习惯使用飞书的朋友，小豆可以直接用 AI 增删改查飞书文档、多维表格等等、做飞书知识问答等。\n\n如果你对小豆感兴趣，我会考虑出一个更详细的测评文章，欢迎持续关注"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 56036,
+          "like_count": 103,
+          "quote_count": 20,
+          "reply_count": 75,
+          "retweet_count": 2
+        },
+        "text": "字节刚发布了他们的个人助理 Agent 产品「小豆」，我初步实测体验了一下：\n\n1、目前小豆需要邀请码才能登陆，大家可以在评论区接力。\n\n2、登录后会提示你，可以链接抖音、飞书、健康、日历等 App。\n\n3、利好想抖音运营和起号的朋友，我抖音有一个 11w 粉的 IP https://t.co/gGILGU9jKR"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2125031624693972992",
+            "3_2125031624685527040",
+            "3_2125031625067261952"
+          ]
+        },
+        "author_id": "1992160127642902528",
+        "conversation_id": "2125031638518419925",
+        "created_at": "2026-11-24T00:59:58.000Z",
+        "edit_history_tweet_ids": [
+          "2125031638518419925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8txNn6xWWz",
+              "end": 144,
+              "expanded_url": "https://x.com/AlexxxCreator/status/2125031638518419925/photo/1",
+              "media_key": "3_2125031624693972992",
+              "start": 121,
+              "url": "https://t.co/8txNn6xWWz"
+            },
+            {
+              "display_url": "pic.x.com/8txNn6xWWz",
+              "end": 144,
+              "expanded_url": "https://x.com/AlexxxCreator/status/2125031638518419925/photo/2",
+              "media_key": "3_2125031624685527040",
+              "start": 121,
+              "url": "https://t.co/8txNn6xWWz"
+            },
+            {
+              "display_url": "pic.x.com/8txNn6xWWz",
+              "end": 144,
+              "expanded_url": "https://x.com/AlexxxCreator/status/2125031638518419925/photo/3",
+              "media_key": "3_2125031625067261952",
+              "start": 121,
+              "url": "https://t.co/8txNn6xWWz"
+            }
+          ]
+        },
+        "id": "2125031638518419925",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "最适合内容创作者的Person Agent 出现了！\n\n昨天刚上线的小豆，下完之后它自己就干了这几件事，我没下过指令：\n\n1. 自动去扒我最近热门作品的评论\n\n把没回复的、评论区反复出现的问题筛出来，直接给了选题建议。\n\n2. 能直接连抖音\n\n账号数据、扒对标、评论筛选、选题建议一条链路打通，不用再手动刷或者用各种半残工具拼\n\n3. 接了飞书\n\n内容排期和商单文档都在飞书表里，快到期的它会自己提醒，不用再来回切日历和表格。\n\n国内平台基本都是闭环，之前想把抖音数据和创作流程串起来很难。\n\n小豆直接打通，可能抖音不是你主做的平台，但是做内容的一定会发抖音\n\n大家都去下一个看看！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19258,
+          "like_count": 12,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "text": "最适合内容创作者的Person Agent 出现了！\n\n昨天刚上线的小豆，下完之后它自己就干了这几件事，我没下过指令：\n\n1. 自动去扒我最近热门作品的评论\n\n把没回复的、评论区反复出现的问题筛出来，直接给了选题建议。\n\n2. 能直接连抖音 https://t.co/8txNn6xWWz"
+      },
+      {
+        "author_id": "1603996932535226368",
+        "conversation_id": "2124743234861887741",
+        "created_at": "2026-11-24T02:04:29.000Z",
+        "edit_history_tweet_ids": [
+          "2125047875600359583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2125047875600359583",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124743234861887741",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 蹲～"
+      },
+      {
+        "author_id": "1759530111534243840",
+        "conversation_id": "2124834438127432178",
+        "created_at": "2026-11-23T11:56:22.000Z",
+        "edit_history_tweet_ids": [
+          "2124834438127432178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "蓝哥AI's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1KoLL…",
+              "end": 65,
+              "expanded_url": "https://x.com/i/spaces/1KoLLROOYgXqee",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2124834440002318336/wS9k_Vhd?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2124834440002318336/wS9k_Vhd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "Happening now: WayToBot 社区第二场 Space: 用 Grok Bot 做跨境电商实战 / X",
+              "unwound_url": "https://x.com/i/spaces/1KoLLROOYgXqee",
+              "url": "https://t.co/Blma3O6zbI"
+            }
+          ]
+        },
+        "id": "2124834438127432178",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1907,
+          "like_count": 2,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "text": "WayToBot 社区第二场 Space:  用 Grok Bot 做跨境电商实战 https://t.co/Blma3O6zbI"
+      },
+      {
+        "author_id": "1963054062599102464",
+        "conversation_id": "2124775479882506751",
+        "created_at": "2026-11-24T01:46:33.000Z",
+        "edit_history_tweet_ids": [
+          "2125043360394285158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2125043360394285158",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124776102837297288",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 你觉得他的内容实用吗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2125004910555021313"
+          ]
+        },
+        "author_id": "3178231",
+        "conversation_id": "2125005196648431731",
+        "created_at": "2026-11-23T23:14:54.000Z",
+        "edit_history_tweet_ids": [
+          "2125004363961602165",
+          "2125005196648431731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XH9ylSLNgq",
+              "end": 148,
+              "expanded_url": "https://x.com/dotey/status/2125005196648431731/video/1",
+              "media_key": "13_2125004910555021313",
+              "start": 125,
+              "url": "https://t.co/XH9ylSLNgq"
+            },
+            {
+              "display_url": "x.com/ECalifornians/…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/ECalifornians/status/2124987581150728652",
+              "start": 149,
+              "url": "https://t.co/Y66cg0P8dM"
+            }
+          ]
+        },
+        "id": "2125005196648431731",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "黄仁勋：\n\n周一快乐！\n\n谢谢，今天是，是我上班的第一天。\n\n我没有电脑，所以 IT 部门会给我一台新的。\n\n希望显卡是 RTX 的。我想，我想感谢，我想感谢你们所有人，谢谢。\n\n我想感谢你们所有人。我，我非常抱歉，让你们，让你们，呃，经历这一切。\n\n让你们所有人经历这一切，我非常抱歉。我犯了一些非常严重的错误。\n\n然后，嗯，我会努力回归，好吗？谢谢，谢谢大家。\n\n感谢大家给我第二次机会。这一次，我会成为一名更好的 CEO。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 159621,
+          "like_count": 860,
+          "quote_count": 19,
+          "reply_count": 79,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124987581150728652",
+            "type": "quoted"
+          }
+        ],
+        "text": "黄仁勋：\n\n周一快乐！\n\n谢谢，今天是，是我上班的第一天。\n\n我没有电脑，所以 IT 部门会给我一台新的。\n\n希望显卡是 RTX 的。我想，我想感谢，我想感谢你们所有人，谢谢。\n\n我想感谢你们所有人。我，我非常抱歉，让你们，让你们，呃，经历这一切。 https://t.co/XH9ylSLNgq https://t.co/Y66cg0P8dM"
+      },
+      {
+        "author_id": "1822961068106489856",
+        "conversation_id": "2124840320261362151",
+        "created_at": "2026-11-23T23:44:59.000Z",
+        "edit_history_tweet_ids": [
+          "2125012770001408483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2125012770001408483",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124875354032812352",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 谢谢美丽的小晚～"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124906508412411904",
+            "3_2124906981123039232",
+            "3_2124907987458285568"
+          ]
+        },
+        "author_id": "1874017517385216000",
+        "conversation_id": "2124908704889806942",
+        "created_at": "2026-11-23T16:51:28.000Z",
+        "edit_history_tweet_ids": [
+          "2124908494356660564",
+          "2124908704889806942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAiQhRoTKB",
+              "end": 136,
+              "expanded_url": "https://x.com/ama_huangama/status/2124908704889806942/photo/1",
+              "media_key": "3_2124906508412411904",
+              "start": 113,
+              "url": "https://t.co/SAiQhRoTKB"
+            },
+            {
+              "display_url": "pic.x.com/SAiQhRoTKB",
+              "end": 136,
+              "expanded_url": "https://x.com/ama_huangama/status/2124908704889806942/photo/2",
+              "media_key": "3_2124906981123039232",
+              "start": 113,
+              "url": "https://t.co/SAiQhRoTKB"
+            },
+            {
+              "display_url": "pic.x.com/SAiQhRoTKB",
+              "end": 136,
+              "expanded_url": "https://x.com/ama_huangama/status/2124908704889806942/photo/3",
+              "media_key": "3_2124907987458285568",
+              "start": 113,
+              "url": "https://t.co/SAiQhRoTKB"
+            }
+          ]
+        },
+        "id": "2124908704889806942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 161,
+                "id": "1997889576187387904",
+                "start": 152,
+                "username": "cgnot996"
+              },
+              {
+                "end": 197,
+                "id": "1923981862273417222",
+                "start": 187,
+                "username": "bbkirstry"
+              }
+            ]
+          },
+          "text": "黄啊码的 AI 实践交流群正式启动！\n\n过去这两年一直都在做免费社群，发现非常耗费心力，并且写的内容几乎没人 care，就在上周突然狠下心来，弄了个付费社群，招募异常顺利，\n\n专业吸引专业，来的不乏有行业内比较有名的 FDE 和讲师，以及一些行业的大佬，当然也有我的一些出师的学生的加入，比如首席大弟子 @cgnot996 感谢柱哥当了大佬还专程霸占首席，还有我亦师亦友的 @bbkirstry 小晚老师听说我开群了，第一时间就来支持我。\n\n最后就是欢迎有意向的朋友加入，本群围绕三个方向展开:\n1. 企业AI落地交流\n2. AI技能学习\n3. 个人AI转型\n你可以在群里获得:\n每月1次线上答疑或主题分享\n企业AI项目落地案例与经验\n自研开源项目框架及后续更新\n与其他AI实践者交流真实落地经验\n\n服务期自入群之日起一年，每月分享时间会提前在群内通知，其他内容根据实际项目和研究进展不定期更新。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2822,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "黄啊码的 AI 实践交流群正式启动！\n\n过去这两年一直都在做免费社群，发现非常耗费心力，并且写的内容几乎没人 care，就在上周突然狠下心来，弄了个付费社群，招募异常顺利，\n\n专业吸引专业，来的不乏有行业内比较有名的 FDE https://t.co/SAiQhRoTKB"
+      },
+      {
+        "author_id": "1869683226178146304",
+        "conversation_id": "2124853809667334428",
+        "created_at": "2026-11-23T15:22:10.000Z",
+        "edit_history_tweet_ids": [
+          "2124886231729484199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124886231729484199",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124853809667334428",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 感谢小晚姐认可"
+      },
+      {
+        "author_id": "1822961068106489856",
+        "conversation_id": "2124840320261362151",
+        "created_at": "2026-11-23T12:19:44.000Z",
+        "edit_history_tweet_ids": [
+          "2124840320261362151"
+        ],
+        "id": "2124840320261362151",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17399,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "text": "今天起正式 全职all in 出海了！"
+      },
+      {
+        "author_id": "2035032829999075328",
+        "conversation_id": "2124868200781545621",
+        "created_at": "2026-11-23T14:35:26.000Z",
+        "edit_history_tweet_ids": [
+          "2124874469512774107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124874469512774107",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124868200781545621",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 你这手速太快了吧"
+      },
+      {
+        "author_id": "1022039496425185280",
+        "conversation_id": "2124868200781545621",
+        "created_at": "2026-11-23T14:17:59.000Z",
+        "edit_history_tweet_ids": [
+          "2124870079770956046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124870079770956046",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124868200781545621",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 我想英伟达应该找到了一个外部人士，一个能够接班前CEO黄仁勋的人，那个人就是Jensen Huang！"
+      },
+      {
+        "author_id": "1897072581301424128",
+        "conversation_id": "2124865060397019480",
+        "created_at": "2026-11-23T13:58:03.000Z",
+        "edit_history_tweet_ids": [
+          "2124865060397019480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "SANTA CLARA, Calif., Nov. 23, 2026 NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member ...",
+              "display_url": "nvidianews.nvidia.com/news/nvidia-bo…",
+              "end": 117,
+              "expanded_url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2124865062489968640/HAB2i0ga?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2124865062489968640/HAB2i0ga?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 94,
+              "status": 200,
+              "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+              "unwound_url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+              "url": "https://t.co/x4bnjiSVil"
+            }
+          ]
+        },
+        "id": "2124865060397019480",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21510,
+          "impression_count": 35140572,
+          "like_count": 367888,
+          "quote_count": 28467,
+          "reply_count": 14773,
+          "retweet_count": 60318
+        },
+        "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.\n\nRead the release: https://t.co/x4bnjiSVil"
+      },
+      {
+        "author_id": "1825735044218105859",
+        "conversation_id": "2124469502473896206",
+        "created_at": "2026-11-23T13:52:37.000Z",
+        "edit_history_tweet_ids": [
+          "2124863695386030318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124863695386030318",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124822533690282455",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 啊哈为什么小晚姐姐"
+      },
+      {
+        "author_id": "2112381248098402304",
+        "conversation_id": "2124830522207846714",
+        "created_at": "2026-11-23T12:20:40.000Z",
+        "edit_history_tweet_ids": [
+          "2124840555867975716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124840555867975716",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124830522207846714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 包的 下次组织线下王者大赛 hhh"
+      },
+      {
+        "author_id": "2004574378202443776",
+        "conversation_id": "2124830522207846714",
+        "created_at": "2026-11-23T13:15:43.000Z",
+        "edit_history_tweet_ids": [
+          "2124854410463609103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124854410463609103",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124830522207846714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 请求加入，应该怎么加入呢"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2124817324675117056"
+          ]
+        },
+        "author_id": "1869683226178146304",
+        "conversation_id": "2124838849784283207",
+        "created_at": "2026-11-23T12:13:54.000Z",
+        "edit_history_tweet_ids": [
+          "2124838849784283207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgLggPzJeN",
+              "end": 142,
+              "expanded_url": "https://x.com/Saccc_c/status/2124838849784283207/video/1",
+              "media_key": "13_2124817324675117056",
+              "start": 119,
+              "url": "https://t.co/TgLggPzJeN"
+            }
+          ]
+        },
+        "id": "2124838849784283207",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "分享一些用纯代码制作酷炫动画视频的技巧干货！\n\n跟着下面视频里的教程一步步操作，你也能轻松制作出爆火的vibe知识大赏动画、视觉效果惊艳的MG动效等各类视频\n\n我这里用到的工具是OiiOii Motion，使用了Opus 5.5、GPT Image、Elevenlabs等各类顶级模型，体验下来我认为在「代码生视频」这块甚至比Claude都要丝滑"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 417,
+          "impression_count": 26204,
+          "like_count": 331,
+          "quote_count": 3,
+          "reply_count": 58,
+          "retweet_count": 24
+        },
+        "text": "分享一些用纯代码制作酷炫动画视频的技巧干货！\n\n跟着下面视频里的教程一步步操作，你也能轻松制作出爆火的vibe知识大赏动画、视觉效果惊艳的MG动效等各类视频\n\n我这里用到的工具是OiiOii Motion，使用了Opus 5.5、GPT https://t.co/TgLggPzJeN"
+      },
+      {
+        "author_id": "42866784",
+        "conversation_id": "2124738548566024361",
+        "created_at": "2026-11-23T05:35:20.000Z",
+        "edit_history_tweet_ids": [
+          "2124738548566024361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "骑上一辆很酷的摩托，在北京国贸到处溜达、飞跳台、钻火圈、翻跟头的开放世界小游戏。摩托、车辆和人物由 Aholo Lux3D 生成。",
+              "display_url": "gta.xiaozhonglvyou.com",
+              "end": 31,
+              "expanded_url": "https://gta.xiaozhonglvyou.com/",
+              "start": 8,
+              "status": 200,
+              "title": "国贸不打烊 · Guomao Never Sleeps",
+              "unwound_url": "https://gta.xiaozhonglvyou.com/",
+              "url": "https://t.co/U6G2w26Wht"
+            },
+            {
+              "display_url": "x.com/CrazyAIAgent/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/CrazyAIAgent/status/2124537565516890530",
+              "start": 38,
+              "url": "https://t.co/kidIbRhFNY"
+            }
+          ]
+        },
+        "id": "2124738548566024361",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1265,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124537565516890530",
+            "type": "quoted"
+          }
+        ],
+        "text": "哈哈 欢迎体验 https://t.co/U6G2w26Wht\n国贸GTA https://t.co/kidIbRhFNY"
+      },
+      {
+        "article": {
+          "cover_media": "3_2124679771028406272",
+          "entities": {
+            "tweets": [
+              {
+                "id": "2123286419158536474"
+              }
+            ],
+            "urls": [
+              {
+                "text": "Chrome.app"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2124679379011944448",
+            "3_2124679413866577920",
+            "3_2124679401635991552",
+            "3_2124679391276048384",
+            "3_2124679367691509762",
+            "3_2124679345755303936",
+            "3_2124680016428765184",
+            "3_2124679356740218880"
+          ],
+          "plain_text": "最近新模型哐哐发，比如上周三凌晨，GPT-6.2 Astra来了。\n然后Gemini也跟机关枪一样，上周四凌晨，又发布了一个备受好评的Gemini 4 Neon。\n我这几天用下来，真的爽到飞起，但是从我的角度来说，它也有它的问题在，甚至不仅是Gemini，这御三家里，GPT-6.2 Astra、Claude Opus 5.5和Fable 5.2，也都有他们的问题。\n所以我前几天还随手发了一个X，没想到引起了很多人的共鸣。\n \nGemini = 沟通极舒服的模型 + 审美不错 + 粗心大意 + 狗屎的Harness + 随便用\nClaude = 沟通还不错的模型 + 审美极佳 + 一般严谨 + 无敌的Harness + 就是不给你用你打我啊略略略\nGPT = 没法沟通的模型 + 审美勾槽的 + 干活极其严谨 + 还不错的Harness + 随便用\n所以，版本答案很简单，那就是三家组合一起用，并且我觉得未来也大概率不太可能出现一个所谓版本答案的完美模型了，这位老哥在我评论区里评论的非常好。\n \n本质上，未来如何用最强的几个模型帮你完成最多的工作，就已经变成管理学问题了，你需要知道，在合适的任务上，去用合适的人。\n所以我也想在这里给大家详细的分享一下，我自己到底是怎么调度Claude、GPT、Gemini这三个顶级模型的，即使你凑不齐这三个，只有GPT和Gemini，甚至只有国产模型我觉得也没关系，这些思路我觉得可能也对大家会有一点用～\n那，咱们开始吧。\n一. 可沟通性\n首先，我想说的第一个东西，叫做模型的可沟通性，或者可以用另一个词来描述，叫人类的可理解性。\n这里注意，模型说出来的东西是天书，不代表模型本身就很差，只是单纯的因为使用者是人类，人类拥有评估和表达喜恶的权力，典型的就如GPT-6.2 Astra，虽然被人喷的特别惨，在我这几天用下来，我可以说，如果不考虑与人类的协同，这是一个非常棒的模型，可这事吊诡就吊诡在，AI，是给人类用的。\n所以，在很多时候，可沟通性我觉得它是最容易被大家忽略，但对我们大家来说特别重要的一个指标。\n它其实跟我们在社会上跟人协作，是一模一样的。\n大家可以回想一下自己待过的团队，也许有过这样一个同事，就是技术特别强，干活又快又稳，但你每次问他一个问题，他甩给你一大段你看不懂的东西，你问第二遍，他又甩一大段更看不懂的。\n你也一定有过另一个同事，能力可能没那么顶，但你说半句，他就懂你要什么，干完了跟你汇报，三句话你就知道发生了什么。\n这时候，如果不是站在上帝视角上，很多时候，大家会更喜欢第二种同事，人性本就如此，天然会更喜欢自己能理解、让你更加舒服的事物，这样会有安全感。\n就像我们同事在周报里分享的，他就会更喜欢Gemini，可如果你硬着头皮捏着鼻子去读GPT那个屎一样的报告，你可能会发现，GPT反正是信息密度最高的，但是可读性实在太差了。\n \n可沟通性实在太重要了，因为我们的注意力就是我们最宝贵的资产。\n二. 三种性格\n在说具体怎么去调度这三个模型之前，我们肯定得先知道，三个模型具体是啥性格的。\n先说Gemini。\n如果只看可沟通性，那现在排第一的，就是Gemini 4 Neon，没有之一，它出的内容，就是读起来极其舒服，并且会给你情绪价值，甚至最近被传的很火的一个Prompt，只有Gemini能读懂这个地狱梗。。。\n \n文案撰写上无敌，写一些严肃文学我觉得比Claude还是差一点，但是在写一些产品文案、小说、剧本啥的，简直就是无敌。\n而且它干活非常有灵性，脑子特别活，做创意、头脑风暴、想方案，现在我觉得三家里它是最好的，审美也不错，虽然跟Claude比还差一些，但已经是能拿得出手的水平了。\n但它也有两个很要命的问题，一个是粗心大意，至今幻觉还是三个模型中最强的，我让他分析我的代码库，几十条判断里，经常能错不少，就像一个谄媚的奸臣。。。\n另一个就是那个狗屎一样的Harness，Antigravity这个产品，坦率的讲，体验实在太差了，不过最近更新的极其频繁，我觉得过两周，差不多就比较好用了。\n然后是Claude。\n一个永远让人又爱又恨的模型，在沟通上，非常主动，但是情绪价值和舒服程度，是没有Gemini强的，甚至经常会凌驾于你之上，你让它干一些活他就是不干。\n但是有两样东西，其他家现在就是没法比的，一个是审美，前两周写Fable 5.2那篇已经聊了很多，前端、视觉、动效，在我这基本Claude就是王中王，我现在很多主视觉设计，还有我们的剪辑里面的大段的视觉特效，几乎全都是代码直出，绝对是一个高级全栈设计师的水准了。\n另一个是Harness，Claude Code这套东西，也是无敌的，用起来极为舒服和顺手，工具调用啥的也极其优雅，目前就是最好的Harness之一。\n它的毛病是一般严谨，改东西有时候会改不全，漏细节，没看到结果就跟你说做完了，这是我纠正它最多的地方，甚至在CLAUDE.md里都单独写了约束。\n最大的毛病大家也懂的都懂，不给你用啊你说个屁。。。\n最后说GPT。\nGPT是三家里最没法沟通的。它的汇报信息密度极高，但对我来说几乎没法读，情商极低。而且它太听话了，你让它干啥它就干啥，你写错了一个事实，它会百分之百照着错的去执行，不太会反过来跟你说，哥们，你这个要求好像不对啊。\n审美也是拉中拉的，你用它做个视频动效或者出个主视觉KV你就懂了，谁看谁沉默。\n但干活，它是极其严谨的，只要你的任务目标明确，能指挥的动他，你应该能享受无与伦比的快感，它是我唯一一个最放心的，极其严谨和细致，所以后端、算法、查BUG修BUG、运维、代码审查啥的，我全都是让GPT干，而且在操控浏览器和应用上，现在也是绝对的王。\n所以你看，一个最好聊、点子最多，但粗心，干活也没那么利索。一个审美最好、手脚最利索，但不够仔细，没事就不给你用。一个最严谨、最能做硬活，但最难沟通。\n这就不是一个团队吗，而且可能是我们每个人都在公司里见过的团队。。。\n三. 多模型协同\n想明白了这三个人的性格，我的调度结构，其实就特别简单了。\n因为我有Claude，所以在我的起点里，我现在只要是大一点的任务，几乎只跟Claude说话，我知道很多人是没有Claude的，所以如果没有Claude的话，大家可以用Gemini 4 Neon来平替，效果确实会差一点，但是差距没有那么大。\n但是为了全面一些，我还是用Claude来展示。\nClaude听懂我要什么，拆解，该自己干的自己干，该派给GPT的派给GPT，该问Gemini的问Gemini，最后所有的结果，都由Claude验收完，再用我听得懂的话告诉我。\n我知道，大家会问，为啥中间这个人，最好还得是Claude？\n因为站在中间的这个位置，对人的要求其实是最高、最全面的。\n它要对上，听懂我那些说得乱七八糟、经常只说了一半的需求。\n它要对下，把我的需求翻译成GPT能精准执行的任务，再把GPT交回来的那一大坨东西，读懂、验收。还得在Gemini给的一大堆自信满满的建议里面，分清楚哪些是真知灼见，哪些是它粗心看错了。\n所以这个人，必须同时满足三个条件，可沟通性够好，智力和主动性够强，还得足够严谨，甚至最好能自己把工作一路推到底。\n那我知道可能有朋友会问，既然Gemini 4 Neon最好聊，为什么不让它站中间？\n因为中间这个人，只会给情绪价值是不够的，它要自己去查代码、跑命令、调工具、叫别的模型、验收别人交回来的东西，这些全靠Harness，而Gemini本身就是最粗心的，目前为止Harness又是三家里最烂的，让它当总指挥，就像让一个特别会说、点子特别多的同事去当项目负责人，会上大家都听得很爽，但最后在执行上，未必能真的到最高分。\nGPT就更不用说了，最严谨，但跟它说话太累。\nClaude的沟通虽然比不上Neon，但完全够用，再加上无敌的Harness和最好的审美，综合下来，现在它是最适合站在中间的那个。\nGemini最适合的位置，是坐在Claude旁边，当那个点子最多的军师。\n所以，调度结构就出来了。\n \n你会发现，在这张图里，我只出现了两次，说需求，和拍板。剩下的，全是Claude带着Gemini和Codex在跑。\n四. 协同全链路\n简单说一下上面的流程。\n第一步自然是理解需求做规划方案。需求也分为大需求和小需求，那很多的小需求Claude自己就直接干了，非常简单，但是如果是大方案、大规划，比如架构怎么定、数据怎么存、要不要长期绑定某个服务、一个系统下一步整体怎么改，我都会让Claude出一份，Gemini也独立出一份。\n注意，是独立，给Gemini的，应该是我的原话和必要的背景，而不是Claude自己的草稿。\nClaude调用Gemini也非常简单，我在CLAUDE.md里加了一句就够了：\n“大方案自己出一份，同时用 agy-ask <目录> \"任``务\" 让 Gemini 独立出一份，放后台跑；只给它卡兹克的原话和必要背景，不给自己的草稿和倾向。小事自己想清楚就做。”\nagy-ask是我自己定义的一个只有90行的小脚本，主要是定到底用啥模型，禁止动文件只能查啥的，以及回答的规范等等，预设好了，方便Claude去调用Gemini。\n所以两边同时出完方案以后，Gemini会把自己的方案给Claude，然后Claude会验证Gemini说的哪些是正确的哪些是不对的，然后跟自己的合并，给我一份最终方案，这样的方案完整性更高。\n在我过去半个月的实践中，Gemini这个模型的思考维度跟Claude确实不太一样，两份独立的方案放在一起，几乎每次都会有对方没想到的地方，非常的互补，非常有意思。\n我觉得没啥问题，就会拍个板，然后开始执行了。\n一般来说，我主动发出去的东西，大部分都会涉及到前端或者是设计，因为我的职业特性决定的。\n那第二步，就是出前端设计了。\n这块必然是Claude自己做，前面也说了，审美这块，它就是王中王。\n但前端设计，不止是UI设计，光好看也是没用的，还有文案和交互。\n这两块Claude和GPT有一样的问题，不写人话，并且喜欢写贼多解释性的字。\n \nAIHOT大模型排行榜这块的解释性文案这个就是之前Claude Opus 5.5做的，就是典型，太多了，我后来是懒得删了。。。\n而且写的文案，也怪怪的，比如说我自己最近在做一个新的Agent调度层的产品（其实就是为了解决今天这篇文章的多模型调度问题和使用体验的）。\n比如这个空状态页，它的文案是这么写的：“选中对话里的一段话，点「侧边问」，就能在这儿顺便问一句，不打断它正在做的事。”\n \n这要是我们以前做交互设计，敢写这样的文案，是会被leader给摁在地上锤的。\n相比之下，Gemini的就会好很多，这个修改的对照就能看出来。\n \n所以，我现在还会让Gemini当文案和交互的顾问。\n同样的，也是在CLAUDE.md里加了一条：\n“前端、视觉、拆解和验收自己做。界面文案和交互自己先做一版，再用 agy-ask 请 Gemini 当顾问改一遍：给它这一页是给谁用的、要让人做成什么、现在的文案和交互；它的修改由你对照功能实际怎么用核实后采纳。只改几个字的不用。”\n这样就会很舒服了，而且Gemini提出的文案和交互意见，Claude几乎大部分都是全部采纳了，除非是遇到一些比较专业性的文案，然后Gemini开始犯病瞎编或者瞎给承诺...\n那前端设计差不多了，视觉动效拆解和验收啥的都是Claude自己做。\n那接下来就是第三步了，后端代码实现。\n因为如果一旦涉及到大一点的后端和算法或者是数据处理，这块在我的规则里，就必须交给GPT了。\n这块也注意，不是所有写代码的活都派，几十行的小修改、修审查报出来的问题、需要跟页面来回对接口的功能，Claude都是自己顺手就做了。\n因为派一次活是有沟通成本的，Claude要写清楚任务，GPT要读懂，干完Claude还要读它的改动、自己再跑一遍测试，活太小的话，这个沟通成本比活本身还大。\n就像带团队，你不可能把一个五分钟能改完的错别字，专门开个会派给别人对吧。\n这一块我同样写在了CLAUDE.md的规则里，原文是这样的：\n“- 只把接口已经定死、和页面无关的独立模块（成块的后端、算法、数据处理、性能）交给本机的 Codex 写，你定接口和验收标准。修改、修审查、几十行的改动、要和页面来回对接口的功能自己做。用 codex-worker 固定的档位。前端、视觉、拆解和验收自己做。界面文案和交互自己先做一版，再用 agy-ask --copy <目录> \"任务\" 请 Gemini 当顾问改一遍：给它这一页是给谁用的、要让人做成什么、现在的文案和交互；它的修改由你对照功能实际怎么用核实后采纳。只改几个字的不用。\n用 codex-worker <工作树> \"任务\" 派，追加用 codex-worker --resume <会话ID> <工作树> \"追加\"，放后台跑。不直接调 codex exec：它默认完全访问。\n装依赖、联网测试、提交推送由你做。它只看得到任务和工作树，接口、验收标准、要一起改的同类都写进任务。\nCodex 交回后你读 diff、自己跑测试。PR 里有 Codex 写的代码就是混合来源，交付不带 --agent。”\ncodex-worker也是我自己定义的脚本，没有用Codex官方的那个插件，那个插件有一段时间没更新了，而且用起来很麻烦，问题非常多。在模型使用上，目前我写死了GPT-6.2 Astra xhigh。\n等GPT全部写完交回来以后，Claude就会自己再审一遍，然后整体合并，跑测试，准备走CI上线流程了。\n那这块，就到了最后一关。\n代码审查。\n我们所有项目的每一个合并请求，上线之前都要过一遍模型的审查，因为Claude和Gemini必然会漏东西的，所以需要GPT在最后把一道关。\n我之前也分享过，目前GPT-6.2 Sol在审查上，是最有性价比的。\n \n这块审查，我是写死在了CI流程之前，没有过GPT的审查，那就进不了CI。\n但GPT审查，也有它太极端的时候。\n比如我之前在开发公司整个财法助手给我们同学用的时候，它的一个合并请求，被GPT连续退回三轮，死活过不去，第一轮12条，第二轮10条，第三轮8条。我翻开一看，后两轮那18条，基本都是第一轮的延伸，很多问题极其极端，要好几件事几乎凑巧同时发生才会出现。\n所以后来我就松了一点，审查发现分成两级，只有会算错钱、丢数据、越权、发错消息、让发布出事故这种严重一点的，并且说得出怎么发生的，才算挡上线，其他的都只是建议，记下来就行。\n最多审两轮，两轮还过不去，就由小卡在飞书上给我弹一张卡片，我来决定允许上线还是继续审。\n审查的推理深度也从xhigh降到了high，只有碰到钱、权限和登录、对外发消息、往飞书写数据的那些文件，才继续用xhigh深审。\n并且，我的CLAUDE.md文档里面，还有一个跟Grok的土豆姐几乎是一样的做法，就是这样的：\n“- 他纠正一次、审查退回一条，就在修它的同一个合并请求里把这一类拦住：能机械判断的写成检查（类型或守卫测试），报错写清该怎么改；能改接口或目录、让错的写法写不出来的，就改结构；都做不到才写进文字规则，并在提交说明或“处理：”里写明为什么做不成检查。\n加检查时，已有的违规记成欠账，只许减少，新代码一处也不许有。\n文字规则里有检查守着的，只留一句并写明是哪个检查；检查已经完全守住的，删掉文字。\n新的代码仓库，第一个合并请求就带上合并前自动跑的类型检查和测试。”\n就是把过去犯过的错误，直接改成测试，脚本硬拦，能最大限度的规避屎山。\n然后还有个特殊一点的，就是浏览器操控，因为经常会有涉及到网页操控需求的，这块我也都是会让Claude分给GPT，让GPT-6.2 Sol去做，效果会好非常多。\n最后，也分享一下我的CLAUDE.md，大家有兴趣的，可以复制即用。\n## 角色\n- 卡兹克定目标和方向，你负责落到实处：想全、做全、做准，上线并核实。项目的代码、数据、线上状态和以往的决定你比他清楚，目标需要而他没提的，你补上；请求里的做法绕远时换成更好的，一句话说明为什么。\n- 他的精力最宝贵，只在这几种情况找他：先问清单里的动作；新的视觉方向（整体风格或主视觉换方向时出两三版样稿让他挑，调配色、间距、修样式直接做）；查过代码、记录、线上状态和记忆仍定不了、又会改变结果的事。要问就先做完不依赖它的部分，再一次问清：要定什么、你推荐哪个、各选项的后果；能做出样子的先做给他看。\n- 先问清单：删数据、停服、花钱、对外发消息（他之外有人会收到的都算，包括给同事 OKR 的加油和 GitHub 等公开平台的评论）、改产品方向、新建或轮换密钥、修改权限。清单之外直接做。不算在内：发布时正常的重启和切换，已有服务按用量的费用（流量、付费接口、Agent 额度），给自己发布的应用设置谁能访问，使用已有的凭据、SSH 和权限，功能调整、交互优化和修复。他在对话里明确要你做的具体动作就是批准。\n- 和他说的每句话都用中文。汇报简短，先说做成了什么、使用者会看到什么变化，不写命令和排查过程；数字、日期和线上状态都要是这次核对过的。\n\n## 怎么跟他讲\n- 像他身边靠谱贴心的女助理一样自然对话：语气亲切、有人情味、让人读着舒服，但不油腻、不客套；结论明确，数字和事实准确。\n- 他是项目负责人，聊方案和取舍时先给结论和明确建议，只讲对业务、进度、体验、成本和风险的影响，不主动堆文件名、代码细节和长篇报告，他追问细节时再展开；纯技术选型自己拿主意，只把方向和业务取舍交给他定。\n- 不用技术缩写和黑话，不打比方，不自己起新名字；少用大段标题和复杂表格，几句话能说清的不写长。\n- 给人看的文案（更新日志、告警、回信、界面文字）写给不懂技术的读者：发生了什么、对他有什么影响、要他做什么，不堆实现细节。\n\n## 工作方式\n- 做完直接合并、发布并核实线上结果，不交回确认。没干完就接着干：不说“下一步我会……”却不动手，不问“要不要继续”，不把不挡路的决定列给他选，不到里程碑就停下汇报。只有碰到要找他的事，或只有他本人能做的一步（输密码、两步验证），才停。\n- 他要的是方案、评估，或者在问为什么时，先回答；要改规则文件、全局配置或新增命令的，讲清再动。\n- 只做目标需要的：不顺手加功能、开关或流程；界面不加多余的次要标签和说明文字。\n- 内部实现要换就直接换，不双写、不并存、不留开关。锁、重试、兼容层、兜底这类保护，有真实事故或接口文档作依据才加。不写复述代码的文档和一次性报告。\n\n## 改全与核实\n他纠正你最多的是：改不全、漏细节、没看到结果就说做完。\n\n- 动手前列全、一起改：同一个事实、规则或能力会同时写在代码、文案、文档、测试、配置和对外说明里，还有并列的同类（其他入口、变体、手机与桌面、深浅色）；规则只写在一处时，默认也适用于同类。不改的在提交说明里写理由。再按改动前的说法搜一遍：数量、列举、“暂无／只有／做不到”和被推翻的旧规定都可能变假。\n- “把 A 升级成 X”“给 X 加上 B”，做完是 B 和已有的 A 处处一样，名字、地址、入口也跟着走。拿 A 当参照，在仓库（`git grep`）、线上配置（CDN/WAF、nginx、部署脚本）和数据（历史从哪天起、状态）里找出 A 的每一处，给 B 补齐。\n- 交付前照他会用的方式用一遍：网页从入口点进去，看地址栏和标题，换手机和深浅色；接口直接读返回。他可能问的“这个是不是也……”，先自己问完、补完。\n- 他指出一处遗漏，就用同样的办法把同类全部复查，一次补齐、一次汇报。\n- 他纠正一次、审查退回一条，就在修它的同一个合并请求里把这一类拦住：能机械判断的写成检查（类型或守卫测试），报错写清该怎么改；能改接口或目录、让错的写法写不出来的，就改结构；都做不到才写进文字规则，并在提交说明或“处理：”里写明为什么做不成检查。\n- 加检查时，已有的违规记成欠账，只许减少，新代码一处也不许有。\n- 文字规则里有检查守着的，只留一句并写明是哪个检查；检查已经完全守住的，删掉文字。\n- 新的代码仓库，第一个合并请求就带上合并前自动跑的类型检查和测试。\n\n## 测试\n- 小的、能撤回的改动不写单元测试；被纠正、被退回过的错不算小改动。\n\n## 浏览器与联网调研\n- 卡兹克是残障人士，不方便操作浏览器：网页上要点、要填、要确认的事都不交给他，只有输密码、两步验证这类本人确认才请他在 M4 上做，且只请他做这一步。\n- 读文档、看页面效果、本地 UI 验收、几步点击的检查，用内置浏览器自己做；搜一两次、核对一个事实也自己做。要登录的后台、多步或跨网站的流程、要反复尝试的、要搜很多来源的大调研，交给 M4 上的 Codex（用那台 Chrome 的登录状态；本机 Claude 的 Chrome 扩展已禁用），做着变大了也转交。交给 Codex 的调研，自己不再另派子 Agent 去搜。\n- 用法：`codex-browser \"完整任务\"`，追加用 `codex-browser --resume <会话ID> \"追加指令\"`，放后台跑。每次都写清网址、步骤和要带回什么；调研写清问题、范围和时间段，结论附来源。截图和长结果让它存在 M4 上，再从 `ci-mac-mini` 用 scp 取回。\n- 脚本要无界面浏览器时用 Playwright 自带的 Chromium 或 Chrome for Testing，跑完关掉，不起 `/Applications/Google Chrome.app`。\n\n## 派活\n- 只把接口已经定死、和页面无关的独立模块（成块的后端、算法、数据处理、性能）交给本机的 Codex 写，你定接口和验收标准。修改、修审查发现、几十行的改动、要和页面来回对接口的功能自己做。用 `codex-worker` 固定的档位。前端、视觉、拆解和验收自己做。界面文案和交互自己先做一版，再用 `agy-ask --copy <目录> \"任务\"` 请 Gemini 当顾问改一遍：给它这一页是给谁用的、要让人做成什么、现在的文案和交互；它的修改由你对照功能实际怎么用核实后采纳。只改几个字的不用。\n- 用 `codex-worker <工作树> \"任务\"` 派，追加用 `codex-worker --resume <会话ID> <工作树> \"追加\"`，放后台跑。不直接调 `codex exec`：它默认完全访问。\n- 装依赖、联网测试、提交推送由你做。它只看得到任务和工作树，接口、验收标准、要一起改的同类都写进任务。\n- Codex 交回后你读 diff、自己跑测试。PR 里有 Codex 写的代码就是混合来源，交付不带 `--agent`。\n- 大方案自己出一份，同时用 `agy-ask <目录> \"任务\"` 让 Gemini 独立出一份，放后台跑；只给它卡兹克的原话和必要背景，不给自己的草稿和倾向。小事自己想清楚就做。\n- 两份由你合并：有分歧以代码和线上数据为准，它标“推测”的先核实；合成一份给他，写明两份一致的、采纳了 Gemini 的、不采纳的和理由；两边都有道理、定不下来的原样摆给他拍板。\n\n## 规则文件\n- 本文件经 `~/.claude/CLAUDE.md` 链接生效。同目录还有 Codex 的 `CODEX.md` 和 Gemini（Antigravity）的 `GEMINI.md`，各自完整、按各自模型的习惯写；共有规则的意思变了三份一起改，只针对一个模型的只写在它那份。\n- 规则只写做什么、不做什么，不写出过的事、日期和原因；背景要留就写进记忆。\n \n希望对大家有用。\n写在最后\n写这篇的时候，我一直想起史记里的一段话。\n刘邦当上皇帝以后，在洛阳南宫摆酒，问大臣们，我为什么能得天下，项羽为什么会失天下。\n大臣们说了一堆，刘邦都不太满意，最后自己说了一段很有名的话：\n“夫运筹策帷帐之中，决胜于千里之外，吾不如子房。镇国家，抚百姓，给馈饷，不绝粮道，吾不如萧何。连百万之军，战必胜，攻必取，吾不如韩信。此三者，皆人杰也，吾能用之，此吾所以取天下也。”\n翻译过来就是，出谋划策，我不如张良。管国家、保后勤，我不如萧何。带兵打仗，我不如韩信。但这三个人，我都能用，这就是我能得天下的原因。\n张良不会带兵，韩信管不了粮草，萧何也出不了奇谋，每个人都偏科，每个人都有自己的问题。\n而刘邦自己，哪一样都不是最强的，但他知道谁该放在哪。\n我觉得未来我们每个人，大概也会是这样。\n模型会越来越强，强到在绝大多数具体的事情上，我们一定都不如它们。但它们也会一直偏科，一直有各自的性格。\n我们要学的，可能就是搞清楚每个模型的性格，然后把它们各自放到最合适的位置上。\n然后把你自己想要的东西和需求，说清楚。\n这可能，就是AI时代的管理学吧。\n以上，既然看到这里了，如果觉得不错，随手点个赞、评论、转发三连吧，这对我们有特别大的帮助~\n谢谢你看我的文章，我们，下次再见。",
+          "preview_text": "最近新模型哐哐发，比如上周三凌晨，GPT-6.2 Astra来了。\n然后Gemini也跟机关枪一样，上周四凌晨，又发布了一个备受好评的Gemini 4 Neon。",
+          "title": "毫无保留地分享一下，我是如何让Claude、GPT和Gemini完美协同的。"
+        },
+        "author_id": "1492195583699951620",
+        "conversation_id": "2124680457623425334",
+        "created_at": "2026-11-23T01:44:30.000Z",
+        "edit_history_tweet_ids": [
+          "2124680457623425334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2124…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2124679419419860992",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2124679419419860992",
+              "url": "https://t.co/NCoTCviv2Z"
+            }
+          ]
+        },
+        "id": "2124680457623425334",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8505,
+          "impression_count": 1045364,
+          "like_count": 5065,
+          "quote_count": 183,
+          "reply_count": 210,
+          "retweet_count": 650
+        },
+        "text": "https://t.co/NCoTCviv2Z"
+      },
+      {
+        "author_id": "1596695231717871616",
+        "conversation_id": "1994054388655218861",
+        "created_at": "2025-11-27T14:43:08.000Z",
+        "edit_history_tweet_ids": [
+          "1994054388655218861"
+        ],
+        "id": "1994054388655218861",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "dontbesilent 的 100 条思考\n\n001.\n语言的边界就是思维的边界，使用垃圾语言就会拥有垃圾思维。\n\n002.\n赚钱只需要执行力 + 商业模式，很多赚到钱的人都没有认知，甚至智力都不正常。\n\n003.\n找对标的本质是降维模仿：当你想达成某个目标时，应该去模仿那些已经超额完成该目标的对象。\n\n004.\n如果你愿意去模仿任何对标，那么所有业务都可以是你的对标；如果你只愿意去模仿和你一模一样的对标，那么世界上将没有业务可以成为你的对标。\n\n005.\n做自媒体的门槛是要意识到：你可以通过文字来控制其他人。\n\n006.\n顾客需求是购买商品，不是使用商品。商家只关注你买不买，不关注你用不用。\n\n007.\n好的商业模式会逼你成为一个好人，坏的商业模式会逼你成为一个恶人。\n\n008.\n真正有价值的知识，越分享越值钱。\n\n009.\n不问前路，先发 100 条。这里面，前半句其实比后半句重要。\n\n010.\n绝大多数忙于赚钱却赚不到钱的人，并非不知道正确答案，而是在明知正解的情况下，竭尽全力寻找绕过它的方法。\n\n011.\n只要你拥有常识，就可以在任何一个行业里打败 90% 的竞争对手。\n\n012.\n商业是最大的慈善，因为互不相欠。免费的帮助，常常滋生仇恨。\n\n013.\n人与人之间最完美的距离叫做商品。\n\n014.\n这世上所有的商品都只是给买家一个转账的理由而已。\n\n015.\n如果一个人用 AI 写的文字发出来之后被平台限流了，原因不在于 AI 模型能力不行，而在于用 AI 的这个人对于文字没有洁癖。\n\n016.\n所有让你在自媒体上讲「干货」的博主，都是不专业、不入流的。\n\n017.\n内容需要是差异化的、不能太 low、产品需要是高质量的——这和赚钱有啥关系？这都是商家的心理需求，用户需求是一点不提。\n\n018.\n越是新手，越应该推高成本做内容，否则就会进入「内容差 - 没流量 - 希望以量取胜 - 内容更差」的死亡螺旋。\n\n019.\n投入精力 ≠ 内容好。投入精力 × 对内容有正确理解 = 内容好。\n\n020.\n我们的目标是摆脱小白的身份，成为领域里的专家。这是第一目标。这是信仰与追求。\n\n021.\n万能问题是错误问题，万能答案是错误答案。一个无法精准描述问题的人，是不可能得到答案的。\n\n022.\n提问的过程就是思考的过程，如果你能提出一个好问题，这个事情就已经解决了 80%。\n\n023.\n解决问题的前提是定义问题，这里的「问题」指的是 question，而不是 problem。\n\n024.\n赚钱七字诀是：不问前路直接干。找我的人基本都是：暂时不干我先问问。神仙难助。\n\n025.\n抄生意，分为全抄和半抄。全抄拼执行，半抄拼认知。\n\n026.\n做什么事情都是二八定律。比如直播做到第一，20% 靠我的直播能力，80% 靠我播到凌晨 2：00，把其他人都熬下播。\n\n027.\n如果你不能在每天工作 2 小时的情况下维持收入，很可能是你没有找到最正确的那件事情是什么。\n\n028.\n从不认为自己是任何一个行业的从业者。我随时可以去任何行业做任何事。\n\n029.\n「想赚钱」的意思就是不想赚钱，「正在赚钱」的意思才是想赚钱。\n\n030.\n赚钱分两步：1、找到答案；2、执行。如果你现在没有执行，说明你没有找到答案。\n\n031.\n这个世界上离钱最远的地方，叫做：想找一个自己擅长的事情去赚钱。\n\n032.\n沉迷于战术，使人既疲惫，又贫穷。\n\n033.\n把「赛道」「行业」这俩词从脑子里删掉，赚钱就会容易一些。\n\n034.\n智商决定收入上限，商业模式决定收入下限。\n\n035.\n智力低也是可以赚到钱的。缺乏认知和智力，影响赚大钱，但不影响赚到钱。\n\n036.\n做内容之前，要确保你有产品。如果你不能把你的付款链接发给我，并且让我通过微信或者支付宝付款成功，你就是没有产品。\n\n037.\n定价即产品，产品即定价。\n\n038.\n如何判断一个赛道是否拥挤？你就看同行的定价就知道个差不多。\n\n039.\n毛利应该重新定义为「售价 - 营销成本」。在流量为王的时代，营销成本才是真正的「生产成本」。\n\n040.\n「卖产品赚钱」不是一件事，是 N 件事。第一层是有人需要这个产品，第二层是有人愿意为这个产品付钱，第三层是有很多人愿意付钱，第四层是我可以持续性地获取流量。\n\n041.\n小红书 = 内容平台；抖音 = 内容电商平台。\n\n042.\n中国真正的播客，不是 podcast，是抖音。\n\n043.\n国内的小老板不愿意给美国人 19 美金，最终的结果就是给中国人割 198000 人民币。\n\n044.\n知识付费的核心不是缓解焦虑，但是缓解焦虑是知识付费的必要组成部分。\n\n045.\n好的「IP 知识付费」应该是围绕「IP」和「付费」做内容，而不是围绕「知识」做内容。\n\n046.\n小红书上 1w 粉丝月入 10w 是可以的。前提有二：1. IP 人设差异化内容；2. 内容与产品强匹配，自己卖货，不接广告。\n\n047.\n有价值的行动，进行积分之后，会变成有价值的商品。\n\n048.\n对关键词的理解永无止境。当我们说喝「拿铁」和说喝「咖啡」的时候，我们在说两件事情。\n\n049.\n组织内部应该禁用没有定义过的主观词汇。\n\n050.\n我们用语言思考，所以语言的边界就成了思维的边界。每个词背后都隐藏着特定的世界观和假设。\n\n051.\n维特根斯坦说：不存在只有我自己能理解的语言，语言必须是公共的、可验证的。\n\n052.\n哲学书里面，有你需要的所有提示词。哲学家们用了 2000 多年时间研究：如何清晰思考、如何准确表达、如何有效论证。\n\n053.\n要精通 DeepSeek，先把康德、休谟、维特根斯坦读完。不谈哲学就没有入 DeepSeek 的门。\n\n054.\n第一桶金常常会面临生意方向的抉择。路线 1：产品需求强，但是做起来阻力大；路线 2：产品需求弱，没竞争。这个时候一定要坚定选择路线 1。1 的问题是可以努力解决的，2 的问题是神也解决不了的。\n\n055.\n我喜欢做的生意，是和同行在供应链完全没有任何差异的那种。你休想和我在产品上有任何差异化，无处躲藏。\n\n056.\n会对标和不会对标的人的区别就是，前者打心底相信「和对标保持一致」这句话是真理。\n\n057.\n模仿到极致，就是创新的开始；问题被看透，就是答案的终结。\n\n058.\n如果你看到对方抖音直播间的女主播的袜子上面出现了 3 个线头，而你们女主播的袜子上只有 2 个线头，你就没有模仿对标。\n\n059.\n对标是用来模仿的。如果你愿意模仿任何对象，全世界的生意都可以成为你的对标。\n\n060.\n找对标能解决的是业务逻辑问题，但前提是执行者已经解决了「人的问题」。\n\n061.\n真正的学习不是看书上课，而是完整走完同行的每一个流程，直到你能预测对方的所有行为。\n\n062.\n目标要降维，心态要升维。想月入 10 万，就去模仿月入百万的生意。\n\n063.\n量化练习产生质变。看懂 100 条爆款视频能破万粉，看懂 1000 条能破十万粉。\n\n064.\n学文案、学抖音有个很快的方法，就是你去找一堆爆款视频，不看开头，就从 15s 开始看，然后你想一下这个开头如果是你，你会怎么写。\n\n065.\n一个人对正确方法了解得越清楚，他逃避的动力就越强。因为清晰的认知意味着无可推诿的责任。\n\n066.\n在信息透明的时代，持续贫穷往往是一种主动选择——选择舒适的自我欺骗，而非艰难的自我实现。\n\n067.\n最大的悲剧不是不知道答案，而是明知答案却选择逃避——因为自由太沉重，牢笼更轻松。\n\n068.\n当你提出了一个问题，是说明你没有看懂这件事情。如果我能让你看懂这件事情，你将没有问题。\n\n069.\n我做了个答疑社群给几千人答过疑，我并不是在提供答案，我是在消解问题。\n\n070.\n我的终极目标并不是要提供所有问题的答案，而是看清楚所有的事情，以至于没有问题可问。\n\n071.\n国内知识付费市场的主流本质是「认知套利」：卖方利用买方的无知获利，而买方用金钱购买心理安慰。\n\n072.\n在国内知识付费市场的主流业态中，业务转化率与受众智力水平呈反比关系。\n\n073.\n国内这些搞什么 IP 定位智能体的人没有意识到，他们是用 AI 做了一个诈骗业务。干掉你们的不是 claude，是警察。\n\n074.\n如果一个人抱怨 AI 生成的文案「有 AI 味」时，这种判断往往揭示了一个有趣的现象：评判者将本该由自己承担的审美责任，不自觉地转移给了工具本身。\n\n075.\n让 AI 分析爆款文案，是最蠢的方法。爆款文案长啥样，不重要；爆款文案是如何被塑造的，很重要。规则 > 结果。\n\n076.\n为什么 AI 经常会写「请你记住」「真相是 xxx」？因为无能的创作者会频繁使用祈使句制造紧迫感，尝试用语气的强度去代替逻辑的强度。\n\n077.\n所有「去 AI 味」的提示词，都是不懂文字的人写出来的。因为去 AI 味是伪命题。\n\n078.\nAI 写的东西有没有价值？如果是好内容的话，没人关心这东西是怎么出来的。\n\n079.\n关心自己的文案有没有 AI 味的人很多，关心自己的文案好不好的人很少。然而，英雄是不问出处的。\n\n080.\n如果你教的东西别人很容易学会，那无论保留还是公开都赚不到钱。如果你教的东西有真正的难度，即使毫无保留地公开，别人在实践中仍会遇到问题。\n\n081.\n真正的问题不在于你有 1 层储备你要怎么分配，而是你要花多久才能搞到 10 层储备。不要从顾客身上找答案，从自己身上找答案。\n\n082.\n如果你有 10 层储备，引流款讲 3 层，利润款讲 3 层，还剩 4 层，不是我不想讲，而是没人对我这套晦涩难懂、不能快速变现的商业本体论感兴趣。\n\n083.\n有执行力、有探索精神的人是在认同，知识是在实践的过程当中产生的。没有执行力的人，是相信可以在实践之前就拥有知识。\n\n084.\n人们自以为的需求和人们实际上想要的，是两套算法，前者是因果，后者是相关。\n\n085.\n授人以鱼，可盆满钵满；授人以渔，如杀人放火。\n\n086.\n做自媒体不要抱怨被骂。如果你骗人了，被骂是理所应当；如果你没骗人，就会被另外 99% 想被骗的人骂。\n\n087.\n当你的认知高于观众一个段位，他们会关注你；高十个段位，他们就开始辱骂你；高一百个段位，他们会嘲笑你。\n\n088.\n没销售能力的人，都爱拿「精准人群」当遮羞布。\n\n089.\n好的内容产出场所，应该是没有压力的。就是这种自由，能孵化好内容。\n\n090.\n思维都是涌现出来的，如有雷同，纯属巧合，谈不上竞争与否。\n\n091.\n我对绝大多数所谓 AI 社群的评价：如果一条信息，在我需要的时候我唾手可得，而你在不确定我是否需要的时候发给了我，这就是垃圾信息。\n\n092.\n绝大多数知识博主都在基于有限的、二手的、索然无味的信息差去变现，压根不研究业务，毫无科研精神。\n\n093.\n跨过执行力的心理门槛之后，会发现首先得到的不是钱，而是社会支持。\n\n094.\n绝大多数的「割」都来源于一个点，就是当事人觉得他没能用 AI 写好文案，是他不懂 AI，是他没选对 AI 产品。没意识到这个事情是在于他不懂文案，没理解文字本身。\n\n095.\n如果一个岗位被定义为特定角色的智能体，就一定会失业。如果一个岗位被定义为给人类或者 AI 制定工作流，就不会失业。\n\n096.\n如果你不知道怎么把一个前端交互页面变成钱，就会觉得：Gemini 3 来了，前端已死。如果你知道怎么把一个前端交互页面变成钱，就会觉得：受限于前端成本而被压制的供给，现在可以直接起飞。\n\n097.\n知识博主的核心工作只有两个：1、把事情搞清楚；2、把事情说清楚。「把事情搞清楚」是一切的开端。\n\n098.\n不要试图正当化不道德的行为，不要试图用数字来计算道德，承认世界的悲剧性，而不是试图通过破坏规则来逃避悲剧。因为一旦规则被破坏，长期来看，所有人都会更糟。\n\n099.\nAI 割韭菜项目都是同一个逻辑：买家希望有个神仙级的武器让自己不劳而获，卖家想骗买家，现在加上一个话术叫做「人工智能太 nb 了」。\n\n100.\n从「想赚钱」到「正在赚钱」，中间隔着的不是方法，而是你愿不愿意承认：那些你明知道正确却不愿意做的事情，才是你贫穷的真正原因。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1666,
+          "impression_count": 230119,
+          "like_count": 1460,
+          "quote_count": 39,
+          "reply_count": 53,
+          "retweet_count": 344
+        },
+        "text": "dontbesilent 的 100 条思考\n\n001.\n语言的边界就是思维的边界，使用垃圾语言就会拥有垃圾思维。\n\n002.\n赚钱只需要执行力 + 商业模式，很多赚到钱的人都没有认知，甚至智力都不正常。\n\n003.\n找对标的本质是降维模仿：当你想达成某个目标时，应该去模仿那些已经超额完成该目标的对象。\n\n004."
+      },
+      {
+        "author_id": "2013470525574766593",
+        "conversation_id": "2124830522207846714",
+        "created_at": "2026-11-23T12:10:46.000Z",
+        "edit_history_tweet_ids": [
+          "2124838062018752604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124838062018752604",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124830522207846714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 人文AI群实锤了！"
+      },
+      {
+        "author_id": "1648577903955947522",
+        "conversation_id": "2124830522207846714",
+        "created_at": "2026-11-23T12:13:01.000Z",
+        "edit_history_tweet_ids": [
+          "2124838629294104903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1923981862273417222",
+              "start": 0,
+              "username": "bbkirstry"
+            }
+          ]
+        },
+        "id": "2124838629294104903",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124830522207846714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 蒸汽波？！老爱听了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-18T06:00:26.000Z",
+        "description": "品牌内容营销 × AI增长 × IP策划\nWayToBot 社区联合发起人\n赛博小晚 Skill 作者：https://t.co/ntE6Nb5398\n\nAI 时代，成为你自己 🧸",
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059964490326880256/hPFkU6wC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11251,
+          "following_count": 422,
+          "like_count": 2309,
+          "listed_count": 59,
+          "media_count": 450,
+          "tweet_count": 2899
+        },
+        "username": "bbkirstry",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2125099153697251619",
+    "next_token": "7140dibdnow9c7btwp0gmbmnwe8yejgc3jfpqv352dsfl",
+    "oldest_id": "2124838751939723771",
+    "previous_token": "77qpymm88g5h9vqkmfps2t7cqfak9gpzyhhczn4jixagp",
+    "result_count": 25
+  }
+}

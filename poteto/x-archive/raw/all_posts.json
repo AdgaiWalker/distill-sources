@@ -23,7 +23,7 @@
     "protected": false
   },
   "fetched_at_beijing": "2026-11-22 18:10 北京时间",
-  "post_count_returned": 708,
+  "post_count_returned": 722,
   "related_count": 595,
   "other_count": 113,
   "includes": {
@@ -27363,6 +27363,13 @@
         "media_key": "3_2113461938164506624",
         "type": "photo",
         "url": "https://pbs.twimg.com/media/HVSGb2aaoAAzxbf.jpg"
+      },
+      {
+        "height": 576,
+        "media_key": "13_2124927571699855360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2124927571699855360/img/a3fqAtMY8bXSBRIa.jpg",
+        "type": "video",
+        "width": 774
       }
     ]
   },
@@ -57569,6 +57576,588 @@
       ],
       "text": "RT @poteto: my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://t.co/Fel7tlxqSL",
       "url": "https://x.com/poteto/status/2124430192521469992"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2124525170891411861",
+      "created_at": "2026-11-22T15:27:27.000Z",
+      "edit_history_tweet_ids": [
+        "2124525170891411861"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 19,
+            "id": "1691669297637277696",
+            "start": 3,
+            "username": "RayFernando1337"
+          }
+        ]
+      },
+      "id": "2124525170891411861",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4213,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 89
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124222002076733869",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @RayFernando1337: Sharing my pstack NSWF prompt. Your repo will never be the same...in a good way of course:\n\nUse /poteto-mode on this r…",
+      "url": "https://x.com/poteto/status/2124525170891411861"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2124525336994177412",
+      "created_at": "2026-11-22T15:28:06.000Z",
+      "edit_history_tweet_ids": [
+        "2124525336994177412"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/rayfernando133…",
+            "end": 78,
+            "expanded_url": "https://twitter.com/rayfernando1337/status/2124222002076733869",
+            "start": 55,
+            "url": "https://t.co/u0Sg9iOHRQ"
+          }
+        ]
+      },
+      "id": "2124525336994177412",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2087,
+        "impression_count": 217279,
+        "like_count": 3151,
+        "quote_count": 8,
+        "reply_count": 107,
+        "retweet_count": 70
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124222002076733869",
+          "type": "quoted"
+        }
+      ],
+      "text": "it’s a good day to do some gardening of your codebase! https://t.co/u0Sg9iOHRQ",
+      "url": "https://x.com/poteto/status/2124525336994177412"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2124768511985951054",
+      "created_at": "2026-11-23T19:10:34.000Z",
+      "edit_history_tweet_ids": [
+        "2124943708160458785"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1990588049148071936",
+            "start": 0,
+            "username": "yxw1092526"
+          }
+        ]
+      },
+      "id": "2124943708160458785",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 12505,
+        "like_count": 77,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124768511985951054",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yxw1092526 will look into it",
+      "url": "https://x.com/poteto/status/2124943708160458785"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2124955788313866476",
+      "created_at": "2026-11-23T19:58:34.000Z",
+      "edit_history_tweet_ids": [
+        "2124955788313866476"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1394306514282848260",
+            "start": 3,
+            "username": "ReactMiamiConf"
+          },
+          {
+            "end": 67,
+            "id": "244965762",
+            "start": 59,
+            "username": "rickyfm"
+          }
+        ]
+      },
+      "id": "2124955788313866476",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4149,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124953188797436275",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ReactMiamiConf: Welcome to the React Miami 2027 stage, @rickyfm 🌴\n\nRicky Hanlon is a member of the React Core Team and is known for his…",
+      "url": "https://x.com/poteto/status/2124955788313866476"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2124964843337978289",
+      "created_at": "2026-11-23T20:34:33.000Z",
+      "edit_history_tweet_ids": [
+        "2124964843337978289"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2832427459",
+            "start": 3,
+            "username": "poteto"
+          },
+          {
+            "end": 58,
+            "id": "2085838061347217408",
+            "start": 54,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "description": "11,000 pull requests in one month, with a revert rate around 0.5%. ...",
+            "display_url": "youtu.be/O_zcc6Xl12g",
+            "end": 135,
+            "expanded_url": "https://youtu.be/O_zcc6Xl12g",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2124201679625330689/w0kgs6jl?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124201679625330689/w0kgs6jl?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 112,
+            "status": 200,
+            "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI",
+            "unwound_url": "https://www.youtube.com/watch?v=O_zcc6Xl12g&feature=youtu.be",
+            "url": "https://t.co/Fel7tlxqSL"
+          }
+        ]
+      },
+      "id": "2124964843337978289",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1032
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121673563489140863",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @poteto: my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality\n\nhttps://t.co/Fel7tlxqSL",
+      "url": "https://x.com/poteto/status/2124964843337978289"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2124966730351227248",
+      "created_at": "2026-11-23T20:42:03.000Z",
+      "edit_history_tweet_ids": [
+        "2124966730351227248"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1394306514282848260",
+            "start": 3,
+            "username": "ReactMiamiConf"
+          },
+          {
+            "end": 68,
+            "id": "1087957969915006976",
+            "start": 55,
+            "username": "Madisonkanna"
+          }
+        ]
+      },
+      "id": "2124966730351227248",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4019,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124962248074444892",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ReactMiamiConf: Returning to Miami, please welcome @Madisonkanna !\n\nMadison is a software developer, educator, and former React Miami M…",
+      "url": "https://x.com/poteto/status/2124966730351227248"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2124973419443949967",
+      "created_at": "2026-11-23T21:08:37.000Z",
+      "edit_history_tweet_ids": [
+        "2124973419443949967"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1394306514282848260",
+            "start": 3,
+            "username": "ReactMiamiConf"
+          },
+          {
+            "end": 52,
+            "id": "3375985313",
+            "start": 40,
+            "username": "evilrabbit_"
+          }
+        ]
+      },
+      "id": "2124973419443949967",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4242,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124970335363825780",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ReactMiamiConf: Bienvenido a Miami, @evilrabbit_ !\n\nEvil Rabbit is the creative mastermind behind Vercel's iconic branding and its Head…",
+      "url": "https://x.com/poteto/status/2124973419443949967"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2125029185379008573",
+      "created_at": "2026-11-24T00:50:13.000Z",
+      "edit_history_tweet_ids": [
+        "2125029185379008573"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "if you want to go fast, go deep first. pstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence.",
+            "display_url": "x.ai/bot/plugin/971…",
+            "end": 203,
+            "expanded_url": "https://x.ai/bot/plugin/9717366",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2123356480329924608/N13FaKg4?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2123356480329924608/N13FaKg4?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 180,
+            "status": 200,
+            "title": "pstack for Grok Bot",
+            "unwound_url": "https://x.ai/bot/plugin/9717366",
+            "url": "https://t.co/lOpojdZtT2"
+          }
+        ]
+      },
+      "id": "2125029185379008573",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4163,
+        "impression_count": 291757,
+        "like_count": 4730,
+        "quote_count": 49,
+        "reply_count": 331,
+        "retweet_count": 265
+      },
+      "text": "you can only prompt what you can imagine\n\ntry the new /reframe skill in pstack - for when you know what you want but are struggling to communicate it. works great with /sharpen! \n\nhttps://t.co/lOpojdZtT2",
+      "url": "https://x.com/poteto/status/2125029185379008573"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2124927571699855360"
+        ],
+        "media_source_tweet_id": [
+          "2124927597461274713"
+        ]
+      },
+      "author_id": "2832427459",
+      "conversation_id": "2125041148423229570",
+      "created_at": "2026-11-24T01:37:45.000Z",
+      "edit_history_tweet_ids": [
+        "2125041148423229570"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "2085838061347217408",
+            "start": 17,
+            "username": "bot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/azUXGVSRlD",
+            "end": 45,
+            "expanded_url": "https://x.com/DutchSilverFolf/status/2124927597461274713/video/1",
+            "media_key": "13_2124927571699855360",
+            "start": 22,
+            "url": "https://t.co/azUXGVSRlD"
+          }
+        ]
+      },
+      "id": "2125041148423229570",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 134,
+        "impression_count": 112483,
+        "like_count": 2869,
+        "quote_count": 17,
+        "reply_count": 145,
+        "retweet_count": 101
+      },
+      "text": "life before grok @bot https://t.co/azUXGVSRlD",
+      "url": "https://x.com/poteto/status/2125041148423229570"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2125314864021229710",
+      "created_at": "2026-11-24T19:54:06.000Z",
+      "edit_history_tweet_ids": [
+        "2125317052089188511"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "2086994497452285952",
+            "start": 0,
+            "username": "loccoai"
+          },
+          {
+            "end": 14,
+            "id": "1720665183188922368",
+            "start": 9,
+            "username": "grok"
+          }
+        ]
+      },
+      "id": "2125317052089188511",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 5472,
+        "like_count": 123,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125314864021229710",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@loccoai @grok glad you like it! it's a feature i copied over from cursor :D",
+      "url": "https://x.com/poteto/status/2125317052089188511"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2125340394938593344",
+      "created_at": "2026-11-24T21:26:51.000Z",
+      "edit_history_tweet_ids": [
+        "2125340394938593344"
+      ],
+      "id": "2125340394938593344",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 785,
+        "impression_count": 312322,
+        "like_count": 9289,
+        "quote_count": 145,
+        "reply_count": 416,
+        "retweet_count": 257
+      },
+      "text": "never thought i'd say this but i am now daily driving gemini neon in cursor\n\nit's a good model",
+      "url": "https://x.com/poteto/status/2125340394938593344"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2125296893768896981",
+      "created_at": "2026-11-24T21:28:12.000Z",
+      "edit_history_tweet_ids": [
+        "2125340734614380594"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1397978229541986304",
+            "start": 0,
+            "username": "JinjingLiang"
+          }
+        ]
+      },
+      "id": "2125340734614380594",
+      "lang": "und",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 5076,
+        "like_count": 65,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125296893768896981",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JinjingLiang yep",
+      "url": "https://x.com/poteto/status/2125340734614380594"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2125340394938593344",
+      "created_at": "2026-11-24T21:44:16.000Z",
+      "edit_history_tweet_ids": [
+        "2125344778892292255"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "494273038",
+            "start": 0,
+            "username": "davidgomes"
+          }
+        ]
+      },
+      "id": "2125344778892292255",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 38,
+        "impression_count": 29068,
+        "like_count": 379,
+        "quote_count": 1,
+        "reply_count": 19,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125344244185366791",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@davidgomes im using neon for both at the moment! with opus as a reviewer",
+      "url": "https://x.com/poteto/status/2125344778892292255"
+    },
+    {
+      "author_id": "2832427459",
+      "conversation_id": "2125361344514003138",
+      "created_at": "2026-11-24T22:50:06.000Z",
+      "edit_history_tweet_ids": [
+        "2125361344514003138"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 19,
+            "id": "505835394",
+            "start": 3,
+            "username": "ericzakariasson"
+          }
+        ]
+      },
+      "id": "2125361344514003138",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2766,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 21
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125268774152487241",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ericzakariasson: we're looking for small-medium business owners who are currently hiring for any role and want to take part in a hands…",
+      "url": "https://x.com/poteto/status/2125361344514003138"
     }
-  ]
+  ],
+  "fetched_at_bj": "2026-11-25 10:16 北京时间"
 }

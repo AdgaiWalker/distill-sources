@@ -4550,3 +4550,41 @@ imagine orchestrating all of your grok bots with just your mind https://t.co/L43
 RT @poteto: my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality
 
 https://t.co/Fel7tlxqSL
+
+## 2026-11-22 23:27 北京时间 · 转帖 · 赞 0
+- 链接：https://x.com/poteto/status/2124525170891411861
+- 是否有全文：是（post.text）
+
+RT @RayFernando1337: Sharing my pstack NSWF prompt. Your repo will never be the same...in a good way of course:
+
+Use /poteto-mode on this r…
+
+## 2026-11-24 04:34 北京时间 · 转帖 · 赞 0
+- 链接：https://x.com/poteto/status/2124964843337978289
+- 是否有全文：是（post.text）
+
+RT @poteto: my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality
+
+https://t.co/Fel7tlxqSL
+
+## 2026-11-24 08:50 北京时间 · 帖子 · 赞 4730
+- 链接：https://x.com/poteto/status/2125029185379008573
+- 是否有全文：是（post.text）
+
+you can only prompt what you can imagine
+
+try the new /reframe skill in pstack - for when you know what you want but are struggling to communicate it. works great with /sharpen! 
+
+https://t.co/lOpojdZtT2
+
+## 2026-11-24 09:37 北京时间 · 帖子 · 赞 2869
+- 链接：https://x.com/poteto/status/2125041148423229570
+- 是否有全文：是（post.text）
+
+life before grok @bot https://t.co/azUXGVSRlD
+
+## 2026-11-25 03:54 北京时间 · 回复 · 赞 123
+- 链接：https://x.com/poteto/status/2125317052089188511
+- 是否有全文：是（post.text）
+
+@loccoai @grok glad you like it! it's a feature i copied over from cursor :D

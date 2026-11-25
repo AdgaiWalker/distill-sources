@@ -38,7 +38,7 @@
     "site": "https://yichen.ai",
     "github": "https://github.com/mcncarl"
   },
-  "fetched_at_bj": "2026-11-22 18:12 北京时间",
+  "fetched_at_bj": "2026-11-25 10:16 北京时间",
   "pages": [
     {
       "file": "search_2025-03_to_2025-05_page_001.json",
@@ -263,16 +263,35 @@
       "newest": "2120172421789716790",
       "oldest": "2119365103795716473",
       "next_token": true
+    },
+    {
+      "file": "timeline_since_2124436844125540830_p001.json",
+      "result_count": 17,
+      "newest": "2125401690593788238",
+      "oldest": "2124510610759286983",
+      "next_token": false
     }
   ],
-  "post_count_returned": 590,
+  "post_count_returned": 607,
   "includes": {
     "users": [
       {
+        "created_at": "2025-03-06T07:12:24.000Z",
+        "description": "🦄06年 | 渝客松发起人 | 永远在学习的法学生\n💗付费咨询（yichen10801）：企业AI服务&AI自媒体增长\n🚢付费社群：TradeWinds\n📮gengdajin1101@gmail.com\n🔪没素材了，去流浪地球攒一点\n👀yichen-skill、Agent记忆系统、Ailu开发者",
         "id": "1897545708770840576",
+        "location": "https://github.com/mcncarl",
         "name": "逸尘",
-        "protected": false,
-        "username": "gengdaJ"
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976552498564579328/SFfHx_IG_normal.jpg",
+        "public_metrics": {
+          "followers_count": 64294,
+          "following_count": 369,
+          "like_count": 3535,
+          "listed_count": 465,
+          "media_count": 617,
+          "tweet_count": 4425
+        },
+        "username": "gengdaJ",
+        "verified": false
       },
       {
         "id": "1149207748006928384",
@@ -3315,6 +3334,55 @@
         "type": "photo",
         "url": "https://pbs.twimg.com/media/HWmAJKqbYAASmnq.jpg",
         "width": 640
+      },
+      {
+        "height": 837,
+        "media_key": "3_2125355613043707904",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX7Hq2DaUAA9MS9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2125355629380501504",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX7Hry6aAAAoA9X.jpg",
+        "width": 1246
+      },
+      {
+        "height": 836,
+        "media_key": "3_2125355648196182016",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX7Hs5AagAAaGpy.jpg",
+        "width": 1280
+      },
+      {
+        "height": 832,
+        "media_key": "3_2125355664495218688",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX7Ht1uaEAAOxYn.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1595,
+        "media_key": "3_2125124109961252864",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX31Hl3b0AAnkp3.jpg",
+        "width": 1320
+      },
+      {
+        "height": 824,
+        "media_key": "3_2124879364659773440",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HX0WhikagAAZzr7.jpg",
+        "width": 1200
+      },
+      {
+        "height": 768,
+        "media_key": "13_2124879413015973888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2124879413015973888/img/iljkI1xx1OB8TO8I.jpg",
+        "type": "video",
+        "width": 1344
       }
     ]
   },
@@ -25021,6 +25089,732 @@
       ],
       "text": "@hezhiyan7 囤着卖哈哈",
       "url": "https://x.com/gengdaJ/status/2124436844125540830"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2124504184301273585",
+      "created_at": "2026-11-22T14:29:35.000Z",
+      "edit_history_tweet_ids": [
+        "2124510610759286983"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1822141194404593664",
+            "start": 0,
+            "username": "Yiwei_growth"
+          },
+          {
+            "end": 23,
+            "id": "1881991469730594816",
+            "start": 14,
+            "username": "gkxspace"
+          },
+          {
+            "end": 44,
+            "id": "1881991469730594816",
+            "start": 35,
+            "username": "gkxspace"
+          }
+        ]
+      },
+      "id": "2124510610759286983",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 116,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124504184301273585",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yiwei_growth @gkxspace 卧槽，明天把他焚决扒光@gkxspace",
+      "url": "https://x.com/gengdaJ/status/2124510610759286983"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2124376935883272681",
+      "created_at": "2026-11-22T14:30:05.000Z",
+      "edit_history_tweet_ids": [
+        "2124510735980228634"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "71735853",
+            "start": 0,
+            "username": "aobatu"
+          }
+        ]
+      },
+      "id": "2124510735980228634",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 484,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124496981183844550",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aobatu 文章中的地区检查一下",
+      "url": "https://x.com/gengdaJ/status/2124510735980228634"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2124711036456714503",
+      "created_at": "2026-11-23T03:59:38.000Z",
+      "edit_history_tweet_ids": [
+        "2124714463547044178"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1822141194404593664",
+            "start": 0,
+            "username": "Yiwei_growth"
+          },
+          {
+            "end": 16,
+            "id": "783214",
+            "start": 14,
+            "username": "X"
+          }
+        ]
+      },
+      "id": "2124714463547044178",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 204,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124711036456714503",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yiwei_growth @X 在哪呢",
+      "url": "https://x.com/gengdaJ/status/2124714463547044178"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2108363527971041650",
+      "created_at": "2026-11-23T08:58:26.000Z",
+      "edit_history_tweet_ids": [
+        "2124789660325212653"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1645091614547910658",
+            "start": 0,
+            "username": "MaocongW3383"
+          }
+        ]
+      },
+      "id": "2124789660325212653",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124772445332918515",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MaocongW3383 有一点，但问题不大。主要是 Kyc 和你的卡，和环境配置",
+      "url": "https://x.com/gengdaJ/status/2124789660325212653"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2124745860852691395",
+      "created_at": "2026-11-23T09:09:35.000Z",
+      "edit_history_tweet_ids": [
+        "2124792467178618991"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "452072245",
+            "start": 0,
+            "username": "lxfater"
+          }
+        ]
+      },
+      "id": "2124792467178618991",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 528,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124745860852691395",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lxfater 如果以商业化导向，可就太行了",
+      "url": "https://x.com/gengdaJ/status/2124792467178618991"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2124711036456714503",
+      "created_at": "2026-11-23T15:13:27.000Z",
+      "edit_history_tweet_ids": [
+        "2124884035994517879"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1822141194404593664",
+            "start": 0,
+            "username": "Yiwei_growth"
+          },
+          {
+            "end": 16,
+            "id": "783214",
+            "start": 14,
+            "username": "X"
+          }
+        ]
+      },
+      "id": "2124884035994517879",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 40,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124877955864395986",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yiwei_growth @X 我在前海 hh",
+      "url": "https://x.com/gengdaJ/status/2124884035994517879"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2124879364659773440",
+          "13_2124879413015973888"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2124938042771394710",
+      "created_at": "2026-11-23T18:48:03.000Z",
+      "edit_history_tweet_ids": [
+        "2124938042771394710"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/I48SxoNqan",
+            "end": 201,
+            "expanded_url": "https://x.com/gengdaJ/status/2124938042771394710/video/1",
+            "media_key": "3_2124879364659773440",
+            "start": 178,
+            "url": "https://t.co/I48SxoNqan"
+          },
+          {
+            "display_url": "pic.x.com/I48SxoNqan",
+            "end": 201,
+            "expanded_url": "https://x.com/gengdaJ/status/2124938042771394710/video/2",
+            "media_key": "13_2124879413015973888",
+            "start": 178,
+            "url": "https://t.co/I48SxoNqan"
+          },
+          {
+            "display_url": "x.com/nicholascalez/…",
+            "end": 225,
+            "expanded_url": "https://twitter.com/nicholascalez/status/2124850775109054960",
+            "start": 202,
+            "url": "https://t.co/DrLzfP15YQ"
+          }
+        ]
+      },
+      "id": "2124938042771394710",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "WTF！每天 100 万自然流播放、20 万美元 ARR🤯 X 每天的干货真的学不完，这篇文章讲解了一套 TikTok 和 Instagram 矩阵自动化运营放大打法。\n\n不仅把 Instagram 的 Trial Reels 机制玩明白了，整套工作流也非常清晰高效：\n1、素材准备：集中 2-3 天录制一个月的视频素材，多机位和 B-roll 都拍齐。\n2、Claude Code 批量剪辑：用 Fable 5.2 给每条视频换不同 hook 和时长，自动切成 6 个测试版本（外加 1 个更短的 TikTok 版）。\n3、Edits 配乐：Instagram 官方配套剪辑 App，多次发布相似视频更少被风控。\n4、多平台自动分发：Claude 连接 Postiz，把一整月 200+ 视频自动排进 Trial Reels 和 TikTok（还能定时自动发首评）。\n5、挑出优胜视频：每隔两天从 Trial Reels 找出播放最高的版本，把 hook 记下来，并把这条视频重新上传到主账号 Reels。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 37,
+        "impression_count": 5088,
+        "like_count": 23,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124850775109054960",
+          "type": "quoted"
+        }
+      ],
+      "text": "WTF！每天 100 万自然流播放、20 万美元 ARR🤯 X 每天的干货真的学不完，这篇文章讲解了一套 TikTok 和 Instagram 矩阵自动化运营放大打法。\n\n不仅把 Instagram 的 Trial Reels 机制玩明白了，整套工作流也非常清晰高效：\n1、素材准备：集中 2-3 天录制一个月的视频素材，多机位和 B-roll 都拍齐。 https://t.co/I48SxoNqan https://t.co/DrLzfP15YQ",
+      "url": "https://x.com/gengdaJ/status/2124938042771394710"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125029921491951865",
+      "created_at": "2026-11-24T00:53:09.000Z",
+      "edit_history_tweet_ids": [
+        "2125029921491951865"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1601693298707628035",
+            "start": 3,
+            "username": "rileybrown"
+          }
+        ]
+      },
+      "id": "2125029921491951865",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 125,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 28
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124955587486032096",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @rileybrown: The AI Blender Series Continues...\n\nHere's my latest video created with Fable 5.2 on High, with Claude renting its own GPUs…",
+      "url": "https://x.com/gengdaJ/status/2125029921491951865"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125030622163030024",
+      "created_at": "2026-11-24T00:55:56.000Z",
+      "edit_history_tweet_ids": [
+        "2125030622163030024"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1897545708770840576",
+            "start": 3,
+            "username": "gengdaJ"
+          }
+        ]
+      },
+      "id": "2125030622163030024",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124938042771394710",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @gengdaJ: WTF！每天 100 万自然流播放、20 万美元 ARR🤯 X 每天的干货真的学不完，这篇文章讲解了一套 TikTok 和 Instagram 矩阵自动化运营放大打法。\n\n不仅把 Instagram 的 Trial Reels 机制玩明白了，整套工作流…",
+      "url": "https://x.com/gengdaJ/status/2125030622163030024"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2125124109961252864"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125154203635175749",
+      "created_at": "2026-11-24T09:07:00.000Z",
+      "edit_history_tweet_ids": [
+        "2125154203635175749"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/2fQaIYyM75",
+            "end": 188,
+            "expanded_url": "https://x.com/gengdaJ/status/2125154203635175749/photo/1",
+            "media_key": "3_2125124109961252864",
+            "start": 165,
+            "url": "https://t.co/2fQaIYyM75"
+          }
+        ]
+      },
+      "id": "2125154203635175749",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "大家有没有感觉最近国产模型安静得有点诡异了…接下来可能会有国模更新的大浪潮来袭！\n\nGLM5.4 只是开胃小菜，Qoder 和 Opencode 刚刚同时上线了一个匿名模型HungerG，吐 token 速度极快，在海外已经爆了，我猜是 Qwen4 Flash…阿里家在发力…\n\nQoder 免费体验七天（Opencode Go 会员免费一周），快的飞起…"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 8944,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "大家有没有感觉最近国产模型安静得有点诡异了…接下来可能会有国模更新的大浪潮来袭！\n\nGLM5.4 只是开胃小菜，Qoder 和 Opencode 刚刚同时上线了一个匿名模型HungerG，吐 token 速度极快，在海外已经爆了，我猜是 Qwen4 Flash…阿里家在发力…\n\nQoder 免费体验七天（Opencode Go https://t.co/2fQaIYyM75",
+      "url": "https://x.com/gengdaJ/status/2125154203635175749"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125154203635175749",
+      "created_at": "2026-11-24T10:44:11.000Z",
+      "edit_history_tweet_ids": [
+        "2125178659778773029"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1792608085409939456",
+            "start": 0,
+            "username": "Astronaut_1216"
+          }
+        ]
+      },
+      "id": "2125178659778773029",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 435,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125154372292378975",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 准备做个大的哈哈",
+      "url": "https://x.com/gengdaJ/status/2125178659778773029"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125111450184409289",
+      "created_at": "2026-11-24T10:44:33.000Z",
+      "edit_history_tweet_ids": [
+        "2125178752783225045"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1792608085409939456",
+            "start": 0,
+            "username": "Astronaut_1216"
+          }
+        ]
+      },
+      "id": "2125178752783225045",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 475,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125111450184409289",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Astronaut_1216 已经发现此模型，火速测试中",
+      "url": "https://x.com/gengdaJ/status/2125178752783225045"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125352871634026914",
+      "created_at": "2026-11-24T22:16:26.000Z",
+      "edit_history_tweet_ids": [
+        "2125352871634026914"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1895453094361890816",
+            "start": 3,
+            "username": "higgsfield"
+          }
+        ]
+      },
+      "id": "2125352871634026914",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 84,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 315
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125290656692085164",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @higgsfield: Introducing MAGI-2, exclusively on Higgsfield.\n\nUp to 30 seconds of frontier 1080p quality, with 0.08$ per second of genera…",
+      "url": "https://x.com/gengdaJ/status/2125352871634026914"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2125355613043707904",
+          "3_2125355629380501504",
+          "3_2125355648196182016",
+          "3_2125355664495218688"
+        ]
+      },
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125394036269969813",
+      "created_at": "2026-11-25T01:00:00.000Z",
+      "edit_history_tweet_ids": [
+        "2125394036269969813"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/HnBaRJt2LM",
+            "end": 183,
+            "expanded_url": "https://x.com/gengdaJ/status/2125394036269969813/photo/1",
+            "media_key": "3_2125355613043707904",
+            "start": 160,
+            "url": "https://t.co/HnBaRJt2LM"
+          },
+          {
+            "display_url": "pic.x.com/HnBaRJt2LM",
+            "end": 183,
+            "expanded_url": "https://x.com/gengdaJ/status/2125394036269969813/photo/2",
+            "media_key": "3_2125355629380501504",
+            "start": 160,
+            "url": "https://t.co/HnBaRJt2LM"
+          },
+          {
+            "display_url": "pic.x.com/HnBaRJt2LM",
+            "end": 183,
+            "expanded_url": "https://x.com/gengdaJ/status/2125394036269969813/photo/3",
+            "media_key": "3_2125355648196182016",
+            "start": 160,
+            "url": "https://t.co/HnBaRJt2LM"
+          },
+          {
+            "display_url": "pic.x.com/HnBaRJt2LM",
+            "end": 183,
+            "expanded_url": "https://x.com/gengdaJ/status/2125394036269969813/photo/4",
+            "media_key": "3_2125355664495218688",
+            "start": 160,
+            "url": "https://t.co/HnBaRJt2LM"
+          }
+        ]
+      },
+      "id": "2125394036269969813",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "让你的Agent变得更聪明其实很简单，只需要装上Memmy，你电脑上所有文件、操作记录、Agent 聊天记录就能长期复利！\n\nMemmy是一个开源的个人记忆中枢+ AI Agent，我已经用了好久了，记忆这块一骑绝尘，可以说AI时代必装工具之一：\n\n⓵记忆跟着人走，打通所有Agent，换一个Agent所有记忆无缝衔接\n一般人换一个Agent都要复制一份背景和记忆，但是Memmy打通了Codex、Claude Code、Cursor和DSH这些主流Agent，每一个Agent的记忆都会自动总结沉淀到Memmy，统一管理，就不会再出现换个Agent就失忆的情况～\n\n⓶Computer History保存电脑操作记录\n有点类似Codex的Computer History，但统一集成在Memmy里面，更加方便！就比如我现在写这篇推文的所有操作，全部被记录存档在Memmy里面了。\n\n⓷支持接入自定义模型，还能打通微信聊天记录\nMemmy 如果是收集隐私数据，我确实不敢用…但是它支持接入自己的 api，我就放心多了，直接接入一手 Deepseek 的 api，爽用！\n\n而且还支持打通微信，可以读取微信聊天记录，原理是拿密钥解析本地数据库，相对安全，和我的 skill 是一个原理。\n\n上述所有的聊天记录和电脑操作历史，还会被沉淀为用户偏好、经验和可复用技能，在 App 内部一目了然，非常方便管理。\n\n最棒的还是 Memmy 还能主动识别电脑上正在执行哪些任务！对于我这种 ADHD 非常友好，多线并行工作，也不会忘掉之前在干啥。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 62,
+        "impression_count": 3606,
+        "like_count": 30,
+        "quote_count": 9,
+        "reply_count": 20,
+        "retweet_count": 1
+      },
+      "text": "让你的Agent变得更聪明其实很简单，只需要装上Memmy，你电脑上所有文件、操作记录、Agent 聊天记录就能长期复利！\n\nMemmy是一个开源的个人记忆中枢+ AI Agent，我已经用了好久了，记忆这块一骑绝尘，可以说AI时代必装工具之一：\n\n⓵记忆跟着人走，打通所有Agent，换一个Agent所有记忆无缝衔接 https://t.co/HnBaRJt2LM",
+      "url": "https://x.com/gengdaJ/status/2125394036269969813"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125394036269969813",
+      "created_at": "2026-11-25T01:07:48.000Z",
+      "edit_history_tweet_ids": [
+        "2125395998621176092"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Memmy is a local-first AI agent with a self-evolving memory foundation, letting the desktop app, CLI and external agents share the same long-term context.",
+            "display_url": "memmy.bot",
+            "end": 46,
+            "expanded_url": "https://memmy.bot",
+            "start": 23,
+            "status": 200,
+            "title": "Memmy",
+            "unwound_url": "https://memmy.bot",
+            "url": "https://t.co/F99Oh3dktG"
+          }
+        ]
+      },
+      "id": "2125395998621176092",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 229,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125394036269969813",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Memmy 传送门，注册即送云端Token～：https://t.co/F99Oh3dktG",
+      "url": "https://x.com/gengdaJ/status/2125395998621176092"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125394036269969813",
+      "created_at": "2026-11-25T01:12:54.000Z",
+      "edit_history_tweet_ids": [
+        "2125397283038777350"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "🍙 A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Co...",
+            "display_url": "github.com/MemTensor/memm…",
+            "end": 23,
+            "expanded_url": "https://github.com/MemTensor/memmy-agent",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://pbs.twimg.com/news_img/2124686762882772992/cwqsJk8C?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124686762882772992/cwqsJk8C?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 0,
+            "status": 200,
+            "title": "GitHub - MemTensor/memmy-agent: 🍙 A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.",
+            "unwound_url": "https://github.com/MemTensor/memmy-agent",
+            "url": "https://t.co/khTPMe3wFB"
+          }
+        ]
+      },
+      "id": "2125397283038777350",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 239,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125394036269969813",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/khTPMe3wFB Memmy开源地址",
+      "url": "https://x.com/gengdaJ/status/2125397283038777350"
+    },
+    {
+      "author_id": "1897545708770840576",
+      "conversation_id": "2125394036269969813",
+      "created_at": "2026-11-25T01:30:25.000Z",
+      "edit_history_tweet_ids": [
+        "2125401690593788238"
+      ],
+      "id": "2125401690593788238",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 191,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2125394036269969813",
+          "type": "replied_to"
+        }
+      ],
+      "text": "顺带说一下，我的记忆系统和Memmy我都在用，两者是不冲突的，一个是每次对话结束总结聊天，一个是全局的记忆，前者偏精细化，后者偏更长期",
+      "url": "https://x.com/gengdaJ/status/2125401690593788238"
     }
   ]
 }

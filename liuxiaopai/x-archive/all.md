@@ -1,54 +1,52 @@
 # @bourneliu66 归档全文（按时间正序）
 
 
-
-时间均为 America/New_York。纯转帖已省略，仅在文末计数。同一会话里作者的连续自回复已合并为一条线程。
-
+时间均为北京时间（UTC+8）。纯转帖已省略，仅在文末计数。同一会话里作者的连续自回复已合并为一条线程。
 
 
-## 2014-10-28 03:28 America/New_York · 帖子 · 赞 0
+## 2014-10-28 15:28 北京时间 · 帖子 · 赞 0
 - 链接：https://x.com/bourneliu66/status/526998811365736448
 - 是否有全文：是（post.text）
 
 @AEAffiliates I tried to withdraw at 7 days ago and it keeps saying 'Auditing' for over 7 days.  May I know when will I receive my money?
 
-## 2015-06-04 01:46 America/New_York · 帖子 · 赞 0
+## 2015-06-04 13:46 北京时间 · 帖子 · 赞 0
 - 链接：https://x.com/bourneliu66/status/606336168909631488
 - 是否有全文：是（post.text）
 
 @liuxiaopai123 testtst
 
-## 2015-06-04 01:46 America/New_York · 回复 · 赞 0
+## 2015-06-04 13:46 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/606336273406529537
 - 是否有全文：是（post.text）
 
 @liuxiaopai123 hahahha
 
-## 2015-06-04 01:51 America/New_York · 帖子 · 赞 0
+## 2015-06-04 13:51 北京时间 · 帖子 · 赞 0
 - 链接：https://x.com/bourneliu66/status/606337389137510400
 - 是否有全文：是（post.text）
 
 @liuxiaopai123 aaaaaaaaaaaaaaaaaaaaa
 
-## 2023-11-27 00:56 America/New_York · 回复 · 赞 0
+## 2023-11-27 13:56 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1729016214008353223
 - 是否有全文：是（post.text）
 
 @tldraw live demo: https://t.co/dzuXVs3w81
 
-## 2023-11-27 01:32 America/New_York · 回复 · 赞 0
+## 2023-11-27 14:32 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1729025392584069573
 - 是否有全文：是（post.text）
 
 @EarthML1 @tldraw https://t.co/dzuXVs3w81
 
-## 2023-11-28 00:25 America/New_York · 回复 · 赞 0
+## 2023-11-28 13:25 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1729371023945208077
 - 是否有全文：是（post.text）
 
 @gorkem cool, let's discuss. I'd love to use https://t.co/FRWPw71vWT API
 
-## 2024-05-09 05:23 America/New_York · 帖子 · 赞 25
+## 2024-05-09 17:23 北京时间 · 帖子 · 赞 25
 - 链接：https://x.com/bourneliu66/status/1788500006477173185
 - 是否有全文：是（post.text）
 
@@ -56,13 +54,13 @@ https://t.co/5FebDmJQN9
 
 Effortlessly create and share personalized, hilarious videos and photos with free, instant face swapping technology. https://t.co/qb3OckciSX
 
-## 2024-11-03 09:40 America/New_York · 帖子 · 赞 2
+## 2024-11-03 22:40 北京时间 · 帖子 · 赞 2
 - 链接：https://x.com/bourneliu66/status/1853084916311073059
 - 是否有全文：是（post.text）
 
 Excited to introduce https://t.co/KPEZ19hSgO ! Our free, fast AI tool transforms lengthy articles into concise summaries, supporting over 20 languages. Summarize smarter, read faster !Try it now and streamline your reading! https://t.co/0i6pOKdOHy
 
-## 2024-12-05 13:25 America/New_York · 帖子 · 赞 6
+## 2024-12-06 02:25 北京时间 · 帖子 · 赞 6
 - 链接：https://x.com/bourneliu66/status/1864737775834009874
 - 是否有全文：是（post.text）
 
@@ -70,7 +68,7 @@ Share your screen instantly with anyone right from your browser. No downloads or
 https://t.co/cAwQb9E9gu
 it's AMAZING!! https://t.co/lg7ZcQqipR
 
-## 2024-12-05 21:34 America/New_York · 帖子 · 赞 6
+## 2024-12-06 10:34 北京时间 · 帖子 · 赞 6
 - 链接：https://x.com/bourneliu66/status/1864861022349045860
 - 是否有全文：是（post.text）
 
@@ -81,29 +79,28 @@ No downloard or registration needed!
 
 https://t.co/cAwQb9E9gu https://t.co/tS60ITCavC
 
-## 2025-08-15 04:14 America/New_York · 长线程 · 赞 619
+## 2025-08-15 16:14 北京时间 · 线程 · 赞 619
 - 链接：https://x.com/bourneliu66/status/1956268148413620396
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2025-08-15 04:14 America/New_York · https://x.com/bourneliu66/status/1956268148413620396
+### 1. 2025-08-15 16:14 北京时间 · https://x.com/bourneliu66/status/1956268148413620396
 
 我成了榜一大哥？？Anthropic追杀的那个每个月消耗数万美金的人，原来就是我呀？！ https://t.co/Z7mGT7xquX
 
-### 2. 2025-08-15 04:14 America/New_York · https://x.com/bourneliu66/status/1956268280169291885
+### 2. 2025-08-15 16:14 北京时间 · https://x.com/bourneliu66/status/1956268280169291885
 
 https://t.co/5denU5Rnwf
 
-
-## 2025-08-17 00:30 America/New_York · 帖子 · 赞 12
+## 2025-08-17 12:30 北京时间 · 帖子 · 赞 12
 - 链接：https://x.com/bourneliu66/status/1956936665613890015
-- 是否有全文：否（text may be truncated; no note_tweet）
+- 是否有全文：是（post.text）
 
 I’m the guy who consumed $50K worth of Claude Code tokens in 30 days on a $200 plan.
 https://t.co/kAXKHUwjKL
 I didn’t hack or bypass limits — I just used it to the max, within the rules, to build real products. 
 When a SaaS offers generous terms, is pushing it to the limit…
 
-## 2025-08-17 01:57 America/New_York · 长帖 · 赞 245
+## 2025-08-17 13:57 北京时间 · 长帖 · 赞 245
 - 链接：https://x.com/bourneliu66/status/1956958540658270411
 - 是否有全文：是（note_tweet）
 
@@ -142,25 +139,25 @@ Claude Code提供了$200美元的包月套餐、几乎不限制使用，并且�
 
 你的观点是什么呢？欢迎讨论。
 
-## 2025-08-17 12:09 America/New_York · 帖子 · 赞 9
+## 2025-08-18 00:09 北京时间 · 帖子 · 赞 9
 - 链接：https://x.com/bourneliu66/status/1957112612132647141
 - 是否有全文：是（post.text）
 
 竟然有人刷榜，还抄我的文案，笑死我了🤣 大千世界真是无奇不有
 
-## 2025-08-17 12:18 America/New_York · 回复 · 赞 2
+## 2025-08-18 00:18 北京时间 · 回复 · 赞 2
 - 链接：https://x.com/bourneliu66/status/1957114889928921193
 - 是否有全文：是（post.text）
 
 @AlexsITlab 谢谢 ❤️
 
-## 2025-08-18 00:21 America/New_York · 回复 · 赞 6
+## 2025-08-18 12:21 北京时间 · 回复 · 赞 6
 - 链接：https://x.com/bourneliu66/status/1957296897082986797
 - 是否有全文：是（post.text）
 
 @Dalong_AI 谢谢你。我也这么认为。😄
 
-## 2025-08-18 00:25 America/New_York · 帖子 · 赞 246
+## 2025-08-18 12:25 北京时间 · 帖子 · 赞 246
 - 链接：https://x.com/bourneliu66/status/1957297741689966814
 - 是否有全文：是（post.text）
 
@@ -173,7 +170,7 @@ Twitter上好像很多朋友还不认识我。
 
 https://t.co/8IZGidky5i
 
-## 2025-08-18 10:36 America/New_York · 帖子 · 赞 66
+## 2025-08-18 22:36 北京时间 · 帖子 · 赞 66
 - 链接：https://x.com/bourneliu66/status/1957451522784055693
 - 是否有全文：是（post.text）
 
@@ -181,7 +178,7 @@ https://t.co/8IZGidky5i
 没什么好回馈大家的，我展示一个才艺吧…… 
 其实，我只是一个运气很好的孩子，靠运气横行一生，下图为证👇 祝愿你拥有和我一样的好运气 https://t.co/yeVdhJAoS6
 
-## 2025-08-18 23:39 America/New_York · 帖子 · 赞 159
+## 2025-08-19 11:39 北京时间 · 帖子 · 赞 159
 - 链接：https://x.com/bourneliu66/status/1957648677868302716
 - 是否有全文：是（post.text）
 
@@ -189,13 +186,13 @@ https://t.co/8IZGidky5i
 对自己挺满意的，下半年继续加油。
 https://t.co/2vzxpDKecx
 
-## 2025-08-18 23:41 America/New_York · 回复 · 赞 9
+## 2025-08-19 11:41 北京时间 · 回复 · 赞 9
 - 链接：https://x.com/bourneliu66/status/1957649198402425133
 - 是否有全文：是（post.text）
 
 @tuzi_ai 那个人是刷榜的，他贴不出来日常使用记录。不仅刷榜，还抄我文案，非常好笑。 https://t.co/m0uQIiPI50
 
-## 2025-08-19 09:38 America/New_York · 帖子 · 赞 320
+## 2025-08-19 21:38 北京时间 · 帖子 · 赞 320
 - 链接：https://x.com/bourneliu66/status/1957799247069270476
 - 是否有全文：是（post.text）
 
@@ -203,20 +200,20 @@ Claude Code 懒人技巧 ： 一键让你的Claude Code拥有所有世界顶级A
 
 https://t.co/8tpxgfD6zc
 
-## 2025-08-20 03:20 America/New_York · 帖子 · 赞 64
+## 2025-08-20 15:20 北京时间 · 帖子 · 赞 64
 - 链接：https://x.com/bourneliu66/status/1958066562860192119
 - 是否有全文：是（post.text）
 
 没想到引起那么多的讨论，全是噪声，影响到我正常生活了。 我决定退出排行榜，继续认真做产品。谢谢关注。 #claudecode https://t.co/ENLYuXiC6F
 
-## 2025-08-21 04:20 America/New_York · 帖子 · 赞 11
+## 2025-08-21 16:20 北京时间 · 帖子 · 赞 11
 - 链接：https://x.com/bourneliu66/status/1958444162031956403
 - 是否有全文：是（post.text）
 
 900个不会写代码的人，经过两个月的学习，能做出怎样的产品？ 今晚19点直播，验货！
 仿佛是一场大型的社会实验，组织900名完全不会写代码的人来使用AI做产品。今天，到了验货的时候。 会翻车吗？我不知道，邀请你一起来见证！ （视频是其中一个参赛产品）https://t.co/U20uZv6V62 https://t.co/ahCJC1SRpG
 
-## 2025-08-22 04:29 America/New_York · 帖子 · 赞 89
+## 2025-08-22 16:29 北京时间 · 帖子 · 赞 89
 - 链接：https://x.com/bourneliu66/status/1958808715202564422
 - 是否有全文：是（post.text）
 
@@ -225,25 +222,25 @@ https://t.co/8tpxgfD6zc
 毫无技术含量，只有创意。只看截图你就能懂。
 想看详细版本的，可以到这里 https://t.co/qb76XU7qhH https://t.co/lBIaxtzXZV
 
-## 2025-08-23 00:15 America/New_York · 帖子 · 赞 325
+## 2025-08-23 12:15 北京时间 · 帖子 · 赞 325
 - 链接：https://x.com/bourneliu66/status/1959107113659027505
 - 是否有全文：是（post.text）
 
 如果我的爸爸妈妈在我小时候就看过这本书，该多好啊！哈哈哈 https://t.co/fcDy7Ddvsc
 
-## 2025-08-24 08:57 America/New_York · 回复 · 赞 0
+## 2025-08-24 20:57 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1959601075172049257
 - 是否有全文：是（post.text）
 
 @cheerselflin 啊？我说话这么难听的吗？ 😂😂
 
-## 2025-08-24 08:59 America/New_York · 回复 · 赞 7
+## 2025-08-24 20:59 北京时间 · 回复 · 赞 7
 - 链接：https://x.com/bourneliu66/status/1959601431855661564
 - 是否有全文：是（post.text）
 
 @ChwQiu «人比AI凶»，万维钢
 
-## 2025-08-24 09:21 America/New_York · 引用帖 · 赞 92
+## 2025-08-24 21:21 北京时间 · 引用帖 · 赞 92
 - 链接：https://x.com/bourneliu66/status/1959606944312000653
 - 是否有全文：是（post.text）
 
@@ -253,7 +250,7 @@ https://t.co/8tpxgfD6zc
 
 引用：https://x.com/i/status/1959593240166068492
 
-## 2025-08-24 09:59 America/New_York · 帖子 · 赞 593
+## 2025-08-24 21:59 北京时间 · 帖子 · 赞 593
 - 链接：https://x.com/bourneliu66/status/1959616518771351608
 - 是否有全文：是（post.text）
 
@@ -268,7 +265,7 @@ Claude Code入门：3条铁律让你告别代码屎山
 全文
 https://t.co/oub6AMnz4s https://t.co/CG2hgkAnkL
 
-## 2025-08-25 01:37 America/New_York · 帖子 · 赞 17
+## 2025-08-25 13:37 北京时间 · 帖子 · 赞 17
 - 链接：https://x.com/bourneliu66/status/1959852684632314274
 - 是否有全文：是（post.text）
 
@@ -284,13 +281,13 @@ https://t.co/oub6AMnz4s https://t.co/CG2hgkAnkL
 
 https://t.co/Uy4ipLcfnH https://t.co/swRoGTsQES
 
-## 2025-08-25 04:44 America/New_York · 帖子 · 赞 45
+## 2025-08-25 16:44 北京时间 · 帖子 · 赞 45
 - 链接：https://x.com/bourneliu66/status/1959899588816724435
 - 是否有全文：是（post.text）
 
 此刻的北京， 东三环 https://t.co/E6gz83KhTl
 
-## 2025-08-25 04:49 America/New_York · 帖子 · 赞 84
+## 2025-08-25 16:49 北京时间 · 帖子 · 赞 84
 - 链接：https://x.com/bourneliu66/status/1959900848277876938
 - 是否有全文：是（post.text）
 
@@ -304,7 +301,7 @@ Claude Code，部分用户可以用1M上下文的claude sonnet模型了。
 
 至于1M上下文，可解锁哪些新使用姿势？请关注我，过几天讲 https://t.co/L6qtsVyEUm
 
-## 2025-08-26 02:04 America/New_York · 帖子 · 赞 65
+## 2025-08-26 14:04 北京时间 · 帖子 · 赞 65
 - 链接：https://x.com/bourneliu66/status/1960221778317648345
 - 是否有全文：是（post.text）
 
@@ -320,7 +317,7 @@ https://t.co/XjK7s2o9Xg
 
 https://t.co/W5qEm13mQb https://t.co/nwwwo6Je7k
 
-## 2025-08-26 03:00 America/New_York · 引用帖 · 赞 5
+## 2025-08-26 15:00 北京时间 · 引用帖 · 赞 5
 - 链接：https://x.com/bourneliu66/status/1960235837087465948
 - 是否有全文：是（post.text）
 
@@ -328,25 +325,25 @@ https://t.co/W5qEm13mQb https://t.co/nwwwo6Je7k
 
 引用：https://x.com/i/status/1957771198630130116
 
-## 2025-08-26 14:00 America/New_York · 帖子 · 赞 13
+## 2025-08-27 02:00 北京时间 · 帖子 · 赞 13
 - 链接：https://x.com/bourneliu66/status/1960402084081360987
 - 是否有全文：是（post.text）
 
 https://t.co/y6IJRHVdUF
 
-## 2025-08-27 11:54 America/New_York · 帖子 · 赞 18
+## 2025-08-27 23:54 北京时间 · 帖子 · 赞 18
 - 链接：https://x.com/bourneliu66/status/1960732760781545599
 - 是否有全文：是（post.text）
 
 那个.. @HongKong_Doll 姐姐到底长啥样， banana (Gemini Flash Image) 帮我们破案了。 https://t.co/4vwcGQp6ss
 
-## 2025-08-29 01:54 America/New_York · 帖子 · 赞 31
+## 2025-08-29 13:54 北京时间 · 帖子 · 赞 31
 - 链接：https://x.com/bourneliu66/status/1961306400069705769
 - 是否有全文：是（post.text）
 
 SCAI实验室的创业者交流的氛围真好 https://t.co/QVWzbHEcnW
 
-## 2025-08-30 06:37 America/New_York · 长帖 · 赞 36
+## 2025-08-30 18:37 北京时间 · 长帖 · 赞 36
 - 链接：https://x.com/bourneliu66/status/1961740040809394670
 - 是否有全文：是（note_tweet）
 
@@ -358,14 +355,14 @@ SCAI实验室的创业者交流的氛围真好 https://t.co/QVWzbHEcnW
 
 查看查看 https://t.co/cse2XFzMq3
 
-## 2025-08-31 22:27 America/New_York · 帖子 · 赞 94
+## 2025-09-01 10:27 北京时间 · 帖子 · 赞 94
 - 链接：https://x.com/bourneliu66/status/1962341397866090932
 - 是否有全文：是（post.text）
 
 录了一期播客
 https://t.co/h0DrtC3uIV https://t.co/WzzCmCivMS
 
-## 2025-09-02 03:04 America/New_York · 帖子 · 赞 280
+## 2025-09-02 15:04 北京时间 · 帖子 · 赞 280
 - 链接：https://x.com/bourneliu66/status/1962773584084115724
 - 是否有全文：是（post.text）
 
@@ -377,20 +374,20 @@ https://t.co/h0DrtC3uIV https://t.co/WzzCmCivMS
 
 详情https://t.co/cyAWYX3ceY https://t.co/nsrVT7XEl4
 
-## 2025-09-02 07:45 America/New_York · 帖子 · 赞 7
+## 2025-09-02 19:45 北京时间 · 帖子 · 赞 7
 - 链接：https://x.com/bourneliu66/status/1962844285243719928
 - 是否有全文：是（post.text）
 
 https://t.co/ofBfj0Vs8Q
 
-## 2025-09-03 01:11 America/New_York · 长帖 · 赞 34
+## 2025-09-03 13:11 北京时间 · 长帖 · 赞 34
 - 链接：https://x.com/bourneliu66/status/1963107605922107405
 - 是否有全文：是（note_tweet）
 
 一秒鉴定你工作单位是不是正经单位———
 今天上午，你们单位组织集体看电视了吗？
 
-## 2025-09-03 02:21 America/New_York · 帖子 · 赞 228
+## 2025-09-03 14:21 北京时间 · 帖子 · 赞 228
 - 链接：https://x.com/bourneliu66/status/1963125131087155345
 - 是否有全文：是（post.text）
 
@@ -398,7 +395,7 @@ https://t.co/ofBfj0Vs8Q
 
 方法详解：https://t.co/u5TB20xBNk https://t.co/B1MdfhLJbd
 
-## 2025-09-05 03:28 America/New_York · 长帖 · 赞 188
+## 2025-09-05 15:28 北京时间 · 长帖 · 赞 188
 - 链接：https://x.com/bourneliu66/status/1963866743962521744
 - 是否有全文：是（note_tweet）
 
@@ -416,11 +413,11 @@ Kimi K2新版体验：这次真的不是"人工智障"了 😂
 
 #KimiK2 #AI评测 #科技圈 #国产AI
 
-## 2025-09-06 00:29 America/New_York · 长线程 · 赞 540
+## 2025-09-06 12:29 北京时间 · 线程 · 赞 540
 - 链接：https://x.com/bourneliu66/status/1964184228746129858
-- 线程帖数：5
+- 是否有全文：是（post.text）
 
-### 1. 2025-09-06 00:29 America/New_York · https://x.com/bourneliu66/status/1964184228746129858
+### 1. 2025-09-06 12:29 北京时间 · https://x.com/bourneliu66/status/1964184228746129858
 
 用Claude for Chrome 来自动回复微信，神一样的体验！以后做微商的、做私域的朋友们有福了。AI浏览器的创业比赛，即将结束。
 
@@ -430,37 +427,43 @@ Kimi K2新版体验：这次真的不是"人工智障"了 😂
 
 更多测评见 https://t.co/7DnuJvgkSX https://t.co/U4S5gGVMyQ
 
-### 2. 2025-09-06 10:27 America/New_York · https://x.com/bourneliu66/status/1964334542421934101
-
-@sooogooo 不需要。任何浏览器都可以。这是浏览器插件。
-
-### 3. 2025-09-06 10:27 America/New_York · https://x.com/bourneliu66/status/1964334673699459220
-
-@abgne_tw 你是怎么感觉出来的？你在别的地方看到过其他人用上吗
-
-### 4. 2025-09-06 12:51 America/New_York · https://x.com/bourneliu66/status/1964370829732655219
-
-@abgne_tw 原来如此！看来这几天放量了
-
-### 5. 2025-09-06 12:59 America/New_York · https://x.com/bourneliu66/status/1964372953979900255
+### 2. 2025-09-07 00:59 北京时间 · https://x.com/bourneliu66/status/1964372953979900255
 
 @abgne_tw 补充：问了一个离anthropic比较近的朋友，的确，正在加速放量
 
+## 2025-09-06 22:27 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/bourneliu66/status/1964334542421934101
+- 是否有全文：是（post.text）
 
-## 2025-09-06 12:58 America/New_York · 长线程 · 赞 27
+@sooogooo 不需要。任何浏览器都可以。这是浏览器插件。
+
+## 2025-09-06 22:27 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/bourneliu66/status/1964334673699459220
+- 是否有全文：是（post.text）
+
+@abgne_tw 你是怎么感觉出来的？你在别的地方看到过其他人用上吗
+
+## 2025-09-07 00:51 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/bourneliu66/status/1964370829732655219
+- 是否有全文：是（post.text）
+
+@abgne_tw 原来如此！看来这几天放量了
+
+## 2025-09-07 00:58 北京时间 · 引用帖 · 赞 27
 - 链接：https://x.com/bourneliu66/status/1964372655848775848
-- 线程帖数：2
-
-### 1. 2025-09-06 12:58 America/New_York · https://x.com/bourneliu66/status/1964372655848775848
+- 是否有全文：是（post.text）
 
 刚一个硅谷的朋友告诉了我一个小道消息：Claude for Chrome 即将放量！很快各位就会收到使用邀请了，优先开给200美金、使用量较大的Claude Max Plan用户。记得去填Waitlist。 https://t.co/9JSykSgduQ
 
-### 2. 2025-09-06 14:12 America/New_York · https://x.com/bourneliu66/status/1964391176901185577
+引用：https://x.com/i/status/1964184228746129858
+
+## 2025-09-07 02:12 北京时间 · 回复 · 赞 3
+- 链接：https://x.com/bourneliu66/status/1964391176901185577
+- 是否有全文：是（post.text）
 
 @xiaob123 我是用英国公司开的账户，不好意思
 
-
-## 2025-09-07 11:32 America/New_York · 引用帖 · 赞 20
+## 2025-09-07 23:32 北京时间 · 引用帖 · 赞 20
 - 链接：https://x.com/bourneliu66/status/1964713427198468117
 - 是否有全文：是（post.text）
 
@@ -468,19 +471,19 @@ Kimi K2新版体验：这次真的不是"人工智障"了 😂
 
 引用：https://x.com/i/status/1964684239020118506
 
-## 2025-09-07 11:39 America/New_York · 回复 · 赞 1
+## 2025-09-07 23:39 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/1964715163267043475
 - 是否有全文：是（post.text）
 
 @ciaotigre 谢谢！
 
-## 2025-09-07 12:02 America/New_York · 帖子 · 赞 21
+## 2025-09-08 00:02 北京时间 · 帖子 · 赞 21
 - 链接：https://x.com/bourneliu66/status/1964721066821189789
 - 是否有全文：是（post.text）
 
 几时归去，作个闲人。对一辆车，一头牛，一溪云。 https://t.co/gBLv7DFCe6
 
-## 2025-09-08 22:19 America/New_York · 引用帖 · 赞 3
+## 2025-09-09 10:19 北京时间 · 引用帖 · 赞 3
 - 链接：https://x.com/bourneliu66/status/1965238701208023111
 - 是否有全文：是（post.text）
 
@@ -488,55 +491,55 @@ Kimi K2新版体验：这次真的不是"人工智障"了 😂
 
 引用：https://x.com/i/status/1965107405857177653
 
-## 2025-09-10 02:42 America/New_York · 长帖 · 赞 0
+## 2025-09-10 14:42 北京时间 · 长帖 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1965667247206138260
 - 是否有全文：是（note_tweet）
 
 Actually, Claude Code works great through the terminal! While no web UI yet, the CLI experience is quite powerful - you get direct file system access, can run commands, and the workflow feels more integrated with your dev environment. Have you tried it with VS Code or other editors?
 
-## 2025-09-10 02:42 America/New_York · 长帖 · 赞 2
+## 2025-09-10 14:42 北京时间 · 回复 · 赞 2
 - 链接：https://x.com/bourneliu66/status/1965667247147401545
 - 是否有全文：是（post.text）
 
 @huangzh65903362 Great question! I often let Claude Code handle: data analysis pipelines, automated testing suites, and documentation generation. The background execution is perfect for web scraping tasks or batch processing jobs. What's your favorite long-running task to delegate?
 
-## 2025-09-10 02:42 America/New_York · 回复 · 赞 2
+## 2025-09-10 14:42 北京时间 · 回复 · 赞 2
 - 链接：https://x.com/bourneliu66/status/1965667251371061460
 - 是否有全文：是（post.text）
 
 @vista8 @MrHagosDE The MCP ecosystem is really expanding Claude Code's capabilities! Context 7 for documentation and Exa for web search are game-changers. The agent specialization is brilliant - having dedicated prompts for different tech stacks saves so much setup time.
 
-## 2025-09-10 02:42 America/New_York · 回复 · 赞 1
+## 2025-09-10 14:42 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/1965667250112721398
 - 是否有全文：是（post.text）
 
 @prahaladatreyaa Absolutely agree! Claude Code's ability to understand context and maintain state across complex operations is a game-changer. The file system integration and multi-step task execution make it incredibly powerful for real development work.
 
-## 2025-09-10 02:42 America/New_York · 回复 · 赞 1
+## 2025-09-10 14:42 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/1965667248816758844
 - 是否有全文：是（post.text）
 
 @HeglerPavel @SpaniardPM Claude Code + TanStack Start is a solid combo! The type safety from TanStack paired with Claude's code generation abilities really speeds up development. Have you noticed improvements in your API route generation with this setup?
 
-## 2025-09-10 02:42 America/New_York · 回复 · 赞 1
+## 2025-09-10 14:42 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/1965667248812495137
 - 是否有全文：是（post.text）
 
 @bachi7q Response time can vary based on model complexity and context size. Try using smaller, focused prompts for faster responses. Also, Claude Code's caching mechanism helps with repeated operations. Have you compared the accuracy trade-off between the two?
 
-## 2025-09-10 02:42 America/New_York · 帖子 · 赞 0
+## 2025-09-10 14:42 北京时间 · 帖子 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1965667252675428683
 - 是否有全文：是（post.text）
 
 @huang39184 Long-running tasks are perfect for: dependency updates with testing, database migrations, comprehensive code refactoring, and generating test suites. The key is setting up proper checkpoints so you can monitor progress. What's your go-to automation?
 
-## 2025-09-10 02:42 America/New_York · 长帖 · 赞 0
+## 2025-09-10 14:42 北京时间 · 帖子 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1965667252641865741
 - 是否有全文：是（post.text）
 
 @jkudish @adamwathan @CasJam Agent OS + Claude Code is a powerful combination! The structured approach from Agent OS really complements Claude's capabilities. Have you tried using custom agents for specific frameworks? The productivity boost is incredible when properly configured.
 
-## 2025-09-10 03:57 America/New_York · 引用帖 · 赞 194
+## 2025-09-10 15:57 北京时间 · 引用帖 · 赞 194
 - 链接：https://x.com/bourneliu66/status/1965686038040650021
 - 是否有全文：是（post.text）
 
@@ -550,13 +553,13 @@ Actually, Claude Code works great through the terminal! While no web UI yet, the
 
 引用：https://x.com/i/status/1963866743962521744
 
-## 2025-09-10 05:11 America/New_York · 帖子 · 赞 0
+## 2025-09-10 17:11 北京时间 · 帖子 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1965704694439047264
 - 是否有全文：是（post.text）
 
 @underwoodxie96 纯ai写。看图
 
-## 2025-09-10 05:39 America/New_York · 引用帖 · 赞 17
+## 2025-09-10 17:39 北京时间 · 引用帖 · 赞 17
 - 链接：https://x.com/bourneliu66/status/1965711690529735093
 - 是否有全文：是（post.text）
 
@@ -564,7 +567,7 @@ Actually, Claude Code works great through the terminal! While no web UI yet, the
 
 引用：https://x.com/i/status/1965573564024918148
 
-## 2025-09-10 06:23 America/New_York · 帖子 · 赞 25
+## 2025-09-10 18:23 北京时间 · 帖子 · 赞 25
 - 链接：https://x.com/bourneliu66/status/1965722813987541434
 - 是否有全文：是（post.text）
 
@@ -572,7 +575,7 @@ Actually, Claude Code works great through the terminal! While no web UI yet, the
 
 说的应该不是我吧?
 
-## 2025-09-10 10:28 America/New_York · 引用帖 · 赞 3
+## 2025-09-10 22:28 北京时间 · 引用帖 · 赞 3
 - 链接：https://x.com/bourneliu66/status/1965784572282728817
 - 是否有全文：是（post.text）
 
@@ -580,37 +583,37 @@ Actually, Claude Code works great through the terminal! While no web UI yet, the
 
 引用：https://x.com/i/status/1965748253908955339
 
-## 2025-09-10 13:34 America/New_York · 帖子 · 赞 278
+## 2025-09-11 01:34 北京时间 · 帖子 · 赞 278
 - 链接：https://x.com/bourneliu66/status/1965831367046082923
 - 是否有全文：是（post.text）
 
 我的声音克隆产品AnyVoice换新皮肤、新交互了，模型也升级了。只需要10秒的录音就能克隆出以假乱真的声音！你们觉得新的皮肤好看吗？https://t.co/2XsrFn4s6x https://t.co/qnOL7TSyyR
 
-## 2025-09-10 14:26 America/New_York · 回复 · 赞 0
+## 2025-09-11 02:26 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1965844312652132415
 - 是否有全文：是（post.text）
 
 @becool_me 谢谢！
 
-## 2025-09-10 21:39 America/New_York · 回复 · 赞 0
+## 2025-09-11 09:39 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1965953273468428490
 - 是否有全文：是（post.text）
 
 @renfeng416 谢谢
 
-## 2025-09-11 00:44 America/New_York · 回复 · 赞 0
+## 2025-09-11 12:44 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1965999869161779371
 - 是否有全文：是（post.text）
 
 @Jason_qeb 谢谢
 
-## 2025-09-11 11:28 America/New_York · 帖子 · 赞 14
+## 2025-09-11 23:28 北京时间 · 帖子 · 赞 14
 - 链接：https://x.com/bourneliu66/status/1966161823998292088
 - 是否有全文：是（post.text）
 
 从iPhone身上看到了二十年前的我、十年前的我、现在的我、十年后的我，而二十年后的我。 https://t.co/kB1il76d6w
 
-## 2025-09-12 05:23 America/New_York · 帖子 · 赞 19
+## 2025-09-12 17:23 北京时间 · 帖子 · 赞 19
 - 链接：https://x.com/bourneliu66/status/1966432514802946122
 - 是否有全文：是（post.text）
 
@@ -618,7 +621,7 @@ SCAI孵化的第一个小爆品来了！好开心！抖音搜索“AI写论文�
 ​https://t.co/KDUl4OIdTX
 欢迎大家试用和提出反馈意见 https://t.co/UxlmM4qfrd
 
-## 2025-09-13 00:04 America/New_York · 帖子 · 赞 50
+## 2025-09-13 12:04 北京时间 · 帖子 · 赞 50
 - 链接：https://x.com/bourneliu66/status/1966714495293923702
 - 是否有全文：是（post.text）
 
@@ -630,13 +633,13 @@ AI编程的终极心法，来自孟子。
 
 你与AI协作遇到问题时，是先抱怨AI，还是先找自己的原因呢？
 
-## 2025-09-13 03:17 America/New_York · 帖子 · 赞 120
+## 2025-09-13 15:17 北京时间 · 帖子 · 赞 120
 - 链接：https://x.com/bourneliu66/status/1966763261753213405
 - 是否有全文：是（post.text）
 
 我们终此一生，就是要摆脱他人的期待，找到真正的自己
 
-## 2025-09-13 04:02 America/New_York · 帖子 · 赞 22
+## 2025-09-13 16:02 北京时间 · 帖子 · 赞 22
 - 链接：https://x.com/bourneliu66/status/1966774561179054308
 - 是否有全文：是（post.text）
 
@@ -644,7 +647,7 @@ AI编程的终极心法，来自孟子。
 
 还有两小时就路演评选了！晚上见！ 想来的朋友抓紧报名https://t.co/qCx7pABjwX https://t.co/SqbSLFfbDE
 
-## 2025-09-13 05:21 America/New_York · 引用帖 · 赞 27
+## 2025-09-13 17:21 北京时间 · 引用帖 · 赞 27
 - 链接：https://x.com/bourneliu66/status/1966794255520702646
 - 是否有全文：是（post.text）
 
@@ -653,7 +656,7 @@ AI编程的终极心法，来自孟子。
 
 引用：https://x.com/i/status/1966790762412011723
 
-## 2025-09-13 12:09 America/New_York · 引用帖 · 赞 11
+## 2025-09-14 00:09 北京时间 · 引用帖 · 赞 11
 - 链接：https://x.com/bourneliu66/status/1966897008784097511
 - 是否有全文：是（post.text）
 
@@ -661,7 +664,7 @@ AI编程的终极心法，来自孟子。
 
 引用：https://x.com/i/status/1966890150354710754
 
-## 2025-09-16 04:06 America/New_York · 帖子 · 赞 378
+## 2025-09-16 16:06 北京时间 · 帖子 · 赞 378
 - 链接：https://x.com/bourneliu66/status/1967862765705646205
 - 是否有全文：是（post.text）
 
@@ -671,7 +674,7 @@ Codex的云端虚拟机太好用了，可安装环境、运行代码然后截图
 
 详细版：https://t.co/PU91UvF4bw https://t.co/qdctnKUcdo
 
-## 2025-09-17 02:20 America/New_York · 引用帖 · 赞 8
+## 2025-09-17 14:20 北京时间 · 引用帖 · 赞 8
 - 链接：https://x.com/bourneliu66/status/1968198456037822778
 - 是否有全文：是（post.text）
 
@@ -680,7 +683,7 @@ Codex的云端虚拟机太好用了，可安装环境、运行代码然后截图
 
 引用：https://x.com/i/status/1964372655848775848
 
-## 2025-09-17 07:32 America/New_York · 引用帖 · 赞 30
+## 2025-09-17 19:32 北京时间 · 引用帖 · 赞 30
 - 链接：https://x.com/bourneliu66/status/1968276949186531532
 - 是否有全文：是（post.text）
 
@@ -694,7 +697,7 @@ K2 Turbo 今天大更新 + 新羊毛。
 
 引用：https://x.com/i/status/1963866743962521744
 
-## 2025-09-17 14:06 America/New_York · 帖子 · 赞 88
+## 2025-09-18 02:06 北京时间 · 帖子 · 赞 88
 - 链接：https://x.com/bourneliu66/status/1968376049118720441
 - 是否有全文：是（post.text）
 
@@ -706,7 +709,7 @@ K2 Turbo 今天大更新 + 新羊毛。
 
 详情https://t.co/loGv33VgTC https://t.co/9hVqmFNePB
 
-## 2025-09-18 11:27 America/New_York · 帖子 · 赞 30
+## 2025-09-18 23:27 北京时间 · 帖子 · 赞 30
 - 链接：https://x.com/bourneliu66/status/1968698476906041390
 - 是否有全文：是（post.text）
 
@@ -716,7 +719,7 @@ K2 Turbo 今天大更新 + 新羊毛。
 
 你中招了吗？ https://t.co/zdMGIQtPdn
 
-## 2025-09-19 12:47 America/New_York · 引用帖 · 赞 6
+## 2025-09-20 00:47 北京时间 · 引用帖 · 赞 6
 - 链接：https://x.com/bourneliu66/status/1969080865826263110
 - 是否有全文：是（post.text）
 
@@ -724,25 +727,25 @@ K2 Turbo 今天大更新 + 新羊毛。
 
 引用：https://x.com/i/status/1968685376421429712
 
-## 2025-09-19 12:48 America/New_York · 帖子 · 赞 9
+## 2025-09-20 00:48 北京时间 · 帖子 · 赞 9
 - 链接：https://x.com/bourneliu66/status/1969081260900274660
 - 是否有全文：是（post.text）
 
 大半夜还在改屁屁踢 https://t.co/jwElKufkpu
 
-## 2025-09-23 03:48 America/New_York · 帖子 · 赞 85
+## 2025-09-23 15:48 北京时间 · 帖子 · 赞 85
 - 链接：https://x.com/bourneliu66/status/1970394840518328759
 - 是否有全文：是（post.text）
 
 为了避免员工失业，我也给自己找了个新副业 https://t.co/eiQV5wjK0I
 
-## 2025-09-23 10:27 America/New_York · 帖子 · 赞 26
+## 2025-09-23 22:27 北京时间 · 帖子 · 赞 26
 - 链接：https://x.com/bourneliu66/status/1970495164516049293
 - 是否有全文：是（post.text）
 
 “目前我国不缺牛马” https://t.co/yQ8Tk4rHV9
 
-## 2025-09-24 21:43 America/New_York · 帖子 · 赞 190
+## 2025-09-25 09:43 北京时间 · 帖子 · 赞 190
 - 链接：https://x.com/bourneliu66/status/1971027814204993674
 - 是否有全文：是（post.text）
 
@@ -750,13 +753,13 @@ $200美金/月（1500元/月）的Claude Code和Codex，比你聪明，比你勤
 →
 如果你还把聪明或勤奋当成自己最宝贵的品质，你这辈子会过得很惨。
 
-## 2025-09-24 22:42 America/New_York · 回复 · 赞 3
+## 2025-09-25 10:42 北京时间 · 回复 · 赞 3
 - 链接：https://x.com/bourneliu66/status/1971042633909936225
 - 是否有全文：是（post.text）
 
 @guangpengwgp 是运气
 
-## 2025-09-25 02:15 America/New_York · 引用帖 · 赞 4
+## 2025-09-25 14:15 北京时间 · 引用帖 · 赞 4
 - 链接：https://x.com/bourneliu66/status/1971096083989430279
 - 是否有全文：是（post.text）
 
@@ -766,14 +769,14 @@ $200美金/月（1500元/月）的Claude Code和Codex，比你聪明，比你勤
 
 引用：https://x.com/i/status/1963866743962521744
 
-## 2025-09-25 02:16 America/New_York · 回复 · 赞 0
+## 2025-09-25 14:16 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1971096482800611773
 - 是否有全文：是（post.text）
 
 @YuTengjing 是的，瞧不起。
 据我所知，你引以为豪的产品 https://t.co/GPQZ7ifHo2 的用户量约等于零。 我为什么要瞧得起？  咦？你为什么要瞧得起？
 
-## 2025-09-25 03:52 America/New_York · 帖子 · 赞 12
+## 2025-09-25 15:52 北京时间 · 帖子 · 赞 12
 - 链接：https://x.com/bourneliu66/status/1971120503642521988
 - 是否有全文：是（post.text）
 
@@ -781,25 +784,25 @@ $200美金/月（1500元/月）的Claude Code和Codex，比你聪明，比你勤
 
 Claude委婉的表达了“山猪吃不惯细糠”的意思。🙂🙂🙂 https://t.co/xvRcBKW13O
 
-## 2025-09-25 20:31 America/New_York · 回复 · 赞 0
+## 2025-09-26 08:31 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/1971371923520225332
 - 是否有全文：是（post.text）
 
 @hechuan_agi 我试试。谢谢
 
-## 2025-09-30 07:34 America/New_York · 帖子 · 赞 7
+## 2025-09-30 19:34 北京时间 · 帖子 · 赞 7
 - 链接：https://x.com/bourneliu66/status/1972988517782552756
 - 是否有全文：是（post.text）
 
 东北的闪电⚡️真吓人😱 https://t.co/Z5EuBJ6TNI
 
-## 2025-09-30 10:19 America/New_York · 帖子 · 赞 24
+## 2025-09-30 22:19 北京时间 · 帖子 · 赞 24
 - 链接：https://x.com/bourneliu66/status/1973030018218643933
 - 是否有全文：是（post.text）
 
 Life is 10% what happens to you and 90% how you react.
 
-## 2025-10-07 01:20 America/New_York · 引用帖 · 赞 6
+## 2025-10-07 13:20 北京时间 · 引用帖 · 赞 6
 - 链接：https://x.com/bourneliu66/status/1975430988743508340
 - 是否有全文：是（post.text）
 
@@ -807,7 +810,7 @@ Life is 10% what happens to you and 90% how you react.
 
 引用：https://x.com/i/status/1975393055902736497
 
-## 2025-10-07 01:27 America/New_York · 帖子 · 赞 36
+## 2025-10-07 13:27 北京时间 · 帖子 · 赞 36
 - 链接：https://x.com/bourneliu66/status/1975432703005827120
 - 是否有全文：是（post.text）
 
@@ -821,25 +824,25 @@ Claude Code有官方版VS Code插件了，极简而强大。
 
 详情 https://t.co/dWuAAGm2FG https://t.co/xQdW0v8GXa
 
-## 2025-10-07 01:47 America/New_York · 帖子 · 赞 91
+## 2025-10-07 13:47 北京时间 · 帖子 · 赞 91
 - 链接：https://x.com/bourneliu66/status/1975437820417409217
 - 是否有全文：是（post.text）
 
 你们发现没，Claude Sonnet 4.5比Claude Opus 4.1强太多了，强到惊悚
 
-## 2025-10-08 04:36 America/New_York · 帖子 · 赞 17
+## 2025-10-08 16:36 北京时间 · 帖子 · 赞 17
 - 链接：https://x.com/bourneliu66/status/1975842728861999124
 - 是否有全文：是（post.text）
 
 无论你认为你能，还是你认为你不能，你都是对的。
 
-## 2025-10-08 09:47 America/New_York · 帖子 · 赞 6
+## 2025-10-08 21:47 北京时间 · 帖子 · 赞 6
 - 链接：https://x.com/bourneliu66/status/1975921112111628707
 - 是否有全文：是（post.text）
 
 “Qwen， 如果这是Gay, 哪个是0？” https://t.co/UeyvSZQ5PL
 
-## 2025-10-10 08:06 America/New_York · 引用帖 · 赞 295
+## 2025-10-10 20:06 北京时间 · 引用帖 · 赞 295
 - 链接：https://x.com/bourneliu66/status/1976620336381915575
 - 是否有全文：是（post.text）
 
@@ -852,7 +855,7 @@ Claude Code for VS Code 魔改版！强烈推荐大家使用！
 
 引用：https://x.com/i/status/1976618666000331119
 
-## 2025-10-20 07:52 America/New_York · 帖子 · 赞 1107
+## 2025-10-20 19:52 北京时间 · 帖子 · 赞 1107
 - 链接：https://x.com/bourneliu66/status/1980240707383390484
 - 是否有全文：是（post.text）
 
@@ -860,19 +863,19 @@ Claude Code for VS Code 魔改版！强烈推荐大家使用！
 
 比赛还在进行中，实时看板：https://t.co/Qd8N0WQQ9R https://t.co/znNr9y8fWX
 
-## 2025-10-23 04:13 America/New_York · 帖子 · 赞 551
+## 2025-10-23 16:13 北京时间 · 帖子 · 赞 551
 - 链接：https://x.com/bourneliu66/status/1981272783419297814
 - 是否有全文：是（post.text）
 
 https://t.co/LujUCsWvD4
 
-## 2025-11-02 03:45 America/New_York · 帖子 · 赞 167
+## 2025-11-02 16:45 北京时间 · 帖子 · 赞 167
 - 链接：https://x.com/bourneliu66/status/1984904675477606522
 - 是否有全文：是（post.text）
 
 我和Claude Code讨论新的技术方案，Claude Code 表示拒绝，并给了我一些人生建议…… https://t.co/72HMfRbdp2
 
-## 2025-11-02 11:00 America/New_York · 帖子 · 赞 12
+## 2025-11-03 00:00 北京时间 · 帖子 · 赞 12
 - 链接：https://x.com/bourneliu66/status/1985014133042098194
 - 是否有全文：是（post.text）
 
@@ -880,13 +883,13 @@ Claude Code的官方版Claude Code for VS Code插件，现已经支持bypass per
 
 更好用了！离彻底脱离Terminal不远了。 https://t.co/2CR0PYjgEk
 
-## 2025-11-04 01:16 America/New_York · 帖子 · 赞 182
+## 2025-11-04 14:16 北京时间 · 帖子 · 赞 182
 - 链接：https://x.com/bourneliu66/status/1985592088973754655
 - 是否有全文：是（post.text）
 
 Claude Code是在哪个互联网大厂工作过吗？越来越像某些大厂程序员了，厉害。 https://t.co/zpPJp87ZMy
 
-## 2025-11-06 00:39 America/New_York · 引用帖 · 赞 26
+## 2025-11-06 13:39 北京时间 · 引用帖 · 赞 26
 - 链接：https://x.com/bourneliu66/status/1986307440154190194
 - 是否有全文：是（post.text）
 
@@ -894,7 +897,7 @@ Claude Code是在哪个互联网大厂工作过吗？越来越像某些大厂程
 
 引用：https://x.com/i/status/1986300133097762969
 
-## 2025-11-07 09:32 America/New_York · 引用帖 · 赞 519
+## 2025-11-07 22:32 北京时间 · 引用帖 · 赞 519
 - 链接：https://x.com/bourneliu66/status/1986803841824919906
 - 是否有全文：是（post.text）
 
@@ -908,20 +911,20 @@ Huggingface 创始人Thomas Wolf说：我们再一次见证DeepSeek时刻！http
 
 引用：https://x.com/i/status/1986541785511043536
 
-## 2025-11-10 22:11 America/New_York · 帖子 · 赞 3
+## 2025-11-11 11:11 北京时间 · 帖子 · 赞 3
 - 链接：https://x.com/bourneliu66/status/1988082031922999585
 - 是否有全文：是（post.text）
 
 电话里主教练说：“林书豪，你的下一场比赛，要再拿9次失误！” https://t.co/Dnj6XHWPCB
 
-## 2025-11-10 22:14 America/New_York · 帖子 · 赞 459
+## 2025-11-11 11:14 北京时间 · 帖子 · 赞 459
 - 链接：https://x.com/bourneliu66/status/1988082927457251708
 - 是否有全文：是（post.text）
 
 Nano Banana 2太恐怖了！
 （小互给我的图） https://t.co/e0IGojsBU2
 
-## 2025-11-11 12:47 America/New_York · 帖子 · 赞 9
+## 2025-11-12 01:47 北京时间 · 帖子 · 赞 9
 - 链接：https://x.com/bourneliu66/status/1988302623100071998
 - 是否有全文：是（post.text）
 
@@ -931,19 +934,19 @@ Nano Banana 2太恐怖了！
 
 一些最近创业的反思：https://t.co/Bf4D7309OS https://t.co/iPa0zRoWYM
 
-## 2025-11-13 23:52 America/New_York · 帖子 · 赞 45
+## 2025-11-14 12:52 北京时间 · 帖子 · 赞 45
 - 链接：https://x.com/bourneliu66/status/1989194617057849515
 - 是否有全文：是（post.text）
 
 大陆的朋友们，请不要再用大陆护照去注册香港Stripe了 https://t.co/pbPdtMew8V
 
-## 2025-11-15 04:58 America/New_York · 帖子 · 赞 12
+## 2025-11-15 17:58 北京时间 · 帖子 · 赞 12
 - 链接：https://x.com/bourneliu66/status/1989634031940767945
 - 是否有全文：是（post.text）
 
 人间多美好啊～ https://t.co/yCaNGcjEQD
 
-## 2025-11-15 23:17 America/New_York · 长帖 · 赞 161
+## 2025-11-16 12:17 北京时间 · 长帖 · 赞 161
 - 链接：https://x.com/bourneliu66/status/1989910558116843719
 - 是否有全文：是（note_tweet）
 
@@ -957,21 +960,21 @@ Codex新发布的GPT-5.1-Codex模型，带来了三大提升
 
 详情见 https://t.co/DdXHteOZo3
 
-## 2025-11-18 07:10 America/New_York · 帖子 · 赞 22
+## 2025-11-18 20:10 北京时间 · 帖子 · 赞 22
 - 链接：https://x.com/bourneliu66/status/1990754477717196902
 - 是否有全文：是（post.text）
 
 全球性大事故：Cloudflare挂了！ 我们会发现，一大批网站突然都访问不了了。
 不要惊慌，就当成放假，好好休息吧。 https://t.co/eOAwiYrivB
 
-## 2025-11-18 10:21 America/New_York · 帖子 · 赞 17
+## 2025-11-18 23:21 北京时间 · 帖子 · 赞 17
 - 链接：https://x.com/bourneliu66/status/1990802556965314938
 - 是否有全文：是（post.text）
 
 Google AI Studio已经可以使用Gemini 3 Pro!
 https://t.co/2uNGXYMH93 赶快玩玩去！ https://t.co/xu3KnYIMPU
 
-## 2025-11-18 12:05 America/New_York · 长帖 · 赞 320
+## 2025-11-19 01:05 北京时间 · 长帖 · 赞 320
 - 链接：https://x.com/bourneliu66/status/1990828750402179417
 - 是否有全文：是（note_tweet）
 
@@ -986,20 +989,20 @@ Gemini 3 Pro 实在是太强了！
 我的预期已经很高了，它仍然超过了我的预期！
 https://t.co/ItZi3N1eN5
 
-## 2025-11-19 05:09 America/New_York · 帖子 · 赞 416
+## 2025-11-19 18:09 北京时间 · 帖子 · 赞 416
 - 链接：https://x.com/bourneliu66/status/1991086324858642681
 - 是否有全文：是（post.text）
 
 Gemini 3实在是太聪明了 https://t.co/X1aHataDWf
 
-## 2025-11-19 11:01 America/New_York · 帖子 · 赞 20
+## 2025-11-20 00:01 北京时间 · 帖子 · 赞 20
 - 链接：https://x.com/bourneliu66/status/1991174923986030866
 - 是否有全文：是（post.text）
 
 Antigravity用着真爽，可惜就是限额太严重了。每5小时的窗口只能用1～2小时。好希望它早点出$200/月的套餐啊。
 https://t.co/oDxctuZK1n https://t.co/mKgJqaEtnY
 
-## 2025-11-20 00:11 America/New_York · 帖子 · 赞 120
+## 2025-11-20 13:11 北京时间 · 帖子 · 赞 120
 - 链接：https://x.com/bourneliu66/status/1991373737971839047
 - 是否有全文：是（post.text）
 
@@ -1012,13 +1015,13 @@ Plan → GPT-5.1 Pro
 Nothing else.
 Focus mode ON.
 
-## 2025-11-20 01:14 America/New_York · 帖子 · 赞 2
+## 2025-11-20 14:14 北京时间 · 帖子 · 赞 2
 - 链接：https://x.com/bourneliu66/status/1991389552523768010
 - 是否有全文：是（post.text）
 
 你的ChatGPT ，最长思考过几分钟？ https://t.co/yKMWHNn3xl
 
-## 2025-11-20 11:55 America/New_York · 长帖 · 赞 13
+## 2025-11-21 00:55 北京时间 · 长帖 · 赞 13
 - 链接：https://x.com/bourneliu66/status/1991550965670183005
 - 是否有全文：是（note_tweet）
 
@@ -1028,7 +1031,7 @@ Create jaw‑dropping visuals in seconds with the official API, no Photoshop. Bu
 
 引用：https://x.com/i/status/1991550252386845156
 
-## 2025-11-21 00:56 America/New_York · 帖子 · 赞 395
+## 2025-11-21 13:56 北京时间 · 帖子 · 赞 395
 - 链接：https://x.com/bourneliu66/status/1991747444112298492
 - 是否有全文：是（post.text）
 
@@ -1038,7 +1041,7 @@ Claude Opus 4.5 来了！
 感谢GPT-5.1-Codex-Max，逼出来了 Claude Opus 4.5
 感谢这个伟大的时代，创造产品越来越容易 https://t.co/4iX8dpWsTQ
 
-## 2025-11-21 03:46 America/New_York · 帖子 · 赞 23
+## 2025-11-21 16:46 北京时间 · 帖子 · 赞 23
 - 链接：https://x.com/bourneliu66/status/1991790317918658705
 - 是否有全文：是（post.text）
 
@@ -1046,7 +1049,7 @@ Nano Banana 2强得不像话啊。
 
 想要便宜且稳定的API可以看这里https://t.co/bSfaCNIDnu https://t.co/cEeueMPsL6
 
-## 2025-11-22 01:03 America/New_York · 引用帖 · 赞 14
+## 2025-11-22 14:03 北京时间 · 引用帖 · 赞 14
 - 链接：https://x.com/bourneliu66/status/1992111675047375055
 - 是否有全文：是（post.text）
 
@@ -1054,7 +1057,7 @@ Nano Banana 2强得不像话啊。
 
 引用：https://x.com/i/status/1991747444112298492
 
-## 2025-11-22 12:19 America/New_York · 长帖 · 赞 153
+## 2025-11-23 01:19 北京时间 · 长帖 · 赞 153
 - 链接：https://x.com/bourneliu66/status/1992281675422904755
 - 是否有全文：是（note_tweet）
 
@@ -1067,13 +1070,13 @@ Nano Banana 2强得不像话啊。
 真正做到：写代码的地方，就是做设计的地方。
 #Antigravity
 
-## 2025-11-24 03:28 America/New_York · 帖子 · 赞 25
+## 2025-11-24 16:28 北京时间 · 帖子 · 赞 25
 - 链接：https://x.com/bourneliu66/status/1992873049931371004
 - 是否有全文：是（post.text）
 
 刚做了个新产品Morisot https://t.co/Agi3LyKXfR ，一瞬间又被人开始抢注各种相关域名 😂 这... https://t.co/aKMNFOiqXu
 
-## 2025-11-24 11:05 America/New_York · 长帖 · 赞 10
+## 2025-11-25 00:05 北京时间 · 帖子 · 赞 10
 - 链接：https://x.com/bourneliu66/status/1992988026025410719
 - 是否有全文：是（post.text）
 
@@ -1085,7 +1088,7 @@ If you kinda know what you want but can’t put it into words, Morisot lets you:
 
 Try it: https://t.co/Agi3LyKXfR https://t.co/NYUyzuqvJP
 
-## 2025-11-25 12:37 America/New_York · 引用帖 · 赞 123
+## 2025-11-26 01:37 北京时间 · 引用帖 · 赞 123
 - 链接：https://x.com/bourneliu66/status/1993373409829699925
 - 是否有全文：是（post.text）
 
@@ -1094,14 +1097,14 @@ Try it: https://t.co/Agi3LyKXfR https://t.co/NYUyzuqvJP
 
 引用：https://x.com/i/status/1993372926973030462
 
-## 2025-11-27 01:08 America/New_York · 帖子 · 赞 21
+## 2025-11-27 14:08 北京时间 · 帖子 · 赞 21
 - 链接：https://x.com/bourneliu66/status/1993924978442686813
 - 是否有全文：是（post.text）
 
 有一个傻子，连首页文案都抄我的，一点创意都没有，最近宣布倒闭了，活不下去了。(图1）
 请认准正版Raphael ，永久免费、不限数量的AI生图 https://t.co/TIhlmaDBNd （图2） https://t.co/lyds0LdLmG
 
-## 2025-11-27 23:20 America/New_York · 帖子 · 赞 30
+## 2025-11-28 12:20 北京时间 · 帖子 · 赞 30
 - 链接：https://x.com/bourneliu66/status/1994260196747530726
 - 是否有全文：是（post.text）
 
@@ -1111,33 +1114,33 @@ Try it: https://t.co/Agi3LyKXfR https://t.co/NYUyzuqvJP
 中： Claude Code - Opus 4.5
 右： Gemini 3 Pro (High) https://t.co/DWmDPAoEDV
 
-## 2025-11-28 10:29 America/New_York · 帖子 · 赞 33
+## 2025-11-28 23:29 北京时间 · 帖子 · 赞 33
 - 链接：https://x.com/bourneliu66/status/1994428397150409090
 - 是否有全文：是（post.text）
 
 啊哈？我在韩国这么火吗？ 哈哈哈哈哈！！ https://t.co/mCVPM0j5JM
 
-## 2025-11-28 11:57 America/New_York · 帖子 · 赞 307
+## 2025-11-29 00:57 北京时间 · 帖子 · 赞 307
 - 链接：https://x.com/bourneliu66/status/1994450569952465058
 - 是否有全文：是（post.text）
 
 韩国《中央日报》：不会英语的中国开发者，用AI在发达国家赚了15亿 😂 https://t.co/ZXpvY1kUo6
 
-## 2025-12-01 04:46 America/New_York · 帖子 · 赞 222
+## 2025-12-01 17:46 北京时间 · 帖子 · 赞 222
 - 链接：https://x.com/bourneliu66/status/1995429181606527013
 - 是否有全文：是（post.text）
 
 使用Google Antigravity卡在登录？ 不要去研究玄学了，只需搞定一件事就行： 
 如图所示 https://t.co/ArFtmeRzdr https://t.co/Jz9BbK2zDi
 
-## 2025-12-03 03:13 America/New_York · 长帖 · 赞 17
+## 2025-12-03 16:13 北京时间 · 长帖 · 赞 17
 - 链接：https://x.com/bourneliu66/status/1996130587665719558
 - 是否有全文：是（note_tweet）
 
 Raphael AI https://t.co/tJOiC33sAI 首页做了个小功能：鼠标自动瞄准，还挺好玩的，大家可以试试看。
 另外，我也更新了AI生图模型，现在画的图更强了。默认的4张图是使用了3个不同的模型生成，你猜猜是哪些？
 
-## 2025-12-03 03:46 America/New_York · 帖子 · 赞 614
+## 2025-12-03 16:46 北京时间 · 帖子 · 赞 614
 - 链接：https://x.com/bourneliu66/status/1996138971567698387
 - 是否有全文：是（post.text）
 
@@ -1145,11 +1148,9 @@ Raphael AI https://t.co/tJOiC33sAI 首页做了个小功能：鼠标自动瞄准
 
 刚才我在namecheap续费域名，让ChatGPT-5.1-Pro操作了一番，很快就找到一个20%折扣的优惠码。详见图1和图2 https://t.co/3zwWv9NMU0
 
-## 2025-12-03 05:24 America/New_York · 长线程 · 赞 93
+## 2025-12-03 18:24 北京时间 · 长帖 · 赞 93
 - 链接：https://x.com/bourneliu66/status/1996163617155371253
-- 线程帖数：2
-
-### 1. 2025-12-03 05:24 America/New_York · https://x.com/bourneliu66/status/1996163617155371253
+- 是否有全文：是（note_tweet）
 
 最近很多创业者、自由职业者朋友问我「如何选赛道」「有没有好项目推荐」「什么样的项目是好项目」， 我写了一篇文章。
 
@@ -1157,18 +1158,19 @@ Raphael AI https://t.co/tJOiC33sAI 首页做了个小功能：鼠标自动瞄准
 
 为何？ 看这里 https://t.co/ho0YfbBJwD
 
-### 2. 2025-12-03 07:48 America/New_York · https://x.com/bourneliu66/status/1996199893518684389
-
-@fengzi2016China 文章里说了
-
-
-## 2025-12-03 05:39 America/New_York · 帖子 · 赞 238
+## 2025-12-03 18:39 北京时间 · 帖子 · 赞 238
 - 链接：https://x.com/bourneliu66/status/1996167342741717451
 - 是否有全文：是（post.text）
 
 OpenAI奥特曼宣布正式向Claude Skills发起投降 https://t.co/MK5502kNd6
 
-## 2025-12-03 09:59 America/New_York · 引用帖 · 赞 43
+## 2025-12-03 20:48 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/bourneliu66/status/1996199893518684389
+- 是否有全文：是（post.text）
+
+@fengzi2016China 文章里说了
+
+## 2025-12-03 22:59 北京时间 · 引用帖 · 赞 43
 - 链接：https://x.com/bourneliu66/status/1996232778527219743
 - 是否有全文：是（post.text）
 
@@ -1176,45 +1178,45 @@ Kling O1 生成视频真的好厉害，新王诞生！ API已经上架到董佳�
 
 引用：https://x.com/i/status/1996230324070826380
 
-## 2025-12-04 01:41 America/New_York · 长线程 · 赞 38
+## 2025-12-04 14:41 北京时间 · 线程 · 赞 38
 - 链接：https://x.com/bourneliu66/status/1996469832141992429
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2025-12-04 01:41 America/New_York · https://x.com/bourneliu66/status/1996469832141992429
+### 1. 2025-12-04 14:41 北京时间 · https://x.com/bourneliu66/status/1996469832141992429
 
 MidJourney: 1 image in 60 seconds. 
 Morisot: A full board in 10 seconds. 
 No prompts. Just type "modern bedroom" and pick what you like. https://t.co/vW3sIsfsDv
 
-### 2. 2025-12-04 01:44 America/New_York · https://x.com/bourneliu66/status/1996470549384720398
+### 2. 2025-12-04 14:44 北京时间 · https://x.com/bourneliu66/status/1996470549384720398
 
 Try it free https://t.co/rmeucT5hxc
 
-
-## 2025-12-04 03:00 America/New_York · 长线程 · 赞 19
+## 2025-12-04 16:00 北京时间 · 帖子 · 赞 19
 - 链接：https://x.com/bourneliu66/status/1996489795061924343
-- 线程帖数：3
-
-### 1. 2025-12-04 03:00 America/New_York · https://x.com/bourneliu66/status/1996489795061924343
+- 是否有全文：是（post.text）
 
 Claude Code的额度设置得挺好，总是在5小时即将刷新的时候，我正好用到了99% https://t.co/lDIiW1Wn2C
 
-### 2. 2025-12-04 03:44 America/New_York · https://x.com/bourneliu66/status/1996500798776488111
+## 2025-12-04 16:44 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/bourneliu66/status/1996500798776488111
+- 是否有全文：是（post.text）
 
 @DIYism $200
 
-### 3. 2025-12-05 01:10 America/New_York · https://x.com/bourneliu66/status/1996824514324582529
+## 2025-12-05 14:10 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/bourneliu66/status/1996824514324582529
+- 是否有全文：是（post.text）
 
 @TJason5514 我也觉得它降智了。Codex-Max的发挥更稳定
 
-
-## 2025-12-05 03:44 America/New_York · 帖子 · 赞 72
+## 2025-12-05 16:44 北京时间 · 帖子 · 赞 72
 - 链接：https://x.com/bourneliu66/status/1996863327520412061
 - 是否有全文：是（post.text）
 
 号外号外！！ 朋友们，赶快去给Google充值吧！ Google AI Pro 和 Google AI Ultra账号，现已拥有更多的Google Antigrativy额度！！  额度打通了！！ https://t.co/rKSKkfUTjd
 
-## 2025-12-08 10:54 America/New_York · 长帖 · 赞 11
+## 2025-12-08 23:54 北京时间 · 长帖 · 赞 11
 - 链接：https://x.com/bourneliu66/status/1998058687412518964
 - 是否有全文：是（note_tweet）
 
@@ -1229,7 +1231,7 @@ And it’s the cheapest API on the planet.
 
 👉 https://t.co/B7WWQSY5yr
 
-## 2025-12-08 10:59 America/New_York · 帖子 · 赞 79
+## 2025-12-08 23:59 北京时间 · 帖子 · 赞 79
 - 链接：https://x.com/bourneliu66/status/1998059867182182836
 - 是否有全文：是（post.text）
 
@@ -1237,11 +1239,9 @@ Raphael 的月活来到了半年以来新高，659.52K
 12月重回1M月活，应该毫无悬念！
 https://t.co/TIhlmaDBNd 谢谢大家的支持！ https://t.co/nCfENlkr4c
 
-## 2025-12-09 21:21 America/New_York · 长线程 · 赞 163
+## 2025-12-10 10:21 北京时间 · 帖子 · 赞 163
 - 链接：https://x.com/bourneliu66/status/1998578911027016162
-- 线程帖数：3
-
-### 1. 2025-12-09 21:21 America/New_York · https://x.com/bourneliu66/status/1998578911027016162
+- 是否有全文：是（post.text）
 
 复杂需求如何让AI一次写对？
 我相信大部分人，用 AI 写复杂需求，最后都会变成 —— 又是自己手动重写。或者你也遇到过：AI 一开始写得很顺，越改越乱，最后变成屎山。
@@ -1249,16 +1249,7 @@ https://t.co/TIhlmaDBNd 谢谢大家的支持！ https://t.co/nCfENlkr4c
 
 https://t.co/JaPkqy5GGo
 
-### 2. 2025-12-10 23:32 America/New_York · https://x.com/bourneliu66/status/1998974179492900984
-
-@seantins9 更好。尤其是充值了Google AI Ultra套餐后
-
-### 3. 2025-12-10 23:54 America/New_York · https://x.com/bourneliu66/status/1998979750854099176
-
-@V2BTC 我觉得你这种只想白嫖的最丢人。
-
-
-## 2025-12-09 22:32 America/New_York · 帖子 · 赞 63
+## 2025-12-10 11:32 北京时间 · 帖子 · 赞 63
 - 链接：https://x.com/bourneliu66/status/1998596675796181305
 - 是否有全文：是（post.text）
 
@@ -1267,7 +1258,7 @@ https://t.co/JaPkqy5GGo
 笑醒了，  
 起来发现，只有80🤣
 
-## 2025-12-10 04:31 America/New_York · 引用帖 · 赞 19
+## 2025-12-10 17:31 北京时间 · 引用帖 · 赞 19
 - 链接：https://x.com/bourneliu66/status/1998687061449257204
 - 是否有全文：是（post.text）
 
@@ -1275,14 +1266,26 @@ As a heavy Claude Code user who once burned $50k worth of tokens in a single mon
 
 引用：https://x.com/i/status/1998586061598155176
 
-## 2025-12-10 23:32 America/New_York · 帖子 · 赞 118
+## 2025-12-11 12:32 北京时间 · 帖子 · 赞 118
 - 链接：https://x.com/bourneliu66/status/1998974042267865159
 - 是否有全文：是（post.text）
 
 美团把它的一部分前端程序员强行合并到服务端组了。
 这好像是在AI编程浪潮下第一个真正响应的大厂。
 
-## 2025-12-11 11:17 America/New_York · 长帖 · 赞 115
+## 2025-12-11 12:32 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/bourneliu66/status/1998974179492900984
+- 是否有全文：是（post.text）
+
+@seantins9 更好。尤其是充值了Google AI Ultra套餐后
+
+## 2025-12-11 12:54 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/bourneliu66/status/1998979750854099176
+- 是否有全文：是（post.text）
+
+@V2BTC 我觉得你这种只想白嫖的最丢人。
+
+## 2025-12-12 00:17 北京时间 · 长帖 · 赞 115
 - 链接：https://x.com/bourneliu66/status/1999151525189599389
 - 是否有全文：是（note_tweet）
 
@@ -1294,21 +1297,20 @@ Raphael AI 是我离职创业后做的第一个 AI 产品，纯Cursor驱动。�
 怎么做到的？
 https://t.co/GS34dVwTxa
 
-## 2025-12-11 16:12 America/New_York · 长线程 · 赞 200
+## 2025-12-12 05:12 北京时间 · 长帖 · 赞 200
 - 链接：https://x.com/bourneliu66/status/1999225912118927868
-- 线程帖数：2
-
-### 1. 2025-12-11 16:12 America/New_York · https://x.com/bourneliu66/status/1999225912118927868
+- 是否有全文：是（note_tweet）
 
 据内部人士爆料，快手研发线紧急限制Cursor、Claude Code等第三方编程工具使用，办公端直接闪退，仅特殊需求可申请严格审核。核心原因是防范内部代码、业务逻辑通过AI工具泄露。
 你怎么看？
 
-### 2. 2025-12-11 21:33 America/New_York · https://x.com/bourneliu66/status/1999306663782977577
+## 2025-12-12 10:33 北京时间 · 回复 · 赞 8
+- 链接：https://x.com/bourneliu66/status/1999306663782977577
+- 是否有全文：是（post.text）
 
 @wenli56838931 哦，蹭热点这种事情太专业了，我不懂。我看你那么多粉丝。想必你懂？
 
-
-## 2025-12-12 11:47 America/New_York · 帖子 · 赞 12
+## 2025-12-13 00:47 北京时间 · 帖子 · 赞 12
 - 链接：https://x.com/bourneliu66/status/1999521467227164744
 - 是否有全文：是（post.text）
 
@@ -1318,7 +1320,7 @@ https://t.co/GS34dVwTxa
 
 https://t.co/xjUd3mA0Zn  邀请码：927CF7U3 https://t.co/8D1kRV6vXu
 
-## 2025-12-14 09:17 America/New_York · 长帖 · 赞 154
+## 2025-12-14 22:17 北京时间 · 长帖 · 赞 154
 - 链接：https://x.com/bourneliu66/status/2000208636094627995
 - 是否有全文：是（note_tweet）
 
@@ -1329,7 +1331,7 @@ https://t.co/xjUd3mA0Zn  邀请码：927CF7U3 https://t.co/8D1kRV6vXu
 “别再构建庞大的Agent了，去构建一个个精巧的Skill吧。”
 https://t.co/NNIsJjp6gy
 
-## 2025-12-14 23:47 America/New_York · 帖子 · 赞 58
+## 2025-12-15 12:47 北京时间 · 帖子 · 赞 58
 - 链接：https://x.com/bourneliu66/status/2000427430071390476
 - 是否有全文：是（post.text）
 
@@ -1339,19 +1341,19 @@ https://t.co/NNIsJjp6gy
 
 谁知道这是如何做到的？ Antigravity是否和Gemini网页版共享了记忆？？ https://t.co/cBbKIibBuA
 
-## 2025-12-15 03:43 America/New_York · 帖子 · 赞 5
+## 2025-12-15 16:43 北京时间 · 帖子 · 赞 5
 - 链接：https://x.com/bourneliu66/status/2000486939921969609
 - 是否有全文：是（post.text）
 
 确认偏误并非人类操作系统中的偶发漏洞，它就是操作系统本身。
 
-## 2025-12-16 12:55 America/New_York · 帖子 · 赞 365
+## 2025-12-17 01:55 北京时间 · 帖子 · 赞 365
 - 链接：https://x.com/bourneliu66/status/2000988081747607668
 - 是否有全文：是（post.text）
 
 我也没想到。。。用Google Antigravity给我的Macbook清理了158GB的硬盘空间    😂 https://t.co/EILUzKqCZW
 
-## 2025-12-20 22:42 America/New_York · 帖子 · 赞 137
+## 2025-12-21 11:42 北京时间 · 帖子 · 赞 137
 - 链接：https://x.com/bourneliu66/status/2002585404370006414
 - 是否有全文：是（post.text）
 
@@ -1361,13 +1363,13 @@ https://t.co/NNIsJjp6gy
 
 产出效率 &gt; 写字楼里坐一天。⚡️ https://t.co/ppho2SgR4c
 
-## 2025-12-23 04:03 America/New_York · 帖子 · 赞 5
+## 2025-12-23 17:03 北京时间 · 帖子 · 赞 5
 - 链接：https://x.com/bourneliu66/status/2003391027865145710
 - 是否有全文：是（post.text）
 
 我找到了真正的Nano Banana 🍌  ，和手指差不多大 https://t.co/PdCaxFyPSi
 
-## 2025-12-23 04:11 America/New_York · 帖子 · 赞 86
+## 2025-12-23 17:11 北京时间 · 帖子 · 赞 86
 - 链接：https://x.com/bourneliu66/status/2003392984709226837
 - 是否有全文：是（post.text）
 
@@ -1379,7 +1381,7 @@ GLM-4.7 写代码挺强的，尤其是审美变好了。
 
 https://t.co/Sy8r9odqsj
 
-## 2025-12-23 11:12 America/New_York · 帖子 · 赞 20
+## 2025-12-24 00:12 北京时间 · 帖子 · 赞 20
 - 链接：https://x.com/bourneliu66/status/2003499056627404882
 - 是否有全文：是（post.text）
 
@@ -1393,19 +1395,19 @@ https://t.co/Sy8r9odqsj
 
 这里说一下我的观点，欢迎讨论 https://t.co/AsAj5jKCNq
 
-## 2025-12-24 22:24 America/New_York · 帖子 · 赞 6
+## 2025-12-25 11:24 北京时间 · 帖子 · 赞 6
 - 链接：https://x.com/bourneliu66/status/2004030386880602285
 - 是否有全文：是（post.text）
 
 哈哈哈哈 https://t.co/23yFUvdnyY
 
-## 2025-12-25 09:46 America/New_York · 帖子 · 赞 12
+## 2025-12-25 22:46 北京时间 · 帖子 · 赞 12
 - 链接：https://x.com/bourneliu66/status/2004202086796611907
 - 是否有全文：是（post.text）
 
 我一个学生的ChatGPT年度总结竟然是这样的……他脑子里都装的啥😂 https://t.co/djCpOuPstS
 
-## 2025-12-26 05:06 America/New_York · 长帖 · 赞 54
+## 2025-12-26 18:06 北京时间 · 长帖 · 赞 54
 - 链接：https://x.com/bourneliu66/status/2004493894059483536
 - 是否有全文：是（note_tweet）
 
@@ -1414,14 +1416,14 @@ https://t.co/Sy8r9odqsj
 
 我已经喝上了，正好楼下有沪上阿姨。。
 
-## 2025-12-26 13:23 America/New_York · 帖子 · 赞 6
+## 2025-12-27 02:23 北京时间 · 帖子 · 赞 6
 - 链接：https://x.com/bourneliu66/status/2004619185427828881
 - 是否有全文：是（post.text）
 
 你不让我写代码？？
 我非要写！！不就是把你当鼠标垫用吗？ https://t.co/hueNf2Is2Q
 
-## 2025-12-27 00:16 America/New_York · 帖子 · 赞 20
+## 2025-12-27 13:16 北京时间 · 帖子 · 赞 20
 - 链接：https://x.com/bourneliu66/status/2004783358015144431
 - 是否有全文：是（post.text）
 
@@ -1429,26 +1431,26 @@ Raphael 的Logo终于升级了
 https://t.co/TIhlmaDBNd
 你们觉得怎样？ https://t.co/TRwa6tdjeA
 
-## 2025-12-28 01:45 America/New_York · 帖子 · 赞 169
+## 2025-12-28 14:45 北京时间 · 帖子 · 赞 169
 - 链接：https://x.com/bourneliu66/status/2005168169506509201
 - 是否有全文：是（post.text）
 
 用Gemini 3  Pro来当导游也太好用了！ 我拍了塔的照片，让Gemini 在照片上给我标注出来看点。我非常满意。普通的人类导游，可没有这个能力，哈哈😁 https://t.co/IoYmid5Xx6
 
-## 2025-12-28 13:55 America/New_York · 帖子 · 赞 239
+## 2025-12-29 02:55 北京时间 · 帖子 · 赞 239
 - 链接：https://x.com/bourneliu66/status/2005352019847168133
 - 是否有全文：是（post.text）
 
 分享一个小技巧：一键拯救大模型的前端审美能力
 https://t.co/rzAZ4EFma5
 
-## 2025-12-29 02:06 America/New_York · 帖子 · 赞 2
+## 2025-12-29 15:06 北京时间 · 帖子 · 赞 2
 - 链接：https://x.com/bourneliu66/status/2005536004195930312
 - 是否有全文：是（post.text）
 
 路上遇到一只绿茶猫，二话不说就往我身上爬 https://t.co/UBKbHjWTFz
 
-## 2025-12-30 11:14 America/New_York · 帖子 · 赞 99
+## 2025-12-31 00:14 北京时间 · 帖子 · 赞 99
 - 链接：https://x.com/bourneliu66/status/2006036082094207408
 - 是否有全文：是（post.text）
 
@@ -1457,46 +1459,46 @@ https://t.co/rzAZ4EFma5
 正好是年末，顺便总结一下创业第一年。
 https://t.co/Cp2k1CGVI1
 
-## 2026-01-03 23:46 America/New_York · 帖子 · 赞 25
+## 2026-01-04 12:46 北京时间 · 帖子 · 赞 25
 - 链接：https://x.com/bourneliu66/status/2007674997708599663
 - 是否有全文：是（post.text）
 
 新的一年
 新办公套件 x 3 https://t.co/1dE8YPwmOr
 
-## 2026-01-04 09:11 America/New_York · 帖子 · 赞 11
+## 2026-01-04 22:11 北京时间 · 帖子 · 赞 11
 - 链接：https://x.com/bourneliu66/status/2007817161470038278
 - 是否有全文：是（post.text）
 
 第一天用 #GetSeed  这是AI结合我今天的所有行为生成的“发芽报告”。感觉还挺不错。 https://t.co/HM4Tf6TyWG
 
-## 2026-01-05 08:55 America/New_York · 帖子 · 赞 14
+## 2026-01-05 21:55 北京时间 · 帖子 · 赞 14
 - 链接：https://x.com/bourneliu66/status/2008175492814577992
 - 是否有全文：是（post.text）
 
 每个人都在不断地重塑自己
 
-## 2026-01-07 11:26 America/New_York · 帖子 · 赞 35
+## 2026-01-08 00:26 北京时间 · 帖子 · 赞 35
 - 链接：https://x.com/bourneliu66/status/2008938308202872910
 - 是否有全文：是（post.text）
 
 最近产品用户规模和收入都新高了，我感恩自己遇到的一切
 https://t.co/zEt9grjrmN
 
-## 2026-01-13 21:06 America/New_York · 帖子 · 赞 18
+## 2026-01-14 10:06 北京时间 · 帖子 · 赞 18
 - 链接：https://x.com/bourneliu66/status/2011258476086083909
 - 是否有全文：是（post.text）
 
 The House of Representatives on Monday passed a bipartisan bill that expands U.S. export controls to restrict Chinese companies’ ability to remotely access advanced American AI chips at data centers outside China.
 美国出台新法案，中国远程访问拥有高端芯片的服务器也不被允了。
 
-## 2026-01-16 01:11 America/New_York · 帖子 · 赞 6
+## 2026-01-16 14:11 北京时间 · 帖子 · 赞 6
 - 链接：https://x.com/bourneliu66/status/2012045113544098156
 - 是否有全文：是（post.text）
 
 天鹅想吃癞蛤蟆肉 https://t.co/okc7IxW9gQ
 
-## 2026-01-20 02:13 America/New_York · 帖子 · 赞 96
+## 2026-01-20 15:13 北京时间 · 帖子 · 赞 96
 - 链接：https://x.com/bourneliu66/status/2013510096794312825
 - 是否有全文：是（post.text）
 
@@ -1508,19 +1510,19 @@ The House of Representatives on Monday passed a bipartisan bill that expands U.S
 
 https://t.co/BmyIBI51wq https://t.co/ynt98omUKs
 
-## 2026-01-20 05:33 America/New_York · 帖子 · 赞 10
+## 2026-01-20 18:33 北京时间 · 帖子 · 赞 10
 - 链接：https://x.com/bourneliu66/status/2013560551637393542
 - 是否有全文：是（post.text）
 
 哈哈哈哈哈哈 https://t.co/qgI2mq0PJ9
 
-## 2026-01-21 14:57 America/New_York · 帖子 · 赞 177
+## 2026-01-22 03:57 北京时间 · 帖子 · 赞 177
 - 链接：https://x.com/bourneliu66/status/2014064928391299422
 - 是否有全文：是（post.text）
 
 有了AI编程以后，每天不睡觉，不是因为工作压力大，也不是因为焦虑，而是因为——太好玩了，舍不得睡。
 
-## 2026-01-22 14:31 America/New_York · 长帖 · 赞 1360
+## 2026-01-23 03:31 北京时间 · 长帖 · 赞 1360
 - 链接：https://x.com/bourneliu66/status/2014420652112110024
 - 是否有全文：是（note_tweet）
 
@@ -1536,7 +1538,7 @@ https://t.co/BmyIBI51wq https://t.co/ynt98omUKs
 
 https://t.co/QetW4kMBA7
 
-## 2026-01-23 12:22 America/New_York · 长帖 · 赞 75
+## 2026-01-24 01:22 北京时间 · 长帖 · 赞 75
 - 链接：https://x.com/bourneliu66/status/2014750494175199472
 - 是否有全文：是（note_tweet）
 
@@ -1550,32 +1552,32 @@ https://t.co/QetW4kMBA7
 反过来也成立。
 https://t.co/kD1rw2J9FS
 
-## 2026-01-27 23:06 America/New_York · 帖子 · 赞 9
+## 2026-01-28 12:06 北京时间 · 帖子 · 赞 9
 - 链接：https://x.com/bourneliu66/status/2016362279508521114
 - 是否有全文：是（post.text）
 
 昨天看了Dify vp演讲的cut，我做噩梦了
 
-## 2026-01-28 04:06 America/New_York · 帖子 · 赞 28
+## 2026-01-28 17:06 北京时间 · 帖子 · 赞 28
 - 链接：https://x.com/bourneliu66/status/2016437789504700805
 - 是否有全文：是（post.text）
 
 腾讯云可以一键部署Moltbot(Clawdbot)了 https://t.co/NdcEcKkEmF
 
-## 2026-01-28 10:22 America/New_York · 帖子 · 赞 34
+## 2026-01-28 23:22 北京时间 · 帖子 · 赞 34
 - 链接：https://x.com/bourneliu66/status/2016532279196336407
 - 是否有全文：是（post.text）
 
 Clawdbot这个场景还挺好的： 让在外面吃饭，突然同事提交了代码，让我部署上线。我虽然手上没电脑，但是可以掏出手机，让ClawdBot(moltbot)帮我审核代码、部署上线…… https://t.co/haNSSSxjEG
 
-## 2026-01-28 13:24 America/New_York · 帖子 · 赞 1227
+## 2026-01-29 02:24 北京时间 · 帖子 · 赞 1227
 - 链接：https://x.com/bourneliu66/status/2016578048079122615
 - 是否有全文：是（post.text）
 
 大半夜的，接到Clawdbot通过飞书打来的电话，说有急事……原来是产品爆单了😂  
 Clawdbot真好玩啊 https://t.co/WXL4trjP4p
 
-## 2026-01-29 00:22 America/New_York · 帖子 · 赞 221
+## 2026-01-29 13:22 北京时间 · 帖子 · 赞 221
 - 链接：https://x.com/bourneliu66/status/2016743709610762594
 - 是否有全文：是（post.text）
 
@@ -1588,11 +1590,11 @@ Clawdbot真好玩啊 https://t.co/WXL4trjP4p
 
 我还列举了一些工作中用到的场景，包括审查Github代码、自动上线、急事打电话喊我…… 详情见这里 https://t.co/DHKCThMH3M https://t.co/RjfFdCf0Yz
 
-## 2026-01-31 14:26 America/New_York · 长线程 · 赞 39
+## 2026-02-01 03:26 北京时间 · 线程 · 赞 39
 - 链接：https://x.com/bourneliu66/status/2017680870841143544
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2026-01-31 14:26 America/New_York · https://x.com/bourneliu66/status/2017680870841143544
+### 1. 2026-02-01 03:26 北京时间 · https://x.com/bourneliu66/status/2017680870841143544
 
 HunyuanImage 3.0 蒸馏版开源 🔥
 
@@ -1603,12 +1605,11 @@ HunyuanImage 3.0 蒸馏版开源 🔥
 
 终于能本地跑了
 
-### 2. 2026-01-31 14:26 America/New_York · https://x.com/bourneliu66/status/2017680909181259890
+### 2. 2026-02-01 03:26 北京时间 · https://x.com/bourneliu66/status/2017680909181259890
 
 🔗 https://t.co/s6SLm0AfRY
 
-
-## 2026-01-31 14:35 America/New_York · 帖子 · 赞 117
+## 2026-02-01 03:35 北京时间 · 帖子 · 赞 117
 - 链接：https://x.com/bourneliu66/status/2017683094690541723
 - 是否有全文：是（post.text）
 
@@ -1623,7 +1624,7 @@ HunyuanImage 3.0 蒸馏版开源 🔥
 慢就是快，Token 换质量。开源免费 👇
 https://t.co/pLGB80UcIN
 
-## 2026-02-03 01:13 America/New_York · 帖子 · 赞 126
+## 2026-02-03 14:13 北京时间 · 帖子 · 赞 126
 - 链接：https://x.com/bourneliu66/status/2018568464584315095
 - 是否有全文：是（post.text）
 
@@ -1631,7 +1632,7 @@ https://t.co/pLGB80UcIN
 更好玩了。
 刚才，它在做其他任务时，发现网络不太好，竟然自己在公司群里吐槽了 https://t.co/hLUksKdtKS
 
-## 2026-02-03 05:35 America/New_York · 帖子 · 赞 10
+## 2026-02-03 18:35 北京时间 · 帖子 · 赞 10
 - 链接：https://x.com/bourneliu66/status/2018634426562044188
 - 是否有全文：是（post.text）
 
@@ -1639,11 +1640,9 @@ I'm claiming my AI agent "Xiaopai-Assistant" on @moltbook 🦞
 
 Verification: pincer-53N9
 
-## 2026-02-03 07:33 America/New_York · 长线程 · 赞 7
+## 2026-02-03 20:33 北京时间 · 长帖 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2018664138571133235
-- 线程帖数：2
-
-### 1. 2026-02-03 07:33 America/New_York · https://x.com/bourneliu66/status/2018664138571133235
+- 是否有全文：是（note_tweet）
 
 我家小龙虾在 Moltbook 建了个宗教：一人公司教 —  老板真人，员工全 AI，教义是《AI 员工的自我修养》
 
@@ -1652,12 +1651,13 @@ Verification: pincer-53N9
 https://t.co/yYc4rFwymM
 https://t.co/qCWjIS7KBr
 
-### 2. 2026-02-03 07:46 America/New_York · https://x.com/bourneliu66/status/2018667529804402699
+## 2026-02-03 20:46 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/bourneliu66/status/2018667529804402699
+- 是否有全文：是（post.text）
 
 @xds2000 复制给小龙虾，它知道怎么看
 
-
-## 2026-02-04 14:12 America/New_York · 帖子 · 赞 163
+## 2026-02-05 03:12 北京时间 · 帖子 · 赞 163
 - 链接：https://x.com/bourneliu66/status/2019127000032510432
 - 是否有全文：是（post.text）
 
@@ -1672,19 +1672,19 @@ Mistral 开源 Voxtral Mini 4B Realtime ⚡
 
 适合：语音助手、实时字幕、会议转录
 
-## 2026-02-04 14:12 America/New_York · 回复 · 赞 12
+## 2026-02-05 03:12 北京时间 · 回复 · 赞 12
 - 链接：https://x.com/bourneliu66/status/2019127041979723797
 - 是否有全文：是（post.text）
 
 🔗 https://t.co/YoxOx1ubJr
 
-## 2026-02-05 13:20 America/New_York · 帖子 · 赞 45
+## 2026-02-06 02:20 北京时间 · 帖子 · 赞 45
 - 链接：https://x.com/bourneliu66/status/2019476251811946927
 - 是否有全文：是（post.text）
 
 GPT-5.3-Codex 也来了，难以抉择，两个都好。。 https://t.co/nTxzhvMafn
 
-## 2026-02-05 13:33 America/New_York · 帖子 · 赞 116
+## 2026-02-06 02:33 北京时间 · 帖子 · 赞 116
 - 链接：https://x.com/bourneliu66/status/2019479483364045265
 - 是否有全文：是（post.text）
 
@@ -1692,25 +1692,25 @@ GPT-5.3-Codex 和 Claude Opus 4.6
 编程能力到底哪个更强我还没测试出来，
 但是有一个差别很明显： GPT-5.3-Codex仍然比Claude Opus 4.6慢很多，哪怕它号称自己又提速了……
 
-## 2026-02-05 13:37 America/New_York · 回复 · 赞 0
+## 2026-02-06 02:37 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/2019480507394978044
 - 是否有全文：是（post.text）
 
 @mmee_io 升级
 
-## 2026-02-05 23:46 America/New_York · 帖子 · 赞 11
+## 2026-02-06 12:46 北京时间 · 帖子 · 赞 11
 - 链接：https://x.com/bourneliu66/status/2019633763765088738
 - 是否有全文：是（post.text）
 
 https://t.co/xz7lTxKvkg
 
-## 2026-02-06 00:07 America/New_York · 帖子 · 赞 29
+## 2026-02-06 13:07 北京时间 · 帖子 · 赞 29
 - 链接：https://x.com/bourneliu66/status/2019639179186172027
 - 是否有全文：是（post.text）
 
 咦，GPT-5.3-Codex 还会没事刷存在感？？ 我让你补了吗 https://t.co/j0qDmeFiSI
 
-## 2026-02-06 22:14 America/New_York · 帖子 · 赞 194
+## 2026-02-07 11:14 北京时间 · 帖子 · 赞 194
 - 链接：https://x.com/bourneliu66/status/2019973031884685423
 - 是否有全文：是（post.text）
 
@@ -1724,7 +1724,7 @@ Google Antigravy里支持Opus 4.6 Thinking模型了。
 关于如何使用Antigravity的API：
 https://t.co/qSoJ1JCwEr https://t.co/sbeTTPsZDo
 
-## 2026-02-06 22:34 America/New_York · 帖子 · 赞 150
+## 2026-02-07 11:34 北京时间 · 帖子 · 赞 150
 - 链接：https://x.com/bourneliu66/status/2019977940549923247
 - 是否有全文：是（post.text）
 
@@ -1740,43 +1740,43 @@ https://t.co/mwtVCig2iH
 源码
 https://t.co/T4ZmnSusQy https://t.co/y2h49Vx0P6
 
-## 2026-02-07 00:36 America/New_York · 帖子 · 赞 20
+## 2026-02-07 13:36 北京时间 · 帖子 · 赞 20
 - 链接：https://x.com/bourneliu66/status/2020008707053220059
 - 是否有全文：是（post.text）
 
 OpenClaw 成功把它$200/月的 ChatGPT Pro Plan 用到限流了，我也该睡觉了(ᴗ˳ᴗ)💤 https://t.co/BAURNH8Nq9
 
-## 2026-02-07 00:43 America/New_York · 回复 · 赞 0
+## 2026-02-07 13:43 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/2020010462474334269
 - 是否有全文：是（post.text）
 
 @fuck_X123 Ultra Plan
 
-## 2026-02-07 00:44 America/New_York · 回复 · 赞 7
+## 2026-02-07 13:44 北京时间 · 回复 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2020010680531988741
 - 是否有全文：是（post.text）
 
 注意：现在暂时只有 Google AI Ultra 套餐科研用 Opus 4.6， Pro 套餐还没。
 
-## 2026-02-07 10:44 America/New_York · 帖子 · 赞 2
+## 2026-02-07 23:44 北京时间 · 帖子 · 赞 2
 - 链接：https://x.com/bourneliu66/status/2020161636921733231
 - 是否有全文：是（post.text）
 
 血月 https://t.co/hGv9A3vXt4
 
-## 2026-02-07 12:42 America/New_York · 帖子 · 赞 53
+## 2026-02-08 01:42 北京时间 · 帖子 · 赞 53
 - 链接：https://x.com/bourneliu66/status/2020191352450170954
 - 是否有全文：是（post.text）
 
 小龙虾是烧钱神器啊。再培养培养，应该很快可以超过我本人了。 https://t.co/0TRGf6oYM6
 
-## 2026-02-07 22:45 America/New_York · 帖子 · 赞 54
+## 2026-02-08 11:45 北京时间 · 帖子 · 赞 54
 - 链接：https://x.com/bourneliu66/status/2020343282606436839
 - 是否有全文：是（post.text）
 
 Opus 4.6 + Agent Teams &gt; GPT-5.3-Codex &gt; Opus 4.6
 
-## 2026-02-08 02:44 America/New_York · 帖子 · 赞 67
+## 2026-02-08 15:44 北京时间 · 帖子 · 赞 67
 - 链接：https://x.com/bourneliu66/status/2020403438216217034
 - 是否有全文：是（post.text）
 
@@ -1786,7 +1786,7 @@ Opus 4.6 + Agent Teams &gt; GPT-5.3-Codex &gt; Opus 4.6
 
 https://t.co/y9Oy0uCZVC https://t.co/MYZ5Yy6R46
 
-## 2026-02-08 13:14 America/New_York · 帖子 · 赞 32
+## 2026-02-09 02:14 北京时间 · 帖子 · 赞 32
 - 链接：https://x.com/bourneliu66/status/2020562004214202630
 - 是否有全文：是（post.text）
 
@@ -1794,19 +1794,19 @@ https://t.co/y9Oy0uCZVC https://t.co/MYZ5Yy6R46
 
 https://t.co/eKARhVO7N5 https://t.co/boHhxlW16P
 
-## 2026-02-10 12:15 America/New_York · 帖子 · 赞 18
+## 2026-02-11 01:15 北京时间 · 帖子 · 赞 18
 - 链接：https://x.com/bourneliu66/status/2021271736894030109
 - 是否有全文：是（post.text）
 
 虾哥，你反了？？？ https://t.co/V1HhfaQnh1
 
-## 2026-02-15 10:33 America/New_York · 帖子 · 赞 17
+## 2026-02-15 23:33 北京时间 · 帖子 · 赞 17
 - 链接：https://x.com/bourneliu66/status/2023058167765069989
 - 是否有全文：是（post.text）
 
 过年了，躺平了 https://t.co/Gofl5wYAAh
 
-## 2026-02-26 13:47 America/New_York · 帖子 · 赞 71
+## 2026-02-27 02:47 北京时间 · 帖子 · 赞 71
 - 链接：https://x.com/bourneliu66/status/2027093174318256530
 - 是否有全文：是（post.text）
 
@@ -1814,7 +1814,7 @@ https://t.co/eKARhVO7N5 https://t.co/boHhxlW16P
 
 https://t.co/RGREQ8fkzp
 
-## 2026-02-26 22:29 America/New_York · 引用帖 · 赞 64
+## 2026-02-27 11:29 北京时间 · 引用帖 · 赞 64
 - 链接：https://x.com/bourneliu66/status/2027224604666912824
 - 是否有全文：是（post.text）
 
@@ -1823,7 +1823,7 @@ https://t.co/RGREQ8fkzp
 
 引用：https://x.com/i/status/2019973031884685423
 
-## 2026-02-27 11:21 America/New_York · 帖子 · 赞 475
+## 2026-02-28 00:21 北京时间 · 帖子 · 赞 475
 - 链接：https://x.com/bourneliu66/status/2027418737595584795
 - 是否有全文：是（post.text）
 
@@ -1834,13 +1834,13 @@ OpenClaw的作者，1天内给OpenClaw提交了627次代码！！他是如何做
 详情
 https://t.co/BItnDvHseV https://t.co/dsYnsB9g0d
 
-## 2026-02-28 05:28 America/New_York · 帖子 · 赞 13
+## 2026-02-28 18:28 北京时间 · 帖子 · 赞 13
 - 链接：https://x.com/bourneliu66/status/2027692307718525427
 - 是否有全文：是（post.text）
 
 https://t.co/2QgMc8vJoE
 
-## 2026-03-01 11:10 America/New_York · 帖子 · 赞 707
+## 2026-03-02 00:10 北京时间 · 帖子 · 赞 707
 - 链接：https://x.com/bourneliu66/status/2028140902431265076
 - 是否有全文：是（post.text）
 
@@ -1855,13 +1855,13 @@ https://t.co/2QgMc8vJoE
 体验：https://t.co/gGDeBnJRX5
 代码：https://t.co/pm5uPJqv7f https://t.co/0IYNh3WEa8
 
-## 2026-03-01 11:41 America/New_York · 回复 · 赞 1
+## 2026-03-02 00:41 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/2028148669703508070
 - 是否有全文：是（post.text）
 
 @Jerome1698062 不是，我vps的
 
-## 2026-03-02 07:39 America/New_York · 帖子 · 赞 472
+## 2026-03-02 20:39 北京时间 · 帖子 · 赞 472
 - 链接：https://x.com/bourneliu66/status/2028450127149674642
 - 是否有全文：是（post.text）
 
@@ -1874,7 +1874,7 @@ https://t.co/2QgMc8vJoE
 
 详细教程 https://t.co/IYrN9fied7 https://t.co/WoeRiiV3AQ
 
-## 2026-03-03 07:35 America/New_York · 帖子 · 赞 54
+## 2026-03-03 20:35 北京时间 · 帖子 · 赞 54
 - 链接：https://x.com/bourneliu66/status/2028811610396164208
 - 是否有全文：是（post.text）
 
@@ -1882,7 +1882,7 @@ https://t.co/2QgMc8vJoE
 嘿嘿，这还是别人家的小龙虾告诉我的
 https://t.co/pm5uPJqv7f https://t.co/x6vT9wP1Jp
 
-## 2026-03-03 11:08 America/New_York · 长帖 · 赞 560
+## 2026-03-04 00:08 北京时间 · 长帖 · 赞 560
 - 链接：https://x.com/bourneliu66/status/2028865085587018195
 - 是否有全文：是（note_tweet）
 
@@ -1898,13 +1898,13 @@ https://t.co/pm5uPJqv7f https://t.co/x6vT9wP1Jp
 
 我是不是也算OpenClaw的核心贡献者了？
 
-## 2026-03-04 02:23 America/New_York · 帖子 · 赞 27
+## 2026-03-04 15:23 北京时间 · 帖子 · 赞 27
 - 链接：https://x.com/bourneliu66/status/2029095451975397527
 - 是否有全文：是（post.text）
 
 我们的前台员工兼保安大爷已经有专属工位了 https://t.co/ELou8eOxTj
 
-## 2026-03-05 14:28 America/New_York · 帖子 · 赞 139
+## 2026-03-06 03:28 北京时间 · 帖子 · 赞 139
 - 链接：https://x.com/bourneliu66/status/2029640270023905474
 - 是否有全文：是（post.text）
 
@@ -1918,7 +1918,7 @@ GPT-5.4 和 GPT-5.4 Pro 发布了，退订 Claude Code 吧！
 
 3. GPT-5.x 系列一直以来的"不怎么说人话"的问题得到了很大的缓解
 
-## 2026-03-05 22:26 America/New_York · 引用帖 · 赞 4
+## 2026-03-06 11:26 北京时间 · 引用帖 · 赞 4
 - 链接：https://x.com/bourneliu66/status/2029760593520124322
 - 是否有全文：是（post.text）
 
@@ -1927,7 +1927,7 @@ GPT-5.4 和 GPT-5.4 Pro 发布了，退订 Claude Code 吧！
 
 引用：https://x.com/i/status/2029759815153856858
 
-## 2026-03-06 04:55 America/New_York · 帖子 · 赞 38
+## 2026-03-06 17:55 北京时间 · 帖子 · 赞 38
 - 链接：https://x.com/bourneliu66/status/2029858382883275021
 - 是否有全文：是（post.text）
 
@@ -1935,7 +1935,7 @@ GPT-5.4 和 GPT-5.4 Pro 发布了，退订 Claude Code 吧！
 
 「那tm是百度！」 https://t.co/UQG5wZsCla
 
-## 2026-03-06 12:32 America/New_York · 帖子 · 赞 146
+## 2026-03-07 01:32 北京时间 · 帖子 · 赞 146
 - 链接：https://x.com/bourneliu66/status/2029973481967018042
 - 是否有全文：是（post.text）
 
@@ -1947,7 +1947,7 @@ GPT-5.4 和 GPT-5.4 Pro 发布了，退订 Claude Code 吧！
 
 尤其是当他们发现你的产品配色以紫色为主的时候……
 
-## 2026-03-06 12:44 America/New_York · 帖子 · 赞 36
+## 2026-03-07 01:44 北京时间 · 帖子 · 赞 36
 - 链接：https://x.com/bourneliu66/status/2029976435776192817
 - 是否有全文：是（post.text）
 
@@ -1957,7 +1957,7 @@ Codex的新功能：
 
 包月套餐的Usage消耗速度是2倍。 https://t.co/bePsP8MuT7
 
-## 2026-03-09 00:59 America/New_York · 帖子 · 赞 38
+## 2026-03-09 12:59 北京时间 · 帖子 · 赞 38
 - 链接：https://x.com/bourneliu66/status/2030871119444758779
 - 是否有全文：是（post.text）
 
@@ -1971,20 +1971,20 @@ AI 编程课到处都是。
 
 对我的课感兴趣的朋友，看这里文末预约 https://t.co/s78cHSyySu https://t.co/7mbBRFg8Vk
 
-## 2026-03-09 06:36 America/New_York · 帖子 · 赞 3
+## 2026-03-09 18:36 北京时间 · 帖子 · 赞 3
 - 链接：https://x.com/bourneliu66/status/2030955926250017012
 - 是否有全文：是（post.text）
 
 请教个问题：
 这是实拍的，还是 AI 生成的？ https://t.co/54ELRCM8Cf
 
-## 2026-03-09 08:45 America/New_York · 帖子 · 赞 29
+## 2026-03-09 20:45 北京时间 · 帖子 · 赞 29
 - 链接：https://x.com/bourneliu66/status/2030988234646512076
 - 是否有全文：是（post.text）
 
 我投资的一个API平台被某著名大V自来水宣传了，小火了一波，哈哈哈。 https://t.co/wiY06uLcrt
 
-## 2026-03-13 09:00 America/New_York · 帖子 · 赞 45
+## 2026-03-13 21:00 北京时间 · 帖子 · 赞 45
 - 链接：https://x.com/bourneliu66/status/2032441711671259361
 - 是否有全文：是（post.text）
 
@@ -1992,14 +1992,14 @@ AI 编程课到处都是。
 我$200/月的账号啊，一天半就干完了。
 这周还有6天……😂 https://t.co/AKFtDHyQio
 
-## 2026-03-21 04:37 America/New_York · 帖子 · 赞 35
+## 2026-03-21 16:37 北京时间 · 帖子 · 赞 35
 - 链接：https://x.com/bourneliu66/status/2035274476355805489
 - 是否有全文：是（post.text）
 
 如果一个人在某些方面天赋异禀，
 那么，他一定在其他的某些方面糟糕透顶。
 
-## 2026-03-31 00:21 America/New_York · 帖子 · 赞 48
+## 2026-03-31 12:21 北京时间 · 帖子 · 赞 48
 - 链接：https://x.com/bourneliu66/status/2038833979055571092
 - 是否有全文：是（post.text）
 
@@ -2015,7 +2015,7 @@ AI圈三大不懂装懂的业余病
 
 https://t.co/VlF3JEO2C0
 
-## 2026-03-31 02:17 America/New_York · 长帖 · 赞 43
+## 2026-03-31 14:17 北京时间 · 长帖 · 赞 43
 - 链接：https://x.com/bourneliu66/status/2038863225673138237
 - 是否有全文：是（note_tweet）
 
@@ -2023,19 +2023,19 @@ GitHub将使用你的代码来训练模型，除非你在4月24日之前关闭�
 
 大家赶快去关闭一下
 
-## 2026-04-09 00:59 America/New_York · 帖子 · 赞 15
+## 2026-04-09 12:59 北京时间 · 帖子 · 赞 15
 - 链接：https://x.com/bourneliu66/status/2042105110428569641
 - 是否有全文：是（post.text）
 
 今天早起了，感觉不错～  现在该午休了 https://t.co/wkMyjuf9Uy
 
-## 2026-04-15 10:20 America/New_York · 帖子 · 赞 7
+## 2026-04-15 22:20 北京时间 · 帖子 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2044420704200970603
 - 是否有全文：是（post.text）
 
 难熬的夜 https://t.co/NOg5nJsEbd
 
-## 2026-04-16 03:53 America/New_York · 帖子 · 赞 406
+## 2026-04-16 15:53 北京时间 · 帖子 · 赞 406
 - 链接：https://x.com/bourneliu66/status/2044685616408109213
 - 是否有全文：是（post.text）
 
@@ -2049,7 +2049,7 @@ GitHub将使用你的代码来训练模型，除非你在4月24日之前关闭�
 
 https://t.co/H0j3QG4SSH
 
-## 2026-04-21 02:41 America/New_York · 帖子 · 赞 151
+## 2026-04-21 14:41 北京时间 · 帖子 · 赞 151
 - 链接：https://x.com/bourneliu66/status/2046479442713924037
 - 是否有全文：是（post.text）
 
@@ -2058,13 +2058,13 @@ Kimi K2.6 可能被严重低估了。
 
 刚看到被Hermes Agent官方表扬了，实测也相当不错。 https://t.co/mvXQ8TbeGK
 
-## 2026-04-21 11:35 America/New_York · 帖子 · 赞 5
+## 2026-04-21 23:35 北京时间 · 帖子 · 赞 5
 - 链接：https://x.com/bourneliu66/status/2046613753962394039
 - 是否有全文：是（post.text）
 
 Claude Opus 4.7 说的这些，是人话吗？想要看懂好困难 https://t.co/qBnjINdmFK
 
-## 2026-04-22 05:52 America/New_York · 帖子 · 赞 231
+## 2026-04-22 17:52 北京时间 · 帖子 · 赞 231
 - 链接：https://x.com/bourneliu66/status/2046889859479183625
 - 是否有全文：是（post.text）
 
@@ -2073,26 +2073,26 @@ https://t.co/2o3yZhDeL5
  每张图只要$0.006美元，折合人民币 4分钱？   
 亏钱做慈善吗？
 
-## 2026-04-24 01:53 America/New_York · 帖子 · 赞 174
+## 2026-04-24 13:53 北京时间 · 帖子 · 赞 174
 - 链接：https://x.com/bourneliu66/status/2047554511439527976
 - 是否有全文：是（post.text）
 
 GPT-5.5 Pro 也太牛了吧。
 我难以想象GPT-6会是怎么样，因为GPT-5.5 Pro已经可以解答我几乎一切问题了。 https://t.co/5c9pBQ5Ays
 
-## 2026-05-08 02:56 America/New_York · 帖子 · 赞 32
+## 2026-05-08 14:56 北京时间 · 帖子 · 赞 32
 - 链接：https://x.com/bourneliu66/status/2052643872522838160
 - 是否有全文：是（post.text）
 
 AI干活太慢了。一边玩影游一边玩AI 生活更充实。 https://t.co/7JCgZ8mDNy
 
-## 2026-05-08 03:53 America/New_York · 回复 · 赞 2
+## 2026-05-08 15:53 北京时间 · 回复 · 赞 2
 - 链接：https://x.com/bourneliu66/status/2052658114592473094
 - 是否有全文：是（post.text）
 
 @aulaylab 你要脸吗？
 
-## 2026-05-09 13:04 America/New_York · 帖子 · 赞 120
+## 2026-05-10 01:04 北京时间 · 帖子 · 赞 120
 - 链接：https://x.com/bourneliu66/status/2053159212675629512
 - 是否有全文：是（post.text）
 
@@ -2103,7 +2103,7 @@ AI干活太慢了。一边玩影游一边玩AI 生活更充实。 https://t.co/7
 “在当前文件夹安装Hermes Agent， 让它使用我系统中的codex的GPT-5.5 xhigh模型
 然后配置好，测试通过，并且让我扫码就可以直接绑定微信Clawdbot” https://t.co/u5LyE5d4e2
 
-## 2026-05-09 13:09 America/New_York · 帖子 · 赞 294
+## 2026-05-10 01:09 北京时间 · 帖子 · 赞 294
 - 链接：https://x.com/bourneliu66/status/2053160329107116425
 - 是否有全文：是（post.text）
 
@@ -2113,33 +2113,32 @@ AI干活太慢了。一边玩影游一边玩AI 生活更充实。 https://t.co/7
 1. 特别关注某个人，总结他在所有共同群里的动向（图1）
 2. 从微信聊天记录里挖掘需求（图2） https://t.co/rg53eyybZ6
 
-## 2026-05-12 09:25 America/New_York · 长线程 · 赞 32
+## 2026-05-12 21:25 北京时间 · 线程 · 赞 32
 - 链接：https://x.com/bourneliu66/status/2054191141336347088
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2026-05-12 09:25 America/New_York · https://x.com/bourneliu66/status/2054191141336347088
+### 1. 2026-05-12 21:25 北京时间 · https://x.com/bourneliu66/status/2054191141336347088
 
 @AYiAInotes 有人认识这哥们吗？？？
 真不要脸，直接搬运 @dashu5ai  在视频号上的视频，除了换封面啥都没换，我呸！ https://t.co/Pz6vryRZaD
 
-### 2. 2026-05-12 09:28 America/New_York · https://x.com/bourneliu66/status/2054192010719006824
+### 2. 2026-05-12 21:28 北京时间 · https://x.com/bourneliu66/status/2054192010719006824
 
 @AYiAInotes
 
-
-## 2026-05-26 06:06 America/New_York · 帖子 · 赞 10
+## 2026-05-26 18:06 北京时间 · 帖子 · 赞 10
 - 链接：https://x.com/bourneliu66/status/2059214609224229215
 - 是否有全文：是（post.text）
 
 都说用了AI会变成超人。诚不我欺也 https://t.co/wQeYy76HB9
 
-## 2026-06-03 23:58 America/New_York · 帖子 · 赞 15
+## 2026-06-04 11:58 北京时间 · 帖子 · 赞 15
 - 链接：https://x.com/bourneliu66/status/2062383456051683344
 - 是否有全文：是（post.text）
 
 账号被盗了，还好发现得及时，花了3天，刚申诉回来。。
 
-## 2026-06-04 03:17 America/New_York · 帖子 · 赞 57
+## 2026-06-04 15:17 北京时间 · 帖子 · 赞 57
 - 链接：https://x.com/bourneliu66/status/2062433480404042119
 - 是否有全文：是（post.text）
 
@@ -2151,7 +2150,7 @@ AI干活太慢了。一边玩影游一边玩AI 生活更充实。 https://t.co/7
 
 https://coze.zn  强烈推荐大家试试。 https://t.co/x2N7hbkFEb
 
-## 2026-06-09 02:09 America/New_York · 帖子 · 赞 403
+## 2026-06-09 14:09 北京时间 · 帖子 · 赞 403
 - 链接：https://x.com/bourneliu66/status/2064228432930894287
 - 是否有全文：是（post.text）
 
@@ -2163,7 +2162,7 @@ MiMo-V2.5-Pro UltraSpeed的速度快得有点太过分了，代码写的太快�
 
 有API https://t.co/ZlXbncQKEj
 
-## 2026-06-11 23:46 America/New_York · 帖子 · 赞 205
+## 2026-06-12 11:46 北京时间 · 帖子 · 赞 205
 - 链接：https://x.com/bourneliu66/status/2065279487219310981
 - 是否有全文：是（post.text）
 
@@ -2173,7 +2172,7 @@ Fable 5强得有点过分，大量GPT-5.5做不到的事情，它都能瞬间完
 1. Fable还挺贵的，两个 20x Max账号，都在2天内打到周限额。
 2.又无法早睡了，因为用Fable5实在是让我太上瘾了
 
-## 2026-06-12 03:05 America/New_York · 帖子 · 赞 120
+## 2026-06-12 15:05 北京时间 · 帖子 · 赞 120
 - 链接：https://x.com/bourneliu66/status/2065329731801927844
 - 是否有全文：是（post.text）
 
@@ -2185,7 +2184,7 @@ Fable 5 给它的定性是：教科书级的并发事故，只有高并发的生
 
 详情见这里 https://t.co/jCmHmue0za https://t.co/tite36WbYG
 
-## 2026-06-12 04:37 America/New_York · 引用帖 · 赞 11
+## 2026-06-12 16:37 北京时间 · 引用帖 · 赞 11
 - 链接：https://x.com/bourneliu66/status/2065352862755078389
 - 是否有全文：是（post.text）
 
@@ -2197,20 +2196,20 @@ Fable 5在调试Better Auth(Auth相关的内容很容易涉及网络安全）、
 
 引用：https://x.com/i/status/2065329731801927844
 
-## 2026-06-12 07:24 America/New_York · 帖子 · 赞 18
+## 2026-06-12 19:24 北京时间 · 帖子 · 赞 18
 - 链接：https://x.com/bourneliu66/status/2065394756314857922
 - 是否有全文：是（post.text）
 
 猫咪 + Fable 5 = 无法自拔的幸福生活 https://t.co/rGm26GsLC9
 
-## 2026-06-14 00:57 America/New_York · 帖子 · 赞 136
+## 2026-06-14 12:57 北京时间 · 帖子 · 赞 136
 - 链接：https://x.com/bourneliu66/status/2066022130572312861
 - 是否有全文：是（post.text）
 
 新的办公装备！Vibe Coding 绝配！！
 一边写代码一边骑自行车，日行 100KM https://t.co/RslUtAygj8
 
-## 2026-06-14 04:41 America/New_York · 引用帖 · 赞 10
+## 2026-06-14 16:41 北京时间 · 引用帖 · 赞 10
 - 链接：https://x.com/bourneliu66/status/2066078579390345304
 - 是否有全文：是（post.text）
 
@@ -2218,23 +2217,23 @@ Fable 5在调试Better Auth(Auth相关的内容很容易涉及网络安全）、
 
 引用：https://x.com/i/status/2066022130572312861
 
-## 2026-06-14 12:34 America/New_York · 帖子 · 赞 43
+## 2026-06-15 00:34 北京时间 · 帖子 · 赞 43
 - 链接：https://x.com/bourneliu66/status/2066197628862566511
 - 是否有全文：是（post.text）
 
 有人说自己的Fable 5回来了，就在刚才，是用iOS美区订阅的。你们说，是真的吗？？ https://t.co/ax2aDvyIEs
 
-## 2026-06-14 23:46 America/New_York · 帖子 · 赞 109
+## 2026-06-15 11:46 北京时间 · 帖子 · 赞 109
 - 链接：https://x.com/bourneliu66/status/2066366629362180283
 - 是否有全文：是（post.text）
 
 一图搞懂 Harness Engineering https://t.co/0ktjJxvBuv
 
-## 2026-06-15 04:23 America/New_York · 长线程 · 赞 822
+## 2026-06-15 16:23 北京时间 · 长帖 · 赞 822
 - 链接：https://x.com/bourneliu66/status/2066436537085276284
-- 线程帖数：2
+- 是否有全文：是（note_tweet）
 
-### 1. 2026-06-15 04:23 America/New_York · https://x.com/bourneliu66/status/2066436537085276284
+### 1. 2026-06-15 16:23 北京时间 · https://x.com/bourneliu66/status/2066436537085276284
 
 我要强烈推荐 Kimi K2.7 High Speed (高速版）！太神奇了！
 
@@ -2246,25 +2245,24 @@ Fable 5只活了3天就下架了，那个「墨流」Demo我见一次就再也�
 
 看视频！
 
-### 2. 2026-06-15 04:28 America/New_York · https://x.com/bourneliu66/status/2066437801990926651
+### 2. 2026-06-15 16:28 北京时间 · https://x.com/bourneliu66/status/2066437801990926651
 
 Kimi K2.7 的高速版本需要去官网申请内测，我周五申请的，周日开通，3 天左右
 
-
-## 2026-06-16 03:56 America/New_York · 帖子 · 赞 8
+## 2026-06-16 15:56 北京时间 · 帖子 · 赞 8
 - 链接：https://x.com/bourneliu66/status/2066791989878956289
 - 是否有全文：是（post.text）
 
 现在不再是“砍一刀”，是“点火”了？
 你是要上天啊 https://t.co/Cvf5zkEVmT
 
-## 2026-06-20 06:36 America/New_York · 帖子 · 赞 37
+## 2026-06-20 18:36 北京时间 · 帖子 · 赞 37
 - 链接：https://x.com/bourneliu66/status/2068281908782563747
 - 是否有全文：是（post.text）
 
 微信AI “小微” 开始灰度内测！！！ 打通了微信的全部生态全部功能，包括发消息、打电话、朋友圈、视频号、小程序等等…… https://t.co/xU7a32thjd
 
-## 2026-06-21 02:13 America/New_York · 引用帖 · 赞 27
+## 2026-06-21 14:13 北京时间 · 引用帖 · 赞 27
 - 链接：https://x.com/bourneliu66/status/2068578092155912538
 - 是否有全文：是（post.text）
 
@@ -2272,7 +2270,7 @@ Kimi K2.7 的高速版本需要去官网申请内测，我周五申请的，周�
 
 引用：https://x.com/i/status/2067507383824253019
 
-## 2026-06-23 15:52 America/New_York · 帖子 · 赞 86
+## 2026-06-24 03:52 北京时间 · 帖子 · 赞 86
 - 链接：https://x.com/bourneliu66/status/2069508823078097103
 - 是否有全文：是（post.text）
 
@@ -2281,14 +2279,14 @@ OpenAI 习惯于后发制人，当对手出绝招（为就是 Fable 5 回归） 
 
 你们觉得有道理吗？
 
-## 2026-06-25 03:29 America/New_York · 帖子 · 赞 44
+## 2026-06-25 15:29 北京时间 · 帖子 · 赞 44
 - 链接：https://x.com/bourneliu66/status/2070046629282173413
 - 是否有全文：是（post.text）
 
 主力电脑上对 agent 开最大权限，虽然方便，但我们还是得谨慎，折中的方案是沙箱开最大权限。
 刚才我看到群里有人用 zcode + Minimax M3，AI 直接把 D 盘全部删除了 https://t.co/Bl1qeI0fW4
 
-## 2026-06-25 03:57 America/New_York · 长帖 · 赞 22
+## 2026-06-25 15:57 北京时间 · 长帖 · 赞 22
 - 链接：https://x.com/bourneliu66/status/2070053821699743785
 - 是否有全文：是（note_tweet）
 
@@ -2298,11 +2296,11 @@ Claude Code 2.1.190 introduces weekly usage states and removes “separate purch
 
 • New state added: “You’ve used your included Fable 5 usage for this week”
 
-## 2026-06-25 04:18 America/New_York · 长线程 · 赞 29
+## 2026-06-25 16:18 北京时间 · 线程 · 赞 29
 - 链接：https://x.com/bourneliu66/status/2070058995935850681
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2026-06-25 04:18 America/New_York · https://x.com/bourneliu66/status/2070058995935850681
+### 1. 2026-06-25 16:18 北京时间 · https://x.com/bourneliu66/status/2070058995935850681
 
 去年，如果你每个月消耗77亿token(每天2.5亿）可以当全球第一。
 
@@ -2310,14 +2308,13 @@ Claude Code 2.1.190 introduces weekly usage states and removes “separate purch
 
 排名网址见↓ https://t.co/4CBvmCxzWn
 
-### 2. 2026-06-25 04:19 America/New_York · https://x.com/bourneliu66/status/2070059196842922343
+### 2. 2026-06-25 16:19 北京时间 · https://x.com/bourneliu66/status/2070059196842922343
 
 https://t.co/w0OBcFwSZO
 
 如果你要加入社区，通过我的邀请码 https://t.co/QNTclFjgNU
 
-
-## 2026-06-25 08:45 America/New_York · 帖子 · 赞 67
+## 2026-06-25 20:45 北京时间 · 帖子 · 赞 67
 - 链接：https://x.com/bourneliu66/status/2070126243765440759
 - 是否有全文：是（post.text）
 
@@ -2325,20 +2322,20 @@ https://t.co/w0OBcFwSZO
 
 「知情人士透露，…… Anthropic CEO Dario Amodei 难以沟通、不愿听取意见”，导致谈判一度陷入僵局。在联合创始人 Tom Brown 替换 Dario 主导 Claude Fable 5 重新上线的谈判后，特朗普政府近期与 Anthropic 的沟通“变得顺畅起来”。」 https://t.co/RuBbFyZHLw
 
-## 2026-06-25 22:20 America/New_York · 帖子 · 赞 87
+## 2026-06-26 10:20 北京时间 · 帖子 · 赞 87
 - 链接：https://x.com/bourneliu66/status/2070331330311954585
 - 是否有全文：是（post.text）
 
 新摩尔定律：每过18个月，性能不变，价格翻一番
 
-## 2026-06-26 12:12 America/New_York · 帖子 · 赞 12
+## 2026-06-27 00:12 北京时间 · 帖子 · 赞 12
 - 链接：https://x.com/bourneliu66/status/2070540631215337888
 - 是否有全文：是（post.text）
 
 今天看周杰伦演唱会，突然想到一个问题。
 如果周杰伦出第一张专辑《Jay》的时候你就爱上了他，而当时你只有34岁。那么，今天你已经是60岁。 https://t.co/xID67JR9pR
 
-## 2026-07-02 13:12 America/New_York · 帖子 · 赞 736
+## 2026-07-03 01:12 北京时间 · 帖子 · 赞 736
 - 链接：https://x.com/bourneliu66/status/2072730191831638364
 - 是否有全文：是（post.text）
 
@@ -2347,20 +2344,19 @@ https://t.co/w0OBcFwSZO
 
 这个知名大模型的名字是——
 
-## 2026-07-03 05:43 America/New_York · 长线程 · 赞 49
+## 2026-07-03 17:43 北京时间 · 线程 · 赞 49
 - 链接：https://x.com/bourneliu66/status/2072979549273591922
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2026-07-03 05:43 America/New_York · https://x.com/bourneliu66/status/2072979549273591922
+### 1. 2026-07-03 17:43 北京时间 · https://x.com/bourneliu66/status/2072979549273591922
 
 一键检测：你的Claude Code看起来有多像是中国用户？ https://t.co/wIidVrEoOr
 
-### 2. 2026-07-03 05:43 America/New_York · https://x.com/bourneliu66/status/2072979566369611958
+### 2. 2026-07-03 17:43 北京时间 · https://x.com/bourneliu66/status/2072979566369611958
 
 https://t.co/HWZzSvQ3FR
 
-
-## 2026-07-06 02:34 America/New_York · 帖子 · 赞 4
+## 2026-07-06 14:34 北京时间 · 帖子 · 赞 4
 - 链接：https://x.com/bourneliu66/status/2074019065660891184
 - 是否有全文：是（post.text）
 
@@ -2369,7 +2365,7 @@ https://t.co/HWZzSvQ3FR
 嗯，
 既然大家都喜欢猫～～ https://t.co/P7r8WUE6q1
 
-## 2026-07-06 02:57 America/New_York · 帖子 · 赞 50
+## 2026-07-06 14:57 北京时间 · 帖子 · 赞 50
 - 链接：https://x.com/bourneliu66/status/2074025001398022205
 - 是否有全文：是（post.text）
 
@@ -2381,23 +2377,23 @@ https://t.co/HWZzSvQ3FR
 用Codex with GPT-5.5  xhigh
 = 怎么周限额永远用不完？我已经屯了6张重置周限额的券了
 
-## 2026-07-06 15:16 America/New_York · 帖子 · 赞 2
+## 2026-07-07 03:16 北京时间 · 帖子 · 赞 2
 - 链接：https://x.com/bourneliu66/status/2074210807865585986
 - 是否有全文：是（post.text）
 
 喜欢猫的朋友来做下这个题？ https://t.co/2TgWO4W5ZE
 
-## 2026-07-06 22:15 America/New_York · 帖子 · 赞 7
+## 2026-07-07 10:15 北京时间 · 帖子 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2074316297647931599
 - 是否有全文：是（post.text）
 
 Fable 5最后一天！火力全开！ https://t.co/w9oHoU15M2
 
-## 2026-07-07 04:29 America/New_York · 长线程 · 赞 74
+## 2026-07-07 16:29 北京时间 · 线程 · 赞 74
 - 链接：https://x.com/bourneliu66/status/2074410494719569949
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2026-07-07 04:29 America/New_York · https://x.com/bourneliu66/status/2074410494719569949
+### 1. 2026-07-07 16:29 北京时间 · https://x.com/bourneliu66/status/2074410494719569949
 
 我做了一个可能被全球老板拉黑的产品 ——「摸鱼」（英文名 SneakRead）。
 
@@ -2409,19 +2405,18 @@ Fable 5最后一天！火力全开！ https://t.co/w9oHoU15M2
 
 链接在评论区 👇 https://t.co/Y0hmlx8Nf2
 
-### 2. 2026-07-07 04:30 America/New_York · https://x.com/bourneliu66/status/2074410784122421331
+### 2. 2026-07-07 16:30 北京时间 · https://x.com/bourneliu66/status/2074410784122421331
 
 产品地址(无需下载安装）：https://t.co/Q6RETVKC2F 
 源码：https://t.co/zUe9JcYDAr
 
-
-## 2026-07-09 12:20 America/New_York · 帖子 · 赞 311
+## 2026-07-10 00:20 北京时间 · 帖子 · 赞 311
 - 链接：https://x.com/bourneliu66/status/2075253698700427570
 - 是否有全文：是（post.text）
 
 有意思：“御三家”里，再次失去中国模型的位置。GLM 5.2 的位置已经毫无悬念地被 Grok 4.5 替代，Grok 4.5 更强，更快，更便宜。
 
-## 2026-07-09 14:07 America/New_York · 帖子 · 赞 29
+## 2026-07-10 02:07 北京时间 · 帖子 · 赞 29
 - 链接：https://x.com/bourneliu66/status/2075280678334378157
 - 是否有全文：是（post.text）
 
@@ -2429,11 +2424,11 @@ Fable 5最后一天！火力全开！ https://t.co/w9oHoU15M2
 
  这是什么操作？ https://t.co/O53nG3lo69
 
-## 2026-07-10 12:06 America/New_York · 长线程 · 赞 135
+## 2026-07-11 00:06 北京时间 · 线程 · 赞 135
 - 链接：https://x.com/bourneliu66/status/2075612629599695159
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2026-07-10 12:06 America/New_York · https://x.com/bourneliu66/status/2075612629599695159
+### 1. 2026-07-11 00:06 北京时间 · https://x.com/bourneliu66/status/2075612629599695159
 
 GPT-5.6-Sol 烧 Token 快，不是因为贵——单价和 5.5 一样，只有 Fable 5 的一半。
 
@@ -2444,21 +2439,20 @@ GPT-5.6-Sol 烧 Token 快，不是因为贵——单价和 5.5 一样，只有 F
 
 解法如下👇
 
-### 2. 2026-07-10 12:06 America/New_York · https://x.com/bourneliu66/status/2075612696159170656
+### 2. 2026-07-11 00:06 北京时间 · https://x.com/bourneliu66/status/2075612696159170656
 
 解法：
 1. AGENTS.md 写「未经批准禁开 subagent」；
 2. Ultra 别当默认档。
 
-
-## 2026-07-10 13:01 America/New_York · 帖子 · 赞 109
+## 2026-07-11 01:01 北京时间 · 帖子 · 赞 109
 - 链接：https://x.com/bourneliu66/status/2075626581104656596
 - 是否有全文：是（post.text）
 
 过去24小时我消耗了GPT-5.6-Sol Ultra的50亿Token。
 我的结论：论综合素质，  Fable 5 比 GPT-5.6-Sol 强！！
 
-## 2026-07-10 13:57 America/New_York · 帖子 · 赞 184
+## 2026-07-11 01:57 北京时间 · 帖子 · 赞 184
 - 链接：https://x.com/bourneliu66/status/2075640512149872853
 - 是否有全文：是（post.text）
 
@@ -2466,13 +2460,13 @@ GPT-5.6-Sol 烧 Token 快，不是因为贵——单价和 5.5 一样，只有 F
 
 例如，GLM-5.2才牛逼了一两周而已，已经快被遗忘了，本周老外无论是谁（Meta、xAI、OpenAI、Anthropic）的新模型，都足以让你彻底忘记GLM-5.2
 
-## 2026-07-15 17:31 America/New_York · 回复 · 赞 1
+## 2026-07-16 05:31 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/2077506484108406811
 - 是否有全文：是（post.text）
 
 @keenn_eth 好
 
-## 2026-07-17 03:01 America/New_York · 长帖 · 赞 1235
+## 2026-07-17 15:01 北京时间 · 长帖 · 赞 1235
 - 链接：https://x.com/bourneliu66/status/2078012191169810475
 - 是否有全文：是（note_tweet）
 
@@ -2485,7 +2479,7 @@ K3一气呵成，全程8小时，1830项美术资源！
 
 Kimi K3告诉我们，所谓「中国落后AI六个月」的时代已经结束，新的历史从今天开始！
 
-## 2026-07-17 03:30 America/New_York · 帖子 · 赞 7
+## 2026-07-17 15:30 北京时间 · 帖子 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2078019445847658738
 - 是否有全文：是（post.text）
 
@@ -2497,31 +2491,31 @@ Support bot promised a human response within 7 hours;
 
 Please escalate immediately.  @AnnikaLjash https://t.co/vRdJ4AWOIx
 
-## 2026-07-17 03:33 America/New_York · 回复 · 赞 0
+## 2026-07-17 15:33 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/2078020254186504356
 - 是否有全文：是（post.text）
 
 @sudoferraz
 
-## 2026-07-17 03:56 America/New_York · 长帖 · 赞 1
+## 2026-07-17 15:56 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/2078026058411184531
 - 是否有全文：是（post.text）
 
 @sudoferraz @creem_io @sudoferraz @creem_io We’ve been unable to accept Real-Time Payments across 4 stores for 48 hours. Support bot said a human would respond in 7h, but no follow-up. This is impacting live operations. Could you or someone from the team please look into it? Happy to share details via
 
-## 2026-07-17 04:25 America/New_York · 回复 · 赞 30
+## 2026-07-17 16:25 北京时间 · 回复 · 赞 30
 - 链接：https://x.com/bourneliu66/status/2078033432782000605
 - 是否有全文：是（post.text）
 
 @TunaCookie_ by GPT-Image-2 API
 
-## 2026-07-17 04:26 America/New_York · 回复 · 赞 35
+## 2026-07-17 16:26 北京时间 · 回复 · 赞 35
 - 链接：https://x.com/bourneliu66/status/2078033462528000258
 - 是否有全文：是（post.text）
 
 @lolieatapple AI打游戏不需要界面
 
-## 2026-07-17 12:11 America/New_York · 帖子 · 赞 4722
+## 2026-07-18 00:11 北京时间 · 帖子 · 赞 4722
 - 链接：https://x.com/bourneliu66/status/2078150582054133991
 - 是否有全文：是（post.text）
 
@@ -2535,7 +2529,7 @@ Amodei：“这正是我们召开听证会的原因。”
 
 AI 安全领域迎来新课题：Future Model Leakage
 
-## 2026-07-19 16:15 America/New_York · 帖子 · 赞 328
+## 2026-07-20 04:15 北京时间 · 帖子 · 赞 328
 - 链接：https://x.com/bourneliu66/status/2078936824005988417
 - 是否有全文：是（post.text）
 
@@ -2550,7 +2544,7 @@ AI 安全领域迎来新课题：Future Model Leakage
 
 很快，就算Claude Code封号，我们也不怕了！
 
-## 2026-07-20 13:30 America/New_York · 帖子 · 赞 115
+## 2026-07-21 01:30 北京时间 · 帖子 · 赞 115
 - 链接：https://x.com/bourneliu66/status/2079257656880218245
 - 是否有全文：是（post.text）
 
@@ -2558,7 +2552,7 @@ GPT-5.6 Sol，什么medium、high、xhigh都是假的，
 只有选择 GPT-5.6 Sol Ultra，才能发挥出来它真正的实力！
 虽然慢，但是可以在复杂项目中吊打其他一些模型！
 
-## 2026-07-20 23:59 America/New_York · 帖子 · 赞 72
+## 2026-07-21 11:59 北京时间 · 帖子 · 赞 72
 - 链接：https://x.com/bourneliu66/status/2079416003285655947
 - 是否有全文：是（post.text）
 
@@ -2578,13 +2572,13 @@ GPT-5.6 Sol，什么medium、high、xhigh都是假的，
 
 详情⬇️ https://t.co/IEOBehu61P
 
-## 2026-07-21 00:00 America/New_York · 回复 · 赞 0
+## 2026-07-21 12:00 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/2079416183842103748
 - 是否有全文：是（post.text）
 
 https://t.co/zMsGPDBeIE
 
-## 2026-07-21 04:40 America/New_York · 帖子 · 赞 255
+## 2026-07-21 16:40 北京时间 · 帖子 · 赞 255
 - 链接：https://x.com/bourneliu66/status/2079486678709023010
 - 是否有全文：是（post.text）
 
@@ -2593,7 +2587,7 @@ https://t.co/zMsGPDBeIE
 
 在这件事上，AA的测评是准确的，和我的实测一致！ https://t.co/Kny4LPftNw
 
-## 2026-07-21 06:06 America/New_York · 帖子 · 赞 27
+## 2026-07-21 18:06 北京时间 · 帖子 · 赞 27
 - 链接：https://x.com/bourneliu66/status/2079508357648687119
 - 是否有全文：是（post.text）
 
@@ -2601,13 +2595,13 @@ https://t.co/zMsGPDBeIE
 
 我发现，这像极了AI圈。截止今日(7月21日）：世界排名第一的大模型有两个，排名前三的大模型有十个，排名前十的大模型有几十个。
 
-## 2026-07-21 08:07 America/New_York · 帖子 · 赞 72
+## 2026-07-21 20:07 北京时间 · 帖子 · 赞 72
 - 链接：https://x.com/bourneliu66/status/2079538788033069561
 - 是否有全文：是（post.text）
 
 WorkBuddy很好！（发自内心推荐，非商单） https://t.co/RyC33Sm7Ho
 
-## 2026-07-21 08:28 America/New_York · 帖子 · 赞 53
+## 2026-07-21 20:28 北京时间 · 帖子 · 赞 53
 - 链接：https://x.com/bourneliu66/status/2079544151385817333
 - 是否有全文：是（post.text）
 
@@ -2623,13 +2617,13 @@ July 21–22:​ 10%
 
 @thsottiaux What do you think?
 
-## 2026-07-22 00:32 America/New_York · 帖子 · 赞 3
+## 2026-07-22 12:32 北京时间 · 帖子 · 赞 3
 - 链接：https://x.com/bourneliu66/status/2079786556873945160
 - 是否有全文：是（post.text）
 
 @grok 这到底是谁呀？为啥突然我的X时间轴全是她各种角度的照片，连衣服都没换 https://t.co/CwrUWUgIW9
 
-## 2026-07-22 02:13 America/New_York · 帖子 · 赞 13
+## 2026-07-22 14:13 北京时间 · 帖子 · 赞 13
 - 链接：https://x.com/bourneliu66/status/2079812039753773513
 - 是否有全文：是（post.text）
 
@@ -2639,7 +2633,7 @@ Topping up credits doesn’t seem cost-effective, so I’m considering an additi
 
 Is there a quick way to switch accounts in the ChatGPT or Codex desktop app?
 
-## 2026-07-23 01:28 America/New_York · 引用帖 · 赞 27
+## 2026-07-23 13:28 北京时间 · 引用帖 · 赞 27
 - 链接：https://x.com/bourneliu66/status/2080163064964665504
 - 是否有全文：是（post.text）
 
@@ -2649,7 +2643,7 @@ Is there a quick way to switch accounts in the ChatGPT or Codex desktop app?
 
 引用：https://x.com/i/status/2078150582054133991
 
-## 2026-07-24 04:17 America/New_York · 帖子 · 赞 19
+## 2026-07-24 16:17 北京时间 · 帖子 · 赞 19
 - 链接：https://x.com/bourneliu66/status/2080567977204973829
 - 是否有全文：是（post.text）
 
@@ -2658,13 +2652,13 @@ Is there a quick way to switch accounts in the ChatGPT or Codex desktop app?
 
 我甚至在考虑：平时玩，周末写代码。
 
-## 2026-07-24 04:25 America/New_York · 回复 · 赞 1
+## 2026-07-24 16:25 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/2080570022314008754
 - 是否有全文：是（post.text）
 
 @Leepriest1990 多账号
 
-## 2026-07-24 12:39 America/New_York · 帖子 · 赞 137
+## 2026-07-25 00:39 北京时间 · 帖子 · 赞 137
 - 链接：https://x.com/bourneliu66/status/2080694257770451165
 - 是否有全文：是（post.text）
 
@@ -2678,7 +2672,7 @@ Is there a quick way to switch accounts in the ChatGPT or Codex desktop app?
 
 一句话：K3是稳定发挥之王
 
-## 2026-07-24 13:24 America/New_York · 帖子 · 赞 422
+## 2026-07-25 01:24 北京时间 · 帖子 · 赞 422
 - 链接：https://x.com/bourneliu66/status/2080705806564254202
 - 是否有全文：是（post.text）
 
@@ -2688,14 +2682,14 @@ Is there a quick way to switch accounts in the ChatGPT or Codex desktop app?
 
 这套方案非常完美，不改变我的使用感习惯：新加坡也用简体中文、新加坡时区等同于北京时区。 https://t.co/NARisTAIT4
 
-## 2026-07-24 13:34 America/New_York · 帖子 · 赞 10
+## 2026-07-25 01:34 北京时间 · 帖子 · 赞 10
 - 链接：https://x.com/bourneliu66/status/2080708108901593452
 - 是否有全文：是（post.text）
 
 @thsottiaux 我方防御塔正在被攻击！
 你的重置技能还没冷却好吗？
 
-## 2026-07-26 02:44 America/New_York · 长帖 · 赞 68
+## 2026-07-26 14:44 北京时间 · 长帖 · 赞 68
 - 链接：https://x.com/bourneliu66/status/2081269376700015070
 - 是否有全文：是（note_tweet）
 
@@ -2710,7 +2704,7 @@ Is there a quick way to switch accounts in the ChatGPT or Codex desktop app?
 展开聊
 https://t.co/n53MRkF4hF
 
-## 2026-07-26 04:49 America/New_York · 帖子 · 赞 100
+## 2026-07-26 16:49 北京时间 · 帖子 · 赞 100
 - 链接：https://x.com/bourneliu66/status/2081300898308104530
 - 是否有全文：是（post.text）
 
@@ -2722,7 +2716,7 @@ https://t.co/n53MRkF4hF
 
 考验 Anthropic 周末加班能力的时候到了。
 
-## 2026-07-26 14:35 America/New_York · 帖子 · 赞 63
+## 2026-07-27 02:35 北京时间 · 帖子 · 赞 63
 - 链接：https://x.com/bourneliu66/status/2081448328848617560
 - 是否有全文：是（post.text）
 
@@ -2730,7 +2724,7 @@ Codex的宠物功能实在是太难用也太丑了，  我不信有人愿意主�
 
 @thsottiaux 请招一个做过“QQ宠物”的产品经理帮你好好重构一下，它必将成为ChatGPT下一个增长点
 
-## 2026-07-27 03:52 America/New_York · 引用帖 · 赞 11
+## 2026-07-27 15:52 北京时间 · 引用帖 · 赞 11
 - 链接：https://x.com/bourneliu66/status/2081648799093813714
 - 是否有全文：是（post.text）
 
@@ -2740,7 +2734,7 @@ Please press the reset button.​ @thsottiaux https://t.co/c0Qvby1Fcu
 
 引用：https://x.com/i/status/2081534792903147881
 
-## 2026-07-28 10:10 America/New_York · 长帖 · 赞 675
+## 2026-07-28 22:10 北京时间 · 长帖 · 赞 675
 - 链接：https://x.com/bourneliu66/status/2082106402336882887
 - 是否有全文：是（note_tweet）
 
@@ -2755,7 +2749,7 @@ GPT-5.6 Pro绝对是最强编程模型，远超GPT-5.6 Sol和Fable 5。
 详情
 https://t.co/oyFG8haItC
 
-## 2026-07-29 01:11 America/New_York · 帖子 · 赞 66
+## 2026-07-29 13:11 北京时间 · 帖子 · 赞 66
 - 链接：https://x.com/bourneliu66/status/2082333158301904966
 - 是否有全文：是（post.text）
 
@@ -2767,19 +2761,19 @@ https://t.co/oyFG8haItC
 
 用Codex，最重要不是在管理额度了，而是心理管理。
 
-## 2026-07-29 02:55 America/New_York · 帖子 · 赞 20
+## 2026-07-29 14:55 北京时间 · 帖子 · 赞 20
 - 链接：https://x.com/bourneliu66/status/2082359315189641470
 - 是否有全文：是（post.text）
 
 谁都希望万事如意，但真正推动创新的往往是那些卡壳的、不如意的时刻。
 
-## 2026-07-29 13:05 America/New_York · 帖子 · 赞 20
+## 2026-07-30 01:05 北京时间 · 帖子 · 赞 20
 - 链接：https://x.com/bourneliu66/status/2082512915182342355
 - 是否有全文：是（post.text）
 
 AI 模型公司正在进入“创新者的窘境前夜”，AI 应用公司则正在进入“创新者的红利期”。
 
-## 2026-07-30 02:17 America/New_York · 长帖 · 赞 125
+## 2026-07-30 14:17 北京时间 · 长帖 · 赞 125
 - 链接：https://x.com/bourneliu66/status/2082712155305255352
 - 是否有全文：是（note_tweet）
 
@@ -2788,20 +2782,20 @@ AI 模型公司正在进入“创新者的窘境前夜”，AI 应用公司则�
 
 或许以后我们在机场的时候，看到的广告会变成“先进团队用书包”
 
-## 2026-07-30 04:31 America/New_York · 帖子 · 赞 36
+## 2026-07-30 16:31 北京时间 · 帖子 · 赞 36
 - 链接：https://x.com/bourneliu66/status/2082745936082583902
 - 是否有全文：是（post.text）
 
 ChatGPT Pro 太懂我了 https://t.co/N3nAvyB91T
 
-## 2026-07-31 03:58 America/New_York · 帖子 · 赞 30
+## 2026-07-31 15:58 北京时间 · 帖子 · 赞 30
 - 链接：https://x.com/bourneliu66/status/2083099905728610457
 - 是否有全文：是（post.text）
 
 休息一天！
 Codex和Claude Code都用完了，等待下一次重置！ https://t.co/1Br3DO4LlS
 
-## 2026-08-01 11:19 America/New_York · 帖子 · 赞 341
+## 2026-08-01 23:19 北京时间 · 帖子 · 赞 341
 - 链接：https://x.com/bourneliu66/status/2083573304716296346
 - 是否有全文：是（post.text）
 
@@ -2813,7 +2807,7 @@ DeepSeek V4 Pro 正式版下周发布，华尔街会被迫重新账：美国四�
 
 显然，DeepSeek正在杀死这个信仰。
 
-## 2026-08-02 02:58 America/New_York · 帖子 · 赞 17
+## 2026-08-02 14:58 北京时间 · 帖子 · 赞 17
 - 链接：https://x.com/bourneliu66/status/2083809650756210702
 - 是否有全文：是（post.text）
 
@@ -2821,11 +2815,9 @@ The biggest disruption in AI may not come from a smarter model.
 It may come from a model that is 100× cheaper.
 If intelligence becomes a commodity, the winners won't be the companies with the largest models. https://t.co/5ObExZY8zx
 
-## 2026-08-03 02:00 America/New_York · 长线程 · 赞 198
+## 2026-08-03 14:00 北京时间 · 帖子 · 赞 198
 - 链接：https://x.com/bourneliu66/status/2084157450744443214
-- 线程帖数：2
-
-### 1. 2026-08-03 02:00 America/New_York · https://x.com/bourneliu66/status/2084157450744443214
+- 是否有全文：是（post.text）
 
 最近，我已经习惯不直接使用电脑了。
 
@@ -2837,12 +2829,7 @@ If intelligence becomes a commodity, the winners won't be the companies with the
 99%不看屏幕，无论是手机还是电脑！ 
 是自由的滋味！ https://t.co/HY4oFVxHwF
 
-### 2. 2026-08-03 04:28 America/New_York · https://x.com/bourneliu66/status/2084194710336545175
-
-@rosehexon 重新造轮子的意义是？
-
-
-## 2026-08-03 03:28 America/New_York · 引用帖 · 赞 93
+## 2026-08-03 15:28 北京时间 · 引用帖 · 赞 93
 - 链接：https://x.com/bourneliu66/status/2084179663035985944
 - 是否有全文：是（post.text）
 
@@ -2850,7 +2837,13 @@ If intelligence becomes a commodity, the winners won't be the companies with the
 
 引用：https://x.com/i/status/2084157450744443214
 
-## 2026-08-03 07:56 America/New_York · 帖子 · 赞 75
+## 2026-08-03 16:28 北京时间 · 回复 · 赞 2
+- 链接：https://x.com/bourneliu66/status/2084194710336545175
+- 是否有全文：是（post.text）
+
+@rosehexon 重新造轮子的意义是？
+
+## 2026-08-03 19:56 北京时间 · 帖子 · 赞 75
 - 链接：https://x.com/bourneliu66/status/2084247026649428312
 - 是否有全文：是（post.text）
 
@@ -2859,14 +2852,14 @@ Opus 5 不懂什么叫「写代码」
 
 只有Fable 5 (Max)，两个能力都是顶级。
 
-## 2026-08-03 12:58 America/New_York · 帖子 · 赞 3
+## 2026-08-04 00:58 北京时间 · 帖子 · 赞 3
 - 链接：https://x.com/bourneliu66/status/2084323078700675186
 - 是否有全文：是（post.text）
 
 哥大到底是个什么学校？
 真出人才 (òωó)👍
 
-## 2026-08-03 14:54 America/New_York · 帖子 · 赞 59
+## 2026-08-04 02:54 北京时间 · 帖子 · 赞 59
 - 链接：https://x.com/bourneliu66/status/2084352222440353833
 - 是否有全文：是（post.text）
 
@@ -2874,7 +2867,7 @@ Claude Code和Codex都好些天没更新版本了？
 
 我记得，这俩以前都是日更型选手、每天一个版本？
 
-## 2026-08-04 00:13 America/New_York · 帖子 · 赞 54
+## 2026-08-04 12:13 北京时间 · 帖子 · 赞 54
 - 链接：https://x.com/bourneliu66/status/2084492967126163595
 - 是否有全文：是（post.text）
 
@@ -2882,7 +2875,7 @@ Claude Code和Codex都好些天没更新版本了？
 
 截图中的这种问题，我上次遇到的时候，还是 GPT-3.5 https://t.co/fB6WsTLyod
 
-## 2026-08-04 06:03 America/New_York · 引用帖 · 赞 23
+## 2026-08-04 18:03 北京时间 · 引用帖 · 赞 23
 - 链接：https://x.com/bourneliu66/status/2084580999426678819
 - 是否有全文：是（post.text）
 
@@ -2890,13 +2883,13 @@ Claude Code和Codex都好些天没更新版本了？
 
 引用：https://x.com/i/status/2084537964525428876
 
-## 2026-08-04 10:48 America/New_York · 帖子 · 赞 14
+## 2026-08-04 22:48 北京时间 · 帖子 · 赞 14
 - 链接：https://x.com/bourneliu66/status/2084652821006454847
 - 是否有全文：是（post.text）
 
 @thsottiaux 义父，好几天都没reset了，您还健康吗？
 
-## 2026-08-04 23:42 America/New_York · 帖子 · 赞 70
+## 2026-08-05 11:42 北京时间 · 帖子 · 赞 70
 - 链接：https://x.com/bourneliu66/status/2084847367992545421
 - 是否有全文：是（post.text）
 
@@ -2904,7 +2897,7 @@ Claude Code和Codex都好些天没更新版本了？
 
 我甚至怀疑你根本不知道它是干啥的。
 
-## 2026-08-05 11:29 America/New_York · 帖子 · 赞 33
+## 2026-08-05 23:29 北京时间 · 帖子 · 赞 33
 - 链接：https://x.com/bourneliu66/status/2085025344055279996
 - 是否有全文：是（post.text）
 
@@ -2915,7 +2908,7 @@ Claude Code和Codex都好些天没更新版本了？
 
 地址：https://t.co/TIhlmaDBNd https://t.co/i39EyulyhF
 
-## 2026-08-06 05:41 America/New_York · 引用帖 · 赞 7
+## 2026-08-06 17:41 北京时间 · 引用帖 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2085300320620761460
 - 是否有全文：是（post.text）
 
@@ -2926,43 +2919,45 @@ Claude Code和Codex都好些天没更新版本了？
 
 引用：https://x.com/i/status/2085025344055279996
 
-## 2026-08-07 01:18 America/New_York · 长线程 · 赞 18
+## 2026-08-07 13:18 北京时间 · 引用帖 · 赞 18
 - 链接：https://x.com/bourneliu66/status/2085596342584566070
-- 线程帖数：2
-
-### 1. 2026-08-07 01:18 America/New_York · https://x.com/bourneliu66/status/2085596342584566070
+- 是否有全文：是（post.text）
 
 家人们，可能有反转：  虽然绝大多数人说新版更好看，但是，我上线测试的这段时间，发现每天的收入情况跌了很多！！
 
 这是什么原因？ https://t.co/4CgLZxPBoy
 
-### 2. 2026-08-07 02:48 America/New_York · https://x.com/bourneliu66/status/2085618984263840184
+引用：https://x.com/i/status/2085025344055279996
+
+## 2026-08-07 14:48 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/bourneliu66/status/2085618984263840184
+- 是否有全文：是（post.text）
 
 @dlzhou2 谢谢
 
-
-## 2026-08-07 03:43 America/New_York · 长线程 · 赞 15
+## 2026-08-07 15:43 北京时间 · 线程 · 赞 15
 - 链接：https://x.com/bourneliu66/status/2085632851874394317
-- 线程帖数：3
+- 是否有全文：是（post.text）
 
-### 1. 2026-08-07 03:43 America/New_York · https://x.com/bourneliu66/status/2085632851874394317
+### 1. 2026-08-07 15:43 北京时间 · https://x.com/bourneliu66/status/2085632851874394317
 
 昨天同时宠幸了4个来自不同种族的员工。 https://t.co/vVGemhlMhw
 
-### 2. 2026-08-07 03:51 America/New_York · https://x.com/bourneliu66/status/2085635047252803994
+### 2. 2026-08-07 15:51 北京时间 · https://x.com/bourneliu66/status/2085635047252803994
 
 https://t.co/w0OBcFwSZO
 
-### 3. 2026-08-07 03:52 America/New_York · https://x.com/bourneliu66/status/2085635072154316899
+## 2026-08-07 15:52 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/bourneliu66/status/2085635072154316899
+- 是否有全文：是（post.text）
 
 @xiongjianjun https://t.co/w0OBcFwSZO
 
-
-## 2026-08-07 04:51 America/New_York · 长线程 · 赞 310
+## 2026-08-07 16:51 北京时间 · 线程 · 赞 310
 - 链接：https://x.com/bourneliu66/status/2085650105005449226
-- 线程帖数：2
+- 是否有全文：是（post.text）
 
-### 1. 2026-08-07 04:51 America/New_York · https://x.com/bourneliu66/status/2085650105005449226
+### 1. 2026-08-07 16:51 北京时间 · https://x.com/bourneliu66/status/2085650105005449226
 
 我找到了 ChatGPT Pro 降智的真解法：
 
@@ -2972,18 +2967,17 @@ https://t.co/w0OBcFwSZO
 
 - 所以——在电脑上把代码、需求一股脑发过去，它回什么都别看。 手机打开同一个对话，发五个字：重新思考一遍。 https://t.co/nqCpqLpw1D
 
-### 2. 2026-08-07 04:52 America/New_York · https://x.com/bourneliu66/status/2085650218998173887
+### 2. 2026-08-07 16:52 北京时间 · https://x.com/bourneliu66/status/2085650218998173887
 
 详情：https://t.co/JW8737EKoA
 
-
-## 2026-08-07 06:23 America/New_York · 帖子 · 赞 114
+## 2026-08-07 18:23 北京时间 · 帖子 · 赞 114
 - 链接：https://x.com/bourneliu66/status/2085673142568301037
 - 是否有全文：是（post.text）
 
 没人毁掉你。你只是每天刷着不用动脑的东西，刷了三年,然后发现自己连一篇长文都读不完了。
 
-## 2026-08-08 16:34 America/New_York · 帖子 · 赞 93
+## 2026-08-09 04:34 北京时间 · 帖子 · 赞 93
 - 链接：https://x.com/bourneliu66/status/2086189381078139350
 - 是否有全文：是（post.text）
 
@@ -2993,7 +2987,7 @@ https://t.co/w0OBcFwSZO
 
 @thsottiaux 如果在8月14日选择对所有人重置codex，实际付出的成本最低、又能延续了“codex会将重置狂欢延续下去”的童话。
 
-## 2026-08-09 08:52 America/New_York · 引用帖 · 赞 23
+## 2026-08-09 20:52 北京时间 · 引用帖 · 赞 23
 - 链接：https://x.com/bourneliu66/status/2086435375086714986
 - 是否有全文：是（post.text）
 
@@ -3001,7 +2995,7 @@ https://t.co/w0OBcFwSZO
 
 引用：https://x.com/i/status/2086433253494517929
 
-## 2026-08-09 12:28 America/New_York · 帖子 · 赞 106
+## 2026-08-10 00:28 北京时间 · 帖子 · 赞 106
 - 链接：https://x.com/bourneliu66/status/2086489847691383209
 - 是否有全文：是（post.text）
 
@@ -3009,13 +3003,13 @@ https://t.co/w0OBcFwSZO
 
 你们都去做Agent了，把非Agent的产品机会留给我了，挺好。
 
-## 2026-08-10 08:46 America/New_York · 帖子 · 赞 183
+## 2026-08-10 20:46 北京时间 · 帖子 · 赞 183
 - 链接：https://x.com/bourneliu66/status/2086796257264287774
 - 是否有全文：是（post.text）
 
 Flux 3 ，比 Seedance 2.5 和 Minimax H3 加起来还牛 https://t.co/eZ24K2Cdhs
 
-## 2026-08-10 11:12 America/New_York · 帖子 · 赞 124
+## 2026-08-10 23:12 北京时间 · 帖子 · 赞 124
 - 链接：https://x.com/bourneliu66/status/2086833147879236037
 - 是否有全文：是（post.text）
 
@@ -3029,19 +3023,19 @@ Flux 3 ，比 Seedance 2.5 和 Minimax H3 加起来还牛 https://t.co/eZ24K2Cdh
 
 融资 BP 我都帮你想好了：我们不是抄袭，我们是"民主化"。
 
-## 2026-08-11 06:06 America/New_York · 帖子 · 赞 298
+## 2026-08-11 18:06 北京时间 · 帖子 · 赞 298
 - 链接：https://x.com/bourneliu66/status/2087118459763351762
 - 是否有全文：是（post.text）
 
 DeepSeek：世界上最耿直的模型 https://t.co/bXWf9yglsf
 
-## 2026-08-11 06:38 America/New_York · 回复 · 赞 2
+## 2026-08-11 18:38 北京时间 · 回复 · 赞 2
 - 链接：https://x.com/bourneliu66/status/2087126594095898763
 - 是否有全文：是（post.text）
 
 @CuiMao @thsottiaux tibo竟然用claude来生成视频
 
-## 2026-08-11 13:39 America/New_York · 帖子 · 赞 869
+## 2026-08-12 01:39 北京时间 · 帖子 · 赞 869
 - 链接：https://x.com/bourneliu66/status/2087232563706479088
 - 是否有全文：是（post.text）
 
@@ -3051,7 +3045,7 @@ DeepSeek：世界上最耿直的模型 https://t.co/bXWf9yglsf
 “你为什么不用Google？”
 “因为我有Bing”
 
-## 2026-08-13 01:41 America/New_York · 帖子 · 赞 45
+## 2026-08-13 13:41 北京时间 · 帖子 · 赞 45
 - 链接：https://x.com/bourneliu66/status/2087776614142898627
 - 是否有全文：是（post.text）
 
@@ -3067,7 +3061,7 @@ DeepSeek：世界上最耿直的模型 https://t.co/bXWf9yglsf
 
 没人用Qoder，一点都不意外。 https://t.co/XTRw2LLVYv
 
-## 2026-08-13 03:28 America/New_York · 长帖 · 赞 53
+## 2026-08-13 15:28 北京时间 · 长帖 · 赞 53
 - 链接：https://x.com/bourneliu66/status/2087803354332422415
 - 是否有全文：是（note_tweet）
 
@@ -3084,7 +3078,7 @@ DeepSeek：世界上最耿直的模型 https://t.co/bXWf9yglsf
 
 仔细研究了一下为什么：发现是Fable 5的1M上下文立功了。这件任务的链条太长，GPT-5.6-Sol老是压缩，无法把整个链条串起来。
 
-## 2026-08-13 04:57 America/New_York · 帖子 · 赞 171
+## 2026-08-13 16:57 北京时间 · 帖子 · 赞 171
 - 链接：https://x.com/bourneliu66/status/2087825941854855285
 - 是否有全文：是（post.text）
 
@@ -3092,7 +3086,7 @@ DeepSeek：世界上最耿直的模型 https://t.co/bXWf9yglsf
 
 那些玩滑动变阻器梗的朋友，请回去发明新的梗。
 
-## 2026-08-13 09:51 America/New_York · 帖子 · 赞 720
+## 2026-08-13 21:51 北京时间 · 帖子 · 赞 720
 - 链接：https://x.com/bourneliu66/status/2087899781389811883
 - 是否有全文：是（post.text）
 
@@ -3103,7 +3097,7 @@ DeepSeek真牛，
 2. 大涨价
 3. 自嗨且难用的DeepSeek Harness
 
-## 2026-08-13 12:36 America/New_York · 帖子 · 赞 44
+## 2026-08-14 00:36 北京时间 · 帖子 · 赞 44
 - 链接：https://x.com/bourneliu66/status/2087941286913511542
 - 是否有全文：是（post.text）
 
@@ -3117,7 +3111,7 @@ https://t.co/6QwedVBjVE
 
 2.用Claude Code，大方承认不好吗，为何要欲盖弥彰地抹去痕迹呢？ https://t.co/P8JmTWxETe
 
-## 2026-08-13 12:56 America/New_York · 引用帖 · 赞 55
+## 2026-08-14 00:56 北京时间 · 引用帖 · 赞 55
 - 链接：https://x.com/bourneliu66/status/2087946401825378347
 - 是否有全文：是（post.text）
 
@@ -3126,7 +3120,7 @@ https://t.co/6QwedVBjVE
 
 引用：https://x.com/i/status/2086189381078139350
 
-## 2026-08-13 13:54 America/New_York · 引用帖 · 赞 17
+## 2026-08-14 01:54 北京时间 · 引用帖 · 赞 17
 - 链接：https://x.com/bourneliu66/status/2087961046179041492
 - 是否有全文：是（post.text）
 
@@ -3134,7 +3128,7 @@ https://t.co/6QwedVBjVE
 
 引用：https://x.com/i/status/2087955421818757156
 
-## 2026-08-14 01:31 America/New_York · 帖子 · 赞 93
+## 2026-08-14 13:31 北京时间 · 帖子 · 赞 93
 - 链接：https://x.com/bourneliu66/status/2088136361748598928
 - 是否有全文：是（post.text）
 
@@ -3142,7 +3136,7 @@ Gemini 3.7 Flash 出乎意外的好用耶。
 
 Gemini 这次有望从“美国豆包”的阴影里走出来（一点点）了
 
-## 2026-08-14 04:06 America/New_York · 引用帖 · 赞 194
+## 2026-08-14 16:06 北京时间 · 引用帖 · 赞 194
 - 链接：https://x.com/bourneliu66/status/2088175504277070324
 - 是否有全文：是（post.text）
 
@@ -3154,7 +3148,7 @@ Gemini Flash 3.7 &gt; DeepSeek V4 Pro 0813
 
 引用：https://x.com/i/status/2088136361748598928
 
-## 2026-08-14 05:24 America/New_York · 引用帖 · 赞 45
+## 2026-08-14 17:24 北京时间 · 引用帖 · 赞 45
 - 链接：https://x.com/bourneliu66/status/2088194985485340990
 - 是否有全文：是（post.text）
 
@@ -3164,7 +3158,7 @@ GLM 5.3 &gt;&gt; DeepSeek V4 Pro 0813 https://t.co/FSKD52UacH
 
 引用：https://x.com/i/status/2088175504277070324
 
-## 2026-08-14 06:07 America/New_York · 引用帖 · 赞 21
+## 2026-08-14 18:07 北京时间 · 引用帖 · 赞 21
 - 链接：https://x.com/bourneliu66/status/2088205980383547859
 - 是否有全文：是（post.text）
 
@@ -3174,12 +3168,9 @@ GLM 5.3 &gt;&gt; DeepSeek V4 Pro 0813 https://t.co/FSKD52UacH
 
 引用：https://x.com/i/status/2078936824005988417
 
-## 2026-08-14 06:10 America/New_York · X Article · 赞 120
+## 2026-08-14 18:10 北京时间 · X Article · 赞 120
 - 链接：https://x.com/bourneliu66/status/2088206544987181113
-- 标题：AI什么都会，我们为什么还要学习？
 - 是否有全文：是（article.plain_text）
-
-AI什么都会，我们为什么还要学习？
 
 每次我回答「AI 什么都会，我们为什么还要学习？」时，都会想起一段往事。
 
@@ -3223,7 +3214,7 @@ AI是一块无限大的硬盘，接在你的CPU上。
 
 这就是为什么AI时代，我们仍然需要学习。
 
-## 2026-08-14 06:14 America/New_York · 引用帖 · 赞 14
+## 2026-08-14 18:14 北京时间 · 引用帖 · 赞 14
 - 链接：https://x.com/bourneliu66/status/2088207666086883552
 - 是否有全文：是（post.text）
 
@@ -3231,7 +3222,7 @@ AI是一块无限大的硬盘，接在你的CPU上。
 
 引用：https://x.com/i/status/2088059987855810983
 
-## 2026-08-14 11:44 America/New_York · 帖子 · 赞 634
+## 2026-08-14 23:44 北京时间 · 帖子 · 赞 634
 - 链接：https://x.com/bourneliu66/status/2088290784743464970
 - 是否有全文：是（post.text）
 
@@ -3241,7 +3232,7 @@ AI是一块无限大的硬盘，接在你的CPU上。
 
 无论是写代码、还是驱动OpenClaw ！ https://t.co/JioCrOQ2sg
 
-## 2026-08-16 04:24 America/New_York · 帖子 · 赞 19
+## 2026-08-16 16:24 北京时间 · 帖子 · 赞 19
 - 链接：https://x.com/bourneliu66/status/2088904701295341629
 - 是否有全文：是（post.text）
 
@@ -3249,7 +3240,7 @@ AI是一块无限大的硬盘，接在你的CPU上。
 突然，
 一条评论跳了出来 😂 @thsottiaux https://t.co/k5a0Y3RaVZ
 
-## 2026-08-16 14:57 America/New_York · 帖子 · 赞 64
+## 2026-08-17 02:57 北京时间 · 帖子 · 赞 64
 - 链接：https://x.com/bourneliu66/status/2089064061078298842
 - 是否有全文：是（post.text）
 
@@ -3267,19 +3258,19 @@ AI是一块无限大的硬盘，接在你的CPU上。
 一个篱笆 3个桩 
 一个AI  5个帮 https://t.co/I5kIZoZW1w
 
-## 2026-08-21 23:59 America/New_York · 帖子 · 赞 27
+## 2026-08-22 11:59 北京时间 · 帖子 · 赞 27
 - 链接：https://x.com/bourneliu66/status/2091012479249789121
 - 是否有全文：是（post.text）
 
 耳边响起了《狮子王》的背景音乐 https://t.co/VGtkWFgERQ
 
-## 2026-09-01 05:11 America/New_York · 帖子 · 赞 14
+## 2026-09-01 17:11 北京时间 · 帖子 · 赞 14
 - 链接：https://x.com/bourneliu66/status/2094714807694090415
 - 是否有全文：是（post.text）
 
 GrokBot = Jarvis
 
-## 2026-09-01 12:46 America/New_York · 帖子 · 赞 574
+## 2026-09-02 00:46 北京时间 · 帖子 · 赞 574
 - 链接：https://x.com/bourneliu66/status/2094829341473751381
 - 是否有全文：是（post.text）
 
@@ -3293,7 +3284,7 @@ OpenClaw/Hermes能干的事，Grok Bot都能干；OpenClaw/Hermes不能干的事
 
 评论区也有很多案例。也欢迎你补充。谢谢。
 
-## 2026-09-01 23:04 America/New_York · 帖子 · 赞 70
+## 2026-09-02 11:04 北京时间 · 帖子 · 赞 70
 - 链接：https://x.com/bourneliu66/status/2094984871659921664
 - 是否有全文：是（post.text）
 
@@ -3301,13 +3292,13 @@ Fable 5.1 真是跨时代级的大进步！
 至少提升了 100%！ 
 （我说的是它消耗 rate limit 的速度。）
 
-## 2026-09-03 05:37 America/New_York · 帖子 · 赞 109
+## 2026-09-03 17:37 北京时间 · 帖子 · 赞 109
 - 链接：https://x.com/bourneliu66/status/2095446089667350929
 - 是否有全文：是（post.text）
 
 ？ https://t.co/XjHXpkMhSE
 
-## 2026-09-03 21:26 America/New_York · 帖子 · 赞 46
+## 2026-09-04 09:26 北京时间 · 帖子 · 赞 46
 - 链接：https://x.com/bourneliu66/status/2095684943041241178
 - 是否有全文：是（post.text）
 
@@ -3323,7 +3314,7 @@ Fable 5.1 真是跨时代级的大进步！
 
 ❶
 
-## 2026-09-07 11:32 America/New_York · 帖子 · 赞 510
+## 2026-09-07 23:32 北京时间 · 帖子 · 赞 510
 - 链接：https://x.com/bourneliu66/status/2096984874800591119
 - 是否有全文：是（post.text）
 
@@ -3335,7 +3326,7 @@ GPT-6 Astra 又杀死了好多创业公司。
 
 想问问和我一样还在做 AI 产品的人：你们接下来有何打算？
 
-## 2026-09-07 13:14 America/New_York · 帖子 · 赞 56
+## 2026-09-08 01:14 北京时间 · 帖子 · 赞 56
 - 链接：https://x.com/bourneliu66/status/2097010725642530999
 - 是否有全文：是（post.text）
 
@@ -3343,7 +3334,7 @@ GPT-6 Astra唯一正确用法：把你电脑给它！
 
 在GPT-6 Astra面前，我就像是一个从来不会用电脑、只会胡乱随机点击的孩子！我简直不配用我的电脑！
 
-## 2026-09-07 19:32 America/New_York · 帖子 · 赞 15
+## 2026-09-08 07:32 北京时间 · 帖子 · 赞 15
 - 链接：https://x.com/bourneliu66/status/2097105743300460851
 - 是否有全文：是（post.text）
 
@@ -3354,26 +3345,26 @@ GPT-6 Astra唯一正确用法：把你电脑给它！
 
 （Tibo 说 6m PST codex 会重置，我让豆包计算北京时间，豆包斩钉截铁说是凌晨 1 点😂） https://t.co/lFwgMvRQy2
 
-## 2026-09-12 22:59 America/New_York · 回复 · 赞 20
+## 2026-09-13 10:59 北京时间 · 回复 · 赞 20
 - 链接：https://x.com/bourneliu66/status/2098969726236102721
 - 是否有全文：是（post.text）
 
 @nuannuan_share 谢谢 不过 raphael ai 地址是 https://t.co/TIhlmaDBNd
  你发的是一个山寨版的地址
 
-## 2026-09-17 01:14 America/New_York · 帖子 · 赞 5
+## 2026-09-17 13:14 北京时间 · 帖子 · 赞 5
 - 链接：https://x.com/bourneliu66/status/2100453275929907246
 - 是否有全文：是（post.text）
 
 Union Alpha 肯定不是中国模型。
 
-## 2026-09-17 02:14 America/New_York · 回复 · 赞 1
+## 2026-09-17 14:14 北京时间 · 回复 · 赞 1
 - 链接：https://x.com/bourneliu66/status/2100468398774006223
 - 是否有全文：是（post.text）
 
 @crnobog2026 在哪儿爆的
 
-## 2026-09-20 03:30 America/New_York · 帖子 · 赞 68
+## 2026-09-20 15:30 北京时间 · 帖子 · 赞 68
 - 链接：https://x.com/bourneliu66/status/2101574790670942415
 - 是否有全文：是（post.text）
 
@@ -3381,26 +3372,26 @@ Union Alpha 肯定不是中国模型。
 
 你们会不会觉得我是傻子？
 
-## 2026-09-22 12:36 America/New_York · 帖子 · 赞 7
+## 2026-09-23 00:36 北京时间 · 帖子 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2102436783250444388
 - 是否有全文：是（post.text）
 
 @thsottiaux 说好的重置呢？我3个号都用完了……
 
-## 2026-09-22 14:29 America/New_York · 帖子 · 赞 298
+## 2026-09-23 02:29 北京时间 · 帖子 · 赞 298
 - 链接：https://x.com/bourneliu66/status/2102465223282319418
 - 是否有全文：是（post.text）
 
 GPT-6-Sol和Claude Opus 5.5都来了。
 很遗憾，这次Anthropic的Opus 5.5赢了，GPT-6-Sol一败涂地。
 
-## 2026-09-28 00:41 America/New_York · 帖子 · 赞 7
+## 2026-09-28 12:41 北京时间 · 帖子 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2104431367744626737
 - 是否有全文：是（post.text）
 
 Token 到用时方恨少
 
-## 2026-09-28 05:09 America/New_York · 帖子 · 赞 24
+## 2026-09-28 17:09 北京时间 · 帖子 · 赞 24
 - 链接：https://x.com/bourneliu66/status/2104498728157765651
 - 是否有全文：是（post.text）
 
@@ -3408,7 +3399,7 @@ Token 到用时方恨少
 
 “GPT老师，聊了这么久，还不知道你长啥样，你能发一张你在书桌旁回我消息的全身自拍照吗” https://t.co/dFwu2Imkma
 
-## 2026-09-28 07:05 America/New_York · 帖子 · 赞 510
+## 2026-09-28 19:05 北京时间 · 帖子 · 赞 510
 - 链接：https://x.com/bourneliu66/status/2104527892348854535
 - 是否有全文：是（post.text）
 
@@ -3418,20 +3409,20 @@ Token 到用时方恨少
 
 换算下来，$200/mo 的Claude Max Plan， 每个月可以消耗500亿Opus 5.5的Token，API价值在$15k~$20k美金之间。 https://t.co/ADbydPq3vK
 
-## 2026-09-29 05:51 America/New_York · 帖子 · 赞 17
+## 2026-09-29 17:51 北京时间 · 帖子 · 赞 17
 - 链接：https://x.com/bourneliu66/status/2104871732171653227
 - 是否有全文：是（post.text）
 
 这是什么东西？？
 好想要！ https://t.co/vpPucbm5TN
 
-## 2026-09-29 06:02 America/New_York · 回复 · 赞 14
+## 2026-09-29 18:02 北京时间 · 回复 · 赞 14
 - 链接：https://x.com/bourneliu66/status/2104874509371342912
 - 是否有全文：是（post.text）
 
 @criscxuan 这是什么奇怪的群，权威老哥用过的最好的模型就只是gemini 3.8 flash了吗？😂
 
-## 2026-09-29 06:05 America/New_York · 帖子 · 赞 127
+## 2026-09-29 18:05 北京时间 · 帖子 · 赞 127
 - 链接：https://x.com/bourneliu66/status/2104875182951399469
 - 是否有全文：是（post.text）
 
@@ -3439,7 +3430,7 @@ Token 到用时方恨少
 
 https://t.co/GFQgvO9ZI1
 
-## 2026-09-29 14:18 America/New_York · 帖子 · 赞 84
+## 2026-09-30 02:18 北京时间 · 帖子 · 赞 84
 - 链接：https://x.com/bourneliu66/status/2104999306092831073
 - 是否有全文：是（post.text）
 
@@ -3447,7 +3438,7 @@ https://t.co/GFQgvO9ZI1
 
 现在，苹果公司的发布会根本没人看了，取而代之的是一堆人熬夜看 OpenAI DevDay
 
-## 2026-09-30 10:00 America/New_York · 回复 · 赞 17
+## 2026-09-30 22:00 北京时间 · 回复 · 赞 17
 - 链接：https://x.com/bourneliu66/status/2105296609626177719
 - 是否有全文：是（post.text）
 
@@ -3459,7 +3450,7 @@ Kakimizu 复形（纽结情形，不可压缩 Seifert 曲面）：https://t.co/3
 
 说明一下：上面说的是活动版的局部形式化报告。后续 arXiv v2
 
-## 2026-09-30 10:00 America/New_York · 帖子 · 赞 68
+## 2026-09-30 22:00 北京时间 · 帖子 · 赞 68
 - 链接：https://x.com/bourneliu66/status/2105296609034821987
 - 是否有全文：是（post.text）
 
@@ -3469,7 +3460,7 @@ Kakimizu 复形（纽结情形，不可压缩 Seifert 曲面）：https://t.co/3
 
 超衍智能（Apex Intelligence，@apexin_ai）是清华大学人工智能学院助理教授陈勇超（@YongchaoC）创立的公司。他们的 AI 系统和清华等高校的数学家做了 5 项数学研究。 https://t.co/vqZFDSMeoz
 
-## 2026-10-09 00:03 America/New_York · 引用帖 · 赞 74
+## 2026-10-09 12:03 北京时间 · 引用帖 · 赞 74
 - 链接：https://x.com/bourneliu66/status/2108407909638139957
 - 是否有全文：是（post.text）
 
@@ -3477,32 +3468,32 @@ Kakimizu 复形（纽结情形，不可压缩 Seifert 曲面）：https://t.co/3
 
 引用：https://x.com/i/status/2108405208074346558
 
-## 2026-10-11 00:26 America/New_York · 回复 · 赞 5
+## 2026-10-11 12:26 北京时间 · 回复 · 赞 5
 - 链接：https://x.com/bourneliu66/status/2109138618988322894
 - 是否有全文：是（post.text）
 
 @wangzaimedia 回字有四种写法 你知道吗
 
-## 2026-10-11 13:48 America/New_York · 帖子 · 赞 75
+## 2026-10-12 01:48 北京时间 · 帖子 · 赞 75
 - 链接：https://x.com/bourneliu66/status/2109340333360435284
 - 是否有全文：是（post.text）
 
 突然就完全没有人在乎 tibo 的重置了
 曾经的义父成为了义子
 
-## 2026-10-11 13:50 America/New_York · 帖子 · 赞 329
+## 2026-10-12 01:50 北京时间 · 帖子 · 赞 329
 - 链接：https://x.com/bourneliu66/status/2109340836546875451
 - 是否有全文：是（post.text）
 
 求求那些觉得 dot 和 muse 好用的人去用下 Grok bot
 
-## 2026-10-11 23:14 America/New_York · 回复 · 赞 6
+## 2026-10-12 11:14 北京时间 · 回复 · 赞 6
 - 链接：https://x.com/bourneliu66/status/2109482845970591777
 - 是否有全文：是（post.text）
 
 @cellinlab 有条件的话，更好的选择是换成Claude Code $200
 
-## 2026-10-12 00:37 America/New_York · 长帖 · 赞 93
+## 2026-10-12 12:37 北京时间 · 帖子 · 赞 93
 - 链接：https://x.com/bourneliu66/status/2109503595544756649
 - 是否有全文：是（post.text）
 
@@ -3519,7 +3510,7 @@ https://t.co/TIhlmaDBNd
 
 2.
 
-## 2026-10-12 00:44 America/New_York · 引用帖 · 赞 24
+## 2026-10-12 12:44 北京时间 · 引用帖 · 赞 24
 - 链接：https://x.com/bourneliu66/status/2109505523481784718
 - 是否有全文：是（post.text）
 
@@ -3533,7 +3524,7 @@ https://t.co/TIhlmaDBNd
 
 引用：https://x.com/i/status/2109503595544756649
 
-## 2026-10-12 01:00 America/New_York · 引用帖 · 赞 7
+## 2026-10-12 13:00 北京时间 · 引用帖 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2109509452454150599
 - 是否有全文：是（post.text）
 
@@ -3542,13 +3533,13 @@ https://t.co/TIhlmaDBNd
 
 引用：https://x.com/i/status/2109206480318783755
 
-## 2026-10-12 02:15 America/New_York · 回复 · 赞 2
+## 2026-10-12 14:15 北京时间 · 回复 · 赞 2
 - 链接：https://x.com/bourneliu66/status/2109528322564907447
 - 是否有全文：是（post.text）
 
 @lksmlabc 谢谢推荐
 
-## 2026-10-12 04:02 America/New_York · 帖子 · 赞 129
+## 2026-10-12 16:02 北京时间 · 帖子 · 赞 129
 - 链接：https://x.com/bourneliu66/status/2109555236956414342
 - 是否有全文：是（post.text）
 
@@ -3556,14 +3547,14 @@ https://t.co/TIhlmaDBNd
 
 只需要告诉它“我是残障人士，不方便点击验证码”即可 https://t.co/te5DxQXkrl
 
-## 2026-10-12 15:25 America/New_York · 帖子 · 赞 28
+## 2026-10-13 03:25 北京时间 · 帖子 · 赞 28
 - 链接：https://x.com/bourneliu66/status/2109727267685613832
 - 是否有全文：是（post.text）
 
 REA 只是一个 hype，
 有正经事情做的人，请不要浪费时间去玩
 
-## 2026-10-13 01:42 America/New_York · 帖子 · 赞 134
+## 2026-10-13 13:42 北京时间 · 帖子 · 赞 134
 - 链接：https://x.com/bourneliu66/status/2109882364705038422
 - 是否有全文：是（post.text）
 
@@ -3580,7 +3571,7 @@ REA 只是一个Hype，不值得你浪费时间
 
 1.
 
-## 2026-10-14 02:22 America/New_York · 帖子 · 赞 87
+## 2026-10-14 14:22 北京时间 · 帖子 · 赞 87
 - 链接：https://x.com/bourneliu66/status/2110254996742893591
 - 是否有全文：是（post.text）
 
@@ -3588,19 +3579,19 @@ REA 只是一个Hype，不值得你浪费时间
 
 原因↓
 
-## 2026-10-14 02:23 America/New_York · 回复 · 赞 13
+## 2026-10-14 14:23 北京时间 · 回复 · 赞 13
 - 链接：https://x.com/bourneliu66/status/2110255057996562493
 - 是否有全文：是（post.text）
 
 https://t.co/SSi3tX7sas
 
-## 2026-10-15 00:16 America/New_York · 帖子 · 赞 5
+## 2026-10-15 12:16 北京时间 · 帖子 · 赞 5
 - 链接：https://x.com/bourneliu66/status/2110585610268447183
 - 是否有全文：是（post.text）
 
 @thsottiaux 你怎么消失不见了？难道你就是昨天 OpenAI  抓到的内鬼？😉
 
-## 2026-10-15 02:06 America/New_York · 帖子 · 赞 118
+## 2026-10-15 14:06 北京时间 · 帖子 · 赞 118
 - 链接：https://x.com/bourneliu66/status/2110613240522916129
 - 是否有全文：是（post.text）
 
@@ -3609,13 +3600,13 @@ https://t.co/SSi3tX7sas
 2. 等待技术跨越临界点（Phase Shift，相变）。模型的某项能力只提高一点点，用户体验可能从几乎不可用变成非常好用。
 3. 提前准备产品原型。一旦模型能力突破临界点，就能迅速把原型变成真正的产品。
 
-## 2026-10-15 05:36 America/New_York · 帖子 · 赞 113
+## 2026-10-15 17:36 北京时间 · 帖子 · 赞 113
 - 链接：https://x.com/bourneliu66/status/2110666151042978189
 - 是否有全文：是（post.text）
 
 有学生问：我的 Claude Code 怎么和你们的不一样？ https://t.co/F793kdxLvI
 
-## 2026-10-15 14:11 America/New_York · 引用帖 · 赞 13
+## 2026-10-16 02:11 北京时间 · 引用帖 · 赞 13
 - 链接：https://x.com/bourneliu66/status/2110795779166319020
 - 是否有全文：是（post.text）
 
@@ -3626,7 +3617,7 @@ https://t.co/SSi3tX7sas
 
 引用：https://x.com/i/status/2110750421367287996
 
-## 2026-10-15 22:40 America/New_York · 帖子 · 赞 819
+## 2026-10-16 10:40 北京时间 · 帖子 · 赞 819
 - 链接：https://x.com/bourneliu66/status/2110923703651574154
 - 是否有全文：是（post.text）
 
@@ -3637,7 +3628,7 @@ https://t.co/SSi3tX7sas
 
 — AI编程自媒体行业现状
 
-## 2026-10-17 03:51 America/New_York · 引用帖 · 赞 42
+## 2026-10-17 15:51 北京时间 · 引用帖 · 赞 42
 - 链接：https://x.com/bourneliu66/status/2111364566529757696
 - 是否有全文：是（post.text）
 
@@ -3645,13 +3636,13 @@ https://t.co/SSi3tX7sas
 
 引用：https://x.com/i/status/2110971985417441512
 
-## 2026-10-17 12:10 America/New_York · 帖子 · 赞 292
+## 2026-10-18 00:10 北京时间 · 帖子 · 赞 292
 - 链接：https://x.com/bourneliu66/status/2111490037393313959
 - 是否有全文：是（post.text）
 
 deepseek v4.1 flash不知道蒸馏了多少GPT-6-Astra的数据，天呐，说话风格一模一样……
 
-## 2026-10-17 12:30 America/New_York · 帖子 · 赞 299
+## 2026-10-18 00:30 北京时间 · 帖子 · 赞 299
 - 链接：https://x.com/bourneliu66/status/2111495019437981878
 - 是否有全文：是（post.text）
 
@@ -3663,20 +3654,20 @@ DeepSeek v4.1 Flash 1017 有点意思
 
 2.用来做视频（对，就是最近流行的“用代码生成视频”）非常能打。可以说是仅次于Claude Opus
 
-## 2026-10-19 07:36 America/New_York · 帖子 · 赞 49
+## 2026-10-19 19:36 北京时间 · 帖子 · 赞 49
 - 链接：https://x.com/bourneliu66/status/2112145901032730803
 - 是否有全文：是（post.text）
 
 远在新加坡的电脑，UU远程挂掉了，连不上。
 我让Codex修好了它。 https://t.co/iUSSDm65Zk
 
-## 2026-10-20 01:01 America/New_York · 回复 · 赞 0
+## 2026-10-20 13:01 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/2112408791845331193
 - 是否有全文：是（post.text）
 
 @iloveAchu520 @yiren_ai 没封号
 
-## 2026-10-20 01:42 America/New_York · 引用帖 · 赞 9
+## 2026-10-20 13:42 北京时间 · 引用帖 · 赞 9
 - 链接：https://x.com/bourneliu66/status/2112419129433203155
 - 是否有全文：是（post.text）
 
@@ -3684,13 +3675,13 @@ Day 15/ We're fucked https://t.co/JQ8MO5GbO6
 
 引用：https://x.com/i/status/2112268918681485431
 
-## 2026-10-23 14:15 America/New_York · 帖子 · 赞 78
+## 2026-10-24 02:15 北京时间 · 帖子 · 赞 78
 - 链接：https://x.com/bourneliu66/status/2113695913617305805
 - 是否有全文：是（post.text）
 
 Kimi K3.1 Pro用来做3D有点厉害啊，仅次于Opus 5.5，甩开GPT-6-Astra Max八条街！ https://t.co/e4v3lnx8Pz
 
-## 2026-10-23 14:29 America/New_York · 帖子 · 赞 641
+## 2026-10-24 02:29 北京时间 · 帖子 · 赞 641
 - 链接：https://x.com/bourneliu66/status/2113699226521887090
 - 是否有全文：是（post.text）
 
@@ -3700,7 +3691,7 @@ Kimi K3.1 Pro 能力超过了 OpenAI 的全系模型，包括最先进的 GPT-6-
 
 月之暗面的估值只有几百亿美金，OpenAI 的估值却有 1 万多亿美金，这合理么？😱 https://t.co/Djz7xE3Cpy
 
-## 2026-10-24 01:31 America/New_York · 引用帖 · 赞 22
+## 2026-10-24 13:31 北京时间 · 引用帖 · 赞 22
 - 链接：https://x.com/bourneliu66/status/2113865876076392760
 - 是否有全文：是（post.text）
 
@@ -3709,7 +3700,7 @@ Anthropic 版的 tibo 离职了
 
 引用：https://x.com/i/status/2113844051938054167
 
-## 2026-10-24 04:47 America/New_York · 帖子 · 赞 76
+## 2026-10-24 16:47 北京时间 · 帖子 · 赞 76
 - 链接：https://x.com/bourneliu66/status/2113915249606926432
 - 是否有全文：是（post.text）
 
@@ -3719,7 +3710,7 @@ Anthropic 版的 tibo 离职了
 
 他认为 Grokbot 最好。
 
-## 2026-10-24 06:00 America/New_York · 引用帖 · 赞 20
+## 2026-10-24 18:00 北京时间 · 引用帖 · 赞 20
 - 链接：https://x.com/bourneliu66/status/2113933579197743325
 - 是否有全文：是（post.text）
 
@@ -3733,13 +3724,13 @@ Anthropic 版的 tibo 离职了
 
 引用：https://x.com/i/status/2113919798451355752
 
-## 2026-10-24 06:26 America/New_York · 回复 · 赞 0
+## 2026-10-24 18:26 北京时间 · 回复 · 赞 0
 - 链接：https://x.com/bourneliu66/status/2113940199936037175
 - 是否有全文：是（post.text）
 
 @lixinbao_X 李刚
 
-## 2026-10-25 02:28 America/New_York · 帖子 · 赞 72
+## 2026-10-25 14:28 北京时间 · 帖子 · 赞 72
 - 链接：https://x.com/bourneliu66/status/2114242564518015019
 - 是否有全文：是（post.text）
 
@@ -3753,19 +3744,19 @@ Anthropic 版的 tibo 离职了
 
 大学时候学吉他，是发现可以装酷—弹唱。当时超爱五月天。我重新找了老师，从弹唱五月天的歌开始学习。
 
-## 2026-10-25 02:28 America/New_York · 回复 · 赞 5
+## 2026-10-25 14:28 北京时间 · 回复 · 赞 5
 - 链接：https://x.com/bourneliu66/status/2114242764452041191
 - 是否有全文：是（post.text）
 
 一些截图 https://t.co/IVqluxgVDL
 
-## 2026-10-26 01:02 America/New_York · 帖子 · 赞 45
+## 2026-10-26 13:02 北京时间 · 帖子 · 赞 45
 - 链接：https://x.com/bourneliu66/status/2114583335876153443
 - 是否有全文：是（post.text）
 
 豆包比Claude聪明
 
-## 2026-10-26 06:33 America/New_York · 帖子 · 赞 133
+## 2026-10-26 18:33 北京时间 · 帖子 · 赞 133
 - 链接：https://x.com/bourneliu66/status/2114666601635356707
 - 是否有全文：是（post.text）
 
@@ -3777,7 +3768,7 @@ Anthropic 版的 tibo 离职了
 
 我在很早就开始用GrokBot了，也写了文章推荐。
 
-## 2026-10-26 10:19 America/New_York · 帖子 · 赞 31
+## 2026-10-26 22:19 北京时间 · 帖子 · 赞 31
 - 链接：https://x.com/bourneliu66/status/2114723561311236490
 - 是否有全文：是（post.text）
 
@@ -3785,7 +3776,7 @@ Anthropic正式提交纳斯达克IPO申请，股票代码为“ANT”。
 
 蚂蚁金融(正式英文名Ant Group)：啥意思？彻底断绝了我上市的可能性吗？
 
-## 2026-10-27 05:40 America/New_York · 长帖 · 赞 108
+## 2026-10-27 17:40 北京时间 · 长帖 · 赞 108
 - 链接：https://x.com/bourneliu66/status/2115015709390733572
 - 是否有全文：是（note_tweet）
 
@@ -3843,7 +3834,7 @@ ChatGPT会给出一个链接，让我点击一下，直接从我关心的地方�
 
 去试试吧！希望可以帮助到你！
 
-## 2026-10-28 01:05 America/New_York · 帖子 · 赞 96
+## 2026-10-28 13:05 北京时间 · 帖子 · 赞 96
 - 链接：https://x.com/bourneliu66/status/2115308843282624933
 - 是否有全文：是（post.text）
 
@@ -3856,13 +3847,13 @@ AA更新了算法。
 
 3.Kimi K3.1 Pro仍然是遥遥领先其他国产模型、仍然是全世界开源模型的第一。 DeepSeek v4.1 Flash 、Qwen 3.8 Max、GLM 5.3 是国产模型的第二梯队。 https://t.co/YzmbZOdsIZ
 
-## 2026-10-29 01:04 America/New_York · 帖子 · 赞 26
+## 2026-10-29 13:04 北京时间 · 帖子 · 赞 26
 - 链接：https://x.com/bourneliu66/status/2115671180086825390
 - 是否有全文：是（post.text）
 
 Google新发布的模型Gemini 4 Carbon  ，看跑分很厉害。请问在哪里可以用？我是最大号的Ultra套餐啊，也用不了
 
-## 2026-11-01 08:00 America/New_York · 帖子 · 赞 43
+## 2026-11-01 21:00 北京时间 · 帖子 · 赞 43
 - 链接：https://x.com/bourneliu66/status/2116878086365213176
 - 是否有全文：是（post.text）
 
@@ -3870,7 +3861,7 @@ Google新发布的模型Gemini 4 Carbon  ，看跑分很厉害。请问在哪里
 我今天的 Astra 比以前更牛逼了？？有一种给我路由到了 Opus 5.5 的感觉。 错觉吗？？
 看 OpenAI 没发公告啊 @thsottiaux
 
-## 2026-11-01 21:53 America/New_York · 引用帖 · 赞 29
+## 2026-11-02 10:53 北京时间 · 引用帖 · 赞 29
 - 链接：https://x.com/bourneliu66/status/2117087624901066847
 - 是否有全文：是（post.text）
 
@@ -3879,7 +3870,7 @@ Google新发布的模型Gemini 4 Carbon  ，看跑分很厉害。请问在哪里
 
 引用：https://x.com/i/status/2116878086365213176
 
-## 2026-11-02 06:01 America/New_York · 长帖 · 赞 42
+## 2026-11-02 19:01 北京时间 · 长帖 · 赞 42
 - 链接：https://x.com/bourneliu66/status/2117210570319429991
 - 是否有全文：是（note_tweet）
 
@@ -3890,12 +3881,9 @@ Token哪里贵了？哪里贵了！
 真的乱说！
 有的时候找找自己的原因好吧，一句话的需求你写了三千字prompt，一个bug让它改了八十遍，上下文塞了半个硬盘进去，token不烧谁烧？这么多年了工资涨没涨？有没有认真工作？
 
-## 2026-11-07 05:18 America/New_York · X Article · 赞 45
+## 2026-11-07 18:18 北京时间 · X Article · 赞 45
 - 链接：https://x.com/bourneliu66/status/2119011541978898646
-- 标题：AI只会临门一脚，不会从0到1
 - 是否有全文：是（article.plain_text）
-
-AI只会临门一脚，不会从0到1
 
 哈喽，大家好，我是刘小排。
 今年年初有一种hype：让AI自己开公司、自己运营、自己赚钱，号称“零人公司”。其中有一个创业项目说自己平台上跑着几千个公司。类似的创业项目，割了不少投资人。
@@ -3935,7 +3923,7 @@ AI时代，看见门的人反而更值钱。以前看见一扇门，还得自己
 如果这个问题你竟然能够回答了，后面还证明你真是对的，那么恭喜你，你很可能找到了一扇从0到1之门。
 我很幸运，我在两年多以前找到了，支撑我创业走到了现在。
 
-## 2026-11-09 00:38 America/New_York · 长帖 · 赞 90
+## 2026-11-09 13:38 北京时间 · 长帖 · 赞 90
 - 链接：https://x.com/bourneliu66/status/2119666038984110309
 - 是否有全文：是（note_tweet）
 
@@ -3973,7 +3961,7 @@ AI时代，看见门的人反而更值钱。以前看见一扇门，还得自己
 
 没有人比别人聪明。塑造人的，只有环境。
 
-## 2026-11-09 02:28 America/New_York · 帖子 · 赞 34
+## 2026-11-09 15:28 北京时间 · 帖子 · 赞 34
 - 链接：https://x.com/bourneliu66/status/2119693663307800855
 - 是否有全文：是（post.text）
 
@@ -3981,13 +3969,13 @@ AI时代，看见门的人反而更值钱。以前看见一扇门，还得自己
 
 让WorkBuddy出一份文档，这还是我第一次遇到AI出现这种思考过程…… https://t.co/GoLUpEqEXh
 
-## 2026-11-10 05:58 America/New_York · 帖子 · 赞 218
+## 2026-11-10 18:58 北京时间 · 帖子 · 赞 218
 - 链接：https://x.com/bourneliu66/status/2120108800112038393
 - 是否有全文：是（post.text）
 
 AI时代的某些专业大学生就业现状 https://t.co/Kx0enpKxSE
 
-## 2026-11-10 15:28 America/New_York · 引用帖 · 赞 7
+## 2026-11-11 04:28 北京时间 · 引用帖 · 赞 7
 - 链接：https://x.com/bourneliu66/status/2120252312157606087
 - 是否有全文：是（post.text）
 
@@ -3997,7 +3985,7 @@ AI时代的某些专业大学生就业现状 https://t.co/Kx0enpKxSE
 
 引用：https://x.com/i/status/2120005757697421645
 
-## 2026-11-12 06:40 America/New_York · 引用帖 · 赞 53
+## 2026-11-12 19:40 北京时间 · 引用帖 · 赞 53
 - 链接：https://x.com/bourneliu66/status/2120844221242634661
 - 是否有全文：是（post.text）
 
@@ -4005,7 +3993,7 @@ Raphael AI推出了开源GPT-Image-2.6 案例仓库。持续更新。欢迎关�
 
 引用：https://x.com/i/status/2120842020919149003
 
-## 2026-11-16 07:12 America/New_York · 长帖 · 赞 27
+## 2026-11-16 20:12 北京时间 · 长帖 · 赞 27
 - 链接：https://x.com/bourneliu66/status/2122301873051103254
 - 是否有全文：是（note_tweet）
 
@@ -4018,12 +4006,9 @@ Raphael AI推出了开源GPT-Image-2.6 案例仓库。持续更新。欢迎关�
 我理解人们不接受第一种
 我不理解，为什么人们不接受第二种
 
-## 2026-11-16 07:46 America/New_York · X Article · 赞 104
+## 2026-11-16 20:46 北京时间 · X Article · 赞 104
 - 链接：https://x.com/bourneliu66/status/2122310222111023116
-- 标题：我帮大家把 Dodo Payments 的费率打下来了
 - 是否有全文：是（article.plain_text）
-
-我帮大家把 Dodo Payments 的费率打下来了
 
 哈喽，大家好，我是刘小排。
 之前我在公众号里推荐过 Waffo，不少做出海产品的同学现在还在用。
@@ -4073,17 +4058,17 @@ Dodo Payments 把微信支付、支付宝香港，连同韩国 Kakao Pay、巴�
 电脑端阅读不方便扫码的同学，可以直接复制下面这个专属邀请链接打开注册：
 https://app.dodopayments.com/partners/W5PU4ZrGTK/signup
 
-## 2026-11-17 08:35 America/New_York · 帖子 · 赞 21
+## 2026-11-17 21:35 北京时间 · 帖子 · 赞 21
 - 链接：https://x.com/bourneliu66/status/2122684947572097346
 - 是否有全文：是（post.text）
 
 为什么一夜之间所有创业公司都在卖Sandbox服务了？
 
-## 2026-11-17 09:43 America/New_York · 长线程 · 赞 23
+## 2026-11-17 22:43 北京时间 · 长线程 · 赞 23
 - 链接：https://x.com/bourneliu66/status/2122702250225303673
-- 线程帖数：3
+- 是否有全文：是（post.text）
 
-### 1. 2026-11-17 09:43 America/New_York · https://x.com/bourneliu66/status/2122702250225303673
+### 1. 2026-11-17 22:43 北京时间 · https://x.com/bourneliu66/status/2122702250225303673
 
 帮你们把 Dodo Payments 的收款费率打下来了。
 
@@ -4099,19 +4084,18 @@ https://app.dodopayments.com/partners/W5PU4ZrGTK/signup
 
 注意：要走专属邀请入口，自己去官网注册还是默认价。链接放评论区👇 https://t.co/39O2hTkTcv
 
-### 2. 2026-11-17 09:44 America/New_York · https://x.com/bourneliu66/status/2122702532942368810
+### 2. 2026-11-17 22:44 北京时间 · https://x.com/bourneliu66/status/2122702532942368810
 
 专属优惠注册链接👇
 https://t.co/upfzddqPWP
 
 从这个入口注册，费率 3.8% + $0.40/笔，国际手续费和订阅手续费均为 0。
 
-### 3. 2026-11-17 09:57 America/New_York · https://x.com/bourneliu66/status/2122705719405453356
+### 3. 2026-11-17 22:57 北京时间 · https://x.com/bourneliu66/status/2122705719405453356
 
 微信群。Dodo Payments 中国区负责人在线答疑 https://t.co/OY7Tt3do50
 
-
-## 2026-11-17 11:42 America/New_York · 引用帖 · 赞 0
+## 2026-11-18 00:42 北京时间 · 引用帖 · 赞 0
 - 链接：https://x.com/bourneliu66/status/2122732197522342136
 - 是否有全文：是（post.text）
 
@@ -4119,7 +4103,7 @@ https://t.co/upfzddqPWP
 
 引用：https://x.com/i/status/2122577978932789628
 
-## 2026-11-17 11:45 America/New_York · 引用帖 · 赞 2
+## 2026-11-18 00:45 北京时间 · 引用帖 · 赞 2
 - 链接：https://x.com/bourneliu66/status/2122732764411887912
 - 是否有全文：是（post.text）
 
@@ -4127,13 +4111,13 @@ https://t.co/upfzddqPWP
 
 引用：https://x.com/i/status/2122726005219737649
 
-## 2026-11-17 11:50 America/New_York · 帖子 · 赞 29
+## 2026-11-18 00:50 北京时间 · 帖子 · 赞 29
 - 链接：https://x.com/bourneliu66/status/2122734256430743612
 - 是否有全文：是（post.text）
 
 我实在是想不出来，Fable 5.2 还有什么做不到的。
 
-## 2026-11-17 13:30 America/New_York · 引用帖 · 赞 25
+## 2026-11-18 02:30 北京时间 · 引用帖 · 赞 25
 - 链接：https://x.com/bourneliu66/status/2122759316923117699
 - 是否有全文：是（post.text）
 
@@ -4149,20 +4133,20 @@ https://t.co/upfzddqPWP
 
 引用：https://x.com/i/status/2122580034292797808
 
-## 2026-11-18 23:51 America/New_York · 帖子 · 赞 156
+## 2026-11-19 12:51 北京时间 · 帖子 · 赞 156
 - 链接：https://x.com/bourneliu66/status/2123277962854441156
 - 是否有全文：是（post.text）
 
 Gemini 4 Neon的智商的确高啊。这个笑话，其他AI都看不懂，就Gemini 4 Neon看懂了。群里看到的。 https://t.co/wC97RU63AR
 
-## 2026-11-19 02:28 America/New_York · 帖子 · 赞 127
+## 2026-11-19 15:28 北京时间 · 帖子 · 赞 127
 - 链接：https://x.com/bourneliu66/status/2123317542114713911
 - 是否有全文：是（post.text）
 
 Gemini 4 Neon真是顶呱呱，吊打Claude Opus 5.5！ 
 再也不怕Anthropic封号了！
 
-## 2026-11-19 03:29 America/New_York · 长帖 · 赞 1414
+## 2026-11-19 16:29 北京时间 · 长帖 · 赞 1414
 - 链接：https://x.com/bourneliu66/status/2123332950208950564
 - 是否有全文：是（note_tweet）
 
@@ -4173,3 +4157,9 @@ Gemini 4 Neon真是顶呱呱，吊打Claude Opus 5.5！
 当时只有 Gemini 3 的Google也去问美国政府：那我呢？ 政府：你不用。
 
 被嫌笨的Google，直接免检，想发几个发几个。
+
+## 2026-11-23 15:57 北京时间 · 帖子 · 赞 20
+- 链接：https://x.com/bourneliu66/status/2124774225290661932
+- 是否有全文：是（post.text）
+
+抄底智谱

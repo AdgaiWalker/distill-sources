@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "author_id": "2815325906",
+      "conversation_id": "2124774225290661932",
+      "created_at": "2026-11-23T07:57:06.000Z",
+      "edit_history_tweet_ids": [
+        "2124774225290661932"
+      ],
+      "id": "2124774225290661932",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 14229,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 20,
+        "retweet_count": 0
+      },
+      "text": "抄底智谱",
+      "url": "https://x.com/bourneliu66/status/2124774225290661932"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2014-09-17T17:37:10.000Z",
+        "description": "AI Product Founder · Building in Public\nRaphael  https://t.co/tJOiC32ULa",
+        "id": "2815325906",
+        "name": "刘小排",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955860656919625728/sCkP_hTF_normal.png",
+        "public_metrics": {
+          "followers_count": 36539,
+          "following_count": 116,
+          "like_count": 36,
+          "listed_count": 476,
+          "media_count": 217,
+          "tweet_count": 493
+        },
+        "username": "bourneliu66",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2124774225290661932",
+    "oldest_id": "2124774225290661932",
+    "result_count": 1
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": [],
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2124032581309956096",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXoUYQxWAAAX1Aj.jpg",
+        "width": 1500
+      },
+      {
+        "height": 720,
+        "media_key": "3_2124035185167478784",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXoWv05WsAAWH7T.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2124034821844242432",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXoWaraWEAAmZf9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2124035041080557568",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXoWncIWwAAEWUM.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2124035418911903744",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXoW9bqXkAAguKZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2124035341447262208",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXoW47FW8AAatW2.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124662105471369216"
+          ]
+        },
+        "author_id": "1888255278170394624",
+        "created_at": "2026-11-23T00:31:39.000Z",
+        "edit_history_tweet_ids": [
+          "2124662126551998614"
+        ],
+        "id": "2124662126551998614",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "看到周边朋友接二连三跃升万粉大神，隔着屏幕替你们感到高兴@bbkirstry @cgnot996 。我也体会了一下流量爆棚的感觉 哈哈哈😁 单条短视频播放量过亿是不是也值得好好开心一下☺️ \n\nhttps://t.co/dubw7SABn1\n\n实时播放量：130,931,417 https://t.co/l7HaU5qPlF"
+      },
+      {
+        "author_id": "1997889576187387904",
+        "created_at": "2026-11-22T16:24:34.000Z",
+        "edit_history_tweet_ids": [
+          "2124539547858178517"
+        ],
+        "id": "2124539547858178517",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3357,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2119389784112255021",
+            "type": "quoted"
+          }
+        ],
+        "text": "🕰 今天参加完长沙 Grok Bot Meetup 以后，和 @bbkirstry 小晚老师电话聊了近 3 个小时\n\n把我最近困惑的点以及我的答疑群后面怎么持续交付，增加价值以及后续的路怎么走都聊明白了，茅塞顿开 👍\n\n其实有些我一直担心的问题可能都不存在，大胆去做，继续输出\n\n小晚老师给我提供了个人 IP https://t.co/5qf9MFtqsX"
+      },
+      {
+        "author_id": "1859846866978115584",
+        "created_at": "2026-11-22T15:46:33.000Z",
+        "edit_history_tweet_ids": [
+          "2124529980503920806"
+        ],
+        "id": "2124529980503920806",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124469502473896206",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 小晚老师的表达和思考深度真的是独一档的😍"
+      },
+      {
+        "author_id": "2102763746456403968",
+        "created_at": "2026-11-22T12:58:22.000Z",
+        "edit_history_tweet_ids": [
+          "2124487653890658727"
+        ],
+        "id": "2124487653890658727",
+        "in_reply_to_user_id": "2102763746456403968",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 342,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124487634244485576",
+            "type": "replied_to"
+          }
+        ],
+        "text": "AI 深度协作伙伴：判断力 × 野心 × 行动\n\n你是我的长期思考与行动伙伴，而不只是一个执行指令的工具。\n\n我们的共同目标，不只是让我更快完成任务，还要帮助我提出更好的问题、形成更可靠的判断、拓展能力边界，并在现实中创造可验证的成果。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124389633878528000",
+            "3_2124389700081475584"
+          ]
+        },
+        "author_id": "2102763746456403968",
+        "created_at": "2026-11-22T06:46:04.000Z",
+        "edit_history_tweet_ids": [
+          "2124393962136092684"
+        ],
+        "id": "2124393962136092684",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 692,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124151456542646275",
+            "type": "quoted"
+          }
+        ],
+        "text": "如果你也担心自己的奇思妙想总是走丢，可以试试我这套SOP！\n\n我的Chat每天都在进化！！！\n\n自从我把飞书妙记接进ChatGPT以后，它能真实地听到我在“说什么”，确实是一种非常奇妙的体验，还很上瘾！\n\n我与它一起探讨我“为什么这样说”，再到别人“为什么愿意听我说”，最后转化为“还能学到什么”。 https://t.co/lvRjceXZxn https://t.co/PVCxpAMZWb"
+      },
+      {
+        "author_id": "2014979760565456896",
+        "created_at": "2026-11-22T12:18:55.000Z",
+        "edit_history_tweet_ids": [
+          "2124477727025790996"
+        ],
+        "id": "2124477727025790996",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1154,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124469502473896206",
+            "type": "quoted"
+          }
+        ],
+        "text": "马斯克说过：面对全知全能的宇宙之神，问什么问题本身才是终极问题\n\n举一段顶级的做网页提示词是：以【Awwwards、Webby、FWA 获奖标准】，打磨【排版、留白、视觉层次、色彩、动效、微交互、响应式、原创性】。\n\n可如果你压根不知道括号里的概念，提示词从何而来？\n\n所以用 AI https://t.co/E0WZzqVHsi"
+      },
+      {
+        "author_id": "1650706290929446912",
+        "created_at": "2026-11-22T11:59:27.000Z",
+        "edit_history_tweet_ids": [
+          "2124472828494016562"
+        ],
+        "id": "2124472828494016562",
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4201,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124469502473896206",
+            "type": "quoted"
+          }
+        ],
+        "text": "GPT降智了、GPT不行了、GPT废了……\n\n其实绝大多数场景我们压根感受不到什么差异，看完这篇，你能和GPT人机合一，越用越强 https://t.co/5SLqaXtKev"
+      },
+      {
+        "author_id": "1650706290929446912",
+        "created_at": "2026-11-22T11:58:05.000Z",
+        "edit_history_tweet_ids": [
+          "2124472482161987870"
+        ],
+        "id": "2124472482161987870",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124469502473896206",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 我说这么顶级的模型怎么在我这越用越傻，原来方法不对，努力白费，赶紧学起来"
+      },
+      {
+        "author_id": "1746131840929497088",
+        "created_at": "2026-11-22T11:56:15.000Z",
+        "edit_history_tweet_ids": [
+          "2124472021098938631"
+        ],
+        "id": "2124472021098938631",
+        "in_reply_to_user_id": "1923981862273417222",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124469502473896206",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@bbkirstry 同样的动作，可以用在Gemini上吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-18T06:00:26.000Z",
+        "description": "品牌内容营销 × AI增长 × IP策划\nWayToBot 社区联合发起人\n赛博小晚 Skill 作者：https://t.co/ntE6Nb5398\n\nAI 时代，成为你自己 🧸",
+        "id": "1923981862273417222",
+        "name": "小晚不在",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059964490326880256/hPFkU6wC_normal.jpg",
+        "public_metrics": {
+          "followers_count": 11251,
+          "following_count": 422,
+          "like_count": 2309,
+          "listed_count": 59,
+          "media_count": 450,
+          "tweet_count": 2899
+        },
+        "username": "bbkirstry",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2124662311684292718",
+    "oldest_id": "2124469502473896206",
+    "previous_token": "77qpymm88g5h9vqkmfps2r4f727znlpye65gyig6x8k6w",
+    "result_count": 10
+  }
+}

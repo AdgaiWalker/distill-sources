@@ -5994,3 +5994,117 @@ https://t.co/WV2uMMeL0w
 - 是否有全文：是（post.text）
 
 @hezhiyan7 囤着卖哈哈
+
+## 2026-11-22 22:29 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/gengdaJ/status/2124510610759286983
+- 是否有全文：是（post.text）
+
+@Yiwei_growth @gkxspace 卧槽，明天把他焚决扒光@gkxspace
+
+## 2026-11-22 22:30 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/gengdaJ/status/2124510735980228634
+- 是否有全文：是（post.text）
+
+@aobatu 文章中的地区检查一下
+
+## 2026-11-23 11:59 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/gengdaJ/status/2124714463547044178
+- 是否有全文：是（post.text）
+
+@Yiwei_growth @X 在哪呢
+
+## 2026-11-23 16:58 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/gengdaJ/status/2124789660325212653
+- 是否有全文：是（post.text）
+
+@MaocongW3383 有一点，但问题不大。主要是 Kyc 和你的卡，和环境配置
+
+## 2026-11-23 17:09 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/gengdaJ/status/2124792467178618991
+- 是否有全文：是（post.text）
+
+@lxfater 如果以商业化导向，可就太行了
+
+## 2026-11-23 23:13 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/gengdaJ/status/2124884035994517879
+- 是否有全文：是（post.text）
+
+@Yiwei_growth @X 我在前海 hh
+
+## 2026-11-24 02:48 北京时间 · 长帖 · 赞 23
+- 链接：https://x.com/gengdaJ/status/2124938042771394710
+- 是否有全文：是（note_tweet）
+
+WTF！每天 100 万自然流播放、20 万美元 ARR🤯 X 每天的干货真的学不完，这篇文章讲解了一套 TikTok 和 Instagram 矩阵自动化运营放大打法。
+
+不仅把 Instagram 的 Trial Reels 机制玩明白了，整套工作流也非常清晰高效：
+1、素材准备：集中 2-3 天录制一个月的视频素材，多机位和 B-roll 都拍齐。
+2、Claude Code 批量剪辑：用 Fable 5.2 给每条视频换不同 hook 和时长，自动切成 6 个测试版本（外加 1 个更短的 TikTok 版）。
+3、Edits 配乐：Instagram 官方配套剪辑 App，多次发布相似视频更少被风控。
+4、多平台自动分发：Claude 连接 Postiz，把一整月 200+ 视频自动排进 Trial Reels 和 TikTok（还能定时自动发首评）。
+5、挑出优胜视频：每隔两天从 Trial Reels 找出播放最高的版本，把 hook 记下来，并把这条视频重新上传到主账号 Reels。
+
+引用：https://x.com/i/status/2124850775109054960
+
+## 2026-11-24 17:07 北京时间 · 长帖 · 赞 14
+- 链接：https://x.com/gengdaJ/status/2125154203635175749
+- 是否有全文：是（note_tweet）
+
+大家有没有感觉最近国产模型安静得有点诡异了…接下来可能会有国模更新的大浪潮来袭！
+
+GLM5.4 只是开胃小菜，Qoder 和 Opencode 刚刚同时上线了一个匿名模型HungerG，吐 token 速度极快，在海外已经爆了，我猜是 Qwen4 Flash…阿里家在发力…
+
+Qoder 免费体验七天（Opencode Go 会员免费一周），快的飞起…
+
+## 2026-11-24 18:44 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/gengdaJ/status/2125178659778773029
+- 是否有全文：是（post.text）
+
+@Astronaut_1216 准备做个大的哈哈
+
+## 2026-11-24 18:44 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/gengdaJ/status/2125178752783225045
+- 是否有全文：是（post.text）
+
+@Astronaut_1216 已经发现此模型，火速测试中
+
+## 2026-11-25 09:00 北京时间 · 长帖 · 赞 30
+- 链接：https://x.com/gengdaJ/status/2125394036269969813
+- 是否有全文：是（note_tweet）
+
+让你的Agent变得更聪明其实很简单，只需要装上Memmy，你电脑上所有文件、操作记录、Agent 聊天记录就能长期复利！
+
+Memmy是一个开源的个人记忆中枢+ AI Agent，我已经用了好久了，记忆这块一骑绝尘，可以说AI时代必装工具之一：
+
+⓵记忆跟着人走，打通所有Agent，换一个Agent所有记忆无缝衔接
+一般人换一个Agent都要复制一份背景和记忆，但是Memmy打通了Codex、Claude Code、Cursor和DSH这些主流Agent，每一个Agent的记忆都会自动总结沉淀到Memmy，统一管理，就不会再出现换个Agent就失忆的情况～
+
+⓶Computer History保存电脑操作记录
+有点类似Codex的Computer History，但统一集成在Memmy里面，更加方便！就比如我现在写这篇推文的所有操作，全部被记录存档在Memmy里面了。
+
+⓷支持接入自定义模型，还能打通微信聊天记录
+Memmy 如果是收集隐私数据，我确实不敢用…但是它支持接入自己的 api，我就放心多了，直接接入一手 Deepseek 的 api，爽用！
+
+而且还支持打通微信，可以读取微信聊天记录，原理是拿密钥解析本地数据库，相对安全，和我的 skill 是一个原理。
+
+上述所有的聊天记录和电脑操作历史，还会被沉淀为用户偏好、经验和可复用技能，在 App 内部一目了然，非常方便管理。
+
+最棒的还是 Memmy 还能主动识别电脑上正在执行哪些任务！对于我这种 ADHD 非常友好，多线并行工作，也不会忘掉之前在干啥。
+
+## 2026-11-25 09:07 北京时间 · 回复 · 赞 1
+- 链接：https://x.com/gengdaJ/status/2125395998621176092
+- 是否有全文：是（post.text）
+
+Memmy 传送门，注册即送云端Token～：https://t.co/F99Oh3dktG
+
+## 2026-11-25 09:12 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/gengdaJ/status/2125397283038777350
+- 是否有全文：是（post.text）
+
+https://t.co/khTPMe3wFB Memmy开源地址
+
+## 2026-11-25 09:30 北京时间 · 回复 · 赞 0
+- 链接：https://x.com/gengdaJ/status/2125401690593788238
+- 是否有全文：是（post.text）
+
+顺带说一下，我的记忆系统和Memmy我都在用，两者是不冲突的，一个是每次对话结束总结聊天，一个是全局的记忆，前者偏精细化，后者偏更长期
